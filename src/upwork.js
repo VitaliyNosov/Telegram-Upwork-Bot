@@ -73,6 +73,11 @@ async function searchClientInfo(accessToken, keyword) {
   return edges.map((e) => e.node);
 }
 
+function normalizeId(id) {
+  if (!id) return "";
+  return String(id).replace(/^~[0-9]+/, "").replace(/^~/, "");
+}
+
 // Объединяет данные из обеих веток по id вакансии
 async function fetchJobsForKeyword(accessToken, keyword) {
   const [publicJobs, clientInfoJobs] = await Promise.all([
@@ -80,11 +85,13 @@ async function fetchJobsForKeyword(accessToken, keyword) {
     searchClientInfo(accessToken, keyword),
   ]);
 
-  const clientInfoById = new Map(clientInfoJobs.map((j) => [j.id, j.client]));
+  const clientInfoById = new Map(
+    clientInfoJobs.map((j) => [normalizeId(j.id), j.client])
+  );
 
   return publicJobs.map((job) => ({
     ...job,
-    client: clientInfoById.get(job.id) || null,
+    client: clientInfoById.get(normalizeId(job.id)) || null,
     matchedKeyword: keyword,
   }));
 }
