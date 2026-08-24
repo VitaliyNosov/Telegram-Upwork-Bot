@@ -1,0 +1,13 @@
+{
+  "name": "upwork-telegram-bot",
+  "version": "1.0.0",
+  "description": "Personal Upwork job alerts to Telegram via GitHub Actions polling",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "login": "node src/login.js",
+    "poll": "node src/index.js"
+  }
+}
