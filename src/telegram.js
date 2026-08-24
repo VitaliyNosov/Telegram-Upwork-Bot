@@ -43,7 +43,8 @@ function formatJobMessage(job, score) {
   const postedJobs = job.client?.totalPostedJobs ?? "N/A";
 
   const description = (job.description || "").slice(0, 250).trim();
-  const jobUrl = `https://www.upwork.com/jobs/${job.id}`;
+  const jobLinkId = job.ciphertext || (String(job.id).startsWith("~") ? job.id : `~02${job.id}`);
+  const jobUrl = `https://www.upwork.com/jobs/${jobLinkId}`;
 
   return (
     `🔔 <b>[Score: ${score}]</b> ${escapeHtml(job.title)}\n` +

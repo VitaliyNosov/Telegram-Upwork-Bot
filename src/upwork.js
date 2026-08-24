@@ -32,6 +32,7 @@ async function searchPublicJobs(accessToken, keyword) {
       publicMarketplaceJobPostingsSearch(marketPlaceJobFilter: { searchExpression_eq: $q }) {
         jobs {
           id
+          ciphertext
           title
           description
           publishedDateTime
