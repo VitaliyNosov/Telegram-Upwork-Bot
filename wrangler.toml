@@ -1,0 +1,6 @@
+name = "upwork-telegram-bot"
+main = "cloudflare-worker/index.js"
+compatibility_date = "2026-08-24"
+
+[triggers]
+crons = ["*/2 * * * *"]
