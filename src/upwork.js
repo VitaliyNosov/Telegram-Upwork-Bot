@@ -26,10 +26,11 @@ async function graphqlRequest(accessToken, query, variables) {
 }
 
 // Публичная ветка: бюджет (hourly), дата публикации, текст вакансии
-async function searchPublicJobs(accessToken, keyword) {
+async function searchPublicJobs(accessToken, keyword, filters) {
+  const minFixedBudget = filters ? filters.MIN_FIXED_BUDGET : 500;
   const query = `
-    query SearchPublicJobs($q: String!) {
-      publicMarketplaceJobPostingsSearch(marketPlaceJobFilter: { searchExpression_eq: $q }) {
+    query SearchPublicJobs($q: String!, $minFixed: Int!) {
+      hourlyJobs: publicMarketplaceJobPostingsSearch(marketPlaceJobFilter: { searchExpression_eq: $q, jobType_eq: HOURLY }) {
         jobs {
           id
           ciphertext
@@ -40,10 +41,21 @@ async function searchPublicJobs(accessToken, keyword) {
           hourlyBudgetMax
         }
       }
+      fixedJobs: publicMarketplaceJobPostingsSearch(marketPlaceJobFilter: { searchExpression_eq: $q, jobType_eq: FIXED, budgetRange_eq: { rangeStart: $minFixed } }) {
+        jobs {
+          id
+          ciphertext
+          title
+          description
+          publishedDateTime
+        }
+      }
     }
   `;
-  const data = await graphqlRequest(accessToken, query, { q: keyword });
-  return data.publicMarketplaceJobPostingsSearch?.jobs || [];
+  const data = await graphqlRequest(accessToken, query, { q: keyword, minFixed: minFixedBudget });
+  const hourly = data.hourlyJobs?.jobs || [];
+  const fixed = data.fixedJobs?.jobs || [];
+  return [...hourly, ...fixed];
 }
 
 // Закрытая ветка: данные о клиенте (страна, рейтинг, verification, posted jobs)
@@ -79,9 +91,9 @@ function normalizeId(id) {
 }
 
 // Объединяет данные из обеих веток по id вакансии
-async function fetchJobsForKeyword(accessToken, keyword) {
+async function fetchJobsForKeyword(accessToken, keyword, filters) {
   const [publicJobs, clientInfoJobs] = await Promise.all([
-    searchPublicJobs(accessToken, keyword),
+    searchPublicJobs(accessToken, keyword, filters),
     searchClientInfo(accessToken, keyword),
   ]);
 
