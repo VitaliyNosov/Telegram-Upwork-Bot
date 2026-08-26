@@ -1,4 +1,5 @@
 // Отправка сообщений в Telegram
+const config = require("./config");
 
 async function sendTelegramMessage(config, text) {
   const url = `https://api.telegram.org/bot${config.TELEGRAM_BOT_TOKEN}/sendMessage`;
@@ -35,7 +36,7 @@ function formatJobMessage(job, score) {
   const isHourly = job.hourlyBudgetMin > 0 || job.hourlyBudgetMax > 0;
   const budgetLine = isHourly
     ? `💰 Hourly: $${job.hourlyBudgetMin}-$${job.hourlyBudgetMax}/hr`
-    : `💰 Budget: not available via API (fixed-price)`;
+    : `💰 Budget: >= $${config.FILTERS.MIN_FIXED_BUDGET} (fixed-price)`;
 
   const country = job.client?.location?.country || "Unknown";
   const rating = job.client?.totalFeedback ? job.client.totalFeedback.toFixed(2) : "N/A";

@@ -21,7 +21,7 @@ async function main() {
 
     let jobs;
     try {
-      jobs = await fetchJobsForKeyword(accessToken, keyword);
+      jobs = await fetchJobsForKeyword(accessToken, keyword, config.FILTERS);
     } catch (err) {
       console.error(`Ошибка при запросе по ключевому слову "${keyword}":`, err.message);
       continue; // не роняем весь скрипт из-за одного ключевого слова

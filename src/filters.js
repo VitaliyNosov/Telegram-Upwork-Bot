@@ -9,7 +9,12 @@ function countryAllowed(country, allowedList) {
 
 function isFresh(publishedDateTime, maxAgeMinutes) {
   if (!publishedDateTime) return true; // если поле пустое — не отбрасываем из-за этого
-  const publishedAt = new Date(publishedDateTime).getTime();
+  let dateStr = String(publishedDateTime);
+  // Если API вернул дату без указания таймзоны, принудительно парсим её как UTC (Z)
+  if (!dateStr.endsWith("Z") && !dateStr.includes("+") && !/-\d{2}:\d{2}$/.test(dateStr)) {
+    dateStr += "Z";
+  }
+  const publishedAt = new Date(dateStr).getTime();
   const ageMinutes = (Date.now() - publishedAt) / 1000 / 60;
   return ageMinutes <= maxAgeMinutes;
 }
@@ -26,10 +31,10 @@ function passesFilters(job, filters) {
     return { pass: false, reason: "hourly_rate_too_low" };
   }
 
-  // Дальше — фильтры по клиенту. Если данных о клиенте нет вообще — пропускаем вакансию
-  // (лучше показать без уверенности в клиенте, чем потерять её молча — можно поменять на false).
+  // Дальше — фильтры по клиенту. Если данных о клиенте нет вообще — отклоняем вакансию,
+  // чтобы гарантировать соответствие фильтрам по стране, рейтингу и верификации.
   if (!job.client) {
-    return { pass: true, reason: "no_client_data" };
+    return { pass: false, reason: "no_client_data" };
   }
 
   const country = job.client.location?.country;
