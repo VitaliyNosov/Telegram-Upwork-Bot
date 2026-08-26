@@ -25,7 +25,7 @@ async function graphqlRequest(accessToken, query, variables) {
   return json.data;
 }
 
-// Публичная ветка: бюджет (hourly), дата публикации, текст вакансии
+// Публичная ветка: бюджет (hourly), дата публикации, текст вакансии, теги
 async function searchPublicJobs(accessToken, keyword, filters) {
   const minFixedBudget = filters ? filters.MIN_FIXED_BUDGET : 500;
   const query = `
@@ -39,6 +39,9 @@ async function searchPublicJobs(accessToken, keyword, filters) {
           publishedDateTime
           hourlyBudgetMin
           hourlyBudgetMax
+          skills {
+            name
+          }
         }
       }
       fixedJobs: publicMarketplaceJobPostingsSearch(marketPlaceJobFilter: { searchExpression_eq: $q, jobType_eq: FIXED, budgetRange_eq: { rangeStart: $minFixed } }) {
@@ -48,6 +51,9 @@ async function searchPublicJobs(accessToken, keyword, filters) {
           title
           description
           publishedDateTime
+          skills {
+            name
+          }
         }
       }
     }
@@ -58,7 +64,7 @@ async function searchPublicJobs(accessToken, keyword, filters) {
   return [...hourly, ...fixed];
 }
 
-// Закрытая ветка: данные о клиенте (страна, рейтинг, verification, posted jobs)
+// Закрытая ветка: данные о клиенте (страна, рейтинг, verification, posted jobs, средняя ставка)
 async function searchClientInfo(accessToken, keyword) {
   const query = `
     query SearchJobsClientInfo($q: String!) {
@@ -71,6 +77,7 @@ async function searchClientInfo(accessToken, keyword) {
               totalReviews
               totalFeedback
               verificationStatus
+              avgHourlyRatePaid
               location {
                 country
               }

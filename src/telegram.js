@@ -42,6 +42,14 @@ function formatJobMessage(job, score) {
   const rating = job.client?.totalFeedback ? job.client.totalFeedback.toFixed(2) : "N/A";
   const verified = job.client?.verificationStatus === "VERIFIED" ? "✅ Verified" : "⚠️ Unverified";
   const postedJobs = job.client?.totalPostedJobs ?? "N/A";
+  
+  const avgHourlyRate = job.client?.avgHourlyRatePaid
+    ? `$${job.client.avgHourlyRatePaid.toFixed(2)}/hr`
+    : "N/A";
+
+  const tagsLine = job.skills && job.skills.length > 0
+    ? `🏷️ <b>Tags:</b> ${escapeHtml(job.skills.map(s => s.name).slice(0, 8).join(", "))}\n`
+    : "";
 
   const description = (job.description || "").slice(0, 250).trim();
   const jobLinkId = job.ciphertext || (String(job.id).startsWith("~") ? job.id : `~02${job.id}`);
@@ -50,7 +58,9 @@ function formatJobMessage(job, score) {
   return (
     `🔔 <b>[Score: ${score}]</b> ${escapeHtml(job.title)}\n` +
     `${budgetLine}\n` +
-    `🌍 ${escapeHtml(country)} | ⭐ ${rating} | ${verified} | 📋 ${postedJobs} posted jobs\n\n` +
+    `💵 Client Avg Paid: <b>${avgHourlyRate}</b>\n` +
+    `🌍 ${escapeHtml(country)} | ⭐ ${rating} | ${verified} | 📋 ${postedJobs} jobs\n` +
+    `${tagsLine}\n` +
     `${escapeHtml(description)}${description.length >= 250 ? "..." : ""}\n\n` +
     `🔗 ${jobUrl}`
   );

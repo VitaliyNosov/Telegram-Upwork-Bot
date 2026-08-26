@@ -20,8 +20,32 @@ module.exports = {
     // Почасовая ставка — фильтр применяется только к hourly-вакансиям.
     MIN_HOURLY_RATE: 25,
 
+    // Минимальная средняя ставка, выплаченная клиентом за всё время
+    MIN_CLIENT_AVG_HOURLY_RATE: 15,
+
     // Минимальный бюджет для fixed-price проектов
     MIN_FIXED_BUDGET: 500,
+
+    // Разрешенные теги разработчика (хотя бы один тег вакансии должен совпадать)
+    ALLOWED_DEVELOPER_TAGS: [
+      "WordPress", "PHP", "WooCommerce", "JavaScript",
+      "WordPress Development", "WordPress Theme", "WordPress Plugin",
+      "jQuery", "React", "Next.js", "CMS Development",
+      "Gutenberg Editor", "Page Speed Optimization", "Webflow", "Shopify", "Laravel"
+    ],
+
+    // Нежелательные слова в заголовке вакансии (чистый дизайн)
+    EXCLUDE_TITLE_KEYWORDS: [
+      "design", "designer", "graphic", "ui", "ux", "figma", "video", "branding", "illustrator",
+      "дизайн", "дизайнер", "верстка", "верстальщик"
+    ],
+
+    // Ключевые слова разработки, отменяющие исключение по дизайну в заголовке
+    STRONG_DEVELOPER_KEYWORDS: [
+      "developer", "development", "coder", "programmer", "programming", "plugin",
+      "backend", "frontend", "fullstack", "php", "javascript", "react", "api",
+      "разработчик", "разработка", "программист"
+    ],
 
     // Разрешённые страны клиента (см. ТЗ)
     ALLOWED_COUNTRIES: [
