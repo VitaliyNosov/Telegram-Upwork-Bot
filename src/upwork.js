@@ -68,7 +68,7 @@ async function searchPublicJobs(accessToken, keyword, filters) {
 async function searchClientInfo(accessToken, keyword) {
   const query = `
     query SearchJobsClientInfo($q: String!) {
-      marketplaceJobPostings(marketPlaceJobFilter: { searchExpression_eq: $q }) {
+      marketplaceJobPostings(marketPlaceJobFilter: { searchExpression_eq: $q, pagination_eq: { first: 50, after: "0" } }) {
         edges {
           node {
             id
@@ -77,7 +77,6 @@ async function searchClientInfo(accessToken, keyword) {
               totalReviews
               totalFeedback
               verificationStatus
-              avgHourlyRatePaid
               location {
                 country
               }
