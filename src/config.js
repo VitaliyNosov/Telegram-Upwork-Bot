@@ -1,12 +1,12 @@
 // Конфиг бота. Секреты хранятся здесь же (осознанное решение — репозиторий приватный).
 
 module.exports = {
-  // ===== СЕКРЕТЫ — впиши свои значения =====
-  UPWORK_CLIENT_ID: "073cbb48b89e50b291c2670438d2e9bf",
-  UPWORK_CLIENT_SECRET: "f9c71e7cac15c1f2",
+  // ===== СЕКРЕТЫ — считываются из переменных окружения =====
+  UPWORK_CLIENT_ID: process.env.UPWORK_CLIENT_ID,
+  UPWORK_CLIENT_SECRET: process.env.UPWORK_CLIENT_SECRET,
 
-  TELEGRAM_BOT_TOKEN: "8669311927:AAGS-iQcw6FMtNHVwM5-OT1euPL60Bj9oN4",
-  TELEGRAM_CHAT_ID: "422713968",
+  TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN,
+  TELEGRAM_CHAT_ID: process.env.TELEGRAM_CHAT_ID,
 
   // ===== КЛЮЧЕВЫЕ СЛОВА ПОИСКА =====
   KEYWORDS: [

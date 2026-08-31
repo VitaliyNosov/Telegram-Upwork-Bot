@@ -27,11 +27,29 @@ jobs:
 
       - name: Run job poller
         run: node src/index.js
+        env:
+          UPWORK_CLIENT_ID: ${{ secrets.UPWORK_CLIENT_ID }}
+          UPWORK_CLIENT_SECRET: ${{ secrets.UPWORK_CLIENT_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          UPWORK_REFRESH_TOKEN: ${{ secrets.UPWORK_REFRESH_TOKEN }}
+
+      - name: Update refresh token secret
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_PAT }}
+        run: |
+          if [ -f data/new_refresh_token.txt ]; then
+            echo "Updating UPWORK_REFRESH_TOKEN secret..."
+            gh secret set UPWORK_REFRESH_TOKEN < data/new_refresh_token.txt
+            rm data/new_refresh_token.txt
+          else
+            echo "No new refresh token found."
+          fi
 
       - name: Commit updated state files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/seen_jobs.json data/token.json
+          git add data/seen_jobs.json
           git diff --staged --quiet || git commit -m "chore: update bot state [skip ci]"
           git push
