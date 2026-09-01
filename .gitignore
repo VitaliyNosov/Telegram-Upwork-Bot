@@ -4,3 +4,10 @@ node_modules/
 data/token.json
 data/new_refresh_token.txt
 Telegram-bot.txt
+
+# Project documentation & reference notes
+doks-project/
+cloudflare-cron-trigger-doks/
+cloudflare-worker-github-actions-doks/
+*doks*/
+

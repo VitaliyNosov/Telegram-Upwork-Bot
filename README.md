@@ -1,93 +1,203 @@
-# Telegram Upwork Job Bot
+# Telegram Upwork Bot with AI Cover Letter Generator
 
 ![Telegram Upwork Bot Banner](img-git/github-baner-telegram-upwork-bot.png)
 
-A powerful, lightweight, and dependency-free Node.js Telegram bot designed to fetch, filter, and deliver new Upwork jobs matching your search criteria directly to your Telegram chat, group, or channel in real-time. Never miss a job opportunity again!
+A lightweight, serverless Node.js bot that monitors Upwork in real-time for high-quality job postings, generates personalized, ready-to-send proposal drafts (Cover Letters) via **Google Gemini AI**, and delivers rich alerts to your Telegram chat with **1-tap mobile copying**.
 
-## 🚀 Features
+---
 
-- **Real-time Monitoring:** Polls Upwork GraphQL API for newly posted jobs.
-- **Customizable Search Filters:** Filter by keywords, budget range, job type (hourly or fixed), client payment verification status, client rating, and minimum posted jobs.
-- **Detailed Telegram Notifications:** Delivers rich HTML messages containing job title, description snippet, budget/hourly rate, client country, rating, verification status, and a direct link to the job post.
-- **Priority Scoring:** Automatically calculates a value score for each job based on keywords, hourly rates, and client feedback.
-- **Duplicate Prevention:** Uses a local JSON database (`data/seen_jobs.json`) to guarantee no duplicate alerts.
+## ⚡ Architecture & Workflow
 
-## 🛠️ Built With
+The bot operates in a semi-automated mode: it takes care of all the monitoring, filtering, and proposal drafting, while you retain full control over reviewing and submitting applications directly on Upwork.
 
-* [Node.js (v20+)](https://nodejs.org/) - Built using native APIs, requiring **zero** external `npm` dependencies.
-* [Upwork GraphQL API v3](https://developers.upwork.com/) - High-performance queries with precise filters.
-* [Telegram Bot API](https://core.telegram.org/bots/api) - Fast and secure HTML-styled notifications.
+```mermaid
+sequenceDiagram
+    participant CF as Cloudflare Worker (Cron)
+    participant GHA as GitHub Actions Runner
+    participant Upwork as Upwork GraphQL API
+    participant Gemini as Google Gemini AI (3.5 Flash)
+    participant TG as Telegram Bot
+    participant User as Freelancer
+
+    CF->>GHA: Trigger workflow dispatch (every 2-5 min)
+    GHA->>Upwork: Search public & client marketplace jobs
+    Upwork-->>GHA: Return new job listings
+    Note over GHA: Apply strict filters & calculate relevance score
+    alt Job passes filters
+        GHA->>Gemini: Prompt: Job Description + resume_profile.txt
+        Gemini-->>GHA: Tailored Cover Letter draft
+        GHA->>TG: Send HTML notification with <code>Cover Letter</code>
+        TG->>User: Push alert on phone/desktop
+        Note over User: Review, tap to copy letter, submit on Upwork
+    end
+    GHA->>GHA: Commit seen_jobs.json & rotate refresh token
+```
+
+---
+
+## 🚀 Key Features
+
+* 🤖 **AI-Powered Cover Letters (Google Gemini 3.5 Flash):**
+  * Automatically analyzes job requirements and matches them with your actual experience from [`data/resume_profile.txt`](data/resume_profile.txt).
+  * Detects client secret verification words / questions (e.g. *"start your proposal with BLUEBERRY"*) and addresses them immediately.
+  * Formats concise (90–140 words), conversational proposals with strong calls-to-action and relevant portfolio links.
+* 📱 **One-Tap Mobile Copying:** Cover letters are formatted in Telegram `<code>` blocks, allowing you to copy the entire proposal into your clipboard with a single tap on your smartphone.
+* 🎯 **Strict Quality Filters:**
+  * **Tier-1 Countries Only:** United States, United Kingdom, Canada, Australia, Germany, Netherlands, Switzerland, etc.
+  * **Verified Clients:** Payment method verified, minimum 4.5+ star rating, and proven hire history.
+  * **Budget Thresholds:** Configurable minimums (e.g., $25+/hr hourly, $200+ fixed-price).
+  * **Smart Exclusions:** Automatically skips design-only or low-relevance jobs.
+* ⚡ **100% Serverless & Free:** Powered by Cloudflare Workers (cron trigger) and GitHub Actions — zero server costs and no 24/7 VPS required.
+* 🔄 **Automated OAuth Token Rotation:** Automatically refreshes the Upwork OAuth2 token and syncs the new refresh token back into GitHub Repository Secrets via GitHub CLI.
+* 📦 **Zero npm Dependencies:** Built entirely with native Node.js 20+ APIs (`fetch`, `crypto`, `fs`).
+
+---
+
+## 🛠️ Tech Stack
+
+* **Runtime:** [Node.js (v20+)](https://nodejs.org/) (Native ES / CommonJS without external libraries)
+* **AI Engine:** [Google Gemini API (`gemini-3.5-flash`)](https://aistudio.google.com/)
+* **APIs:** [Upwork GraphQL API v3](https://developers.upwork.com/) & [Telegram Bot API](https://core.telegram.org/bots/api)
+* **Automation:** [GitHub Actions](https://github.com/features/actions) + [Cloudflare Workers](https://workers.cloudflare.com/)
+
+---
+
+## 📂 Project Structure
+
+```text
+├── .github/workflows/
+│   └── poll.yml               # GitHub Actions workflow for polling Upwork
+├── cloudflare-worker/
+│   └── index.js               # Cloudflare Worker for cron dispatch
+├── data/
+│   ├── resume_profile.txt     # Your developer bio, skills, cases, and portfolio
+│   └── seen_jobs.json         # State file storing processed job IDs
+├── scripts/
+│   └── test-gemini.js         # Isolated test script for AI cover letter generation
+├── src/
+│   ├── auth.js                # Upwork OAuth2 authentication & token refresh
+│   ├── config.js              # Bot configuration, filters, and weights
+│   ├── filters.js             # Multi-factor job filtering logic
+│   ├── gemini.js              # Google Gemini API integration module
+│   ├── index.js               # Main polling engine
+│   ├── login.js               # One-time OAuth login script
+│   ├── scoring.js             # Relevance scoring algorithm
+│   ├── seenJobs.js            # Deduplication persistence
+│   ├── telegram.js            # Telegram message builder & sender
+│   └── upwork.js              # Upwork GraphQL API queries
+├── package.json
+└── wrangler.toml              # Cloudflare Worker configuration
+```
+
+---
 
 ## 🏁 Getting Started
 
-Follow these steps to set up and run your own Telegram Upwork Bot.
+### 1. Prerequisites
 
-### Prerequisites
+* **Node.js 20+** installed locally.
+* **Upwork API Keys:** `Client ID` & `Client Secret` from the [Upwork Developer Center](https://www.upwork.com/developer/).
+* **Telegram Bot:** Create a bot via [@BotFather](https://t.me/BotFather) and obtain your Bot Token & Chat ID (via [@userinfobot](https://t.me/userinfobot)).
+* **Google Gemini API Key:** Free key from [Google AI Studio](https://aistudio.google.com/).
+* **GitHub Personal Access Token (PAT):** Token with `repo` scope to allow updating secrets in Actions.
 
-1. **Node.js:** Make sure Node.js v20.0.0 or higher is installed.
-2. **Upwork API Key:** Get your `Client ID` and `Client Secret` from the Upwork Developer Portal.
-3. **Telegram Bot Token:** Create a bot via [@BotFather](https://t.me/BotFather) and copy the HTTP API Token.
-4. **Telegram Chat ID:** Get the target chat ID (use [@userinfobot](https://t.me/userinfobot) or open `https://api.telegram.org/bot<TOKEN>/getUpdates` after messaging your bot).
+---
 
-### Installation & Setup
+### 2. Developer Profile Setup
 
-1. Navigate to the project directory:
-   ```bash
-   cd Telegram-Upwork-Bot
-   ```
+Edit [`data/resume_profile.txt`](data/resume_profile.txt) with your actual skills, specialties, and portfolio links. The Gemini AI module reads this file to tailor proposals specifically to your background:
 
-2. Open `src/config.js` and configure your credentials:
-   ```javascript
-   UPWORK_CLIENT_ID: "your_upwork_client_id",
-   UPWORK_CLIENT_SECRET: "your_upwork_client_secret",
-   TELEGRAM_BOT_TOKEN: "your_telegram_bot_token",
-   TELEGRAM_CHAT_ID: "your_telegram_chat_id",
-   ```
-   *Note: You can also adjust your search keywords, filter rules (e.g. min hourly rate, allowed countries, rating thresholds), and scoring weights in the same file.*
+```text
+WORDPRESS & WOOCOMMERCE DEVELOPER
+==================================
+ABOUT: Professional WordPress engineer specializing in custom plugins, checkout fixes, and speed optimization.
+CORE SKILLS: PHP, WooCommerce, Custom Plugins, Gutenberg, Core Web Vitals, Stripe API.
+PORTFOLIO:
+- https://example1.com (Speed optimization from 30 to 85)
+- https://example2.com (Custom booking & payment integration)
+```
 
-### 🔑 Step 1: One-Time OAuth Authentication
+---
 
-Upwork requires manual user authorization to generate the initial token. Run the login script:
+### 3. One-Time Upwork OAuth Login
+
+Run the interactive login script locally to authenticate with Upwork:
 
 ```bash
+# Set your Upwork API credentials in terminal or .env
+$env:UPWORK_CLIENT_ID="your_client_id"
+$env:UPWORK_CLIENT_SECRET="your_client_secret"
+
 npm run login
 ```
 
-1. Copy the generated authorization URL from your terminal and open it in a browser.
-2. Log in to Upwork and click **Authorize**.
-3. You will be redirected to `https://example.com/oauth-callback?code=...` (a page error is normal).
-4. Copy the **entire URL** from your browser's address bar, paste it back into your terminal prompt, and press **Enter**.
-5. This saves the token to `data/token.json`.
+1. Open the generated authorization URL in your browser.
+2. Log in and authorize access on Upwork.
+3. Paste the redirect callback URL back into your terminal prompt to save the initial token.
 
-### 🔍 Step 2: Running the Polling Script
+---
 
-To query Upwork and send new jobs to Telegram, run:
+### 4. Testing AI Cover Letter Generation Locally
+
+To test the Gemini AI integration on a sample WordPress/WooCommerce job without polling Upwork:
+
+```bash
+$env:GEMINI_API_KEY="AIzaSyYourGeminiApiKey"
+npm run test:gemini
+```
+
+---
+
+### 5. Running the Poller Locally
+
+To perform a single manual poll of Upwork:
 
 ```bash
 npm run poll
 ```
 
-## ⏱️ Automating the Bot (Scheduler)
+---
 
-Since the polling script runs once and terminates, you should schedule it to run regularly (e.g. every 5–15 minutes).
+## ☁️ Deployment (GitHub Actions + Cloudflare Workers)
 
-### Option A: Linux Cron Job
-Open your crontab editor:
-```bash
-crontab -e
-```
-Add the following line to run the bot every 10 minutes (adjust paths accordingly):
-```text
-*/10 * * * * cd /path/to/Telegram-Upwork-Bot && /usr/bin/node src/index.js >> /path/to/Telegram-Upwork-Bot/cron.log 2>&1
-```
+### Step 1: Configure GitHub Repository Secrets
 
-### Option B: GitHub Actions
-You can run this bot completely on GitHub Actions by setting up a cron trigger in `.github/workflows/poll.yml`.
+Go to **Settings -> Secrets and variables -> Actions** in your GitHub repository and add:
 
-## 🤝 Contributing
+| Secret Name | Description |
+| :--- | :--- |
+| `UPWORK_CLIENT_ID` | Your Upwork API Client ID |
+| `UPWORK_CLIENT_SECRET` | Your Upwork API Client Secret |
+| `UPWORK_REFRESH_TOKEN` | Initial refresh token from `data/token.json` |
+| `TELEGRAM_BOT_TOKEN` | Telegram Bot token from @BotFather |
+| `TELEGRAM_CHAT_ID` | Target Telegram Chat / Channel ID |
+| `GEMINI_API_KEY` | Google Gemini API key from Google AI Studio |
+| `GH_PAT` | GitHub Personal Access Token (for secret updating) |
 
-Contributions are welcome! If you have suggestions for improvement, please open an issue or submit a pull request.
+### Step 2: Set up Cloudflare Worker Scheduler
+
+1. Deploy the worker in `cloudflare-worker/`:
+   ```bash
+   npx wrangler deploy
+   ```
+2. In the Cloudflare Dashboard, set the `GITHUB_PAT` secret variable for the worker.
+3. The worker will trigger the GitHub Actions workflow according to the cron schedule in `wrangler.toml` (e.g. every 2 minutes).
+
+---
+
+## ⚙️ Filter Customization
+
+You can fine-tune search criteria, rating thresholds, and keywords directly in [`src/config.js`](src/config.js):
+
+* `KEYWORDS`: List of search queries (e.g., `"wordpress developer"`, `"woocommerce"`).
+* `FILTERS.MIN_HOURLY_RATE`: Minimum hourly rate (default: `$25`).
+* `FILTERS.MIN_FIXED_BUDGET`: Minimum fixed-price budget (default: `$200`).
+* `FILTERS.MIN_CLIENT_RATING`: Minimum client rating (default: `4.5`).
+* `FILTERS.MIN_CLIENT_POSTED_JOBS`: Minimum number of jobs posted by the client (default: `2`).
+* `FILTERS.ALLOWED_COUNTRIES`: Whitelisted Tier-1 countries.
+
+---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
