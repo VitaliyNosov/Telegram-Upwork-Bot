@@ -12,25 +12,26 @@ The bot operates in a semi-automated mode: it takes care of all the monitoring, 
 
 ```mermaid
 sequenceDiagram
+    autonumber
     participant CF as Cloudflare Worker (Cron)
-    participant GHA as GitHub Actions Runner
+    participant GHA as GitHub Actions
     participant Upwork as Upwork GraphQL API
-    participant Gemini as Google Gemini AI (3.5 Flash)
+    participant Gemini as Google Gemini AI
     participant TG as Telegram Bot
-    participant User as Freelancer
+    actor User as Freelancer
 
-    CF->>GHA: Trigger workflow dispatch (every 2-5 min)
-    GHA->>Upwork: Search public & client marketplace jobs
+    CF->>GHA: Trigger workflow dispatch (Cron)
+    GHA->>Upwork: Search public and client jobs
     Upwork-->>GHA: Return new job listings
-    Note over GHA: Apply strict filters & calculate relevance score
+    Note over GHA: Apply filters and calculate score
     alt Job passes filters
-        GHA->>Gemini: Prompt: Job Description + resume_profile.txt
-        Gemini-->>GHA: Tailored Cover Letter draft
-        GHA->>TG: Send HTML notification with <code>Cover Letter</code>
-        TG->>User: Push alert on phone/desktop
-        Note over User: Review, tap to copy letter, submit on Upwork
+        GHA->>Gemini: Request Cover Letter (Job + Profile)
+        Gemini-->>GHA: Generated personalized proposal
+        GHA->>TG: Send alert with 1-tap copy draft
+        TG->>User: Push alert on phone and desktop
+        Note over User: Review, copy draft, apply on Upwork
     end
-    GHA->>GHA: Commit seen_jobs.json & rotate refresh token
+    GHA->>GHA: Commit seen_jobs and rotate token
 ```
 
 ---
