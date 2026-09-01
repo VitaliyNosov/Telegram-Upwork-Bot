@@ -1,0 +1,66 @@
+WORDPRESS DEVELOPER & CMS EXPERT
+==================================
+
+ABOUT
+-----
+Professional WordPress developer focused on clean code and long-term
+project support. Additional experience with other major CMS platforms:
+Shopify, Webflow, HubSpot, Headless CMS.
+
+Able to quickly diagnose and fix WordPress site issues: slow loading,
+breakage after updates, hacked sites, broken WooCommerce checkout, and
+other technical problems.
+
+CORE SERVICES / SKILLS (WORDPRESS)
+------------------------------------
+- Custom WordPress website development
+- WordPress theme development from Figma designs
+- Gutenberg block development
+- Advanced Custom Fields (ACF), custom post types and taxonomies
+- WooCommerce store setup and customization
+- WooCommerce payment and shipping issue resolution
+- WordPress plugin development and customization
+- Elementor bug fixes and site rebuilds
+- Divi bug fixes and layout repair
+- Working with WPBakery, Beaver Builder, Bricks
+- WordPress speed optimization (Core Web Vitals)
+- Slow site diagnosis and database optimization
+- Caching configuration and hosting performance troubleshooting
+- Malware removal and hacked site recovery
+- WordPress security hardening
+- Fixing errors after updates and plugin conflicts
+- Resolving fatal errors, white screens, and admin panel issues
+- API integrations (Stripe, PayPal, CRM, REST API)
+- Multilingual setup (WPML)
+- Website migration and hosting transfer
+- Backup and staging environment setup
+- Ongoing maintenance, debugging, and technical support
+- Fixing error 500 and memory issues
+- Resolving WordPress/WooCommerce email delivery issues
+- Membership and subscription systems on WordPress
+- High-traffic site performance optimization
+- Headless WordPress integration via REST API
+
+EXPERIENCE WITH OTHER CMS PLATFORMS
+--------------------------------------
+- Shopify: store setup, theme customization, checkout/app fixes
+- Webflow: site builds, CMS collections, interactions, layout repair
+- HubSpot: CMS themes, modules, custom development
+- Headless CMS: REST/GraphQL API integrations (Contentful, Strapi, etc.)
+
+TECHNICAL STACK
+-----------------
+WordPress, PHP, MySQL, JavaScript
+Gutenberg, ACF, WooCommerce, WPML
+Shopify Liquid, Webflow, HubSpot CMS, GraphQL/REST API
+Git, Docker, WP-CLI
+
+WORK EXAMPLES (PORTFOLIO)
+---------------------------
+- https://waapple.org/
+- https://about.offerup.com/
+- https://www.thelifeyoucansave.org/
+- https://www.seeintl.org/
+- https://www.cchpca.org/
+- https://www.snopud.com/
+- https://www.daysforgirls.org/

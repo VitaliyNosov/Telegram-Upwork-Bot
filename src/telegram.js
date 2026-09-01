@@ -32,7 +32,7 @@ async function sendTelegramMessage(config, text) {
   return false;
 }
 
-function formatJobMessage(job, score) {
+function formatJobMessage(job, score, coverLetter = null) {
   const isHourly = job.hourlyBudgetMin > 0 || job.hourlyBudgetMax > 0;
   const budgetLine = isHourly
     ? `💰 Hourly: $${job.hourlyBudgetMin}-$${job.hourlyBudgetMax}/hr`
@@ -48,22 +48,48 @@ function formatJobMessage(job, score) {
     : "N/A";
 
   const tagsLine = job.skills && job.skills.length > 0
-    ? `🏷️ <b>Tags:</b> ${escapeHtml(job.skills.map(s => s.name).slice(0, 8).join(", "))}\n`
+    ? `🏷️ <b>Tags:</b> ${escapeHtml(job.skills.map(s => s.name || s).slice(0, 8).join(", "))}\n`
     : "";
 
-  const description = (job.description || "").slice(0, 250).trim();
   const jobLinkId = job.ciphertext || (String(job.id).startsWith("~") ? job.id : `~02${job.id}`);
   const jobUrl = `https://www.upwork.com/jobs/${jobLinkId}`;
 
-  return (
+  let description = (job.description || "").trim();
+  if (description.length > 300) {
+    description = description.slice(0, 300) + "...";
+  }
+
+  let msg =
     `🔔 <b>[Score: ${score}]</b> ${escapeHtml(job.title)}\n` +
     `${budgetLine}\n` +
     `💵 Client Avg Paid: <b>${avgHourlyRate}</b>\n` +
     `🌍 ${escapeHtml(country)} | ⭐ ${rating} | ${verified} | 📋 ${postedJobs} jobs\n` +
     `${tagsLine}\n` +
-    `${escapeHtml(description)}${description.length >= 250 ? "..." : ""}\n\n` +
-    `🔗 ${jobUrl}`
-  );
+    `${escapeHtml(description)}\n\n`;
+
+  if (coverLetter) {
+    msg += `🤖 <b>AI Cover Letter Draft:</b>\n<code>${escapeHtml(coverLetter.trim())}</code>\n\n`;
+  }
+
+  msg += `🔗 ${jobUrl}`;
+
+  // Защита от превышения лимита Telegram (4096 символов)
+  if (msg.length > 4000) {
+    const excess = msg.length - 3950;
+    if (coverLetter && coverLetter.length > excess + 50) {
+      const trimmedLetter = coverLetter.slice(0, coverLetter.length - excess - 20) + "...";
+      msg =
+        `🔔 <b>[Score: ${score}]</b> ${escapeHtml(job.title)}\n` +
+        `${budgetLine}\n` +
+        `💵 Client Avg Paid: <b>${avgHourlyRate}</b>\n` +
+        `🌍 ${escapeHtml(country)} | ⭐ ${rating} | ${verified} | 📋 ${postedJobs} jobs\n` +
+        `${tagsLine}\n\n` +
+        `🤖 <b>AI Cover Letter Draft:</b>\n<code>${escapeHtml(trimmedLetter.trim())}</code>\n\n` +
+        `🔗 ${jobUrl}`;
+    }
+  }
+
+  return msg;
 }
 
 function escapeHtml(str) {

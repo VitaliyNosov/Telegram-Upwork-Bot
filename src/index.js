@@ -3,6 +3,7 @@ const { getAccessToken } = require("./auth");
 const { fetchJobsForKeyword } = require("./upwork");
 const { passesFilters } = require("./filters");
 const { calculateScore } = require("./scoring");
+const { generateCoverLetter } = require("./gemini");
 const { sendTelegramMessage, formatJobMessage } = require("./telegram");
 const { loadSeenJobs, saveSeenJobs } = require("./seenJobs");
 
@@ -42,7 +43,15 @@ async function main() {
       }
 
       const score = calculateScore(job, config.KEYWORDS, config.SCORING_WEIGHTS);
-      const message = formatJobMessage(job, score);
+
+      let coverLetter = null;
+      try {
+        coverLetter = await generateCoverLetter(job);
+      } catch (err) {
+        console.error(`  [Gemini] Ошибка генерации Cover Letter для "${job.title}":`, err.message);
+      }
+
+      const message = formatJobMessage(job, score, coverLetter);
 
       const sent = await sendTelegramMessage(config, message);
       if (sent) {

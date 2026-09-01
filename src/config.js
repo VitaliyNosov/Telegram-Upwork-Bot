@@ -8,6 +8,9 @@ module.exports = {
   TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN,
   TELEGRAM_CHAT_ID: process.env.TELEGRAM_CHAT_ID,
 
+  GEMINI_API_KEY: process.env.GEMINI_API_KEY,
+  GEMINI_MODEL: process.env.GEMINI_MODEL || "gemini-3.5-flash",
+
   // ===== КЛЮЧЕВЫЕ СЛОВА ПОИСКА =====
   KEYWORDS: [
     "wordpress developer",
@@ -87,5 +90,6 @@ module.exports = {
 
   PATHS: {
     SEEN_JOBS_FILE: "data/seen_jobs.json",
+    PROFILE_FILE: "data/resume_profile.txt",
   },
 };

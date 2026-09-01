@@ -8,6 +8,7 @@
   },
   "scripts": {
     "login": "node src/login.js",
-    "poll": "node src/index.js"
+    "poll": "node src/index.js",
+    "test:gemini": "node scripts/test-gemini.js"
   }
 }
