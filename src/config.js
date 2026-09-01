@@ -27,7 +27,7 @@ module.exports = {
     MIN_CLIENT_AVG_HOURLY_RATE: 15,
 
     // Минимальный бюджет для fixed-price проектов
-    MIN_FIXED_BUDGET: 500,
+    MIN_FIXED_BUDGET: 200,
 
     // Разрешенные теги разработчика (хотя бы один тег вакансии должен совпадать)
     ALLOWED_DEVELOPER_TAGS: [
@@ -74,8 +74,8 @@ module.exports = {
     // Обязательно ли подтверждён способ оплаты у клиента
     REQUIRE_PAYMENT_VERIFIED: true,
 
-    // Компромисс вместо "5 завершённых контрактов" — используем totalPostedJobs (см. ТЗ)
-    MIN_CLIENT_POSTED_JOBS: 5,
+    // Минимальное количество опубликованных клиентом вакансий
+    MIN_CLIENT_POSTED_JOBS: 2,
 
     // На всякий случай не показываем вакансии старше N минут (защита от дублей при полудлинных задержках cron)
     MAX_AGE_MINUTES: 10,
