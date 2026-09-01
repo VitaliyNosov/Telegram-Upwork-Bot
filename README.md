@@ -11,27 +11,14 @@ A lightweight, serverless Node.js bot that monitors Upwork in real-time for high
 The bot operates in a semi-automated mode: it takes care of all the monitoring, filtering, and proposal drafting, while you retain full control over reviewing and submitting applications directly on Upwork.
 
 ```mermaid
-sequenceDiagram
-    autonumber
-    participant CF as Cloudflare Worker (Cron)
-    participant GHA as GitHub Actions
-    participant Upwork as Upwork GraphQL API
-    participant Gemini as Google Gemini AI
-    participant TG as Telegram Bot
-    actor User as Freelancer
-
-    CF->>GHA: Trigger workflow dispatch (Cron)
-    GHA->>Upwork: Search public and client jobs
-    Upwork-->>GHA: Return new job listings
-    Note over GHA: Apply filters and calculate score
-    alt Job passes filters
-        GHA->>Gemini: Request Cover Letter (Job + Profile)
-        Gemini-->>GHA: Generated personalized proposal
-        GHA->>TG: Send alert with 1-tap copy draft
-        TG->>User: Push alert on phone and desktop
-        Note over User: Review, copy draft, apply on Upwork
-    end
-    GHA->>GHA: Commit seen_jobs and rotate token
+flowchart TD
+    CF["⏰ Cloudflare Worker<br/>(Scheduled Cron)"] -->|Dispatches Workflow| GHA["⚙️ GitHub Actions Runner<br/>(src/index.js)"]
+    GHA -->|1. Queries Search API| Upwork["🌐 Upwork GraphQL API"]
+    Upwork -->|2. Returns New Jobs| GHA
+    GHA -->|3. Passes Quality Filters| Gemini["🤖 Google Gemini 3.5 Flash"]
+    Gemini -->|4. Tailored Proposal Draft| GHA
+    GHA -->|5. Sends HTML Alert + 1-Tap Copy| TG["📱 Telegram Bot"]
+    TG -->|6. Instant Notification| User["👨‍💻 Freelancer<br/>(1-Tap Copy & Submit)"]
 ```
 
 ---
