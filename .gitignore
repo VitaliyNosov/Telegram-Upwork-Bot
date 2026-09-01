@@ -3,3 +3,4 @@ node_modules/
 .wrangler/
 data/token.json
 data/new_refresh_token.txt
+Telegram-bot.txt
