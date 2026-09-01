@@ -10,15 +10,29 @@ A lightweight, serverless Node.js bot that monitors Upwork in real-time for high
 
 The bot operates in a semi-automated mode: it takes care of all the monitoring, filtering, and proposal drafting, while you retain full control over reviewing and submitting applications directly on Upwork.
 
-```mermaid
-flowchart TD
-    CF["⏰ Cloudflare Worker<br/>(Scheduled Cron)"] -->|Dispatches Workflow| GHA["⚙️ GitHub Actions Runner<br/>(src/index.js)"]
-    GHA -->|1. Queries Search API| Upwork["🌐 Upwork GraphQL API"]
-    Upwork -->|2. Returns New Jobs| GHA
-    GHA -->|3. Passes Quality Filters| Gemini["🤖 Google Gemini 3.5 Flash"]
-    Gemini -->|4. Tailored Proposal Draft| GHA
-    GHA -->|5. Sends HTML Alert + 1-Tap Copy| TG["📱 Telegram Bot"]
-    TG -->|6. Instant Notification| User["👨‍💻 Freelancer<br/>(1-Tap Copy & Submit)"]
+```text
+┌─────────────────────────┐
+│ ⏰ Cloudflare Worker    │  Runs on cron (every 2–5 min)
+└───────────┬─────────────┘
+            │  1. Dispatches GitHub Actions workflow
+            ▼
+┌─────────────────────────┐      2. Queries Search API        ┌────────────────────────┐
+│ ⚙️ GitHub Actions Runner│ ────────────────────────────────► │ 🌐 Upwork API          │
+│    (src/index.js)       │ ◄──────────────────────────────── │    (GraphQL Search)    │
+└───────────┬─────────────┘      3. Returns new job listings  └────────────────────────┘
+            │
+            │  4. Evaluates filters & calculates score
+            ▼
+┌─────────────────────────┐      5. Job + resume_profile.txt  ┌────────────────────────┐
+│ 🤖 Google Gemini AI     │ ◄──────────────────────────────── │ 📄 Developer Profile   │
+│    (gemini-3.5-flash)   │ ────────────────────────────────► │    (data/profile.txt)  │
+└───────────┬─────────────┘      6. Custom Cover Letter draft └────────────────────────┘
+            │
+            │  7. Sends HTML alert with <code>1-tap copy draft</code>
+            ▼
+┌─────────────────────────┐
+│ 📱 Telegram Bot Alert   │ ──► 👨‍💻 Freelancer (Reviews, copies, submits on Upwork)
+└─────────────────────────┘
 ```
 
 ---
