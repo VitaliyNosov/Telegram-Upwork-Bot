@@ -55,40 +55,62 @@ ${jobDescription}
   const model = config.GEMINI_MODEL || "gemini-3.5-flash";
   const endpoint = `${GEMINI_API_BASE_URL}/${model}:generateContent?key=${apiKey}`;
 
-  try {
-    const response = await fetch(endpoint, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
+  const requestBody = {
+    contents: [
+      {
+        parts: [{ text: prompt }],
       },
-      body: JSON.stringify({
-        contents: [
-          {
-            parts: [{ text: prompt }],
-          },
-        ],
-        generationConfig: {
-          temperature: 0.7,
-          maxOutputTokens: 2500,
+    ],
+    generationConfig: {
+      temperature: 0.7,
+      maxOutputTokens: 2500,
+    },
+    safetySettings: [
+      { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_ONLY_HIGH" },
+      { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_ONLY_HIGH" },
+      { category: "HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold: "BLOCK_ONLY_HIGH" },
+      { category: "HARM_CATEGORY_DANGEROUS_CONTENT", threshold: "BLOCK_ONLY_HIGH" },
+    ],
+  };
+
+  const MAX_ATTEMPTS = 3;
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
         },
-      }),
-    });
+        body: JSON.stringify(requestBody),
+      });
 
-    if (!response.ok) {
+      if (response.ok) {
+        const data = await response.json();
+        const candidate = data.candidates?.[0];
+        const letter = candidate?.content?.parts?.[0]?.text?.trim();
+        if (letter) {
+          return letter;
+        }
+      }
+
       const errBody = await response.text();
-      console.error(`[Gemini] Ошибка API (${response.status}): ${errBody}`);
-      return null;
+      console.warn(`[Gemini] Попытка ${attempt}/${MAX_ATTEMPTS} не удалась (${response.status}): ${errBody.slice(0, 300)}`);
+
+      // Если ошибка 429 (rate limit) или 5xx (сервер перегружен) — делаем паузу и пробуем снова
+      if (attempt < MAX_ATTEMPTS) {
+        const delayMs = attempt * 2500; // 2.5 сек, затем 5 сек
+        await new Promise((resolve) => setTimeout(resolve, delayMs));
+      }
+    } catch (err) {
+      console.warn(`[Gemini] Попытка ${attempt}/${MAX_ATTEMPTS} сетевая ошибка: ${err.message}`);
+      if (attempt < MAX_ATTEMPTS) {
+        await new Promise((resolve) => setTimeout(resolve, attempt * 2500));
+      }
     }
-
-    const data = await response.json();
-    const candidate = data.candidates?.[0];
-    const letter = candidate?.content?.parts?.[0]?.text?.trim();
-
-    return letter || null;
-  } catch (err) {
-    console.error("[Gemini] Сетевая ошибка при запросе к Gemini API:", err.message);
-    return null;
   }
+
+  console.error(`[Gemini] Не удалось сгенерировать Cover Letter для "${job.title}" после ${MAX_ATTEMPTS} попыток.`);
+  return null;
 }
 
 module.exports = { generateCoverLetter };
