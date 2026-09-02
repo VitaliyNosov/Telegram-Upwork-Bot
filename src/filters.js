@@ -34,8 +34,20 @@ function hasMatchingDevTags(skills, allowedTags) {
   if (!skills || !Array.isArray(skills) || skills.length === 0) {
     return true; // Если тегов нет — пропускаем, полагаясь на другие фильтры
   }
-  const allowedSet = new Set(allowedTags.map(t => t.toLowerCase()));
-  return skills.some(skill => skill.name && allowedSet.has(skill.name.toLowerCase()));
+  const allowedLower = allowedTags.map((t) => t.toLowerCase());
+  const allowedSet = new Set(allowedLower);
+
+  return skills.some((skill) => {
+    if (!skill || !skill.name) return false;
+    const nameLower = skill.name.toLowerCase();
+    // Точное совпадение либо вхождение подстроки
+    return (
+      allowedSet.has(nameLower) ||
+      allowedLower.some(
+        (allowed) => nameLower.includes(allowed) || allowed.includes(nameLower)
+      )
+    );
+  });
 }
 
 function passesFilters(job, filters) {

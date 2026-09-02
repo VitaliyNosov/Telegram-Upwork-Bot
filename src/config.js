@@ -32,22 +32,27 @@ module.exports = {
     // Разрешенные теги разработчика (хотя бы один тег вакансии должен совпадать)
     ALLOWED_DEVELOPER_TAGS: [
       "WordPress", "PHP", "WooCommerce", "JavaScript",
-      "WordPress Development", "WordPress Theme", "WordPress Plugin",
-      "jQuery", "React", "Next.js", "CMS Development",
-      "Gutenberg Editor", "Page Speed Optimization", "Webflow", "Shopify", "Laravel"
+      "WordPress Development", "WordPress Theme", "WordPress Plugin", "WordPress Customization", "WordPress Optimization",
+      "jQuery", "React", "Next.js", "CMS Development", "CMS Development Skills",
+      "Ecommerce Website Development", "E-Commerce", "BigCommerce", "Shopify", "Webflow",
+      "Elementor", "Divi", "Gutenberg Editor", "WP Engine",
+      "Page Speed Optimization", "Speed Optimization", "Website Speed Optimization",
+      "Web Development", "Website Development", "Website Customization",
+      "HTML", "CSS", "HTML5", "CSS3", "API Integration", "REST API", "Laravel"
     ],
 
-    // Нежелательные слова в заголовке вакансии (чистый дизайн)
+    // Нежелательные слова в заголовке вакансии (чистая графика, видео, копирайтинг и т.д.)
     EXCLUDE_TITLE_KEYWORDS: [
-      "design", "designer", "graphic", "ui", "ux", "figma", "video", "branding", "illustrator",
-      "дизайн", "дизайнер", "верстка", "верстальщик"
+      "logo", "graphic designer", "graphic design", "video editor", "video editing",
+      "animator", "animation", "branding", "illustrator", "illustration", "banner",
+      "copywriter", "content writer", "virtual assistant", "voiceover"
     ],
 
-    // Ключевые слова разработки, отменяющие исключение по дизайну в заголовке
+    // Ключевые слова разработки, отменяющие исключение по нежелательным словам
     STRONG_DEVELOPER_KEYWORDS: [
       "developer", "development", "coder", "programmer", "programming", "plugin",
       "backend", "frontend", "fullstack", "php", "javascript", "react", "api",
-      "разработчик", "разработка", "программист"
+      "wordpress", "woocommerce", "convert", "build", "integration", "migration", "elementor", "fix"
     ],
 
     // Разрешённые страны клиента (см. ТЗ)
