@@ -1,0 +1,110 @@
+const { loadJobsFeed, addJobToFeed, saveJobsFeed } = require("../src/jobsFeed");
+const config = require("../src/config");
+
+console.log("=== SEEDING JOBS FEED FOR MINI APP ===");
+
+const feed = loadJobsFeed(config.PATHS.JOBS_FEED_FILE);
+
+const sampleJobs = [
+  {
+    id: "2095766280133754562",
+    ciphertext: "~022095766280133754562",
+    title: "Build Responsive Website for a Media Agency",
+    description: `We're a post-production studio serving media houses, production companies, and content agencies across North America.\n\nWe're hiring a designer-developer to design and build our marketing site from scratch. The site's job is to convert North American production teams into booked discovery calls.\n\nKey Requirements:\n- Modern, clean layout with high-speed performance\n- WordPress / Headless CMS or clean modern stack\n- Responsive design across mobile and desktop\n- Clear CTAs and inquiry form integrations`,
+    skills: [{ name: "WordPress" }, { name: "Web Design" }, { name: "HTML5" }, { name: "JavaScript" }, { name: "CSS3" }],
+    hourlyBudgetMin: 0,
+    hourlyBudgetMax: 0,
+    client: {
+      location: { country: "United Kingdom" },
+      totalFeedback: 4.58,
+      verificationStatus: "VERIFIED",
+      totalPostedJobs: 7,
+      avgHourlyRatePaid: 0,
+    },
+    publishedDateTime: new Date(Date.now() - 1000 * 60 * 15).toISOString(),
+    score: 92,
+    coverLetter: `Hi! I saw your requirement for a responsive marketing site for your post-production media studio.
+
+I have extensive experience designing and developing fast, high-converting agency websites from scratch. I focus on clean structure, modern responsive layouts, and clear CTAs that maximize discovery call bookings. You can see examples of similar high-performance builds in my portfolio: https://waapple.org/
+
+Do you already have branding assets and copy prepared, or are we designing from scratch? Let's connect!`,
+  },
+  {
+    id: "2095841597182299911",
+    ciphertext: "~022095841597182299911",
+    title: "Urgent: Fix WooCommerce Checkout 500 Error and Stripe Webhook Issue",
+    description: `Our WooCommerce store is having fatal errors on checkout after the latest update to WooCommerce 9.0 and Stripe payment gateway. Customers are reporting white screens and 500 Internal Server Errors when attempting payment.\n\nWe need an experienced WordPress/WooCommerce developer who can inspect error logs, resolve conflicts in staging, and push fixes safely to live production without downtime.`,
+    skills: [{ name: "WooCommerce" }, { name: "WordPress" }, { name: "PHP" }, { name: "Stripe" }, { name: "Debugging" }],
+    hourlyBudgetMin: 35,
+    hourlyBudgetMax: 65,
+    client: {
+      location: { country: "United States" },
+      totalFeedback: 4.96,
+      verificationStatus: "VERIFIED",
+      totalPostedJobs: 38,
+      avgHourlyRatePaid: 48.5,
+    },
+    publishedDateTime: new Date(Date.now() - 1000 * 60 * 45).toISOString(),
+    score: 280,
+    coverLetter: `Hi! I can troubleshoot and resolve your WooCommerce checkout 500 error immediately.
+
+I regularly debug Stripe webhook failures, fatal PHP exceptions after core updates, and plugin conflicts on high-traffic WooCommerce shops. I will inspect the WooCommerce error logs, reproduce the issue in a safe sandbox environment, fix the root cause, and deploy without disturbing existing orders.
+
+Ready to start right away.`,
+  },
+  {
+    id: "2095704253291379753",
+    ciphertext: "~022095704253291379753",
+    title: "Ghost CRM Website Customization & HubSpot Integration",
+    description: `I need an expert developer to customize our existing Ghost publication and connect it with CRM workflows (HubSpot/Make). We need custom member gating and automated lead capture pipelines set up within 2 weeks.`,
+    skills: [{ name: "Ghost" }, { name: "JavaScript" }, { name: "API Integration" }, { name: "HubSpot" }],
+    hourlyBudgetMin: 40,
+    hourlyBudgetMax: 60,
+    client: {
+      location: { country: "United States" },
+      totalFeedback: 4.88,
+      verificationStatus: "VERIFIED",
+      totalPostedJobs: 14,
+      avgHourlyRatePaid: 45.0,
+    },
+    publishedDateTime: new Date(Date.now() - 1000 * 60 * 120).toISOString(),
+    score: 195,
+    coverLetter: `Hi! I can customize your Ghost setup and seamlessly connect it with HubSpot workflows and membership access rules.
+
+I have extensive experience working with headless CMS, Ghost themes, and REST/webhook integrations for lead pipelines. Since you need this completed in two weeks, we can set up the webhook listeners and field mapping right away.
+
+Let's discuss your specific CRM tags and requirements!`,
+  },
+  {
+    id: "2095817534805495309",
+    ciphertext: "~022095817534805495309",
+    title: "WordPress Speed Optimization - Core Web Vitals (LCP, CLS)",
+    description: `Our mobile Google PageSpeed score is currently 32, and desktop is 68. We are failing Core Web Vitals (LCP is 4.8s). Looking for a specialist who can optimize images, configure caching, defer unused JavaScript, and fix database queries without breaking our Elementor layout.`,
+    skills: [{ name: "WordPress" }, { name: "Speed Optimization" }, { name: "Elementor" }, { name: "CSS" }],
+    hourlyBudgetMin: 30,
+    hourlyBudgetMax: 50,
+    client: {
+      location: { country: "Canada" },
+      totalFeedback: 5.0,
+      verificationStatus: "VERIFIED",
+      totalPostedJobs: 5,
+      avgHourlyRatePaid: 38.0,
+    },
+    publishedDateTime: new Date(Date.now() - 1000 * 60 * 180).toISOString(),
+    score: 160,
+    coverLetter: `Hi! I specialize in Core Web Vitals and WordPress performance engineering.
+
+I can bring your mobile PageSpeed score to 90+ without breaking any Elementor design elements or fonts. My optimization process includes unused CSS/JS cleanup, critical CSS generation, image WebP conversion, object caching, and database query optimization.
+
+I have achieved 95+ scores on sites like https://waapple.org/. Ready to diagnose your site today!`,
+  },
+];
+
+for (const job of sampleJobs) {
+  addJobToFeed(feed, job, job.score, job.coverLetter);
+}
+
+saveJobsFeed(config.PATHS.JOBS_FEED_FILE, feed);
+saveJobsFeed(config.PATHS.WEBAPP_FEED_FILE, feed);
+
+console.log(`✅ Лента успешно заполнена! Сохранено ${feed.length} вакансий.`);

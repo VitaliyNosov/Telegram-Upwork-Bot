@@ -18,6 +18,7 @@ const {
   shouldSendDigest,
   markDigestSent,
 } = require("./analytics");
+const { loadJobsFeed, addJobToFeed, saveJobsFeed } = require("./jobsFeed");
 
 async function main() {
   console.log(`[${new Date().toISOString()}] Запуск опроса Upwork...`);
@@ -25,6 +26,7 @@ async function main() {
   const accessToken = await getAccessToken(config);
   const seenJobs = loadSeenJobs(config.PATHS.SEEN_JOBS_FILE);
   const dailyStats = loadDailyStats(config.PATHS.DAILY_STATS_FILE);
+  const jobsFeed = loadJobsFeed(config.PATHS.JOBS_FEED_FILE);
 
   let totalFound = 0;
   let totalNew = 0;
@@ -70,6 +72,9 @@ async function main() {
         console.error(`  [Gemini] Ошибка генерации Cover Letter для "${job.title}":`, err.message);
       }
 
+      // Добавляем вакансию в ленту Mini App
+      addJobToFeed(jobsFeed, job, score, coverLetter);
+
       const message = formatJobMessage(job, score, coverLetter);
 
       const jobLinkId = job.ciphertext || (String(job.id).startsWith("~") ? job.id : `~02${job.id}`);
@@ -97,9 +102,12 @@ async function main() {
 
   saveSeenJobs(config.PATHS.SEEN_JOBS_FILE, seenJobs);
   saveDailyStats(config.PATHS.DAILY_STATS_FILE, dailyStats);
+  saveJobsFeed(config.PATHS.JOBS_FEED_FILE, jobsFeed);
+  saveJobsFeed(config.PATHS.WEBAPP_FEED_FILE, jobsFeed);
+  saveJobsFeed(config.PATHS.DOCS_FEED_FILE, jobsFeed);
 
   console.log(
-    `Готово. Найдено: ${totalFound}, новых: ${totalNew}, отправлено в Telegram: ${totalSent}`
+    `Готово. Найдено: ${totalFound}, новых: ${totalNew}, отправлено в Telegram: ${totalSent}, вакансий в ленте Mini App: ${jobsFeed.length}`
   );
 }
 

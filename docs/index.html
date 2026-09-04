@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title>Upwork Jobs | Telegram Mini App</title>
+  
+  <!-- Telegram WebApp SDK -->
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app" class="app-container">
+    
+    <!-- Top Header in Upwork Style -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="brand-logo">
+          <svg viewBox="0 0 100 30" width="86" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M74.2 8.3c-4.3 0-7.3 3.4-7.3 7.7 0 4.3 3 7.7 7.3 7.7 4.3 0 7.3-3.4 7.3-7.7 0-4.3-3-7.7-7.3-7.7zm0 11.9c-2.4 0-4-2-4-4.2s1.6-4.2 4-4.2 4 2 4 4.2-1.6 4.2-4 4.2zM52.3 8.3c-2.1 0-3.9 1-4.9 2.7l-.2-2.3h-3.4v14.6h3.6v-7.9c0-2.3 1.5-3.9 3.5-3.9 2 0 3.2 1.4 3.2 3.8v8h3.6v-8.4c0-4.3-2.3-6.6-5.4-6.6zm-17.6 0c-4.1 0-7 3.3-7 7.7 0 4.3 3 7.7 7.1 7.7 2.1 0 4-.8 5.2-2.4l.2 2h3.4V2.2h-3.6v8.4c-1.3-1.4-3.2-2.3-5.3-2.3zm.7 11.9c-2.4 0-4-2-4-4.2s1.6-4.2 4-4.2 4 2 4 4.2-1.7 4.2-4 4.2zM14.6 2.2L10.3 16 6.1 2.2H2.2l6.2 18.5c.3 1 1.2 1.6 2.3 1.6 1.1 0 2-.6 2.3-1.6L19 2.2h-4.4z" fill="var(--color-primary)"/>
+            <circle cx="91.5" cy="19.5" r="2.5" fill="var(--color-primary)"/>
+          </svg>
+          <span class="brand-badge">Mini App</span>
+        </div>
+        <div class="header-actions">
+          <button id="btn-sync" class="icon-button" title="Refresh feed" aria-label="Refresh feed">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Search Input -->
+      <div class="search-box">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+          <circle cx="11" cy="11" r="8"/>
+          <path d="M21 21l-4.35-4.35"/>
+        </svg>
+        <input type="text" id="input-search" placeholder="Search title, skills or client..." autocomplete="off" />
+        <button id="btn-clear-search" class="clear-search hidden">&times;</button>
+      </div>
+
+      <!-- Quick Filter Chips -->
+      <div class="filter-chips-wrapper">
+        <div class="filter-chips" id="filter-chips">
+          <button class="chip active" data-filter="all">All Jobs</button>
+          <button class="chip" data-filter="hourly">Hourly Only</button>
+          <button class="chip" data-filter="fixed">Fixed-Price</button>
+          <button class="chip" data-filter="high-rate">$35+/hr</button>
+          <button class="chip" data-filter="unviewed">Unread</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content Views -->
+    <main class="app-main">
+      
+      <!-- VIEW: All Jobs Feed -->
+      <section id="view-jobs" class="view-content active">
+        <div class="feed-summary">
+          <span id="jobs-count-label">Loading jobs...</span>
+          <div class="sort-select-wrapper">
+            <label for="select-sort">Sort:</label>
+            <select id="select-sort">
+              <option value="newest">Newest First</option>
+              <option value="score">Highest Score</option>
+              <option value="rate">Highest Rate</option>
+            </select>
+          </div>
+        </div>
+
+        <div id="jobs-list" class="jobs-list">
+          <!-- Job cards rendered dynamically via app.js -->
+        </div>
+
+        <div id="empty-jobs" class="empty-state hidden">
+          <div class="empty-icon">🔍</div>
+          <h3>No matching jobs found</h3>
+          <p>Try resetting filters or searching with different keywords.</p>
+          <button id="btn-reset-filters" class="btn btn-secondary">Reset Filters</button>
+        </div>
+      </section>
+
+      <!-- VIEW: Saved Jobs (Favorites) -->
+      <section id="view-saved" class="view-content">
+        <div class="feed-summary">
+          <span id="saved-count-label">0 Saved Jobs</span>
+          <span class="feed-tip">Stored safely in your Telegram</span>
+        </div>
+
+        <div id="saved-list" class="jobs-list">
+          <!-- Saved cards rendered dynamically -->
+        </div>
+
+        <div id="empty-saved" class="empty-state hidden">
+          <div class="empty-icon">💚</div>
+          <h3>No saved jobs yet</h3>
+          <p>Tap the heart icon on any job card to save it for quick access later.</p>
+          <button id="btn-go-to-feed" class="btn btn-primary">Browse Jobs</button>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Bottom Mobile Navigation Bar -->
+    <nav class="bottom-nav">
+      <button class="nav-item active" data-target="view-jobs">
+        <div class="nav-icon-box">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="7" width="20" height="14" rx="2" ry="2"/>
+            <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/>
+          </svg>
+          <span id="nav-jobs-badge" class="nav-badge hidden">0</span>
+        </div>
+        <span>Find Work</span>
+      </button>
+
+      <button class="nav-item" data-target="view-saved">
+        <div class="nav-icon-box">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+          </svg>
+          <span id="nav-saved-badge" class="nav-badge hidden">0</span>
+        </div>
+        <span>Saved Jobs</span>
+      </button>
+
+      <button class="nav-item" id="btn-open-filter-modal">
+        <div class="nav-icon-box">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+          </svg>
+          <span id="nav-filter-indicator" class="filter-dot hidden"></span>
+        </div>
+        <span>Filters</span>
+      </button>
+    </nav>
+
+    <!-- JOB DETAILS MODAL / BOTTOM SHEET -->
+    <div id="modal-details" class="modal-overlay hidden" role="dialog" aria-modal="true">
+      <div class="sheet-container">
+        <div class="sheet-drag-handle"></div>
+        <div class="sheet-header">
+          <button id="btn-close-details" class="sheet-close-btn" aria-label="Close details">&times;</button>
+          <div class="sheet-top-actions">
+            <button id="btn-details-save" class="btn-icon-favorite" title="Save Job">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        <div class="sheet-content">
+          <div id="detail-job-body">
+            <!-- Injected by app.js -->
+          </div>
+        </div>
+
+        <div class="sheet-footer">
+          <button id="btn-modal-apply" class="btn btn-primary btn-block">
+            <span>🚀 Apply on Upwork</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ADVANCED FILTERS MODAL -->
+    <div id="modal-filters" class="modal-overlay hidden" role="dialog" aria-modal="true">
+      <div class="sheet-container filter-sheet">
+        <div class="sheet-drag-handle"></div>
+        <div class="sheet-header">
+          <h3>Filter Jobs</h3>
+          <button id="btn-close-filters" class="sheet-close-btn">&times;</button>
+        </div>
+
+        <div class="sheet-content">
+          <div class="filter-group">
+            <label class="filter-label">Job Type</label>
+            <div class="filter-options-grid">
+              <button class="filter-opt-btn active" data-type="type" data-val="all">All Types</button>
+              <button class="filter-opt-btn" data-type="type" data-val="hourly">Hourly</button>
+              <button class="filter-opt-btn" data-type="type" data-val="fixed">Fixed-Price</button>
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <label class="filter-label">Min Hourly Rate ($/hr)</label>
+            <div class="range-display">
+              <span>$15</span>
+              <span id="rate-value-display" class="highlight-val">$25/hr</span>
+              <span>$100+</span>
+            </div>
+            <input type="range" id="filter-min-rate" min="15" max="80" step="5" value="25" />
+          </div>
+
+          <div class="filter-group">
+            <label class="filter-label">Skills & Keywords</label>
+            <div class="tags-selector" id="tags-selector">
+              <span class="tag-toggle active" data-skill="WordPress">WordPress</span>
+              <span class="tag-toggle" data-skill="WooCommerce">WooCommerce</span>
+              <span class="tag-toggle" data-skill="PHP">PHP</span>
+              <span class="tag-toggle" data-skill="Elementor">Elementor</span>
+              <span class="tag-toggle" data-skill="JavaScript">JavaScript</span>
+              <span class="tag-toggle" data-skill="Speed Optimization">Speed</span>
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <label class="checkbox-label">
+              <input type="checkbox" id="filter-unviewed-only" />
+              <span>Show unread jobs only</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="sheet-footer filter-footer">
+          <button id="btn-reset-modal-filters" class="btn btn-secondary">Reset</button>
+          <button id="btn-apply-modal-filters" class="btn btn-primary">Apply Filters</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast hidden">Copied to clipboard!</div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
