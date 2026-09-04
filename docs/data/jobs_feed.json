@@ -1,5 +1,66 @@
 [
   {
+    "id": "2096003026615410485",
+    "ciphertext": "~022096003026615410485",
+    "title": "WordPress Designer Needed for High-Converting Book Landing Page",
+    "description": "We are looking for an experienced WordPress designer/developer to create a professional, conversion-focused landing page for our published book, Blade Within.\n\nThe page will be used as the primary landing page for traffic coming from our Google Ads and other marketing channels. The goal is to present the book professionally, communicate its value clearly, and encourage qualified visitors to click through to purchase the book on Amazon.\n\nOur existing website and brand are already established. We are looking for someone who can work within the current Blade Within visual identity while creating a page that feels polished, modern, credible, and intentionally designed for conversions.\n\nThe page should include:\nStrong above-the-fold hero section\nBook cover/product imagery\nClear headline and value proposition\nProminent Amazon purchase CTA\nKey benefits / what readers will learn\n“Who this book is for” section\nOverview of the book and its core themes\nSelected book topics or chapter concepts\nAuthor section\nAdditional purchase CTA sections throughout the page\nClean mobile-responsive design\nProfessional desktop and mobile layouts\nStrong visual hierarchy\nFast-loading and user-friendly structure\nTracking-ready buttons/links for Google Ads and analytics\n\nThe overall design should feel clean, intelligent, serious, modern, and premium rather than like a typical exaggerated self-help sales page.\n\nThe Blade Within brand focuses on topics such as:\nJudgment\nSelf-mastery\nDiscipline\nDecision-making\nSelf-control\nBoundaries\nClear thinking\nPersonal growth\n\nSome of our current marketing language includes ideas such as:\n“Better outcomes start with better decisions.”\n\n“Sharpen your judgment with Blade Within.”\n\n“Think clearly. Act with discipline.”\n\nWe are open to recommendations regarding layout, hierarchy, UX, and conversion strategy from someone experienced in landing-page design.\n\nTechnical requirements\nThe page must be built directly within our existing WordPress website and should work with the site's current theme/building tools whenever reasonably possible.\n\nThe selected freelancer will receive the necessary WordPress access after the contract begins.\n\nPlease do not redesign the entire website. This project is specifically for creating one dedicated book marketing/landing page that fits naturally within the existing Blade Within brand.\n\nIdeal freelancer:\n\nWe are particularly interested in someone with experience in:\nWordPress\nLanding page design\nConversion rate optimization\nSales/marketing pages\nResponsive web design\nUX/UI\nGoogle Ads landing pages\nPublishing, books, or e-commerce landing pages\n\nExperience creating landing pages for books, authors, educational products, or personal-development brands is a plus.\n\nWhen applying, please include:\n2–4 examples of landing pages you personally designed\nAny examples specifically created for books, products, or paid advertising\n\nA brief explanation of how you would approach this page\n\nYour estimated turnaround time\n\nWhether you handle both design and WordPress implementation\n\nWe are looking for someone who can both understand the marketing purpose of the page and execute it professionally in WordPress.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.84,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 20,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "uiux",
+      "responsive-design",
+      "html",
+      "wordpress",
+      "landing-pages",
+      "web-design",
+      "conversion-rate-optimization"
+    ],
+    "score": 97,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-04T22:31:33+0000",
+    "addedAt": "2026-09-04T22:33:48.468Z",
+    "url": "https://www.upwork.com/jobs/~022096003026615410485",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096003026615410485/apply/"
+  },
+  {
+    "id": "2096003112449725683",
+    "ciphertext": "~022096003112449725683",
+    "title": "Urgent WordPress Error Fix",
+    "description": "Need a freelancer to quickly diagnose and fix a WordPress issue causing site problems. The work includes identifying the root cause, resolving the error, and verifying the site is functioning correctly after the fix. This is a short-term, urgent project for someone who can work independently and communicate clearly. Please share relevant experience with similar WordPress troubleshooting tasks.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 129,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "wordpress-plugin",
+      "html"
+    ],
+    "score": 2899,
+    "coverLetter": "Hi! I can jump in right now to diagnose and fix your WordPress error. \n\nI specialize in troubleshooting critical WordPress issues, including PHP fatal errors, plugin conflicts, and server-side bottlenecks. Whether it’s a white screen of death, a broken database, or an issue after an update, I quickly locate the root cause using error logs and safely patch it. I’ve handled similar urgent recoveries and maintenance for high-traffic sites like https://www.thelifeyoucansave.org/, ensuring zero downtime and clean code.\n\nWhat specific error message or behavior are you currently seeing on the site? Let me know, and I can start troubleshooting for you immediately.",
+    "publishedDateTime": "2026-09-04T22:30:59+0000",
+    "addedAt": "2026-09-04T22:33:11.799Z",
+    "url": "https://www.upwork.com/jobs/~022096003112449725683",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096003112449725683/apply/"
+  },
+  {
     "id": "2095991800050474111",
     "ciphertext": "~022095991800050474111",
     "title": "Build Website for Global Bites for Kids",

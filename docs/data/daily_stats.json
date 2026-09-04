@@ -1,10 +1,10 @@
 {
   "date": "2026-09-05",
   "lastDigestSentDate": "2026-09-05",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 6,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,20 @@
       "score": 3000,
       "url": "https://www.upwork.com/jobs/~022095991800050474111",
       "addedAt": "2026-09-04T21:49:03.308Z"
+    },
+    {
+      "title": "Urgent WordPress Error Fix",
+      "budget": "$14-$28/hr",
+      "score": 2899,
+      "url": "https://www.upwork.com/jobs/~022096003112449725683",
+      "addedAt": "2026-09-04T22:33:03.454Z"
+    },
+    {
+      "title": "WordPress Designer Needed for High-Converting Book Landing Page",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022096003026615410485",
+      "addedAt": "2026-09-04T22:33:12.237Z"
     }
   ]
 }
