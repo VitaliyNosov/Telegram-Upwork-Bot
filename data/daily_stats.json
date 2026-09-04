@@ -1,12 +1,19 @@
 {
   "date": "2026-09-04",
   "lastDigestSentDate": null,
-  "totalScanned": 6,
-  "matchedFilters": 1,
+  "totalScanned": 7,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Thrive Themes WordPress Designer / Developer to Build 8-Page Site",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022095914014011675891",
+      "addedAt": "2026-09-04T16:39:04.766Z"
+    },
     {
       "title": "Personal brand wordpress website",
       "budget": "Fixed-price",
