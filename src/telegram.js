@@ -1,20 +1,26 @@
 // Отправка сообщений в Telegram
 const config = require("./config");
 
-async function sendTelegramMessage(config, text) {
+async function sendTelegramMessage(config, text, replyMarkup = null) {
   const url = `https://api.telegram.org/bot${config.TELEGRAM_BOT_TOKEN}/sendMessage`;
+
+  const bodyPayload = {
+    chat_id: config.TELEGRAM_CHAT_ID,
+    text,
+    parse_mode: "HTML",
+    disable_web_page_preview: false,
+  };
+
+  if (replyMarkup) {
+    bodyPayload.reply_markup = replyMarkup;
+  }
 
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
       const resp = await fetch(url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          chat_id: config.TELEGRAM_CHAT_ID,
-          text,
-          parse_mode: "HTML",
-          disable_web_page_preview: false,
-        }),
+        body: JSON.stringify(bodyPayload),
       });
 
       if (resp.ok) return true;
@@ -30,6 +36,59 @@ async function sendTelegramMessage(config, text) {
 
   console.error("Не удалось отправить сообщение в Telegram после 2 попыток.");
   return false;
+}
+
+function buildJobKeyboard(jobUrl, jobLinkId = null) {
+  const buttons = [
+    { text: "🚀 Открыть вакансию", url: jobUrl },
+  ];
+
+  if (jobLinkId) {
+    buttons.push({
+      text: "✍️ Подать Proposal",
+      url: `https://www.upwork.com/ab/proposals/job/${jobLinkId}/apply/`,
+    });
+  }
+
+  return { inline_keyboard: [buttons] };
+}
+
+function formatDailyDigestMessage(stats) {
+  const dateStr = stats.date || new Date().toISOString().slice(0, 10);
+  const totalScanned = stats.totalScanned || 0;
+  const matchedFilters = stats.matchedFilters || 0;
+  const byKeyword = stats.byKeyword || {};
+  const topJobs = stats.topJobs || [];
+
+  let msg = `📊 <b>Итоги дня по поиску Upwork (${escapeHtml(dateStr)})</b>\n\n`;
+  msg += `🔍 <b>Всего найдено вакансий:</b> ${totalScanned}\n`;
+  msg += `✅ <b>Прошло фильтры и отправлено:</b> ${matchedFilters}\n\n`;
+
+  const keywordEntries = Object.entries(byKeyword);
+  if (keywordEntries.length > 0) {
+    msg += `🏷️ <b>По ключевым словам:</b>\n`;
+    for (const [kw, count] of keywordEntries) {
+      msg += `  • <code>${escapeHtml(kw)}</code>: ${count}\n`;
+    }
+    msg += `\n`;
+  }
+
+  if (topJobs.length > 0) {
+    msg += `🏆 <b>Топ вакансий дня:</b>\n`;
+    topJobs.slice(0, 3).forEach((job, idx) => {
+      const title = escapeHtml(job.title || "Untitled");
+      const budget = escapeHtml(job.budget || "N/A");
+      const score = job.score ? `[Score: ${job.score}] ` : "";
+      const url = job.url ? escapeHtml(job.url) : "";
+      if (url) {
+        msg += `${idx + 1}. <a href="${url}">${score}${title}</a> (${budget})\n`;
+      } else {
+        msg += `${idx + 1}. ${score}${title} (${budget})\n`;
+      }
+    });
+  }
+
+  return msg;
 }
 
 function formatJobMessage(job, score, coverLetter = null) {
@@ -68,7 +127,7 @@ function formatJobMessage(job, score, coverLetter = null) {
     `${escapeHtml(description)}\n\n`;
 
   if (coverLetter) {
-    msg += `🤖 <b>AI Cover Letter Draft:</b>\n<code>${escapeHtml(coverLetter.trim())}</code>\n\n`;
+    msg += `🤖 <b>AI Cover Letter Draft</b> <i>(нажмите на текст для копирования)</i>:\n<code>${escapeHtml(coverLetter.trim())}</code>\n\n`;
   }
 
   msg += `🔗 ${jobUrl}`;
@@ -84,7 +143,7 @@ function formatJobMessage(job, score, coverLetter = null) {
         `💵 Client Avg Paid: <b>${avgHourlyRate}</b>\n` +
         `🌍 ${escapeHtml(country)} | ⭐ ${rating} | ${verified} | 📋 ${postedJobs} jobs\n` +
         `${tagsLine}\n\n` +
-        `🤖 <b>AI Cover Letter Draft:</b>\n<code>${escapeHtml(trimmedLetter.trim())}</code>\n\n` +
+        `🤖 <b>AI Cover Letter Draft</b> <i>(нажмите на текст для копирования)</i>:\n<code>${escapeHtml(trimmedLetter.trim())}</code>\n\n` +
         `🔗 ${jobUrl}`;
     }
   }
@@ -99,4 +158,9 @@ function escapeHtml(str) {
     .replace(/>/g, "&gt;");
 }
 
-module.exports = { sendTelegramMessage, formatJobMessage };
+module.exports = {
+  sendTelegramMessage,
+  formatJobMessage,
+  buildJobKeyboard,
+  formatDailyDigestMessage,
+};

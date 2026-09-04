@@ -4,14 +4,27 @@ const { fetchJobsForKeyword } = require("./upwork");
 const { passesFilters } = require("./filters");
 const { calculateScore } = require("./scoring");
 const { generateCoverLetter } = require("./gemini");
-const { sendTelegramMessage, formatJobMessage } = require("./telegram");
+const {
+  sendTelegramMessage,
+  formatJobMessage,
+  buildJobKeyboard,
+  formatDailyDigestMessage,
+} = require("./telegram");
 const { loadSeenJobs, saveSeenJobs } = require("./seenJobs");
+const {
+  loadDailyStats,
+  recordJobScanned,
+  saveDailyStats,
+  shouldSendDigest,
+  markDigestSent,
+} = require("./analytics");
 
 async function main() {
   console.log(`[${new Date().toISOString()}] Запуск опроса Upwork...`);
 
   const accessToken = await getAccessToken(config);
   const seenJobs = loadSeenJobs(config.PATHS.SEEN_JOBS_FILE);
+  const dailyStats = loadDailyStats(config.PATHS.DAILY_STATS_FILE);
 
   let totalFound = 0;
   let totalNew = 0;
@@ -37,12 +50,18 @@ async function main() {
       const { pass, reason } = passesFilters(job, config.FILTERS);
       seenJobs.add(job.id); // помечаем как виденную независимо от результата фильтра
 
+      let score = 0;
+      if (pass) {
+        score = calculateScore(job, config.KEYWORDS, config.SCORING_WEIGHTS);
+      }
+
+      // Фиксируем вакансию в статистике дня
+      recordJobScanned(dailyStats, job, pass, keyword, score);
+
       if (!pass) {
         console.log(`  Пропущена (${reason}): ${job.title}`);
         continue;
       }
-
-      const score = calculateScore(job, config.KEYWORDS, config.SCORING_WEIGHTS);
 
       let coverLetter = null;
       try {
@@ -53,7 +72,11 @@ async function main() {
 
       const message = formatJobMessage(job, score, coverLetter);
 
-      const sent = await sendTelegramMessage(config, message);
+      const jobLinkId = job.ciphertext || (String(job.id).startsWith("~") ? job.id : `~02${job.id}`);
+      const jobUrl = `https://www.upwork.com/jobs/${jobLinkId}`;
+      const keyboard = buildJobKeyboard(jobUrl, jobLinkId);
+
+      const sent = await sendTelegramMessage(config, message, keyboard);
       if (sent) {
         totalSent++;
         console.log(`  Отправлена: ${job.title}`);
@@ -61,7 +84,19 @@ async function main() {
     }
   }
 
+  // Проверяем, наступило ли время вечерней аналитической сводки (по умолчанию 21:00)
+  if (shouldSendDigest(dailyStats, config.DIGEST_HOUR || 21)) {
+    console.log(`[Analytics] Формирование вечерней сводки за день (${dailyStats.date})...`);
+    const digestMessage = formatDailyDigestMessage(dailyStats);
+    const digestSent = await sendTelegramMessage(config, digestMessage);
+    if (digestSent) {
+      markDigestSent(dailyStats);
+      console.log("[Analytics] Вечерняя сводка успешно отправлена в Telegram.");
+    }
+  }
+
   saveSeenJobs(config.PATHS.SEEN_JOBS_FILE, seenJobs);
+  saveDailyStats(config.PATHS.DAILY_STATS_FILE, dailyStats);
 
   console.log(
     `Готово. Найдено: ${totalFound}, новых: ${totalNew}, отправлено в Telegram: ${totalSent}`

@@ -96,5 +96,9 @@ module.exports = {
   PATHS: {
     SEEN_JOBS_FILE: "data/seen_jobs.json",
     PROFILE_FILE: "data/resume_profile.txt",
+    DAILY_STATS_FILE: "data/daily_stats.json",
   },
+
+  // Час отправки вечерней сводки в Telegram (по киевскому времени, 21 = 21:00)
+  DIGEST_HOUR: 21,
 };
