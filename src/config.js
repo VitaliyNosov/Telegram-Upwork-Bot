@@ -97,6 +97,8 @@ module.exports = {
     SEEN_JOBS_FILE: "data/seen_jobs.json",
     PROFILE_FILE: "data/resume_profile.txt",
     DAILY_STATS_FILE: "data/daily_stats.json",
+    WEBAPP_STATS_FILE: "webapp/data/daily_stats.json",
+    DOCS_STATS_FILE: "docs/data/daily_stats.json",
     JOBS_FEED_FILE: "data/jobs_feed.json",
     WEBAPP_FEED_FILE: "webapp/data/jobs_feed.json",
     DOCS_FEED_FILE: "docs/data/jobs_feed.json",

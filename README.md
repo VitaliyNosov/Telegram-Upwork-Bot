@@ -66,14 +66,25 @@ The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filte
   * `[ ✍️ Подать Proposal ]` — Direct link straight to the `/apply` proposal submission form on Upwork.
 
 ### 3. 🌐 Upwork-Styled Telegram Mini App (Web App)
-* **Authentic Upwork Aesthetic:** Clean white cards (`#FFFFFF`), light gray backdrop (`#F7F7F7`), dark green-black typography (`#001E00`), and signature Upwork green accents (`#14A800`).
-* **Official Upwork Wordmark:** Features the clean official Upwork logo.
-* **Real-Time Rolling Feed:** Always displays the latest 150 filtered Upwork opportunities with automatic synchronization.
-* **Search & Filters:**
+* **Dual Theme Support (Light by default / Telegram Dark):**
+  * **Daylight Upwork (Default):** Crisp white cards (`#FFFFFF`), light gray backdrop (`#F7F7F7`), dark green-black typography (`#001E00`), and signature Upwork green accents (`#14A800`).
+  * **Telegram Dark Mode:** Beautiful dark theme styled after Telegram Desktop (`#17212B` backdrop, `#242F3D` card surface, pure white typography, dual-mode Upwork logo).
+  * Fast header toggle button (☀️ / 🌙) with persistent `localStorage` memory and Telegram window header/background synchronization.
+* **Official Upwork Brand Assets:** Features the official dual-mode Upwork logo.
+* **Real-Time Rolling Feed:** Displays the latest 150 filtered Upwork opportunities with automatic synchronization.
+* **Search & Filter Suite:**
   * Real-time search across job titles, descriptions, and client countries.
   * Quick filter chips: `All Jobs`, `Hourly Only`, `Fixed-Price`, `$35+/hr`, `Unread`.
   * Advanced filter modal: minimum hourly rate slider, skill tag selector, and unviewed-only toggle.
   * Sorting options: `Newest First`, `Highest Score`, `Highest Budget`.
+* **📊 Daily Report & Analytics Tab:**
+  * Interactive **Report** tab in bottom navigation.
+  * **4 Live KPI Cards:** Total jobs scanned, filtered matches, AI cover letters drafted, and top relevance score.
+  * Search queries breakdown with match counts.
+  * Full list of today's matched opportunities with direct Upwork link and Proposal buttons.
+* **📥 1-Click Styled PDF Export:**
+  * Instant generation and download of a branded, print-ready A4 PDF report (`Upwork_Daily_Report_YYYY-MM-DD.pdf`).
+  * Complete with Upwork header logo, date badge, executive KPI grid, keyword tags, and clickable job links.
 * **Interactive Bottom Sheet:** Full job details view with budget breakdown, client reputation metrics, and a dedicated **"📋 Скопировать AI Proposal"** button with toast confirmation.
 * **Saved Jobs (Favorites):** Bookmarks saved locally on device via `localStorage`.
 

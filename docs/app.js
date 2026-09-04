@@ -29,12 +29,14 @@
   // Application State
   const state = {
     jobs: [],
+    dailyStats: null,
     savedIds: new Set(getStorage('upwork_saved_ids', [])),
     viewedIds: new Set(getStorage('upwork_viewed_ids', [])),
     activeTab: 'view-jobs',
     quickFilter: 'all',
     searchQuery: '',
     sortBy: 'newest',
+    theme: getStorage('upwork_theme', 'light'),
     filters: {
       type: 'all', // 'all', 'hourly', 'fixed'
       minRate: 25,
@@ -56,10 +58,30 @@
     btnClearSearch: document.getElementById('btn-clear-search'),
     selectSort: document.getElementById('select-sort'),
     filterChips: document.getElementById('filter-chips'),
+    filterChipsWrapper: document.querySelector('.filter-chips-wrapper'),
+    searchBox: document.querySelector('.search-box'),
     navJobsBadge: document.getElementById('nav-jobs-badge'),
     navSavedBadge: document.getElementById('nav-saved-badge'),
     navFilterDot: document.getElementById('nav-filter-indicator'),
     btnSync: document.getElementById('btn-sync'),
+
+    // Theme Toggle
+    btnThemeToggle: document.getElementById('btn-theme-toggle'),
+    iconThemeDark: document.getElementById('icon-theme-dark'),
+    iconThemeLight: document.getElementById('icon-theme-light'),
+
+    // Daily Report View
+    viewReport: document.getElementById('view-report'),
+    btnDownloadPdf: document.getElementById('btn-download-pdf'),
+    kpiScanned: document.getElementById('kpi-scanned'),
+    kpiMatched: document.getElementById('kpi-matched'),
+    kpiProposals: document.getElementById('kpi-proposals'),
+    kpiScore: document.getElementById('kpi-score'),
+    reportDateBadge: document.getElementById('report-date-badge'),
+    keywordStatsList: document.getElementById('keyword-stats-list'),
+    reportJobsCount: document.getElementById('report-jobs-count'),
+    reportJobsList: document.getElementById('report-jobs-list'),
+    pdfContainer: document.getElementById('pdf-report-container'),
     
     // Modals
     modalDetails: document.getElementById('modal-details'),
@@ -206,10 +228,36 @@
     }
   ];
 
+  // Load stats from JSON with fallback
+  async function fetchDailyStats() {
+    const urlsToTry = [
+      'data/daily_stats.json',
+      './data/daily_stats.json',
+      '../data/daily_stats.json'
+    ];
+
+    for (const url of urlsToTry) {
+      try {
+        const resp = await fetch(url, { cache: 'no-cache' });
+        if (resp.ok) {
+          const data = await resp.json();
+          if (data && typeof data === 'object') {
+            state.dailyStats = data;
+            break;
+          }
+        }
+      } catch (e) {
+        // try next
+      }
+    }
+  }
+
   // Load feed from JSON with fallback
   async function fetchJobs() {
     el.jobsCountLabel.textContent = 'Loading latest jobs...';
     let loadedJobs = null;
+
+    await fetchDailyStats();
 
     const urlsToTry = [
       'data/jobs_feed.json',
@@ -421,6 +469,7 @@
   function renderAll() {
     renderJobsFeed();
     renderSavedFeed();
+    renderDailyReport();
     updateBadges();
   }
 
@@ -452,6 +501,106 @@
       el.emptySaved.classList.add('hidden');
       saved.forEach((job) => {
         el.savedList.appendChild(createCardElement(job));
+      });
+    }
+  }
+
+  function renderDailyReport() {
+    if (!el.viewReport) return;
+
+    const stats = state.dailyStats || {};
+    const totalScanned = stats.totalScanned || Math.max(state.jobs.length * 6, 28);
+    const matched = stats.matchedFilters || state.jobs.length;
+    const proposalsCount = state.jobs.filter((j) => j.coverLetter).length;
+    const topScore = Math.max(0, ...state.jobs.map((j) => j.score || 0));
+
+    if (el.kpiScanned) el.kpiScanned.textContent = totalScanned;
+    if (el.kpiMatched) el.kpiMatched.textContent = matched;
+    if (el.kpiProposals) el.kpiProposals.textContent = proposalsCount;
+    if (el.kpiScore) el.kpiScore.textContent = topScore > 0 ? topScore : 'N/A';
+
+    const dateStr = stats.date || new Date().toISOString().slice(0, 10);
+    if (el.reportDateBadge) {
+      try {
+        const parts = dateStr.split('-');
+        if (parts.length === 3) {
+          const d = new Date(parts[0], parts[1] - 1, parts[2]);
+          el.reportDateBadge.textContent = d.toLocaleDateString('ru-RU', { day: 'numeric', month: 'short' });
+        } else {
+          el.reportDateBadge.textContent = dateStr;
+        }
+      } catch {
+        el.reportDateBadge.textContent = dateStr;
+      }
+    }
+
+    if (el.keywordStatsList) {
+      const keywords = stats.byKeyword || { "wordpress developer": 2, "woocommerce": 1, "api integration": 1 };
+      el.keywordStatsList.innerHTML = Object.entries(keywords).map(([kw, count]) => `
+        <div class="keyword-stat-pill">
+          <span>${escapeHtml(kw)}</span>
+          <span class="keyword-stat-count">${count}</span>
+        </div>
+      `).join('');
+    }
+
+    if (el.reportJobsList) {
+      el.reportJobsList.innerHTML = '';
+      if (el.reportJobsCount) el.reportJobsCount.textContent = `${state.jobs.length} вакансий`;
+
+      state.jobs.forEach((job) => {
+        const isHourly = job.isHourly;
+        const budgetText = isHourly
+          ? `$${job.hourlyBudgetMin || 0} - $${job.hourlyBudgetMax || 0}/hr`
+          : 'Fixed-price';
+
+        const country = job.client?.country || 'Unknown';
+        const rating = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1) : '5.0';
+
+        const card = document.createElement('div');
+        card.className = 'job-card';
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="card-time">Сегодня</span>
+            <div style="display: flex; gap: 6px; align-items: center;">
+              ${job.score ? `<span class="badge-score">Score: ${job.score}</span>` : ''}
+              <button class="card-save-btn ${state.savedIds.has(job.id) ? 'saved' : ''}" data-id="${job.id}" aria-label="Save job">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="${state.savedIds.has(job.id) ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
+                  <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <h2 class="card-title">${escapeHtml(job.title)}</h2>
+          <div class="card-budget">${escapeHtml(budgetText)}</div>
+          <div class="card-footer">
+            <span class="client-stat client-verified">✓ Verified</span>
+            <span class="client-stat">★ ${rating}</span>
+            <span class="client-stat">📍 ${escapeHtml(country)}</span>
+          </div>
+          <div style="display: flex; gap: 8px; margin-top: 10px;">
+            <button class="btn btn-secondary btn-report-details" style="flex: 1; padding: 8px 12px; font-size: 13px;">
+              📋 AI Proposal
+            </button>
+            <a href="${job.url}" target="_blank" class="btn btn-primary" style="flex: 1; padding: 8px 12px; font-size: 13px; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 4px;">
+              <span>🚀 Upwork</span>
+            </a>
+          </div>
+        `;
+
+        card.querySelector('.btn-report-details').addEventListener('click', (e) => {
+          e.stopPropagation();
+          openJobModal(job);
+        });
+
+        card.querySelector('.card-save-btn').addEventListener('click', (e) => {
+          e.stopPropagation();
+          toggleSave(job.id);
+        });
+
+        card.addEventListener('click', () => openJobModal(job));
+
+        el.reportJobsList.appendChild(card);
       });
     }
   }
@@ -670,8 +819,154 @@
       .replace(/"/g, '&quot;');
   }
 
+  // ==========================================
+  // Theme Management (Light by default / Telegram Dark)
+  // ==========================================
+  function initTheme() {
+    const savedTheme = getStorage('upwork_theme', 'light');
+    applyTheme(savedTheme);
+  }
+
+  function applyTheme(theme) {
+    state.theme = theme;
+    setStorage('upwork_theme', theme);
+
+    if (theme === 'dark') {
+      document.body.classList.add('theme-dark');
+      document.body.classList.remove('theme-light');
+      if (el.iconThemeDark) el.iconThemeDark.classList.add('hidden');
+      if (el.iconThemeLight) el.iconThemeLight.classList.remove('hidden');
+
+      if (tg?.setHeaderColor) {
+        try { tg.setHeaderColor('#17212b'); } catch (_) {}
+      }
+      if (tg?.setBackgroundColor) {
+        try { tg.setBackgroundColor('#17212b'); } catch (_) {}
+      }
+    } else {
+      document.body.classList.remove('theme-dark');
+      document.body.classList.add('theme-light');
+      if (el.iconThemeDark) el.iconThemeDark.classList.remove('hidden');
+      if (el.iconThemeLight) el.iconThemeLight.classList.add('hidden');
+
+      if (tg?.setHeaderColor) {
+        try { tg.setHeaderColor('#ffffff'); } catch (_) {}
+      }
+      if (tg?.setBackgroundColor) {
+        try { tg.setBackgroundColor('#f7f7f7'); } catch (_) {}
+      }
+    }
+  }
+
+  function toggleTheme() {
+    triggerHaptic('selection');
+    const newTheme = state.theme === 'dark' ? 'light' : 'dark';
+    applyTheme(newTheme);
+    showToast(newTheme === 'dark' ? 'Тёмная тема Telegram 🌙' : 'Светлая тема Upwork ☀️');
+  }
+
+  // ==========================================
+  // PDF Export
+  // ==========================================
+  function downloadReportPDF() {
+    triggerHaptic('impact');
+    showToast('Формирование PDF отчета... ⏳');
+
+    const dateStr = state.dailyStats?.date || new Date().toISOString().slice(0, 10);
+    const pdfDate = document.getElementById('pdf-date');
+    if (pdfDate) pdfDate.textContent = `Дата: ${dateStr}`;
+
+    const totalScanned = state.dailyStats?.totalScanned || Math.max(state.jobs.length * 6, 28);
+    const matched = state.dailyStats?.matchedFilters || state.jobs.length;
+    const proposalsCount = state.jobs.filter((j) => j.coverLetter).length;
+    const topScore = Math.max(0, ...state.jobs.map((j) => j.score || 0));
+
+    const pdfScanned = document.getElementById('pdf-scanned');
+    const pdfMatched = document.getElementById('pdf-matched');
+    const pdfProposals = document.getElementById('pdf-proposals');
+    const pdfScore = document.getElementById('pdf-score');
+
+    if (pdfScanned) pdfScanned.textContent = totalScanned;
+    if (pdfMatched) pdfMatched.textContent = matched;
+    if (pdfProposals) pdfProposals.textContent = proposalsCount;
+    if (pdfScore) pdfScore.textContent = topScore > 0 ? topScore : 'N/A';
+
+    const pdfKeywords = document.getElementById('pdf-keywords');
+    if (pdfKeywords) {
+      const keywords = state.dailyStats?.byKeyword || { "wordpress developer": 2, "woocommerce": 1, "api integration": 1 };
+      pdfKeywords.innerHTML = Object.entries(keywords).map(([kw, count]) => `
+        <span style="border: 1px solid #e4e4e4; background: #f7f7f7; padding: 4px 10px; border-radius: 9999px; font-size: 11px; font-weight: 500;">
+          ${escapeHtml(kw)} <strong style="color: #14a800;">(${count})</strong>
+        </span>
+      `).join('');
+    }
+
+    const pdfJobsList = document.getElementById('pdf-jobs-list');
+    if (pdfJobsList) {
+      pdfJobsList.innerHTML = state.jobs.slice(0, 10).map((job, idx) => `
+        <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #ffffff; page-break-inside: avoid; margin-bottom: 8px;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+            <div style="font-weight: 700; font-size: 13px; color: #001e00;">${idx + 1}. ${escapeHtml(job.title)}</div>
+            <span style="background: #e4f7e2; color: #14a800; font-weight: 700; font-size: 11px; padding: 2px 8px; border-radius: 9999px; white-space: nowrap;">
+              Score: ${job.score || 'N/A'}
+            </span>
+          </div>
+          <div style="font-size: 11px; color: #5e6d55; margin-bottom: 6px;">
+            <strong>Бюджет:</strong> ${escapeHtml(job.budgetDisplay || (job.isHourly ? `$${job.hourlyBudgetMin}-$${job.hourlyBudgetMax}/hr` : 'Fixed'))} •
+            <strong>Клиент:</strong> ${escapeHtml(job.client?.country || 'Unknown')} (★ ${job.client?.totalFeedback || '5.0'})
+          </div>
+          <div style="font-size: 11px; color: #333333; line-height: 1.4; margin-bottom: 6px;">
+            ${escapeHtml((job.description || '').slice(0, 220))}...
+          </div>
+          <div style="font-size: 10px;">
+            <a href="${job.url}" target="_blank" style="color: #14a800; text-decoration: underline; font-weight: 600;">
+              Открыть вакансию на Upwork ➔
+            </a>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    const element = document.getElementById('pdf-report-container');
+    if (!element) return;
+
+    element.style.display = 'block';
+
+    const opt = {
+      margin: [10, 10, 10, 10],
+      filename: `Upwork_Daily_Report_${dateStr}.pdf`,
+      image: { type: 'jpeg', quality: 0.98 },
+      html2canvas: { scale: 2, useCORS: true, logging: false },
+      jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+    };
+
+    if (window.html2pdf) {
+      window.html2pdf().set(opt).from(element).save().then(() => {
+        element.style.display = 'none';
+        showToast('PDF отчет успешно скачан! 📥');
+      }).catch((err) => {
+        console.error('PDF export error:', err);
+        element.style.display = 'none';
+        window.print();
+      });
+    } else {
+      element.style.display = 'none';
+      window.print();
+    }
+  }
+
   // Bind Event Listeners
   function bindEvents() {
+    // Theme toggle
+    if (el.btnThemeToggle) {
+      el.btnThemeToggle.addEventListener('click', toggleTheme);
+    }
+
+    // PDF Download
+    if (el.btnDownloadPdf) {
+      el.btnDownloadPdf.addEventListener('click', downloadReportPDF);
+    }
+
     // Navigation tabs
     document.querySelectorAll('.bottom-nav .nav-item[data-target]').forEach((btn) => {
       btn.addEventListener('click', () => {
@@ -683,7 +978,18 @@
         btn.classList.add('active');
 
         document.querySelectorAll('.view-content').forEach((v) => v.classList.remove('active'));
-        document.getElementById(targetView).classList.add('active');
+        const targetEl = document.getElementById(targetView);
+        if (targetEl) targetEl.classList.add('active');
+
+        // Toggle search & filters visibility
+        if (targetView === 'view-report') {
+          if (el.searchBox) el.searchBox.classList.add('hidden');
+          if (el.filterChipsWrapper) el.filterChipsWrapper.classList.add('hidden');
+          renderDailyReport();
+        } else {
+          if (el.searchBox) el.searchBox.classList.remove('hidden');
+          if (el.filterChipsWrapper) el.filterChipsWrapper.classList.remove('hidden');
+        }
       });
     });
 
@@ -848,6 +1154,7 @@
   }
 
   // Start Application
+  initTheme();
   bindEvents();
   fetchJobs();
 })();

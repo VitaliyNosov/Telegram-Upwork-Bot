@@ -102,6 +102,8 @@ async function main() {
 
   saveSeenJobs(config.PATHS.SEEN_JOBS_FILE, seenJobs);
   saveDailyStats(config.PATHS.DAILY_STATS_FILE, dailyStats);
+  saveDailyStats(config.PATHS.WEBAPP_STATS_FILE, dailyStats);
+  saveDailyStats(config.PATHS.DOCS_STATS_FILE, dailyStats);
   saveJobsFeed(config.PATHS.JOBS_FEED_FILE, jobsFeed);
   saveJobsFeed(config.PATHS.WEBAPP_FEED_FILE, jobsFeed);
   saveJobsFeed(config.PATHS.DOCS_FEED_FILE, jobsFeed);

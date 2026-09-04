@@ -16,9 +16,12 @@
   <!-- Google Fonts: Inter -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="styles.css?v=20260904_3" />
+  <!-- html2pdf for client-side styled PDF download -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
+  <link rel="stylesheet" href="styles.css?v=20260904_4" />
 </head>
 <body>
   <div id="app" class="app-container">
@@ -27,10 +30,27 @@
     <header class="app-header">
       <div class="header-brand">
         <div class="brand-logo">
-          <img src="logo.png?v=3" alt="Upwork" class="upwork-logo-img" />
+          <img src="logo.png?v=4" alt="Upwork" class="upwork-logo-img logo-light" />
+          <img src="logo-dark.png?v=4" alt="Upwork" class="upwork-logo-img logo-dark" />
           <span class="brand-badge">Feed</span>
         </div>
         <div class="header-actions">
+          <button id="btn-theme-toggle" class="icon-button" title="Переключить тему" aria-label="Переключить тему">
+            <svg id="icon-theme-dark" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+            <svg id="icon-theme-light" class="hidden" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+          </button>
           <button id="btn-sync" class="icon-button" title="Refresh feed" aria-label="Refresh feed">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
@@ -109,6 +129,80 @@
         </div>
       </section>
 
+      <!-- VIEW: Daily Report (Digest & PDF Export) -->
+      <section id="view-report" class="view-content">
+        <div class="report-header-card">
+          <div class="report-header-top">
+            <div>
+              <h2 class="report-title">Отчет за день</h2>
+              <p class="report-subtitle">Сводка мониторинга вакансий и откликов Upwork</p>
+            </div>
+            <span id="report-date-badge" class="report-date-badge">Сегодня</span>
+          </div>
+
+          <button id="btn-download-pdf" class="btn-download-pdf">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="7 10 12 15 17 10"></polyline>
+              <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+            <span>Скачать отчет в PDF</span>
+          </button>
+        </div>
+
+        <!-- 4 KPI Cards -->
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-card-header">
+              <span class="kpi-label">Просканировано</span>
+              <span class="kpi-icon">📡</span>
+            </div>
+            <span id="kpi-scanned" class="kpi-value">0</span>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-card-header">
+              <span class="kpi-label">Подходит под профиль</span>
+              <span class="kpi-icon">🎯</span>
+            </div>
+            <span id="kpi-matched" class="kpi-value">0</span>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-card-header">
+              <span class="kpi-label">AI Proposals</span>
+              <span class="kpi-icon">✍️</span>
+            </div>
+            <span id="kpi-proposals" class="kpi-value">0</span>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-card-header">
+              <span class="kpi-label">Топ Match Score</span>
+              <span class="kpi-icon">⭐️</span>
+            </div>
+            <span id="kpi-score" class="kpi-value">0</span>
+          </div>
+        </div>
+
+        <!-- Keywords Breakdown -->
+        <div class="report-section-title">
+          <span>Поисковые запросы</span>
+        </div>
+        <div id="keyword-stats-list" class="keyword-stats-list">
+          <!-- Dynamically populated -->
+        </div>
+
+        <!-- Today's Matched Opportunities -->
+        <div class="report-section-title">
+          <span>Подходящие вакансии за сегодня</span>
+          <span id="report-jobs-count" class="feed-tip">0 вакансий</span>
+        </div>
+        <div id="report-jobs-list" class="jobs-list">
+          <!-- Dynamically populated -->
+        </div>
+      </section>
+
     </main>
 
     <!-- Bottom Mobile Navigation Bar -->
@@ -121,7 +215,7 @@
           </svg>
           <span id="nav-jobs-badge" class="nav-badge hidden">0</span>
         </div>
-        <span>Find Work</span>
+        <span>Jobs</span>
       </button>
 
       <button class="nav-item" data-target="view-saved">
@@ -131,7 +225,18 @@
           </svg>
           <span id="nav-saved-badge" class="nav-badge hidden">0</span>
         </div>
-        <span>Saved Jobs</span>
+        <span>Saved</span>
+      </button>
+
+      <button class="nav-item" data-target="view-report">
+        <div class="nav-icon-box">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="20" x2="18" y2="10"></line>
+            <line x1="12" y1="20" x2="12" y2="4"></line>
+            <line x1="6" y1="20" x2="6" y2="14"></line>
+          </svg>
+        </div>
+        <span>Report</span>
       </button>
 
       <button class="nav-item" id="btn-open-filter-modal">
@@ -230,11 +335,56 @@
       </div>
     </div>
 
+    <!-- Dedicated PDF Printable Layout (Styled for A4 in Upwork colors) -->
+    <div id="pdf-report-container">
+      <div style="font-family: 'Inter', Arial, sans-serif; color: #001e00; background: #ffffff; padding: 24px; max-width: 800px; margin: 0 auto;">
+        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #14a800; padding-bottom: 14px; margin-bottom: 20px;">
+          <div>
+            <h1 style="font-size: 22px; font-weight: 800; color: #14a800; margin: 0;">upwork <span style="font-size: 14px; color: #5e6d55; font-weight: 600;">| Daily Intelligence Report</span></h1>
+            <p style="font-size: 11px; color: #5e6d55; margin: 4px 0 0;">Automatic Upwork Bot Monitoring & AI Proposal Analytics</p>
+          </div>
+          <div style="text-align: right;">
+            <div id="pdf-date" style="font-size: 13px; font-weight: 700; color: #001e00;"></div>
+            <div style="font-size: 10px; color: #5e6d55;">Timezone: Europe/Kyiv</div>
+          </div>
+        </div>
+
+        <div style="display: flex; gap: 12px; margin-bottom: 20px;">
+          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">ВСЕГО ПРОСКАНИРОВАНО</div>
+            <div id="pdf-scanned" style="font-size: 20px; font-weight: 800; color: #001e00; margin-top: 4px;">0</div>
+          </div>
+          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">ПОДХОДИТ ПОД ФИЛЬТРЫ</div>
+            <div id="pdf-matched" style="font-size: 20px; font-weight: 800; color: #14a800; margin-top: 4px;">0</div>
+          </div>
+          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">AI PROPOSALS</div>
+            <div id="pdf-proposals" style="font-size: 20px; font-weight: 800; color: #6366f1; margin-top: 4px;">0</div>
+          </div>
+          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">ТОП MATCH SCORE</div>
+            <div id="pdf-score" style="font-size: 20px; font-weight: 800; color: #e28a00; margin-top: 4px;">0</div>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 20px;">
+          <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">РАЗБИВКА ПО ЗАПРОСАМ:</h3>
+          <div id="pdf-keywords" style="display: flex; gap: 8px; flex-wrap: wrap;"></div>
+        </div>
+
+        <div>
+          <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">ОТОБРАННЫЕ ВАКАНСИИ ЗА ДЕНЬ:</h3>
+          <div id="pdf-jobs-list" style="display: flex; flex-direction: column; gap: 12px;"></div>
+        </div>
+      </div>
+    </div>
+
     <!-- Toast Notification -->
     <div id="toast" class="toast hidden">Copied to clipboard!</div>
 
   </div>
 
-  <script src="app.js?v=20260904_3"></script>
+  <script src="app.js?v=20260904_4"></script>
 </body>
 </html>
