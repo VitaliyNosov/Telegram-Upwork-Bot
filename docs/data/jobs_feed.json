@@ -1,5 +1,34 @@
 [
   {
+    "id": "2095976074658424744",
+    "ciphertext": "~022095976074658424744",
+    "title": "WordPress to Shopify Migration + Store Build (Small E-Commerce Launch)",
+    "description": "I'm relaunching my travel business as a self-service e-commerce store and need an experienced Shopify developer to migrate my existing WordPress site to Shopify and build out the new store.\n\nThe business: Sips & Sights Travel is pivoting from custom travel-planning services to selling two product types directly: digital itinerary guides (PDF downloads) and physical travel gear (a curated wine/whiskey travel kit). No consultations or custom quotes — everything needs to be a standard, self-serve purchase flow.\n\nScope:\n\nMigrate the existing WordPress site (sipsandsightstravel.com) to Shopify, keeping the current domain\nMigrate existing blog content and set up proper 301 redirects from old WordPress URLs to new Shopify URLs (including the blog's /blogs/news/ URL structure change) — preserving what SEO value the site currently has is important\nBuild out new site structure: Home, Shop (with Itineraries and Travel Gear collections), individual product pages, About, Blog, FAQ, Contact\nSet up a digital downloads app for instant PDF delivery on itinerary purchases\nStandard e-commerce setup: cart, checkout, shipping rates for physical products, tax configuration\nSet up a reviews app and email capture/newsletter integration\nMobile-responsive theme (most of our traffic comes from Instagram, so mobile matters a lot)\n\nI have a detailed written brief covering site structure, page-by-page requirements, brand positioning, and messaging direction — this will be shared with the freelancer I hire, and I'm looking for someone who will actually read it and ask good follow-up questions, not just quote off this listing.\n\nWhat I'm looking for:\n\nDirect, hands-on experience with WordPress-to-Shopify migrations — not just building new Shopify stores from scratch. Please describe a similar migration you've done, specifically how you handled blog URL redirects.\nComfortable with Shopify Liquid, HTML/CSS/JS, and the Shopify app ecosystem\nAble to share live stores you've built/migrated that I can actually click through and test\nClear, proactive communicator — I'd rather get questions upfront than surprises later",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 70,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor",
+      "website-migration",
+      "ecommerce-consulting"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can absolutely handle your migration from WordPress to Shopify for Sips & Sights Travel, ensuring you don't lose your SEO value. \n\nSince I work extensively in both WordPress and Shopify (Liquid), I know exactly how to bridge this gap. To preserve your SEO, I will export your blog content and map out precise 301 redirects from your old WordPress URLs to Shopify’s nested `/blogs/news/` structure using bulk import tools like Matrixify. I've executed similar migrations where maintaining search rankings was critical. I’ll also set up your digital downloads app for the itineraries, configure the physical shipping rates, and ensure the entire checkout is highly optimized for your Instagram mobile traffic.\n\nI'd love to review your detailed brief. Could you share the document so we can discuss the exact page layouts and app integrations?",
+    "publishedDateTime": "2026-09-04T20:44:42+0000",
+    "addedAt": "2026-09-04T20:47:09.457Z",
+    "url": "https://www.upwork.com/jobs/~022095976074658424744",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022095976074658424744/apply/"
+  },
+  {
     "id": "2095972105914145919",
     "ciphertext": "~022095972105914145919",
     "title": "Web Designer for Custom Website",
