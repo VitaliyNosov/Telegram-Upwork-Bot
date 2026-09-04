@@ -1,5 +1,34 @@
 [
   {
+    "id": "2095991800050474111",
+    "ciphertext": "~022095991800050474111",
+    "title": "Build Website for Global Bites for Kids",
+    "description": "Build a professional, welcoming, youth-centered website for Global Bites for Kids, a nonprofit supporting youth and young adults through age 25. The site should clearly communicate our mission of providing essential support through the B.I.T.E.S. framework and highlight our signature culinary arts programming as a hands-on approach to financial literacy, cultural awareness, entrepreneurship, workforce development, leadership, and economic independence. Include sections for About Us, Our Mission, B.I.T.E.S. Framework, Culinary Financial Empowerment, Entrepreneurship and Ghost Kitchen Business Lab, Culinary Kits, Training and Curriculum, Community Outreach, Housing Education and Resource Navigation, Youth and Young Adult Support, Get Involved, Donate, Partnerships, and Contact Us. The design should feel vibrant, trustworthy, community-focused, culturally inclusive, and appropriate for youth, families, funders, schools, government partners, and community organizations. Feature the tagline “Every Bite Builds a Better Future.”",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! I’d love to build a vibrant, professional WordPress website for Global Bites for Kids that beautifully showcases your B.I.T.E.S. framework and culinary programs. \n\nWith extensive experience developing custom WordPress sites for impact-driven nonprofits, I specialize in creating engaging, easy-to-navigate layouts that resonate with youth, families, and funders alike. I will develop a tailored, responsive theme incorporating all your key sections—from the Ghost Kitchen Business Lab to a seamless donation system—while keeping the site fast and easy for your team to update. \n\nYou can see an example of my nonprofit work here: https://www.daysforgirls.org/\n\nDo you already have brand guidelines or Figma designs ready, or will we be starting the visual design from scratch?",
+    "publishedDateTime": "2026-09-04T21:47:14+0000",
+    "addedAt": "2026-09-04T21:49:13.853Z",
+    "url": "https://www.upwork.com/jobs/~022095991800050474111",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022095991800050474111/apply/"
+  },
+  {
     "id": "2095976074658424744",
     "ciphertext": "~022095976074658424744",
     "title": "WordPress to Shopify Migration + Store Build (Small E-Commerce Launch)",
