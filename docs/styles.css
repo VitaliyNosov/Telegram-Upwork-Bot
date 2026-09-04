@@ -3,14 +3,20 @@
    Authentic Upwork Design System (Responsive, Mobile-First, Light/Dark theme)
    ========================================================================== */
 
-:root {
+:root,
+html,
+body,
+body.light-theme,
+body.dark-theme {
+  color-scheme: light !important;
+
   /* Brand Upwork Colors */
   --color-primary: #14a800;
   --color-primary-hover: #108a00;
   --color-primary-active: #0d7000;
   --color-primary-tint: rgba(20, 168, 0, 0.08);
 
-  /* Light Theme (Upwork Standard) */
+  /* Classic Upwork Daylight Theme */
   --bg-page: #f7f7f7;
   --bg-card: #ffffff;
   --bg-input: #ffffff;
@@ -44,63 +50,13 @@
   --bottom-nav-height: 64px;
 }
 
-/* Telegram Dark Mode overrides */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-page: #121212;
-    --bg-card: #1e1e1e;
-    --bg-input: #262626;
-    --bg-pill: #2a2a2a;
-    --bg-pill-active: rgba(20, 168, 0, 0.18);
-    --bg-sheet: #1e1e1e;
-    --border-color: #2e2e2e;
-    --border-color-subtle: #242424;
-
-    --text-primary: #f2f2f2;
-    --text-secondary: #a8a8a8;
-    --text-muted: #787878;
-    --text-pill: #c8c8c8;
-    --text-pill-active: #22c55e;
-
-    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.4);
-    --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.5);
-    --shadow-sheet: 0 -6px 30px rgba(0, 0, 0, 0.6);
-  }
-}
-
-/* Telegram theme class overrides if set by WebApp SDK */
-body.dark-theme {
-  --bg-page: var(--tg-theme-bg-color, #121212);
-  --bg-card: var(--tg-theme-secondary-bg-color, #1e1e1e);
-  --bg-input: #262626;
-  --bg-pill: #2a2a2a;
-  --bg-pill-active: rgba(20, 168, 0, 0.18);
-  --bg-sheet: var(--tg-theme-secondary-bg-color, #1e1e1e);
-  --border-color: #2e2e2e;
-  --border-color-subtle: #242424;
-
-  --text-primary: var(--tg-theme-text-color, #f2f2f2);
-  --text-secondary: var(--tg-theme-hint-color, #a8a8a8);
-  --text-muted: #787878;
-  --text-pill: #c8c8c8;
-  --text-pill-active: #22c55e;
-}
-
-body.light-theme {
-  --bg-page: #f7f7f7;
-  --bg-card: #ffffff;
-  --bg-input: #ffffff;
-  --bg-pill: #f2f2f2;
-  --bg-pill-active: #e4f7e2;
-  --bg-sheet: #ffffff;
-  --border-color: #e4e4e4;
-  --border-color-subtle: #f0f0f0;
-
-  --text-primary: #001e00;
-  --text-secondary: #5e6d55;
-  --text-muted: #6f7d66;
-  --text-pill: #5e6d55;
-  --text-pill-active: #14a800;
+.upwork-brand-text {
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--color-primary);
+  letter-spacing: -0.8px;
+  line-height: 1;
+  font-family: inherit;
 }
 
 /* ==========================================================================

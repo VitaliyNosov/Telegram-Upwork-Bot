@@ -11,22 +11,16 @@
       tg.ready();
       tg.expand();
       
-      // Sync theme classes
-      if (tg.colorScheme === 'dark') {
-        document.body.classList.add('dark-theme');
-      } else {
-        document.body.classList.add('light-theme');
-      }
+      // Lock to authentic Upwork daylight theme
+      document.body.classList.remove('dark-theme');
+      document.body.classList.add('light-theme');
 
-      tg.onEvent('themeChanged', function () {
-        if (tg.colorScheme === 'dark') {
-          document.body.classList.remove('light-theme');
-          document.body.classList.add('dark-theme');
-        } else {
-          document.body.classList.remove('dark-theme');
-          document.body.classList.add('light-theme');
-        }
-      });
+      if (typeof tg.setHeaderColor === 'function') {
+        try { tg.setHeaderColor('#ffffff'); } catch (_) {}
+      }
+      if (typeof tg.setBackgroundColor === 'function') {
+        try { tg.setBackgroundColor('#f7f7f7'); } catch (_) {}
+      }
     } catch (e) {
       console.warn('Telegram WebApp init warning:', e);
     }
