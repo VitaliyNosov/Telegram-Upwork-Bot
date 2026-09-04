@@ -117,6 +117,13 @@ html, body {
   gap: 8px;
 }
 
+.upwork-logo-img {
+  height: 22px;
+  width: auto;
+  display: block;
+  object-fit: contain;
+}
+
 .brand-badge {
   background-color: var(--color-primary-tint);
   color: var(--color-primary);

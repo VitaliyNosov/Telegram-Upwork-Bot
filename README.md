@@ -1,14 +1,14 @@
-# Telegram Upwork Bot with AI Cover Letter Generator
+# Telegram Upwork Bot with AI Cover Letter Generator & Mini App
 
 ![Telegram Upwork Bot Banner](img-git/github-baner-telegram-upwork-bot.png)
 
-A lightweight, serverless Node.js bot that monitors Upwork in real-time for high-quality job postings, generates personalized, ready-to-send proposal drafts (Cover Letters) via **Google Gemini AI**, and delivers rich alerts to your Telegram chat with **1-tap mobile copying**.
+A lightweight, serverless Node.js bot and **Telegram Mini App** that monitors Upwork in real-time for high-quality job postings, generates personalized, ready-to-send proposal drafts (Cover Letters) via **Google Gemini AI**, delivers rich alerts with interactive action buttons to your Telegram chat, and provides a full-featured **Upwork-styled Telegram Web App** for browsing, searching, and managing saved jobs.
 
 ---
 
 ## ⚡ Architecture & Workflow
 
-The bot operates in a semi-automated mode: it takes care of all the monitoring, filtering, and proposal drafting, while you retain full control over reviewing and submitting applications directly on Upwork.
+The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filtering, scoring, proposal drafting, and feed aggregation, while giving you full control via Telegram alerts and the interactive Mini App.
 
 ```text
 ┌─────────────────────────┐
@@ -21,46 +21,91 @@ The bot operates in a semi-automated mode: it takes care of all the monitoring, 
 │    (src/index.js)       │ ◄──────────────────────────────── │    (GraphQL Search)    │
 └───────────┬─────────────┘      3. Returns new job listings  └────────────────────────┘
             │
-            │  4. Evaluates filters & calculates score
-            ▼
-┌─────────────────────────┐      5. Job + resume_profile.txt  ┌────────────────────────┐
-│ 🤖 Google Gemini AI     │ ◄──────────────────────────────── │ 📄 Developer Profile   │
-│    (gemini-3.5-flash)   │ ────────────────────────────────► │    (data/profile.txt)  │
-└───────────┬─────────────┘      6. Custom Cover Letter draft └────────────────────────┘
+            ├─► 4. Evaluates filters & calculates score
             │
-            │  7. Sends HTML alert with <code>1-tap copy draft</code>
+            ├─► 5. Google Gemini AI drafts custom Cover Letters (src/gemini.js)
+            │
+            ├─► 6. Updates 150-job rolling feed (docs/data/jobs_feed.json)
+            │
+            ├─► 7. Tracks analytics & daily digest (data/daily_stats.json)
+            │
+            ├─► 8. Sends Telegram alerts with 1-tap copy & inline action buttons
             ▼
-┌─────────────────────────┐
-│ 📱 Telegram Bot Alert   │ ──► 👨‍💻 Freelancer (Reviews, copies, submits on Upwork)
-└─────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│ 📱 Telegram Ecosystem                                                  │
+│                                                                        │
+│  💬 Bot Alerts:                                                        │
+│     • Formatted job info + score badge                                 │
+│     • <code>One-tap copyable AI proposal</code>                        │
+│     • [ 🚀 Открыть вакансию ] & [ ✍️ Подать Proposal ] buttons         │
+│     • 📊 Daily 21:00 digest with stats                                 │
+│                                                                        │
+│  🌐 Telegram Mini App ("Jobs" Menu Button):                            │
+│     • Hosted on GitHub Pages (/docs)                                   │
+│     • Authentic Upwork daylight aesthetic (white cards, clean green)   │
+│     • Keyword search, filter chips, rating & budget sliders            │
+│     • Job details bottom sheet modal + 1-tap proposal clipboard copy   │
+│     • Local favorites / saved jobs bookmarking                         │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 🚀 Key Features
 
-* 🤖 **AI-Powered Cover Letters (Google Gemini 3.5 Flash):**
-  * Automatically analyzes job requirements and matches them with your actual experience from [`data/resume_profile.txt`](data/resume_profile.txt).
-  * Detects client secret verification words / questions (e.g. *"start your proposal with BLUEBERRY"*) and addresses them immediately.
-  * Formats concise (90–140 words), conversational proposals with strong calls-to-action and relevant portfolio links.
-* 📱 **One-Tap Mobile Copying:** Cover letters are formatted in Telegram `<code>` blocks, allowing you to copy the entire proposal into your clipboard with a single tap on your smartphone.
-* 🎯 **Strict Quality Filters:**
-  * **Tier-1 Countries Only:** United States, United Kingdom, Canada, Australia, Germany, Netherlands, Switzerland, etc.
-  * **Verified Clients:** Payment method verified, minimum 4.5+ star rating, and proven hire history.
-  * **Budget Thresholds:** Configurable minimums (e.g., $25+/hr hourly, $200+ fixed-price).
-  * **Smart Exclusions:** Automatically skips design-only or low-relevance jobs.
-* ⚡ **100% Serverless & Free:** Powered by Cloudflare Workers (cron trigger) and GitHub Actions — zero server costs and no 24/7 VPS required.
-* 🔄 **Automated OAuth Token Rotation:** Automatically refreshes the Upwork OAuth2 token and syncs the new refresh token back into GitHub Repository Secrets via GitHub CLI.
-* 📦 **Zero npm Dependencies:** Built entirely with native Node.js 20+ APIs (`fetch`, `crypto`, `fs`).
+### 1. 🤖 AI-Powered Cover Letters (Google Gemini Flash)
+* **Tailored Proposals:** Analyzes job requirements and aligns them with your actual developer experience from [`data/resume_profile.txt`](data/resume_profile.txt).
+* **Client Trap/Verification Detection:** Detects client verification keywords (e.g. *"start your proposal with BLUEBERRY"*) and integrates them immediately.
+* **Resilient Engine:** Handles thinking tokens, includes stream parsing safety, automatic retry timeout, and fallback model switching (`gemini-2.5-flash` / `gemini-1.5-flash`).
+* **High-Converting Format:** Concise (90–140 words), conversational structure with portfolio links and clear calls-to-action.
+
+### 2. 📱 Telegram Alerts with Interactive Action Buttons
+* **One-Tap Mobile Copying:** Cover letters are formatted in Telegram `<code>` blocks for instant tap-to-copy.
+* **Direct Action Buttons:**
+  * `[ 🚀 Открыть вакансию ]` — Direct link to the Upwork job posting.
+  * `[ ✍️ Подать Proposal ]` — Direct link straight to the `/apply` proposal submission form on Upwork.
+
+### 3. 🌐 Upwork-Styled Telegram Mini App (Web App)
+* **Authentic Upwork Aesthetic:** Clean white cards (`#FFFFFF`), light gray backdrop (`#F7F7F7`), dark green-black typography (`#001E00`), and signature Upwork green accents (`#14A800`).
+* **Official Upwork Wordmark:** Features the clean official Upwork logo.
+* **Real-Time Rolling Feed:** Always displays the latest 150 filtered Upwork opportunities with automatic synchronization.
+* **Search & Filters:**
+  * Real-time search across job titles, descriptions, and client countries.
+  * Quick filter chips: `All Jobs`, `Hourly Only`, `Fixed-Price`, `$35+/hr`, `Unread`.
+  * Advanced filter modal: minimum hourly rate slider, skill tag selector, and unviewed-only toggle.
+  * Sorting options: `Newest First`, `Highest Score`, `Highest Budget`.
+* **Interactive Bottom Sheet:** Full job details view with budget breakdown, client reputation metrics, and a dedicated **"📋 Скопировать AI Proposal"** button with toast confirmation.
+* **Saved Jobs (Favorites):** Bookmarks saved locally on device via `localStorage`.
+
+### 4. 📊 Daily Analytics Digest (21:00 Kyiv)
+* Automatically monitors daily execution metrics:
+  * Total polling workflow runs
+  * Total jobs scanned and evaluated
+  * High-relevance jobs matching your criteria
+  * AI cover letters generated
+  * Error tracking
+* Dispatches a formatted summary report to Telegram every evening at 21:00 Kyiv time.
+
+### 5. 🎯 Strict Quality Filters
+* **Tier-1 Countries Only:** United States, United Kingdom, Canada, Australia, Germany, Netherlands, Switzerland, etc.
+* **Verified Clients:** Payment method verified, minimum 4.5+ star rating, and proven hire history.
+* **Budget Thresholds:** Configurable minimums (e.g., $25+/hr hourly, $200+ fixed-price).
+* **Smart Exclusions:** Automatically skips design-only or low-relevance jobs.
+
+### 6. ⚡ 100% Serverless & Zero Maintenance Costs
+* Powered by **Cloudflare Workers** (cron trigger) and **GitHub Actions** (runner) — no paid VPS required.
+* **GitHub Pages** hosts the Mini App frontend directly from the repository's `/docs` folder for free.
+* **Zero npm Dependencies:** Core bot built entirely with native Node.js 20+ APIs (`fetch`, `crypto`, `fs`).
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Runtime:** [Node.js (v20+)](https://nodejs.org/) (Native ES / CommonJS without external libraries)
-* **AI Engine:** [Google Gemini API (`gemini-3.5-flash`)](https://aistudio.google.com/)
+* **Core Engine:** [Node.js (v20+)](https://nodejs.org/) (Native ES / CommonJS without external dependencies)
+* **AI Engine:** [Google Gemini API (`gemini-2.5-flash` / `gemini-1.5-flash`)](https://aistudio.google.com/)
 * **APIs:** [Upwork GraphQL API v3](https://developers.upwork.com/) & [Telegram Bot API](https://core.telegram.org/bots/api)
-* **Automation:** [GitHub Actions](https://github.com/features/actions) + [Cloudflare Workers](https://workers.cloudflare.com/)
+* **Frontend (Mini App):** Vanilla HTML5, CSS3 (Upwork Design System), Vanilla ES6 JavaScript, [Telegram WebApp SDK](https://telegram.org/js/telegram-web-app.js)
+* **Hosting & CI/CD:** [GitHub Actions](https://github.com/features/actions), [GitHub Pages](https://pages.github.com/), [Cloudflare Workers](https://workers.cloudflare.com/)
 
 ---
 
@@ -68,24 +113,41 @@ The bot operates in a semi-automated mode: it takes care of all the monitoring, 
 
 ```text
 ├── .github/workflows/
-│   └── poll.yml               # GitHub Actions workflow for polling Upwork
+│   └── poll.yml               # GitHub Actions workflow for polling & feed updating
 ├── cloudflare-worker/
 │   └── index.js               # Cloudflare Worker for cron dispatch
 ├── data/
+│   ├── daily_stats.json       # Daily analytics tracking state
+│   ├── jobs_feed.json         # Rolling feed of latest 150 processed jobs
 │   ├── resume_profile.txt     # Your developer bio, skills, cases, and portfolio
-│   └── seen_jobs.json         # State file storing processed job IDs
+│   └── seen_jobs.json         # Deduplication persistence (processed job IDs)
+├── docs/                      # GitHub Pages deployment bundle (Mini App)
+│   ├── data/
+│   │   └── jobs_feed.json     # Live feed consumed by the Mini App
+│   ├── app.js                 # Mini App client logic & Telegram SDK integration
+│   ├── index.html             # Mini App HTML structure (Upwork design)
+│   ├── logo.png               # Official Upwork logo
+│   └── styles.css             # Authentic Upwork daylight theme stylesheet
+├── webapp/                    # Mini App source directory (mirrored to docs/)
+│   ├── app.js
+│   ├── index.html
+│   ├── logo.png
+│   └── styles.css
 ├── scripts/
+│   ├── seed-feed.js           # Feed generator & verification script
 │   └── test-gemini.js         # Isolated test script for AI cover letter generation
 ├── src/
+│   ├── analytics.js           # Polling stats tracker & 21:00 Kyiv digest sender
 │   ├── auth.js                # Upwork OAuth2 authentication & token refresh
 │   ├── config.js              # Bot configuration, filters, and weights
 │   ├── filters.js             # Multi-factor job filtering logic
 │   ├── gemini.js              # Google Gemini API integration module
 │   ├── index.js               # Main polling engine
+│   ├── jobsFeed.js            # 150-job rolling feed manager
 │   ├── login.js               # One-time OAuth login script
 │   ├── scoring.js             # Relevance scoring algorithm
 │   ├── seenJobs.js            # Deduplication persistence
-│   ├── telegram.js            # Telegram message builder & sender
+│   ├── telegram.js            # Telegram message builder & inline button sender
 │   └── upwork.js              # Upwork GraphQL API queries
 ├── package.json
 └── wrangler.toml              # Cloudflare Worker configuration
@@ -107,7 +169,7 @@ The bot operates in a semi-automated mode: it takes care of all the monitoring, 
 
 ### 2. Developer Profile Setup
 
-Edit [`data/resume_profile.txt`](data/resume_profile.txt) with your actual skills, specialties, and portfolio links. The Gemini AI module reads this file to tailor proposals specifically to your background:
+Edit [`data/resume_profile.txt`](data/resume_profile.txt) with your actual skills, specialties, and portfolio links. Gemini AI reads this file to tailor proposals specifically to your background:
 
 ```text
 WORDPRESS & WOOCOMMERCE DEVELOPER
@@ -126,7 +188,6 @@ PORTFOLIO:
 Run the interactive login script locally to authenticate with Upwork:
 
 ```bash
-# Set your Upwork API credentials in terminal or .env
 $env:UPWORK_CLIENT_ID="your_client_id"
 $env:UPWORK_CLIENT_SECRET="your_client_secret"
 
@@ -141,7 +202,7 @@ npm run login
 
 ### 4. Testing AI Cover Letter Generation Locally
 
-To test the Gemini AI integration on a sample WordPress/WooCommerce job without polling Upwork:
+To test the Gemini AI integration on a sample job without polling Upwork:
 
 ```bash
 $env:GEMINI_API_KEY="AIzaSyYourGeminiApiKey"
@@ -157,6 +218,26 @@ To perform a single manual poll of Upwork:
 ```bash
 npm run poll
 ```
+
+---
+
+## 📱 Telegram Mini App Setup
+
+### Step 1: Enable GitHub Pages
+
+1. Open your repository on GitHub.
+2. Navigate to **Settings -> Pages**.
+3. Under **Build and deployment -> Source**, select **Deploy from a branch**.
+4. Choose Branch: `main` and Folder: `/docs`. Click **Save**.
+5. Your Mini App will be live at: `https://<your-username>.github.io/<repo-name>/`.
+
+### Step 2: Configure the Bot Menu Button in @BotFather
+
+1. Open [@BotFather](https://t.me/BotFather) in Telegram.
+2. Send `/setmenubutton` and choose your bot.
+3. Send the menu button title: `Jobs`
+4. Send your GitHub Pages URL: `https://<your-username>.github.io/<repo-name>/`
+5. Done! The `Jobs` button will now appear directly inside your bot's chat interface.
 
 ---
 
