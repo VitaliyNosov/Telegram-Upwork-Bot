@@ -25,9 +25,9 @@ The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filte
             │
             ├─► 5. Google Gemini AI drafts custom Cover Letters (src/gemini.js)
             │
-            ├─► 6. Updates 150-job rolling feed (docs/data/jobs_feed.json)
+            ├─► 6. Updates 150-job rolling feed & Mini App data (docs/data/jobs_feed.json)
             │
-            ├─► 7. Tracks analytics & daily digest (data/daily_stats.json)
+            ├─► 7. Tracks daily stats & mirrors to Mini App (docs/data/daily_stats.json)
             │
             ├─► 8. Sends Telegram alerts with 1-tap copy & inline action buttons
             ▼
@@ -42,7 +42,9 @@ The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filte
 │                                                                        │
 │  🌐 Telegram Mini App ("Jobs" Menu Button):                            │
 │     • Hosted on GitHub Pages (/docs)                                   │
-│     • Authentic Upwork daylight aesthetic (white cards, clean green)   │
+│     • Dual Theme: Authentic Upwork Daylight (default) & Telegram Dark  │
+│     • 📊 Daily Report tab: live KPI stats & search query breakdown     │
+│     • 📥 1-Click styled PDF Report export with official Upwork logo    │
 │     • Keyword search, filter chips, rating & budget sliders            │
 │     • Job details bottom sheet modal + 1-tap proposal clipboard copy   │
 │     • Local favorites / saved jobs bookmarking                         │
@@ -110,12 +112,57 @@ The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filte
 
 ---
 
+## 📋 Условия и спецификация доработок (Changelog & Technical Specs)
+
+Недавний пакет масштабных доработок расширил возможности Telegram Mini App и фонового мониторинга:
+
+### 1. 📊 Вкладка ежедневного отчета (Daily Report Tab в Mini App)
+* **Цель и условия:** Перенос суточного отчета по подходящим вакансиям и аналитическим метрикам непосредственно в интерфейс Telegram Mini App для мгновенного доступа без необходимости скроллить историю сообщений в чате.
+* **Источник данных:** `data/daily_stats.json`, зеркалируемый в `docs/data/daily_stats.json` и `webapp/data/daily_stats.json`.
+* **4 ключевые KPI-карточки за день:**
+  * **Просканировано (Scanned):** Общее количество вакансий, обработанных поисковым движком за текущие сутки.
+  * **Подходящие (Matched):** Число вакансий, полностью прошедших строгие фильтры качества (Tier-1 страны, рейтинг клиента ≥ 4.5, верификация оплаты, бюджетные пороги).
+  * **AI Proposals:** Количество готовых персонализированных сопроводительных писем, сгенерированных Google Gemini Flash.
+  * **Топ скор (Top Score):** Наивысший балл релевантности среди всех найденных вакансий за день.
+* **Детализация по поисковым запросам:** Динамические бейджи с точным количеством найденных вакансий по каждому запросу (например, `WordPress: 6`, `WooCommerce: 4`).
+* **Список вакансий за день:** Карточки отобранных за сегодня возможностей с указанием бюджета, страны, оценки релевантности и прямыми кнопками:
+  * `[ Открыть ]` — быстрый переход к оригинальной публикации на Upwork.
+  * `[ Proposal ]` — прямой переход на форму подачи отклика (`/apply`).
+
+### 2. 📥 Стилизованный экспорт отчета в PDF (1-Click PDF Export)
+* **Цель и условия:** Возможность скачать красиво оформленный сводный отчет за текущий день в виде PDF-документа, полностью стилизованного под фирменный стиль приложения.
+* **Официальный брендинг Upwork:** В шапку PDF-файла интегрирован официальный графический логотип Upwork (`logo.png`) с указанием даты формирования отчета (`Upwork_Daily_Report_YYYY-MM-DD.pdf`).
+* **Клиентский рендеринг без серверов:** Генерация выполняется на стороне клиента через библиотеку `html2pdf.js` (Canvas + jsPDF) — быстро, безопасно и без задержек.
+* **Структура документа (A4 Portrait):**
+  * Фирменный хедер с официальным логотипом Upwork и датой генерации.
+  * Сводная сетка метрик (4 KPI-карточки с аккуратной версткой).
+  * Теги поисковых запросов с количеством совпадений.
+  * Полный структурированный список вакансий со скорингом, бюджетом, страной и кликабельными ссылками на Upwork.
+
+### 3. 🌓 Смена темы: Светлая по умолчанию + Темная в стиле Telegram
+* **Условия оформления:**
+  * **Светлая тема (Classic Upwork Daylight) — по умолчанию:** Фирменная светлая палитра Upwork (чисто-белые карточки `#FFFFFF`, нейтральный фон `#F7F7F7`, темная контрастная типографика `#001E00` и фирменный зеленый акцент `#14A800`).
+  * **Темная тема (Telegram Desktop Dark Mode):** Премиальная темная палитра в нативном стиле Telegram Desktop (`#17212B` фон окна, `#242F3D` фон карточек и панелей, чистый белый текст и акценты `#14A800` / `#5288C1`).
+* **Управление и сохранение:**
+  * Кнопка быстрого переключения тем (☀️ / 🌙) в шапке приложения.
+  * Сохранение выбранного режима в `localStorage` (выбранная тема сохраняется при повторных открытиях приложения).
+  * Полноценная интеграция с Telegram WebApp API: динамическое обновление `Telegram.WebApp.setHeaderColor()` и `Telegram.WebApp.setBackgroundColor()` для синхронизации рамки окна Telegram.
+  * Адаптивный логотип Upwork: автоматическое переключение между `logo.png` (для светлой темы) и `logo-dark.png` (для темной темы).
+
+### 4. 🔄 Пайплайн автосинхронизации (GitHub Actions & GitHub Pages)
+* **Условия непрерывной работы:**
+  * При каждом цикле поллинга модуль `src/analytics.js` накапливает суточную статистику и синхронизирует ее между корневой директорией `data/` и клиентскими директориями `webapp/data/` и `docs/data/`.
+  * GitHub Actions воркфлоу (`.github/workflows/poll.yml`) автоматически индексирует и пушит актуальные `jobs_feed.json` и `daily_stats.json`.
+  * GitHub Pages мгновенно раздает свежие данные пользователям Mini App без необходимости перезапуска бота.
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Core Engine:** [Node.js (v20+)](https://nodejs.org/) (Native ES / CommonJS without external dependencies)
 * **AI Engine:** [Google Gemini API (`gemini-2.5-flash` / `gemini-1.5-flash`)](https://aistudio.google.com/)
 * **APIs:** [Upwork GraphQL API v3](https://developers.upwork.com/) & [Telegram Bot API](https://core.telegram.org/bots/api)
-* **Frontend (Mini App):** Vanilla HTML5, CSS3 (Upwork Design System), Vanilla ES6 JavaScript, [Telegram WebApp SDK](https://telegram.org/js/telegram-web-app.js)
+* **Frontend (Mini App):** Vanilla HTML5, CSS3 (Upwork Design System & Telegram Dark Mode), Vanilla ES6 JavaScript, [Telegram WebApp SDK](https://telegram.org/js/telegram-web-app.js), [html2pdf.js](https://raw.githack.com/eKoopmans/html2pdf.js/master/dist/html2pdf.bundle.min.js) (Client-side PDF Generation)
 * **Hosting & CI/CD:** [GitHub Actions](https://github.com/features/actions), [GitHub Pages](https://pages.github.com/), [Cloudflare Workers](https://workers.cloudflare.com/)
 
 ---
@@ -134,15 +181,21 @@ The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filte
 │   └── seen_jobs.json         # Deduplication persistence (processed job IDs)
 ├── docs/                      # GitHub Pages deployment bundle (Mini App)
 │   ├── data/
+│   │   ├── daily_stats.json   # Live daily metrics for the Report tab
 │   │   └── jobs_feed.json     # Live feed consumed by the Mini App
 │   ├── app.js                 # Mini App client logic & Telegram SDK integration
-│   ├── index.html             # Mini App HTML structure (Upwork design)
-│   ├── logo.png               # Official Upwork logo
-│   └── styles.css             # Authentic Upwork daylight theme stylesheet
+│   ├── index.html             # Mini App HTML structure (Upwork design + Report tab)
+│   ├── logo.png               # Official Upwork logo (Light theme & PDF export)
+│   ├── logo-dark.png          # Official Upwork logo (Telegram Dark theme)
+│   └── styles.css             # Dual-theme stylesheet (Daylight & Telegram Dark)
 ├── webapp/                    # Mini App source directory (mirrored to docs/)
+│   ├── data/
+│   │   ├── daily_stats.json
+│   │   └── jobs_feed.json
 │   ├── app.js
 │   ├── index.html
 │   ├── logo.png
+│   ├── logo-dark.png
 │   └── styles.css
 ├── scripts/
 │   ├── seed-feed.js           # Feed generator & verification script
