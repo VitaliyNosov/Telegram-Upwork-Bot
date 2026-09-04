@@ -1,53 +1,8 @@
 {
-  "date": "2026-09-04",
-  "lastDigestSentDate": "2026-09-04",
-  "totalScanned": 30,
-  "matchedFilters": 6,
-  "byKeyword": {
-    "wordpress developer": 6
-  },
-  "topJobs": [
-    {
-      "title": "Thrive Themes WordPress Designer / Developer to Build 8-Page Site",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022095914014011675891",
-      "addedAt": "2026-09-04T16:39:04.766Z"
-    },
-    {
-      "title": "Dynamic Landing Page Development for Client Sign-Up",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022095921023823181173",
-      "addedAt": "2026-09-04T17:07:03.410Z"
-    },
-    {
-      "title": "WordPress Website and Content Management",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022095936441285860479",
-      "addedAt": "2026-09-04T18:09:03.064Z"
-    },
-    {
-      "title": "Web Designer for Custom Website",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022095972105914145919",
-      "addedAt": "2026-09-04T20:31:02.815Z"
-    },
-    {
-      "title": "WordPress to Shopify Migration + Store Build (Small E-Commerce Launch)",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022095976074658424744",
-      "addedAt": "2026-09-04T20:47:02.895Z"
-    },
-    {
-      "title": "Personal brand wordpress website",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022095907853408918655",
-      "addedAt": "2026-09-04T16:15:03.960Z"
-    }
-  ]
+  "date": "2026-09-05",
+  "lastDigestSentDate": "2026-09-05",
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
