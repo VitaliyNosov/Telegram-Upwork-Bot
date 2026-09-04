@@ -2,7 +2,7 @@
 
 ![Telegram Upwork Bot Banner](img-git/github-baner-telegram-upwork-bot.png)
 
-A lightweight, serverless Node.js bot and **Telegram Mini App** that monitors Upwork in real-time for high-quality job postings, generates personalized, ready-to-send proposal drafts (Cover Letters) via **Google Gemini AI**, delivers rich alerts with interactive action buttons to your Telegram chat, and provides a full-featured **Upwork-styled Telegram Web App** for browsing, searching, and managing saved jobs.
+A lightweight, serverless Node.js bot and **Telegram Mini App** that monitors Upwork in real-time for high-quality job postings, generates personalized, ready-to-send proposal drafts (Cover Letters) via **Google Gemini AI**, delivers rich alerts with interactive action buttons to your Telegram chat, and provides a full-featured **Upwork-styled Telegram Web App** for browsing, searching, reviewing daily reports, and managing saved jobs.
 
 ---
 
@@ -72,7 +72,7 @@ The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filte
   * **Daylight Upwork (Default):** Crisp white cards (`#FFFFFF`), light gray backdrop (`#F7F7F7`), dark green-black typography (`#001E00`), and signature Upwork green accents (`#14A800`).
   * **Telegram Dark Mode:** Beautiful dark theme styled after Telegram Desktop (`#17212B` backdrop, `#242F3D` card surface, pure white typography, dual-mode Upwork logo).
   * Fast header toggle button (☀️ / 🌙) with persistent `localStorage` memory and Telegram window header/background synchronization.
-* **Official Upwork Brand Assets:** Features the official dual-mode Upwork logo.
+* **Official Upwork Brand Assets:** Features the official dual-mode Upwork logo (`logo.png` / `logo-dark.png`).
 * **Real-Time Rolling Feed:** Displays the latest 150 filtered Upwork opportunities with automatic synchronization.
 * **Search & Filter Suite:**
   * Real-time search across job titles, descriptions, and client countries.
@@ -86,7 +86,7 @@ The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filte
   * Full list of today's matched opportunities with direct Upwork link and Proposal buttons.
 * **📥 1-Click Styled PDF Export:**
   * Instant generation and download of a branded, print-ready A4 PDF report (`Upwork_Daily_Report_YYYY-MM-DD.pdf`).
-  * Complete with Upwork header logo, date badge, executive KPI grid, keyword tags, and clickable job links.
+  * Complete with official Upwork header logo, date badge, executive KPI grid, keyword tags, and clickable job links.
 * **Interactive Bottom Sheet:** Full job details view with budget breakdown, client reputation metrics, and a dedicated **"📋 Скопировать AI Proposal"** button with toast confirmation.
 * **Saved Jobs (Favorites):** Bookmarks saved locally on device via `localStorage`.
 
@@ -112,48 +112,48 @@ The bot operates in a semi-automated workflow: it handles 24/7 monitoring, filte
 
 ---
 
-## 📋 Условия и спецификация доработок (Changelog & Technical Specs)
+## 📋 Latest Enhancements & Technical Specifications
 
-Недавний пакет масштабных доработок расширил возможности Telegram Mini App и фонового мониторинга:
+A comprehensive upgrade package expanded the Telegram Mini App and background monitoring capabilities:
 
-### 1. 📊 Вкладка ежедневного отчета (Daily Report Tab в Mini App)
-* **Цель и условия:** Перенос суточного отчета по подходящим вакансиям и аналитическим метрикам непосредственно в интерфейс Telegram Mini App для мгновенного доступа без необходимости скроллить историю сообщений в чате.
-* **Источник данных:** `data/daily_stats.json`, зеркалируемый в `docs/data/daily_stats.json` и `webapp/data/daily_stats.json`.
-* **4 ключевые KPI-карточки за день:**
-  * **Просканировано (Scanned):** Общее количество вакансий, обработанных поисковым движком за текущие сутки.
-  * **Подходящие (Matched):** Число вакансий, полностью прошедших строгие фильтры качества (Tier-1 страны, рейтинг клиента ≥ 4.5, верификация оплаты, бюджетные пороги).
-  * **AI Proposals:** Количество готовых персонализированных сопроводительных писем, сгенерированных Google Gemini Flash.
-  * **Топ скор (Top Score):** Наивысший балл релевантности среди всех найденных вакансий за день.
-* **Детализация по поисковым запросам:** Динамические бейджи с точным количеством найденных вакансий по каждому запросу (например, `WordPress: 6`, `WooCommerce: 4`).
-* **Список вакансий за день:** Карточки отобранных за сегодня возможностей с указанием бюджета, страны, оценки релевантности и прямыми кнопками:
-  * `[ Открыть ]` — быстрый переход к оригинальной публикации на Upwork.
-  * `[ Proposal ]` — прямой переход на форму подачи отклика (`/apply`).
+### 1. 📊 Daily Report Tab in Mini App
+* **Purpose & Scope:** Brings the daily analytics and filtered opportunity digest directly into the Telegram Mini App interface for quick review without digging through chat history.
+* **Data Pipeline:** Driven by `data/daily_stats.json`, mirrored automatically to `docs/data/daily_stats.json` and `webapp/data/daily_stats.json`.
+* **4 Live KPI Metrics:**
+  * **Scanned Today:** Total number of Upwork job listings ingested and evaluated during the current day.
+  * **Matched Opportunities:** Jobs that fully passed all strict quality criteria (Tier-1 countries, client rating ≥ 4.5, verified payment, minimum budget).
+  * **AI Proposals:** Count of tailored, ready-to-send proposal drafts generated by Google Gemini Flash.
+  * **Top Relevance Score:** The highest relevance score achieved among today's matched jobs.
+* **Search Query Breakdown:** Interactive query badges with live counts of matched opportunities for each search term (e.g. `WordPress: 6`, `WooCommerce: 4`).
+* **Today's Opportunities Feed:** Clean cards for all matched jobs with budget badges, client verification, relevance score, and direct action buttons:
+  * `[ Open Job ]` — Direct link to the Upwork posting.
+  * `[ Proposal ]` — Direct link to the `/apply` proposal submission page.
 
-### 2. 📥 Стилизованный экспорт отчета в PDF (1-Click PDF Export)
-* **Цель и условия:** Возможность скачать красиво оформленный сводный отчет за текущий день в виде PDF-документа, полностью стилизованного под фирменный стиль приложения.
-* **Официальный брендинг Upwork:** В шапку PDF-файла интегрирован официальный графический логотип Upwork (`logo.png`) с указанием даты формирования отчета (`Upwork_Daily_Report_YYYY-MM-DD.pdf`).
-* **Клиентский рендеринг без серверов:** Генерация выполняется на стороне клиента через библиотеку `html2pdf.js` (Canvas + jsPDF) — быстро, безопасно и без задержек.
-* **Структура документа (A4 Portrait):**
-  * Фирменный хедер с официальным логотипом Upwork и датой генерации.
-  * Сводная сетка метрик (4 KPI-карточки с аккуратной версткой).
-  * Теги поисковых запросов с количеством совпадений.
-  * Полный структурированный список вакансий со скорингом, бюджетом, страной и кликабельными ссылками на Upwork.
+### 2. 📥 Styled PDF Export (1-Click Client-Side Export)
+* **Purpose & Scope:** Instant export of the full daily report as a beautifully styled, print-ready PDF document matching the application design system.
+* **Official Upwork Branding:** Embeds the official high-resolution Upwork logo (`logo.png`) in the document header alongside the report date badge (`Upwork_Daily_Report_YYYY-MM-DD.pdf`).
+* **Zero-Server Client Rendering:** Utilizes `html2pdf.js` (Canvas + jsPDF) for fast, client-side PDF compilation without server load or third-party paid rendering APIs.
+* **A4 Portrait Layout:**
+  * Branded header with the official Upwork logo and date stamp.
+  * Summary KPI grid (4 metric cards with clean borders and typography).
+  * Keyword search breakdown tags.
+  * Full list of today's opportunities with scores, budgets, client info, and clickable Upwork links.
 
-### 3. 🌓 Смена темы: Светлая по умолчанию + Темная в стиле Telegram
-* **Условия оформления:**
-  * **Светлая тема (Classic Upwork Daylight) — по умолчанию:** Фирменная светлая палитра Upwork (чисто-белые карточки `#FFFFFF`, нейтральный фон `#F7F7F7`, темная контрастная типографика `#001E00` и фирменный зеленый акцент `#14A800`).
-  * **Темная тема (Telegram Desktop Dark Mode):** Премиальная темная палитра в нативном стиле Telegram Desktop (`#17212B` фон окна, `#242F3D` фон карточек и панелей, чистый белый текст и акценты `#14A800` / `#5288C1`).
-* **Управление и сохранение:**
-  * Кнопка быстрого переключения тем (☀️ / 🌙) в шапке приложения.
-  * Сохранение выбранного режима в `localStorage` (выбранная тема сохраняется при повторных открытиях приложения).
-  * Полноценная интеграция с Telegram WebApp API: динамическое обновление `Telegram.WebApp.setHeaderColor()` и `Telegram.WebApp.setBackgroundColor()` для синхронизации рамки окна Telegram.
-  * Адаптивный логотип Upwork: автоматическое переключение между `logo.png` (для светлой темы) и `logo-dark.png` (для темной темы).
+### 3. 🌓 Theme Customization: Daylight Default & Telegram Dark Mode
+* **Design Standards:**
+  * **Daylight Upwork (Default):** Classic Upwork brand aesthetic (crisp white cards `#FFFFFF`, light neutral backdrop `#F7F7F7`, high-contrast typography `#001E00`, signature Upwork green `#14A800`).
+  * **Telegram Dark Mode:** Native Telegram Desktop dark palette (`#17212B` window background, `#242F3D` card surfaces, clean white text, `#14A800` / `#5288C1` accents).
+* **Controls & Persistence:**
+  * Instant theme toggle button (☀️ / 🌙) in the top-right header.
+  * Persistent user choice stored in `localStorage`.
+  * Deep Telegram WebApp SDK integration: calls `Telegram.WebApp.setHeaderColor()` and `Telegram.WebApp.setBackgroundColor()` to match native Telegram window framing.
+  * Adaptive brand assets: switches automatically between `logo.png` (light theme) and `logo-dark.png` (dark theme).
 
-### 4. 🔄 Пайплайн автосинхронизации (GitHub Actions & GitHub Pages)
-* **Условия непрерывной работы:**
-  * При каждом цикле поллинга модуль `src/analytics.js` накапливает суточную статистику и синхронизирует ее между корневой директорией `data/` и клиентскими директориями `webapp/data/` и `docs/data/`.
-  * GitHub Actions воркфлоу (`.github/workflows/poll.yml`) автоматически индексирует и пушит актуальные `jobs_feed.json` и `daily_stats.json`.
-  * GitHub Pages мгновенно раздает свежие данные пользователям Mini App без необходимости перезапуска бота.
+### 4. 🔄 Automated Data Synchronization Pipeline (GitHub Actions)
+* **Continuous Real-Time Sync:**
+  * Every polling run executed by `src/analytics.js` updates daily metrics and synchronizes them across `data/`, `webapp/data/`, and `docs/data/`.
+  * The GitHub Actions workflow (`.github/workflows/poll.yml`) automatically stages, commits, and pushes updated `jobs_feed.json` and `daily_stats.json` files.
+  * GitHub Pages instantly serves refreshed data to all Mini App users without requiring bot restarts.
 
 ---
 
