@@ -1,5 +1,31 @@
 [
   {
+    "id": "2095907853408918655",
+    "ciphertext": "~022095907853408918655",
+    "title": "Personal brand wordpress website",
+    "description": "I need a website made from scratch on wordpress. This will have all the basic pages but it needs to be built as a personal brand website for an journalist. It should have sections for podcast displays and should also have an option for people to be able to purchase courses.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I can build a clean, high-performing WordPress website from scratch tailored specifically for your journalism brand, complete with seamless podcast integration and a secure course checkout system.\n\nI specialize in custom WordPress development, using Gutenberg and ACF to make managing your podcast episodes and page layouts incredibly easy. For the course purchases, I will set up a streamlined WooCommerce or LMS checkout process so your audience can buy seamlessly without any technical friction. You can see an example of my clean, content-focused work here: https://www.thelifeyoucansave.org/\n\nDo you already have a platform in mind for hosting your courses (like LearnDash or standard WooCommerce), or would you like some recommendations on the best setup?",
+    "publishedDateTime": "2026-09-04T16:13:52+0000",
+    "addedAt": "2026-09-04T16:15:34.613Z",
+    "url": "https://www.upwork.com/jobs/~022095907853408918655",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022095907853408918655/apply/"
+  },
+  {
     "id": "2095817534805495309",
     "ciphertext": "~022095817534805495309",
     "title": "WordPress Speed Optimization - Core Web Vitals (LCP, CLS)",

@@ -1,8 +1,18 @@
 {
   "date": "2026-09-04",
   "lastDigestSentDate": null,
-  "totalScanned": 5,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 6,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Personal brand wordpress website",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022095907853408918655",
+      "addedAt": "2026-09-04T16:15:03.960Z"
+    }
+  ]
 }
