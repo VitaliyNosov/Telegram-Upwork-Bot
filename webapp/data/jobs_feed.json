@@ -1,5 +1,34 @@
 [
   {
+    "id": "2095936441285860479",
+    "ciphertext": "~022095936441285860479",
+    "title": "WordPress Website and Content Management",
+    "description": "I need a freelancer to duplicate our current website (hosted on Wix) and recreate it using Hostinger for web, tablet and mobile interface. A blog system will need to be created and added to our home page also. We are also wanting to purchase and set up trysoro for daily blog postings. Once completed, this needs to be hosted (with the domain launch) on WordPress.  SEO set-up will be needed. This will be needed for 1.) Google Analytics/Search functions 2.) Integrating the trysoro.com and 3.) Integrating trysoro.com also with Facebook.\nPlease have experience with web-building WordPress, Hostinger, and SEO functions and set up.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-content-management",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can recreate your Wix website on WordPress using Hostinger, ensuring a responsive, pixel-perfect design across desktop, tablet, and mobile.\n\nI have extensive experience with custom WordPress development, Hostinger setups, and SEO integrations. I will build your homepage blog system, integrate Trysoro for automated daily postings, and connect it with Facebook. I'll also configure Google Analytics and Search Console so your site is fully optimized and tracked from launch. \n\nYou can view some of my clean, high-performance WordPress work here: https://www.thelifeyoucansave.org/\n\nDo you have the Wix site URL handy so I can review the layout and plan the migration?",
+    "publishedDateTime": "2026-09-04T18:07:29+0000",
+    "addedAt": "2026-09-04T18:09:08.065Z",
+    "url": "https://www.upwork.com/jobs/~022095936441285860479",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022095936441285860479/apply/"
+  },
+  {
     "id": "2095921023823181173",
     "ciphertext": "~022095921023823181173",
     "title": "Dynamic Landing Page Development for Client Sign-Up",

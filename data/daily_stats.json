@@ -1,10 +1,10 @@
 {
   "date": "2026-09-04",
   "lastDigestSentDate": "2026-09-04",
-  "totalScanned": 15,
-  "matchedFilters": 3,
+  "totalScanned": 16,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 3
+    "wordpress developer": 4
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022095921023823181173",
       "addedAt": "2026-09-04T17:07:03.410Z"
+    },
+    {
+      "title": "WordPress Website and Content Management",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022095936441285860479",
+      "addedAt": "2026-09-04T18:09:03.064Z"
     },
     {
       "title": "Personal brand wordpress website",
