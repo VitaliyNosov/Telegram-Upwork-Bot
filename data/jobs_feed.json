@@ -1,5 +1,35 @@
 [
   {
+    "id": "2095972105914145919",
+    "ciphertext": "~022095972105914145919",
+    "title": "Web Designer for Custom Website",
+    "description": "Upwork Job Post: WordPress/Elementor – Multilingual Landmark Info Website (MVP)\n\n\nProject Description:\nWe're building a multilingual WordPress website for associations/institutions that gives tourists free information about landmarks via QR code (text + audio) or directly through the landing page of that association/institution. Visitors scan a QR code on-site, land on a subpage for a specific section of the landmark (e.g. Picture next to the main entry of the building), select their language via flag icons, read/listen to the explanation, and can optionally leave a rating/comment which is not visible for other website viewer.\nThere should be one single subpage per association/institution with a predefined template for each and every interesting element (like picture next to the main entry). \n\n\nCurrent status: \nhosting is live, WordPress is installed, HTTPS is set up, and the following plugins are already installed and activated: Elementor Pro, Polylang, Site Reviews, Pretty Links, UpdraftPlus, Code Snippets. All 7 languages are already set up in Polylang (DE, EN, TR, AL, MK, BS, MS). A first attempt at the header (flag language switcher) exists but is not finished/live yet.\n\n\nImportant: \nI have no web design experience. After this project, I only want to add content myself (text, photos, audio files) via Elementor — the structure/templates need to be fully finished and functional.\n\n\nOne Landing Page:\n- Placeholder for some content\n- Switch the language with Polylang\n- Whenever one new sight-seeing is published it should be visible as a preview in the landing page (last 3 new sightseeings).\n- Possibity to search: First country (just the one where minimum one sight seeing already exists (e.g. Germany). Then just the cities where we have already minium sight seeing (e.g. Hamburg), then all names of the sightseeing to open the subpage of that sightseeing.\nThese three information are visible in the linktree of the website: e.g. www.abc.com/germany/hamburg/harbour\n\n\nScope of Work\n\n1. Header (global, via Elementor Theme Builder)\nFlag-based language switcher (Polylang), top left or right, working for all 7 languages (more langues might follow later)\nBelow/next to it, a breadcrumb line: Country / City / Institute\nClean, simple design (not a generic demo layout)\n\n2. Page template for one \"Section\" (as a reusable Elementor template)\nEach subpage (= one sightseeing) needs:\nSubpage header (e.g. \"harbour\")\n\nTitle: Entry to main building\nPhoto carousel (1–3 images with captions)\nAudio player (for an uploaded MP3 file)\nText block for reading along\nStar rating + comment field including optional image upload (plugin: Site Reviews) – comments/images should NOT be published publicly, only sent to a contact email address (configurable per landmark)\nThe template must be easy to duplicate, so I can swap out text/image/audio per language/section without rebuilding the layout\n\n3. Link/QR preparation to jump directly to that part of the subpage.\nSet up 10 Pretty Links pointing to the (placeholder-content) subpages, plus a short explanation of how I can create additional links myself\n\n4. Handover\nA short video guide (English) explaining how I, as a beginner, can:\ncreate a new section page from the template\nadd text per language\nswap out photos/audio\ncreate a new Pretty Link\n\n\nTechnical Environment:\nHosting: All-Inkl\nWordPress + Elementor Pro (Theme: Hello Elementor)\nMultilingual: Polylang (already configured with 7 languages)\nRatings/comments: Site Reviews plugin (not published - just in backend)\nLinks: Pretty Links\nAccess credentials (wp-admin) will be provided after hiring\n\n\nNot Needed:\nNo translation work (I'll handle this myself)\nNo audio recording (I'll handle this myself)\nNo automation/custom development beyond what's needed (this is an MVP)\n\n\nMVP\nMVP with one example you can decide to show me the results.\n\n\nTimeline\nCompletion within 2 weeks preferred.\n\n\nApplication\n\nPlease briefly address the following in your proposal:\n\nExperience with the Elementor Pro Theme Builder\nExperience with Polylang (multilingual setup)\nExperience with Site Reviews or similar rating/comment plugins with image upload\nEstimated time and fixed-price quote",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "elementor",
+      "graphic-design",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Your QR-code landmark MVP is a brilliant concept, and I can build this exact setup using Elementor Pro and Polylang within your 2-week timeline for a fixed price of $650.\n\nI specialize in the Elementor Pro Theme Builder and multilingual configurations. I will set up your Polylang flag switcher in the header, build the reusable \"Section\" template (integrating the audio player, image carousel, and breadcrumbs), and configure Site Reviews to route ratings privately to your admin email instead of displaying them publicly. I have built similar highly structured, easy-to-manage sites, such as https://www.seeintl.org/.\n\nOnce the structure is ready, I’ll record a step-by-step video guide showing you how to easily duplicate the template, swap content, and generate new Pretty Links.\n\nAre you free for a quick chat to discuss the private email routing for the reviews?",
+    "publishedDateTime": "2026-09-04T20:29:07+0000",
+    "addedAt": "2026-09-04T20:31:08.075Z",
+    "url": "https://www.upwork.com/jobs/~022095972105914145919",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022095972105914145919/apply/"
+  },
+  {
     "id": "2095936441285860479",
     "ciphertext": "~022095936441285860479",
     "title": "WordPress Website and Content Management",

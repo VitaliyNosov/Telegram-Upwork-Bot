@@ -1,10 +1,10 @@
 {
   "date": "2026-09-04",
   "lastDigestSentDate": "2026-09-04",
-  "totalScanned": 26,
-  "matchedFilters": 4,
+  "totalScanned": 28,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022095936441285860479",
       "addedAt": "2026-09-04T18:09:03.064Z"
+    },
+    {
+      "title": "Web Designer for Custom Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022095972105914145919",
+      "addedAt": "2026-09-04T20:31:02.815Z"
     },
     {
       "title": "Personal brand wordpress website",
