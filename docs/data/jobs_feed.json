@@ -1,5 +1,35 @@
 [
   {
+    "id": "2095921023823181173",
+    "ciphertext": "~022095921023823181173",
+    "title": "Dynamic Landing Page Development for Client Sign-Up",
+    "description": "We are seeking a skilled web developer to redesign the current website (browdoc.com) into a dynamic landing page.  The landing page MAIN PURPOSE is to sign up interested clients so that we can communicate, engage and begin a relationship with them through the EZ Text app. A QR code will bring them to the landing page, and on the landing page they will be asked to sign up to receive text alerts of when my mobile service will be in their area.  They will be given geographic areas to sign up under that is closest to them.  So this landing page's main purpose is to collect clients information to begin text alerting them of my mobile business route schedule in their area, as well as sending them promotion specials.  The page will need to collect essential information such as address area location and phone number. Additionally, this landing page will broadcast a calendar of my route stop schedule day to day, week to week.  It will also display my list of services and prices, see a client gallery portfolio, and frequent asked questions as well as an AI chatbox with prewritten answers. The ideal designer should have a strong portfolio of interactive landing pages and experience in user experience design. If you can create an engaging and user-friendly interface that drives sign-ups, we want to hear from you!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 53,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "javascript",
+      "wordpress",
+      "graphic-design",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-04T17:05:42+0000",
+    "addedAt": "2026-09-04T17:07:40.116Z",
+    "url": "https://www.upwork.com/jobs/~022095921023823181173",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022095921023823181173/apply/"
+  },
+  {
     "id": "2095914014011675891",
     "ciphertext": "~022095914014011675891",
     "title": "Thrive Themes WordPress Designer / Developer to Build 8-Page Site",

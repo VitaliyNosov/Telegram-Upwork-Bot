@@ -1,10 +1,10 @@
 {
   "date": "2026-09-04",
   "lastDigestSentDate": null,
-  "totalScanned": 9,
-  "matchedFilters": 2,
+  "totalScanned": 10,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022095914014011675891",
       "addedAt": "2026-09-04T16:39:04.766Z"
+    },
+    {
+      "title": "Dynamic Landing Page Development for Client Sign-Up",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022095921023823181173",
+      "addedAt": "2026-09-04T17:07:03.410Z"
     },
     {
       "title": "Personal brand wordpress website",
