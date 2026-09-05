@@ -1,5 +1,33 @@
 [
   {
+    "id": "2096356486703473670",
+    "ciphertext": "~022096356486703473670",
+    "title": "GeneratePress Premium + GenerateBlocks Developer for Custom WordPress Landing Page",
+    "description": "We are looking for an experienced WordPress developer to build a custom landing page using GeneratePress Premium and GenerateBlocks.\n\nWe already have the desktop and mobile design direction, page copy, branding, and overall layout. The work is primarily implementation.\n\nThis is not an Elementor project. We are intentionally moving away from Elementor and want this page built cleanly using GeneratePress Premium + GenerateBlocks, with reusable styles and components that can support future landing pages.\n\nScope of Work\n\nThe contractor will:\n-Build the landing page in WordPress using GeneratePress Premium + GenerateBlocks\n-Recreate the provided desktop and mobile designs as closely as practical\n-Build the page in a clean, lightweight, responsive way\n-Use native GenerateBlocks controls wherever possible\n-Use custom CSS only where needed for polish\n-Create reusable styles/classes/patterns for:\n  -Hero sections\n  -Content cards\n  -CTA sections\n  -Process steps\n  -FAQ styling\n  -Buttons\n  -Spacing and typography\n-Ensure all page content remains easily editable in WordPress\n-Preserve the existing SmartDispute.ai header/footer style\n-Optimize for performance and avoid unnecessary plugins or libraries\n-Test the page across common desktop and mobile breakpoints\n\nImportant Requirements\n\nYou should have direct experience with:\n-GeneratePress Premium\n-GenerateBlocks\n-Gutenberg/block-based WordPress development\n-Responsive landing page development\n-Custom CSS\n-Performance-conscious WordPress builds\n\nPlease do not apply if your primary approach is Elementor, Divi, WPBakery, or another page builder.\n\nDevelopment Approach\n\nThe page should be built on a staging environment.\nWe do not want:\n-Elementor\n-Large custom HTML sections replacing native blocks\n-Unnecessary plugins\n-Code that is difficult to maintain\n-Copy or layout changes made without approval\n\nWe do want:\n-Clean GenerateBlocks structure\n-Reusable components\n-Sensible class naming\n-Easy future editing\n-Strong mobile implementation, not simply stacked desktop sections\n-Deliverables\n-Completed desktop version on staging\n-Completed mobile-responsive version\n-Cross-browser/device testing\n-Performance cleanup\n-Reusable styles/components for future landing pages\n-Clean handoff with any custom CSS documented\n\nProposed Milestones\n\nMilestone 1:\n-Desktop and mobile landing page completed on staging and approved visually.\n\nMilestone 2:\n-Responsive QA, browser testing, performance cleanup, reusable components, and final handoff.\n\nTo Apply\n\nPlease include:\n-2–3 examples of sites or landing pages you have built specifically with GeneratePress and/or GenerateBlocks\n-A short description of your role on those projects\n-Your estimated timeline\n\nAlso answer this question:\nHow would you structure this page using GeneratePress Premium and GenerateBlocks, and which parts would you make reusable for future landing pages?\n\nWe are looking for someone who understands GeneratePress architecture, not simply someone who can reproduce a screenshot.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 60,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "css",
+      "landing-pages",
+      "responsive-design"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! To structure this cleanly in GeneratePress Premium and GenerateBlocks, I’ll use GP's Elements (Block Hooks) for the header/footer integration and GP's Global Styles for typography/spacing. For the page content, I’ll build with GenerateBlocks Containers and Grid blocks, utilizing GB’s Global Styles feature to create reusable classes for your Hero, Cards, CTA, and FAQ sections. This keeps the CSS footprint tiny and ensures non-tech editors can easily reuse these components.\n\nI recently built clean, block-based custom WordPress sites like https://www.thelifeyoucansave.org/, focusing strictly on performance and Gutenberg. For GP/GB specifically, I recently developed a lightweight marketing hub and a SaaS landing page (role: sole developer, Figma-to-code). I can complete this on a staging site within 4-5 days.\n\nLet's jump on a quick chat to review your Figma designs and get started. When are you available?",
+    "publishedDateTime": "2026-09-05T21:55:38+0000",
+    "addedAt": "2026-09-05T21:56:48.307Z",
+    "url": "https://www.upwork.com/jobs/~022096356486703473670",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096356486703473670/apply/"
+  },
+  {
     "id": "2096297321295631603",
     "ciphertext": "~022096297321295631603",
     "title": "WordPress + Bricks Builder Developer - E-Commerce Site for Downloadable Custom Scorecard Templates",

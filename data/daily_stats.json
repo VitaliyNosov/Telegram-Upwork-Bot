@@ -1,8 +1,18 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 5,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 6,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "GeneratePress Premium + GenerateBlocks Developer for Custom WordPress Landing Page",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022096356486703473670",
+      "addedAt": "2026-09-05T21:56:38.111Z"
+    }
+  ]
 }
