@@ -1,10 +1,10 @@
 {
   "date": "2026-09-05",
   "lastDigestSentDate": "2026-09-05",
-  "totalScanned": 33,
-  "matchedFilters": 10,
+  "totalScanned": 34,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022096043071239347327",
       "addedAt": "2026-09-05T04:13:05.081Z"
+    },
+    {
+      "title": "Senior WordPress / WooCommerce Developer or Agency – Custom Premium E-commerce Rebuild",
+      "budget": "Fixed-price",
+      "score": 200,
+      "url": "https://www.upwork.com/jobs/~022096200746401649907",
+      "addedAt": "2026-09-05T11:39:03.075Z"
     },
     {
       "title": "Web Developer for Construction Websites",
@@ -69,13 +76,6 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022096043726559694300",
       "addedAt": "2026-09-05T01:15:04.267Z"
-    },
-    {
-      "title": "WordPress Designer Needed for High-Converting Book Landing Page",
-      "budget": "Fixed-price",
-      "score": 97,
-      "url": "https://www.upwork.com/jobs/~022096003026615410485",
-      "addedAt": "2026-09-04T22:33:12.237Z"
     }
   ]
 }
