@@ -1,5 +1,31 @@
 [
   {
+    "id": "2096297321295631603",
+    "ciphertext": "~022096297321295631603",
+    "title": "WordPress + Bricks Builder Developer - E-Commerce Site for Downloadable Custom Scorecard Templates",
+    "description": "Job Title: WordPress + Bricks Builder Developer - E-Commerce Site for Downloadable Custom Golf Scorecard Templates \n\nJob Description: I need an experienced WordPress developer to build a live e-commerce website using my existing HostStinger, WordPress and Bricks Builder accounts. The site design is underway in Figma and I have a complete site map documenting the page structure and flows (Attached) I also have a brand guidelines that displays the typography and colors. \n\nWhat the site does: Customers browse categories of custom-designed golf scorecard templates (memorial tournaments, golf trips, corporate events, birthdays, and more), view a watermarked preview, and purchased a template. After checkout, the customer receives an editable InDesign or Illustrator file (Via download and/or email) that they customize and print themselves. Their is no in-browser design tool in this phase - that will be added later as a separate project, so please do not scope it into your quote. \n\nScope of Work: \n- Build the site in WordPress + Bricks Builder matching the Figma design, site map while utilizing the brand guidelines. \n- Set up a WooCommerce product catalog (or propose an alternative) organized by category/sub-category. \n- Watermarked template preview pages with description, artist info, and reviews\n- Cart, checkout, and order confirmation flow that delivered the purchased file (download link or emailed) \n- Customer accounts (individual Customers and Golf Course Individual Users): Registration/Login, Order History, saved designs \n- Golf Course section: course search/registration (Course manger profiles) individual course scorecard page, and contact details. \n- Blog and Newsletter sign up, present in the footer site wide\n- Global header/footer matching he site mock up \n- fully responsive (desktop, tablet, mobile) and cross browser tested. \n- Basic SEO, performance, and security best practices (SSL, spam protection, backups)\n- Build the \"Originals\" product category on the backend but keep it un published/hidden from customers for now, structure so it can be switched on later with minimal work. \n- Brief documentation on managing products, templates, and blog posts after launch. \n\nRequirements: \n- Proven experience with WordPRess + Bricks Builder (Please share examples) \n- Experience with WooCommerce or a comparable e-commerce setup, including delivering digital/downloadable products\n- Comfortable working from a sigma file and a site map without needing additional design work\n- clear communicator, able to work within my existing hosting, WordPress, and Brick Accounts. \n\nWhat to include in your account: \n2-3 relevant past projects (Ideally Wordpress + bricks, and any involving digital/downloadable product delivery. \n- Your proposed approach to the product catalog, watermarking, and file delivery flow. \n- Your estimated hours (required, even for fixed price quote) \n- Any Questions or gaps you see in the attached specifications. \n\nBudget and Timeline: \n- Budget = $1,000 - $5,000\n- Timeline: 6-8 weeks \n- Attachments: See below.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 195,
+    "coverLetter": "Hi! I can build your golf scorecard template e-commerce site using Bricks Builder and WooCommerce on your Hostinger account, exactly matching your Figma designs.\n\nFor the digital delivery and watermarking, I recommend WooCommerce's native downloadable products feature paired with a secure, non-public file directory to prevent unauthorized sharing. For the watermarked previews, we can utilize a lightweight image optimization tool to automatically generate protected web-ready previews of your InDesign templates.\n\nI've built complex custom WordPress sites like https://www.seeintl.org/ and have extensive experience configuring WooCommerce for seamless digital checkouts. I estimate this build will take approximately 65–80 hours over 6 weeks.\n\nDo you have the golf course database structure ready, or should we design the course search/registration flow from scratch? Let's chat!",
+    "publishedDateTime": "2026-09-05T18:02:22+0000",
+    "addedAt": "2026-09-05T18:03:32.317Z",
+    "url": "https://www.upwork.com/jobs/~022096297321295631603",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096297321295631603/apply/"
+  },
+  {
     "id": "2096253437737836341",
     "ciphertext": "~022096253437737836341",
     "title": "WordPress Landing Page Creation",

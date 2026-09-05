@@ -1,10 +1,10 @@
 {
   "date": "2026-09-05",
   "lastDigestSentDate": "2026-09-05",
-  "totalScanned": 46,
-  "matchedFilters": 12,
+  "totalScanned": 47,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -50,6 +50,13 @@
       "addedAt": "2026-09-05T11:39:03.075Z"
     },
     {
+      "title": "WordPress + Bricks Builder Developer - E-Commerce Site for Downloadable Custom Scorecard Templates",
+      "budget": "Fixed-price",
+      "score": 195,
+      "url": "https://www.upwork.com/jobs/~022096297321295631603",
+      "addedAt": "2026-09-05T18:03:02.935Z"
+    },
+    {
       "title": "Web Developer for Construction Websites",
       "budget": "Fixed-price",
       "score": 100,
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022096154832469368629",
       "addedAt": "2026-09-05T08:37:01.510Z"
-    },
-    {
-      "title": "Creation of ILT Website",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022096158896443614214",
-      "addedAt": "2026-09-05T08:53:02.454Z"
     }
   ]
 }
