@@ -1,10 +1,10 @@
 {
   "date": "2026-09-05",
   "lastDigestSentDate": "2026-09-05",
-  "totalScanned": 28,
-  "matchedFilters": 8,
+  "totalScanned": 29,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022096040823962232507",
       "addedAt": "2026-09-05T01:03:03.619Z"
+    },
+    {
+      "title": "ILD Website Build",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022096154832469368629",
+      "addedAt": "2026-09-05T08:37:01.510Z"
     },
     {
       "title": "Front end mobile development & some help with a wordpress site",
