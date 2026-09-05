@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096043726559694300",
+    "ciphertext": "~022096043726559694300",
+    "title": "Front end mobile development & some help with a wordpress site",
+    "description": "I have a capable back end dev but I need to speed up the project by onboarding some front end help. I need designs implemented exactly the way I have them. I want this project to be submitted asap so I am looking for someone who has significant space opened in their calendar over the next 2-3 weeks.  I would also like some help with a couple things that are tripping me up in wordpress, like making the html block display larger than it currently is: some specific tasks like that on an existing website.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "typescript",
+      "frontend-development",
+      "wordpress-website",
+      "react-native"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I have immediate availability over the next 2-3 weeks to jump in and help you speed up this project. I can ensure your designs are implemented exactly as specified, while quickly knocking out those WordPress tasks that are tripping you up—including resizing that HTML block.\n\nAs a frontend and WordPress developer, I specialize in pixel-perfect design implementation and technical troubleshooting. Whether it's adjusting layout constraints in WordPress or building out clean frontend interfaces, I focus on clean code and fast delivery. You can see an example of my clean frontend and WordPress execution here: https://about.offerup.com/\n\nI'm ready to start immediately. Could you share the designs and the WordPress link so I can take a quick look?",
+    "publishedDateTime": "2026-09-05T01:13:34+0000",
+    "addedAt": "2026-09-05T01:15:16.810Z",
+    "url": "https://www.upwork.com/jobs/~022096043726559694300",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096043726559694300/apply/"
+  },
+  {
     "id": "2096040823962232507",
     "ciphertext": "~022096040823962232507",
     "title": "Web Developer for New Website Build",
