@@ -1,5 +1,29 @@
 [
   {
+    "id": "2096158896443614214",
+    "ciphertext": "~022096158896443614214",
+    "title": "Creation of ILT Website",
+    "description": "I now have the detail for as lot of the new website. The site is https://instantleadtap.com\n\nIf you are working over the weekend, could you please make a start. I need the site built by next Tuesday (Wednesday at the absolute latest\n\nI would like the site built in WordPress.\n\nI have attached the design and content docs / files\n\nThese details will give you a fair bit to start and also getting the site layout done\n\nI will send you content for the other pages over the next couple of days.\n\nI will need a page set up so that when anyone clicks on a \"Book a Discovery Call\" or \"Book a Call\", they go to this URL: -\n\nhttps://instantleadtap.com/book-call\n\nYou can leave the page blank for now, but when I have created the calendar in GHL, that will need to display on the page you set up",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 21,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 100,
+    "coverLetter": "Hi! I can start on your WordPress site immediately this weekend and have the entire build completed well before your Tuesday deadline. \n\nI will set up the clean WordPress layout based on your design files and pre-configure the `/book-call` page so it is perfectly primed for your GoHighLevel calendar embed. With my deep background in custom WordPress development, I ensure fast loading speeds and fully responsive layouts that match your designs exactly. You can see an example of my professional WordPress work here: https://about.offerup.com/\n\nI am at my desk and ready to review your attached design and content files right now. Could you send them over so I can get started today?",
+    "publishedDateTime": "2026-09-05T08:51:35+0000",
+    "addedAt": "2026-09-05T08:53:26.720Z",
+    "url": "https://www.upwork.com/jobs/~022096158896443614214",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096158896443614214/apply/"
+  },
+  {
     "id": "2096154832469368629",
     "ciphertext": "~022096154832469368629",
     "title": "ILD Website Build",
