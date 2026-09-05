@@ -1,81 +1,8 @@
 {
-  "date": "2026-09-05",
-  "lastDigestSentDate": "2026-09-05",
-  "totalScanned": 55,
-  "matchedFilters": 13,
-  "byKeyword": {
-    "wordpress developer": 13
-  },
-  "topJobs": [
-    {
-      "title": "Website Developer",
-      "budget": "$25-$47/hr",
-      "score": 4750,
-      "url": "https://www.upwork.com/jobs/~022096094517429456348",
-      "addedAt": "2026-09-05T04:37:03.809Z"
-    },
-    {
-      "title": "Build Website for Global Bites for Kids",
-      "budget": "$15-$30/hr",
-      "score": 3000,
-      "url": "https://www.upwork.com/jobs/~022095991800050474111",
-      "addedAt": "2026-09-04T21:49:03.308Z"
-    },
-    {
-      "title": "WordPress Landing Page Creation",
-      "budget": "$15-$30/hr",
-      "score": 3000,
-      "url": "https://www.upwork.com/jobs/~022096253437737836341",
-      "addedAt": "2026-09-05T15:11:04.968Z"
-    },
-    {
-      "title": "Urgent WordPress Error Fix",
-      "budget": "$14-$28/hr",
-      "score": 2899,
-      "url": "https://www.upwork.com/jobs/~022096003112449725683",
-      "addedAt": "2026-09-04T22:33:03.454Z"
-    },
-    {
-      "title": "WordPress / Elementor / Woo Development / Website Redevelopment",
-      "budget": "Fixed-price",
-      "score": 200,
-      "url": "https://www.upwork.com/jobs/~022096043071239347327",
-      "addedAt": "2026-09-05T04:13:05.081Z"
-    },
-    {
-      "title": "Senior WordPress / WooCommerce Developer or Agency – Custom Premium E-commerce Rebuild",
-      "budget": "Fixed-price",
-      "score": 200,
-      "url": "https://www.upwork.com/jobs/~022096200746401649907",
-      "addedAt": "2026-09-05T11:39:03.075Z"
-    },
-    {
-      "title": "WordPress + Bricks Builder Developer - E-Commerce Site for Downloadable Custom Scorecard Templates",
-      "budget": "Fixed-price",
-      "score": 195,
-      "url": "https://www.upwork.com/jobs/~022096297321295631603",
-      "addedAt": "2026-09-05T18:03:02.935Z"
-    },
-    {
-      "title": "Web Developer for Construction Websites",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022095985108380683461",
-      "addedAt": "2026-09-05T00:23:05.093Z"
-    },
-    {
-      "title": "Web Developer for New Website Build",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022096040823962232507",
-      "addedAt": "2026-09-05T01:03:03.619Z"
-    },
-    {
-      "title": "ILD Website Build",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022096154832469368629",
-      "addedAt": "2026-09-05T08:37:01.510Z"
-    }
-  ]
+  "date": "2026-09-06",
+  "lastDigestSentDate": "2026-09-06",
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
