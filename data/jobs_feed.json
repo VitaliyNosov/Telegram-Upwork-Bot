@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096253437737836341",
+    "ciphertext": "~022096253437737836341",
+    "title": "WordPress Landing Page Creation",
+    "description": "I need help creating a landing page for my current website and ongoing support to maintain the site. The work includes building the page, ensuring it aligns with my existing site, and providing reliable updates and troubleshooting as needed. I’m looking for someone who can deliver a clean, functional page and help keep the site running smoothly over time.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "html"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! I can build a clean, high-converting landing page that perfectly matches your existing website's design, while also taking over your ongoing site maintenance and troubleshooting. \n\nWith extensive experience in custom WordPress development, I ensure new pages integrate flawlessly without disrupting your current setup. Beyond building the page, I specialize in long-term technical support—handling plugin updates, performance optimization, and quick bug fixes so your site always runs smoothly. You can see an example of my clean WordPress work here: https://about.offerup.com/\n\nWhat theme or page builder is your current website running on? Let's chat and get this launched.",
+    "publishedDateTime": "2026-09-05T15:09:56+0000",
+    "addedAt": "2026-09-05T15:11:13.903Z",
+    "url": "https://www.upwork.com/jobs/~022096253437737836341",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096253437737836341/apply/"
+  },
+  {
     "id": "2096200746401649907",
     "ciphertext": "~022096200746401649907",
     "title": "Senior WordPress / WooCommerce Developer or Agency – Custom Premium E-commerce Rebuild",

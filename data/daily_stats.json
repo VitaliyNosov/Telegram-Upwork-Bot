@@ -1,10 +1,10 @@
 {
   "date": "2026-09-05",
   "lastDigestSentDate": "2026-09-05",
-  "totalScanned": 38,
-  "matchedFilters": 11,
+  "totalScanned": 39,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3000,
       "url": "https://www.upwork.com/jobs/~022095991800050474111",
       "addedAt": "2026-09-04T21:49:03.308Z"
+    },
+    {
+      "title": "WordPress Landing Page Creation",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022096253437737836341",
+      "addedAt": "2026-09-05T15:11:04.968Z"
     },
     {
       "title": "Urgent WordPress Error Fix",
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022096158896443614214",
       "addedAt": "2026-09-05T08:53:02.454Z"
-    },
-    {
-      "title": "Front end mobile development & some help with a wordpress site",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022096043726559694300",
-      "addedAt": "2026-09-05T01:15:04.267Z"
     }
   ]
 }
