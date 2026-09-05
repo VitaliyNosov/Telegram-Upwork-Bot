@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096040823962232507",
+    "ciphertext": "~022096040823962232507",
+    "title": "Web Developer for New Website Build",
+    "description": "We need a developer to build a new website from scratch for a small business. The project includes creating a clean, modern design, setting up key pages, and ensuring the site is easy to use and mobile-friendly. You will also help with basic setup and launch support. This is a small project for someone who can deliver a polished website efficiently and communicate clearly throughout the process.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-05T01:02:15+0000",
+    "addedAt": "2026-09-05T01:03:39.879Z",
+    "url": "https://www.upwork.com/jobs/~022096040823962232507",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096040823962232507/apply/"
+  },
+  {
     "id": "2095985108380683461",
     "ciphertext": "~022095985108380683461",
     "title": "Web Developer for Construction Websites",

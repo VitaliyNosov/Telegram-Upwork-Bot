@@ -1,10 +1,10 @@
 {
   "date": "2026-09-05",
   "lastDigestSentDate": "2026-09-05",
-  "totalScanned": 13,
-  "matchedFilters": 4,
+  "totalScanned": 14,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022095985108380683461",
       "addedAt": "2026-09-05T00:23:05.093Z"
+    },
+    {
+      "title": "Web Developer for New Website Build",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022096040823962232507",
+      "addedAt": "2026-09-05T01:03:03.619Z"
     },
     {
       "title": "WordPress Designer Needed for High-Converting Book Landing Page",
