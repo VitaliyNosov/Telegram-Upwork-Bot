@@ -1,5 +1,34 @@
 [
   {
+    "id": "2095985108380683461",
+    "ciphertext": "~022095985108380683461",
+    "title": "Web Developer for Construction Websites",
+    "description": "Looking for a freelancer to build websites for a construction company, including landing pages for high-end residential and commercial projects, as well as a site for short-term rentals. The role also includes managing Google advertising to support lead generation and visibility. The ideal freelancer should be able to create clean, professional websites and help improve online presence through effective ad management.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "internet-marketing",
+      "php",
+      "web-design",
+      "facebook"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can build clean, high-converting WordPress websites for your residential, commercial, and short-term rental projects, while ensuring they are fully optimized for your Google Ads campaigns.\n\nWith my background in custom PHP and WordPress development, I focus on creating fast, professional sites that don't just look great but are structured to convert visitors into leads. I'll build high-end landing pages with clear calls-to-action and seamless lead capture forms, ready to handle your advertising traffic. You can see an example of my clean, professional development work here: https://about.offerup.com/\n\nI also ensure all tracking pixels (Google/Facebook) are correctly integrated so you can measure your ad performance and lead generation accurately from day one. \n\nDo you have any design inspiration or a specific booking system in mind for the short-term rental site?",
+    "publishedDateTime": "2026-09-05T00:20:56+0000",
+    "addedAt": "2026-09-05T00:23:16.233Z",
+    "url": "https://www.upwork.com/jobs/~022095985108380683461",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022095985108380683461/apply/"
+  },
+  {
     "id": "2096003026615410485",
     "ciphertext": "~022096003026615410485",
     "title": "WordPress Designer Needed for High-Converting Book Landing Page",
