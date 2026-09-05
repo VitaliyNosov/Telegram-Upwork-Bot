@@ -1,5 +1,36 @@
 [
   {
+    "id": "2096043071239347327",
+    "ciphertext": "~022096043071239347327",
+    "title": "WordPress / Elementor / Woo Development / Website Redevelopment",
+    "description": "WordPress / Elementor / WooCommerce Developer — Website Redevelopment\nWe are seeking an experienced WordPress developer to redevelop an existing website into Naples Peptide Alliance (NPA), an educational wellness and peptide platform.\nThis is not a ground-up website build. The existing site currently includes:\n•\tWordPress + Elementor + WooCommerce + ACF\n•\t11 pages\n•\t13 WooCommerce products\n•\t150+ media assets\n•\tExisting Elementor templates and navigation\n•\tExisting Cart, Checkout and My Account infrastructure\n•\tStructured product and glossary fields\nA comprehensive developer handoff has already been completed defining the new website structure, content, visual direction, educational features and functional requirements.\nThe objective is to retain and extend useful existing infrastructure while replacing the outdated public-facing site with the new NPA website.\nRequired Experience\nStrong demonstrated experience with:\n•\tWordPress\n•\tElementor\n•\tWooCommerce\n•\tAdvanced Custom Fields (ACF)\n•\tResponsive website development\n•\tStructured/reusable WordPress content\nProject Structure\nWe prefer a fixed project price, broken into agreed milestones rather than an open-ended hourly engagement.\nPlease include:\n1.\t2–3 examples of comparable WordPress/Elementor/WooCommerce work you personally completed.\n2.\tA brief description of your ACF experience.\n3.\tConfirmation that you are comfortable reviewing our existing site and detailed developer handoff and then providing a fixed-price proposal.\nPlease do not submit a generic WordPress proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-customization",
+      "website",
+      "website-redesign",
+      "wordpress",
+      "woocommerce",
+      "elementor"
+    ],
+    "score": 200,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-05T04:11:24+0000",
+    "addedAt": "2026-09-05T04:13:17.024Z",
+    "url": "https://www.upwork.com/jobs/~022096043071239347327",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096043071239347327/apply/"
+  },
+  {
     "id": "2096043726559694300",
     "ciphertext": "~022096043726559694300",
     "title": "Front end mobile development & some help with a wordpress site",
