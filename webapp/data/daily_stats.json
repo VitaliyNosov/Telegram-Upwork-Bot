@@ -1,12 +1,19 @@
 {
   "date": "2026-09-05",
   "lastDigestSentDate": "2026-09-05",
-  "totalScanned": 22,
-  "matchedFilters": 7,
+  "totalScanned": 23,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
+    {
+      "title": "Website Developer",
+      "budget": "$25-$47/hr",
+      "score": 4750,
+      "url": "https://www.upwork.com/jobs/~022096094517429456348",
+      "addedAt": "2026-09-05T04:37:03.809Z"
+    },
     {
       "title": "Build Website for Global Bites for Kids",
       "budget": "$15-$30/hr",
