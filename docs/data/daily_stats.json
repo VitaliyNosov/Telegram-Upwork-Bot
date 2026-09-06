@@ -1,8 +1,18 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Updated Post: WordPress Developer Needed — Custom \"Design Your Own\" Invitation Feature",
+      "budget": "$7-$25/hr",
+      "score": 2693,
+      "url": "https://www.upwork.com/jobs/~022096673264621199157",
+      "addedAt": "2026-09-06T21:56:37.082Z"
+    }
+  ]
 }

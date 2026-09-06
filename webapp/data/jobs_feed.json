@@ -1,5 +1,35 @@
 [
   {
+    "id": "2096673264621199157",
+    "ciphertext": "~022096673264621199157",
+    "title": "Updated Post: WordPress Developer Needed — Custom \"Design Your Own\" Invitation Feature",
+    "description": "We are looking for an experienced WordPress developer to create a new webpage and \"Design Your Own\" invitation feature for our established invitation website. The webpage should appear similar to the attached template, with the web functionality incorporated. It will open to a new page as a link from our product page.\nImportant: Our website uses Custom Post Types (CPT). It is NOT a WooCommerce website.\nWe would like customers to be able to personalize invitations by choosing:\n\t•\tTheir own text - in both Hebrew (RTL) and English languages\n\t•\tFonts\n\t•\tFont size\n\t•\tFont colors\n\nThe initial fixed-price project should include:\n\t•\tDevelopment of the Design Your Own functionality\n\t•\t12 invitation styles compatible with the feature\n\t•\tApproximately 200 fonts uploaded and available for customers to choose from\n\t•\tAppropriate links back to existing pages on our website\n\t•\tPayment options and/or order forms where required\n\t•\tDesktop and mobile functionality\n\t•\tTesting to ensure the feature works properly with our existing website\n\t•\tClean, efficient code that will not unnecessarily slow down the website\nPlease provide the cost for each additional invitation style after the initial 12.\nFixed Project Pricing\nWe prefer a one-time fixed project price, not an hourly rate.\nPlease provide:\nTotal project price: $________\nWhat is included: ____________________\nAdditional invitation style: $________ each\nAny additional costs for plugins, software, licenses, subscriptions, etc.: ____________________\nPlease identify all potential additional costs before the project begins.\nAvailability & Communication\nPlease include the following in your proposal:\n\t•\tWhen can you start?\n\t•\tHow long will the project take?\n\t•\tAre you currently working on other projects?\n\t•\tWill you personally do the work, or will another team member/developer be involved?\n\t•\tWhat is your time zone and normal working hours?\n\t•\tHow can we communicate with you during your working hours?\n\t•\tWhat is your typical response time to messages during working hours?\nWe are located on the East Coast of the United States (ET/EST), so reasonable communication during our business hours is important.\nPlease review the attached sample carefully and provide a fixed-price proposal based on the requirements above.\nThank you.",
+    "isHourly": true,
+    "hourlyBudgetMin": 7,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$7 - $25/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.66,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "css3",
+      "javascript",
+      "php",
+      "wordpress-website",
+      "cms-development"
+    ],
+    "score": 2693,
+    "coverLetter": "Hi! Your custom invitation builder project caught my eye, especially since you are using Custom Post Types rather than WooCommerce. I specialize in building custom, interactive WordPress features using PHP and JavaScript to keep sites incredibly fast. \n\nI have extensive experience with CPTs and can easily handle the RTL Hebrew typography requirements alongside the 200 custom fonts. You can see my clean custom development work on live sites like https://www.thelifeyoucansave.org/. \n\nI can start immediately and will personally do 100% of the work. My estimated fixed price for the builder and 12 styles is $1,800 (additional styles at $50/each), with zero extra plugin costs. I am highly responsive during EST business hours via Upwork chat. \n\nWould you be open to a quick chat to share the template design so I can confirm the exact timeline?",
+    "publishedDateTime": "2026-09-06T21:55:19+0000",
+    "addedAt": "2026-09-06T21:56:43.079Z",
+    "url": "https://www.upwork.com/jobs/~022096673264621199157",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096673264621199157/apply/"
+  },
+  {
     "id": "2096701323864695814",
     "ciphertext": "~022096701323864695814",
     "title": "WordPress Security Expert Needed – Persistent Malware / Backdoor & Unauthorized Admin Accounts",
