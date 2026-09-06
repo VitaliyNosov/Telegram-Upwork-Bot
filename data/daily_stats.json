@@ -1,81 +1,8 @@
 {
-  "date": "2026-09-06",
-  "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 61,
-  "matchedFilters": 12,
-  "byKeyword": {
-    "wordpress developer": 12
-  },
-  "topJobs": [
-    {
-      "title": "WordPress Developer Needed — Custom \"Design Your Own\" Invitation Feature",
-      "budget": "$10-$40/hr",
-      "score": 4193,
-      "url": "https://www.upwork.com/jobs/~022096648817853977843",
-      "addedAt": "2026-09-06T20:18:39.174Z"
-    },
-    {
-      "title": "Professional WordPress Elementor Website Redesign for a Law Firm",
-      "budget": "$5-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022096682535881565883",
-      "addedAt": "2026-09-06T19:32:39.025Z"
-    },
-    {
-      "title": "Astro.js Developer | WordPress-to-Astro Migration",
-      "budget": "$30-$40/hr",
-      "score": 4099,
-      "url": "https://www.upwork.com/jobs/~022096672669217564584",
-      "addedAt": "2026-09-06T18:54:36.464Z"
-    },
-    {
-      "title": "WordPress Plugin Update Specialist",
-      "budget": "$14-$28/hr",
-      "score": 2950,
-      "url": "https://www.upwork.com/jobs/~022096574136175742428",
-      "addedAt": "2026-09-06T12:22:38.872Z"
-    },
-    {
-      "title": "ShopWP / Shopify / Wordpress Integration Expert Needed",
-      "budget": "$8-$25/hr",
-      "score": 2600,
-      "url": "https://www.upwork.com/jobs/~022096550667529082099",
-      "addedAt": "2026-09-06T14:24:38.741Z"
-    },
-    {
-      "title": "WordPress Expert and Designer",
-      "budget": "$25-$25/hr",
-      "score": 2500,
-      "url": "https://www.upwork.com/jobs/~022096344172692497414",
-      "addedAt": "2026-09-06T00:08:37.218Z"
-    },
-    {
-      "title": "GeneratePress Premium + GenerateBlocks Developer for Custom WordPress Landing Page",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022096356486703473670",
-      "addedAt": "2026-09-05T21:56:38.111Z"
-    },
-    {
-      "title": "Need help to design a word press website. it is almost 10 hours work. I may need constatnt help.",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022096581514116195334",
-      "addedAt": "2026-09-06T12:50:41.047Z"
-    },
-    {
-      "title": "WordPress Designer/Developer for Premium Healthcare Website",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022096623266066178392",
-      "addedAt": "2026-09-06T15:38:37.145Z"
-    },
-    {
-      "title": "WordPress Security Expert Needed – Persistent Malware / Backdoor & Unauthorized Admin Accounts",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022096701323864695814",
-      "addedAt": "2026-09-06T20:48:37.063Z"
-    }
-  ]
+  "date": "2026-09-07",
+  "lastDigestSentDate": "2026-09-07",
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
