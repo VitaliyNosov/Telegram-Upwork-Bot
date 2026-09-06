@@ -1,10 +1,10 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 59,
-  "matchedFilters": 11,
+  "totalScanned": 60,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -71,11 +71,11 @@
       "addedAt": "2026-09-06T15:38:37.145Z"
     },
     {
-      "title": "Migrate Websites to Supabase",
+      "title": "WordPress Security Expert Needed – Persistent Malware / Backdoor & Unauthorized Admin Accounts",
       "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022096406040249507637",
-      "addedAt": "2026-09-06T04:14:39.213Z"
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022096701323864695814",
+      "addedAt": "2026-09-06T20:48:37.063Z"
     }
   ]
 }

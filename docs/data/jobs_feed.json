@@ -1,5 +1,33 @@
 [
   {
+    "id": "2096701323864695814",
+    "ciphertext": "~022096701323864695814",
+    "title": "WordPress Security Expert Needed – Persistent Malware / Backdoor & Unauthorized Admin Accounts",
+    "description": "URGENT!\n\nI am looking for an experienced WordPress malware/security specialist to investigate and permanently clean a compromised WordPress website hosted on Hostinger.\n\nThe website has already been restored and cleaned several times, but the compromise keeps returning.\n\n________\n\nThe site has shown multiple signs of persistent compromise:\n\nUnauthorized WordPress Administrator accounts are recreated after being deleted.\nRandom administrator usernames have appeared.\nFake-looking administrator accounts using @wordpress.org addresses have appeared.\nWordPress core files have been modified without authorization.\nMalicious/suspicious require_once statements were injected into core files such as:\nwp-includes/functions.php\nwp-settings.php\nOne injected line attempted to load:\nwp-content/uploads/cache/readme.css\nAnother attempted to load:\nwp-includes/ID3/license.txt\n.htaccess was previously modified with suspicious Googlebot-specific redirects to amp.php.\nA suspicious amp.php file appeared in the WordPress root.\nWe restored from backup, reinstalled/updated WordPress core, removed suspicious code and deleted unauthorized administrators, but the infection returned.\n\nPlease start your proposal with the words “PERSISTENT WP” so I know you read the full description.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 53,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-malware-removal",
+      "virus-removal",
+      "malware-removal"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-06T20:46:51+0000",
+    "addedAt": "2026-09-06T20:49:13.240Z",
+    "url": "https://www.upwork.com/jobs/~022096701323864695814",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096701323864695814/apply/"
+  },
+  {
     "id": "2096652029889729779",
     "ciphertext": "~022096652029889729779",
     "title": "WordPress / Elementor Expert Needed for Website Design Adjustments & Troubleshooting",
