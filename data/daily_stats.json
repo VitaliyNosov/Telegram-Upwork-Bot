@@ -1,10 +1,10 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 38,
-  "matchedFilters": 6,
+  "totalScanned": 39,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022096581514116195334",
       "addedAt": "2026-09-06T12:50:41.047Z"
+    },
+    {
+      "title": "WordPress Designer/Developer for Premium Healthcare Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022096623266066178392",
+      "addedAt": "2026-09-06T15:38:37.145Z"
     },
     {
       "title": "Migrate Websites to Supabase",
