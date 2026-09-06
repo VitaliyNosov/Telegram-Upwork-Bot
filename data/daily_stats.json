@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 2693,
       "url": "https://www.upwork.com/jobs/~022096673264621199157",
       "addedAt": "2026-09-06T21:56:37.082Z"
+    },
+    {
+      "title": "Help needed getting Claude design into WordPress",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022096732968138335931",
+      "addedAt": "2026-09-06T22:54:38.774Z"
     }
   ]
 }

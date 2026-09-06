@@ -1,5 +1,31 @@
 [
   {
+    "id": "2096732968138335931",
+    "ciphertext": "~022096732968138335931",
+    "title": "Help needed getting Claude design into WordPress",
+    "description": "I have a website built in Claude Design that I need to import into a WordPress site on Hostinger.  I was following this guide, but I could not get the last step to work.\nhttps://youtu.be/IlAECXrUGR0?si=BPkX38-x-MOK8lSF\n\nI asked Claude how to do it, and it gave me the attached file with a readme, but I do not have enough wortdpress/elementor expertise to do it.\n\nPlease do not respond if you are not familiar with this type of work.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 98,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-06T22:52:31+0000",
+    "addedAt": "2026-09-06T22:55:15.126Z",
+    "url": "https://www.upwork.com/jobs/~022096732968138335931",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096732968138335931/apply/"
+  },
+  {
     "id": "2096673264621199157",
     "ciphertext": "~022096673264621199157",
     "title": "Updated Post: WordPress Developer Needed — Custom \"Design Your Own\" Invitation Feature",
