@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096574136175742428",
+    "ciphertext": "~022096574136175742428",
+    "title": "WordPress Plugin Update Specialist",
+    "description": "We need a freelancer to update a WordPress site that is currently not functioning properly due to outdated plugins. The work includes identifying the affected plugins, updating them, resolving any compatibility issues, and ensuring the site runs smoothly after the changes. You should be able to troubleshoot WordPress issues, test updates carefully, and communicate clearly about progress and any problems encountered. Experience with WordPress plugin management and site maintenance is important for this project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "wordpress-plugin",
+      "php",
+      "web-programming"
+    ],
+    "score": 2950,
+    "coverLetter": "Hi! I can help you safely resolve your WordPress plugin conflicts and get your site running smoothly again. Dealing with broken layouts or fatal errors after updates is a common issue, and I specialize in diagnosing exactly which outdated plugins or PHP conflicts are causing the breakdown.\n\nMy approach is safe and systematic: I'll set up a staging environment first to troubleshoot, identify the culprit plugins, perform the updates, and write custom fixes for any compatibility issues that arise. You can see the quality of my WordPress development and maintenance work on live sites like https://www.thelifeyoucansave.org/.\n\nDo you currently have access to your hosting control panel or SFTP so we can set up a safe backup before we begin?",
+    "publishedDateTime": "2026-09-06T12:20:31+0000",
+    "addedAt": "2026-09-06T12:23:07.259Z",
+    "url": "https://www.upwork.com/jobs/~022096574136175742428",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096574136175742428/apply/"
+  },
+  {
     "id": "2096406040249507637",
     "ciphertext": "~022096406040249507637",
     "title": "Migrate Websites to Supabase",
