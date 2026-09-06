@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096344172692497414",
+    "ciphertext": "~022096344172692497414",
+    "title": "WordPress Expert and Designer",
+    "description": "Need a consultant to redesign the WordPress Website to make it look professional and next-gen",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$25 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "html",
+      "css"
+    ],
+    "score": 2500,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-06T00:07:39+0000",
+    "addedAt": "2026-09-06T00:09:13.433Z",
+    "url": "https://www.upwork.com/jobs/~022096344172692497414",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096344172692497414/apply/"
+  },
+  {
     "id": "2096356486703473670",
     "ciphertext": "~022096356486703473670",
     "title": "GeneratePress Premium + GenerateBlocks Developer for Custom WordPress Landing Page",

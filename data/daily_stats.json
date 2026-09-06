@@ -1,12 +1,19 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 12,
-  "matchedFilters": 1,
+  "totalScanned": 13,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Expert and Designer",
+      "budget": "$25-$25/hr",
+      "score": 2500,
+      "url": "https://www.upwork.com/jobs/~022096344172692497414",
+      "addedAt": "2026-09-06T00:08:37.218Z"
+    },
     {
       "title": "GeneratePress Premium + GenerateBlocks Developer for Custom WordPress Landing Page",
       "budget": "Fixed-price",
