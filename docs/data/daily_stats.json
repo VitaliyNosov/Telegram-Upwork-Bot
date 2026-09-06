@@ -1,10 +1,10 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 31,
-  "matchedFilters": 4,
+  "totalScanned": 32,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022096356486703473670",
       "addedAt": "2026-09-05T21:56:38.111Z"
+    },
+    {
+      "title": "Need help to design a word press website. it is almost 10 hours work. I may need constatnt help.",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022096581514116195334",
+      "addedAt": "2026-09-06T12:50:41.047Z"
     },
     {
       "title": "Migrate Websites to Supabase",
