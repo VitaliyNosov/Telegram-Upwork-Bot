@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096743317103697023",
+    "ciphertext": "~022096743317103697023",
+    "title": "WordPress Elementor Website Fixes",
+    "description": "We are a bicycle manufacturer specializing in mountain bikes and gravel bikes. We recently had a website built from scratch and were promised a professional result, but the work has not met expectations. We believe the current creator is using us to learn rather than deliver a polished site. We need an expert to correct existing issues, improve the site quality, and handle future updates accurately and on time. The right freelancer should be able to assess the current work, fix problems, and ensure ongoing updates are completed correctly.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$18 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 3099,
+    "coverLetter": "It’s incredibly frustrating to pay for a professional website only to end up being a testing ground for a beginner. I can help you clean this up and get your bicycle brand the polished online presence it deserves.\n\nAs a WordPress and Elementor specialist, I routinely step into unfinished or poorly built sites to fix broken layouts, clean up messy Elementor configurations, and ensure everything functions flawlessly. I focus on clean development and long-term support, meaning I won't just fix the current issues—I'll ensure future updates are seamless, accurate, and on time. \n\nYou can see the level of polish I bring to my projects here: https://about.offerup.com/\n\nWould you be open to sharing your website link so I can take a quick look and tell you exactly what we need to do to fix it?",
+    "publishedDateTime": "2026-09-06T23:33:57+0000",
+    "addedAt": "2026-09-06T23:34:45.665Z",
+    "url": "https://www.upwork.com/jobs/~022096743317103697023",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096743317103697023/apply/"
+  },
+  {
     "id": "2096732968138335931",
     "ciphertext": "~022096732968138335931",
     "title": "Help needed getting Claude design into WordPress",

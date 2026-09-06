@@ -1,12 +1,19 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 9,
-  "matchedFilters": 2,
+  "totalScanned": 10,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "WordPress Elementor Website Fixes",
+      "budget": "$18-$30/hr",
+      "score": 3099,
+      "url": "https://www.upwork.com/jobs/~022096743317103697023",
+      "addedAt": "2026-09-06T23:34:36.434Z"
+    },
     {
       "title": "Updated Post: WordPress Developer Needed — Custom \"Design Your Own\" Invitation Feature",
       "budget": "$7-$25/hr",
