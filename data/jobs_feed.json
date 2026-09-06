@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096749071672661235",
+    "ciphertext": "~022096749071672661235",
+    "title": "WordPress to Shopify Migration",
+    "description": "I need help transferring my existing WordPress website to Shopify. The project includes moving the site structure, content, and key functionality to Shopify while ensuring the final site is clean, organized, and ready for use. I’m looking for someone who can handle the migration process smoothly and help set up the new Shopify site so it works well for my business needs.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "css",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you seamlessly migrate your WordPress site over to Shopify while preserving your content structure and ensuring a clean, fully functional launch.\n\nHaving deep expertise in both WordPress development and Shopify (including Liquid customization), I know exactly how to map your current pages, products, and blog posts to Shopify's architecture. I will ensure your site structure remains organized, SEO redirects are properly set up, and your new Shopify theme matches your brand perfectly. You can see the high standard of my web development work on live sites like https://about.offerup.com/.\n\nCould you share your current WordPress URL? I'd love to take a quick look at your current setup and discuss how we can make this transition as smooth as possible for your business.",
+    "publishedDateTime": "2026-09-06T23:56:24+0000",
+    "addedAt": "2026-09-06T23:58:46.514Z",
+    "url": "https://www.upwork.com/jobs/~022096749071672661235",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096749071672661235/apply/"
+  },
+  {
     "id": "2096743317103697023",
     "ciphertext": "~022096743317103697023",
     "title": "WordPress Elementor Website Fixes",
