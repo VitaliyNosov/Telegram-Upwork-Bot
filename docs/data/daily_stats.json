@@ -1,10 +1,10 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 34,
-  "matchedFilters": 5,
+  "totalScanned": 35,
+  "matchedFilters": 6,
   "byKeyword": {
-    "wordpress developer": 5
+    "wordpress developer": 6
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 2950,
       "url": "https://www.upwork.com/jobs/~022096574136175742428",
       "addedAt": "2026-09-06T12:22:38.872Z"
+    },
+    {
+      "title": "ShopWP / Shopify / Wordpress Integration Expert Needed",
+      "budget": "$8-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022096550667529082099",
+      "addedAt": "2026-09-06T14:24:38.741Z"
     },
     {
       "title": "WordPress Expert and Designer",

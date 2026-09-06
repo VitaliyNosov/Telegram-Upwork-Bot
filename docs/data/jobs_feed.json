@@ -1,5 +1,35 @@
 [
   {
+    "id": "2096550667529082099",
+    "ciphertext": "~022096550667529082099",
+    "title": "ShopWP / Shopify / Wordpress Integration Expert Needed",
+    "description": "I’m looking for someone who is  experienced with ShopWP to help with an existing WordPress + Shopify integration.\n\nThe WordPress website is already connected to an active Shopify store using ShopWP. The basic connection and product syncing are working, but I need help reviewing the setup, troubleshooting issues, and setting up the layout builder pages.\n\nI am an experienced WordPress website designer, so I’m comfortable handling the WordPress design and general site management. I specifically need someone with hands-on ShopWP experience who can assist with the integration and layout of the store pages. Please share relevant experience with ShopWP, WordPress, and Shopify, along with examples of similar projects.",
+    "isHourly": true,
+    "hourlyBudgetMin": 8,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$8 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 145,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "graphic-design",
+      "php",
+      "shopify-apps",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 2600,
+    "coverLetter": "Hi! I can help you fine-tune your ShopWP integration and configure your layout builder pages exactly how you need them. Since you’ve got the design covered, I can act as your technical partner to audit the connection, resolve any syncing or API issues, and ensure the Shopify product data maps perfectly to your WordPress layouts.\n\nWith deep expertise in both WordPress (PHP, custom templates) and Shopify, I specialize in bridging these two ecosystems. I'll make sure the ShopWP shortcodes or blocks render beautifully and load fast. You can see my clean WordPress development work on live sites like https://www.thelifeyoucansave.org/.\n\nWhich page builder are you currently using for the store layouts? Let's chat and get this integration running flawlessly.",
+    "publishedDateTime": "2026-09-06T14:23:24+0000",
+    "addedAt": "2026-09-06T14:24:49.837Z",
+    "url": "https://www.upwork.com/jobs/~022096550667529082099",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096550667529082099/apply/"
+  },
+  {
     "id": "2096581514116195334",
     "ciphertext": "~022096581514116195334",
     "title": "Need help to design a word press website. it is almost 10 hours work. I may need constatnt help.",
