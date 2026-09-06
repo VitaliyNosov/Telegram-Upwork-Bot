@@ -88,6 +88,7 @@
     detailJobBody: document.getElementById('detail-job-body'),
     btnCloseDetails: document.getElementById('btn-close-details'),
     btnDetailsSave: document.getElementById('btn-details-save'),
+    btnDetailsTranslate: document.getElementById('btn-details-translate'),
     btnModalApply: document.getElementById('btn-modal-apply'),
     
     modalFilters: document.getElementById('modal-filters'),
@@ -663,11 +664,213 @@
     }
   }
 
+  // ==========================================
+  // Translation Engine & On-The-Fly Logic
+  // ==========================================
+  async function translateText(text, targetLang = 'ru') {
+    if (!text || !text.trim()) return '';
+
+    async function translateSingleChunk(chunk) {
+      const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${encodeURIComponent(targetLang)}&dt=t&q=${encodeURIComponent(chunk)}`;
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 12000);
+
+      try {
+        const res = await fetch(url, { signal: controller.signal });
+        clearTimeout(timeoutId);
+        if (!res.ok) throw new Error(`Translate HTTP error: ${res.status}`);
+        const data = await res.json();
+        if (Array.isArray(data) && Array.isArray(data[0])) {
+          return data[0].map((item) => (item && item[0] ? item[0] : '')).join('');
+        }
+        throw new Error('Unexpected translation response structure');
+      } catch (err) {
+        clearTimeout(timeoutId);
+        throw err;
+      }
+    }
+
+    if (text.length <= 1200) {
+      return await translateSingleChunk(text);
+    }
+
+    const paragraphs = text.split(/\n\n+/);
+    const chunks = [];
+    let currentChunk = '';
+
+    for (const para of paragraphs) {
+      if ((currentChunk + '\n\n' + para).length > 1200 && currentChunk.length > 0) {
+        chunks.push(currentChunk);
+        currentChunk = para;
+      } else {
+        currentChunk = currentChunk ? currentChunk + '\n\n' + para : para;
+      }
+    }
+    if (currentChunk) chunks.push(currentChunk);
+
+    const translatedChunks = await Promise.all(chunks.map((c) => translateSingleChunk(c)));
+    return translatedChunks.join('\n\n');
+  }
+
+  function updateHeaderTranslateBtn(job) {
+    if (!el.btnDetailsTranslate) return;
+    const isTranslated = Boolean(job._showRuDesc || job._showRuProposal);
+    if (isTranslated) {
+      el.btnDetailsTranslate.classList.add('active');
+      el.btnDetailsTranslate.innerHTML = `
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="1 4 1 10 7 10"></polyline>
+          <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"></path>
+        </svg>
+        <span class="btn-translate-label">EN</span>
+      `;
+      el.btnDetailsTranslate.title = 'Показать оригинал (EN)';
+    } else {
+      el.btnDetailsTranslate.classList.remove('active');
+      el.btnDetailsTranslate.innerHTML = `
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+        </svg>
+        <span class="btn-translate-label">RU</span>
+      `;
+      el.btnDetailsTranslate.title = 'Перевести всё на русский';
+    }
+  }
+
+  async function toggleTranslateDescription(job) {
+    const descEl = document.getElementById('detail-job-description');
+    const btnDesc = document.getElementById('btn-translate-desc');
+    const titleEl = document.getElementById('detail-job-title');
+    if (!descEl || !btnDesc) return;
+
+    if (job._showRuDesc) {
+      job._showRuDesc = false;
+      job._showRuTitle = false;
+      descEl.textContent = job.description;
+      if (titleEl) titleEl.textContent = job.title;
+      btnDesc.classList.remove('active');
+      btnDesc.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
+      updateHeaderTranslateBtn(job);
+      triggerHaptic('selection');
+    } else {
+      triggerHaptic('impact');
+      if (job._cacheRu?.description) {
+        job._showRuDesc = true;
+        job._showRuTitle = true;
+        descEl.textContent = job._cacheRu.description;
+        if (titleEl && job._cacheRu.title) titleEl.textContent = job._cacheRu.title;
+        btnDesc.classList.add('active');
+        btnDesc.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Оригинал</span>`;
+        updateHeaderTranslateBtn(job);
+      } else {
+        btnDesc.classList.add('loading');
+        btnDesc.innerHTML = `<span class="translate-icon">⏳</span><span class="translate-text">Переводим...</span>`;
+        try {
+          const [transDesc, transTitle] = await Promise.all([
+            translateText(job.description),
+            job.title ? translateText(job.title) : Promise.resolve(job.title),
+          ]);
+          job._cacheRu = job._cacheRu || {};
+          job._cacheRu.description = transDesc;
+          job._cacheRu.title = transTitle;
+          job._showRuDesc = true;
+          job._showRuTitle = true;
+
+          if (state.activeJob?.id === job.id) {
+            descEl.textContent = transDesc;
+            if (titleEl && transTitle) titleEl.textContent = transTitle;
+            btnDesc.classList.add('active');
+            btnDesc.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Оригинал</span>`;
+            updateHeaderTranslateBtn(job);
+            showToast('Описание переведено на русский 🌐');
+          }
+        } catch (err) {
+          console.error('Translation error:', err);
+          btnDesc.classList.remove('active');
+          btnDesc.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
+          showToast('Не удалось перевести. Проверьте интернет');
+        } finally {
+          btnDesc.classList.remove('loading');
+        }
+      }
+    }
+  }
+
+  async function toggleTranslateProposal(job) {
+    const propEl = document.getElementById('detail-job-proposal');
+    const btnProp = document.getElementById('btn-translate-proposal');
+    if (!propEl || !btnProp || !job.coverLetter) return;
+
+    if (job._showRuProposal) {
+      job._showRuProposal = false;
+      propEl.textContent = job.coverLetter;
+      btnProp.classList.remove('active');
+      btnProp.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
+      updateHeaderTranslateBtn(job);
+      triggerHaptic('selection');
+    } else {
+      triggerHaptic('impact');
+      if (job._cacheRu?.coverLetter) {
+        job._showRuProposal = true;
+        propEl.textContent = job._cacheRu.coverLetter;
+        btnProp.classList.add('active');
+        btnProp.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Оригинал</span>`;
+        updateHeaderTranslateBtn(job);
+      } else {
+        btnProp.classList.add('loading');
+        btnProp.innerHTML = `<span class="translate-icon">⏳</span><span class="translate-text">Переводим...</span>`;
+        try {
+          const transProposal = await translateText(job.coverLetter);
+          job._cacheRu = job._cacheRu || {};
+          job._cacheRu.coverLetter = transProposal;
+          job._showRuProposal = true;
+
+          if (state.activeJob?.id === job.id) {
+            propEl.textContent = transProposal;
+            btnProp.classList.add('active');
+            btnProp.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Оригинал</span>`;
+            updateHeaderTranslateBtn(job);
+            showToast('AI Proposal переведен на русский 🌐');
+          }
+        } catch (err) {
+          console.error('Translation error:', err);
+          btnProp.classList.remove('active');
+          btnProp.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
+          showToast('Не удалось перевести. Проверьте интернет');
+        } finally {
+          btnProp.classList.remove('loading');
+        }
+      }
+    }
+  }
+
+  async function toggleHeaderTranslate(job) {
+    triggerHaptic('impact');
+    const isCurrentlyTranslated = Boolean(job._showRuDesc || job._showRuProposal);
+
+    if (isCurrentlyTranslated) {
+      if (job._showRuDesc) toggleTranslateDescription(job);
+      if (job._showRuProposal) toggleTranslateProposal(job);
+    } else {
+      const promises = [];
+      if (!job._showRuDesc) promises.push(toggleTranslateDescription(job));
+      if (job.coverLetter && !job._showRuProposal) promises.push(toggleTranslateProposal(job));
+      await Promise.all(promises);
+    }
+  }
+
   // Open Details Modal
   function openJobModal(job) {
     state.activeJob = job;
     markViewed(job.id);
     triggerHaptic('selection');
+
+    job._cacheRu = job._cacheRu || {};
+    job._showRuDesc = Boolean(job._showRuDesc);
+    job._showRuProposal = Boolean(job._showRuProposal);
+    job._showRuTitle = Boolean(job._showRuTitle);
 
     const isHourly = job.isHourly;
     const budgetText = isHourly
@@ -685,15 +888,25 @@
 
     let coverLetterSection = '';
     if (job.coverLetter) {
+      const activeProposalText = job._showRuProposal && job._cacheRu?.coverLetter
+        ? job._cacheRu.coverLetter
+        : job.coverLetter;
+
       coverLetterSection = `
         <div class="ai-proposal-card">
           <div class="ai-card-header">
             <span class="ai-card-title">✨ AI Proposal Assistant</span>
-            <button id="btn-copy-proposal" class="btn btn-secondary" style="font-size: 12px; padding: 5px 12px;">
-              📋 Copy Proposal
-            </button>
+            <div class="ai-card-actions">
+              <button id="btn-translate-proposal" class="btn-translate-inline ${job._showRuProposal ? 'active' : ''}" type="button">
+                <span class="translate-icon">${job._showRuProposal ? '↩️' : '🌐'}</span>
+                <span class="translate-text">${job._showRuProposal ? 'Оригинал' : 'Перевести'}</span>
+              </button>
+              <button id="btn-copy-proposal" class="btn btn-secondary" style="font-size: 12px; padding: 5px 12px;">
+                📋 Copy Proposal
+              </button>
+            </div>
           </div>
-          <div class="ai-proposal-body">${escapeHtml(job.coverLetter)}</div>
+          <div id="detail-job-proposal" class="ai-proposal-body">${escapeHtml(activeProposalText)}</div>
           <span style="font-size: 11px; color: var(--text-muted);">
             💡 Tailored to your resume and the client's problem. You can paste it into Upwork and review before submitting.
           </span>
@@ -701,11 +914,19 @@
       `;
     }
 
+    const activeTitle = job._showRuTitle && job._cacheRu?.title
+      ? job._cacheRu.title
+      : job.title;
+
+    const activeDescription = job._showRuDesc && job._cacheRu?.description
+      ? job._cacheRu.description
+      : job.description;
+
     el.detailJobBody.innerHTML = `
       <div style="font-size: 12px; color: var(--text-muted); margin-bottom: 6px;">
         Posted ${formatRelativeTime(job.publishedDateTime)} • ${job.score ? `Score: ${job.score}` : ''}
       </div>
-      <h1 class="detail-title">${escapeHtml(job.title)}</h1>
+      <h1 class="detail-title" id="detail-job-title">${escapeHtml(activeTitle)}</h1>
 
       <div class="detail-price-box">
         <div>
@@ -715,8 +936,14 @@
         ${job.client?.verificationStatus === 'VERIFIED' ? '<span class="verified-badge">✓ Payment verified</span>' : ''}
       </div>
 
-      <div class="detail-section-title">Job Description</div>
-      <div class="detail-description">${escapeHtml(job.description)}</div>
+      <div class="detail-section-header">
+        <div class="detail-section-title">Job Description</div>
+        <button id="btn-translate-desc" class="btn-translate-inline ${job._showRuDesc ? 'active' : ''}" type="button">
+          <span class="translate-icon">${job._showRuDesc ? '↩️' : '🌐'}</span>
+          <span class="translate-text">${job._showRuDesc ? 'Оригинал' : 'Перевести'}</span>
+        </button>
+      </div>
+      <div id="detail-job-description" class="detail-description">${escapeHtml(activeDescription)}</div>
 
       <div class="detail-section-title">Skills and Expertise</div>
       <div class="skills-pills">${skillsHtml}</div>
@@ -745,6 +972,21 @@
     `;
 
     updateModalSaveBtn(state.savedIds.has(job.id));
+    updateHeaderTranslateBtn(job);
+
+    if (el.btnDetailsTranslate) {
+      el.btnDetailsTranslate.onclick = () => toggleHeaderTranslate(job);
+    }
+
+    const btnTranslateDesc = document.getElementById('btn-translate-desc');
+    if (btnTranslateDesc) {
+      btnTranslateDesc.onclick = () => toggleTranslateDescription(job);
+    }
+
+    const btnTranslateProp = document.getElementById('btn-translate-proposal');
+    if (btnTranslateProp) {
+      btnTranslateProp.onclick = () => toggleTranslateProposal(job);
+    }
 
     // Event listener for copy button
     const copyBtn = document.getElementById('btn-copy-proposal');
@@ -752,7 +994,11 @@
       copyBtn.addEventListener('click', () => {
         copyToClipboard(job.coverLetter);
         triggerHaptic('impact');
-        showToast('Proposal copied to clipboard! 📋');
+        if (job._showRuProposal) {
+          showToast('Оригинал (EN) скопирован для Upwork! 📋');
+        } else {
+          showToast('Proposal copied to clipboard! 📋');
+        }
       });
     }
 

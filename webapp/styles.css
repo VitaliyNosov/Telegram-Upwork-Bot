@@ -673,6 +673,44 @@ html, body {
   border-bottom: 1px solid var(--border-color-subtle);
 }
 
+.sheet-top-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-action-translate {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--bg-pill);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  padding: 5px 10px;
+  border-radius: var(--radius-pill);
+  font-size: 11px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.btn-action-translate:hover {
+  background: var(--bg-card);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.btn-action-translate.active {
+  background: var(--bg-pill-active);
+  color: var(--text-pill-active);
+  border-color: var(--color-primary);
+}
+
+.btn-action-translate.loading svg {
+  animation: spin 1s linear infinite;
+}
+
 .sheet-close-btn {
   background: var(--bg-pill);
   border: none;
@@ -724,6 +762,13 @@ html, body {
   color: var(--color-primary);
 }
 
+.detail-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 16px 0 8px;
+}
+
 .detail-section-title {
   font-size: 13px;
   font-weight: 700;
@@ -731,6 +776,54 @@ html, body {
   letter-spacing: 0.5px;
   color: var(--text-muted);
   margin: 16px 0 8px;
+}
+
+.detail-section-header .detail-section-title {
+  margin: 0;
+}
+
+.btn-translate-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--bg-pill);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.btn-translate-inline:hover {
+  background: var(--bg-card);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.btn-translate-inline.active {
+  background: var(--bg-pill-active);
+  color: var(--text-pill-active);
+  border-color: var(--color-primary);
+}
+
+.btn-translate-inline.loading {
+  opacity: 0.85;
+  pointer-events: none;
+}
+
+.btn-translate-inline.loading .translate-icon {
+  display: inline-block;
+  animation: spin 1s linear infinite;
+}
+
+.ai-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .detail-description {
@@ -929,6 +1022,11 @@ input[type="range"] {
 @keyframes slideUp {
   from { transform: translateY(100%); }
   to { transform: translateY(0); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
 
 /* ==========================================================================
