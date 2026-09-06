@@ -1,5 +1,37 @@
 [
   {
+    "id": "2096682535881565883",
+    "ciphertext": "~022096682535881565883",
+    "title": "Professional WordPress Elementor Website Redesign for a Law Firm",
+    "description": "Hello,\n\nI hope you are doing well.\n\nI need help with my WordPress website. I created a one-page website using Elementor, but it does not look modern or professional, and it is not generating enough client inquiries.\n\nI would like to redesign the website to give it a more professional, trustworthy, and modern appearance while keeping it easy for me to edit. It is important that the website remains built with Elementor so I can update the text and images myself whenever needed.\n\nPlease review my current website:https://aranedalegal.cl/\n\nCould you please let me know:\n\n* Your estimated cost for the redesign• The expected timeline for completion• What improvements you would recommend to increase conversions and attract more clients\n\nI look forward to hearing your thoughts and receiving a proposal.\n\nThank you for your time.",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$5 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 44,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "website-redesign",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "elementor",
+      "wordpress-website"
+    ],
+    "score": 4100,
+    "coverLetter": "Hi! I’ve reviewed aranedalegal.cl. To build trust and drive client inquiries, we need a clean layout, a clear value proposition above the fold, and prominent Book a Consultation call-to-actions. I will redesign your site entirely within Elementor so it remains incredibly easy for you to update.\n\nYou can see my focus on professional, clean design with my work on https://www.cchpca.org/. For this redesign, I estimate a budget of $600 to $900 and a timeline of 5 to 7 days. To boost conversions, I recommend adding trust signals like client testimonials and a simplified, high-converting contact form.\n\nAre you available for a brief chat to discuss the specific practice areas we should highlight first?",
+    "publishedDateTime": "2026-09-06T19:31:45+0000",
+    "addedAt": "2026-09-06T19:32:51.994Z",
+    "url": "https://www.upwork.com/jobs/~022096682535881565883",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096682535881565883/apply/"
+  },
+  {
     "id": "2096672669217564584",
     "ciphertext": "~022096672669217564584",
     "title": "Astro.js Developer | WordPress-to-Astro Migration",

@@ -1,12 +1,19 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 50,
-  "matchedFilters": 8,
+  "totalScanned": 51,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
+    {
+      "title": "Professional WordPress Elementor Website Redesign for a Law Firm",
+      "budget": "$5-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022096682535881565883",
+      "addedAt": "2026-09-06T19:32:39.025Z"
+    },
     {
       "title": "Astro.js Developer | WordPress-to-Astro Migration",
       "budget": "$30-$40/hr",
