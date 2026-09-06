@@ -90,6 +90,7 @@
     btnDetailsSave: document.getElementById('btn-details-save'),
     btnDetailsTranslate: document.getElementById('btn-details-translate'),
     btnModalApply: document.getElementById('btn-modal-apply'),
+    btnModalView: document.getElementById('btn-modal-view'),
     
     modalFilters: document.getElementById('modal-filters'),
     btnOpenFilters: document.getElementById('btn-open-filter-modal'),
@@ -737,6 +738,18 @@
       `;
       el.btnDetailsTranslate.title = 'Перевести всё на русский';
     }
+    updateModalActionButtons(isTranslated);
+  }
+
+  function updateModalActionButtons(isTranslated) {
+    if (el.btnModalView) {
+      const span = el.btnModalView.querySelector('span');
+      if (span) span.textContent = isTranslated ? 'Перейти к вакансии' : 'View Job';
+    }
+    if (el.btnModalApply) {
+      const span = el.btnModalApply.querySelector('span');
+      if (span) span.textContent = isTranslated ? 'Откликнуться на Upwork' : 'Apply on Upwork';
+    }
   }
 
   async function toggleTranslateDescription(job) {
@@ -1002,16 +1015,31 @@
       });
     }
 
-    // Apply button URL
-    el.btnModalApply.onclick = () => {
-      const targetUrl = job.applyUrl || job.url;
-      triggerHaptic('impact');
-      if (tg?.openLink) {
-        tg.openLink(targetUrl);
-      } else {
-        window.open(targetUrl, '_blank');
-      }
-    };
+    // View Job button (navigates to original job post)
+    if (el.btnModalView) {
+      el.btnModalView.onclick = () => {
+        const targetUrl = job.url || job.applyUrl;
+        triggerHaptic('impact');
+        if (tg?.openLink) {
+          tg.openLink(targetUrl);
+        } else {
+          window.open(targetUrl, '_blank');
+        }
+      };
+    }
+
+    // Apply button URL (navigates to proposals/apply)
+    if (el.btnModalApply) {
+      el.btnModalApply.onclick = () => {
+        const targetUrl = job.applyUrl || job.url;
+        triggerHaptic('impact');
+        if (tg?.openLink) {
+          tg.openLink(targetUrl);
+        } else {
+          window.open(targetUrl, '_blank');
+        }
+      };
+    }
 
     el.modalDetails.classList.remove('hidden');
   }
