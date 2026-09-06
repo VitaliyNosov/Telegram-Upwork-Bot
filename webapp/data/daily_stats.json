@@ -1,10 +1,10 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 16,
-  "matchedFilters": 2,
+  "totalScanned": 17,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022096356486703473670",
       "addedAt": "2026-09-05T21:56:38.111Z"
+    },
+    {
+      "title": "Migrate Websites to Supabase",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022096406040249507637",
+      "addedAt": "2026-09-06T04:14:39.213Z"
     }
   ]
 }
