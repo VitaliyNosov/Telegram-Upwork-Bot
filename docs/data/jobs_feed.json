@@ -1,5 +1,35 @@
 [
   {
+    "id": "2096672669217564584",
+    "ciphertext": "~022096672669217564584",
+    "title": "Astro.js Developer | WordPress-to-Astro Migration",
+    "description": "About Us:\nMavan is a growing digital marketing agency specializing in websites, SEO, and digital growth for medical, aesthetics, wellness, and healthcare businesses.\nWe are currently transitioning our website development process from WordPress to Astro and are looking for an experienced Astro developer to help us migrate our existing portfolio of WordPress client websites.\nWe are already working with another Astro developer to build the framework, components, standards, and development process for new client websites. We now need someone who can help apply and improve that system for existing WordPress-to-Astro migrations.\nBecause this is a brand-new process for our agency, we are looking for someone who is not only a strong developer, but also enjoys helping build systems, solve problems, and improve processes as we grow.\n\nWhat You’ll Be Doing:\n-Migrating existing WordPress websites to Astro\n-Rebuilding WordPress/Elementor layouts using clean, reusable Astro components\n-Migrating website content, images, metadata, and assets\n-Preserving existing URL structures and SEO equity\n-Implementing and validating 301 redirects when needed\n-Maintaining meta titles, descriptions, canonicals, schema, and internal links\n-Recreating forms, CTAs, lead funnels, and third-party integrations\n-Reconnecting analytics, tracking scripts, and pixels\n-Testing websites across desktop, tablet, and mobile\n-Improving site speed and Core Web Vitals\n-Performing pre-launch and post-launch QA\n-Working with our existing Astro developer to improve our development and migration system\n-Documenting processes, solutions, and best practices for future developers\n\nWhat We’re Looking For:\n-Required\n--Strong Astro / Astro.js experience\n--Strong HTML, CSS, and JavaScript skills\n--Experience building responsive websites\n--Experience with Git/version control\n--Strong understanding of component-based development\n--Excellent attention to detail\n--Ability to troubleshoot and work independently\n--Clear communication and ability to collaborate with a remote team\n\n-Strongly Preferred\n--Experience migrating WordPress websites to Astro or another modern framework\n--WordPress and Elementor experience\n--TypeScript experience\n--Understanding of technical SEO and website migrations\n--Experience with 301 redirects, schema, canonical tags, and URL mapping\n--Experience with Google Analytics, Google Tag Manager, and conversion tracking\n--Experience with APIs and third-party integrations\n--Experience improving Core Web Vitals\n--Agency experience\n\nWho Will Thrive in This Role:\nWe are a small, growing startup-style agency, and our processes are continuously evolving.\nWe are looking for someone who:\n-Is motivated and self-directed\n-Does not need constant micromanagement\n-Takes ownership of their work\n-Identifies problems before they become bigger issues\n-Looks for ways to improve systems and processes\n-Is comfortable working within a process that is still being developed\n-Wants to contribute ideas and help shape how our development department operates\nThis is a great opportunity for someone who wants to be involved in more than simply completing development tickets. You will have the opportunity to help us build the systems and standards behind a growing Astro development operation.\n\nHow to Apply\nPlease include:\n-A brief introduction\n-Your experience with Astro\n-Examples of Astro websites you have personally built\n-Your experience with WordPress/Elementor\n-Any WordPress-to-Astro migration experience\n-Your GitHub or code examples, if available",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$30 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 65,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "react-js",
+      "api-development",
+      "python",
+      "wordpress",
+      "performance-monitoring"
+    ],
+    "score": 4099,
+    "coverLetter": "Hi! Migrating WordPress and Elementor sites to a modern, component-based Astro setup is the perfect way to skyrocket Core Web Vitals while keeping your SEO intact. As a senior CMS developer, I specialize in dissecting complex Elementor layouts and rebuilding them with clean, semantic code. I’ve managed high-performance sites like daysforgirls.org, ensuring perfect SEO preservation and speed.\n\nI work extensively with modern JS and headless architectures, making me highly comfortable adapting to your Astro framework to map URL structures, handle 301 redirects, and recreate interactive forms. I love refining systems and would be glad to help your team build a scalable, repeatable migration pipeline.\n\nDo you have a specific client site ready for the first migration? Let’s connect.",
+    "publishedDateTime": "2026-09-06T18:52:53+0000",
+    "addedAt": "2026-09-06T18:54:51.361Z",
+    "url": "https://www.upwork.com/jobs/~022096672669217564584",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096672669217564584/apply/"
+  },
+  {
     "id": "2096623266066178392",
     "ciphertext": "~022096623266066178392",
     "title": "WordPress Designer/Developer for Premium Healthcare Website",

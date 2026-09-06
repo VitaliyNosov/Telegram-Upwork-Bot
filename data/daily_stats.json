@@ -1,12 +1,19 @@
 {
   "date": "2026-09-06",
   "lastDigestSentDate": "2026-09-06",
-  "totalScanned": 46,
-  "matchedFilters": 7,
+  "totalScanned": 47,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
+    {
+      "title": "Astro.js Developer | WordPress-to-Astro Migration",
+      "budget": "$30-$40/hr",
+      "score": 4099,
+      "url": "https://www.upwork.com/jobs/~022096672669217564584",
+      "addedAt": "2026-09-06T18:54:36.464Z"
+    },
     {
       "title": "WordPress Plugin Update Specialist",
       "budget": "$14-$28/hr",
