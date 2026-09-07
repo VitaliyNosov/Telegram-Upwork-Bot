@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 18,
-  "matchedFilters": 7,
+  "totalScanned": 19,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022096732968138335931",
       "addedAt": "2026-09-06T22:54:38.774Z"
+    },
+    {
+      "title": "Web Developer Coder [Figma to Wordpress Elementor]",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022096781548357890795",
+      "addedAt": "2026-09-07T02:06:37.220Z"
     },
     {
       "title": "AI-Powered Domestic Help Website",

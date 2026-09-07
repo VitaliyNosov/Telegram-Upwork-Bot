@@ -1,5 +1,39 @@
 [
   {
+    "id": "2096781548357890795",
+    "ciphertext": "~022096781548357890795",
+    "title": "Web Developer Coder [Figma to Wordpress Elementor]",
+    "description": "Website Revamp [Implementation Only - No Design]\n\n- Convert Figma landing page to implement and set up on Wordpress Elementor\n- Desktop and mobile UIUX\n- For up to 20 pages - design has been completed, only implementation\n- Needs to ensure design as per figma working file and animations are functioning.\n- NO Design needed \n- Installation of relevant plugins to support functions of the site.\n\nMust be able to complete within 1 week.\nUp to 5 drafts revisions (assuming everything has been set up proper from the start, improper set ups are not counted as draft).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Singapore",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 32,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "landing-pages",
+      "wordpress",
+      "html",
+      "html5",
+      "web-programming",
+      "figma",
+      "website",
+      "elementor",
+      "web-design"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I can convert your 20-page Figma design into a pixel-perfect, fully responsive Elementor site within your tight 1-week deadline. I focus strictly on clean implementation, ensuring every desktop and mobile layout matches your Figma file exactly, with all animations functioning smoothly.\n\nI have extensive experience building high-performance WordPress sites from Figma, using only essential, lightweight plugins to keep the site fast and secure. I’m completely aligned with your 5-revision limit, as my goal is to get the structure and styling 100% correct from the very first draft. \n\nYou can check out my clean WordPress development work here: https://about.offerup.com/\n\nCould you share the Figma link so I can review the animations and layout structure? I am ready to start immediately.",
+    "publishedDateTime": "2026-09-07T02:05:03+0000",
+    "addedAt": "2026-09-07T02:07:09.810Z",
+    "url": "https://www.upwork.com/jobs/~022096781548357890795",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096781548357890795/apply/"
+  },
+  {
     "id": "2096719456818160646",
     "ciphertext": "~022096719456818160646",
     "title": "WordPress Website Recovery + Simple Personal Brand Redesign + Ongoing Maintenance",
