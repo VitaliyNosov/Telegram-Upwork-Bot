@@ -1,5 +1,31 @@
 [
   {
+    "id": "2097033297470080230",
+    "ciphertext": "~022097033297470080230",
+    "title": "Urgent WordPress malware cleanup needed for persistent PHP/auto_prepend infection",
+    "description": "I need an experienced WordPress malware/security specialist to clean a hacked WordPress site on Namecheap shared hosting.\n\nThis is not a simple plugin issue. Known symptoms/findings:\n- Browser DevTools shows an injected request to https://forecast-chaos.com/x9i32md/w1/la02\n- Malware injects obfuscated inline JavaScript into the homepage\n- Malicious MU-plugin found at /wp-content/mu-plugins/vista-tracker-ops.php\n- .user.ini and .htaccess were repeatedly rewritten with auto_prepend_file\n- Payload files included /wp-content/ed34bae7.php, /wp-content/.ed34bae7.php, and /wp-content/81b7e91f.php\n- Fake/suspicious plugin wordpesso was found and removed\n- Imunify360 detected/cleaned backdoor-related files including /wp-content/.sc_15c1a847/core_d1ac14b9.php\n- The infection has recreated files after WordPress/PHP was triggered\n\nI need someone who can:\n- Find and remove the persistence/backdoor source, not just delete visible malware files\n- Inspect .user.ini, .htaccess, MU-plugins, wp-content, plugins/themes, uploads, and access logs\n- Repair or replace infected WordPress core/plugin/theme files safely\n- Keep the site working if possible\n- Provide a clear list of files changed/removed and recommended next steps\n- Advise on credential resets and hardening after cleanup\n\nPlease reply with:\n1. Your experience with WordPress auto_prepend_file malware/backdoors\n2. How you would approach this case\n3. Whether you can start immediately\n4. Estimated time to contain and clean\n5. What access you need",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-malware-removal"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-07T18:45:50+0000",
+    "addedAt": "2026-09-07T18:47:02.408Z",
+    "url": "https://www.upwork.com/jobs/~022097033297470080230",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097033297470080230/apply/"
+  },
+  {
     "id": "2097026164120966486",
     "ciphertext": "~022097026164120966486",
     "title": "WordPress Website Update",
