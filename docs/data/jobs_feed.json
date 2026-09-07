@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096896587987366635",
+    "ciphertext": "~022096896587987366635",
+    "title": "Web Developer for Higher Education Website",
+    "description": "We need a web developer agency to build a website for a new regulated higher education institution in Europe. \nThe project includes two phases and initial coming soon type site of 3-4 pages that is public and then a password protected detailed site for evaluation by our regulator and once licensed we release this.\nDesign wise our preference is a site that actually doe snot look like an educational instituition but more like a future facing research institutue that is shaping the human-ai collaboration.\nTechnically we need teh highest levels of compliance and controls retained by us plus EU hosting or recommendations for a hosting administration.\nYou will help shape the structure, design, and functionality to meet European standards and provide a strong online presence. Experience with building user-friendly, trustworthy digital experiences is important as is AEO and SEO first principles. This is a part-time project with a fixed budget.\nWe will e-video meet relevant agencies before shortlisting to share our RFP and then proceed accordingly. So please share contact details accordingly.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! Your plan for a two-phase rollout—starting with a public teaser and moving to a secure, password-protected environment for EU regulators—is the exact right approach for licensing. \n\nI specialize in building highly secure, compliant WordPress sites with strict access controls. I can recommend top-tier EU-based hosting (like GDPR-compliant Kinsta or WP Engine EU nodes) to ensure you retain full data ownership. For your future-facing research aesthetic, I build SEO-first, custom PHP setups that look modern rather than academic. You can see my clean work for established institutional platforms here: https://www.cchpca.org/\n\nI would love to hop on a video call to review your RFP and discuss the technical requirements for your regulator's review. When are you free to connect this week?",
+    "publishedDateTime": "2026-09-07T12:42:59+0000",
+    "addedAt": "2026-09-07T12:45:05.560Z",
+    "url": "https://www.upwork.com/jobs/~022096896587987366635",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096896587987366635/apply/"
+  },
+  {
     "id": "2096831687898378987",
     "ciphertext": "~022096831687898378987",
     "title": "MONEYSMARTFAMILY.COM Managed WordPress Performance Fix + Site Audit + EasyAzon Cleanup",

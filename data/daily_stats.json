@@ -1,13 +1,20 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 45,
-  "matchedFilters": 12,
+  "totalScanned": 46,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Web Developer for Higher Education Website",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022096896587987366635",
+      "addedAt": "2026-09-07T12:44:52.353Z"
+    },
     {
       "title": "WordPress Elementor Website Fixes",
       "budget": "$18-$30/hr",
@@ -70,13 +77,6 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022096781548357890795",
       "addedAt": "2026-09-07T02:06:37.220Z"
-    },
-    {
-      "title": "AI-Powered Domestic Help Website",
-      "budget": "Fixed-price",
-      "score": 95,
-      "url": "https://www.upwork.com/jobs/~022096755772100583221",
-      "addedAt": "2026-09-07T00:24:37.007Z"
     }
   ]
 }
