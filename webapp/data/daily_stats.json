@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 50,
-  "matchedFilters": 13,
+  "totalScanned": 51,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 1
   },
   "topJobs": [
@@ -65,18 +65,18 @@
       "addedAt": "2026-09-06T23:58:37.318Z"
     },
     {
+      "title": "Revamp and Modernize Wordpress Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022096957677075780950",
+      "addedAt": "2026-09-07T13:46:40.290Z"
+    },
+    {
       "title": "Help needed getting Claude design into WordPress",
       "budget": "Fixed-price",
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022096732968138335931",
       "addedAt": "2026-09-06T22:54:38.774Z"
-    },
-    {
-      "title": "Web Developer Coder [Figma to Wordpress Elementor]",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022096781548357890795",
-      "addedAt": "2026-09-07T02:06:37.220Z"
     }
   ]
 }

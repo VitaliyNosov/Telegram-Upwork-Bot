@@ -1,5 +1,36 @@
 [
   {
+    "id": "2096957677075780950",
+    "ciphertext": "~022096957677075780950",
+    "title": "Revamp and Modernize Wordpress Website",
+    "description": "I own this website: https://totallossappraisals.com/\n\nI need it rebuilt to look modern, with updated graphics, better visuals, and much faster load times.\n\nScope\n- Keep existing content for now, we will handle content changes in house\n- Build on WordPress using the most current codebase and coding standards\n- Specify your approach: custom coded theme or page builder (Elementor, Bricks, etc)\n- Match the same sitemap and page structure as the current site\n- Essentially clone the current site onto a new domain. I will set up a fresh WordPress install on Plesk and handle the URL swap myself once approved\n- Must include Gravity Forms or comparable, submissions routed to email\n- Fully responsive, tested across major browsers\n\nRequirements\n\n- Preserve all URLs/slugs, or provide a 301 redirect map for any changes\n- Preserve existing meta titles, descriptions, header structure, and image alt text\n- Migrate current SEO plugin config and schema markup\n- Migrate Google Analytics, Tag Manager, and any ad/conversion pixels\n- Target 90+ PageSpeed Insights score on mobile and desktop\n- Image optimization, lazy loading, and caching configured\n\n\nTo apply\nUse application code TLA at the start of your cover letter to confirm you read this in full\n\nShare 2 to 3 links to similar WordPress rebuild projects you have completed\n\nMust be Upwork verified with a proven track record\n\nThank you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 316,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "website",
+      "web-programming",
+      "html",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "TLA. Hi! I can rebuild totallossappraisals.com into a modern, lightning-fast WordPress site while strictly preserving your SEO rankings, URL structure, and meta data.\n\nFor this rebuild, I recommend a custom theme using Gutenberg and ACF (or Bricks if you prefer a builder). This approach ensures a clean, modern codebase, easy in-house editing, and easily hits your 90+ PageSpeed target. I'll handle the Plesk staging setup, Gravity Forms integration, and seamless transfer of your analytics, schema, and meta tags.\n\nHere are two similar high-performance WordPress rebuilds:\n- https://about.offerup.com/\n- https://www.thelifeyoucansave.org/\n\nDo you have a preferred design direction, or should I propose some layout modernizations based on your current content?",
+    "publishedDateTime": "2026-09-07T13:45:26+0000",
+    "addedAt": "2026-09-07T13:46:51.226Z",
+    "url": "https://www.upwork.com/jobs/~022096957677075780950",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096957677075780950/apply/"
+  },
+  {
     "id": "2096896587987366635",
     "ciphertext": "~022096896587987366635",
     "title": "Web Developer for Higher Education Website",
