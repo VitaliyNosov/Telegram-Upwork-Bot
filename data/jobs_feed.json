@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097088212846597462",
+    "ciphertext": "~022097088212846597462",
+    "title": "Elementor Landing Page Setup + Header Fix & Conversion Pixel Install (WordPress) funnel",
+    "description": "Need a WordPress/Elementor expert to convert two HTML/CSS landing pages into Elementor so they match my existing site theme. The work includes rebuilding the pages in Elementor, ensuring the design aligns with the current theme, and completing a few additional fixes. Please apply if you have strong experience with WordPress, Elementor, and responsive page builds.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "css",
+      "html5",
+      "css3"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can convert your two HTML/CSS landing pages into clean, responsive Elementor layouts that perfectly match your current theme, resolve your header issue, and install your conversion pixels.\n\nWith a strong background in both raw front-end code (HTML/CSS) and Elementor development, I ensure migrations are pixel-perfect, lightweight, and fully mobile-optimized. I routinely handle layout adjustments and tracking integrations to keep marketing funnels running smoothly. You can see an example of my professional WordPress work here: https://about.offerup.com/\n\nCould you share the links to the HTML pages and your current WordPress site so I can take a look at the header?",
+    "publishedDateTime": "2026-09-07T22:25:04+0000",
+    "addedAt": "2026-09-07T22:26:48.177Z",
+    "url": "https://www.upwork.com/jobs/~022097088212846597462",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097088212846597462/apply/"
+  },
+  {
     "id": "2097061532765970670",
     "ciphertext": "~022097061532765970670",
     "title": "WordPress Document Automation  – WPForms, E2PDF & Stripe",

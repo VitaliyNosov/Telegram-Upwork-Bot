@@ -1,8 +1,18 @@
 {
   "date": "2026-09-08",
   "lastDigestSentDate": "2026-09-08",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Elementor Landing Page Setup + Header Fix & Conversion Pixel Install (WordPress) funnel",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022097088212846597462",
+      "addedAt": "2026-09-07T22:26:36.431Z"
+    }
+  ]
 }
