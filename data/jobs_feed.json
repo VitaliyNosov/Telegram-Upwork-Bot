@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096755772100583221",
+    "ciphertext": "~022096755772100583221",
+    "title": "AI-Powered Domestic Help Website",
+    "description": "We need a developer to build a website for affluent homeowners to find domestic help and nanny services. The site should include a clean, modern interface, easy search and booking features, and a strong user experience. We also want to integrate AI to improve matching and recommendations. The project should be scalable, secure, and easy to manage for ongoing updates and growth.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.75,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 115,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "data-entry"
+    ],
+    "score": 95,
+    "coverLetter": "Hi! Your project for an AI-powered domestic help platform sounds like a fantastic build. I can create a secure, high-end WordPress site tailored for affluent users, featuring a seamless booking system and custom search.\n\nTo handle the AI-powered matching, I will connect recommendation APIs (like OpenAI) directly to WordPress using custom REST APIs and Advanced Custom Fields (ACF). This ensures a fast, modern UX while keeping the back-end clean and easy for your team to manage. You can see my approach to clean, modern interfaces on projects like https://about.offerup.com/.\n\nDo you already have a preferred AI service in mind for the matching engine, or would you like to discuss some options?",
+    "publishedDateTime": "2026-09-07T00:22:20+0000",
+    "addedAt": "2026-09-07T00:24:42.170Z",
+    "url": "https://www.upwork.com/jobs/~022096755772100583221",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096755772100583221/apply/"
+  },
+  {
     "id": "2096749071672661235",
     "ciphertext": "~022096749071672661235",
     "title": "WordPress to Shopify Migration",

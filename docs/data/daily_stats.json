@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 11,
-  "matchedFilters": 4,
+  "totalScanned": 12,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022096732968138335931",
       "addedAt": "2026-09-06T22:54:38.774Z"
+    },
+    {
+      "title": "AI-Powered Domestic Help Website",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022096755772100583221",
+      "addedAt": "2026-09-07T00:24:37.007Z"
     }
   ]
 }
