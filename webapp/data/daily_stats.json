@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 16,
-  "matchedFilters": 6,
+  "totalScanned": 17,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 2693,
       "url": "https://www.upwork.com/jobs/~022096673264621199157",
       "addedAt": "2026-09-06T21:56:37.082Z"
+    },
+    {
+      "title": "WordPress Website Recovery + Simple Personal Brand Redesign + Ongoing Maintenance",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022096719456818160646",
+      "addedAt": "2026-09-07T01:00:41.437Z"
     },
     {
       "title": "WordPress to Shopify Migration",

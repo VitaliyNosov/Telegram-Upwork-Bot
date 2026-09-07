@@ -1,5 +1,32 @@
 [
   {
+    "id": "2096719456818160646",
+    "ciphertext": "~022096719456818160646",
+    "title": "WordPress Website Recovery + Simple Personal Brand Redesign + Ongoing Maintenance",
+    "description": "The website needs to bring together the main areas of my work, including:\n\n\t•\tThe Smile Collective\n\t•\tMy podcast, Don’t Let the Smile Fool You\n\t•\tMy book\n\t•\tCEO of the Day\n\t•\tSpeaking engagements\n\t•\tMy professional profile and leadership work\n\nI want the homepage to give a clear sense of all of these areas without feeling heavy or overcrowded. I would prefer a simple structure, a small number of pages, and strong visual navigation. I would also like a simple newsletter/email signup on the site that can connect to a mailing platform I choose, as well as simple e-commerce/payment integration for direct book sales (for example, via WooCommerce with Paystack or Stripe).\n\nI am looking for someone who can:\n\n\t•\tassess and recover the current website\n\t•\tadvise whether it should be repaired or rebuilt\n\t•\tredesign it in a clean, simple and visually strong way\n\t•\tensure it works properly across desktop, mobile and tablet\n\t•\tensure all domain, hosting, website and related accounts remain under my ownership and control\n\t•\tprovide light ongoing maintenance after launch, probably quarterly, including regular backups and backup verification, basic security monitoring, plugin/theme updates and troubleshooting, with support if something goes wrong\n\nMy priority is to get the existing site assessed and stable as quickly as reasonably possible. I would then like the redesign completed within approximately 4–6 weeks, depending on what is discovered during the initial assessment.\n\nBefore I share access, I would also like shortlisted candidates to briefly explain how they would assess an unstable WordPress site and what they would want to understand first.\n\nPlease send:\n\n\t•\texamples of similar personal brand, leadership or professional websites you have built\n\t•\texamples of WordPress sites you currently maintain\n\t•\tyour experience recovering, repairing or rebuilding problematic websites\n\t•\thow you would approach this project\n\t•\tyour pricing for the initial assessment/recovery\n\t•\tyour pricing for the redesign/rebuild\n\t•\tyour pricing for ongoing quarterly maintenance\n\t•\tyour typical response time for urgent website issues\n\nI am looking for someone reliable, experienced and easy to work with for the long term.\n\nI will share the existing website details only with shortlisted candidates.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": "To assess your unstable WordPress site, I immediately check server error logs for PHP conflicts, run malware scans, and verify database integrity. I first need to know your hosting environment, when the instability started, and if you have active backups.\n\nI specialize in recovering broken WordPress sites and building clean, high-performing layouts. I will easily handle your WooCommerce (Stripe/Paystack) integration and design a lightweight, visually strong homepage. For a clean, professional brand feel, check out my work at https://www.thelifeyoucansave.org/.\n\nI provide structured pricing for the assessment, rebuild, and quarterly maintenance, with a 2-hour response time for emergencies. Let's chat so I can share my detailed pricing breakdown and get your site stabilized.",
+    "publishedDateTime": "2026-09-07T00:59:03+0000",
+    "addedAt": "2026-09-07T01:00:47.138Z",
+    "url": "https://www.upwork.com/jobs/~022096719456818160646",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096719456818160646/apply/"
+  },
+  {
     "id": "2096711506471015667",
     "ciphertext": "~022096711506471015667",
     "title": "Website Structure and User Experience Expert",
