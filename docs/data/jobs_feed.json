@@ -1,5 +1,35 @@
 [
   {
+    "id": "2097061532765970670",
+    "ciphertext": "~022097061532765970670",
+    "title": "WordPress Document Automation  – WPForms, E2PDF & Stripe",
+    "description": "I am looking for an experienced WordPress document automation specialist to finish and launch three existing automated legal documents.\n\nThe current setup already exists and uses WordPress, WPForms Pro, E2PDF, Stripe, and Microsoft Word source documents.\n\nThis is not a website rebuild, redesign, SEO project, landing-page project, dashboard, or custom platform build.\n\nThe three automated documents are already substantially built and are approximately:\n\nDocument 1 – 5 pages\nDocument 2 – 5 pages\nDocument 3 – 10 pages\n\nThey do not need to be recreated from scratch.\n\nThe primary issue is formatting. The automated output needs to look like a professionally prepared legal document, not raw generated output.\n\nI am attaching one document that contains a side-by-side comparison of the 10-page automated document. The current automated version is shown on the left, and the professionally formatted version I produce for clients is shown on the right. The specific formatting issues I want corrected are listed on pages 11–14 of that same attachment. \n\nThe biggest issues involve margins, font sizing, paragraph spacing, headings, alignment, page breaks, footer and page-number placement, signature and notary blocks, white space, and overall professional presentation.\n\nThere are also a few placeholders and conditional fields that need to be corrected so the proper language appears only when applicable.\n\nThe work includes reviewing the existing WPForms and E2PDF setup, correcting the formatting and conditional-field issues, comparing the generated output against the professionally formatted version, testing the complete customer workflow through Stripe payment, document generation, and delivery, and making all three documents live and usable on the website.\n\nI have already hired four different people who assured me they could complete this project, and I still do not have a single automated document ready to go live. Because of that, I am only interested in someone who already has direct experience with this type of work and can demonstrate it.\n\nI am specifically looking for someone who already knows WPForms, E2PDF, Stripe, document automation, conditional logic, and professional PDF/document formatting. I am not interested in paying someone to learn these systems while working on my project.\n\nPlease do not propose rebuilding my website or moving everything to another platform unless there is a legitimate technical reason the existing system cannot work.\n\nThis will be a fixed-price project with milestone payments tied to actual completion:\n\nMilestone 1 – First 5-page document fully corrected, tested, and live: $150\n\nMilestone 2 – Second 5-page document fully corrected, tested, and live: $150\n\nMilestone 3 – 10-page document fully corrected, tested, and live: $200\n\nTotal project budget: $500.\n\nEach milestone will be approved only after the document has been tested from the public-facing form through payment, generation, and delivery and is functioning properly.\n\nI have additional legal documents I want to automate once these three are successfully completed. If you are a good fit, communicate well, and complete these properly, I will have additional ongoing work available.\n\nWhen applying, please confirm your direct experience with WPForms, E2PDF, Stripe, document automation, conditional logic, and formatting generated documents to closely match professionally formatted Word documents. Please provide examples of similar work if available and your estimated turnaround time for these three documents.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "form-development",
+      "wordpress-website",
+      "document-management-system",
+      "stripe"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I understand your frustration with previous freelancers. I confirm I have direct experience with WPForms, E2PDF, Stripe, conditional logic, and precise PDF formatting. I'm ready to fix your margins, page breaks, and signature blocks so they look like professional legal documents, not raw output.\n\nI can complete all three milestones within 5 days total (roughly 1-2 days per document). My background in custom WordPress development and API integrations ensures the Stripe-to-delivery workflow will be seamless. You can see my clean execution on high-standard sites like https://www.thelifeyoucansave.org/.\n\nI am ready to review your PDF comparison and start on Milestone 1 immediately. When are you free for a quick chat?",
+    "publishedDateTime": "2026-09-07T20:37:45+0000",
+    "addedAt": "2026-09-07T20:38:41.978Z",
+    "url": "https://www.upwork.com/jobs/~022097061532765970670",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097061532765970670/apply/"
+  },
+  {
     "id": "2097057924900447649",
     "ciphertext": "~022097057924900447649",
     "title": "Experienced Ecommerce Web Developer Needed",
