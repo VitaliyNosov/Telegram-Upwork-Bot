@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 29,
-  "matchedFilters": 10,
+  "totalScanned": 30,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 9,
+    "wordpress developer": 10,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 2693,
       "url": "https://www.upwork.com/jobs/~022096673264621199157",
       "addedAt": "2026-09-06T21:56:37.082Z"
+    },
+    {
+      "title": "Web Developer & Designer – Ongoing Support",
+      "budget": "$10-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022096869886511572667",
+      "addedAt": "2026-09-07T07:58:39.344Z"
     },
     {
       "title": "WordPress Website Recovery + Simple Personal Brand Redesign + Ongoing Maintenance",
@@ -70,13 +77,6 @@
       "score": 93,
       "url": "https://www.upwork.com/jobs/~022096711506471015667",
       "addedAt": "2026-09-07T00:28:36.131Z"
-    },
-    {
-      "title": "Theme Replacement & Cleanup",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022096784394684911068",
-      "addedAt": "2026-09-07T05:18:39.863Z"
     }
   ]
 }
