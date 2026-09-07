@@ -595,7 +595,7 @@
     if (el.reportJobsList) {
       el.reportJobsList.innerHTML = '';
       const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
-      if (el.reportJobsCount) el.reportJobsCount.textContent = `${activeJobs.length} вакансий`;
+      if (el.reportJobsCount) el.reportJobsCount.textContent = `${activeJobs.length} ${activeJobs.length === 1 ? 'job' : 'jobs'}`;
 
       activeJobs.forEach((job) => {
         const isHourly = job.isHourly;
@@ -605,12 +605,13 @@
 
         const country = job.client?.country || 'Unknown';
         const rating = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1) : '5.0';
+        const jobUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : '');
 
         const card = document.createElement('div');
         card.className = 'job-card';
         card.innerHTML = `
           <div class="card-header">
-            <span class="card-time">Сегодня</span>
+            <span class="card-time">Today</span>
             <div style="display: flex; gap: 6px; align-items: center;">
               ${job.score ? `<span class="badge-score">Score: ${job.score}</span>` : ''}
               <button class="card-save-btn ${state.savedIds.has(job.id) ? 'saved' : ''}" data-id="${job.id}" aria-label="Save job">
@@ -637,7 +638,7 @@
             <button class="btn btn-secondary btn-report-details" style="flex: 1; padding: 8px 12px; font-size: 13px;">
               📋 AI Proposal
             </button>
-            <a href="${job.url}" target="_blank" class="btn btn-primary" style="flex: 1; padding: 8px 12px; font-size: 13px; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 4px;">
+            <a href="${escapeHtml(jobUrl || '#')}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-report-job-link" style="flex: 1; padding: 8px 12px; font-size: 13px; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 4px;">
               <span>🚀 Upwork</span>
             </a>
           </div>
@@ -658,6 +659,22 @@
           dismissBtn.addEventListener('click', (e) => {
             e.stopPropagation();
             dismissJob(job.id, card);
+          });
+        }
+
+        const linkBtn = card.querySelector('.btn-report-job-link');
+        if (linkBtn) {
+          linkBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            if (jobUrl) {
+              e.preventDefault();
+              triggerHaptic('impact');
+              if (tg?.openLink) {
+                tg.openLink(jobUrl);
+              } else {
+                window.open(jobUrl, '_blank', 'noopener,noreferrer');
+              }
+            }
           });
         }
 
@@ -1528,11 +1545,11 @@
   // ==========================================
   function downloadReportPDF() {
     triggerHaptic('impact');
-    showToast('Формирование PDF отчета... ⏳');
+    showToast('Generating PDF report... ⏳');
 
     const dateStr = state.dailyStats?.date || new Date().toISOString().slice(0, 10);
     const pdfDate = document.getElementById('pdf-date');
-    if (pdfDate) pdfDate.textContent = `Дата: ${dateStr}`;
+    if (pdfDate) pdfDate.textContent = `Date: ${dateStr}`;
 
     const totalScanned = state.dailyStats?.totalScanned || Math.max(state.jobs.length * 6, 28);
     const matched = state.dailyStats?.matchedFilters || state.jobs.length;
@@ -1561,7 +1578,9 @@
 
     const pdfJobsList = document.getElementById('pdf-jobs-list');
     if (pdfJobsList) {
-      pdfJobsList.innerHTML = state.jobs.slice(0, 10).map((job, idx) => `
+      pdfJobsList.innerHTML = state.jobs.slice(0, 10).map((job, idx) => {
+        const targetUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : 'https://www.upwork.com');
+        return `
         <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #ffffff; page-break-inside: avoid; margin-bottom: 8px;">
           <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
             <div style="font-weight: 700; font-size: 13px; color: #001e00;">${idx + 1}. ${escapeHtml(job.title)}</div>
@@ -1570,19 +1589,20 @@
             </span>
           </div>
           <div style="font-size: 11px; color: #5e6d55; margin-bottom: 6px;">
-            <strong>Бюджет:</strong> ${escapeHtml(job.budgetDisplay || (job.isHourly ? `$${job.hourlyBudgetMin}-$${job.hourlyBudgetMax}/hr` : 'Fixed'))} •
-            <strong>Клиент:</strong> ${escapeHtml(job.client?.country || 'Unknown')} (★ ${job.client?.totalFeedback || '5.0'})
+            <strong>Budget:</strong> ${escapeHtml(job.budgetDisplay || (job.isHourly ? `$${job.hourlyBudgetMin}-$${job.hourlyBudgetMax}/hr` : 'Fixed'))} •
+            <strong>Client:</strong> ${escapeHtml(job.client?.country || 'Unknown')} (★ ${job.client?.totalFeedback || '5.0'})
           </div>
           <div style="font-size: 11px; color: #333333; line-height: 1.4; margin-bottom: 6px;">
             ${escapeHtml((job.description || '').slice(0, 220))}...
           </div>
-          <div style="font-size: 10px;">
-            <a href="${job.url}" target="_blank" style="color: #14a800; text-decoration: underline; font-weight: 600;">
-              Открыть вакансию на Upwork ➔
+          <div style="font-size: 11px; margin-top: 4px;">
+            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700;">
+              View Job on Upwork ➔
             </a>
           </div>
         </div>
-      `).join('');
+      `;
+      }).join('');
     }
 
     const element = document.getElementById('pdf-report-container');
@@ -1594,19 +1614,38 @@
       margin: [10, 10, 10, 10],
       filename: `Upwork_Daily_Report_${dateStr}.pdf`,
       image: { type: 'jpeg', quality: 0.98 },
+      enableLinks: true,
       html2canvas: { scale: 2, useCORS: true, logging: false },
       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
     };
 
     if (window.html2pdf) {
-      window.html2pdf().set(opt).from(element).save().then(() => {
-        element.style.display = 'none';
-        showToast('PDF отчет успешно скачан! 📥');
-      }).catch((err) => {
-        console.error('PDF export error:', err);
-        element.style.display = 'none';
-        window.print();
-      });
+      window.html2pdf()
+        .set(opt)
+        .from(element)
+        .toPdf()
+        .get('pdf')
+        .then((pdf) => {
+          if (pdf && pdf.internal && typeof pdf.internal.write === 'function') {
+            const origWrite = pdf.internal.write;
+            pdf.internal.write = function(val) {
+              if (typeof val === 'string' && val.indexOf('/Subtype /Link') !== -1 && val.indexOf('/S /URI') !== -1) {
+                val = val.replace(/\/S \/URI \/URI \(/g, '/Type /Action /S /URI /NewWindow true /URI (');
+              }
+              return origWrite.call(this, val);
+            };
+          }
+        })
+        .save()
+        .then(() => {
+          element.style.display = 'none';
+          showToast('PDF report downloaded successfully! 📥');
+        })
+        .catch((err) => {
+          console.error('PDF export error:', err);
+          element.style.display = 'none';
+          window.print();
+        });
     } else {
       element.style.display = 'none';
       window.print();

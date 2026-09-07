@@ -161,10 +161,10 @@
         <div class="report-header-card">
           <div class="report-header-top">
             <div>
-              <h2 class="report-title">Отчет за день</h2>
-              <p class="report-subtitle">Сводка мониторинга вакансий и откликов Upwork</p>
+              <h2 class="report-title">Daily Report</h2>
+              <p class="report-subtitle">Summary of Upwork jobs monitoring and AI proposals</p>
             </div>
-            <span id="report-date-badge" class="report-date-badge">Сегодня</span>
+            <span id="report-date-badge" class="report-date-badge">Today</span>
           </div>
 
           <button id="btn-download-pdf" class="btn-download-pdf">
@@ -173,7 +173,7 @@
               <polyline points="7 10 12 15 17 10"></polyline>
               <line x1="12" y1="15" x2="12" y2="3"></line>
             </svg>
-            <span>Скачать отчет в PDF</span>
+            <span>Download PDF Report</span>
           </button>
         </div>
 
@@ -181,7 +181,7 @@
         <div class="kpi-grid">
           <div class="kpi-card">
             <div class="kpi-card-header">
-              <span class="kpi-label">Просканировано</span>
+              <span class="kpi-label">Scanned</span>
               <span class="kpi-icon">📡</span>
             </div>
             <span id="kpi-scanned" class="kpi-value">0</span>
@@ -189,7 +189,7 @@
 
           <div class="kpi-card">
             <div class="kpi-card-header">
-              <span class="kpi-label">Подходит под профиль</span>
+              <span class="kpi-label">Matched Profile</span>
               <span class="kpi-icon">🎯</span>
             </div>
             <span id="kpi-matched" class="kpi-value">0</span>
@@ -205,7 +205,7 @@
 
           <div class="kpi-card">
             <div class="kpi-card-header">
-              <span class="kpi-label">Топ Match Score</span>
+              <span class="kpi-label">Top Match Score</span>
               <span class="kpi-icon">⭐️</span>
             </div>
             <span id="kpi-score" class="kpi-value">0</span>
@@ -214,7 +214,7 @@
 
         <!-- Keywords Breakdown -->
         <div class="report-section-title">
-          <span>Поисковые запросы</span>
+          <span>Search Keywords</span>
         </div>
         <div id="keyword-stats-list" class="keyword-stats-list">
           <!-- Dynamically populated -->
@@ -222,8 +222,8 @@
 
         <!-- Today's Matched Opportunities -->
         <div class="report-section-title">
-          <span>Подходящие вакансии за сегодня</span>
-          <span id="report-jobs-count" class="feed-tip">0 вакансий</span>
+          <span>Today's Matched Opportunities</span>
+          <span id="report-jobs-count" class="feed-tip">0 jobs</span>
         </div>
         <div id="report-jobs-list" class="jobs-list">
           <!-- Dynamically populated -->
@@ -467,11 +467,11 @@
 
         <div style="display: flex; gap: 12px; margin-bottom: 20px;">
           <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">ВСЕГО ПРОСКАНИРОВАНО</div>
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">TOTAL SCANNED</div>
             <div id="pdf-scanned" style="font-size: 20px; font-weight: 800; color: #001e00; margin-top: 4px;">0</div>
           </div>
           <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">ПОДХОДИТ ПОД ФИЛЬТРЫ</div>
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">MATCHED PROFILE</div>
             <div id="pdf-matched" style="font-size: 20px; font-weight: 800; color: #14a800; margin-top: 4px;">0</div>
           </div>
           <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
@@ -479,18 +479,18 @@
             <div id="pdf-proposals" style="font-size: 20px; font-weight: 800; color: #6366f1; margin-top: 4px;">0</div>
           </div>
           <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">ТОП MATCH SCORE</div>
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">TOP MATCH SCORE</div>
             <div id="pdf-score" style="font-size: 20px; font-weight: 800; color: #e28a00; margin-top: 4px;">0</div>
           </div>
         </div>
 
         <div style="margin-bottom: 20px;">
-          <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">РАЗБИВКА ПО ЗАПРОСАМ:</h3>
+          <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">SEARCH KEYWORDS:</h3>
           <div id="pdf-keywords" style="display: flex; gap: 8px; flex-wrap: wrap;"></div>
         </div>
 
         <div>
-          <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">ОТОБРАННЫЕ ВАКАНСИИ ЗА ДЕНЬ:</h3>
+          <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">SELECTED JOBS FOR THE DAY:</h3>
           <div id="pdf-jobs-list" style="display: flex; flex-direction: column; gap: 12px;"></div>
         </div>
       </div>
@@ -501,6 +501,6 @@
 
   </div>
 
-  <script src="app.js?v=20260907_4"></script>
+  <script src="app.js?v=20260907_5"></script>
 </body>
 </html>
