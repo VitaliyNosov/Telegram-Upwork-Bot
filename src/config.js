@@ -9,7 +9,21 @@ module.exports = {
   TELEGRAM_CHAT_ID: process.env.TELEGRAM_CHAT_ID,
 
   GEMINI_API_KEY: process.env.GEMINI_API_KEY,
-  GEMINI_MODEL: process.env.GEMINI_MODEL || "gemini-3.5-flash",
+  GEMINI_API_KEY_BACKUP: process.env.GEMINI_API_KEY_BACKUP,
+
+  // Модель по умолчанию (если задана вручную в ENV)
+  GEMINI_MODEL: process.env.GEMINI_MODEL,
+
+  // Приоритетный стек моделей Gemini на одном аккаунте (переключение при 429 Rate Limit)
+  GEMINI_MODELS: [
+    process.env.GEMINI_MODEL,
+    "gemini-3.5-flash",
+    "gemini-3.6-flash",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-8b",
+  ].filter(Boolean),
 
   // ===== КЛЮЧЕВЫЕ СЛОВА ПОИСКА =====
   KEYWORDS: [

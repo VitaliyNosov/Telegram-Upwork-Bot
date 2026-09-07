@@ -47,7 +47,7 @@ function extractLetterText(data) {
 /**
  * Выполняет один HTTP-запрос к указанной модели Gemini API
  */
-async function callGeminiModel(model, apiKey, requestBody) {
+async function callGeminiModel(model, apiKey, requestBody, timeoutMs = 12000) {
   const endpoint = `${GEMINI_API_BASE_URL}/${model}:generateContent?key=${apiKey}`;
 
   const response = await fetch(endpoint, {
@@ -56,7 +56,7 @@ async function callGeminiModel(model, apiKey, requestBody) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify(requestBody),
-    signal: AbortSignal.timeout(15000), // таймаут 15 сек на случай зависания сети
+    signal: AbortSignal.timeout(timeoutMs),
   });
 
   // Вычитываем тело ответа один раз, чтобы исключить ошибку "body used already"
@@ -72,15 +72,24 @@ async function callGeminiModel(model, apiKey, requestBody) {
 }
 
 /**
- * Генерирует сопроводительное письмо (Cover Letter) через Gemini API
+ * Генерирует сопроводительное письмо (Cover Letter) через Gemini API.
+ * Реализует мгновенную ротацию моделей (Cascade) при исчерпании квот (HTTP 429)
+ * и каскадное переключение на резервный ключ (если задан).
+ * 
  * @param {Object} job - объект вакансии Upwork
- * @returns {Promise<string|null>} - текст письма или null при ошибке/отсутствии ключа
+ * @returns {Promise<string|null>} - текст письма или null при ошибке/исчерпании всех квот
  */
 async function generateCoverLetter(job) {
-  const apiKey = config.GEMINI_API_KEY || process.env.GEMINI_API_KEY;
-  if (!apiKey) {
+  const primaryKey = config.GEMINI_API_KEY || process.env.GEMINI_API_KEY;
+  if (!primaryKey) {
     console.warn("[Gemini] GEMINI_API_KEY не задан. Пропускаем генерацию Cover Letter.");
     return null;
+  }
+
+  const backupKey = config.GEMINI_API_KEY_BACKUP || process.env.GEMINI_API_KEY_BACKUP;
+  const keySlots = [{ key: primaryKey, label: "основной ключ" }];
+  if (backupKey && backupKey !== primaryKey) {
+    keySlots.push({ key: backupKey, label: "резервный ключ" });
   }
 
   const profilePath = path.resolve(config.PATHS.PROFILE_FILE || "data/resume_profile.txt");
@@ -139,51 +148,75 @@ ${jobDescription}
     ],
   };
 
-  const primaryModel = config.GEMINI_MODEL || "gemini-3.5-flash";
-  const models = [primaryModel];
-  if (!models.includes("gemini-1.5-flash")) {
-    models.push("gemini-1.5-flash"); // Надежная резервная модель при перегрузке основной
-  }
+  const defaultModels = [
+    "gemini-3.5-flash",
+    "gemini-3.6-flash",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-8b",
+  ];
 
-  for (const model of models) {
-    const MAX_ATTEMPTS = 2; // 2 попытки на модель
-    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+  const candidateModels = Array.isArray(config.GEMINI_MODELS) && config.GEMINI_MODELS.length > 0
+    ? config.GEMINI_MODELS
+    : defaultModels;
+
+  // Исключаем дубликаты, сохраняя строгий порядок приоритета
+  const models = Array.from(new Set(candidateModels.filter(Boolean)));
+
+  for (let k = 0; k < keySlots.length; k++) {
+    const { key, label } = keySlots[k];
+
+    for (let m = 0; m < models.length; m++) {
+      const model = models[m];
+
       try {
-        const { ok, status, data, rawText } = await callGeminiModel(model, apiKey, requestBody);
+        const { ok, status, data, rawText } = await callGeminiModel(model, key, requestBody, 12000);
 
         if (ok && data) {
           const letter = extractLetterText(data);
           if (letter) {
-            if (model !== primaryModel) {
-              console.log(`[Gemini] Успешно сгенерировано через резервную модель: ${model}`);
-            }
+            console.log(`[Gemini] Cover Letter успешно сгенерирован через [${model}] (${label})`);
             return letter;
           }
           console.warn(
-            `[Gemini] [${model}] Модель вернула пустой текст (finishReason: ${data.candidates?.[0]?.finishReason || "unknown"})`
+            `[Gemini] [${model}] (${label}) вернула пустой текст (finishReason: ${data.candidates?.[0]?.finishReason || "unknown"}). Переходим к следующей модели...`
           );
-        } else {
-          console.warn(
-            `[Gemini] [${model}] Попытка ${attempt}/${MAX_ATTEMPTS} вернула статус ${status}: ${(rawText || "").slice(0, 250)}`
-          );
+          continue;
         }
 
-        // Если ошибка 429 (rate limit) или 5xx (сервер перегружен) — пауза перед повтором
-        if (attempt < MAX_ATTEMPTS) {
-          const delayMs = attempt * 3000;
-          await new Promise((resolve) => setTimeout(resolve, delayMs));
+        // Обработка 429 Too Many Requests / Resource Exhausted (квота исчерпана)
+        if (status === 429) {
+          const errMsg = data?.error?.message || "";
+          console.warn(
+            `[Gemini] [${model}] (${label}) исчерпала лимит (HTTP 429: ${errMsg.slice(0, 120) || "Rate limit reached"}). Мгновенный переход к следующей модели...`
+          );
+          continue;
         }
+
+        // Обработка 404 (модель недоступна) или 400
+        if (status === 404 || status === 400) {
+          console.warn(`[Gemini] [${model}] (${label}) недоступна (HTTP ${status}). Пропускаем модель...`);
+          continue;
+        }
+
+        // Временные сбои серверов Google (500, 503)
+        console.warn(
+          `[Gemini] [${model}] (${label}) вернула ошибку сервера (${status}): ${(rawText || "").slice(0, 150)}. Пробуем следующую модель...`
+        );
       } catch (err) {
-        console.warn(`[Gemini] [${model}] Попытка ${attempt}/${MAX_ATTEMPTS} сетевая ошибка: ${err.message}`);
-        if (attempt < MAX_ATTEMPTS) {
-          await new Promise((resolve) => setTimeout(resolve, attempt * 3000));
-        }
+        console.warn(`[Gemini] [${model}] (${label}) ошибка сети/таймаут: ${err.message}. Пробуем следующую модель...`);
       }
+    }
+
+    if (k < keySlots.length - 1) {
+      console.warn(`[Gemini] Все модели на ${label} исчерпали квоты. Переключаемся на резервный ключ...`);
     }
   }
 
-  console.error(`[Gemini] Не удалось сгенерировать Cover Letter для "${job.title}" после всех попыток.`);
+  console.error(`[Gemini] Не удалось сгенерировать Cover Letter для "${job.title}" ни через одну доступную модель.`);
   return null;
 }
 
-module.exports = { generateCoverLetter };
+module.exports = { generateCoverLetter, callGeminiModel, extractLetterText };
+
