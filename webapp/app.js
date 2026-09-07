@@ -1578,8 +1578,10 @@
 
     const pdfJobsList = document.getElementById('pdf-jobs-list');
     if (pdfJobsList) {
-      const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
-      const jobsToInclude = activeJobs.length > 0 ? activeJobs.slice(0, 10) : state.jobs.slice(0, 10);
+      const activeJobs = state.jobs && state.jobs.length > 0
+        ? state.jobs.filter((j) => !state.deletedIds.has(j.id))
+        : (FALLBACK_SEED_JOBS || []);
+      const jobsToInclude = activeJobs.length > 0 ? activeJobs.slice(0, 10) : (FALLBACK_SEED_JOBS || []).slice(0, 10);
 
       pdfJobsList.innerHTML = jobsToInclude.map((job, idx) => {
         const targetUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : 'https://www.upwork.com');
@@ -1611,6 +1613,8 @@
     const element = document.getElementById('pdf-report-container');
     if (!element) return;
 
+    element.style.display = 'block';
+
     const opt = {
       margin: [10, 10, 10, 10],
       filename: `Upwork_Daily_Report_${dateStr}.pdf`,
@@ -1621,34 +1625,37 @@
     };
 
     if (window.html2pdf) {
-      window.html2pdf()
-        .set(opt)
-        .from(element)
-        .toPdf()
-        .get('pdf')
-        .then((pdf) => {
-          if (pdf && pdf.internal && typeof pdf.internal.write === 'function') {
-            const origWrite = pdf.internal.write;
-            pdf.internal.write = function(val) {
-              if (typeof val === 'string' && val.indexOf('/Subtype /Link') !== -1 && val.indexOf('/S /URI') !== -1) {
-                val = val.replace(
-                  /\/A <<\/S \/URI \/URI \((.*?)\) >>/g,
-                  '/A <</Type /Action /S /URI /NewWindow true /URI ($1) >> /AA <</U <</S /JavaScript /JS (app.launchURL("$1", true);) >>>>'
-                );
-              }
-              return origWrite.call(this, val);
-            };
-          }
-        })
-        .save()
-        .then(() => {
-          showToast('PDF report downloaded successfully! 📥');
-        })
-        .catch((err) => {
-          console.error('PDF export error:', err);
-          window.print();
-        });
+      if (window.html2pdf.Worker && !window.html2pdf.Worker.prototype._newWindowPatched) {
+        window.html2pdf.Worker.prototype._newWindowPatched = true;
+        const origToPdf = window.html2pdf.Worker.prototype.toPdf;
+        window.html2pdf.Worker.prototype.toPdf = function() {
+          return origToPdf.apply(this, arguments).then(function() {
+            if (this.prop.pdf && this.prop.pdf.internal && typeof this.prop.pdf.internal.write === 'function') {
+              const origWrite = this.prop.pdf.internal.write;
+              this.prop.pdf.internal.write = function(val) {
+                if (typeof val === 'string' && val.indexOf('/Subtype /Link') !== -1 && val.indexOf('/S /URI') !== -1) {
+                  val = val.replace(
+                    /\/A <<\/S \/URI \/URI \((.*?)\) >>/g,
+                    '/A <</Type /Action /S /URI /NewWindow true /URI ($1) >> /AA <</U <</S /JavaScript /JS (app.launchURL("$1", true);) >>>>'
+                  );
+                }
+                return origWrite.call(this, val);
+              };
+            }
+          }.bind(this));
+        };
+      }
+
+      window.html2pdf().set(opt).from(element).save().then(() => {
+        element.style.display = 'none';
+        showToast('PDF report downloaded successfully! 📥');
+      }).catch((err) => {
+        console.error('PDF export error:', err);
+        element.style.display = 'none';
+        window.print();
+      });
     } else {
+      element.style.display = 'none';
       window.print();
     }
   }
