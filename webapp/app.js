@@ -460,7 +460,7 @@
           <button class="btn-save-card ${isSaved ? 'saved' : ''}" data-action="save" aria-label="Save Job">
             ${heartSvg}
           </button>
-          <button class="btn-dismiss-card" data-action="dismiss" title="Скрыть/удалить вакансию" aria-label="Удалить вакансию">
+          <button class="btn-dismiss-card" data-action="dismiss" title="Dismiss job" aria-label="Dismiss job">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
               <line x1="18" y1="6" x2="6" y2="18"></line>
               <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -616,7 +616,7 @@
                   <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
                 </svg>
               </button>
-              <button class="btn-dismiss-card" data-dismiss="${job.id}" title="Скрыть вакансию" aria-label="Удалить вакансию">
+              <button class="btn-dismiss-card" data-dismiss="${job.id}" title="Dismiss job" aria-label="Dismiss job">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                   <line x1="18" y1="6" x2="6" y2="18"></line>
                   <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -1201,7 +1201,7 @@
   // Calendar & Feed Cleanup Logic
   // ==========================================
   function formatCalendarDateLabel(dateStr) {
-    if (!dateStr || dateStr === 'all') return 'Все дни';
+    if (!dateStr || dateStr === 'all') return 'All Dates';
 
     try {
       const today = new Date();
@@ -1210,13 +1210,13 @@
       const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
       const yesterdayStr = yesterday.toISOString().slice(0, 10);
 
-      if (dateStr === todayStr) return 'Сегодня';
-      if (dateStr === yesterdayStr) return 'Вчера';
+      if (dateStr === todayStr) return 'Today';
+      if (dateStr === yesterdayStr) return 'Yesterday';
 
       const parts = dateStr.split('-');
       if (parts.length === 3) {
         const d = new Date(parts[0], parts[1] - 1, parts[2]);
-        return d.toLocaleDateString('ru-RU', { day: 'numeric', month: 'short' });
+        return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
       }
       return dateStr;
     } catch {
@@ -1241,7 +1241,7 @@
         el.chipCalendarText.textContent = formatCalendarDateLabel(state.selectedDate);
       } else {
         el.chipCalendarBtn.classList.remove('active');
-        el.chipCalendarText.textContent = 'Все дни';
+        el.chipCalendarText.textContent = 'All Dates';
       }
     }
   }
@@ -1278,12 +1278,12 @@
 
     el.calendarDaysGrid.innerHTML = '';
 
-    // "Все дни" pill
+    // "All Dates" pill
     const allPill = document.createElement('button');
     allPill.type = 'button';
     allPill.className = `day-pill ${state.selectedDate === 'all' ? 'active' : ''}`;
     allPill.innerHTML = `
-      <span>Все дни</span>
+      <span>All Dates</span>
       <span class="day-badge">${activeJobs.length}</span>
     `;
     allPill.addEventListener('click', () => {
@@ -1341,7 +1341,7 @@
         const selectedCount = dateCounts[state.selectedDate] || 0;
         if (el.badgeCountDate) el.badgeCountDate.textContent = selectedCount;
         if (el.labelCleanSelectedDate) {
-          el.labelCleanSelectedDate.textContent = `Очистить вакансии за ${formatCalendarDateLabel(state.selectedDate)}`;
+          el.labelCleanSelectedDate.textContent = `Purge jobs for ${formatCalendarDateLabel(state.selectedDate)}`;
         }
       } else {
         el.btnCleanSelectedDate.classList.add('hidden');
@@ -1381,7 +1381,7 @@
       updateBadges();
       updateCalendarIndicators();
     }
-    showToast('Вакансия скрыта');
+    showToast('Job dismissed');
   }
 
   function cleanViewedJobs() {
@@ -1390,7 +1390,7 @@
     const toDelete = activeJobs.filter((j) => state.viewedIds.has(j.id));
 
     if (toDelete.length === 0) {
-      showToast('Нет просмотренных вакансий для удаления');
+      showToast('No viewed jobs to remove');
       return;
     }
 
@@ -1402,7 +1402,7 @@
     renderSavedFeed();
     renderDailyReport();
     updateBadges();
-    showToast(`Удалено просмотренных: ${toDelete.length} 🗑️`);
+    showToast(`Removed viewed jobs: ${toDelete.length} 🗑️`);
   }
 
   function cleanOlderJobs(days = 3) {
@@ -1415,7 +1415,7 @@
     });
 
     if (toDelete.length === 0) {
-      showToast(`Нет вакансий старше ${days} дней`);
+      showToast(`No jobs older than ${days} days`);
       return;
     }
 
@@ -1427,7 +1427,7 @@
     renderSavedFeed();
     renderDailyReport();
     updateBadges();
-    showToast(`Удалено устаревших: ${toDelete.length} 🗑️`);
+    showToast(`Removed older jobs: ${toDelete.length} 🗑️`);
   }
 
   function cleanSelectedDateJobs() {
@@ -1441,7 +1441,7 @@
     });
 
     if (toDelete.length === 0) {
-      showToast('Нет вакансий за выбранный день');
+      showToast('No jobs for selected day');
       return;
     }
 
@@ -1456,7 +1456,7 @@
     renderSavedFeed();
     renderDailyReport();
     updateBadges();
-    showToast(`Очищены вакансии за ${dateName}: ${toDelete.length} 🗑️`);
+    showToast(`Cleared jobs for ${dateName}: ${toDelete.length} 🗑️`);
   }
 
   function restoreDeletedJobs() {
@@ -1472,7 +1472,7 @@
     renderSavedFeed();
     renderDailyReport();
     updateBadges();
-    showToast(`Восстановлено вакансий: ${count} ♻️`);
+    showToast(`Restored jobs: ${count} ♻️`);
   }
 
   // ==========================================

@@ -21,7 +21,7 @@
   <!-- html2pdf for client-side styled PDF download -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 
-  <link rel="stylesheet" href="styles.css?v=20260907_2" />
+  <link rel="stylesheet" href="styles.css?v=20260907_3" />
 </head>
 <body>
   <div id="app" class="app-container">
@@ -35,7 +35,7 @@
           <span class="brand-badge">Feed</span>
         </div>
         <div class="header-actions">
-          <button id="btn-theme-toggle" class="icon-button" title="Переключить тему" aria-label="Переключить тему">
+          <button id="btn-theme-toggle" class="icon-button" title="Toggle theme" aria-label="Toggle theme">
             <svg id="icon-theme-dark" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
             </svg>
@@ -51,7 +51,7 @@
               <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
             </svg>
           </button>
-          <button id="btn-open-calendar" class="icon-button" title="Календарь и очистка" aria-label="Календарь">
+          <button id="btn-open-calendar" class="icon-button" title="Calendar & Cleanup" aria-label="Calendar & Cleanup">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
               <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
               <line x1="16" y1="2" x2="16" y2="6"></line>
@@ -81,9 +81,9 @@
       <!-- Quick Filter Chips -->
       <div class="filter-chips-wrapper">
         <div class="filter-chips" id="filter-chips">
-          <button class="chip chip-calendar" id="chip-calendar-btn" title="Выбрать дату">
+          <button class="chip chip-calendar" id="chip-calendar-btn" title="Select date">
             <span class="chip-cal-icon">📅</span>
-            <span id="chip-calendar-text">Все дни</span>
+            <span id="chip-calendar-text">All Dates</span>
           </button>
           <button class="chip active" data-filter="all">All Jobs</button>
           <button class="chip" data-filter="hourly">Hourly Only</button>
@@ -364,35 +364,35 @@
       <div class="sheet-container calendar-sheet">
         <div class="sheet-header">
           <div class="sheet-header-title">
-            <h3>📅 Календарь и очистка</h3>
-            <span class="sheet-subtitle">Фильтр по датам и удаление неактуального</span>
+            <h3>📅 Calendar & Cleanup</h3>
+            <span class="sheet-subtitle">Filter by date and purge obsolete jobs</span>
           </div>
           <button id="btn-close-calendar" class="sheet-close-btn" aria-label="Close">✕</button>
         </div>
 
         <div class="sheet-content calendar-sheet-content">
-          <!-- Секция: Фильтр по дням -->
+          <!-- Section: Filter by Day -->
           <div class="calendar-section">
             <div class="section-header-row">
-              <h4 class="calendar-section-title">Фильтр по дням</h4>
-              <button id="btn-reset-date-filter" class="btn-text-action hidden">Сбросить дату</button>
+              <h4 class="calendar-section-title">Filter by Day</h4>
+              <button id="btn-reset-date-filter" class="btn-text-action hidden">Reset Date</button>
             </div>
             <div id="calendar-days-grid" class="calendar-days-grid">
               <!-- Rendered dynamically in app.js -->
             </div>
           </div>
 
-          <!-- Секция: Быстрая очистка / Удаление -->
+          <!-- Section: Quick Feed Cleanup -->
           <div class="calendar-section cleanup-section">
-            <h4 class="calendar-section-title">Быстрая очистка ленты</h4>
-            <p class="section-subtext">Удаляет неактуальные вакансии из вашего списка</p>
+            <h4 class="calendar-section-title">Quick Feed Cleanup</h4>
+            <p class="section-subtext">Remove irrelevant jobs from your feed</p>
 
             <div class="cleanup-actions-list">
               <button id="btn-clean-viewed" class="cleanup-action-card">
                 <div class="cleanup-card-icon">👁️</div>
                 <div class="cleanup-card-body">
-                  <span class="cleanup-card-title">Удалить все просмотренные</span>
-                  <span class="cleanup-card-desc">Оставить только свежие непрочитанные</span>
+                  <span class="cleanup-card-title">Remove all viewed</span>
+                  <span class="cleanup-card-desc">Keep only unread opportunities</span>
                 </div>
                 <span id="badge-count-viewed" class="cleanup-card-badge">0</span>
               </button>
@@ -400,8 +400,8 @@
               <button id="btn-clean-older-3d" class="cleanup-action-card">
                 <div class="cleanup-card-icon">⏳</div>
                 <div class="cleanup-card-body">
-                  <span class="cleanup-card-title">Удалить старше 3 дней</span>
-                  <span class="cleanup-card-desc">Очистить устаревшие проекты</span>
+                  <span class="cleanup-card-title">Remove older than 3 days</span>
+                  <span class="cleanup-card-desc">Clear obsolete projects</span>
                 </div>
                 <span id="badge-count-older" class="cleanup-card-badge">0</span>
               </button>
@@ -409,26 +409,26 @@
               <button id="btn-clean-selected-date" class="cleanup-action-card hidden">
                 <div class="cleanup-card-icon">🗑️</div>
                 <div class="cleanup-card-body">
-                  <span class="cleanup-card-title">Удалить за выбранный день</span>
-                  <span id="label-clean-selected-date" class="cleanup-card-desc">Очистить вакансии за дату</span>
+                  <span class="cleanup-card-title">Remove for selected day</span>
+                  <span id="label-clean-selected-date" class="cleanup-card-desc">Purge jobs for selected date</span>
                 </div>
                 <span id="badge-count-date" class="cleanup-card-badge">0</span>
               </button>
             </div>
 
-            <!-- Блок восстановления -->
+            <!-- Restore Block -->
             <div id="restore-cleanup-box" class="restore-cleanup-box hidden">
               <div class="restore-text-box">
-                <span>Удалено вакансий: <strong id="count-deleted-jobs">0</strong></span>
+                <span>Removed jobs: <strong id="count-deleted-jobs">0</strong></span>
               </div>
-              <button id="btn-restore-deleted" class="btn btn-outline btn-sm">Восстановить все</button>
+              <button id="btn-restore-deleted" class="btn btn-outline btn-sm">Restore all</button>
             </div>
           </div>
         </div>
 
         <div class="sheet-footer">
           <button id="btn-close-calendar-footer" class="btn btn-primary btn-block">
-            <span>Готово</span>
+            <span>Done</span>
           </button>
         </div>
       </div>
@@ -487,6 +487,6 @@
 
   </div>
 
-  <script src="app.js?v=20260907_2"></script>
+  <script src="app.js?v=20260907_3"></script>
 </body>
 </html>

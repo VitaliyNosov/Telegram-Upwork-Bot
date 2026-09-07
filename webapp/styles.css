@@ -24,6 +24,7 @@ body {
   --text-primary: #001e00;
   --text-secondary: #5e6d55;
   --text-muted: #6f7d66;
+  --text-main: var(--text-primary);
   --text-pill: #5e6d55;
   --text-pill-active: #14a800;
 
@@ -63,7 +64,8 @@ body.theme-dark {
 
   --text-primary: #f5f5f5;
   --text-secondary: #99a8b7;
-  --text-muted: #748393;
+  --text-muted: #8292a2;
+  --text-main: var(--text-primary);
   --text-pill: #a3b2c2;
   --text-pill-active: #22c55e;
 
@@ -147,6 +149,12 @@ html, body {
   margin-bottom: 10px;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
 .brand-logo {
   display: flex;
   align-items: center;
@@ -180,6 +188,7 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
   transition: color 0.15s ease, background-color 0.15s ease;
 }
 
@@ -1355,6 +1364,21 @@ input[type="range"] {
   gap: 20px;
 }
 
+.sheet-header-title h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.sheet-subtitle {
+  font-size: 12px;
+  color: var(--text-secondary);
+  font-weight: 400;
+  display: block;
+  margin-top: 2px;
+}
+
 .calendar-section {
   display: flex;
   flex-direction: column;
@@ -1370,7 +1394,7 @@ input[type="range"] {
 .calendar-section-title {
   font-size: 14.5px;
   font-weight: 700;
-  color: var(--text-main);
+  color: var(--text-primary);
   margin: 0;
 }
 
@@ -1391,7 +1415,7 @@ input[type="range"] {
 
 .section-subtext {
   font-size: 12px;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   margin: 0 0 4px 0;
 }
 
@@ -1408,7 +1432,7 @@ input[type="range"] {
   padding: 7px 12px;
   font-size: 13px;
   font-weight: 500;
-  color: var(--text-main);
+  color: var(--text-primary);
   cursor: pointer;
   display: inline-flex;
   align-items: center;
@@ -1431,9 +1455,15 @@ input[type="range"] {
 .day-pill .day-badge {
   font-size: 11px;
   background: rgba(0, 0, 0, 0.08);
+  color: var(--text-primary);
   padding: 1px 6px;
   border-radius: 10px;
   font-weight: 600;
+}
+
+body.theme-dark .day-pill .day-badge {
+  background: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
 }
 
 .day-pill.active .day-badge {
@@ -1459,6 +1489,7 @@ input[type="range"] {
   gap: 12px;
   text-align: left;
   cursor: pointer;
+  color: var(--text-primary);
   transition: border-color 0.15s ease, background-color 0.15s ease, transform 0.1s ease;
   -webkit-tap-highlight-color: transparent;
 }
@@ -1482,6 +1513,7 @@ input[type="range"] {
   height: 38px;
   background: var(--bg-pill);
   border-radius: 10px;
+  color: var(--text-primary);
 }
 
 .cleanup-card-body {
@@ -1495,20 +1527,20 @@ input[type="range"] {
 .cleanup-card-title {
   font-size: 13.5px;
   font-weight: 600;
-  color: var(--text-main);
+  color: var(--text-primary);
 }
 
 .cleanup-card-desc {
   font-size: 11.5px;
-  color: var(--text-muted);
+  color: var(--text-secondary);
 }
 
 .cleanup-card-badge {
   font-size: 11.5px;
   font-weight: 700;
-  color: var(--text-muted);
+  color: var(--text-primary);
   background: var(--bg-pill);
-  border: 1px solid var(--border-color-subtle);
+  border: 1px solid var(--border-color);
   padding: 3px 8px;
   border-radius: 12px;
   flex-shrink: 0;
@@ -1528,7 +1560,11 @@ input[type="range"] {
 
 .restore-text-box {
   font-size: 12.5px;
-  color: var(--text-main);
+  color: var(--text-primary);
+}
+
+.restore-text-box strong {
+  color: var(--color-primary);
 }
 
 .btn-sm {
