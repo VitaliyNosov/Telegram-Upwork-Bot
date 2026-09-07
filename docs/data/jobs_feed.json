@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097037627389042926",
+    "ciphertext": "~022097037627389042926",
+    "title": "Ecommerce Web Developer Needed",
+    "description": "I’m looking for an experienced Ecommerce Web Developer to build/customize a professional online store.\nRequirements:\n\nStrong experience with Shopify, WooCommerce, or custom ecommerce solutions (Laravel, Next.js, etc.)\nAbility to design clean, modern, and mobile-responsive storefronts\nProduct upload, category management, payment gateway integration (Stripe, PayPal, local gateways)\nSpeed optimization, SEO-friendly structure, and security best practices\nExperience with custom features (filters, wishlist, multi-currency, inventory management, etc.)\nGood communication and ability to deliver on time\n\nWhat I need:\n\nBuild a complete ecommerce website from scratch or\nCustomize/improve an existing store\nMake it fully functional, fast, and conversion-focused",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "e-commerce-website",
+      "ecommerce-consulting"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! Whether you want to build a brand-new store from scratch or optimize your existing setup, I can help you launch a fast, high-converting e-commerce site.\n\nI specialize in both WooCommerce and Shopify, focusing on mobile-responsive designs, seamless checkout integrations (Stripe/PayPal), and custom filtering systems. I also ensure the site is fully optimized for speed and security right out of the gate. You can see an example of my clean, high-performance web development work here: https://www.thelifeyoucansave.org/\n\nAre you looking to build this on Shopify or WooCommerce, or are you still deciding which platform fits your catalog best? Let's chat and figure out the best approach.",
+    "publishedDateTime": "2026-09-07T19:03:00+0000",
+    "addedAt": "2026-09-07T19:04:44.225Z",
+    "url": "https://www.upwork.com/jobs/~022097037627389042926",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097037627389042926/apply/"
+  },
+  {
     "id": "2097036780896660826",
     "ciphertext": "~022097036780896660826",
     "title": "Experienced WordPress Developer Needed for a Professional 5-Page Website",
