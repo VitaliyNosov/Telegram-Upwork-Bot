@@ -668,31 +668,62 @@
   // ==========================================
   // Translation Engine & On-The-Fly Logic
   // ==========================================
-  async function translateText(text, targetLang = 'ru') {
-    if (!text || !text.trim()) return '';
+  async function translateSingleChunk(chunk, targetLang = 'ru') {
+    const cleanChunk = chunk.trim();
+    if (!cleanChunk) return '';
 
-    async function translateSingleChunk(chunk) {
-      const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${encodeURIComponent(targetLang)}&dt=t&q=${encodeURIComponent(chunk)}`;
-      const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 12000);
+    // Multiple Google Translate client endpoints to bypass 429 rate limiting
+    const googleClients = ['dict-chrome-ex', 'it', 'at', 'gtx'];
 
+    for (const client of googleClients) {
       try {
+        const url = `https://translate.googleapis.com/translate_a/single?client=${client}&sl=auto&tl=${encodeURIComponent(targetLang)}&dt=t&q=${encodeURIComponent(cleanChunk)}`;
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 7000);
+
         const res = await fetch(url, { signal: controller.signal });
         clearTimeout(timeoutId);
-        if (!res.ok) throw new Error(`Translate HTTP error: ${res.status}`);
+
+        if (!res.ok) continue;
         const data = await res.json();
         if (Array.isArray(data) && Array.isArray(data[0])) {
-          return data[0].map((item) => (item && item[0] ? item[0] : '')).join('');
+          const translated = data[0].map((item) => (item && item[0] ? item[0] : '')).join('');
+          if (translated && translated.trim()) {
+            return translated;
+          }
         }
-        throw new Error('Unexpected translation response structure');
       } catch (err) {
-        clearTimeout(timeoutId);
-        throw err;
+        // Continue to next client
       }
     }
 
-    if (text.length <= 1200) {
-      return await translateSingleChunk(text);
+    // Secondary backup: MyMemory Translation API
+    try {
+      const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(cleanChunk)}&langpair=auto|${encodeURIComponent(targetLang)}`;
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 7000);
+
+      const res = await fetch(url, { signal: controller.signal });
+      clearTimeout(timeoutId);
+
+      if (res.ok) {
+        const data = await res.json();
+        if (data?.responseData?.translatedText) {
+          return data.responseData.translatedText;
+        }
+      }
+    } catch (err) {
+      // Ignore
+    }
+
+    throw new Error('All translation providers failed');
+  }
+
+  async function translateText(text, targetLang = 'ru') {
+    if (!text || !text.trim()) return '';
+
+    if (text.length <= 900) {
+      return await translateSingleChunk(text, targetLang);
     }
 
     const paragraphs = text.split(/\n\n+/);
@@ -700,7 +731,7 @@
     let currentChunk = '';
 
     for (const para of paragraphs) {
-      if ((currentChunk + '\n\n' + para).length > 1200 && currentChunk.length > 0) {
+      if ((currentChunk + '\n\n' + para).length > 900 && currentChunk.length > 0) {
         chunks.push(currentChunk);
         currentChunk = para;
       } else {
@@ -709,7 +740,12 @@
     }
     if (currentChunk) chunks.push(currentChunk);
 
-    const translatedChunks = await Promise.all(chunks.map((c) => translateSingleChunk(c)));
+    // Sequential chunk processing to prevent 429 burst rate limiting
+    const translatedChunks = [];
+    for (const chunk of chunks) {
+      const translated = await translateSingleChunk(chunk, targetLang);
+      translatedChunks.push(translated);
+    }
     return translatedChunks.join('\n\n');
   }
 
@@ -744,11 +780,11 @@
   function updateModalActionButtons(isTranslated) {
     if (el.btnModalView) {
       const span = el.btnModalView.querySelector('span');
-      if (span) span.textContent = isTranslated ? 'Перейти к вакансии' : 'View Job';
+      if (span) span.textContent = isTranslated ? 'К вакансии' : 'View Job';
     }
     if (el.btnModalApply) {
       const span = el.btnModalApply.querySelector('span');
-      if (span) span.textContent = isTranslated ? 'Откликнуться на Upwork' : 'Apply on Upwork';
+      if (span) span.textContent = isTranslated ? 'Откликнуться' : 'Apply on Upwork';
     }
   }
 
@@ -781,10 +817,16 @@
         btnDesc.classList.add('loading');
         btnDesc.innerHTML = `<span class="translate-icon">⏳</span><span class="translate-text">Переводим...</span>`;
         try {
-          const [transDesc, transTitle] = await Promise.all([
-            translateText(job.description),
-            job.title ? translateText(job.title) : Promise.resolve(job.title),
-          ]);
+          const transDesc = await translateText(job.description);
+          let transTitle = job.title;
+          try {
+            if (job.title) {
+              transTitle = await translateText(job.title);
+            }
+          } catch (e) {
+            console.warn('Title translation failed, keeping original', e);
+          }
+
           job._cacheRu = job._cacheRu || {};
           job._cacheRu.description = transDesc;
           job._cacheRu.title = transTitle;
@@ -803,7 +845,7 @@
           console.error('Translation error:', err);
           btnDesc.classList.remove('active');
           btnDesc.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
-          showToast('Не удалось перевести. Проверьте интернет');
+          showToast('Не удалось перевести. Попробуйте еще раз');
         } finally {
           btnDesc.classList.remove('loading');
         }
@@ -851,7 +893,7 @@
           console.error('Translation error:', err);
           btnProp.classList.remove('active');
           btnProp.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
-          showToast('Не удалось перевести. Проверьте интернет');
+          showToast('Не удалось перевести. Попробуйте еще раз');
         } finally {
           btnProp.classList.remove('loading');
         }
@@ -867,12 +909,12 @@
       if (job._showRuDesc) toggleTranslateDescription(job);
       if (job._showRuProposal) toggleTranslateProposal(job);
     } else {
-      const promises = [];
-      if (!job._showRuDesc) promises.push(toggleTranslateDescription(job));
-      if (job.coverLetter && !job._showRuProposal) promises.push(toggleTranslateProposal(job));
-      await Promise.all(promises);
+      // Sequential translation to avoid rate-limiting spikes
+      if (!job._showRuDesc) await toggleTranslateDescription(job);
+      if (job.coverLetter && !job._showRuProposal) await toggleTranslateProposal(job);
     }
   }
+
 
   // Open Details Modal
   function openJobModal(job) {
