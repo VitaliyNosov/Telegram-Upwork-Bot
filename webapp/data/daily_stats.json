@@ -1,82 +1,8 @@
 {
-  "date": "2026-09-07",
-  "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 81,
-  "matchedFilters": 24,
-  "byKeyword": {
-    "wordpress developer": 20,
-    "woocommerce": 4
-  },
-  "topJobs": [
-    {
-      "title": "Web Developer for Higher Education Website",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022096896587987366635",
-      "addedAt": "2026-09-07T12:44:52.353Z"
-    },
-    {
-      "title": "WordPress Website Update",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022097026164120966486",
-      "addedAt": "2026-09-07T18:18:36.760Z"
-    },
-    {
-      "title": "WordPress Elementor Website Fixes",
-      "budget": "$18-$30/hr",
-      "score": 3099,
-      "url": "https://www.upwork.com/jobs/~022096743317103697023",
-      "addedAt": "2026-09-06T23:34:36.434Z"
-    },
-    {
-      "title": "Updated Post: WordPress Developer Needed — Custom \"Design Your Own\" Invitation Feature",
-      "budget": "$7-$25/hr",
-      "score": 2693,
-      "url": "https://www.upwork.com/jobs/~022096673264621199157",
-      "addedAt": "2026-09-06T21:56:37.082Z"
-    },
-    {
-      "title": "Web Developer & Designer – Ongoing Support",
-      "budget": "$10-$25/hr",
-      "score": 2600,
-      "url": "https://www.upwork.com/jobs/~022096869886511572667",
-      "addedAt": "2026-09-07T07:58:39.344Z"
-    },
-    {
-      "title": "MONEYSMARTFAMILY.COM Managed WordPress Performance Fix + Site Audit + EasyAzon Cleanup",
-      "budget": "$10-$25/hr",
-      "score": 2600,
-      "url": "https://www.upwork.com/jobs/~022096831687898378987",
-      "addedAt": "2026-09-07T08:24:39.482Z"
-    },
-    {
-      "title": "Wordpress site built from templates",
-      "budget": "$15-$25/hr",
-      "score": 2600,
-      "url": "https://www.upwork.com/jobs/~022096980673106629974",
-      "addedAt": "2026-09-07T15:18:37.097Z"
-    },
-    {
-      "title": "WordPress Website Recovery + Simple Personal Brand Redesign + Ongoing Maintenance",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022096719456818160646",
-      "addedAt": "2026-09-07T01:00:41.437Z"
-    },
-    {
-      "title": "Title: Finish Shopify store build (Maranello theme), powersports dealer, ready for launch",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022096933689612528557",
-      "addedAt": "2026-09-07T15:10:42.938Z"
-    },
-    {
-      "title": "Experienced WordPress Developer Needed for a Professional 5-Page Website",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022097036780896660826",
-      "addedAt": "2026-09-07T19:00:47.869Z"
-    }
-  ]
+  "date": "2026-09-08",
+  "lastDigestSentDate": "2026-09-08",
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
