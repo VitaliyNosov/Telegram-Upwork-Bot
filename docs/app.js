@@ -1625,27 +1625,6 @@
     };
 
     if (window.html2pdf) {
-      if (window.html2pdf.Worker && !window.html2pdf.Worker.prototype._newWindowPatched) {
-        window.html2pdf.Worker.prototype._newWindowPatched = true;
-        const origToPdf = window.html2pdf.Worker.prototype.toPdf;
-        window.html2pdf.Worker.prototype.toPdf = function() {
-          return origToPdf.apply(this, arguments).then(function() {
-            if (this.prop.pdf && this.prop.pdf.internal && typeof this.prop.pdf.internal.write === 'function') {
-              const origWrite = this.prop.pdf.internal.write;
-              this.prop.pdf.internal.write = function(val) {
-                if (typeof val === 'string' && val.indexOf('/Subtype /Link') !== -1 && val.indexOf('/S /URI') !== -1) {
-                  val = val.replace(
-                    /\/A <<\/S \/URI \/URI \((.*?)\) >>/g,
-                    '/A <</Type /Action /S /URI /NewWindow true /URI ($1) >> /AA <</U <</S /JavaScript /JS (app.launchURL("$1", true);) >>>>'
-                  );
-                }
-                return origWrite.call(this, val);
-              };
-            }
-          }.bind(this));
-        };
-      }
-
       window.html2pdf().set(opt).from(element).save().then(() => {
         element.style.display = 'none';
         showToast('PDF report downloaded successfully! 📥');
