@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 67,
-  "matchedFilters": 16,
+  "totalScanned": 68,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 2
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022096896587987366635",
       "addedAt": "2026-09-07T12:44:52.353Z"
+    },
+    {
+      "title": "WordPress Website Update",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022097026164120966486",
+      "addedAt": "2026-09-07T18:18:36.760Z"
     },
     {
       "title": "WordPress Elementor Website Fixes",
@@ -70,13 +77,6 @@
       "score": 145,
       "url": "https://www.upwork.com/jobs/~022096810854196175878",
       "addedAt": "2026-09-07T04:04:37.964Z"
-    },
-    {
-      "title": "WordPress to Shopify Migration",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022096749071672661235",
-      "addedAt": "2026-09-06T23:58:37.318Z"
     }
   ]
 }

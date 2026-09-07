@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097026164120966486",
+    "ciphertext": "~022097026164120966486",
+    "title": "WordPress Website Update",
+    "description": "We need a freelancer to update our existing WordPress website and improve its overall appearance and functionality. The work includes making requested design changes, updating content, and ensuring the site looks clean and professional. We are looking for someone who can communicate clearly, work efficiently, and deliver a polished final result. Please share relevant examples of similar website updates you have completed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! I can help you quickly refresh and polish your WordPress website to make it look clean, modern, and highly professional. \n\nWhether your site uses Elementor, Divi, or a custom PHP theme, I specialize in refining layouts, updating content, and improving overall functionality without disrupting your live users. For example, I recently managed a comprehensive site update and optimization for https://www.thelifeyoucansave.org/, focusing on a polished design and seamless user experience. \n\nCould you share the link to your current website and a few of the specific design changes you have in mind? I can review it and give you an honest estimate of the timeline.",
+    "publishedDateTime": "2026-09-07T18:17:48+0000",
+    "addedAt": "2026-09-07T18:18:41.346Z",
+    "url": "https://www.upwork.com/jobs/~022097026164120966486",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097026164120966486/apply/"
+  },
+  {
     "id": "2096980673106629974",
     "ciphertext": "~022096980673106629974",
     "title": "Wordpress site built from templates",
