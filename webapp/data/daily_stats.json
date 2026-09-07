@@ -1,11 +1,11 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 56,
-  "matchedFilters": 14,
+  "totalScanned": 57,
+  "matchedFilters": 15,
   "byKeyword": {
     "wordpress developer": 13,
-    "woocommerce": 1
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -51,6 +51,13 @@
       "addedAt": "2026-09-07T01:00:41.437Z"
     },
     {
+      "title": "Title: Finish Shopify store build (Maranello theme), powersports dealer, ready for launch",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022096933689612528557",
+      "addedAt": "2026-09-07T15:10:42.938Z"
+    },
+    {
       "title": "Website Administrator",
       "budget": "Fixed-price",
       "score": 145,
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022096957677075780950",
       "addedAt": "2026-09-07T13:46:40.290Z"
-    },
-    {
-      "title": "Help needed getting Claude design into WordPress",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022096732968138335931",
-      "addedAt": "2026-09-06T22:54:38.774Z"
     }
   ]
 }

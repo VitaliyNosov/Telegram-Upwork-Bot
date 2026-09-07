@@ -1,5 +1,32 @@
 [
   {
+    "id": "2096933689612528557",
+    "ciphertext": "~022096933689612528557",
+    "title": "Title: Finish Shopify store build (Maranello theme), powersports dealer, ready for launch",
+    "description": "Motoworld.ie is an established powersports dealership in Ireland (Yamaha, Suzuki, Polaris, CFMOTO). We are moving from WooCommerce to Shopify. The store exists, the Maranello theme is installed, 1,071 products and the collections are imported, the menus and information pages are written. What is missing is the finishing work to get it live. I need one experienced Shopify person to take it from here to launch.\n\nScope\n\nHomepage and theme build out in Maranello: replace all demo content with our sections, banners, featured collections, brand row, store locator, USP bar. Product and collection templates configured. Mobile checked.\nProduct data cleanup: missing images, duplicate products, product category set on all items, brand label showing correctly on product cards, size and filter values standardised so the Search & Discovery filters are usable.\n\nMachines sales model: some machines are enquiry only (enquiry form, no add to cart), others can be reserved with a €99 deposit through checkout. Set this up cleanly, likely with a template per type or metafield driven.\nDelete old placeholder pages and the legacy WooCommerce menu. Check all menu links resolve.\nSettings: shipping rates (small parts by courier, machines collection or arranged delivery), taxes, Shopify Payments, notifications, policies linked.\nLaunch: connect the motoworld.ie domain, 301 redirects from the old WooCommerce URLs (we can give you access to our current wordpress/woocomerce website), Google Merchant Center feed and GA4 checks,\n\nWhat I need from you: A professional website. \nPlease quote fixed price with milestones for items above, and give an estimated timeline. Include a link to two Shopify stores you have finished and what you did on each.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 43,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "shopify",
+      "web-design"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can seamlessly transition Motoworld.ie from WooCommerce to Shopify and get your Maranello theme launch-ready. Having deep expertise in both WooCommerce and Shopify, I am uniquely positioned to handle your 301 redirects, product data cleanup, and template logic without losing SEO value.\n\nTo handle your machine sales model, I will configure custom product templates driven by metafields to cleanly toggle between the enquiry form and the €99 checkout deposit. \n\nI estimate a timeline of 10–14 days. My proposed milestones:\n1. Homepage buildout, data cleanup, and Search & Discovery filters setup.\n2. Machine templates, shipping/payment settings, and WooCommerce 301 redirects.\n\nFor past Shopify builds, I recently customized a powersports parts store (standardizing 1,500+ tags for filters) and an equipment site (implementing enquiry-only templates). \n\nLet’s chat to finalize the fixed-price quote. When are you free?",
+    "publishedDateTime": "2026-09-07T15:09:39+0000",
+    "addedAt": "2026-09-07T15:10:50.217Z",
+    "url": "https://www.upwork.com/jobs/~022096933689612528557",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096933689612528557/apply/"
+  },
+  {
     "id": "2096957677075780950",
     "ciphertext": "~022096957677075780950",
     "title": "Revamp and Modernize Wordpress Website",
