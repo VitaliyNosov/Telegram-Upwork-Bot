@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 31,
-  "matchedFilters": 11,
+  "totalScanned": 32,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 2600,
       "url": "https://www.upwork.com/jobs/~022096869886511572667",
       "addedAt": "2026-09-07T07:58:39.344Z"
+    },
+    {
+      "title": "MONEYSMARTFAMILY.COM Managed WordPress Performance Fix + Site Audit + EasyAzon Cleanup",
+      "budget": "$10-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022096831687898378987",
+      "addedAt": "2026-09-07T08:24:39.482Z"
     },
     {
       "title": "WordPress Website Recovery + Simple Personal Brand Redesign + Ongoing Maintenance",
@@ -70,13 +77,6 @@
       "score": 95,
       "url": "https://www.upwork.com/jobs/~022096755772100583221",
       "addedAt": "2026-09-07T00:24:37.007Z"
-    },
-    {
-      "title": "Website Structure and User Experience Expert",
-      "budget": "Fixed-price",
-      "score": 93,
-      "url": "https://www.upwork.com/jobs/~022096711506471015667",
-      "addedAt": "2026-09-07T00:28:36.131Z"
     }
   ]
 }
