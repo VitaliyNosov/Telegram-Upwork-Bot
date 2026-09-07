@@ -1,5 +1,32 @@
 [
   {
+    "id": "2097036780896660826",
+    "ciphertext": "~022097036780896660826",
+    "title": "Experienced WordPress Developer Needed for a Professional 5-Page Website",
+    "description": "We are looking for an experienced WordPress Developer to design and develop a modern, professional, and fully responsive 5-page WordPress website. The ideal freelancer should have strong WordPress development skills, a good understanding of UI/UX, and experience creating clean, fast, and mobile-friendly websites.\n\nProject Requirements\nThe selected freelancer will be responsible for:\nDeveloping a professional 5-page WordPress website\nCreating a modern and clean design\nMaking the website fully responsive\nEnsuring compatibility across desktop, tablet, and mobile devices\nSetting up easy-to-use WordPress functionality\nAdding a contact form\nCreating clear navigation and call-to-action sections\nOptimizing the website for speed and basic SEO\nTesting the website across major browsers\nEnsuring the website is easy to manage and update\n\nPreferred Skills\nWordPress Development\nElementor or similar page builders\nResponsive Web Design\nUI/UX Design\nHTML & CSS\nBasic SEO\nWebsite Speed Optimization\nIdeal Freelancer\n\nWe are looking for someone who:\nHas proven experience developing WordPress websites\nHas a strong portfolio of previous work\nUnderstands modern web design principles\nPays attention to detail\nCommunicates clearly and professionally\nCan complete the project within the agreed timeline\n\nHow to Apply\nPlease include the following in your proposal:\n2–3 examples of WordPress websites you have developed.\nYour estimated project timeline.\nYour fixed price or estimated budget.\nA brief explanation of your approach to this project.\n\nProject Type\nFixed Price\n\nWebsite Size\n5 Pages\n\nPlatform\nWordPress\n\nImportant\nPlease apply only if you have relevant WordPress experience and can provide high-quality, professional work. We are looking for a freelancer who can deliver a polished website with a strong focus on design, responsiveness, performance, and user experience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 65,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wordpress-theme"
+    ],
+    "score": 150,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-07T18:59:41+0000",
+    "addedAt": "2026-09-07T19:01:12.221Z",
+    "url": "https://www.upwork.com/jobs/~022097036780896660826",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097036780896660826/apply/"
+  },
+  {
     "id": "2097033297470080230",
     "ciphertext": "~022097033297470080230",
     "title": "Urgent WordPress malware cleanup needed for persistent PHP/auto_prepend infection",
