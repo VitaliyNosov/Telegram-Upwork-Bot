@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096810854196175878",
+    "ciphertext": "~022096810854196175878",
+    "title": "Website Administrator",
+    "description": "Website & WooCommerce Management\n\nMarketing Platform Integration\n\nIntegrate and maintain connections between WordPress and marketing platforms such as CRM systems, email marketing tools, analytics, advertising platforms, and automation tools\nTechnical Advisory & Support\n\nProvide guidance and assistance with DNS configuration, domain management, and hosting environments\n\nSupport email-related setup and troubleshooting (e.g. deliverability, SPF/DKIM/DMARC, platform integrations)\nAdvise on SEO tools and technical SEO best practices, including site structure, indexing, and performance considerations\n\nDetail-oriented and proactive\nStrong problem-solving skills\nReliable and responsive\nComfortable working independently and managing ongoing responsibilities",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.75,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 39,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "php",
+      "html"
+    ],
+    "score": 145,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-07T04:02:21+0000",
+    "addedAt": "2026-09-07T04:04:59.200Z",
+    "url": "https://www.upwork.com/jobs/~022096810854196175878",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096810854196175878/apply/"
+  },
+  {
     "id": "2096781548357890795",
     "ciphertext": "~022096781548357890795",
     "title": "Web Developer Coder [Figma to Wordpress Elementor]",

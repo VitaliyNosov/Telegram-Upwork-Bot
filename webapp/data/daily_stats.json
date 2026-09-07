@@ -1,10 +1,11 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 20,
-  "matchedFilters": 8,
+  "totalScanned": 21,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 8,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -27,6 +28,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022096719456818160646",
       "addedAt": "2026-09-07T01:00:41.437Z"
+    },
+    {
+      "title": "Website Administrator",
+      "budget": "Fixed-price",
+      "score": 145,
+      "url": "https://www.upwork.com/jobs/~022096810854196175878",
+      "addedAt": "2026-09-07T04:04:37.964Z"
     },
     {
       "title": "WordPress to Shopify Migration",
