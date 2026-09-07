@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096784394684911068",
+    "ciphertext": "~022096784394684911068",
+    "title": "Theme Replacement & Cleanup",
+    "description": "Please see the attachment PED-RFQ-pedchem-theme-replacement",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "adobe-photoshop",
+      "graphic-design",
+      "english"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! Safely replacing a WordPress theme while cleaning up legacy database bloat and ensuring the new design looks pixel-perfect is exactly what I do. \n\nI specialize in custom WordPress development and clean theme migrations. I can seamlessly transition your site to the new theme, strip out any broken layouts or shortcode leftovers from your old setup, and ensure your visual assets match your Photoshop mockups perfectly. I've executed similar cleanups and high-profile migrations before, such as my work on https://about.offerup.com/, ensuring zero downtime and a highly optimized, polished result.\n\nCould you share the RFQ document or your design mockups so I can review the specific layout requirements and give you an accurate estimate? Let's chat.",
+    "publishedDateTime": "2026-09-07T05:16:26+0000",
+    "addedAt": "2026-09-07T05:18:45.036Z",
+    "url": "https://www.upwork.com/jobs/~022096784394684911068",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096784394684911068/apply/"
+  },
+  {
     "id": "2096810854196175878",
     "ciphertext": "~022096810854196175878",
     "title": "Website Administrator",
