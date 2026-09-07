@@ -1,5 +1,36 @@
 [
   {
+    "id": "2096980673106629974",
+    "ciphertext": "~022096980673106629974",
+    "title": "Wordpress site built from templates",
+    "description": "8 Cylinder Consulting works in Business Services & Consulting in the United States, with a small team.\n\nWebsite build\n\nWe need a WordPress website implemented from existing templates and linked instructions, not designed from scratch. \n\nThe site will support new services. The main site and three upgrade links are available as build references.\n\nBuild scope\n\nSet up and configure the main WordPress template and all three upgrade templates. \n\nNote\nThe new WordPress site does not need to match the colors of the current 8 Cylinder Consulting website.\n\nNote\nPurchased download files or customer access will be provided to the builder hired.\n\nBudget\n\nTBD: Should take 5-7 hours of work\n\nNote\n\nAfter launch, we may also need ongoing WordPress maintenance for an additional charge. There may also be opportunities to support websites for other clients or prospects in the future.\n\nNote\n\nThe domain will be purchased through GoDaddy. Hosting and WordPress access will need to be set up for the build.\n\nTimeline\n\nWe need the WordPress site live within 14 days, with a preferred delivery window of 7–10 days.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$15 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "theme-customization",
+      "website-customization",
+      "website-redesign",
+      "website",
+      "seo",
+      "wordpress-website"
+    ],
+    "score": 2600,
+    "coverLetter": "Hi! I can quickly set up your WordPress site using your templates and get it fully configured and live on GoDaddy within your preferred 7–10 day window. I will handle the hosting configuration, install the main template, and implement the three upgrade templates exactly as specified in your instructions.\n\nWith extensive experience in WordPress template customization and hosting setup (similar to my work on https://www.cchpca.org/), I ensure a clean, fast-loading build. I am also highly interested in the ongoing maintenance you mentioned and would love to support your team and future clients long-term.\n\nDo you already have the hosting provider selected, or would you like a recommendation on the best setup to pair with your GoDaddy domain?",
+    "publishedDateTime": "2026-09-07T15:16:30+0000",
+    "addedAt": "2026-09-07T15:18:42.240Z",
+    "url": "https://www.upwork.com/jobs/~022096980673106629974",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096980673106629974/apply/"
+  },
+  {
     "id": "2096933689612528557",
     "ciphertext": "~022096933689612528557",
     "title": "Title: Finish Shopify store build (Maranello theme), powersports dealer, ready for launch",

@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
   "lastDigestSentDate": "2026-09-07",
-  "totalScanned": 57,
-  "matchedFilters": 15,
+  "totalScanned": 58,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "woocommerce": 2
   },
   "topJobs": [
@@ -44,6 +44,13 @@
       "addedAt": "2026-09-07T08:24:39.482Z"
     },
     {
+      "title": "Wordpress site built from templates",
+      "budget": "$15-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022096980673106629974",
+      "addedAt": "2026-09-07T15:18:37.097Z"
+    },
+    {
       "title": "WordPress Website Recovery + Simple Personal Brand Redesign + Ongoing Maintenance",
       "budget": "Fixed-price",
       "score": 150,
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022096749071672661235",
       "addedAt": "2026-09-06T23:58:37.318Z"
-    },
-    {
-      "title": "Revamp and Modernize Wordpress Website",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022096957677075780950",
-      "addedAt": "2026-09-07T13:46:40.290Z"
     }
   ]
 }
