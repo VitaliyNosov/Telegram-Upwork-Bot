@@ -1,5 +1,36 @@
 [
   {
+    "id": "2097057924900447649",
+    "ciphertext": "~022097057924900447649",
+    "title": "Experienced Ecommerce Web Developer Needed",
+    "description": "I’m looking for a skilled and reliable Ecommerce Web Developer to build or customize a high-quality online store. The goal is to create a fast, modern, mobile-friendly, and conversion-optimized ecommerce website.\nProject Scope:\n\nDevelop a complete ecommerce website from scratch or customize an existing store\nClean and professional UI/UX design\nFully responsive (mobile, tablet & desktop)\nProduct management (categories, variations, inventory, bulk upload)\nPayment gateway integration (Stripe, PayPal, and local payment methods)\nShipping & tax configuration\nSpeed optimization and performance tuning\nSEO-friendly structure (clean URLs, meta tags, schema, etc.)\nSecurity best practices and SSL setup\nOptional features: wishlist, advanced filters, multi-currency, multi-language, discount coupons, abandoned cart recovery, etc.\n\nRequired Skills:\n\nStrong experience with Shopify, WooCommerce, or custom ecommerce development (Laravel, Next.js, React, etc.)\nSolid understanding of HTML, CSS, JavaScript, and modern frontend practices\nExperience with payment gateways and third-party integrations\nKnowledge of performance optimization and Core Web Vitals\nGood communication skills and ability to meet deadlines\n\nWhat I Expect from You:\n\nClear communication throughout the project\nRegular progress updates\nClean, well-structured, and documented code\nAbility to suggest improvements for better user experience and sales conversion",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "shopify",
+      "html",
+      "web-design",
+      "ecommerce-consulting",
+      "php"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! Whether you decide to go with WooCommerce or Shopify for your new store, I can help you build a fast, secure, and conversion-optimized e-commerce site from the ground up. \n\nWith extensive experience in both platforms, I specialize in creating responsive designs, configuring seamless payment gateways (Stripe/PayPal), and optimizing for Core Web Vitals to ensure your site loads instantly. I focus on clean code and intuitive UI/UX to help turn your visitors into customers. You can see an example of my clean, high-performance web development work here: https://www.thelifeyoucansave.org/\n\nAre you looking to build this on Shopify or WooCommerce, and do you already have design mockups (like Figma) ready to go?",
+    "publishedDateTime": "2026-09-07T20:23:53+0000",
+    "addedAt": "2026-09-07T20:24:43.796Z",
+    "url": "https://www.upwork.com/jobs/~022097057924900447649",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097057924900447649/apply/"
+  },
+  {
     "id": "2097012084933356461",
     "ciphertext": "~022097012084933356461",
     "title": "Website Designer for Two Connected Sites",
