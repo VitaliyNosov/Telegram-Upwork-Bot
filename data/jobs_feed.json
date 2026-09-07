@@ -1,5 +1,34 @@
 [
   {
+    "id": "2096711506471015667",
+    "ciphertext": "~022096711506471015667",
+    "title": "Website Structure and User Experience Expert",
+    "description": "I am looking for an expert in website navigation, information architecture, and user experience to help structure a premium B2B website for architects. The ideal candidate will have experience in creating intuitive and user-friendly interfaces that enhance the overall user experience. Responsibilities include designing navigation systems, organizing content, and ensuring the website is visually appealing and functional.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.67,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 412,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "javascript",
+      "php",
+      "wordpress"
+    ],
+    "score": 93,
+    "coverLetter": "Structuring a premium B2B website for a design-conscious audience like architects requires a seamless blend of intuitive information architecture and pixel-perfect performance. \n\nWith my background in custom WordPress development, PHP, and Gutenberg/ACF, I build clean, highly structured backends that translate into fast, logical front-end user experiences. I focus on creating intuitive navigation systems and custom layouts that make complex B2B content easy to digest and visually engaging. For a look at how I structure clean, professional corporate sites, check out one of my projects: https://about.offerup.com/\n\nDo you already have wireframes or a sitemap ready, or are we starting from scratch to map out the user journeys?",
+    "publishedDateTime": "2026-09-07T00:26:45+0000",
+    "addedAt": "2026-09-07T00:28:40.687Z",
+    "url": "https://www.upwork.com/jobs/~022096711506471015667",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022096711506471015667/apply/"
+  },
+  {
     "id": "2096755772100583221",
     "ciphertext": "~022096755772100583221",
     "title": "AI-Powered Domestic Help Website",
