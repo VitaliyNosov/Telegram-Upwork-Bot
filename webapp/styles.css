@@ -1335,10 +1335,18 @@ input[type="range"] {
 }
 
 /* ==========================================================================
-   Hidden PDF Export Printable Container
+   PDF Export Printable Container (Rendered off-screen for html2canvas)
    ========================================================================== */
 #pdf-report-container {
-  display: none;
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  width: 794px;
+  background: #ffffff;
+  color: #001e00;
+  visibility: visible;
+  pointer-events: none;
+  z-index: -9999;
 }
 
 @media print {
@@ -1350,7 +1358,10 @@ input[type="range"] {
     display: none !important;
   }
   #pdf-report-container {
+    position: static !important;
+    left: 0 !important;
     display: block !important;
+    width: 100% !important;
   }
 }
 

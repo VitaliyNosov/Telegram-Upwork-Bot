@@ -842,7 +842,7 @@
         </svg>
         <span class="btn-translate-label">EN</span>
       `;
-      el.btnDetailsTranslate.title = 'Показать оригинал (EN)';
+      el.btnDetailsTranslate.title = 'Switch to English';
     } else {
       el.btnDetailsTranslate.classList.remove('active');
       el.btnDetailsTranslate.innerHTML = `
@@ -853,19 +853,19 @@
         </svg>
         <span class="btn-translate-label">RU</span>
       `;
-      el.btnDetailsTranslate.title = 'Перевести всё на русский';
+      el.btnDetailsTranslate.title = 'Translate to Russian';
     }
     updateModalActionButtons(isTranslated);
   }
 
-  function updateModalActionButtons(isTranslated) {
+  function updateModalActionButtons() {
     if (el.btnModalView) {
       const span = el.btnModalView.querySelector('span');
-      if (span) span.textContent = isTranslated ? 'К вакансии' : 'View Job';
+      if (span) span.textContent = 'View Job';
     }
     if (el.btnModalApply) {
       const span = el.btnModalApply.querySelector('span');
-      if (span) span.textContent = isTranslated ? 'Откликнуться' : 'Apply on Upwork';
+      if (span) span.textContent = 'Apply on Upwork';
     }
   }
 
@@ -881,7 +881,7 @@
       descEl.textContent = job.description;
       if (titleEl) titleEl.textContent = job.title;
       btnDesc.classList.remove('active');
-      btnDesc.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
+      btnDesc.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Translate</span>`;
       updateHeaderTranslateBtn(job);
       triggerHaptic('selection');
     } else {
@@ -892,11 +892,11 @@
         descEl.textContent = job._cacheRu.description;
         if (titleEl && job._cacheRu.title) titleEl.textContent = job._cacheRu.title;
         btnDesc.classList.add('active');
-        btnDesc.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Оригинал</span>`;
+        btnDesc.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Original</span>`;
         updateHeaderTranslateBtn(job);
       } else {
         btnDesc.classList.add('loading');
-        btnDesc.innerHTML = `<span class="translate-icon">⏳</span><span class="translate-text">Переводим...</span>`;
+        btnDesc.innerHTML = `<span class="translate-icon">⏳</span><span class="translate-text">Translating...</span>`;
         try {
           const transDesc = await translateText(job.description);
           let transTitle = job.title;
@@ -918,15 +918,15 @@
             descEl.textContent = transDesc;
             if (titleEl && transTitle) titleEl.textContent = transTitle;
             btnDesc.classList.add('active');
-            btnDesc.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Оригинал</span>`;
+            btnDesc.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Original</span>`;
             updateHeaderTranslateBtn(job);
-            showToast('Описание переведено на русский 🌐');
+            showToast('Description translated to Russian 🌐');
           }
         } catch (err) {
           console.error('Translation error:', err);
           btnDesc.classList.remove('active');
-          btnDesc.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
-          showToast('Не удалось перевести. Попробуйте еще раз');
+          btnDesc.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Translate</span>`;
+          showToast('Translation failed. Please try again.');
         } finally {
           btnDesc.classList.remove('loading');
         }
@@ -943,7 +943,7 @@
       job._showRuProposal = false;
       propEl.textContent = job.coverLetter;
       btnProp.classList.remove('active');
-      btnProp.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
+      btnProp.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Translate</span>`;
       updateHeaderTranslateBtn(job);
       triggerHaptic('selection');
     } else {
@@ -952,11 +952,11 @@
         job._showRuProposal = true;
         propEl.textContent = job._cacheRu.coverLetter;
         btnProp.classList.add('active');
-        btnProp.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Оригинал</span>`;
+        btnProp.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Original</span>`;
         updateHeaderTranslateBtn(job);
       } else {
         btnProp.classList.add('loading');
-        btnProp.innerHTML = `<span class="translate-icon">⏳</span><span class="translate-text">Переводим...</span>`;
+        btnProp.innerHTML = `<span class="translate-icon">⏳</span><span class="translate-text">Translating...</span>`;
         try {
           const transProposal = await translateText(job.coverLetter);
           job._cacheRu = job._cacheRu || {};
@@ -966,15 +966,15 @@
           if (state.activeJob?.id === job.id) {
             propEl.textContent = transProposal;
             btnProp.classList.add('active');
-            btnProp.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Оригинал</span>`;
+            btnProp.innerHTML = `<span class="translate-icon">↩️</span><span class="translate-text">Original</span>`;
             updateHeaderTranslateBtn(job);
-            showToast('AI Proposal переведен на русский 🌐');
+            showToast('Proposal translated to Russian 🌐');
           }
         } catch (err) {
           console.error('Translation error:', err);
           btnProp.classList.remove('active');
-          btnProp.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Перевести</span>`;
-          showToast('Не удалось перевести. Попробуйте еще раз');
+          btnProp.innerHTML = `<span class="translate-icon">🌐</span><span class="translate-text">Translate</span>`;
+          showToast('Translation failed. Please try again.');
         } finally {
           btnProp.classList.remove('loading');
         }
@@ -1035,7 +1035,7 @@
             <div class="ai-card-actions">
               <button id="btn-translate-proposal" class="btn-translate-inline ${job._showRuProposal ? 'active' : ''}" type="button">
                 <span class="translate-icon">${job._showRuProposal ? '↩️' : '🌐'}</span>
-                <span class="translate-text">${job._showRuProposal ? 'Оригинал' : 'Перевести'}</span>
+                <span class="translate-text">${job._showRuProposal ? 'Original' : 'Translate'}</span>
               </button>
               <button id="btn-copy-proposal" class="btn btn-secondary" style="font-size: 12px; padding: 5px 12px;">
                 📋 Copy Proposal
@@ -1076,7 +1076,7 @@
         <div class="detail-section-title">Job Description</div>
         <button id="btn-translate-desc" class="btn-translate-inline ${job._showRuDesc ? 'active' : ''}" type="button">
           <span class="translate-icon">${job._showRuDesc ? '↩️' : '🌐'}</span>
-          <span class="translate-text">${job._showRuDesc ? 'Оригинал' : 'Перевести'}</span>
+          <span class="translate-text">${job._showRuDesc ? 'Original' : 'Translate'}</span>
         </button>
       </div>
       <div id="detail-job-description" class="detail-description">${escapeHtml(activeDescription)}</div>
@@ -1146,7 +1146,7 @@
         if (tg?.openLink) {
           tg.openLink(targetUrl);
         } else {
-          window.open(targetUrl, '_blank');
+          window.open(targetUrl, '_blank', 'noopener,noreferrer');
         }
       };
     }
@@ -1159,7 +1159,7 @@
         if (tg?.openLink) {
           tg.openLink(targetUrl);
         } else {
-          window.open(targetUrl, '_blank');
+          window.open(targetUrl, '_blank', 'noopener,noreferrer');
         }
       };
     }
@@ -1570,7 +1570,7 @@
     if (pdfKeywords) {
       const keywords = state.dailyStats?.byKeyword || { "wordpress developer": 2, "woocommerce": 1, "api integration": 1 };
       pdfKeywords.innerHTML = Object.entries(keywords).map(([kw, count]) => `
-        <span style="border: 1px solid #e4e4e4; background: #f7f7f7; padding: 4px 10px; border-radius: 9999px; font-size: 11px; font-weight: 500;">
+        <span style="border: 1px solid #e4e4e4; background: #f7f7f7; padding: 4px 10px; border-radius: 9999px; font-size: 11px; font-weight: 500; color: #001e00;">
           ${escapeHtml(kw)} <strong style="color: #14a800;">(${count})</strong>
         </span>
       `).join('');
@@ -1578,7 +1578,10 @@
 
     const pdfJobsList = document.getElementById('pdf-jobs-list');
     if (pdfJobsList) {
-      pdfJobsList.innerHTML = state.jobs.slice(0, 10).map((job, idx) => {
+      const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+      const jobsToInclude = activeJobs.length > 0 ? activeJobs.slice(0, 10) : state.jobs.slice(0, 10);
+
+      pdfJobsList.innerHTML = jobsToInclude.map((job, idx) => {
         const targetUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : 'https://www.upwork.com');
         return `
         <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #ffffff; page-break-inside: avoid; margin-bottom: 8px;">
@@ -1596,7 +1599,7 @@
             ${escapeHtml((job.description || '').slice(0, 220))}...
           </div>
           <div style="font-size: 11px; margin-top: 4px;">
-            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700;">
+            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700; display: inline-block;">
               View Job on Upwork ➔
             </a>
           </div>
@@ -1607,8 +1610,6 @@
 
     const element = document.getElementById('pdf-report-container');
     if (!element) return;
-
-    element.style.display = 'block';
 
     const opt = {
       margin: [10, 10, 10, 10],
@@ -1630,7 +1631,10 @@
             const origWrite = pdf.internal.write;
             pdf.internal.write = function(val) {
               if (typeof val === 'string' && val.indexOf('/Subtype /Link') !== -1 && val.indexOf('/S /URI') !== -1) {
-                val = val.replace(/\/S \/URI \/URI \(/g, '/Type /Action /S /URI /NewWindow true /URI (');
+                val = val.replace(
+                  /\/A <<\/S \/URI \/URI \((.*?)\) >>/g,
+                  '/A <</Type /Action /S /URI /NewWindow true /URI ($1) >> /AA <</U <</S /JavaScript /JS (app.launchURL("$1", true);) >>>>'
+                );
               }
               return origWrite.call(this, val);
             };
@@ -1638,16 +1642,13 @@
         })
         .save()
         .then(() => {
-          element.style.display = 'none';
           showToast('PDF report downloaded successfully! 📥');
         })
         .catch((err) => {
           console.error('PDF export error:', err);
-          element.style.display = 'none';
           window.print();
         });
     } else {
-      element.style.display = 'none';
       window.print();
     }
   }
