@@ -73,7 +73,15 @@ function addJobToFeed(feed, job, score = 0, coverLetter = null) {
     feed.unshift(feedItem); // Новые вакансии добавляем в начало ленты
   }
 
-  // Ограничиваем размер ленты последними 150 вакансиями
+  // Физически удаляем из файла вакансии старше 3 дней (на Upwork они уже неактуальны)
+  const MAX_FEED_AGE_DAYS = 3;
+  const cutoffTime = Date.now() - MAX_FEED_AGE_DAYS * 24 * 60 * 60 * 1000;
+  feed = feed.filter((item) => {
+    const pubTime = new Date(item.publishedDateTime || item.addedAt).getTime();
+    return !isNaN(pubTime) && pubTime >= cutoffTime;
+  });
+
+  // Ограничиваем максимальный размер ленты
   if (feed.length > MAX_FEED_ITEMS) {
     feed.length = MAX_FEED_ITEMS;
   }

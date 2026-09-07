@@ -32,6 +32,8 @@
     dailyStats: null,
     savedIds: new Set(getStorage('upwork_saved_ids', [])),
     viewedIds: new Set(getStorage('upwork_viewed_ids', [])),
+    deletedIds: new Set(getStorage('upwork_deleted_ids', [])),
+    selectedDate: 'all',
     activeTab: 'view-jobs',
     quickFilter: 'all',
     searchQuery: '',
@@ -64,6 +66,27 @@
     navSavedBadge: document.getElementById('nav-saved-badge'),
     navFilterDot: document.getElementById('nav-filter-indicator'),
     btnSync: document.getElementById('btn-sync'),
+
+    // Calendar & Cleanup
+    btnOpenCalendar: document.getElementById('btn-open-calendar'),
+    headerCalendarDot: document.getElementById('header-calendar-dot'),
+    chipCalendarBtn: document.getElementById('chip-calendar-btn'),
+    chipCalendarText: document.getElementById('chip-calendar-text'),
+    modalCalendar: document.getElementById('modal-calendar'),
+    btnCloseCalendar: document.getElementById('btn-close-calendar'),
+    btnCloseCalendarFooter: document.getElementById('btn-close-calendar-footer'),
+    calendarDaysGrid: document.getElementById('calendar-days-grid'),
+    btnResetDateFilter: document.getElementById('btn-reset-date-filter'),
+    btnCleanViewed: document.getElementById('btn-clean-viewed'),
+    btnCleanOlder3d: document.getElementById('btn-clean-older-3d'),
+    btnCleanSelectedDate: document.getElementById('btn-clean-selected-date'),
+    labelCleanSelectedDate: document.getElementById('label-clean-selected-date'),
+    badgeCountViewed: document.getElementById('badge-count-viewed'),
+    badgeCountOlder: document.getElementById('badge-count-older'),
+    badgeCountDate: document.getElementById('badge-count-date'),
+    restoreCleanupBox: document.getElementById('restore-cleanup-box'),
+    countDeletedJobs: document.getElementById('count-deleted-jobs'),
+    btnRestoreDeleted: document.getElementById('btn-restore-deleted'),
 
     // Theme Toggle
     btnThemeToggle: document.getElementById('btn-theme-toggle'),
@@ -294,7 +317,15 @@
 
   // Filter & Sort Logic
   function getFilteredJobs() {
-    let list = [...state.jobs];
+    let list = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+
+    // Date filter
+    if (state.selectedDate && state.selectedDate !== 'all') {
+      list = list.filter((j) => {
+        if (!j.publishedDateTime) return false;
+        return j.publishedDateTime.slice(0, 10) === state.selectedDate;
+      });
+    }
 
     // Quick filter chips
     if (state.quickFilter === 'hourly') {
@@ -367,7 +398,7 @@
   }
 
   function getSavedJobs() {
-    return state.jobs.filter((j) => state.savedIds.has(j.id));
+    return state.jobs.filter((j) => state.savedIds.has(j.id) && !state.deletedIds.has(j.id));
   }
 
   // Format Relative Time (e.g. "15 minutes ago")
@@ -429,6 +460,12 @@
           <button class="btn-save-card ${isSaved ? 'saved' : ''}" data-action="save" aria-label="Save Job">
             ${heartSvg}
           </button>
+          <button class="btn-dismiss-card" data-action="dismiss" title="Скрыть/удалить вакансию" aria-label="Удалить вакансию">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
         </div>
       </div>
 
@@ -461,6 +498,12 @@
         toggleSave(job.id);
         return;
       }
+      // If clicking dismiss button, hide/delete job
+      if (e.target.closest('[data-action="dismiss"]')) {
+        e.stopPropagation();
+        dismissJob(job.id, card);
+        return;
+      }
       openJobModal(job);
     });
 
@@ -473,6 +516,7 @@
     renderSavedFeed();
     renderDailyReport();
     updateBadges();
+    updateCalendarIndicators();
   }
 
   function renderJobsFeed() {
@@ -548,9 +592,10 @@
 
     if (el.reportJobsList) {
       el.reportJobsList.innerHTML = '';
-      if (el.reportJobsCount) el.reportJobsCount.textContent = `${state.jobs.length} вакансий`;
+      const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+      if (el.reportJobsCount) el.reportJobsCount.textContent = `${activeJobs.length} вакансий`;
 
-      state.jobs.forEach((job) => {
+      activeJobs.forEach((job) => {
         const isHourly = job.isHourly;
         const budgetText = isHourly
           ? `$${job.hourlyBudgetMin || 0} - $${job.hourlyBudgetMax || 0}/hr`
@@ -569,6 +614,12 @@
               <button class="card-save-btn ${state.savedIds.has(job.id) ? 'saved' : ''}" data-id="${job.id}" aria-label="Save job">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="${state.savedIds.has(job.id) ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
                   <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+                </svg>
+              </button>
+              <button class="btn-dismiss-card" data-dismiss="${job.id}" title="Скрыть вакансию" aria-label="Удалить вакансию">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18"></line>
+                  <line x1="6" y1="6" x2="18" y2="18"></line>
                 </svg>
               </button>
             </div>
@@ -600,6 +651,14 @@
           toggleSave(job.id);
         });
 
+        const dismissBtn = card.querySelector('[data-dismiss]');
+        if (dismissBtn) {
+          dismissBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            dismissJob(job.id, card);
+          });
+        }
+
         card.addEventListener('click', () => openJobModal(job));
 
         el.reportJobsList.appendChild(card);
@@ -608,7 +667,8 @@
   }
 
   function updateBadges() {
-    const unviewedCount = state.jobs.filter((j) => !state.viewedIds.has(j.id)).length;
+    const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+    const unviewedCount = activeJobs.filter((j) => !state.viewedIds.has(j.id)).length;
     if (unviewedCount > 0) {
       el.navJobsBadge.textContent = unviewedCount > 99 ? '99+' : unviewedCount;
       el.navJobsBadge.classList.remove('hidden');
@@ -616,7 +676,7 @@
       el.navJobsBadge.classList.add('hidden');
     }
 
-    const savedCount = state.savedIds.size;
+    const savedCount = activeJobs.filter((j) => state.savedIds.has(j.id)).length;
     if (savedCount > 0) {
       el.navSavedBadge.textContent = savedCount;
       el.navSavedBadge.classList.remove('hidden');
@@ -636,6 +696,8 @@
     } else {
       el.navFilterDot.classList.add('hidden');
     }
+
+    updateCalendarIndicators();
   }
 
   // Actions
@@ -1136,6 +1198,284 @@
   }
 
   // ==========================================
+  // Calendar & Feed Cleanup Logic
+  // ==========================================
+  function formatCalendarDateLabel(dateStr) {
+    if (!dateStr || dateStr === 'all') return 'Все дни';
+
+    try {
+      const today = new Date();
+      const todayStr = today.toISOString().slice(0, 10);
+
+      const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
+      const yesterdayStr = yesterday.toISOString().slice(0, 10);
+
+      if (dateStr === todayStr) return 'Сегодня';
+      if (dateStr === yesterdayStr) return 'Вчера';
+
+      const parts = dateStr.split('-');
+      if (parts.length === 3) {
+        const d = new Date(parts[0], parts[1] - 1, parts[2]);
+        return d.toLocaleDateString('ru-RU', { day: 'numeric', month: 'short' });
+      }
+      return dateStr;
+    } catch {
+      return dateStr;
+    }
+  }
+
+  function updateCalendarIndicators() {
+    const isDateFiltered = state.selectedDate && state.selectedDate !== 'all';
+
+    if (el.headerCalendarDot) {
+      if (isDateFiltered) {
+        el.headerCalendarDot.classList.remove('hidden');
+      } else {
+        el.headerCalendarDot.classList.add('hidden');
+      }
+    }
+
+    if (el.chipCalendarBtn && el.chipCalendarText) {
+      if (isDateFiltered) {
+        el.chipCalendarBtn.classList.add('active');
+        el.chipCalendarText.textContent = formatCalendarDateLabel(state.selectedDate);
+      } else {
+        el.chipCalendarBtn.classList.remove('active');
+        el.chipCalendarText.textContent = 'Все дни';
+      }
+    }
+  }
+
+  function openCalendarModal() {
+    triggerHaptic('selection');
+    renderCalendarModal();
+    if (el.modalCalendar) {
+      el.modalCalendar.classList.remove('hidden');
+    }
+  }
+
+  function closeCalendarModal() {
+    if (el.modalCalendar) {
+      el.modalCalendar.classList.add('hidden');
+    }
+  }
+
+  function renderCalendarModal() {
+    if (!el.calendarDaysGrid) return;
+
+    const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+    
+    // Group active jobs by date (YYYY-MM-DD)
+    const dateCounts = {};
+    activeJobs.forEach((job) => {
+      const dateKey = job.publishedDateTime ? job.publishedDateTime.slice(0, 10) : 'unknown';
+      if (dateKey !== 'unknown') {
+        dateCounts[dateKey] = (dateCounts[dateKey] || 0) + 1;
+      }
+    });
+
+    const sortedDates = Object.keys(dateCounts).sort().reverse();
+
+    el.calendarDaysGrid.innerHTML = '';
+
+    // "Все дни" pill
+    const allPill = document.createElement('button');
+    allPill.type = 'button';
+    allPill.className = `day-pill ${state.selectedDate === 'all' ? 'active' : ''}`;
+    allPill.innerHTML = `
+      <span>Все дни</span>
+      <span class="day-badge">${activeJobs.length}</span>
+    `;
+    allPill.addEventListener('click', () => {
+      triggerHaptic('selection');
+      state.selectedDate = 'all';
+      updateCalendarIndicators();
+      renderCalendarModal();
+      renderJobsFeed();
+    });
+    el.calendarDaysGrid.appendChild(allPill);
+
+    // Individual date pills
+    sortedDates.forEach((dStr) => {
+      const count = dateCounts[dStr];
+      const pill = document.createElement('button');
+      pill.type = 'button';
+      pill.className = `day-pill ${state.selectedDate === dStr ? 'active' : ''}`;
+      pill.innerHTML = `
+        <span>${escapeHtml(formatCalendarDateLabel(dStr))}</span>
+        <span class="day-badge">${count}</span>
+      `;
+      pill.addEventListener('click', () => {
+        triggerHaptic('selection');
+        state.selectedDate = dStr;
+        updateCalendarIndicators();
+        renderCalendarModal();
+        renderJobsFeed();
+      });
+      el.calendarDaysGrid.appendChild(pill);
+    });
+
+    // Reset date button in section header
+    if (el.btnResetDateFilter) {
+      if (state.selectedDate !== 'all') {
+        el.btnResetDateFilter.classList.remove('hidden');
+      } else {
+        el.btnResetDateFilter.classList.add('hidden');
+      }
+    }
+
+    // Quick cleanup counters
+    const viewedActive = activeJobs.filter((j) => state.viewedIds.has(j.id)).length;
+    if (el.badgeCountViewed) el.badgeCountViewed.textContent = viewedActive;
+
+    const threeDaysAgo = Date.now() - 3 * 24 * 60 * 60 * 1000;
+    const olderActive = activeJobs.filter((j) => {
+      if (!j.publishedDateTime) return false;
+      return new Date(j.publishedDateTime).getTime() < threeDaysAgo;
+    }).length;
+    if (el.badgeCountOlder) el.badgeCountOlder.textContent = olderActive;
+
+    if (el.btnCleanSelectedDate) {
+      if (state.selectedDate !== 'all') {
+        el.btnCleanSelectedDate.classList.remove('hidden');
+        const selectedCount = dateCounts[state.selectedDate] || 0;
+        if (el.badgeCountDate) el.badgeCountDate.textContent = selectedCount;
+        if (el.labelCleanSelectedDate) {
+          el.labelCleanSelectedDate.textContent = `Очистить вакансии за ${formatCalendarDateLabel(state.selectedDate)}`;
+        }
+      } else {
+        el.btnCleanSelectedDate.classList.add('hidden');
+      }
+    }
+
+    // Restore section
+    const deletedCount = state.deletedIds.size;
+    if (el.restoreCleanupBox) {
+      if (deletedCount > 0) {
+        el.restoreCleanupBox.classList.remove('hidden');
+        if (el.countDeletedJobs) el.countDeletedJobs.textContent = deletedCount;
+      } else {
+        el.restoreCleanupBox.classList.add('hidden');
+      }
+    }
+  }
+
+  function dismissJob(jobId, cardEl) {
+    triggerHaptic('impact');
+    state.deletedIds.add(jobId);
+    setStorage('upwork_deleted_ids', Array.from(state.deletedIds));
+
+    if (cardEl) {
+      cardEl.classList.add('removing');
+      setTimeout(() => {
+        renderJobsFeed();
+        renderSavedFeed();
+        renderDailyReport();
+        updateBadges();
+        updateCalendarIndicators();
+      }, 260);
+    } else {
+      renderJobsFeed();
+      renderSavedFeed();
+      renderDailyReport();
+      updateBadges();
+      updateCalendarIndicators();
+    }
+    showToast('Вакансия скрыта');
+  }
+
+  function cleanViewedJobs() {
+    triggerHaptic('impact');
+    const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+    const toDelete = activeJobs.filter((j) => state.viewedIds.has(j.id));
+
+    if (toDelete.length === 0) {
+      showToast('Нет просмотренных вакансий для удаления');
+      return;
+    }
+
+    toDelete.forEach((j) => state.deletedIds.add(j.id));
+    setStorage('upwork_deleted_ids', Array.from(state.deletedIds));
+
+    renderCalendarModal();
+    renderJobsFeed();
+    renderSavedFeed();
+    renderDailyReport();
+    updateBadges();
+    showToast(`Удалено просмотренных: ${toDelete.length} 🗑️`);
+  }
+
+  function cleanOlderJobs(days = 3) {
+    triggerHaptic('impact');
+    const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+    const threshold = Date.now() - days * 24 * 60 * 60 * 1000;
+    const toDelete = activeJobs.filter((j) => {
+      if (!j.publishedDateTime) return false;
+      return new Date(j.publishedDateTime).getTime() < threshold;
+    });
+
+    if (toDelete.length === 0) {
+      showToast(`Нет вакансий старше ${days} дней`);
+      return;
+    }
+
+    toDelete.forEach((j) => state.deletedIds.add(j.id));
+    setStorage('upwork_deleted_ids', Array.from(state.deletedIds));
+
+    renderCalendarModal();
+    renderJobsFeed();
+    renderSavedFeed();
+    renderDailyReport();
+    updateBadges();
+    showToast(`Удалено устаревших: ${toDelete.length} 🗑️`);
+  }
+
+  function cleanSelectedDateJobs() {
+    triggerHaptic('impact');
+    if (!state.selectedDate || state.selectedDate === 'all') return;
+
+    const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+    const toDelete = activeJobs.filter((j) => {
+      if (!j.publishedDateTime) return false;
+      return j.publishedDateTime.slice(0, 10) === state.selectedDate;
+    });
+
+    if (toDelete.length === 0) {
+      showToast('Нет вакансий за выбранный день');
+      return;
+    }
+
+    toDelete.forEach((j) => state.deletedIds.add(j.id));
+    setStorage('upwork_deleted_ids', Array.from(state.deletedIds));
+
+    const dateName = formatCalendarDateLabel(state.selectedDate);
+    state.selectedDate = 'all';
+
+    renderCalendarModal();
+    renderJobsFeed();
+    renderSavedFeed();
+    renderDailyReport();
+    updateBadges();
+    showToast(`Очищены вакансии за ${dateName}: ${toDelete.length} 🗑️`);
+  }
+
+  function restoreDeletedJobs() {
+    triggerHaptic('impact');
+    const count = state.deletedIds.size;
+    if (count === 0) return;
+
+    state.deletedIds.clear();
+    setStorage('upwork_deleted_ids', []);
+
+    renderCalendarModal();
+    renderJobsFeed();
+    renderSavedFeed();
+    renderDailyReport();
+    updateBadges();
+    showToast(`Восстановлено вакансий: ${count} ♻️`);
+  }
+
+  // ==========================================
   // Theme Management (Light by default / Telegram Dark)
   // ==========================================
   function initTheme() {
@@ -1310,15 +1650,62 @@
     });
 
     // Quick filter chips
-    el.filterChips.querySelectorAll('.chip').forEach((chip) => {
+    el.filterChips.querySelectorAll('.chip[data-filter]').forEach((chip) => {
       chip.addEventListener('click', () => {
         triggerHaptic('selection');
-        el.filterChips.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
+        el.filterChips.querySelectorAll('.chip[data-filter]').forEach((c) => c.classList.remove('active'));
         chip.classList.add('active');
         state.quickFilter = chip.dataset.filter;
         renderJobsFeed();
       });
     });
+
+    // Calendar & Cleanup controls
+    if (el.btnOpenCalendar) {
+      el.btnOpenCalendar.addEventListener('click', openCalendarModal);
+    }
+    if (el.chipCalendarBtn) {
+      el.chipCalendarBtn.addEventListener('click', openCalendarModal);
+    }
+    if (el.btnCloseCalendar) {
+      el.btnCloseCalendar.addEventListener('click', closeCalendarModal);
+    }
+    if (el.btnCloseCalendarFooter) {
+      el.btnCloseCalendarFooter.addEventListener('click', closeCalendarModal);
+    }
+    if (el.modalCalendar) {
+      el.modalCalendar.addEventListener('click', (e) => {
+        if (e.target === el.modalCalendar) {
+          closeCalendarModal();
+        }
+      });
+    }
+
+    if (el.btnResetDateFilter) {
+      el.btnResetDateFilter.addEventListener('click', () => {
+        triggerHaptic('selection');
+        state.selectedDate = 'all';
+        updateCalendarIndicators();
+        renderCalendarModal();
+        renderJobsFeed();
+      });
+    }
+
+    if (el.btnCleanViewed) {
+      el.btnCleanViewed.addEventListener('click', cleanViewedJobs);
+    }
+
+    if (el.btnCleanOlder3d) {
+      el.btnCleanOlder3d.addEventListener('click', () => cleanOlderJobs(3));
+    }
+
+    if (el.btnCleanSelectedDate) {
+      el.btnCleanSelectedDate.addEventListener('click', cleanSelectedDateJobs);
+    }
+
+    if (el.btnRestoreDeleted) {
+      el.btnRestoreDeleted.addEventListener('click', restoreDeletedJobs);
+    }
 
     // Search input
     el.inputSearch.addEventListener('input', (e) => {
@@ -1444,12 +1831,14 @@
       state.filters.onlyUnviewed = false;
       state.quickFilter = 'all';
       state.searchQuery = '';
+      state.selectedDate = 'all';
+      updateCalendarIndicators();
       el.inputSearch.value = '';
       el.filterMinRate.value = 25;
       el.rateValueDisplay.textContent = '$25/hr';
       el.filterUnviewedOnly.checked = false;
 
-      el.filterChips.querySelectorAll('.chip').forEach((c) => c.classList.remove('active'));
+      el.filterChips.querySelectorAll('.chip[data-filter]').forEach((c) => c.classList.remove('active'));
       el.filterChips.querySelector('[data-filter="all"]').classList.add('active');
 
       el.tagsSelector.querySelectorAll('.tag-toggle').forEach((t) => t.classList.remove('active'));
