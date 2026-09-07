@@ -21,7 +21,7 @@
   <!-- html2pdf for client-side styled PDF download -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 
-  <link rel="stylesheet" href="styles.css?v=20260907_3" />
+  <link rel="stylesheet" href="styles.css?v=20260907_4" />
 </head>
 <body>
   <div id="app" class="app-container">
@@ -78,19 +78,33 @@
         <button id="btn-clear-search" class="clear-search hidden">&times;</button>
       </div>
 
-      <!-- Quick Filter Chips -->
-      <div class="filter-chips-wrapper">
-        <div class="filter-chips" id="filter-chips">
-          <button class="chip chip-calendar" id="chip-calendar-btn" title="Select date">
-            <span class="chip-cal-icon">📅</span>
-            <span id="chip-calendar-text">All Dates</span>
-          </button>
-          <button class="chip active" data-filter="all">All Jobs</button>
-          <button class="chip" data-filter="hourly">Hourly Only</button>
-          <button class="chip" data-filter="fixed">Fixed-Price</button>
-          <button class="chip" data-filter="high-rate">$35+/hr</button>
-          <button class="chip" data-filter="unviewed">Unread</button>
+      <!-- Quick Filter Chips Slider / Carousel -->
+      <div class="filter-carousel">
+        <button class="chip-slider-btn chip-slider-prev hidden" id="btn-chip-prev" aria-label="Previous filters" title="Scroll left">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 18 9 12 15 6"></polyline>
+          </svg>
+        </button>
+
+        <div class="filter-chips-wrapper" id="filter-chips-wrapper">
+          <div class="filter-chips" id="filter-chips">
+            <button class="chip chip-calendar" id="chip-calendar-btn" title="Select date">
+              <span class="chip-cal-icon">📅</span>
+              <span id="chip-calendar-text">All Dates</span>
+            </button>
+            <button class="chip active" data-filter="all">All Jobs</button>
+            <button class="chip" data-filter="hourly">Hourly Only</button>
+            <button class="chip" data-filter="fixed">Fixed-Price</button>
+            <button class="chip" data-filter="high-rate">$35+/hr</button>
+            <button class="chip" data-filter="unviewed">Unread</button>
+          </div>
         </div>
+
+        <button class="chip-slider-btn chip-slider-next" id="btn-chip-next" aria-label="Next filters" title="Scroll right">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="9 18 15 12 9 6"></polyline>
+          </svg>
+        </button>
       </div>
     </header>
 
@@ -487,6 +501,6 @@
 
   </div>
 
-  <script src="app.js?v=20260907_3"></script>
+  <script src="app.js?v=20260907_4"></script>
 </body>
 </html>

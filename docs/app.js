@@ -61,6 +61,8 @@
     selectSort: document.getElementById('select-sort'),
     filterChips: document.getElementById('filter-chips'),
     filterChipsWrapper: document.querySelector('.filter-chips-wrapper'),
+    btnChipPrev: document.getElementById('btn-chip-prev'),
+    btnChipNext: document.getElementById('btn-chip-next'),
     searchBox: document.querySelector('.search-box'),
     navJobsBadge: document.getElementById('nav-jobs-badge'),
     navSavedBadge: document.getElementById('nav-saved-badge'),
@@ -1638,16 +1640,91 @@
         if (targetEl) targetEl.classList.add('active');
 
         // Toggle search & filters visibility
+        const filterCarousel = document.querySelector('.filter-carousel');
         if (targetView === 'view-report') {
           if (el.searchBox) el.searchBox.classList.add('hidden');
-          if (el.filterChipsWrapper) el.filterChipsWrapper.classList.add('hidden');
+          if (filterCarousel) filterCarousel.classList.add('hidden');
+          else if (el.filterChipsWrapper) el.filterChipsWrapper.classList.add('hidden');
           renderDailyReport();
         } else {
           if (el.searchBox) el.searchBox.classList.remove('hidden');
-          if (el.filterChipsWrapper) el.filterChipsWrapper.classList.remove('hidden');
+          if (filterCarousel) filterCarousel.classList.remove('hidden');
+          else if (el.filterChipsWrapper) el.filterChipsWrapper.classList.remove('hidden');
+          updateSliderArrows();
         }
       });
     });
+
+    // Filter Chips Slider Logic
+    function updateSliderArrows() {
+      if (!el.filterChipsWrapper) return;
+      const sl = el.filterChipsWrapper.scrollLeft;
+      const maxScroll = el.filterChipsWrapper.scrollWidth - el.filterChipsWrapper.clientWidth;
+
+      if (el.btnChipPrev) {
+        if (sl <= 6) {
+          el.btnChipPrev.classList.add('hidden');
+        } else {
+          el.btnChipPrev.classList.remove('hidden');
+        }
+      }
+
+      if (el.btnChipNext) {
+        if (sl >= maxScroll - 6) {
+          el.btnChipNext.classList.add('hidden');
+        } else {
+          el.btnChipNext.classList.remove('hidden');
+        }
+      }
+    }
+
+    if (el.filterChipsWrapper) {
+      el.filterChipsWrapper.addEventListener('scroll', updateSliderArrows, { passive: true });
+      window.addEventListener('resize', updateSliderArrows);
+
+      // Mouse drag-to-scroll for desktop / Telegram Desktop
+      let isDragging = false;
+      let startX = 0;
+      let startScrollLeft = 0;
+      let dragMoved = false;
+
+      el.filterChipsWrapper.addEventListener('mousedown', (e) => {
+        isDragging = true;
+        dragMoved = false;
+        startX = e.pageX - el.filterChipsWrapper.offsetLeft;
+        startScrollLeft = el.filterChipsWrapper.scrollLeft;
+        el.filterChipsWrapper.classList.add('grabbing');
+      });
+
+      window.addEventListener('mousemove', (e) => {
+        if (!isDragging) return;
+        const x = e.pageX - el.filterChipsWrapper.offsetLeft;
+        const walk = (x - startX) * 1.4;
+        if (Math.abs(walk) > 4) dragMoved = true;
+        el.filterChipsWrapper.scrollLeft = startScrollLeft - walk;
+      });
+
+      window.addEventListener('mouseup', () => {
+        if (isDragging) {
+          isDragging = false;
+          el.filterChipsWrapper.classList.remove('grabbing');
+        }
+      });
+    }
+
+    if (el.btnChipPrev) {
+      el.btnChipPrev.addEventListener('click', () => {
+        triggerHaptic('selection');
+        el.filterChipsWrapper.scrollBy({ left: -160, behavior: 'smooth' });
+      });
+    }
+
+    if (el.btnChipNext) {
+      el.btnChipNext.addEventListener('click', () => {
+        triggerHaptic('selection');
+        el.filterChipsWrapper.scrollBy({ left: 160, behavior: 'smooth' });
+      });
+    }
 
     // Quick filter chips
     el.filterChips.querySelectorAll('.chip[data-filter]').forEach((chip) => {
@@ -1656,16 +1733,23 @@
         el.filterChips.querySelectorAll('.chip[data-filter]').forEach((c) => c.classList.remove('active'));
         chip.classList.add('active');
         state.quickFilter = chip.dataset.filter;
+        chip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
         renderJobsFeed();
       });
     });
 
+    if (el.chipCalendarBtn) {
+      el.chipCalendarBtn.addEventListener('click', () => {
+        el.chipCalendarBtn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+        openCalendarModal();
+      });
+    }
+
+    setTimeout(updateSliderArrows, 150);
+
     // Calendar & Cleanup controls
     if (el.btnOpenCalendar) {
       el.btnOpenCalendar.addEventListener('click', openCalendarModal);
-    }
-    if (el.chipCalendarBtn) {
-      el.chipCalendarBtn.addEventListener('click', openCalendarModal);
     }
     if (el.btnCloseCalendar) {
       el.btnCloseCalendar.addEventListener('click', closeCalendarModal);

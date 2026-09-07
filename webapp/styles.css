@@ -241,12 +241,29 @@ html, body {
   padding: 0 4px;
 }
 
-/* Quick Filter Chips */
-.filter-chips-wrapper {
-  overflow-x: auto;
+/* Quick Filter Chips Slider / Carousel */
+.filter-carousel {
+  position: relative;
+  display: flex;
+  align-items: center;
   margin: 0 -16px;
-  padding: 0 16px;
+  padding: 0 4px;
+}
+
+.filter-chips-wrapper {
+  flex: 1;
+  overflow-x: auto;
+  padding: 2px 16px 6px 16px;
   scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  cursor: grab;
+  user-select: none;
+}
+
+.filter-chips-wrapper.grabbing {
+  cursor: grabbing;
+  scroll-behavior: auto;
 }
 
 .filter-chips-wrapper::-webkit-scrollbar {
@@ -257,6 +274,7 @@ html, body {
   display: flex;
   gap: 8px;
   white-space: nowrap;
+  padding-right: 28px;
 }
 
 .chip {
@@ -268,13 +286,64 @@ html, body {
   font-size: 12px;
   font-weight: 500;
   cursor: pointer;
+  flex-shrink: 0;
   transition: all 0.15s ease;
+  user-select: none;
 }
 
 .chip.active {
   background-color: var(--color-primary);
   color: #ffffff;
   font-weight: 600;
+}
+
+/* Slider Chevron Navigation Buttons */
+.chip-slider-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: opacity 0.2s ease, transform 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body.theme-dark .chip-slider-btn {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.45);
+}
+
+.chip-slider-btn:hover {
+  background-color: var(--bg-pill);
+  color: var(--color-primary);
+  transform: translateY(-50%) scale(1.1);
+}
+
+.chip-slider-btn:active {
+  transform: translateY(-50%) scale(0.92);
+}
+
+.chip-slider-prev {
+  left: 6px;
+}
+
+.chip-slider-next {
+  right: 6px;
+}
+
+.chip-slider-btn.hidden {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-50%) scale(0.7);
 }
 
 /* ==========================================================================
