@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097271785095314494",
+    "ciphertext": "~022097271785095314494",
+    "title": "WordPress Developer for Website Updates",
+    "description": "I’m looking for a 100% honest WordPress developer to update various small issues on my website. You should be able to deliver on time with as few revisions as possible and have at least 5 years of relevant experience. This is an ongoing project, so I expect professionalism and reliable communication. Please quote your fee based on the work you’re able to provide, and do not ask me for my budget first.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 43,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can handle your WordPress updates quickly and efficiently. With over 7 years of experience in PHP, CSS, and custom WordPress development, I specialize in jumping into existing sites, diagnosing issues, and delivering clean, reliable fixes with minimal back-and-forth.\n\nI focus on long-term support and clear communication. For a quick look at the quality of my work, here is a professional site I've developed and maintained: https://about.offerup.com/\n\nSince you requested a quote up front: my rate for ongoing updates and troubleshooting is $45/hour. I work efficiently, respect deadlines, and test all changes thoroughly to ensure zero downtime. \n\nWhat are the first few updates you need completed? Let's chat and get them sorted out.",
+    "publishedDateTime": "2026-09-08T10:33:34+0000",
+    "addedAt": "2026-09-08T10:34:41.618Z",
+    "url": "https://www.upwork.com/jobs/~022097271785095314494",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097271785095314494/apply/"
+  },
+  {
     "id": "2097146701304785837",
     "ciphertext": "~022097146701304785837",
     "title": "Website - Mobile Optimisation",
