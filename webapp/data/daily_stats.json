@@ -1,10 +1,10 @@
 {
   "date": "2026-09-08",
   "lastDigestSentDate": "2026-09-08",
-  "totalScanned": 65,
-  "matchedFilters": 11,
+  "totalScanned": 67,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022097278586162737083",
       "addedAt": "2026-09-08T14:02:38.984Z"
+    },
+    {
+      "title": "WordPress / Elementor / Woo Development / Website Redevelopment",
+      "budget": "Fixed-price",
+      "score": 200,
+      "url": "https://www.upwork.com/jobs/~022097331246123413435",
+      "addedAt": "2026-09-08T17:30:44.329Z"
     },
     {
       "title": "WordPress Developer for Website Updates",
@@ -69,13 +76,6 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022097140080273301404",
       "addedAt": "2026-09-08T01:50:39.076Z"
-    },
-    {
-      "title": "Web Designer/Developer for Property Management Site",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022097341376653900069",
-      "addedAt": "2026-09-08T15:10:40.795Z"
     }
   ]
 }

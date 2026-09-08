@@ -1,5 +1,36 @@
 [
   {
+    "id": "2097331246123413435",
+    "ciphertext": "~022097331246123413435",
+    "title": "WordPress / Elementor / Woo Development / Website Redevelopment",
+    "description": "WordPress / Elementor / WooCommerce Developer — Website Redevelopment\nWe are seeking an experienced WordPress developer to redevelop an existing website into Naples Peptide Alliance (NPA), an educational wellness and peptide platform.\nThis is not a ground-up website build. The existing site currently includes:\n•\tWordPress + Elementor + WooCommerce + ACF\n•\t11 pages\n•\t13 WooCommerce products\n•\t150+ media assets\n•\tExisting Elementor templates and navigation\n•\tExisting Cart, Checkout and My Account infrastructure\n•\tStructured product and glossary fields\nA comprehensive developer handoff has already been completed defining the new website structure, content, visual direction, educational features and functional requirements.\nThe objective is to retain and extend useful existing infrastructure while replacing the outdated public-facing site with the new NPA website.\nRequired Experience\nStrong demonstrated experience with:\n•\tWordPress\n•\tElementor\n•\tWooCommerce\n•\tAdvanced Custom Fields (ACF)\n•\tResponsive website development\n•\tStructured/reusable WordPress content\nProject Structure\nWe prefer a fixed project price, broken into agreed milestones rather than an open-ended hourly engagement.\nPlease include:\n1.\t2–3 examples of comparable WordPress/Elementor/WooCommerce work you personally completed.\n2.\tA brief description of your ACF experience.\n3.\tConfirmation that you are comfortable reviewing our existing site and detailed developer handoff and then providing a fixed-price proposal.\nPlease do not submit a generic WordPress proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-customization",
+      "website",
+      "website-redesign",
+      "wordpress",
+      "woocommerce",
+      "elementor"
+    ],
+    "score": 200,
+    "coverLetter": "Hi! I am completely comfortable reviewing your existing site and detailed developer handoff, and then providing a fixed-price proposal with milestones for the Naples Peptide Alliance (NPA) redevelopment.\n\nMy ACF experience is deep—I regularly use Advanced Custom Fields to build structured, reusable content blocks, custom post types, and custom taxonomies, ensuring editors can easily manage complex data without breaking the Elementor layouts.\n\nHere are two comparable WordPress projects I’ve completed:\n- https://www.thelifeyoucansave.org/\n- https://waapple.org/\n\nI'm ready to dive into your handoff document. When would be a good time to share it so I can prepare your fixed-price estimate?",
+    "publishedDateTime": "2026-09-08T17:29:29+0000",
+    "addedAt": "2026-09-08T17:30:55.058Z",
+    "url": "https://www.upwork.com/jobs/~022097331246123413435",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097331246123413435/apply/"
+  },
+  {
     "id": "2097368410821005829",
     "ciphertext": "~022097368410821005829",
     "title": "Website for Group Travel Trips",
