@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 12,
-  "matchedFilters": 6,
+  "totalScanned": 13,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022097463262479791487",
       "addedAt": "2026-09-08T23:16:38.847Z"
+    },
+    {
+      "title": "Quick Simple Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022097468763289591885",
+      "addedAt": "2026-09-08T23:38:38.601Z"
     }
   ]
 }
