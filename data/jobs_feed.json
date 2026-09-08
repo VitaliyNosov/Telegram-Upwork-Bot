@@ -1,5 +1,37 @@
 [
   {
+    "id": "2097440776418664525",
+    "ciphertext": "~022097440776418664525",
+    "title": "WordPress + SEO Landing Page Specialist for Parking Locations",
+    "description": "We’re looking for a WordPress specialist with basic SEO and copywriting experience to help us build a large library of SEO-optimized location landing pages within an existing custom WordPress CMS.\n\nThis is a high-volume, multi-week project.\n\nOur internal team has established the website, CMS structure and page templates. We need people who can work efficiently within that system to research the right search terms, write clear location-specific copy, and build optimized pages at scale.\n\nWhat You’ll Build\n\nLanding pages will target parking-related searches across several location types, including:\n\n* Cities\n* Neighborhoods and districts\n* Destinations and attractions\n* Sports and entertainment venues\n* Airports\n* Other high-value parking locations\n\nWhat You’ll Do\n\nYou’ll be responsible for creating landing pages within our custom WordPress CMS using established templates, components, and content requirements.\n\nWork will include:\n\n* Researching relevant keywords and search terms for each location\n* Writing concise, useful, SEO-friendly copy for each landing page\n* Creating and formatting pages in WordPress using established templates\n* Implementing proper heading structure and on-page SEO\n* Writing title tags and meta descriptions\n* Optimizing URLs, internal links, image alt text, and other basic SEO elements\n* Connecting relevant parking locations and dynamic content\n* Performing QA before publishing\n* Following an efficient and repeatable page-production process\n* Flagging opportunities to make the CMS or page-building workflow more efficient\n\nWhat We’re Looking For\n\nYou should have experience with:\n\n* WordPress\n* Building and editing pages within an existing CMS\n* Keyword research\n* SEO copywriting\n* On-page SEO\n* Local SEO or location-based content\n* Efficient, repeatable page-production workflows\n* Strong attention to detail\n\nYou do not need to be an advanced SEO strategist or senior WordPress developer. Our internal team will own the broader SEO strategy, analytics, and long-term optimization.\n\nExperience with location-based websites, marketplaces, directories, travel, hospitality, parking, or large-scale landing page projects is a plus.\n\nImportant: This Is a High-Volume Project\n\nWe expect to build thousands of pages over the next several weeks.\n\nThis is not a project where every page will be designed from scratch. We are creating a scalable library of landing pages using established templates and content structures.\n\nWe anticipate a typical landing page will take approximately 10-15 minutes to complete once you are familiar with the CMS and workflow.\n\nBecause of the volume, we may hire multiple freelancers and divide the workload based on availability, quality, and production speed.\n\nOnce the initial page library is built, a full-time internal team member will take over ongoing content management, SEO strategy, analytics, and performance optimization.\n\nWhen applying, please include:\n\n1. Examples of WordPress landing pages or websites you’ve worked on, especially any location-based landing pages.\n2. A brief summary of your experience with keyword research, SEO copywriting, and on-page SEO.\n3. Your weekly availability.\n\nWe are looking for reliable freelancers who can work quickly, follow established guidelines, maintain quality across a high volume of pages, and become an extension of our marketing and web teams for the duration of the project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$20 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "landing-pages",
+      "unbounce",
+      "copywriting",
+      "wordpress",
+      "seo",
+      "seo-keyword-research"
+    ],
+    "score": 3050,
+    "coverLetter": "Hi! Your high-volume location landing page project is a perfect fit for my WordPress and CMS optimization background. I specialize in working efficiently with custom Gutenberg and ACF templates to build clean, structured pages at scale.\n\nTo answer your questions:\n\n1. Examples: You can see my structured WordPress work at https://about.offerup.com/. I am highly comfortable working within established design systems and custom CMS frameworks.\n2. SEO & Copywriting: I have extensive experience with on-page SEO, local SEO formatting, keyword research, and writing concise, high-converting copy that fits strict template guidelines.\n3. Availability: I can dedicate 20–25 hours per week to this project starting immediately and can easily hit your 10-15 minute per page target once onboarded.\n\nWhen are you looking to get started with the first batch?",
+    "publishedDateTime": "2026-09-08T21:45:18+0000",
+    "addedAt": "2026-09-08T21:46:52.501Z",
+    "url": "https://www.upwork.com/jobs/~022097440776418664525",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097440776418664525/apply/"
+  },
+  {
     "id": "2097437677196031359",
     "ciphertext": "~022097437677196031359",
     "title": "Fix Wordpress Backend & Connect Plugins",

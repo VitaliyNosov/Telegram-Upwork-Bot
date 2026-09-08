@@ -1,12 +1,19 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 2,
-  "matchedFilters": 2,
+  "totalScanned": 4,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "WordPress + SEO Landing Page Specialist for Parking Locations",
+      "budget": "$20-$30/hr",
+      "score": 3050,
+      "url": "https://www.upwork.com/jobs/~022097440776418664525",
+      "addedAt": "2026-09-08T21:46:41.515Z"
+    },
     {
       "title": "Fix Wordpress Backend & Connect Plugins",
       "budget": "$5-$25/hr",
