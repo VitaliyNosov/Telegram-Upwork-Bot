@@ -1,5 +1,31 @@
 [
   {
+    "id": "2097326951840232831",
+    "ciphertext": "~022097326951840232831",
+    "title": "WordPress Developer Needed: Build 2 Sister Local Landing Pages (Cloned Design)",
+    "description": "**DO NOT CALL, EMAIL, MESSAGE OUTSIDE OF UPWORK - THIS WILL BE AN IMMEDIATE REJECTION**\n\nWe own two exact-match local domains (CincinnatiPlacentaEncapsulation.com and DaytonPlacentaEncapsulation.com) and want to finally put them to work. We need an experienced WordPress developer/designer to spin up two simple, high-converting \"sister\" landing pages using a clean design cloned/adapted from our existing parent brand layout (Stork Helpers).\n\nWe do not want complex, multi-page sites. These should be fast, lightweight, single-page scroll sites.\n\nThe Scope of Work:\n\nThe Setup / Hosting Implementation: Help deploy these two simple sites (we can utilize subdomain/addon configurations or separate lightweight setups depending on the server environment).\n\nDesign Duplication & Branding: Clone the core design elements over from our existing brand style. Set up a clean text logo for Cincinnati Placenta Encapsulation on one, and Dayton Placenta Encapsulation on the other, ensuring both footer areas clearly state they are operated by Stork Helpers LLC.\n\nPage Structure (One-Page Layout per site):\n\nHero Section: Clear local headline, subheadline, and anchor CTA button.\n\nWhat Is It: A brief, reassuring 3-bullet explanation of the service.\n\nHow It Works: A simple 4-step process (Reserve, Kit Delivery, Pickup & Processing, Final Delivery).\n\nPricing & Packages: Clean, transparent flat-rate pricing blocks.\n\nBooking/Intake Form: A straightforward embedded lead capture form for due dates and hospital/location details.\n\nRequirements:\n\nProven experience building clean, fast WordPress landing pages (Elementor or standard block editor).\n\nStrong eye for simple, conversion-focused layout design.\n\nAbility to execute quickly without unnecessary bloat or multi-page complexity.\n\nWhen applying, please drop a quick note confirming you understand this is a lightweight, single-page sister site build, and include 1-2 examples of simple landing pages you've built.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 22,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I confirm 100% that I understand this is a lightweight, single-page sister site build for your two local domains, cloned and adapted directly from your main Stork Helpers brand without any unnecessary bloat.\n\nI specialize in building fast, high-converting WordPress landing pages using Elementor or standard Gutenberg blocks. I will seamlessly replicate your core brand styling, set up the text logos and required footer disclosures, structure the exact single-page scroll sections with your intake form, and handle the server deployment.\n\nHere is a clean, fast-loading WordPress site from my portfolio: https://www.daysforgirls.org/\n\nAre you planning to host both new landing pages on your existing server account alongside Stork Helpers, or would you like to discuss the best setup?",
+    "publishedDateTime": "2026-09-08T14:13:58+0000",
+    "addedAt": "2026-09-08T14:14:59.873Z",
+    "url": "https://www.upwork.com/jobs/~022097326951840232831",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097326951840232831/apply/"
+  },
+  {
     "id": "2097278586162737083",
     "ciphertext": "~022097278586162737083",
     "title": "WordPress Developer to Launch HR Consulting Site — WooCommerce, Stripe & Forms",

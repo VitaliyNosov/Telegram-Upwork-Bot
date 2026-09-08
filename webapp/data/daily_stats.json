@@ -1,10 +1,10 @@
 {
   "date": "2026-09-08",
   "lastDigestSentDate": "2026-09-08",
-  "totalScanned": 49,
-  "matchedFilters": 7,
+  "totalScanned": 50,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022097271785095314494",
       "addedAt": "2026-09-08T10:34:35.990Z"
+    },
+    {
+      "title": "WordPress Developer Needed: Build 2 Sister Local Landing Pages (Cloned Design)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022097326951840232831",
+      "addedAt": "2026-09-08T14:14:38.910Z"
     },
     {
       "title": "Elementor Landing Page Setup + Header Fix & Conversion Pixel Install (WordPress) funnel",
