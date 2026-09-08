@@ -1,12 +1,19 @@
 {
   "date": "2026-09-08",
   "lastDigestSentDate": "2026-09-08",
-  "totalScanned": 18,
-  "matchedFilters": 3,
+  "totalScanned": 19,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 3
+    "wordpress developer": 4
   },
   "topJobs": [
+    {
+      "title": "WordPress Developer for Website Updates",
+      "budget": "$15-$30/hr",
+      "score": 3141,
+      "url": "https://www.upwork.com/jobs/~022097177723471883181",
+      "addedAt": "2026-09-08T04:22:37.806Z"
+    },
     {
       "title": "Elementor Landing Page Setup + Header Fix & Conversion Pixel Install (WordPress) funnel",
       "budget": "Fixed-price",

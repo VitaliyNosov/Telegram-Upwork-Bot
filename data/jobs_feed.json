@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097177723471883181",
+    "ciphertext": "~022097177723471883181",
+    "title": "WordPress Developer for Website Updates",
+    "description": "We need a developer to update an existing website and improve its overall performance. The work includes making requested changes, refining the user experience, and ensuring the site runs smoothly after updates. You should be comfortable working on an existing project, troubleshooting issues, and delivering reliable results. If you have experience with similar website updates and can communicate clearly throughout the project, we’d like to hear from you.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.55,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 65,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 3141,
+    "coverLetter": "Hi! I can help you update your WordPress site, refine the UX, and optimize its performance to ensure everything runs smoothly.\n\nI specialize in working with existing codebases, diagnosing performance bottlenecks, and writing clean PHP to implement seamless updates. Whether it's optimizing Core Web Vitals, fixing layout issues, or updating plugins without breaking your site, I focus on delivering stable, fast results. You can see an example of my clean, high-performance WordPress work here: https://about.offerup.com/\n\nCould you share the link to your site and a quick list of the updates you need? I'd love to take a look and discuss how we can get started.",
+    "publishedDateTime": "2026-09-08T04:19:58+0000",
+    "addedAt": "2026-09-08T04:22:42.263Z",
+    "url": "https://www.upwork.com/jobs/~022097177723471883181",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097177723471883181/apply/"
+  },
+  {
     "id": "2097166362470031260",
     "ciphertext": "~022097166362470031260",
     "title": "Website Developer for Non-Profit",
