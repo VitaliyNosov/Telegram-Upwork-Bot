@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097166362470031260",
+    "ciphertext": "~022097166362470031260",
+    "title": "Website Developer for Non-Profit",
+    "description": "We need a developer to support a non-profit organization during a 30-day funding challenge. The work includes building and improving the website, creating a donation page, and helping with launch preparation. This is a short-term project for someone who can work quickly, communicate clearly, and help ensure the site is ready for the challenge. Experience with non-profit websites and fast-paced projects is a plus. We will provide a Website Design Plan for developing the website in an accelerated manner. We have secured the website URL.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Your 30-day funding challenge sounds exciting, and I’m ready to help you hit the ground running. I specialize in building fast, secure WordPress sites and have extensive experience working with non-profits. In fact, I developed the website and donation flows for The Life You Can Save (https://www.thelifeyoucansave.org/), so I know exactly how to build high-converting, secure donation pages that perform under pressure.\n\nI can take your Website Design Plan and rapidly turn it into a fully functioning, mobile-responsive WordPress site. I’ll handle the donation page setup (Stripe, PayPal, or your preferred gateway), ensure tracking is configured correctly, and optimize the site's speed so it easily handles peak campaign traffic.\n\nDo you already have a preferred payment gateway selected for the donation page, or would you like some recommendations?",
+    "publishedDateTime": "2026-09-08T03:34:40+0000",
+    "addedAt": "2026-09-08T03:36:42.523Z",
+    "url": "https://www.upwork.com/jobs/~022097166362470031260",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097166362470031260/apply/"
+  },
+  {
     "id": "2097140080273301404",
     "ciphertext": "~022097140080273301404",
     "title": "Custom Admin Report Page for WP Booking System – Booking Summary with Print/PDF Export",
