@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097406106801050117",
+    "ciphertext": "~022097406106801050117",
+    "title": "Website Design & Development",
+    "description": "Seeking a website developer to complete a professional, mobile-responsive business website.\n\nThe project includes standard website pages, a customer quote request form, an internal quote review process, status updates, email notifications, contact forms, testing, and final launch.\n\nExperience with custom forms, quote workflows, admin functionality, and website automation is preferred.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "api",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can build your business website with the custom quote workflow and automated email notifications you need.\n\nTo handle the quote requests and internal review process, I will build a tailored workflow using WordPress, Advanced Custom Fields (ACF), and custom post types. This ensures your team can easily review submissions, update statuses, and trigger automated client emails directly from your dashboard without relying on bloated plugins. I'll also ensure the entire site is fully mobile-responsive, secure, and optimized for speed.\n\nYou can see an example of my clean, highly functional WordPress development here: https://waapple.org/\n\nDo you have a specific email delivery service (like SendGrid or Mailgun) in mind for handling the notifications, or would you like some recommendations to ensure they don't hit spam?",
+    "publishedDateTime": "2026-09-08T19:27:21+0000",
+    "addedAt": "2026-09-08T19:28:48.016Z",
+    "url": "https://www.upwork.com/jobs/~022097406106801050117",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097406106801050117/apply/"
+  },
+  {
     "id": "2097331246123413435",
     "ciphertext": "~022097331246123413435",
     "title": "WordPress / Elementor / Woo Development / Website Redevelopment",
