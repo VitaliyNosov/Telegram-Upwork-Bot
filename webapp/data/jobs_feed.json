@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097449653604296799",
+    "ciphertext": "~022097449653604296799",
+    "title": "Run updates to wordpress site + site speed optimisation",
+    "description": "Looking for Wordpress developer to run some updates to a client site (core wordpress, theme, plug ins) and also do some basic speed optimisation work. Just the basics.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 300,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "page-speed-optimization",
+      "wordpress-website",
+      "wordpress"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can safely run your WordPress core, theme, and plugin updates while ensuring nothing breaks, and then implement those basic speed optimizations to get your load times down. \n\nMy standard process for updates is to create a staging environment or full backup first, so your live site experiences zero downtime or layout issues. For the speed optimization, I'll focus on the high-impact basics: configuring caching, optimizing images, and cleaning up database bloat to give you a fast, stable site. \n\nYou can see an example of a clean, high-performing WordPress site I manage here: https://www.thelifeyoucansave.org/\n\nCould you share the website URL so I can take a quick look at its current setup and speed score?",
+    "publishedDateTime": "2026-09-08T22:20:12+0000",
+    "addedAt": "2026-09-08T22:22:48.909Z",
+    "url": "https://www.upwork.com/jobs/~022097449653604296799",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097449653604296799/apply/"
+  },
+  {
     "id": "2097440776418664525",
     "ciphertext": "~022097440776418664525",
     "title": "WordPress + SEO Landing Page Specialist for Parking Locations",
