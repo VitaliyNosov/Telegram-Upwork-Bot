@@ -1,10 +1,10 @@
 {
   "date": "2026-09-08",
   "lastDigestSentDate": "2026-09-08",
-  "totalScanned": 81,
-  "matchedFilters": 13,
+  "totalScanned": 82,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -50,6 +50,13 @@
       "addedAt": "2026-09-08T14:14:38.910Z"
     },
     {
+      "title": "Healthcare WordPress Developer & SEO Expert Needed to Modernize Neurology/Sleep Clinic Website",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022097411376423741535",
+      "addedAt": "2026-09-08T19:48:38.489Z"
+    },
+    {
       "title": "Elementor Landing Page Setup + Header Fix & Conversion Pixel Install (WordPress) funnel",
       "budget": "Fixed-price",
       "score": 100,
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022097146701304785837",
       "addedAt": "2026-09-08T05:18:39.863Z"
-    },
-    {
-      "title": "Website Design & Development",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022097406106801050117",
-      "addedAt": "2026-09-08T19:28:36.378Z"
     }
   ]
 }
