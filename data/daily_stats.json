@@ -1,12 +1,19 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 1,
-  "matchedFilters": 1,
+  "totalScanned": 2,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Fix Wordpress Backend & Connect Plugins",
+      "budget": "$5-$25/hr",
+      "score": 2700,
+      "url": "https://www.upwork.com/jobs/~022097437677196031359",
+      "addedAt": "2026-09-08T21:34:37.024Z"
+    },
     {
       "title": "Personal Brand Website Designer Needed for CSE Nation",
       "budget": "Fixed-price",

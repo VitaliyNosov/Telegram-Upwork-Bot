@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097437677196031359",
+    "ciphertext": "~022097437677196031359",
+    "title": "Fix Wordpress Backend & Connect Plugins",
+    "description": "Hello! We are looking for someone who can go into our WordPress/WooCommerce website's back end, investigate & fix the issues going on with our plugins that are restricting our ability to update them, and can assist with connecting the \"Artiststore\" plugin successfully. Ideally, this person can also help optimize our website on the back end so it runs faster.\n\nFor the Artiststore plugin specifically, attempts have been made to re-install the plugin, log in to the back end, and reconnect the storefront several times - yet, it comes back saying the platform has not connected to WooCommerce. We believe it has something to do with the issues going on with our other plugins.\n\nWe are looking for someone/a team who:\n- Can diagnose and fix WordPress Plugin issues\n- Is familiar with the WooCommerce and Artiststore platforms",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$5 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-plugin",
+      "wordpress-website",
+      "woocommerce",
+      "plugin-development"
+    ],
+    "score": 2700,
+    "coverLetter": "Hi! A plugin conflict, REST API block, or PHP execution limit is likely preventing your plugin updates and breaking the Artiststore WooCommerce handshake. When storefront connections fail repeatedly despite reinstalling, it usually means underlying REST API endpoints or background cron tasks are being blocked by another backend issue.\n\nI specialize in diagnosing WordPress/WooCommerce plugin conflicts, resolving broken API integrations, and optimizing backend database performance to speed up slow admin panels. I will thoroughly audit your setup, clear whatever is restricting your plugin updates, get Artiststore properly connected to WooCommerce, and optimize your backend performance.\n\nYou can see my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nDo you currently have a staging site set up, or should we run a quick diagnostic on a backup first?",
+    "publishedDateTime": "2026-09-08T21:32:43+0000",
+    "addedAt": "2026-09-08T21:34:56.620Z",
+    "url": "https://www.upwork.com/jobs/~022097437677196031359",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097437677196031359/apply/"
+  },
+  {
     "id": "2097389774742371390",
     "ciphertext": "~022097389774742371390",
     "title": "Personal Brand Website Designer Needed for CSE Nation",
