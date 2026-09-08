@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097378758570687550",
+    "ciphertext": "~022097378758570687550",
+    "title": "WordPress Web Designer & Developer",
+    "description": "About Us:\n\nD&H Contractors is a fast-growing, high-end residential construction company based in Los Angeles. We specialize in full-scale remodels, additions, and new construction — the kind of work that transforms homes and demands precision at every stage. We're in the middle of a strategic rebranding to make sure our online presence matches the caliber of our projects.\n\nWe run a tight, organized operation. We communicate clearly, move quickly, and expect the same from everyone on our team. If you do great work and take ownership of your tasks, you'll fit right in.\n\nWhat We're Looking For :\n\nWe need a skilled WordPress developer and web designer who can take our website and online presence to the next level — and keep it there. This is an ongoing role, not a one-and-done project. We want someone who will become a reliable extension of our team.\nYou must be based in the Americas or Western Europe (we're in Los Angeles, PT — UTC-7/8). Applicants in time zones more than 5 hours ahead will not be considered.\n\nScope of Work\n\nWordPress development — theme customization, page builds, bug fixes, performance optimization\nWebsite redesign support — implementing our rebrand across the site with a strong eye for design consistency, typography, and visual hierarchy\n\nGoogle Business Profile — optimization, and ongoing management\n\nLocal SEO — on-page optimization, structured data (schema markup), NAP consistency, meta tags, image alt text\n\nThird-party platform integration — Google Analytics and Search Console are already connected; next priority is Bing Webmaster Tools, Google Maps, Apple Maps, and broader search engine indexing across all major platforms\n\nOngoing maintenance — keeping the site fast, secure, and up to date\nRequired Skills & Experience\n\nWordPress — strong command of themes, Elementor or similar page builders, and custom CSS/HTML\nFront-end coding — comfortable writing and editing HTML, CSS, and basic JavaScript\n\nBranding & design sensibility — you understand visual identity, brand consistency, and what makes a premium service business look the part online\n\nLocal SEO — hands-on experience with Google Business Profile, schema markup, and on-page optimization\n\nAttention to detail — you catch things before they're flagged. You don't fix one issue and leave three others behind\n\nClear communication — you give status updates proactively, ask smart questions upfront, and don't require repeated instructions\n\nNice to Have:\n\nExperience working with contractors, architecture firms, or home services brands\nFamiliarity with Google Search Console and Core Web Vitals optimization\nPortfolio that includes high-end service businesses or residential real estate\nWhat We Value (Please Read Before Applying)\nWe've worked with contractors who are technically capable but poor communicators — and it costs us time and momentum. We are looking for someone who:\nReads instructions carefully and executes completely, not partially\nFlags blockers early instead of going quiet\nOwns their work — if something isn't right, you fix it without being asked twice\nRespects scope — if we ask you to update the homepage, the homepage gets updated\nCommunicates like a pro — concise, clear, no chasing required\nThis is a long-term engagement for the right person. We reward reliability and quality.\n\nHow to Apply:\n\nPlease include the following in your proposal — applications missing these items will not be reviewed:\n2–3 portfolio examples of WordPress sites you've built or redesigned, ideally for service-based businesses\n\nBrief description of your experience with Google Business Profile and local SEO\nYour time zone and typical availability\n\nOne sentence on what you think makes a great website for a premium home construction company. We read every proposal. Make yours count.\n\nBudget: Fixed-price milestones.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "html5",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I’m based in the EST timezone (3 hours ahead of LA) and fully available during your working hours. To me, a great premium construction website must lead with high-impact, immersive visual storytelling of your craftsmanship, backed by flawless performance and local SEO schema that makes you the obvious local choice.\n\nI specialize in clean WordPress development (including Elementor) and local SEO. I regularly set up schema markup, NAP consistency, and sync Google Business Profile, Bing, and Apple Maps to capture high-value local leads. \n\nHere are two high-end projects I've worked on:\n- https://www.snopud.com/\n- https://about.offerup.com/\n\nDo you have a Figma design ready for the rebrand, or are we building and iterating directly in WordPress?",
+    "publishedDateTime": "2026-09-08T20:38:56+0000",
+    "addedAt": "2026-09-08T20:40:43.822Z",
+    "url": "https://www.upwork.com/jobs/~022097378758570687550",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097378758570687550/apply/"
+  },
+  {
     "id": "2097411376423741535",
     "ciphertext": "~022097411376423741535",
     "title": "Healthcare WordPress Developer & SEO Expert Needed to Modernize Neurology/Sleep Clinic Website",
