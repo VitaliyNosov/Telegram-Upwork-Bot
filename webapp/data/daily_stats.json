@@ -1,10 +1,10 @@
 {
   "date": "2026-09-08",
   "lastDigestSentDate": "2026-09-08",
-  "totalScanned": 51,
-  "matchedFilters": 8,
+  "totalScanned": 52,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022097140080273301404",
       "addedAt": "2026-09-08T01:50:39.076Z"
+    },
+    {
+      "title": "Web Designer/Developer for Property Management Site",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022097341376653900069",
+      "addedAt": "2026-09-08T15:10:40.795Z"
     }
   ]
 }

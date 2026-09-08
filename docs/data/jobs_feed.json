@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097341376653900069",
+    "ciphertext": "~022097341376653900069",
+    "title": "Web Designer/Developer for Property Management Site",
+    "description": "Looking for an experienced web designer/developer to design and build a modern, premium website for HausXM, a growing property management and hospitality company. The site should support a scalable property portfolio, integrate with Hospitable, include a guest inquiry flow, and provide a dedicated experience for property owners and client acquisition.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html5"
+    ],
+    "score": 0,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-08T15:10:14+0000",
+    "addedAt": "2026-09-08T15:10:45.596Z",
+    "url": "https://www.upwork.com/jobs/~022097341376653900069",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097341376653900069/apply/"
+  },
+  {
     "id": "2097326951840232831",
     "ciphertext": "~022097326951840232831",
     "title": "WordPress Developer Needed: Build 2 Sister Local Landing Pages (Cloned Design)",
