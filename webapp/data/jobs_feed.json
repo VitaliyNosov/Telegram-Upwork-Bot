@@ -1,5 +1,31 @@
 [
   {
+    "id": "2097407098376458757",
+    "ciphertext": "~022097407098376458757",
+    "title": "Fix worpress site (php)",
+    "description": "Hello.\n\nWe need a wordpress person to help us update our site and to do some maintenance to it",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$14 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.86,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 3597,
+    "coverLetter": "Hi! I can help you safely update your WordPress site and handle any ongoing maintenance tasks you need.\n\nWith extensive experience in PHP, custom WordPress development, and site troubleshooting, I regularly handle core and plugin updates, fix PHP errors, and resolve update conflicts to keep sites running smoothly without downtime. You can check out one of the live sites I support and maintain here: https://www.thelifeyoucansave.org/\n\nWhen updating, I always back up the site and test PHP/plugin compatibility first to prevent unexpected fatal errors or broken layouts on your live site.\n\nAre you looking to get a quick one-time update done right now, or do you have a list of specific maintenance fixes ready to review?",
+    "publishedDateTime": "2026-09-08T22:31:29+0000",
+    "addedAt": "2026-09-08T22:32:58.895Z",
+    "url": "https://www.upwork.com/jobs/~022097407098376458757",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097407098376458757/apply/"
+  },
+  {
     "id": "2097449653604296799",
     "ciphertext": "~022097449653604296799",
     "title": "Run updates to wordpress site + site speed optimisation",
