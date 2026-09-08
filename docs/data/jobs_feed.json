@@ -1,5 +1,31 @@
 [
   {
+    "id": "2097146701304785837",
+    "ciphertext": "~022097146701304785837",
+    "title": "Website - Mobile Optimisation",
+    "description": "We’re looking for an experienced WordPress and Elementor specialist to optimise an existing four-page website for mobile and tablet devices.\n\nThe website is already designed and built. This is a responsive optimisation project, not a redesign or a new website build.\n\nPages included:\n\n• Home\n• About\n• Services\n• Contact\n\nThe work will include:\n\n• Reviewing every page across mobile and tablet breakpoints\n• Optimising font sizes, line spacing and text wrapping\n• Refining section spacing, padding and margins\n• Ensuring columns stack in the correct order\n• Correcting image sizing, cropping and positioning\n• Improving button sizing, placement and tap accessibility\n• Checking the mobile navigation, header and footer\n• Optimising the contact form for smaller screens\n• Resolving any overflow, overlapping elements or horizontal scrolling\n• Hiding or adjusting elements where required for a cleaner mobile experience\n• Ensuring responsive changes do not negatively affect the existing desktop design\n• Testing the completed website across current iPhone and Android screen sizes, as well as tablet\n\nThe website is built in WordPress using Elementor. Please only apply if you have strong experience working with Elementor’s responsive settings and can provide examples of mobile optimisation work.\n\nPlease provide one fixed, all-inclusive price for completing all four pages. Your quote should include testing, any necessary corrections and one final round of revisions. We are not seeking an hourly arrangement or estimates that may increase once work begins.\n\nWhen applying, please include:\n\n• Your fixed total price\n• Expected turnaround time\n• Relevant Elementor examples\n• A brief explanation of how you test responsive websites\n\nScreenshot of home page attached.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can optimize your 4-page Elementor site for mobile and tablet for a fixed price of $250, completed within 3 days (including thorough testing and one final round of revisions). \n\nTo ensure perfect responsiveness without breaking your desktop layout, I leverage Elementor's native responsive controls combined with custom CSS for precise breakpoint adjustments. For testing, I use Chrome DevTools to simulate various viewport widths during development, followed by live testing on actual physical iOS and Android devices to verify touch targets, navigation menus, and eliminate any horizontal scrolling.\n\nYou can see my clean, highly responsive WordPress work here: https://www.thelifeyoucansave.org/\n\nWould you be open to sharing the URL to the website so I can take a quick look at the current mobile layout?",
+    "publishedDateTime": "2026-09-08T05:16:44+0000",
+    "addedAt": "2026-09-08T05:18:51.546Z",
+    "url": "https://www.upwork.com/jobs/~022097146701304785837",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097146701304785837/apply/"
+  },
+  {
     "id": "2097177723471883181",
     "ciphertext": "~022097177723471883181",
     "title": "WordPress Developer for Website Updates",
