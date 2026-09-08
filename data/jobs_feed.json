@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097463262479791487",
+    "ciphertext": "~022097463262479791487",
+    "title": "E-commerce website build",
+    "description": "I have a current website that imports products from FTP http://www2.hicksinc.com/ \n\nMy site is hosted on godaddy and they are charging way too much. I will share current site once I narrow down people. \n\nI want to rebuild site on Hostinger or something similar host and integrate products.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 108,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "ecommerce-consulting",
+      "e-commerce-website",
+      "wp-ecommerce"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Moving off GoDaddy to a cost-effective host like Hostinger while rebuilding your e-commerce site is a great call. I can handle the full migration, build, and re-integration of your Hicks Inc. FTP product feed so your inventory and catalog updates run reliably in the background.\n\nI specialize in WooCommerce development, site migrations, and automated data/FTP feed integrations. I will ensure your new site is fast, lightweight, and configured properly to handle bulk product imports without overloading your server or slowing down checkout.\n\nHere is an example of a full custom web build from my portfolio: https://waapple.org/\n\nHow often does your current site sync with the FTP feed (e.g., daily cron job or real-time)? I’d love to discuss the details with you in chat.",
+    "publishedDateTime": "2026-09-08T23:14:26+0000",
+    "addedAt": "2026-09-08T23:16:59.318Z",
+    "url": "https://www.upwork.com/jobs/~022097463262479791487",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097463262479791487/apply/"
+  },
+  {
     "id": "2097407098376458757",
     "ciphertext": "~022097407098376458757",
     "title": "Fix worpress site (php)",
