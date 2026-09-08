@@ -1,10 +1,10 @@
 {
   "date": "2026-09-08",
   "lastDigestSentDate": "2026-09-08",
-  "totalScanned": 11,
-  "matchedFilters": 1,
+  "totalScanned": 12,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022097088212846597462",
       "addedAt": "2026-09-07T22:26:36.431Z"
+    },
+    {
+      "title": "Custom Admin Report Page for WP Booking System – Booking Summary with Print/PDF Export",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022097140080273301404",
+      "addedAt": "2026-09-08T01:50:39.076Z"
     }
   ]
 }

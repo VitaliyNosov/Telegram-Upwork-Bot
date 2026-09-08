@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097140080273301404",
+    "ciphertext": "~022097140080273301404",
+    "title": "Custom Admin Report Page for WP Booking System – Booking Summary with Print/PDF Export",
+    "description": "My client runs a campground-style accommodation website built on WordPress (Elementor + Hello Plus theme), using the WP Booking System plugin with Booking Manager, Reports, and Square Payments add-ons.\n\nOur built-in booking reports are confusing to use day-to-day, and we need a custom booking summary/snapshot feature. Ideally we'd like either:\nA daily summary email of all bookings, OR\nThe ability to log in and generate/download a snapshot for a selected date range\n\nThe summary should include: guest names, dates booked, number of guests, campsites/sites booked, and any extras/add-ons selected at checkout (e.g. linen hire, firewood). The main goal is a quick, printable overview so they can prepare the property and organise stock ahead of busy weekends.\n\nThis needs to be built as a standalone custom WordPress admin page/plugin that pulls data from WP Booking System without modifying its core files.\n\nFull technical brief is attached as a Word document (covers filters, layout, color-coding, totals, print/PDF export, and technical requirements in detail). Note: the brief was drafted with AI assistance (Perplexity) for completeness — please review it fully before quoting, and flag anything unclear or that needs adjusting.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "booking-management-system",
+      "wordpress-plugin"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can build this custom reporting plugin for your WP Booking System without touching any core files. I understand you need a clean, printable admin dashboard (or daily email) showing guest names, dates, campsites, and add-ons like linen and firewood so your client can prep their campground easily.\n\nI specialize in custom WordPress plugin development and database queries. I'll create a lightweight, standalone admin page that safely queries the booking database, implements your date-range filters, and formats the output with a clean, print-friendly CSS layout matching your brief. I've built similar custom data-reporting tools for complex WP sites like https://www.cchpca.org/.\n\nI'd love to review your attached Word document to finalize the technical approach. Could you send the brief over in the chat?",
+    "publishedDateTime": "2026-09-08T01:49:35+0000",
+    "addedAt": "2026-09-08T01:50:44.493Z",
+    "url": "https://www.upwork.com/jobs/~022097140080273301404",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097140080273301404/apply/"
+  },
+  {
     "id": "2097088212846597462",
     "ciphertext": "~022097088212846597462",
     "title": "Elementor Landing Page Setup + Header Fix & Conversion Pixel Install (WordPress) funnel",
