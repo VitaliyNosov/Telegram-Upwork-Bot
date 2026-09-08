@@ -1,10 +1,10 @@
 {
   "date": "2026-09-08",
   "lastDigestSentDate": "2026-09-08",
-  "totalScanned": 60,
-  "matchedFilters": 9,
+  "totalScanned": 61,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3141,
       "url": "https://www.upwork.com/jobs/~022097177723471883181",
       "addedAt": "2026-09-08T04:22:37.806Z"
+    },
+    {
+      "title": "Update Existing Framer Website",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022097366281494499845",
+      "addedAt": "2026-09-08T16:50:43.182Z"
     },
     {
       "title": "WordPress Developer to Launch HR Consulting Site — WooCommerce, Stripe & Forms",
