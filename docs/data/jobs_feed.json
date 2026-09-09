@@ -1,5 +1,36 @@
 [
   {
+    "id": "2097735376064334496",
+    "ciphertext": "~022097735376064334496",
+    "title": "Website Updates",
+    "description": "I need updates made to an existing website. It will be updating the homepage (video update, and 2 new menu options) and then adding 3 new pages. \n\nResponsibilities\n- Build interactive front-end experiences \n- Knowledge of Amazon Web Services, especially for video hosting\n- Implement smooth transitions, hover interactions, and video previews\n- Develop custom WordPress templates for portfolio sections\n- Integrate Advanced Custom Fields for easy content editing\n- Maintain Elementor compatibility for simple pages\n\nRequired Skills\n- JavaScript (ES6)\n- GSAP animation library\n- CSS animation / transitions\n- WordPress custom theme development\n- Advanced Custom Fields (ACF)\n- Responsive design",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "html",
+      "javascript",
+      "html5"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can jump right in to update your homepage, integrate the new videos, and build those 3 new custom pages with the smooth transitions you're looking for.\n\nI specialize in custom WordPress development, combining Advanced Custom Fields (ACF) for easy editing with polished front-end interactions using GSAP and modern CSS. I will ensure your video assets are properly optimized and hosted via AWS for fast, seamless loading and hover previews. I also make sure custom templates play perfectly with Elementor so your team can easily manage simpler pages. \n\nYou can see an example of my clean, highly responsive work here: https://about.offerup.com/\n\nDo you have the design assets and video files ready, or are we working from wireframes? Let's chat!",
+    "publishedDateTime": "2026-09-09T17:16:08+0000",
+    "addedAt": "2026-09-09T17:18:51.454Z",
+    "url": "https://www.upwork.com/jobs/~022097735376064334496",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097735376064334496/apply/"
+  },
+  {
     "id": "2097725768818013331",
     "ciphertext": "~022097725768818013331",
     "title": "WooCommerce installation & Setup Specialist Needed – WordPress Elementor",
