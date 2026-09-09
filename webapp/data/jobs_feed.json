@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097721591563135821",
+    "ciphertext": "~022097721591563135821",
+    "title": "Mobile Responsive Design for 4 Page Divi 5 Portfolio Site",
+    "description": "We have a portfolio website built in WordPress using Divi 5. The desktop version is finished and I need the mobile versions of the pages built out to match. Please read all including bottom section in order to be considered.\n\nScope\n\nFour pages total: 1 homepage and 3 case study pages.\nThe desktop layouts are already designed, so this is about adapting them properly for mobile rather than designing from scratch. That includes tablet and phone breakpoints, spacing and typography adjustments, image and section stacking, and making sure navigation, buttons and any animations behave correctly on touch devices.\n\nRequirements\n\n• Hands on experience with Divi 5 specifically, not just Divi 4\n• Work must be done inside Divi's responsive settings, no custom page builder swaps or theme changes\n• Layouts should be tested on standard iOS and Android viewports\n• One round of revisions included after delivery\nTimeline\n• Small, well defined job. I am looking to have this completed within 2 days of starting.\n\nBudget\n\nThis is a budget conscious project. I am not simply picking the lowest number, but of the applicants who can demonstrate solid Divi work, the most competitive quote wins. Please price accordingly.\n\nTo apply, you must please include:\n• Links to two or three live mobile responsive sites you have built or adapted in Divi\n• A brief note on your approach to converting an existing desktop Divi layout to mobile\n• Your quote for all four pages and your availability to start\n\n***Please read before applying***\nApplications without a quote will be rejected. That includes replies that ask for more information before giving a number. If you are unsure of the exact scope, give me a range and tell me what would move the price within it.\n\nCopy and paste or template applications will also be rejected. If your message could have been sent to any other job on this platform, please do not send it.\n\nThanks!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 30,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "divi",
+      "responsive-design",
+      "website-redesign"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! My quote for converting all 4 pages (homepage + 3 case studies) to fully mobile-responsive layouts in Divi 5 is $180 – $240, and I can start today to finish well within your 2-day timeline.\n\nMy approach relies strictly on Divi 5’s native responsive controls: adjusting device-specific viewports, setting fluid mobile typography, reordering flex column stacking, scaling padding/margins, and optimizing touch targets so menus and animations feel natural on iOS and Android.\n\nHere are three live responsive WordPress sites I've built/adapted:\n- https://waapple.org/\n- https://www.thelifeyoucansave.org/\n- https://www.daysforgirls.org/\n\nIf you send over the link to the desktop version, I can review it and get started right away. Would you like to connect in chat?",
+    "publishedDateTime": "2026-09-09T19:21:13+0000",
+    "addedAt": "2026-09-09T19:22:56.808Z",
+    "url": "https://www.upwork.com/jobs/~022097721591563135821",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097721591563135821/apply/"
+  },
+  {
     "id": "2097759009249240669",
     "ciphertext": "~022097759009249240669",
     "title": "Fix Website Menu Issues",
