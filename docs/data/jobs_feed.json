@@ -1,5 +1,39 @@
 [
   {
+    "id": "2097686730497182368",
+    "ciphertext": "~022097686730497182368",
+    "title": "Ui ux designer or web design expert needed for Wordpress website design audit",
+    "description": "Our WordPress store converts under 2 percent, and nobody on the team can say for sure whether that's a UX problem or a WooCommerce checkout issue. Before anyone touches code again we want a full WordPress website design audit, screen by screen, with findings we can actually act on.\n\nThe homepage sets the wrong expectations for what's for sale, and the checkout flow loses people we can see in analytics but can't explain. This calls for UX & UI work grounded in user experience design and user interface design, not guesswork, and it needs to tie back to conversion rate optimization since that's the number the owners actually care about. The web design itself hasn't changed since the store launched, so a website redesign is very much on the table if the audit points that way.\n\nIf we move forward past the audit, the rebuild needs someone equally comfortable in theme files and inside Elementor: real WordPress development skill, plus PHP for anywhere the page builder runs out of road. A new landing page for paid traffic campaigns and a WordPress theme refresh are both part of that phase. Custom sections need proper HTML and CSS underneath. JavaScript matters too, for anything that responds to user input in real time. Keep an eye on HTML5 markup that holds up on older phones, since a chunk of the traffic to the WordPress website still comes from budget Android devices.\n\nLogo design and general graphic design work are part of the brief too. The brand identity right now is a placeholder someone put together in Canva years ago. Figma for design files, Adobe Photoshop or Adobe Illustrator for anything hand-drawn. If you've built on both WordPress and Shopify, tell us honestly which one you'd put a store our size on. That decision keeps coming up internally and we want an outside opinion.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "landing-pages",
+      "figma",
+      "elementor",
+      "html",
+      "css",
+      "graphic-design",
+      "wordpress-website"
+    ],
+    "score": 4150,
+    "coverLetter": "Hi! To answer your question on WooCommerce vs. Shopify: WooCommerce is the right choice for a store your size when you need deep UI/UX customization, custom landing pages, and lightweight PHP/JS code for budget Android phones without running into platform restrictions or extra transaction fees.\n\nI can conduct a screen-by-screen UX and WooCommerce checkout audit to pinpoint exactly why traffic is dropping off before anyone touches the code. I specialize in CRO, bridging Figma designs into Elementor with clean custom PHP/CSS, and visual branding in Illustrator. You can check out a custom WordPress site I've developed here: https://www.thelifeyoucansave.org/\n\nAre you open to sharing your store URL so I can take a quick preliminary look before we chat?",
+    "publishedDateTime": "2026-09-09T14:01:50+0000",
+    "addedAt": "2026-09-09T14:03:00.807Z",
+    "url": "https://www.upwork.com/jobs/~022097686730497182368",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097686730497182368/apply/"
+  },
+  {
     "id": "2097637330411571613",
     "ciphertext": "~022097637330411571613",
     "title": "Shopify Website Build for Industry Conference/Event",

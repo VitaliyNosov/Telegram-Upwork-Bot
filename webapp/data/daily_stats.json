@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 61,
-  "matchedFilters": 16,
+  "totalScanned": 62,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 2
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 4150,
       "url": "https://www.upwork.com/jobs/~022097601640898195387",
       "addedAt": "2026-09-09T08:26:36.470Z"
+    },
+    {
+      "title": "Ui ux designer or web design expert needed for Wordpress website design audit",
+      "budget": "$20-$40/hr",
+      "score": 4150,
+      "url": "https://www.upwork.com/jobs/~022097686730497182368",
+      "addedAt": "2026-09-09T14:02:37.829Z"
     },
     {
       "title": "Fix worpress site (php)",
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022097449653604296799",
       "addedAt": "2026-09-08T22:22:37.788Z"
-    },
-    {
-      "title": "Shopify Website Build for Industry Conference/Event",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022097637330411571613",
-      "addedAt": "2026-09-09T13:46:44.085Z"
     }
   ]
 }
