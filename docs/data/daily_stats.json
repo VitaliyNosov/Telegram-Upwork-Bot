@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 42,
-  "matchedFilters": 11,
+  "totalScanned": 43,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 7600,
       "url": "https://www.upwork.com/jobs/~022097476312797716557",
       "addedAt": "2026-09-09T00:07:12.699Z"
+    },
+    {
+      "title": "Senior WooCommerce + Google Merchant Center Developer Needed – GLA / Sale Price Sync Debugging",
+      "budget": "$20-$40/hr",
+      "score": 4150,
+      "url": "https://www.upwork.com/jobs/~022097601640898195387",
+      "addedAt": "2026-09-09T08:26:36.470Z"
     },
     {
       "title": "Fix worpress site (php)",
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022097494283392348091",
       "addedAt": "2026-09-09T01:18:37.711Z"
-    },
-    {
-      "title": "WordPress Developer for Emergency Fixes",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022097541476485051775",
-      "addedAt": "2026-09-09T04:26:36.259Z"
     }
   ]
 }
