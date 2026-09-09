@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097541476485051775",
+    "ciphertext": "~022097541476485051775",
+    "title": "WordPress Developer for Emergency Fixes",
+    "description": "We run an educational WordPress site built on LearnDash, WooCommerce, Divi, and Wordfence, hosted on SiteGround managed hosting. We need an experienced WordPress developer to step in for urgent fixes when our regular developer is unavailable. \n\nTypical issues you'd handle:\n•\tA user or admin locked out by the Wordfence firewall\n•\tA plugin/theme update causing a fatal PHP error \n•\tCheckout, membership, or course-access issues in WooCommerce/LearnDash\n•\tGeneral \"something's wrong and the site's down\" troubleshooting\n\nRequirements:\n•\tStrong PHP and WordPress debugging skills (reading error logs, isolating faulty plugins/themes, safe rollback)\n•\tHands-on experience with LearnDash, WooCommerce, Wordfence, and Divi \n•\tFast response time when contacted - this is an emergency-cover role\n\nFast response time is essential for this emergency-cover role.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "css"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can act as your reliable, fast-response backup developer to step in whenever urgent issues pop up on your site. I specialize in rapid PHP debugging, resolving fatal update errors, and fixing broken WooCommerce and membership/course access workflows.\n\nI work regularly with Divi, WooCommerce, and Wordfence—including clearing firewall lockouts, unblocking users, and resolving plugin conflicts. Whether it's diagnosing fatal errors through server logs, troubleshooting LearnDash access issues, or performing safe rollbacks on SiteGround managed hosting, I know how to quickly isolate the root cause and bring the site back up safely.\n\nHere is an example of a live high-traffic site I maintain: https://www.thelifeyoucansave.org/\n\nI am available for on-call emergency support and respond quickly when contacted. Do you currently have any pending issues or site bugs that need immediate attention?",
+    "publishedDateTime": "2026-09-09T04:25:20+0000",
+    "addedAt": "2026-09-09T04:26:55.882Z",
+    "url": "https://www.upwork.com/jobs/~022097541476485051775",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097541476485051775/apply/"
+  },
+  {
     "id": "2097494283392348091",
     "ciphertext": "~022097494283392348091",
     "title": "Wordpress Technical Assistant",

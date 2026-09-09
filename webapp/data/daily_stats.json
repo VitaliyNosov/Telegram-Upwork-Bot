@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 30,
-  "matchedFilters": 9,
+  "totalScanned": 31,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -69,6 +69,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022097494283392348091",
       "addedAt": "2026-09-09T01:18:37.711Z"
+    },
+    {
+      "title": "WordPress Developer for Emergency Fixes",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022097541476485051775",
+      "addedAt": "2026-09-09T04:26:36.259Z"
     }
   ]
 }
