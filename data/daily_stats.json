@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 87,
-  "matchedFilters": 22,
+  "totalScanned": 88,
+  "matchedFilters": 23,
   "byKeyword": {
-    "wordpress developer": 20,
+    "wordpress developer": 21,
     "woocommerce": 2
   },
   "topJobs": [
@@ -65,18 +65,18 @@
       "addedAt": "2026-09-08T22:32:39.817Z"
     },
     {
+      "title": "Fix Website Menu Issues",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022097759009249240669",
+      "addedAt": "2026-09-09T18:50:37.252Z"
+    },
+    {
       "title": "WordPress + SEO Landing Page Specialist for Parking Locations",
       "budget": "$20-$30/hr",
       "score": 3050,
       "url": "https://www.upwork.com/jobs/~022097440776418664525",
       "addedAt": "2026-09-08T21:46:41.515Z"
-    },
-    {
-      "title": "Configurable NAS online eCommerce store",
-      "budget": "$12-$27/hr",
-      "score": 2800,
-      "url": "https://www.upwork.com/jobs/~022097609240788995009",
-      "addedAt": "2026-09-09T11:54:37.785Z"
     }
   ]
 }

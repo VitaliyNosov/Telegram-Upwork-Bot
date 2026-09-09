@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097759009249240669",
+    "ciphertext": "~022097759009249240669",
+    "title": "Fix Website Menu Issues",
+    "description": "Need help resolving menu issues on both desktop and mobile. The menu does not always appear on certain pages or fails to work properly. I want a consistent menu experience across the site and improved functionality without changing the current sitemap or headers. Some pages also need better mobile display while keeping the overall structure the same.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 42,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "css",
+      "php",
+      "web-programming"
+    ],
+    "score": 3100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-09T18:49:51+0000",
+    "addedAt": "2026-09-09T18:51:01.694Z",
+    "url": "https://www.upwork.com/jobs/~022097759009249240669",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097759009249240669/apply/"
+  },
+  {
     "id": "2097738532635947607",
     "ciphertext": "~022097738532635947607",
     "title": "WordPress Website for Excavation Services",
