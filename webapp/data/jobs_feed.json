@@ -1,5 +1,35 @@
 [
   {
+    "id": "2097725768818013331",
+    "ciphertext": "~022097725768818013331",
+    "title": "WooCommerce installation & Setup Specialist Needed – WordPress Elementor",
+    "description": "We’re looking for an experienced WordPress, WooCommerce, and Elementor developer to add and properly set up 10 products/variations on our existing website.\n\nThe main task is to ensure the product is added correctly to WooCommerce and displayed professionally on the website using Elementor. You should be comfortable working with WooCommerce product settings, variations, pricing, images, attributes, inventory, product descriptions, and Elementor-based layouts. \n\nYou’ll also need to make sure the Add to Cart and checkout functionality works correctly and that everything looks good on desktop and mobile.\n\nWe’re looking for someone who has solid experience with WooCommerce product setup and Elementor and can complete the work accurately without affecting the existing website.\n\nSkills/tags:\nWordPress \nWooCommerce \nElementor\nEcommerce Website\nWordPress Development\nPHP",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$20 - $25/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 33,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wp-ecommerce",
+      "elementor",
+      "woocommerce",
+      "wordpress-website",
+      "wordpress-theme"
+    ],
+    "score": 2650,
+    "coverLetter": "Hi! I can help you set up and configure those 10 WooCommerce products and variations, ensuring they display beautifully on your Elementor site without disrupting your live setup.\n\nI specialize in WooCommerce and Elementor development, regularly handling complex product attributes, variations, inventory, and custom layouts. I'll make sure your product pages look polished, the \"Add to Cart\" flow works flawlessly on both desktop and mobile, and the checkout process is fully tested. You can see an example of my clean WordPress implementation here: https://www.thelifeyoucansave.org/\n\nAre the product images, descriptions, and variation details ready to go, or would you like me to review your current Elementor setup first?",
+    "publishedDateTime": "2026-09-09T16:37:36+0000",
+    "addedAt": "2026-09-09T16:38:51.473Z",
+    "url": "https://www.upwork.com/jobs/~022097725768818013331",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097725768818013331/apply/"
+  },
+  {
     "id": "2097720979589739667",
     "ciphertext": "~022097720979589739667",
     "title": "WordPress / GeoDirectory Developer",
