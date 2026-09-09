@@ -1,5 +1,35 @@
 [
   {
+    "id": "2097826080822311525",
+    "ciphertext": "~022097826080822311525",
+    "title": "Debug issue with Jotform and Wordpress/Elementor website",
+    "description": "Our website has an issue where dropdown menus are failing to respond sometimes. The dropdown menus are from Jotform, and something is causing them to not work correctly. This is something that recently started happening with no changes to our website and we need to help identify the root cause to push Jotform to fix these issues. \n\nThe issue doesn't occur if you access the Jotform directly, but it does occur on Macintosh computers using Chrome, only when forms are embedded on our website. \n\nWe need to figure out what exactly is causing the conflict between Jotform and Wordpress/Elementor to cause this issue. We have tried disabling different plugins, but nothing so far has revealed the root cause. \n\nWe need debugging information that tells us EXACTLY what the root cause is of this issue, so that we can either fix it ourselves, or if it turns out is in Jotform's code, that we can insist that they fix it, or find some workaround to the issue.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$25 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 37,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor",
+      "css",
+      "wordpress-plugin",
+      "jotform"
+    ],
+    "score": 6099,
+    "coverLetter": "Hi! Specific browser/OS conflicts like this—occurring only on macOS Chrome with embedded Jotforms—are usually caused by iframe focus traps, CSS `pointer-events` collisions, or how Elementor handles event delegation for dynamic scripts.\n\nI specialize in advanced WordPress, Elementor, and JavaScript debugging. I will inspect the active DOM event listeners, iframe communication scripts, and rendering stack to locate the exact root cause. You’ll receive a complete technical breakdown explaining the precise conflict, along with a custom CSS/JS workaround if the fix requires bypassing Jotform’s code on your site.\n\nYou can view my technical WordPress work on projects like https://about.offerup.com/.\n\nCould you share the URL to the affected page so I can inspect it on macOS Chrome right away?",
+    "publishedDateTime": "2026-09-09T23:15:48+0000",
+    "addedAt": "2026-09-09T23:17:34.451Z",
+    "url": "https://www.upwork.com/jobs/~022097826080822311525",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097826080822311525/apply/"
+  },
+  {
     "id": "2097819246365362848",
     "ciphertext": "~022097819246365362848",
     "title": "Elementor Site Speed Improvement with No Plugins",

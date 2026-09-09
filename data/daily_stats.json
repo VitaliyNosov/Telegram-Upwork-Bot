@@ -1,12 +1,19 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 6,
-  "matchedFilters": 1,
+  "totalScanned": 7,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Debug issue with Jotform and Wordpress/Elementor website",
+      "budget": "$25-$60/hr",
+      "score": 6099,
+      "url": "https://www.upwork.com/jobs/~022097826080822311525",
+      "addedAt": "2026-09-09T23:17:14.156Z"
+    },
     {
       "title": "Elementor Site Speed Improvement with No Plugins",
       "budget": "$15-$50/hr",
