@@ -1,12 +1,19 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 15,
-  "matchedFilters": 7,
+  "totalScanned": 16,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
+    {
+      "title": "Website Backend Review",
+      "budget": "$15-$75/hr",
+      "score": 7600,
+      "url": "https://www.upwork.com/jobs/~022097476312797716557",
+      "addedAt": "2026-09-09T00:07:12.699Z"
+    },
     {
       "title": "Fix worpress site (php)",
       "budget": "$14-$35/hr",
