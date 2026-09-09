@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097689608899181157",
+    "ciphertext": "~022097689608899181157",
+    "title": "Magento to WordPress Migration",
+    "description": "I need help migrating a website from Magento to WordPress. We can use WooCommerce, but I’m open to other solutions if they work better. The site must support Vertex for sales tax and Cybersource for payments. Please share relevant experience with similar migrations and how you would handle the transition smoothly.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 39,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "mysql",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 3649,
+    "coverLetter": "Hi! Migrating from Magento to WooCommerce requires a precise database transfer to ensure you don't lose customer data, order history, or search engine rankings. \n\nWith my deep background in PHP, MySQL, and WooCommerce customization, I can handle this transition seamlessly. I will configure Vertex for automated sales tax calculations and integrate the Cybersource payment gateway securely. To ensure zero downtime, I'll build and test the entire checkout flow on a staging environment before going live.\n\nYou can see an example of my robust WordPress development and integration work here: https://www.thelifeyoucansave.org/\n\nHow many products and customer records are we migrating from your current Magento store?",
+    "publishedDateTime": "2026-09-09T14:13:53+0000",
+    "addedAt": "2026-09-09T14:14:53.131Z",
+    "url": "https://www.upwork.com/jobs/~022097689608899181157",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097689608899181157/apply/"
+  },
+  {
     "id": "2097686730497182368",
     "ciphertext": "~022097686730497182368",
     "title": "Ui ux designer or web design expert needed for Wordpress website design audit",

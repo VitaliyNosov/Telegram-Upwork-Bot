@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 62,
-  "matchedFilters": 17,
+  "totalScanned": 63,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 15,
+    "wordpress developer": 16,
     "woocommerce": 2
   },
   "topJobs": [
@@ -44,6 +44,13 @@
       "addedAt": "2026-09-09T14:02:37.829Z"
     },
     {
+      "title": "Magento to WordPress Migration",
+      "budget": "$15-$35/hr",
+      "score": 3649,
+      "url": "https://www.upwork.com/jobs/~022097689608899181157",
+      "addedAt": "2026-09-09T14:14:41.244Z"
+    },
+    {
       "title": "Fix worpress site (php)",
       "budget": "$14-$35/hr",
       "score": 3597,
@@ -70,13 +77,6 @@
       "score": 2700,
       "url": "https://www.upwork.com/jobs/~022097437677196031359",
       "addedAt": "2026-09-08T21:34:37.024Z"
-    },
-    {
-      "title": "Run updates to wordpress site + site speed optimisation",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022097449653604296799",
-      "addedAt": "2026-09-08T22:22:37.788Z"
     }
   ]
 }
