@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097633552703540458",
+    "ciphertext": "~022097633552703540458",
+    "title": "Part-Time AI-First Web Developer",
+    "description": "I run a small marketing consultancy (Zero Eight) with a handful of B2B clients and my own startup, and I need a developer to own the website work across them. Some of it is a new stack: Figma to Claude Code, deployed on Vercel with Next.js and Sanity. Some of it is traditional work on existing WordPress sites, custom themes, fixes, new pages and landing pages for clients who aren't moving anywhere. Both matter, and I need one person who's good at both.\n\nHow we work is AI-first. I use Claude Code daily and I expect you to as well, whether the job is a Next.js page or a WordPress template. That means running builds from my briefs and the designer's Figma files, reviewing what the AI produces before it goes live, and knowing enough to catch what it gets wrong. If you think AI coding tools are a gimmick, this isn't for you. If you already work this way, you'll fit in fast.\n\nBeyond the builds, you'd own the repos, environments and access, site launches (redirects, DNS, tracking), keeping Sanity set up so my team can edit content without you, and telling me straight when something shouldn't be done the fast way.\n\nYou need production experience with Next.js and Vercel, Sanity or a comparable headless CMS, WordPress including custom theme work, and building from Figma. Clear, direct written English, because almost everything happens in Slack and pull request comments. Australian or US-friendly hours with a few hours of overlap a week. And you need to be comfortable with a founder who moves fast and will push you to be more AI-first, not less.\n\nRoughly 5 to 15 hours a week, ongoing, hourly. More in launch weeks, less in quiet ones. Async by default, one short call a week at most.\n\nShortlisted applicants will be asked to do a short test. It should take about 10 minutes and it's how I'll decide who to interview.\n\nIf you contact me outside of Upwork, you'll be ineligible.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$25 - $45/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 227,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "html5",
+      "javascript",
+      "html"
+    ],
+    "score": 4599,
+    "coverLetter": "Hi! I love your AI-first approach. I already use LLMs daily to speed up boilerplate and debugging, leaving me more time to focus on architecture, performance, and catching the edge cases AI misses. \n\nI fit your dual stack perfectly. On the headless side, I work with Next.js, Vercel, and modern headless CMS integrations. On the traditional side, I specialize in custom WordPress theme development from Figma, managing repos, and handling DNS/deployments. For example, I've built and maintained high-performance custom WordPress sites like https://about.offerup.com/.\n\nI'm completely comfortable with async Slack communication, US-friendly hours, and a fast-paced environment. I'm ready to take your 10-minute test whenever you are.\n\nWhen would you like to send it over?",
+    "publishedDateTime": "2026-09-09T10:30:52+0000",
+    "addedAt": "2026-09-09T10:32:49.551Z",
+    "url": "https://www.upwork.com/jobs/~022097633552703540458",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097633552703540458/apply/"
+  },
+  {
     "id": "2097601640898195387",
     "ciphertext": "~022097601640898195387",
     "title": "Senior WooCommerce + Google Merchant Center Developer Needed – GLA / Sale Price Sync Debugging",
