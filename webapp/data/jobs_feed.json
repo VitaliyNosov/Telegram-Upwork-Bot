@@ -1,5 +1,31 @@
 [
   {
+    "id": "2097784772123343166",
+    "ciphertext": "~022097784772123343166",
+    "title": "WordPress / Kadence Designer-Developer",
+    "description": "WordPress/Kadence Designer for Industrial Corporate Website:\n\nWe are seeking an experienced WordPress designer-developer to build the corporate website for mWarehouse, a purpose-built micro-bay industrial platform serving contractors, service companies, suppliers and other growing businesses. \n\nThe visual direction, page structure, copy, brand assets and technical specifications are already substantially developed. This is primarily a disciplined implementation assignment, not an open-ended branding or redesign project.\n\nThe selected designer should be comfortable translating approved mockups and detailed specifications into a clean, responsive and maintainable WordPress site with strong visual fidelity, performance and usability.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 20,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! Your project for mWarehouse sounds like a perfect fit. Since you already have the visual direction, assets, and specifications ready, I can focus entirely on what I do best: executing a pixel-perfect, highly performant, and clean WordPress build. \n\nI specialize in translating approved design mockups into fast, responsive WordPress sites using Kadence and Gutenberg. My development process focuses on clean code, responsiveness, and Core Web Vitals optimization, ensuring the mWarehouse site loads instantly and remains easy for your team to manage. \n\nYou can see an example of my clean, structured corporate implementation work here: https://about.offerup.com/\n\nAre your mockups currently in Figma, or another format? I'd love to take a quick look and discuss the timeline for bringing mWarehouse online.",
+    "publishedDateTime": "2026-09-09T20:31:47+0000",
+    "addedAt": "2026-09-09T20:32:43.448Z",
+    "url": "https://www.upwork.com/jobs/~022097784772123343166",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097784772123343166/apply/"
+  },
+  {
     "id": "2097721591563135821",
     "ciphertext": "~022097721591563135821",
     "title": "Mobile Responsive Design for 4 Page Divi 5 Portfolio Site",
