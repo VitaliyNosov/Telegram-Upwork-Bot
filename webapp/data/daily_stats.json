@@ -1,82 +1,8 @@
 {
-  "date": "2026-09-09",
-  "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 106,
-  "matchedFilters": 26,
-  "byKeyword": {
-    "wordpress developer": 24,
-    "woocommerce": 2
-  },
-  "topJobs": [
-    {
-      "title": "Website Backend Review",
-      "budget": "$15-$75/hr",
-      "score": 7600,
-      "url": "https://www.upwork.com/jobs/~022097476312797716557",
-      "addedAt": "2026-09-09T00:07:12.699Z"
-    },
-    {
-      "title": "Custom WordPress dentist directory - migrate off a plugin, rebuild US city pages",
-      "budget": "$40-$75/hr",
-      "score": 7599,
-      "url": "https://www.upwork.com/jobs/~022097640632181181674",
-      "addedAt": "2026-09-09T11:00:41.379Z"
-    },
-    {
-      "title": "Part-Time AI-First Web Developer",
-      "budget": "$25-$45/hr",
-      "score": 4599,
-      "url": "https://www.upwork.com/jobs/~022097633552703540458",
-      "addedAt": "2026-09-09T10:32:39.294Z"
-    },
-    {
-      "title": "Senior WooCommerce + Google Merchant Center Developer Needed – GLA / Sale Price Sync Debugging",
-      "budget": "$20-$40/hr",
-      "score": 4150,
-      "url": "https://www.upwork.com/jobs/~022097601640898195387",
-      "addedAt": "2026-09-09T08:26:36.470Z"
-    },
-    {
-      "title": "Ui ux designer or web design expert needed for Wordpress website design audit",
-      "budget": "$20-$40/hr",
-      "score": 4150,
-      "url": "https://www.upwork.com/jobs/~022097686730497182368",
-      "addedAt": "2026-09-09T14:02:37.829Z"
-    },
-    {
-      "title": "WordPress / GeoDirectory Developer",
-      "budget": "$10-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022097720979589739667",
-      "addedAt": "2026-09-09T16:18:38.031Z"
-    },
-    {
-      "title": "Magento to WordPress Migration",
-      "budget": "$15-$35/hr",
-      "score": 3649,
-      "url": "https://www.upwork.com/jobs/~022097689608899181157",
-      "addedAt": "2026-09-09T14:14:41.244Z"
-    },
-    {
-      "title": "Fix worpress site (php)",
-      "budget": "$14-$35/hr",
-      "score": 3597,
-      "url": "https://www.upwork.com/jobs/~022097407098376458757",
-      "addedAt": "2026-09-08T22:32:39.817Z"
-    },
-    {
-      "title": "Fix Website Menu Issues",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022097759009249240669",
-      "addedAt": "2026-09-09T18:50:37.252Z"
-    },
-    {
-      "title": "WordPress + SEO Landing Page Specialist for Parking Locations",
-      "budget": "$20-$30/hr",
-      "score": 3050,
-      "url": "https://www.upwork.com/jobs/~022097440776418664525",
-      "addedAt": "2026-09-08T21:46:41.515Z"
-    }
-  ]
+  "date": "2026-09-10",
+  "lastDigestSentDate": "2026-09-10",
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
