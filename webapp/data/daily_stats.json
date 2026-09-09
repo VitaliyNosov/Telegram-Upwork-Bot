@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 53,
-  "matchedFilters": 13,
+  "totalScanned": 54,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 7600,
       "url": "https://www.upwork.com/jobs/~022097476312797716557",
       "addedAt": "2026-09-09T00:07:12.699Z"
+    },
+    {
+      "title": "Custom WordPress dentist directory - migrate off a plugin, rebuild US city pages",
+      "budget": "$40-$75/hr",
+      "score": 7599,
+      "url": "https://www.upwork.com/jobs/~022097640632181181674",
+      "addedAt": "2026-09-09T11:00:41.379Z"
     },
     {
       "title": "Part-Time AI-First Web Developer",
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022097463262479791487",
       "addedAt": "2026-09-08T23:16:38.847Z"
-    },
-    {
-      "title": "Quick Simple Website",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022097468763289591885",
-      "addedAt": "2026-09-08T23:38:38.601Z"
     }
   ]
 }

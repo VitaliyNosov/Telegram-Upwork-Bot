@@ -1,5 +1,36 @@
 [
   {
+    "id": "2097640632181181674",
+    "ciphertext": "~022097640632181181674",
+    "title": "Custom WordPress dentist directory - migrate off a plugin, rebuild US city pages",
+    "description": "We already run a US dentist directory on WordPress. It was built with a location-page plugin and has tens of thousands of city/state URLs.\n\nSearch is broken: location URLs canonicalize to a parent hub, invented slugs return 200 instead of 404, and most pages are thin templates. We want a custom directory. No GeoDirectory, ListingPro, or other city-page plugin.\n\nWhat we need:\n- Custom WordPress: states, cities, practices, and which practices serve which cities\n- City and listing templates\n- Bulk import of dentists, not building the list by hand. Ingest practices that match how patients search: emergency, walk-in, after-hours, 24-hour. Store those attributes so city pages can filter and display them\n- Published city pages should show at least five matching practices. \n- City copy that is actually local: landmarks, neighborhoods, after-hours context. Shared boilerplate under about 40% of the page\n\nTechnical bar:\n- Only published locations get a live URL. Fake city/state/page slugs return 404\n- Published city and practice URLs self-canonical, not to a hub\n- Sitemap of indexable URLs only\n- Migration off the current URL set: 301 pages worth keeping, 410/404 the rest. Do not mass-redirect tens of thousands of thin URLs onto a few hubs\n- Remove the old plugin after cutover\n\nDone when cities are filled from an import, pages have distinct local copy, self-canonical, and sit in the sitemap; a fake slug 404s; the old plugin is gone.\n\nTo apply, answer all of these:\n1. A custom WP directory you built (not an off-the-shelf directory plugin). What did the URLs look like?\n2. How have you migrated a large plugin-generated URL set without wrecking indexation?\n3. How do you 404 unknown slugs and keep published URLs self-canonical?\n4. How would you import dentists at US scale and tag emergency / walk-in / after-hours / 24-hour without inventing listings? What data source or method would you use?\n5. How would you keep each city page unique and valuable so pages do not share more than about 40% of the copy?\n6. Your rate and hours per week.\n\nDo not apply if the plan is another directory plugin or city-name find-and-replace.",
+    "isHourly": true,
+    "hourlyBudgetMin": 40,
+    "hourlyBudgetMax": 75,
+    "budgetDisplay": "$40 - $75/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 69,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "custom-php",
+      "mysql",
+      "wordpress-website",
+      "technical-seo",
+      "data-migration"
+    ],
+    "score": 7599,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-09T10:59:20+0000",
+    "addedAt": "2026-09-09T11:00:54.273Z",
+    "url": "https://www.upwork.com/jobs/~022097640632181181674",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097640632181181674/apply/"
+  },
+  {
     "id": "2097633552703540458",
     "ciphertext": "~022097633552703540458",
     "title": "Part-Time AI-First Web Developer",
