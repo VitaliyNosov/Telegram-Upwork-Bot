@@ -1,5 +1,35 @@
 [
   {
+    "id": "2097609240788995009",
+    "ciphertext": "~022097609240788995009",
+    "title": "Configurable NAS online eCommerce store",
+    "description": "Project overview\nWe need a focused first-release eCommerce website for selling configurable NAS systems. Customers should choose a NAS, add options for their needs, then buy and pay for the configured system online. A broader custom configurator is out of scope for this initial budget.\nWebsite requirements\n\n    A new eCommerce website\n    A back-end database\n    A customer-facing flow to choose a NAS and add configuration options\n    Online checkout and payment for configured systems\n    Order data made available to the existing accounting package for internal processing\n\nAssembly and burn-in\nConfigured systems require HDD assembly and burn-in testing before dispatch, with 24 hours allowed for that work after an order is placed. SAP Business One will handle internal order processing as a second-stage integration.\nProduct catalog\n\n    NAS systems\n    Other NAS brands and product categories to be added later\n\nVisual direction\nKeep the first-stage store very simple, plain, and user-friendly. The design direction should feel similar to Apple’s clean, straightforward online experience.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "postgresql",
+      "stripe",
+      "ecommerce-consulting",
+      "shopify",
+      "woocommerce"
+    ],
+    "score": 2800,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-09T11:53:51+0000",
+    "addedAt": "2026-09-09T11:55:02.188Z",
+    "url": "https://www.upwork.com/jobs/~022097609240788995009",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097609240788995009/apply/"
+  },
+  {
     "id": "2097640632181181674",
     "ciphertext": "~022097640632181181674",
     "title": "Custom WordPress dentist directory - migrate off a plugin, rebuild US city pages",

@@ -1,10 +1,11 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 56,
-  "matchedFilters": 14,
+  "totalScanned": 57,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 14,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -50,6 +51,13 @@
       "addedAt": "2026-09-08T21:46:41.515Z"
     },
     {
+      "title": "Configurable NAS online eCommerce store",
+      "budget": "$12-$27/hr",
+      "score": 2800,
+      "url": "https://www.upwork.com/jobs/~022097609240788995009",
+      "addedAt": "2026-09-09T11:54:37.785Z"
+    },
+    {
       "title": "Fix Wordpress Backend & Connect Plugins",
       "budget": "$5-$25/hr",
       "score": 2700,
@@ -69,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022097389774742371390",
       "addedAt": "2026-09-08T21:22:35.822Z"
-    },
-    {
-      "title": "E-commerce website build",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022097463262479791487",
-      "addedAt": "2026-09-08T23:16:38.847Z"
     }
   ]
 }
