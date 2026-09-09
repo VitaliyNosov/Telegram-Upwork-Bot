@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097745905302489760",
+    "ciphertext": "~022097745905302489760",
+    "title": "Website update and optimization",
+    "description": "I need someone to review my website to optimize it and SEO",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.83,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 44,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I can review your WordPress website to optimize both its loading speed and technical SEO foundation. \n\nI specialize in WordPress performance tuning, fixing speed bottlenecks (Core Web Vitals, image/script optimization, caching), and ensuring your site structure is fully search-engine friendly. Fast, well-coded sites perform significantly better in search rankings and provide a much better user experience. You can see the quality of my work on live client sites like https://waapple.org/.\n\nCould you share your website URL? I’d be happy to run a quick initial speed and technical SEO audit so we can discuss the exact areas that need attention.",
+    "publishedDateTime": "2026-09-09T20:57:40+0000",
+    "addedAt": "2026-09-09T20:58:56.700Z",
+    "url": "https://www.upwork.com/jobs/~022097745905302489760",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097745905302489760/apply/"
+  },
+  {
     "id": "2097784772123343166",
     "ciphertext": "~022097784772123343166",
     "title": "WordPress / Kadence Designer-Developer",
