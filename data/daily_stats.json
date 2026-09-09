@@ -1,8 +1,18 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 4,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 5,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Elementor Site Speed Improvement with No Plugins",
+      "budget": "$15-$50/hr",
+      "score": 5099,
+      "url": "https://www.upwork.com/jobs/~022097819246365362848",
+      "addedAt": "2026-09-09T22:51:17.597Z"
+    }
+  ]
 }

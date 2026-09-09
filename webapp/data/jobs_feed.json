@@ -1,5 +1,32 @@
 [
   {
+    "id": "2097819246365362848",
+    "ciphertext": "~022097819246365362848",
+    "title": "Elementor Site Speed Improvement with No Plugins",
+    "description": "We have an Elementor site that can be improved with various caching plugins, want to get it well optimized first with no additional plug ins By someone that knows what they're doing, removing unnecessary scripts, resizing images to proper dimensions, etc. all done manually with no caching plugins added. \n\nWe are not expecting miracles, but right now the site is scoring a 27 on Google Page Speed Insights and I'm not willing to just band aid things with a caching plugin. \n\nSelected applicants will be sent the domain privately to evaluate and then may come back with an estimate of hours.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$15 - $50/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 316,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "page-speed-optimization"
+    ],
+    "score": 5099,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-09T22:49:05+0000",
+    "addedAt": "2026-09-09T22:51:42.054Z",
+    "url": "https://www.upwork.com/jobs/~022097819246365362848",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097819246365362848/apply/"
+  },
+  {
     "id": "2097745905302489760",
     "ciphertext": "~022097745905302489760",
     "title": "Website update and optimization",
