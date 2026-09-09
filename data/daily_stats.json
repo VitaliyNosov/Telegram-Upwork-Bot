@@ -1,11 +1,11 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 59,
-  "matchedFilters": 15,
+  "totalScanned": 60,
+  "matchedFilters": 16,
   "byKeyword": {
     "wordpress developer": 14,
-    "woocommerce": 1
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -72,11 +72,11 @@
       "addedAt": "2026-09-08T22:22:37.788Z"
     },
     {
-      "title": "Personal Brand Website Designer Needed for CSE Nation",
+      "title": "Shopify Website Build for Industry Conference/Event",
       "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022097389774742371390",
-      "addedAt": "2026-09-08T21:22:35.822Z"
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022097637330411571613",
+      "addedAt": "2026-09-09T13:46:44.085Z"
     }
   ]
 }
