@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
   "lastDigestSentDate": "2026-09-09",
-  "totalScanned": 71,
-  "matchedFilters": 18,
+  "totalScanned": 74,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 17,
     "woocommerce": 2
   },
   "topJobs": [
@@ -44,6 +44,13 @@
       "addedAt": "2026-09-09T14:02:37.829Z"
     },
     {
+      "title": "WordPress / GeoDirectory Developer",
+      "budget": "$10-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022097720979589739667",
+      "addedAt": "2026-09-09T16:18:38.031Z"
+    },
+    {
       "title": "Magento to WordPress Migration",
       "budget": "$15-$35/hr",
       "score": 3649,
@@ -70,13 +77,6 @@
       "score": 2800,
       "url": "https://www.upwork.com/jobs/~022097609240788995009",
       "addedAt": "2026-09-09T11:54:37.785Z"
-    },
-    {
-      "title": "Fix Wordpress Backend & Connect Plugins",
-      "budget": "$5-$25/hr",
-      "score": 2700,
-      "url": "https://www.upwork.com/jobs/~022097437677196031359",
-      "addedAt": "2026-09-08T21:34:37.024Z"
     }
   ]
 }
