@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097738532635947607",
+    "ciphertext": "~022097738532635947607",
+    "title": "WordPress Website for Excavation Services",
+    "description": "I need a clean, professional WordPress website for a Rhode Island-based company specializing in sitework, excavation, hauling, drainage, grading, trenching, roadwork, and septic excavation and instalation. The website should effectively showcase our services and provide a seamless user experience. The ideal candidate will have experience in web development and design, particularly with WordPress.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 0,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-09T17:28:25+0000",
+    "addedAt": "2026-09-09T17:31:02.275Z",
+    "url": "https://www.upwork.com/jobs/~022097738532635947607",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097738532635947607/apply/"
+  },
+  {
     "id": "2097735376064334496",
     "ciphertext": "~022097735376064334496",
     "title": "Website Updates",
