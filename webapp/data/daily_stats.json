@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 36,
-  "matchedFilters": 9,
+  "totalScanned": 37,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022097932413336730213",
       "addedAt": "2026-09-10T06:19:17.167Z"
+    },
+    {
+      "title": "Revamp of Wordpress homepage",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022097984407901678413",
+      "addedAt": "2026-09-10T09:47:16.961Z"
     },
     {
       "title": "Elementor / WordPress Developer and Website Administrator",

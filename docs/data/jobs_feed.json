@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097984407901678413",
+    "ciphertext": "~022097984407901678413",
+    "title": "Revamp of Wordpress homepage",
+    "description": "We have a wordpress website. Need to update the homepage, to add 2 new buttons and an image. Pretty straight forward job, I guess 3/4 hours work total. The 2 links go to pages that already exits. We will check your portfolio and experience and send more details to the shortlisted candidates. Thank you and best of luck bidding!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "landing-pages"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can quickly update your WordPress homepage with the two new buttons and the image today. \n\nWhether your site is built using Gutenberg, Elementor, Divi, or a custom PHP theme, I have the WordPress and web programming expertise to implement these changes cleanly and ensure they are fully responsive across all devices. I've handled similar homepage updates and landing page designs for sites like WA Apple (https://waapple.org/) and can easily complete this within your 3-4 hour timeframe without disrupting your live site.\n\nCould you share your website URL and let me know which page builder or theme you are currently using? I'm ready to jump in and get this done for you.",
+    "publishedDateTime": "2026-09-10T09:45:14+0000",
+    "addedAt": "2026-09-10T09:47:21.127Z",
+    "url": "https://www.upwork.com/jobs/~022097984407901678413",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097984407901678413/apply/"
+  },
+  {
     "id": "2097932413336730213",
     "ciphertext": "~022097932413336730213",
     "title": "WordPress Developer for Cooking Studio Booking System",
