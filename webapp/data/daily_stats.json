@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 97,
-  "matchedFilters": 21,
+  "totalScanned": 99,
+  "matchedFilters": 22,
   "byKeyword": {
-    "wordpress developer": 20,
+    "wordpress developer": 21,
     "woocommerce": 1
   },
   "topJobs": [
@@ -51,6 +51,13 @@
       "addedAt": "2026-09-10T17:27:15.516Z"
     },
     {
+      "title": "WordPress Web Developer – Elementor, Divi, HTML/CSS",
+      "budget": "$15-$30/hr",
+      "score": 3094,
+      "url": "https://www.upwork.com/jobs/~022098148503249036893",
+      "addedAt": "2026-09-10T20:39:15.411Z"
+    },
+    {
       "title": "WordPress Agency Team Needed for 2,785-Item Beaver Builder-to-Kadence Migration—Eight-Week Deadline",
       "budget": "$15-$30/hr",
       "score": 3050,
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022097841131217367639",
       "addedAt": "2026-09-10T00:35:16.464Z"
-    },
-    {
-      "title": "WordPress Developer for Cooking Studio Booking System",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022097932413336730213",
-      "addedAt": "2026-09-10T06:19:17.167Z"
     }
   ]
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2098148503249036893",
+    "ciphertext": "~022098148503249036893",
+    "title": "WordPress Web Developer – Elementor, Divi, HTML/CSS",
+    "description": "We are a U.S.-based digital marketing agency looking for an experienced WordPress Web Developer to support ongoing client website projects.\n\nThis role is ideal for someone who is comfortable working independently, following existing website standards, and making smart development and design decisions when every detail is not specifically outlined.\n\nYou must be available to work U.S. Central Standard Time (CST) business hours\n\n**Responsibilities**\n- Create New Website Pages\n- Update Existing Pages\n- Fix AI-Generated Web Content\n- Build & Maintain Templates\n\n**Required Skills**\n- Strong WordPress experience\n- Elementor\n- Divi\n- HTML & CSS\n- Responsive web design\n- WordPress troubleshooting\n- Experience creating reusable/global website components\n- Good understanding of website design systems\n- Basic to intermediate on-page SEO knowledge, including proper heading structure\n- Ability to make reasonable design decisions without needing detailed instructions for every element\n- Strong attention to detail\n- Schedule Requirement\n\nYou must be able to consistently work during U.S. CST business hours. Please do not apply if you are only available overnight or during non-U.S. working hours.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.68,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 28,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "css",
+      "elementor",
+      "wordpress-website",
+      "divi"
+    ],
+    "score": 3094,
+    "coverLetter": "Hi! As an experienced WordPress developer specializing in Elementor, Divi, and custom HTML/CSS, I am fully available to work during U.S. CST business hours to support your agency’s client projects.\n\nI frequently help digital agencies build reusable global components, update templates, fix messy AI-generated page layouts, and make smart, autonomous design decisions when exact specs aren't provided. I also ensure clean heading structures for SEO, responsive layouts, and rock-solid site performance. You can see examples of my responsive site builds here: https://waapple.org/.\n\nWhether you need quick layout fixes, template creation, or ongoing page updates, I can jump right into your dev workflow and work independently. \n\nDo you have an immediate batch of client pages ready to build this week?",
+    "publishedDateTime": "2026-09-10T20:37:27+0000",
+    "addedAt": "2026-09-10T20:39:34.679Z",
+    "url": "https://www.upwork.com/jobs/~022098148503249036893",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098148503249036893/apply/"
+  },
+  {
     "id": "2098113894384706705",
     "ciphertext": "~022098113894384706705",
     "title": "Travel Blog Website Designer/Developer Needed – WordPress + Monetization Ready",
