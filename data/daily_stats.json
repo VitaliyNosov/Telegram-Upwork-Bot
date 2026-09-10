@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 32,
-  "matchedFilters": 8,
+  "totalScanned": 33,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022097841131217367639",
       "addedAt": "2026-09-10T00:35:16.464Z"
+    },
+    {
+      "title": "WordPress Developer for Cooking Studio Booking System",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022097932413336730213",
+      "addedAt": "2026-09-10T06:19:17.167Z"
     },
     {
       "title": "Elementor / WordPress Developer and Website Administrator",

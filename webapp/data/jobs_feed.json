@@ -1,5 +1,34 @@
 [
   {
+    "id": "2097932413336730213",
+    "ciphertext": "~022097932413336730213",
+    "title": "WordPress Developer for Cooking Studio Booking System",
+    "description": "We need a developer to rebuild our Dutch cooking studio website and create a booking system for classes and private lessons. The site should be clean, easy to use, and mobile-friendly, with a strong focus on clear navigation and a smooth booking experience. You will also help improve the overall user experience, support ongoing updates, and ensure the site is reliable and easy to manage. Please share relevant examples of similar projects and your approach to building a simple, effective booking workflow.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 62,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "psd-to-wordpress"
+    ],
+    "score": 150,
+    "coverLetter": "Rebuilding your Dutch cooking studio website with a seamless booking system for classes and private lessons is a project I can jump into immediately. I specialize in custom WordPress and PHP development, with a heavy focus on clean, mobile-first layouts and intuitive user flows.\n\nFor your booking workflow, my approach is to keep friction minimal—allowing users to select a class, view availability, and complete their booking in under three clicks. I also ensure the backend is just as simple for you to manage. You can see my standard for clean, responsive design on live sites I've developed, such as https://www.thelifeyoucansave.org/.\n\nDo you already have a preferred payment gateway for the Dutch market (like iDEAL via Mollie), or should we discuss the best options for your workflow?",
+    "publishedDateTime": "2026-09-10T06:18:24+0000",
+    "addedAt": "2026-09-10T06:19:23.501Z",
+    "url": "https://www.upwork.com/jobs/~022097932413336730213",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097932413336730213/apply/"
+  },
+  {
     "id": "2097926624693893733",
     "ciphertext": "~022097926624693893733",
     "title": "WordPress and Shopify Expert for long term",
