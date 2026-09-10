@@ -1,5 +1,32 @@
 [
   {
+    "id": "2098003098496248653",
+    "ciphertext": "~022098003098496248653",
+    "title": "Wordpress Website Design Development",
+    "description": "to revamp an existing real estate website\nto improve the listing directory and update the filtering options",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Singapore",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "website-redesign"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Revamping your real estate site to enhance the listing directory and modernize the filtering logic is right up my alley.\n\nI specialize in custom WordPress development, Custom Post Types, and Advanced Custom Fields (ACF) to build smooth, responsive property directories. Whether you need custom AJAX faceted search, optimized taxonomy filters, or a complete front-end redesign, I will ensure your listings load fast and remain easy for you to manage behind the scenes.\n\nYou can view one of my custom WordPress builds here: https://about.offerup.com/\n\nWhich plugin or custom setup is your current directory built on? I’d love to connect in chat to review your layout ideas and filter requirements.",
+    "publishedDateTime": "2026-09-10T10:59:00+0000",
+    "addedAt": "2026-09-10T11:01:42.210Z",
+    "url": "https://www.upwork.com/jobs/~022098003098496248653",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098003098496248653/apply/"
+  },
+  {
     "id": "2098002215679142733",
     "ciphertext": "~022098002215679142733",
     "title": "WordPress Developer — Premium Executive Edu. Site Content Update & Polish (2 pages + 2 new page)",
