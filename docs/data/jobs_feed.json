@@ -1,5 +1,32 @@
 [
   {
+    "id": "2097892862364863136",
+    "ciphertext": "~022097892862364863136",
+    "title": "Elementor / WordPress Developer and Website Administrator",
+    "description": "Job Summary\n\nWe are seeking a detail-oriented and technically skilled WordPress / Elementor Developer & Website Administrator. The primary focus of this role is to build and customize, dynamic webpage listings on our directory website. You will be responsible for ensuring that every listing is visually appealing, accurate, highly functional, and optimized for both user experience and search engines. The ideal candidate will bridge the gap between frontend design using Elementor and data administration—transforming raw data into comprehensive, beautifully structured live listings.\n\nKey Responsibilities\n\nListing Creation & Management: Accurately add, format, and publish detailed webpage listings containing crucial business data points, including:\n- Physical location (integrating interactive maps/geolocations)\n-Website information and external hyperlinks\n-Main phone numbers and secondary contact details\n-Fully integrated social media network profiles\n-Media galleries (optimizing and uploading logos, promotional images, and videos)\n-Opening/operating hours (including holiday formatting)\n-Engaging, well-formatted business descriptions\n\nFrontend Design & Customization: Build and modify responsive listing templates using Elementor  and dynamic widgets.\n\nData Integrity & Quality Control: Audit published listings to fix broken links, outdated schedules, formatting anomalies, or visual alignment issues across multiple browser types.\n\nSEO & Performance Optimization: Optimize media files to maintain fast page loading times.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress-website"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! I can help you build and manage highly functional, dynamic directory listings using Elementor. I specialize in structuring custom WordPress content—integrating interactive maps, optimized media galleries, and formatted business data—while ensuring everything looks flawless across all screen sizes.\n\nBeyond layout design, I focus heavily on performance. I will optimize your logos and promotional images to keep your directory fast and SEO-friendly. You can see my clean layout and frontend work on live sites like https://waapple.org/.\n\nHow many listings do you currently need to format, and do you already have a base Elementor template ready to go?",
+    "publishedDateTime": "2026-09-10T03:41:34+0000",
+    "addedAt": "2026-09-10T03:43:20.543Z",
+    "url": "https://www.upwork.com/jobs/~022097892862364863136",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097892862364863136/apply/"
+  },
+  {
     "id": "2097847876765495895",
     "ciphertext": "~022097847876765495895",
     "title": "WordPress Agency Team Needed for 2,785-Item Beaver Builder-to-Kadence Migration—Eight-Week Deadline",

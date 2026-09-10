@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 16,
-  "matchedFilters": 4,
+  "totalScanned": 18,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022097841131217367639",
       "addedAt": "2026-09-10T00:35:16.464Z"
+    },
+    {
+      "title": "Elementor / WordPress Developer and Website Administrator",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022097892862364863136",
+      "addedAt": "2026-09-10T03:43:15.485Z"
     }
   ]
 }
