@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 27,
-  "matchedFilters": 6,
+  "totalScanned": 28,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3050,
       "url": "https://www.upwork.com/jobs/~022097847876765495895",
       "addedAt": "2026-09-10T00:43:14.219Z"
+    },
+    {
+      "title": "WordPress + Elementor Developer with Real Local SEO Skill — Ongoing Work, US Marketing Agency",
+      "budget": "$14-$28/hr",
+      "score": 2900,
+      "url": "https://www.upwork.com/jobs/~022097915607133895269",
+      "addedAt": "2026-09-10T05:13:18.206Z"
     },
     {
       "title": "Senior WordPress + WooCommerce Engineer - Documented Technical Remediation Across 9 Live Sites",
