@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 75,
-  "matchedFilters": 19,
+  "totalScanned": 76,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 18,
+    "wordpress developer": 19,
     "woocommerce": 1
   },
   "topJobs": [
@@ -44,6 +44,13 @@
       "addedAt": "2026-09-10T15:57:16.805Z"
     },
     {
+      "title": "Ongoing WordPress Website Maintenance & Support",
+      "budget": "$15-$30/hr",
+      "score": 3099,
+      "url": "https://www.upwork.com/jobs/~022098100642657353069",
+      "addedAt": "2026-09-10T17:27:15.516Z"
+    },
+    {
       "title": "WordPress Agency Team Needed for 2,785-Item Beaver Builder-to-Kadence Migration—Eight-Week Deadline",
       "budget": "$15-$30/hr",
       "score": 3050,
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022097932413336730213",
       "addedAt": "2026-09-10T06:19:17.167Z"
-    },
-    {
-      "title": "WordPress Developer — Premium Executive Edu. Site Content Update & Polish (2 pages + 2 new page)",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022098002215679142733",
-      "addedAt": "2026-09-10T10:57:14.896Z"
     }
   ]
 }

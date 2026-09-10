@@ -1,5 +1,33 @@
 [
   {
+    "id": "2098100642657353069",
+    "ciphertext": "~022098100642657353069",
+    "title": "Ongoing WordPress Website Maintenance & Support",
+    "description": "Overview\n\nWe're a residential and commercial broadband services company in the US, and we need a reliable freelancer to keep our website healthy on an ongoing basis. This is a long-term monthly arrangement, not a one-off project. We're looking for someone dependable and communicative who we can build a lasting working relationship with.\n\nOur site is built on WordPress.\n\nWhat you'll do\n\nKeep the site updated and secure (core, plugin, and theme updates; security patches)\nMaintain regular backups we can rely on\nMonitor uptime and flag/fix issues promptly\nHandle small content and design changes as they come up (text edits, images, new pages, service-area or plan updates)\nFix things when they break — broken links, contact/quote forms, layout issues, etc.\nImplement a list of SEO fixes we'll provide (title tags, meta descriptions, heading structure, image alt text, internal linking, page speed improvements, schema, sitemap/indexing) — you won't be creating the SEO strategy, just executing clearly specified changes\n\nWhat we're looking for\n\nSolid experience maintaining WordPress sites, with a history of long-term retainer/support clients (please point us to reviews or clients you've supported over time)\nComfortable implementing technical and on-page SEO fixes from written instructions\nClear, responsive communication in English\nGood habits around documentation — tell us what you changed and why\nSomeone who protects site access and follows safe practices (we'll set you up with your own admin account)\n\nNice to have\n\nFamiliarity with Google Search Console and Google Analytics\nPage speed / Core Web Vitals experience\nAvailability with some overlap to US business hours\n\nDetails\n\nOngoing monthly retainer, roughly 15–20 hours/month\nBudget: up to $400/month\nStart with a small paid test task before we commit to the monthly arrangement\n\nTo apply\n\nPlease don't send a generic proposal. Briefly tell us: (1) a site you currently maintain that we can visit, (2) how you'd handle a plugin update that breaks the site after you apply it, and (3) confirm you're comfortable implementing SEO changes from a written checklist. Start your reply with the word \"maple\" so we know you read this.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "performance-monitoring",
+      "page-speed-optimization"
+    ],
+    "score": 3099,
+    "coverLetter": "Maple — Here are the answers to your three questions:\n\n1. A site I currently maintain is https://www.snopud.com/.\n2. If a plugin update breaks the site, I immediately restore it using a pre-update backup, inspect the PHP error logs to isolate the plugin conflict, and resolve it in a staging environment before safely re-deploying to production.\n3. Yes, I am completely comfortable implementing on-page and technical SEO fixes directly from a written checklist.\n\nI specialize in long-term WordPress site maintenance, Core Web Vitals performance tuning, and plugin/theme troubleshooting. I overlap with US business hours and maintain clean, documented processes for backups, updates, and minor content edits.\n\nI am ready to complete your paid test task. Do you have time for a brief chat to get started?",
+    "publishedDateTime": "2026-09-10T17:26:44+0000",
+    "addedAt": "2026-09-10T17:27:26.806Z",
+    "url": "https://www.upwork.com/jobs/~022098100642657353069",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098100642657353069/apply/"
+  },
+  {
     "id": "2098098455145003621",
     "ciphertext": "~022098098455145003621",
     "title": "Website Diagnosis and Optimization",
