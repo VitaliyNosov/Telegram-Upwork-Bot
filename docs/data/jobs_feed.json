@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098098455145003621",
+    "ciphertext": "~022098098455145003621",
+    "title": "Website Diagnosis and Optimization",
+    "description": "I need a freelancer to diagnose the issue with my website, identify the root cause, and rework and optimize the site for better performance and functionality. The work should include reviewing the current setup, troubleshooting problems, and making improvements that enhance the overall user experience. Please share relevant experience with similar projects and your approach to diagnosing and resolving website issues.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "web-programming",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can thoroughly diagnose your website to pinpoint the exact root causes of your performance and functionality issues, then implement clean, long-term optimizations.\n\nMy diagnostic process starts by auditing your hosting environment, caching layers, database health, and asset execution order to catch hidden plugin conflicts or memory leaks. Rather than applying superficial band-aids, I optimize database queries, eliminate PHP errors, and streamline code execution to drastically improve loading speeds and user experience. I've executed similar deep-diagnosis and performance overhauls for complex WordPress sites like https://www.thelifeyoucansave.org/.\n\nWhat specific glitches or slowdowns are you noticing most right now? Drop me a message and we can discuss your site's current setup.",
+    "publishedDateTime": "2026-09-10T17:18:37+0000",
+    "addedAt": "2026-09-10T17:19:34.169Z",
+    "url": "https://www.upwork.com/jobs/~022098098455145003621",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098098455145003621/apply/"
+  },
+  {
     "id": "2098097748450916965",
     "ciphertext": "~022098097748450916965",
     "title": "Bricksbuilder WordPress setup & overview",
