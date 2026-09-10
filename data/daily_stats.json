@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 43,
-  "matchedFilters": 10,
+  "totalScanned": 44,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -64,18 +64,18 @@
       "addedAt": "2026-09-10T06:19:17.167Z"
     },
     {
+      "title": "WordPress Developer — Premium Executive Edu. Site Content Update & Polish (2 pages + 2 new page)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022098002215679142733",
+      "addedAt": "2026-09-10T10:57:14.896Z"
+    },
+    {
       "title": "Revamp of Wordpress homepage",
       "budget": "Fixed-price",
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022097984407901678413",
       "addedAt": "2026-09-10T09:47:16.961Z"
-    },
-    {
-      "title": "Elementor / WordPress Developer and Website Administrator",
-      "budget": "Fixed-price",
-      "score": 50,
-      "url": "https://www.upwork.com/jobs/~022097892862364863136",
-      "addedAt": "2026-09-10T03:43:15.485Z"
     }
   ]
 }

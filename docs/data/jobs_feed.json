@@ -1,5 +1,32 @@
 [
   {
+    "id": "2098002215679142733",
+    "ciphertext": "~022098002215679142733",
+    "title": "WordPress Developer — Premium Executive Edu. Site Content Update & Polish (2 pages + 2 new page)",
+    "description": "We are a premium executive education institution serving senior executives. Our WordPress site is well-designed but needs a careful content update and quality pass. This is implementation work, not redesign — the existing theme, layout, and visual style stay.\n\nScope:\n\n- Replace all copy on the Home page and Program page from a paste-ready document we provide (every block labeled by section)\n- Build two new pages (\"For Employers\") and one simple page (\"Events\") using existing theme components, and add both to the navigation\n- Embed 3–4 supplied graphics (PNG/SVG) in specified sections; remove two existing graphic sections\n- Quality pass: fix all typography issues (several text blocks are illegibly small — minimum ~16px body text), correct identified typos, unify button labels, update the footer logo and links\n- Update forms/CTAs from \"Enroll\" to \"Apply / Request / Nominate\" flows (existing form plugin is fine)\n- Confirm mobile responsiveness and page speed after changes\n\nRequirement:\nStrong WordPress and page-builder experience (tell us which builders), a genuine eye for typographic detail, careful pixel-level QA, and clean communication in English. You'll work from precise documents — we value accuracy over speed.\n\nTimeline: within 7–10 days of start. Likely follow-on work in Q1 (we're expanding the site in phases).\n\nTo apply: begin your proposal with one specific observation about http://cfoacademy.org — something you'd fix and how. Proposals without this will not be read. Include two examples of polished, content-heavy WordPress sites you've implemented.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "elementor"
+    ],
+    "score": 150,
+    "coverLetter": "Looking at http://cfoacademy.org, several body text blocks in the core content sections drop below 14px with tight line-heights, which hurts readability for executive audiences—I would adjust your global typography settings in Elementor to enforce a minimum 16px body font and standardized heading hierarchy across all pages.\n\nI specialize in clean WordPress content implementation, page-builder layouts (Elementor, Gutenberg, ACF), and pixel-level visual QA. Here are two examples of polished, content-heavy WordPress sites I've implemented:\n- https://www.thelifeyoucansave.org/\n- https://www.cchpca.org/\n\nI can complete your copy updates, build the \"For Employers\" and \"Events\" pages using your existing theme components, update form CTAs, and run a full mobile/speed QA pass comfortably within your 7–10 day timeline. \n\nDo you have the paste-ready documents ready to share so we can jump on the details?",
+    "publishedDateTime": "2026-09-10T10:55:14+0000",
+    "addedAt": "2026-09-10T10:57:35.606Z",
+    "url": "https://www.upwork.com/jobs/~022098002215679142733",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098002215679142733/apply/"
+  },
+  {
     "id": "2097984407901678413",
     "ciphertext": "~022097984407901678413",
     "title": "Revamp of Wordpress homepage",
