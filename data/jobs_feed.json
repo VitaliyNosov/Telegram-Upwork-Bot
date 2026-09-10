@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098032306133580094",
+    "ciphertext": "~022098032306133580094",
+    "title": "Convert WordPress membership site to iOS/Android app via AppMySite",
+    "description": "I run First Ball To Last, a WordPress subscription site for competitive tennis players focused on the emotional side of the game. I need a developer to turn the live site into a working iOS and Android app through AppMySite and get it published in both stores. The site includes membership access, six content sections, daily routines, self-assessment tests, badges, member profiles, and embedded video. Scope includes configuring the app build, ensuring login, subscriptions, and gated content work, setting up daily push notifications, creating app icon, splash screen, and store assets from provided brand files, and handling Apple and Google submission. I’ll provide WordPress admin, AppMySite plan, developer accounts, brand assets, and fast answers. Please include links to two similar apps you’ve published, membership plugins you’ve handled, a fixed price, timeline, and one issue you spotted on firstballtolast.com.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "html5",
+      "javascript"
+    ],
+    "score": 3598,
+    "coverLetter": "Hi! Checking firstballtolast.com, I noticed video embed scripts and dynamic session assets aren't deferred, which can cause auth sync lags or sluggish rendering inside AppMySite’s WebView wrapper.\n\nI specialize in WordPress REST API integrations and membership systems, having worked extensively with MemberPress, WooCommerce Subscriptions, and Restrict Content Pro on complex sites like https://www.daysforgirls.org/. I will seamlessly configure your AppMySite build, ensure gated routines, badges, and subscription logins sync correctly, configure push notifications, craft store assets, and handle the full submission process for both the Apple App Store and Google Play.\n\nI can deliver this end-to-end for a fixed price of $650 within 5 to 7 days. \n\nAre your Apple Developer and Google Play Console accounts already fully set up and ready for submission?",
+    "publishedDateTime": "2026-09-10T15:55:14+0000",
+    "addedAt": "2026-09-10T15:57:37.105Z",
+    "url": "https://www.upwork.com/jobs/~022098032306133580094",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098032306133580094/apply/"
+  },
+  {
     "id": "2098064128142550621",
     "ciphertext": "~022098064128142550621",
     "title": "Website Redesign and Development",

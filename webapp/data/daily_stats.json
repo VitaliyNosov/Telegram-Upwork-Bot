@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 65,
-  "matchedFilters": 15,
+  "totalScanned": 66,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 1
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 4150,
       "url": "https://www.upwork.com/jobs/~022097926624693893733",
       "addedAt": "2026-09-10T05:57:14.373Z"
+    },
+    {
+      "title": "Convert WordPress membership site to iOS/Android app via AppMySite",
+      "budget": "$15-$35/hr",
+      "score": 3598,
+      "url": "https://www.upwork.com/jobs/~022098032306133580094",
+      "addedAt": "2026-09-10T15:57:16.805Z"
     },
     {
       "title": "WordPress Agency Team Needed for 2,785-Item Beaver Builder-to-Kadence Migration—Eight-Week Deadline",
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022098002215679142733",
       "addedAt": "2026-09-10T10:57:14.896Z"
-    },
-    {
-      "title": "Wordpress website developer required from Figma Design",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022098025469948276377",
-      "addedAt": "2026-09-10T12:29:15.869Z"
     }
   ]
 }
