@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 9,
-  "matchedFilters": 2,
+  "totalScanned": 10,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 5099,
       "url": "https://www.upwork.com/jobs/~022097819246365362848",
       "addedAt": "2026-09-09T22:51:17.597Z"
+    },
+    {
+      "title": "Senior WordPress + WooCommerce Engineer - Documented Technical Remediation Across 9 Live Sites",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022097841131217367639",
+      "addedAt": "2026-09-10T00:35:16.464Z"
     }
   ]
 }
