@@ -1,82 +1,8 @@
 {
-  "date": "2026-09-10",
-  "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 99,
-  "matchedFilters": 22,
-  "byKeyword": {
-    "wordpress developer": 21,
-    "woocommerce": 1
-  },
-  "topJobs": [
-    {
-      "title": "Debug issue with Jotform and Wordpress/Elementor website",
-      "budget": "$25-$60/hr",
-      "score": 6099,
-      "url": "https://www.upwork.com/jobs/~022097826080822311525",
-      "addedAt": "2026-09-09T23:17:14.156Z"
-    },
-    {
-      "title": "Senior Web Developer",
-      "budget": "$30-$50/hr",
-      "score": 5100,
-      "url": "https://www.upwork.com/jobs/~022097904497521506917",
-      "addedAt": "2026-09-10T04:29:14.286Z"
-    },
-    {
-      "title": "Elementor Site Speed Improvement with No Plugins",
-      "budget": "$15-$50/hr",
-      "score": 5099,
-      "url": "https://www.upwork.com/jobs/~022097819246365362848",
-      "addedAt": "2026-09-09T22:51:17.597Z"
-    },
-    {
-      "title": "WordPress and Shopify Expert for long term",
-      "budget": "$15-$40/hr",
-      "score": 4150,
-      "url": "https://www.upwork.com/jobs/~022097926624693893733",
-      "addedAt": "2026-09-10T05:57:14.373Z"
-    },
-    {
-      "title": "Convert WordPress membership site to iOS/Android app via AppMySite",
-      "budget": "$15-$35/hr",
-      "score": 3598,
-      "url": "https://www.upwork.com/jobs/~022098032306133580094",
-      "addedAt": "2026-09-10T15:57:16.805Z"
-    },
-    {
-      "title": "Ongoing WordPress Website Maintenance & Support",
-      "budget": "$15-$30/hr",
-      "score": 3099,
-      "url": "https://www.upwork.com/jobs/~022098100642657353069",
-      "addedAt": "2026-09-10T17:27:15.516Z"
-    },
-    {
-      "title": "WordPress Web Developer – Elementor, Divi, HTML/CSS",
-      "budget": "$15-$30/hr",
-      "score": 3094,
-      "url": "https://www.upwork.com/jobs/~022098148503249036893",
-      "addedAt": "2026-09-10T20:39:15.411Z"
-    },
-    {
-      "title": "WordPress Agency Team Needed for 2,785-Item Beaver Builder-to-Kadence Migration—Eight-Week Deadline",
-      "budget": "$15-$30/hr",
-      "score": 3050,
-      "url": "https://www.upwork.com/jobs/~022097847876765495895",
-      "addedAt": "2026-09-10T00:43:14.219Z"
-    },
-    {
-      "title": "WordPress + Elementor Developer with Real Local SEO Skill — Ongoing Work, US Marketing Agency",
-      "budget": "$14-$28/hr",
-      "score": 2900,
-      "url": "https://www.upwork.com/jobs/~022097915607133895269",
-      "addedAt": "2026-09-10T05:13:18.206Z"
-    },
-    {
-      "title": "Senior WordPress + WooCommerce Engineer - Documented Technical Remediation Across 9 Live Sites",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022097841131217367639",
-      "addedAt": "2026-09-10T00:35:16.464Z"
-    }
-  ]
+  "date": "2026-09-11",
+  "lastDigestSentDate": "2026-09-11",
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
