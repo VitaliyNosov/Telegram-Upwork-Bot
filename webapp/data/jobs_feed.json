@@ -1,5 +1,31 @@
 [
   {
+    "id": "2097904497521506917",
+    "ciphertext": "~022097904497521506917",
+    "title": "Senior Web Developer",
+    "description": "We are seeking a highly skilled Web Developer with expertise in Web Flow and WordPress to join our dynamic team. The ideal candidate will have a passion for web development and a strong background in building and customizing websites.\n\nResponsibilities:\n- Develop and maintain websites using Web Flow and WordPress\n- Customize websites to meet client requirements and ensure a seamless user experience\nWrite clean, efficient, and well-documented code\n- Collaborate with the design team to ensure that the website design is properly translated into the final product\n- Troubleshoot and resolve any technical issues that arise during the development process\n- Stay up-to-date with the latest web development technologies and trends\n\nRequirements:\n- Strong experience with Web Flow and WordPress, including theme and plugin customization\n- Proficiency in HTML, CSS, JavaScript, and PHP\n- Strong understanding of responsive design and cross-browser compatibility\n- Excellent problem-solving and debugging skills\n- Ability to work independently and in a team environment\n- Experience integrating third-party CRMs and APIs (form handling + data feeds/listings sync)\n- Excellent verbal and written communication skills\n- Indepth understanding of Shopify and plugin intergrations.\n- Able to work within Australian business hours, with occasional flexibility for a 2-3 hour time difference (after-hours availability is rare, but occasionally needed)\n- Fluent in English \n\nThis is an exciting opportunity for a web developer to showcase their skills and contribute to the development of high-quality websites. If you are a self-motivated and creative individual with a passion for web development, we encourage you to apply.",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$30 - $50/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 65,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 5100,
+    "coverLetter": "Hi! If you are looking for a developer who is equally skilled in WordPress, Webflow, and Shopify, I can help. I specialize in bridging the gap between these platforms—whether it’s building custom WordPress themes with ACF, setting up Webflow CMS collections and interactions, or handling complex Shopify app integrations. \n\nI regularly write clean PHP/JS code and have extensive experience integrating third-party CRMs and API data feeds to sync listings and forms seamlessly. You can see the level of performance and clean execution I deliver on live sites like https://about.offerup.com/.\n\nI am fully fluent in English and can easily align my schedule to work within Australian business hours. \n\nDo you have a specific WordPress or Webflow project ready to kick off right now? Let's chat!",
+    "publishedDateTime": "2026-09-10T04:27:46+0000",
+    "addedAt": "2026-09-10T04:29:19.312Z",
+    "url": "https://www.upwork.com/jobs/~022097904497521506917",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097904497521506917/apply/"
+  },
+  {
     "id": "2097892862364863136",
     "ciphertext": "~022097892862364863136",
     "title": "Elementor / WordPress Developer and Website Administrator",
