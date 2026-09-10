@@ -1,10 +1,10 @@
 {
   "date": "2026-09-10",
   "lastDigestSentDate": "2026-09-10",
-  "totalScanned": 49,
-  "matchedFilters": 12,
+  "totalScanned": 50,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -71,11 +71,11 @@
       "addedAt": "2026-09-10T10:57:14.896Z"
     },
     {
-      "title": "Revamp of Wordpress homepage",
+      "title": "Wordpress website developer required from Figma Design",
       "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022097984407901678413",
-      "addedAt": "2026-09-10T09:47:16.961Z"
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022098025469948276377",
+      "addedAt": "2026-09-10T12:29:15.869Z"
     }
   ]
 }

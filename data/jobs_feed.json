@@ -1,5 +1,31 @@
 [
   {
+    "id": "2098025469948276377",
+    "ciphertext": "~022098025469948276377",
+    "title": "Wordpress website developer required from Figma Design",
+    "description": "We are looking for an experienced WordPress developer to build a new website from a Figma design.\n\nThe website should be developed to match the supplied design across desktop and mobile.\n\nRequirements:\n\n* Strong WordPress development experience\n* Experience converting Figma designs into responsive WordPress websites\n* Clean, lightweight and fast-loading build\n* SEO-friendly structure\n* Easy for us to edit content/images afterwards\n* Forms and CTAs to work correctly\n* Good attention to spacing, fonts and overall design accuracy\n* Cross-browser and mobile testing\n\nLooking for someone reliable who can complete this to a high standard and potentially work with us on additional websites in the future.\n\nI am happy for someone to use page builder if required, however as some of these modules are the same on every page, we need to ensure that when we make a change to a certain \"module/section\" it reflects on other pages too, saves us time in the long run.\n\nJob is to start immediately, with delivery timeline within the next few days.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 39,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can start on your Figma-to-WordPress build immediately. To address your need for synced sections, I’ll set up global templates or synced patterns (depending on the builder we choose). This ensures that editing a module once updates it across all pages automatically, keeping your site lightweight and incredibly easy to manage.\n\nI specialize in pixel-perfect, fast-loading WordPress development. I focus on clean code, responsive structures, and easy-to-edit backends so you can swap images and text without breaking the layout. You can see an example of my high-quality, clean work here: https://about.offerup.com/\n\nI am ready to jump on this today and meet your tight deadline. Could you share the Figma link so I can review the layouts and confirm the exact timeline?",
+    "publishedDateTime": "2026-09-10T12:28:26+0000",
+    "addedAt": "2026-09-10T12:29:22.103Z",
+    "url": "https://www.upwork.com/jobs/~022098025469948276377",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098025469948276377/apply/"
+  },
+  {
     "id": "2098003098496248653",
     "ciphertext": "~022098003098496248653",
     "title": "Wordpress Website Design Development",
