@@ -1,5 +1,33 @@
 [
   {
+    "id": "2097847876765495895",
+    "ciphertext": "~022097847876765495895",
+    "title": "WordPress Agency Team Needed for 2,785-Item Beaver Builder-to-Kadence Migration—Eight-Week Deadline",
+    "description": "**Required timeline and team capacity**\n\nWe are looking for an established WordPress agency or coordinated team to manually rebuild approximately 2,785 existing Beaver Builder pages, products and MemberPress lessons using Kadence Blocks.\n\nThis is not a hosting or domain migration. The content will remain on the same WordPress website, but each item must be moved out of Beaver Builder and recreated in Kadence while preserving its content, appearance, links and functionality.\n\nThe project includes:\n\n344 general WordPress pages currently built in Beaver Builder\n307 WooCommerce products currently built in Beaver Builder\n2,134 MemberPress lessons currently built in Beaver Builder\nThree new Kadence WooCommerce product templates based on our existing Beaver Builder designs: online classes, in-person workshops and original artwork\n\nOur main website pages have already been rebuilt in Kadence, and the MemberPress course overview pages do not need to be rebuilt.\n\nThe complete Beaver Builder-to-Kadence conversion must be finished within eight weeks, including testing and quality control. Because of the project’s size and deadline, we are seeking an established team that can commit at least 80 combined hours per week. We are not seeking a single freelancer working alone.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "beaver-builder",
+      "migration"
+    ],
+    "score": 3050,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-10T00:42:03+0000",
+    "addedAt": "2026-09-10T00:43:29.827Z",
+    "url": "https://www.upwork.com/jobs/~022097847876765495895",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022097847876765495895/apply/"
+  },
+  {
     "id": "2097841131217367639",
     "ciphertext": "~022097841131217367639",
     "title": "Senior WordPress + WooCommerce Engineer - Documented Technical Remediation Across 9 Live Sites",
