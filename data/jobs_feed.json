@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098423736341543230",
+    "ciphertext": "~022098423736341543230",
+    "title": "WordPress Website Maintenance",
+    "description": "We need a reliable freelancer to maintain and support our WordPress website on an ongoing basis. The work includes fixing bugs, updating plugins and themes, improving site performance, and ensuring the site runs smoothly. You should be comfortable handling routine maintenance tasks, troubleshooting issues, and making small updates as needed. This is a long-term opportunity for someone who can provide consistent support and keep the website stable and functional.\n\nDay-to-day health, performance, and upkeep of the site:\n\n- Website content updates (text, images, links)\n- Page edits and formatting adjustments\n- Routine website backups\n- Plugin and theme updates\n- Security monitoring\n- Bug fixes and troubleshooting\n- Website uptime monitoring\n- Performance and speed monitoring\n- Basic SEO monitoring and issue flagging",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$15 - $50/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design"
+    ],
+    "score": 5100,
+    "coverLetter": "Hi! I can manage the ongoing maintenance, updates, and performance optimization to keep your WordPress site running smoothly and securely.\n\nWith my background in custom WordPress development and long-term site support, I specialize in exactly what you need: routine plugin/theme updates, security hardening, backups, and quick troubleshooting if a conflict arises. I regularly handle these day-to-day upkeep tasks for established organizations, such as https://www.thelifeyoucansave.org/, ensuring their sites remain fast and stable.\n\nI am looking for a long-term partnership and can start helping you right away. Could you share your website URL so I can run a quick initial health check?",
+    "publishedDateTime": "2026-09-11T17:50:56+0000",
+    "addedAt": "2026-09-11T17:52:56.015Z",
+    "url": "https://www.upwork.com/jobs/~022098423736341543230",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098423736341543230/apply/"
+  },
+  {
     "id": "2098465371094362957",
     "ciphertext": "~022098465371094362957",
     "title": "Premium WordPress Website for Luxury Chauffeur Service + Booking Platform Integration",

@@ -1,13 +1,20 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 56,
-  "matchedFilters": 11,
+  "totalScanned": 57,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "WordPress Website Maintenance",
+      "budget": "$15-$50/hr",
+      "score": 5100,
+      "url": "https://www.upwork.com/jobs/~022098423736341543230",
+      "addedAt": "2026-09-11T17:52:50.192Z"
+    },
     {
       "title": "Web Developer, Revenue Share, Work How You Want",
       "budget": "$20-$50/hr",
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022098406918004985337",
       "addedAt": "2026-09-11T13:46:44.001Z"
-    },
-    {
-      "title": "Deploy and Secure Website",
-      "budget": "Fixed-price",
-      "score": 95,
-      "url": "https://www.upwork.com/jobs/~022098342305984167277",
-      "addedAt": "2026-09-11T09:28:45.796Z"
     }
   ]
 }
