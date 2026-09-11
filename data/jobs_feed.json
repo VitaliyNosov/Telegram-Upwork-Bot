@@ -1,5 +1,35 @@
 [
   {
+    "id": "2098465371094362957",
+    "ciphertext": "~022098465371094362957",
+    "title": "Premium WordPress Website for Luxury Chauffeur Service + Booking Platform Integration",
+    "description": "We are looking for an experienced WordPress developer/designer to build a premium website for Olilux, a luxury private transportation and chauffeur booking service operating in the CT–NY–NJ market.\n\nThe website should have a polished, high-end look and booking experience comparable in quality and usability to platforms such as Blacklane and Luxy Ride. These companies are references for the level of design and user experience we are looking for — we are not looking to copy their websites.\n\nThe website should be fully responsive, fast, professional, SEO-friendly, and designed around converting visitors into bookings.\n\nA major requirement is the booking experience. We want the website to support a flow such as:\n\nOne Way / Hourly → Pickup Location → Destination → Additional Stops → Date & Time → Get a Quote → Vehicle Selection → Reservation / Checkout\n\nInitially, Olilux will use a third-party booking/dispatch platform to handle reservations, pricing, and payments. Therefore, the WordPress website must be built so that this third-party booking system can be integrated cleanly into the site.\n\nHowever, we already have our own detailed Pricing Rules Manual and pricing calculator, and in a future phase we plan to integrate a custom Olilux Pricing Engine directly into the website. The architecture of the website should allow us to replace the third-party booking/pricing system later without having to rebuild the entire website.\n\nWe would like applicants to provide two separate estimates:\n\nQuote A — Current Phase:\nPremium WordPress website + integration of a third-party booking platform.\n\nQuote B — Future Phase Estimate:\nIntegration of our own custom Pricing Engine and booking flow into the existing WordPress website. Our pricing rules, formulas, calculator, vehicle classes, surcharges, and business logic are already documented and will be provided to the selected developer.\n\nThe website will likely include approximately 8–10 core pages, including Home, Services, , Airport Transportation, Hourly Service, About, Service Areas, Contact, and Booking/Quote functionality.\n\nWe are especially interested in developers who have experience with luxury transportation, limo/chauffeur companies, travel booking websites, custom booking forms, APIs, Google Maps/Places, payment integrations, or similar reservation systems.\n\nWhen applying, please include examples of comparable WordPress projects you have completed and briefly explain how you would structure the website so we can use a third-party booking platform today and replace it with our own Pricing Engine later without rebuilding the site.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "html5",
+      "api-integration",
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! To build Olilux with the flexibility to swap booking engines later, we need to decouple the front-end booking UI from the backend logic. I will build the booking flow as a custom, modular JavaScript component. In Phase A, this UI will feed data into your third-party booking API. For Phase B, we will simply swap the API integration to connect to your custom Pricing Engine, keeping the website's design and core pages completely untouched.\n\nI specialize in custom WordPress development and API integrations, delivering premium, fast-loading sites like https://about.offerup.com/. \n\nI can provide precise estimates for Quote A and B once we discuss the specific third-party platform you plan to use. Could you share the name of that platform, or is there a good time to chat?",
+    "publishedDateTime": "2026-09-11T17:35:59+0000",
+    "addedAt": "2026-09-11T17:36:52.293Z",
+    "url": "https://www.upwork.com/jobs/~022098465371094362957",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098465371094362957/apply/"
+  },
+  {
     "id": "2098443373288536382",
     "ciphertext": "~022098443373288536382",
     "title": "Deploy Website from Claude",
