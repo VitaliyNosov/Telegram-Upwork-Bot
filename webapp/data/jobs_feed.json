@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098260101311343438",
+    "ciphertext": "~022098260101311343438",
+    "title": "WordPress Site Layout Repair",
+    "description": "I have an existing WordPress site hosted on Hostinger that was professionally built, but its appearance and layout have become corrupted. I need someone to diagnose the issue, identify the cause, and repair the current installation without rebuilding the site from scratch. The goal is to restore the site to its intended look and functionality while preserving existing content and structure.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "css"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! I can jump in right away to diagnose and fix your WordPress layout issue on Hostinger. When a previously working site suddenly breaks, it's usually due to a recent theme or plugin update conflict, CSS mismatch, or hosting-level PHP change. I specialize in troubleshooting these exact issues and will restore your site's original design without risking your content or needing a full rebuild.\n\nOver the years, I've resolved hundreds of broken layouts, styling glitches, and update conflicts. I work directly with the existing code, stylesheets, or page builders to pinpoint the exact failure. You can see the clean, stable results I maintain on live sites like https://waapple.org/.\n\nDo you happen to know if any plugins or themes were updated right before the layout broke? Let's chat so I can take a quick look and get this fixed for you.",
+    "publishedDateTime": "2026-09-11T04:00:46+0000",
+    "addedAt": "2026-09-11T04:01:35.924Z",
+    "url": "https://www.upwork.com/jobs/~022098260101311343438",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098260101311343438/apply/"
+  },
+  {
     "id": "2098168653503342173",
     "ciphertext": "~022098168653503342173",
     "title": "WordPress Developer for Gwenlightenment",

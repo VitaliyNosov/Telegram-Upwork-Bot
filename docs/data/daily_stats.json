@@ -1,12 +1,19 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 17,
-  "matchedFilters": 1,
+  "totalScanned": 18,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Site Layout Repair",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022098260101311343438",
+      "addedAt": "2026-09-11T04:01:25.654Z"
+    },
     {
       "title": "WordPress Developer for Gwenlightenment",
       "budget": "Fixed-price",
