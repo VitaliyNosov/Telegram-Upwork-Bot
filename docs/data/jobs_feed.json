@@ -1,5 +1,33 @@
 [
   {
+    "id": "2098468406864489293",
+    "ciphertext": "~022098468406864489293",
+    "title": "Senior WordPress/Elementor developer - Technical audit, takeover and modernization of existing site",
+    "description": "I am the founder of Koshas.com, an established content website focused on alternative and holistic medicine. The site was originally developed several years ago in WordPress and contains a significant library of articles, practice guides, user/practitioner stories and videos.\n\nI am now relaunching and evolving the business and want to move away from ongoing dependency on the original development team. I am looking for an experienced WordPress developer who can first perform a comprehensive technical audit and ultimately help transition the site into a clean, modern, easily manageable Elementor-based environment. The site will have additional sections but before moving in that direction, I need to look into the current infrastructure.\n\nThis is not initially a website redesign project. I expect to work separately with a UI/UX designer on the visual direction. I need someone who is particularly strong technically and can understand the existing architecture, recommend the right future architecture, and then implement approved designs cleanly in WordPress/Elementor.\n\nThe first milestone will be a technical discovery/audit. I need you to determine how the current site is configured, including hosting/server environment, WordPress setup, database/content structure, current theme, plugins, custom post types and fields, custom code, integrations, DNS/domain dependencies, backups, security, performance, analytics and any other relevant infrastructure.\n\nI believe the site is currently hosted through Bluehost, but part of the assignment is to verify and document the complete setup rather than rely on my technical knowledge.\n\nFollowing the audit, I want a clear recommendation explaining what should remain, what should be replaced or simplified, whether hosting should remain where it is, and how to transition the site to an Elementor-based environment that I can largely manage myself.\n\nThe eventual implementation will be performed in a staging environment and must preserve existing content, URLs and SEO value wherever appropriate. I want reusable/dynamic templates rather than manually rebuilt pages.. for example, common templates for Practices, Articles, Experiences and a new Practitioner Profile section that we will be introducing.\n\nA major objective of this project is maintainability and independence. I want to be able to change layouts, create landing pages, change site-wide styling, and manage normal visual updates myself through Elementor without requiring developer support or requiring relatively limited intervention.\n\nPerformance, responsive/mobile implementation, clean architecture, technical SEO, security and minimizing unnecessary plugins are important.\n\nI am looking for someone who has taken over existing/custom WordPress sites before, not just someone who builds new Elementor marketing sites.\n\nFor your proposal, please briefly explain how you would approach the technical audit of an unfamiliar WordPress site, how you determine what can safely be migrated/rebuilt in Elementor, and give an example of a site where you inherited another developer's WordPress implementation and simplified it.\n\nPlease quote the initial audit/discovery separately from the subsequent implementation. I would like to begin with a small paid milestone for the audit before committing to the next phase of the project.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 62,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! To audit Koshas.com, I will map your database, custom post types, and legacy code via WP-CLI to see exactly how your Articles, Practices, and Experiences are structured. I’ll then verify what can safely migrate to dynamic Elementor templates using ACF to keep your site fast, secure, and easy for you to manage without breaking your SEO.\n\nI specialize in taking over messy, developer-dependent sites. For example, I inherited and simplified the architecture for SEE International (seeintl.org), consolidating outdated plugins and custom code into a clean, high-performance setup their internal team can now easily update.\n\nI am happy to start with a standalone, fixed-price milestone of $350 for the comprehensive technical audit and roadmap before we touch any implementation. \n\nDo you have admin and hosting access ready so we can begin?",
+    "publishedDateTime": "2026-09-11T20:47:51+0000",
+    "addedAt": "2026-09-11T20:48:51.652Z",
+    "url": "https://www.upwork.com/jobs/~022098468406864489293",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098468406864489293/apply/"
+  },
+  {
     "id": "2098501527855244893",
     "ciphertext": "~022098501527855244893",
     "title": "Wordpress Elementor Developer",
