@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 29,
-  "matchedFilters": 2,
+  "totalScanned": 30,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022098168653503342173",
       "addedAt": "2026-09-11T00:59:13.040Z"
+    },
+    {
+      "title": "Deploy and Secure Website",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022098342305984167277",
+      "addedAt": "2026-09-11T09:28:45.796Z"
     }
   ]
 }

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098342305984167277",
+    "ciphertext": "~022098342305984167277",
+    "title": "Deploy and Secure Website",
+    "description": "I need someone to deploy a Claude-generated website and apply all necessary security updates, along with additional requested edits. The work should be completed quickly and efficiently, while staying within a reasonable budget. Please share relevant experience with website deployment, security improvements, and making website updates.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 320,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "mysql"
+    ],
+    "score": 95,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-11T09:27:27+0000",
+    "addedAt": "2026-09-11T09:29:10.175Z",
+    "url": "https://www.upwork.com/jobs/~022098342305984167277",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098342305984167277/apply/"
+  },
+  {
     "id": "2098260101311343438",
     "ciphertext": "~022098260101311343438",
     "title": "WordPress Site Layout Repair",
