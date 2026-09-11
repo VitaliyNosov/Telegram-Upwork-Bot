@@ -1,5 +1,40 @@
 [
   {
+    "id": "2098386148272950777",
+    "ciphertext": "~022098386148272950777",
+    "title": "Web Developer, Revenue Share, Work How You Want",
+    "description": "We're a web development agency with a steady flow of client work, and we're looking for developers who want to own projects rather than be managed through them.\n\nHow the money works:\nYou get 40% of every project you complete. After platform fees that's effectively half of what actually reaches us, so we split what comes in with the person who did the work. There's no ceiling on it.\n\nYou don't sell anything. The clients are ours and the work is already coming in. What you earn depends on how much you complete well, not on how much you can bring in.\n\nIf you'd rather have some security, there are options with a monthly base and a lower share. A $200 base with 35%, $350 with 30%, or $500 with 25%. Full commission pays more from around $3,300 of completed work a month and keeps climbing from there. You pick, and you can switch each quarter.\n\nRealistically, someone working steadily lands between $1,400 and $2,800 a month. Someone fast lands higher.\n\nHow we work:\nOne project, one person, start to finish. Design, build, client communication, the lot. Nobody hands you half a project and nobody waits on you to finish a piece of theirs.\n\nNo meetings. We dropped the weekly call entirely. No fixed hours either. Where you work and when is your business.\n\nWhat we need instead is simple: ClickUp kept current, deadlines held, and the client happy with what they get. That's it. Everything else is yours to decide.\n\nPlatforms: WordPress, Shopify, Wix, Squarespace and GoHighLevel. You need real hands-on experience with at least two or three and the ability to pick up the rest fast. Wix, Squarespace and GoHighLevel are where we're most short right now.\n\nHow we work with AI:\nAI is how most of the work gets done here. Our primary tool is Claude and Claude Code. You use it for building layouts, writing code, debugging and adapting content, and you prompt precisely enough to get usable output fast.\n\nAnd you check what it produces. You read it, catch what's wrong and fix it by hand when it goes off track. That means understanding HTML, CSS, JavaScript, Liquid and PHP well enough to take over. This is the part most applicants get wrong, so be specific about how you do it.\n\nWhat we need from you:\nReachable during European business hours and quick to reply. Clients are mostly European.\n\nDeadlines held, and problems flagged early rather than at the last minute.\n\nFluent English. You write the client replies yourself, ready to send.\n\nComfort with multilingual sites. A lot of our work is German, French and Spanish. You use AI for languages you don't speak and check carefully that nothing breaks.\n\nAnd the thing that matters most: you check your own work before it leaves your hands. That's what the whole arrangement rests on.\n\nHow this works:\nOne paid screening project in two stages. We send a brief, you come back with two genuinely different design concepts, 48 hours. We pick one and give feedback, you build it out, another 48 hours. Paid as fixed price milestones.\n\nIf that goes well, you're in.\n\nTo apply:\nStart your proposal with the word GENERALIST, then answer the screening questions. Include live links to sites you've built with the platform named next to each. Applications without those won't be reviewed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$20 - $50/hr",
+    "client": {
+      "country": "Switzerland",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "html5",
+      "javascript",
+      "php",
+      "css",
+      "wordpress",
+      "wix",
+      "squarespace",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 5099,
+    "coverLetter": "GENERALIST. Your agency’s model of high autonomy and AI-assisted development is exactly how I work. While I use tools like Claude to speed up layouts, my core strength is knowing when the AI goes off track. Because I write raw PHP, JavaScript, and Shopify Liquid daily, I easily spot and manually fix broken code, layout bugs, or CSS issues before anything reaches a client.\n\nI'm highly responsive during European hours, comfortable with multilingual setups, and ready for your 2-stage paid screening project.\n\nHere are a few live sites I've built:\n- https://waapple.org/ (WordPress)\n- https://www.thelifeyoucansave.org/ (WordPress)\n\nShould we start the screening process this week?",
+    "publishedDateTime": "2026-09-11T15:21:13+0000",
+    "addedAt": "2026-09-11T15:22:52.414Z",
+    "url": "https://www.upwork.com/jobs/~022098386148272950777",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098386148272950777/apply/"
+  },
+  {
     "id": "2098406918004985337",
     "ciphertext": "~022098406918004985337",
     "title": "WordPress child theme reskin + design tokens for future rebuild",
