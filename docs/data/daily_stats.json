@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 58,
-  "matchedFilters": 12,
+  "totalScanned": 59,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022098260101311343438",
       "addedAt": "2026-09-11T04:01:25.654Z"
+    },
+    {
+      "title": "WordPress Website Design for Polymers Business",
+      "budget": "$15-$30/hr",
+      "score": 3097,
+      "url": "https://www.upwork.com/jobs/~022098472808121683449",
+      "addedAt": "2026-09-11T18:06:45.286Z"
     },
     {
       "title": "WordPress Website with Elementor",
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022098399142408010341",
       "addedAt": "2026-09-11T13:14:42.407Z"
-    },
-    {
-      "title": "WordPress child theme reskin + design tokens for future rebuild",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022098406918004985337",
-      "addedAt": "2026-09-11T13:46:44.001Z"
     }
   ]
 }
