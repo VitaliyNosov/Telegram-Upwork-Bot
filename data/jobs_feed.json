@@ -1,5 +1,35 @@
 [
   {
+    "id": "2098406918004985337",
+    "ciphertext": "~022098406918004985337",
+    "title": "WordPress child theme reskin + design tokens for future rebuild",
+    "description": "We need a front-end developer to reskin our existing WordPress site via a child theme, and package the resulting styles as a reusable design system for a separate site rebuild. This is a CSS/visual job only  (no backend changes).\n\nDeliverable 1: WordPress child theme\n- Child theme that overrides the current theme's CSS to apply a new visual style (from Figma file)\n- Use the existing theme's built-in settings/Customizer options wherever possible\n- Audit the current CSS first and consolidate any duplicate/inconsistent classes\n- Built with utility classes, not one-off component classes, so styles are easy to reuse and scale\n- Fully responsive, cross-browser tested by you before it's handed over\n\nDeliverable 2: Portable design tokens / style guide\n- Colour palette, type scale, spacing scale, breakpoints, and core component styles (buttons, cards, forms, etc.), documented and exported as reusable tokens (CSS custom properties or JSON)\n- Should map cleanly onto a Tailwind config (the proposed stack for our rebuild)\n- A short style-guide reference showing the tokens/components in use\n\nRequired skills\n- Advanced CSS/SCSS\n- WordPress child theme development (hands-on)\n- WordPress Customizer / theme.json\n- Strong CSS architecture: consistent naming conventions, refactoring/consolidating messy or duplicated styles\n- Experience building design tokens / design systems\n- Working familiarity with Tailwind CSS\n- Responsive and cross-browser QA\n- Figma (dev mode)\n\nNote: We need complete, self-tested work delivered per ticket. Please don't submit partial or unverified work expecting multiple correction rounds\n\nTo apply, please include:\n- Examples of WordPress child themes you've built\n- An example of a design token set / style guide you've produced\n- Your estimated timeline for the above",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "frontend-development",
+      "scss",
+      "tailwind-css-framework",
+      "css",
+      "figma"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can deliver a clean, utility-class-driven child theme based on your Figma design, while structuring your style guide into portable design tokens (JSON/CSS variables) mapped perfectly for your future Tailwind rebuild.\n\nI specialize in advanced CSS/SCSS architecture and Figma-to-WordPress development. For a look at my highly responsive, clean frontend work, check out https://about.offerup.com/.\n\nRegarding your requirements:\n- Child theme example: I developed the custom responsive frontend and layout architecture for https://www.thelifeyoucansave.org/.\n- Design tokens: I will deliver your color palette, typography, and spacing as a clean theme.json or Tailwind-ready JSON config.\n- Timeline: I estimate 7-10 days for the complete CSS audit, child theme build, self-testing, and token export.\n\nCould you share the Figma link so I can review the design system?",
+    "publishedDateTime": "2026-09-11T13:44:01+0000",
+    "addedAt": "2026-09-11T13:46:51.392Z",
+    "url": "https://www.upwork.com/jobs/~022098406918004985337",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098406918004985337/apply/"
+  },
+  {
     "id": "2098399142408010341",
     "ciphertext": "~022098399142408010341",
     "title": "WordPress child theme reskin + design tokens for future rebuild",

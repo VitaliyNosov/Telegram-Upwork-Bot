@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 41,
-  "matchedFilters": 6,
+  "totalScanned": 42,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022098399142408010341",
       "addedAt": "2026-09-11T13:14:42.407Z"
+    },
+    {
+      "title": "WordPress child theme reskin + design tokens for future rebuild",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022098406918004985337",
+      "addedAt": "2026-09-11T13:46:44.001Z"
     },
     {
       "title": "Deploy and Secure Website",
