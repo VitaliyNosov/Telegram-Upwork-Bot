@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 59,
-  "matchedFilters": 13,
+  "totalScanned": 60,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 1
   },
   "topJobs": [
@@ -65,18 +65,18 @@
       "addedAt": "2026-09-11T17:36:45.497Z"
     },
     {
+      "title": "Experienced WordPress Developer | Elementor, Responsive & Performance",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022098473362939623742",
+      "addedAt": "2026-09-11T18:08:50.024Z"
+    },
+    {
       "title": "E-Commerce Operations Manager",
       "budget": "Fixed-price",
       "score": 142,
       "url": "https://www.upwork.com/jobs/~022098437353835703117",
       "addedAt": "2026-09-11T15:46:46.069Z"
-    },
-    {
-      "title": "WordPress child theme reskin + design tokens for future rebuild",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022098399142408010341",
-      "addedAt": "2026-09-11T13:14:42.407Z"
     }
   ]
 }
