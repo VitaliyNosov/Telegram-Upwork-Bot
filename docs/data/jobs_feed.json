@@ -1,5 +1,33 @@
 [
   {
+    "id": "2098501527855244893",
+    "ciphertext": "~022098501527855244893",
+    "title": "Wordpress Elementor Developer",
+    "description": "What You’ll Be Doing\nYour responsibilities will include:\n\n-QAing frontend development tasks completed by other developers\n-Reviewing WordPress and Elementor pages for accuracy and quality\n-Comparing completed development against approved designs\n-Checking responsive behavior across desktop, tablet, and mobile\n-Identifying spacing, typography, alignment, styling, and consistency issues\n-Testing buttons, links, forms, navigation, popups, and interactive elements\n-Identifying development issues that could negatively affect SEO\n-Reviewing heading structure, internal links, image optimization, URLs, metadata implementation, and other on-page/technical elements\n-Checking website speed and basic Core Web Vitals considerations\n-Identifying bugs and troubleshooting their cause\n-Providing clear, actionable feedback to developers\n-Fixing development issues directly when appropriate\n-Completing frontend Elementor development tasks as needed\n-Helping improve our development and QA processes over time\n-Performing pre-launch and post-launch website QA\n\nWhat We’re Looking For\n\nRequired\n-Strong WordPress development experience\n-Advanced experience with Elementor / Elementor Pro\n-Strong HTML and CSS knowledge\n-Solid understanding of responsive web development\n-Ability to troubleshoot frontend website issues independently\n-Strong attention to detail\n-Experience QAing website development\n-Ability to clearly explain issues and provide useful feedback to other developers\n-Comfortable jumping into a website and fixing issues directly when needed\n-Ability to work independently without constant supervision\n\nSEO Knowledge Is Important\n-You do not need to be an SEO strategist, but you must understand how website development can impact SEO.\nYou should be familiar with areas such as:\n-H1–H6 heading structure\n-Internal linking\n-URL structures\n-301 redirects\n-Indexation basics\n-Canonical tags\nMeta title and description implementation\n-Image optimization and alt text\n-Schema implementation\n-XML sitemaps and robots.txt basics\n-Page speed and Core Web Vitals\n-Preventing development changes from unintentionally damaging existing rankings\n-We want someone who notices when something may create an SEO problem and raises the concern rather than simply completing the visual portion of the task.\n\nWho Will Thrive in This Role\n-We’re looking for someone who is proactive and detail-oriented.\n-We don’t want QA to simply mean checking whether a page “looks close enough.”\n\nThe right person will notice things like:\n-A mobile layout breaking at certain screen sizes\n-Inconsistent spacing between sections\n-Incorrect heading hierarchy\n-Buttons pointing to the wrong destination\n-Forms that submit but aren’t actually routing leads correctly\n-Missing hover states\n-Images that are unnecessarily large\n-Sections that don’t match the approved design\n-Changes that could negatively impact SEO\n-Development shortcuts that may cause future problems\n-If something isn't built correctly, we want you to catch it, explain what needs to change, and either send clear feedback to the developer or fix it yourself when appropriate.\n\nWhat We Value\nWe work best with people who:\n\n-Take ownership of their work\n-Have a strong eye for detail\n-Can troubleshoot rather than immediately asking someone else for the solution\n-Communicate clearly\n-Give constructive and specific feedback\n-Care about the quality of the finished website\n-Catch problems before they reach the client\n-Look for ways to improve processes when recurring problems appear\n\nHow to Apply\nPlease include:\n-A brief overview of your WordPress and Elementor experience\n-Examples of WordPress/Elementor websites you have developed\n-Your experience with website QA or reviewing other developers' work\n-Your level of experience with technical/on-page SEO\n-Any experience working within a web or marketing agency\n\nPlease also answer:\n-You are QAing a newly developed Elementor service page before it is sent to a client for approval. What specifically would you check before marking the development task complete?\n-We are looking for someone interested in an ongoing relationship and who can become a reliable part of our website development and QA process.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$20 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 66,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "frontend-development",
+      "elementor",
+      "figma"
+    ],
+    "score": 3599,
+    "coverLetter": "When QAing a new Elementor service page, I immediately run a pixel-perfect design comparison across breakpoints, check H1-H6 hierarchy, test form routing and links, verify image optimization, and audit Core Web Vitals to protect your SEO.\n\nHaving worked extensively with digital agencies, I specialize in both building and QAing high-performing WordPress sites (like https://www.thelifeyoucansave.org/). I have a sharp eye for catching mobile layout shifts, broken hover states, and structural SEO issues that other developers often miss.\n\nI am looking for a long-term relationship to help elevate your team's QA and development standards. Do you have a current staging site I could review for you to show you how I work?",
+    "publishedDateTime": "2026-09-11T20:00:27+0000",
+    "addedAt": "2026-09-11T20:02:54.943Z",
+    "url": "https://www.upwork.com/jobs/~022098501527855244893",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098501527855244893/apply/"
+  },
+  {
     "id": "2098490152108991633",
     "ciphertext": "~022098490152108991633",
     "title": "Ecommerce Web Developer (Shopify/WordPress) with Technical SEO",

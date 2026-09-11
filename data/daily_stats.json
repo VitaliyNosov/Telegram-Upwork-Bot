@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 66,
-  "matchedFilters": 17,
+  "totalScanned": 67,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 17,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 5099,
       "url": "https://www.upwork.com/jobs/~022098386148272950777",
       "addedAt": "2026-09-11T15:22:46.044Z"
+    },
+    {
+      "title": "Wordpress Elementor Developer",
+      "budget": "$20-$35/hr",
+      "score": 3599,
+      "url": "https://www.upwork.com/jobs/~022098501527855244893",
+      "addedAt": "2026-09-11T20:02:44.432Z"
     },
     {
       "title": "WordPress Site Layout Repair",
@@ -70,13 +77,6 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022098168653503342173",
       "addedAt": "2026-09-11T00:59:13.040Z"
-    },
-    {
-      "title": "WordPress Consultant Needed",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022098388512676816017",
-      "addedAt": "2026-09-11T12:32:49.992Z"
     }
   ]
 }
