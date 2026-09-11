@@ -1,5 +1,40 @@
 [
   {
+    "id": "2098483165556952569",
+    "ciphertext": "~022098483165556952569",
+    "title": "Wordpress developer needed",
+    "description": "I'm looking for a wordpress developer who can create and handle end to end a wordpress website with woocommerse like an admin. Give me your best rate and why you're a good fit. Must know woocommerse and AI integrations",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 62,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "css",
+      "php",
+      "javascript",
+      "html",
+      "web-design",
+      "html5",
+      "mysql",
+      "wordpress-website"
+    ],
+    "score": 2950,
+    "coverLetter": "Hi! My rate for end-to-end WordPress development is $50/hr. I’m a great fit because I specialize in custom WooCommerce builds and advanced API integrations, including connecting AI tools (like OpenAI/ChatGPT) to automate product descriptions, customer support, or personalized search. \n\nI will handle your entire project from initial setup to launch, ensuring the site is secure, incredibly fast, and easy for you to manage as an admin. For a look at my work with complex, highly-customized WordPress platforms, check out https://www.thelifeyoucansave.org/. \n\nWhat specific AI features or integrations do you want to bring to your WooCommerce store? Let's chat and discuss the details.",
+    "publishedDateTime": "2026-09-11T18:46:38+0000",
+    "addedAt": "2026-09-11T18:48:49.940Z",
+    "url": "https://www.upwork.com/jobs/~022098483165556952569",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098483165556952569/apply/"
+  },
+  {
     "id": "2098478525226755677",
     "ciphertext": "~022098478525226755677",
     "title": "WordPress/Elementor Developer — SEO, AEO & GEO Optimization (Ongoing, Hourly)",

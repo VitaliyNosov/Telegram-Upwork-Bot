@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 63,
-  "matchedFilters": 15,
+  "totalScanned": 64,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 1
   },
   "topJobs": [
@@ -51,6 +51,13 @@
       "addedAt": "2026-09-11T18:31:02.013Z"
     },
     {
+      "title": "Wordpress developer needed",
+      "budget": "$14-$28/hr",
+      "score": 2950,
+      "url": "https://www.upwork.com/jobs/~022098483165556952569",
+      "addedAt": "2026-09-11T18:48:44.728Z"
+    },
+    {
       "title": "WordPress Developer for Gwenlightenment",
       "budget": "Fixed-price",
       "score": 200,
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022098465371094362957",
       "addedAt": "2026-09-11T17:36:45.497Z"
-    },
-    {
-      "title": "Experienced WordPress Developer | Elementor, Responsive & Performance",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022098473362939623742",
-      "addedAt": "2026-09-11T18:08:50.024Z"
     }
   ]
 }
