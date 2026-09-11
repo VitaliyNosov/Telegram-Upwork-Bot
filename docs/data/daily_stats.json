@@ -1,13 +1,20 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 64,
-  "matchedFilters": 16,
+  "totalScanned": 66,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 15,
+    "wordpress developer": 16,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Ecommerce Web Developer (Shopify/WordPress) with Technical SEO",
+      "budget": "$18-$195/hr",
+      "score": 19600,
+      "url": "https://www.upwork.com/jobs/~022098490152108991633",
+      "addedAt": "2026-09-11T19:16:44.692Z"
+    },
     {
       "title": "WordPress Website Maintenance",
       "budget": "$15-$50/hr",
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022098388512676816017",
       "addedAt": "2026-09-11T12:32:49.992Z"
-    },
-    {
-      "title": "Premium WordPress Website for Luxury Chauffeur Service + Booking Platform Integration",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022098465371094362957",
-      "addedAt": "2026-09-11T17:36:45.497Z"
     }
   ]
 }

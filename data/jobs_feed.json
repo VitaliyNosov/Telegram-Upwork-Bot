@@ -1,5 +1,32 @@
 [
   {
+    "id": "2098490152108991633",
+    "ciphertext": "~022098490152108991633",
+    "title": "Ecommerce Web Developer (Shopify/WordPress) with Technical SEO",
+    "description": "Ongoing web development across several ecommerce sites on Shopify and WordPress. Work includes structured data implementation, technical SEO fixes, accessibility remediation, and bug fixes. Hourly, ticketed work.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 195,
+    "budgetDisplay": "$18 - $195/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 72,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "shopify-seo",
+      "wp-ecommerce"
+    ],
+    "score": 19600,
+    "coverLetter": "Hi! Handling ongoing tickets across both Shopify and WordPress is right in my wheelhouse. I specialize in both ecosystems, focusing on clean development, performance optimization, and technical troubleshooting.\n\nI can jump right in to tackle your technical SEO fixes, schema markup (structured data), accessibility remediation, and general bug fixes. Whether it's resolving WooCommerce conflicts, fixing Shopify Liquid issues, or optimizing Core Web Vitals for search rankings, I ensure your sites run fast and error-free. You can see an example of my clean, high-performance CMS work here: https://www.thelifeyoucansave.org/\n\nHow do you currently manage your development queue? Let’s connect to discuss how I can support your stores.",
+    "publishedDateTime": "2026-09-11T19:14:28+0000",
+    "addedAt": "2026-09-11T19:16:50.199Z",
+    "url": "https://www.upwork.com/jobs/~022098490152108991633",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098490152108991633/apply/"
+  },
+  {
     "id": "2098483165556952569",
     "ciphertext": "~022098483165556952569",
     "title": "Wordpress developer needed",
