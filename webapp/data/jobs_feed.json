@@ -1,5 +1,36 @@
 [
   {
+    "id": "2098478525226755677",
+    "ciphertext": "~022098478525226755677",
+    "title": "WordPress/Elementor Developer — SEO, AEO & GEO Optimization (Ongoing, Hourly)",
+    "description": "We're a commercial masonry, waterproofing, and building envelope restoration contractor based in Michigan, looking for a hands-on WordPress/Elementor specialist to fix and maintain our site (brickworksmi.com) — with a focus on making it perform across traditional search, AI answer engines, and generative AI tools.\n\nThis is not a \"make it pretty\" role. This is a technical optimization and implementation role. You'll be editing live pages, fixing structural SEO issues, and building content/schema so our site is findable and citable across Google, ChatGPT, Perplexity, and other AI-driven discovery tools.\n\nPhase 1 — Site Cleanup (still outstanding):\n\nAudit and fix indexation gaps across ~86 pages (multiple pages currently show \"No Index\" or \"Schema: Off\" in Rank Math)\nFix broken links, outdated brand references, and duplicate/stale content\nCorrect meta titles, meta descriptions, header structure, keyword targeting\nConfirm site speed, caching, and image optimization are properly configured\n\nPhase 2 — Ongoing SEO Deliverables:\n\nOn-page optimization: titles, meta descriptions, headers, internal linking, keyword targeting\nTechnical SEO monitoring: indexation, crawlability, site speed, schema health\nNew landing page builds in Elementor (using our existing design system)\n\nPhase 3 — AEO Deliverables (Answer Engine Optimization):\n\nStructuring page content so AI assistants (ChatGPT, Perplexity, Google AI Overviews) can directly extract and quote answers — clear Q&A formatting, direct-answer paragraphs positioned high on the page, FAQ schema markup\nIdentifying the specific questions our customers ask AI tools and building content that directly answers them\n\nPhase 4 — GEO Deliverables (Generative Engine Optimization):\n\nStrengthening entity signals so AI tools correctly understand and describe who we are, what we do, and where we operate (consistent brand/NAP data across the site and external listings)\nStructuring content to be citation-friendly for generative AI summaries — clear, quotable, factual statements rather than vague marketing copy\nEvaluating and implementing an llms.txt file and other machine-readability signals as needed\n\nRequirements:\n\nFluent written and spoken English — non-negotiable, this is client-facing work\nProven WordPress, Elementor, and Rank Math SEO experience\nReal working knowledge of AEO/GEO concepts — not just \"I do SEO so I do this too\"\nCommercial/B2B site experience preferred (construction, contracting, industrial services a strong plus)\nAvailable for ongoing weekly work, not a one-time freelancer\n\nHow to Apply — read carefully:\nProposals that restate this job posting instead of answering the question below will not be reviewed.\n\nGo to brickworksmi.com. Pick ONE page. Tell us:\n\nOne specific SEO, AEO, or GEO problem you see on that page\nExactly how you'd fix it (not \"I'd optimize it\" — the actual steps)\nYour hourly rate",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "yoast-seo",
+      "wordpress",
+      "elementor",
+      "on-page-seo",
+      "technical-seo",
+      "content-writing"
+    ],
+    "score": 3000,
+    "coverLetter": "On your homepage (brickworksmi.com), the primary GEO/AEO issue is the lack of structured LocalBusiness JSON-LD schema mapping your exact Michigan service areas, meaning AI engines like Perplexity can't easily verify and cite your geographic authority. \n\nTo fix this, I will write custom JSON-LD schema in Rank Math, defining your exact \"areaServed\" using Wikidata/Geonames URIs for Macomb County and Detroit, and inject FAQ schema directly into your Elementor layout. My hourly rate is $45/hr.\n\nAs a technical WordPress and Elementor developer, I focus on clean backend execution, speed optimization, and schema deployment rather than just visual tweaks. You can see my clean structural work on high-authority sites like https://www.cchpca.org/.\n\nLet's chat to get Phase 1 kicked off this week.",
+    "publishedDateTime": "2026-09-11T18:28:48+0000",
+    "addedAt": "2026-09-11T18:31:09.636Z",
+    "url": "https://www.upwork.com/jobs/~022098478525226755677",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098478525226755677/apply/"
+  },
+  {
     "id": "2098473362939623742",
     "ciphertext": "~022098473362939623742",
     "title": "Experienced WordPress Developer | Elementor, Responsive & Performance",

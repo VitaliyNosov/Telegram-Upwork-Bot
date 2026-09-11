@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 61,
-  "matchedFilters": 14,
+  "totalScanned": 63,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "woocommerce": 1
   },
   "topJobs": [
@@ -44,6 +44,13 @@
       "addedAt": "2026-09-11T11:14:47.627Z"
     },
     {
+      "title": "WordPress/Elementor Developer — SEO, AEO & GEO Optimization (Ongoing, Hourly)",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022098478525226755677",
+      "addedAt": "2026-09-11T18:31:02.013Z"
+    },
+    {
       "title": "WordPress Developer for Gwenlightenment",
       "budget": "Fixed-price",
       "score": 200,
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022098473362939623742",
       "addedAt": "2026-09-11T18:08:50.024Z"
-    },
-    {
-      "title": "E-Commerce Operations Manager",
-      "budget": "Fixed-price",
-      "score": 142,
-      "url": "https://www.upwork.com/jobs/~022098437353835703117",
-      "addedAt": "2026-09-11T15:46:46.069Z"
     }
   ]
 }
