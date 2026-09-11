@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 49,
-  "matchedFilters": 9,
+  "totalScanned": 51,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 95,
       "url": "https://www.upwork.com/jobs/~022098342305984167277",
       "addedAt": "2026-09-11T09:28:45.796Z"
+    },
+    {
+      "title": "Deploy Website from Claude",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022098443373288536382",
+      "addedAt": "2026-09-11T16:11:04.316Z"
     }
   ]
 }

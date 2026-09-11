@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098443373288536382",
+    "ciphertext": "~022098443373288536382",
+    "title": "Deploy Website from Claude",
+    "description": "I created a website using Claude and have the exact design and content ready. I need help turning it into a live online website. The work includes setting up the site, publishing the pages, and making sure everything looks and functions correctly. I’m looking for someone who can handle the deployment process smoothly and help get the site online by Monday or Tuesday.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 321,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "php",
+      "html"
+    ],
+    "score": 95,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-11T16:08:50+0000",
+    "addedAt": "2026-09-11T16:11:28.695Z",
+    "url": "https://www.upwork.com/jobs/~022098443373288536382",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098443373288536382/apply/"
+  },
+  {
     "id": "2098437353835703117",
     "ciphertext": "~022098437353835703117",
     "title": "E-Commerce Operations Manager",
