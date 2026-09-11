@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
   "lastDigestSentDate": "2026-09-11",
-  "totalScanned": 34,
-  "matchedFilters": 4,
+  "totalScanned": 35,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022098168653503342173",
       "addedAt": "2026-09-11T00:59:13.040Z"
+    },
+    {
+      "title": "WordPress Consultant Needed",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022098388512676816017",
+      "addedAt": "2026-09-11T12:32:49.992Z"
     },
     {
       "title": "Deploy and Secure Website",

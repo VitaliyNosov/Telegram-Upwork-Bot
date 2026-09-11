@@ -1,5 +1,32 @@
 [
   {
+    "id": "2098388512676816017",
+    "ciphertext": "~022098388512676816017",
+    "title": "WordPress Consultant Needed",
+    "description": "We're looking for an experienced WordPress developer to help with a couple of small issues on our existing company website.\n\nThe site is already live and functioning, so this is not a redesign or rebuild.\n\nWe need help with:\n- Troubleshooting and fixing one WordPress issue currently affecting the site\n- Adding a small functionality/update to an existing section\n- Checking that the change works properly across desktop and mobile\n- Letting us know if you notice anything in the current setup that could cause the issue again\n\nWe'd prefer someone who is comfortable working inside an existing WordPress setup and can diagnose the problem before making unnecessary changes.\n\nThis should be a relatively small task and we expect it to take around 1-2 hours for someone experienced.\n\nPlease include a short note about a WordPress issue you recently diagnosed or fixed. No long proposal is necessary.\n\nWe can provide WordPress access and the exact issue/details immediately after hiring.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wordpress-theme"
+    ],
+    "score": 150,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-11T12:30:44+0000",
+    "addedAt": "2026-09-11T12:33:14.419Z",
+    "url": "https://www.upwork.com/jobs/~022098388512676816017",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098388512676816017/apply/"
+  },
+  {
     "id": "2098369420398344510",
     "ciphertext": "~022098369420398344510",
     "title": "WordPress Website with Elementor",
