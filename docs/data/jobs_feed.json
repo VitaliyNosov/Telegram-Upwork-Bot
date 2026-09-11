@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098399142408010341",
+    "ciphertext": "~022098399142408010341",
+    "title": "WordPress child theme reskin + design tokens for future rebuild",
+    "description": "We need a front-end developer to reskin our existing WordPress site via a child theme, and package the resulting styles as a reusable design system for a separate site rebuild.\n\n**This is a CSS/visual job only** (no backend changes)\n\n**Deliverable 1: WordPress child theme**\n\n- Child theme that overrides the current theme's CSS to apply a new visual style (from Figma file)\n- Use the existing theme's built-in settings/Customizer options wherever possible\n- Audit the current CSS first and consolidate any duplicate/inconsistent classes\n- Built with utility classes, not one-off component classes, so styles are easy to reuse and scale\n- Fully responsive, cross-browser tested by you before it's handed over\n\n**Deliverable 2: Portable design tokens / style guide**\n\n- Colour palette, type scale, spacing scale, breakpoints, and core component styles (buttons, cards, forms, etc.), documented and exported as reusable tokens (CSS custom properties or JSON)\n- Should map cleanly onto a Tailwind config (the proposed stack for our rebuild)\n- A short style-guide reference showing the tokens/components in use\n\n**Required skills**\n\n- Advanced CSS/SCSS\n- WordPress child theme development (hands-on)\n- WordPress Customizer / theme.json\n- Strong CSS architecture: consistent naming conventions, refactoring/consolidating messy or duplicated styles\n- Experience building design tokens / design systems\n- Working familiarity with Tailwind CSS\n- Responsive and cross-browser QA\n- Figma (dev mode)\n\n**Note**\n\n- We need complete, self-tested work delivered per ticket. Please don't submit partial or unverified work expecting multiple correction rounds\n\n**To apply, please include:**\n\n- Examples of WordPress child themes you've built\n- An example of a design token set / style guide you've produced\n- Your estimated timeline and rate for the above",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "frontend-development",
+      "tailwind-css-framework",
+      "css",
+      "figma"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-11T13:13:02+0000",
+    "addedAt": "2026-09-11T13:15:06.834Z",
+    "url": "https://www.upwork.com/jobs/~022098399142408010341",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098399142408010341/apply/"
+  },
+  {
     "id": "2098388512676816017",
     "ciphertext": "~022098388512676816017",
     "title": "WordPress Consultant Needed",
