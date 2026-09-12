@@ -1,10 +1,10 @@
 {
   "date": "2026-09-12",
   "lastDigestSentDate": "2026-09-12",
-  "totalScanned": 13,
-  "matchedFilters": 6,
+  "totalScanned": 14,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4100,
       "url": "https://www.upwork.com/jobs/~022098545584806575469",
       "addedAt": "2026-09-12T01:57:41.935Z"
+    },
+    {
+      "title": "Elementor Pro Landing Page Redesign",
+      "budget": "$18-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022098614623771835757",
+      "addedAt": "2026-09-12T03:31:12.474Z"
     },
     {
       "title": "URGENT: Webflow to WordPress / Elementor Pro Migration | Pixel-Perfect + SEO Ready | 48 Hours",
