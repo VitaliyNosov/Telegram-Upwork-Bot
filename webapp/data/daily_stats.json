@@ -1,10 +1,10 @@
 {
   "date": "2026-09-12",
   "lastDigestSentDate": "2026-09-12",
-  "totalScanned": 9,
-  "matchedFilters": 3,
+  "totalScanned": 11,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 3
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,20 @@
       "score": 6095,
       "url": "https://www.upwork.com/jobs/~022098529282206256633",
       "addedAt": "2026-09-12T00:50:46.358Z"
+    },
+    {
+      "title": "WordPress Security Developer Needed",
+      "budget": "$20-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022098545584806575469",
+      "addedAt": "2026-09-12T01:57:41.935Z"
+    },
+    {
+      "title": "WordPress Website Repair and Security",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022098545724399365784",
+      "addedAt": "2026-09-12T01:57:49.019Z"
     },
     {
       "title": "Website Developer Needed for Clothing Brand E-Commerce Store",

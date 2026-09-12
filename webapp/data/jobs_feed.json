@@ -1,5 +1,71 @@
 [
   {
+    "id": "2098545724399365784",
+    "ciphertext": "~022098545724399365784",
+    "title": "WordPress Website Repair and Security",
+    "description": "We need a freelancer to repair and improve WordPress websites, including malware removal, performance optimization, security patching, and general refinements. The work involves identifying issues, fixing broken functionality, improving site speed, and strengthening security to protect against future threats. You should be comfortable handling multiple WordPress sites and delivering reliable, clean fixes that improve stability and user experience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 68,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design",
+      "uiux-prototyping",
+      "responsive-design",
+      "all-in-one-seo-pack",
+      "css",
+      "javascript",
+      "internet-security",
+      "malware-removal",
+      "wordpress-malware-removal"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can help you clean, secure, and optimize your WordPress websites. \n\nI specialize in emergency repairs, malware removal, and security hardening. Whether your sites are suffering from slow loading times, broken plugins, or security vulnerabilities, I can jump in to diagnose the root causes and implement clean, permanent fixes. I regularly handle database optimization and caching configurations to boost Core Web Vitals, and I have maintained and optimized high-performance WordPress sites like https://www.thelifeyoucansave.org/.\n\nI am highly comfortable managing multiple sites simultaneously and setting up secure staging environments to test all patches and refinements safely before going live.\n\nAre any of your sites currently experiencing active malware infections or critical errors right now? Let's chat and get them sorted out.",
+    "publishedDateTime": "2026-09-12T01:55:16+0000",
+    "addedAt": "2026-09-12T01:57:53.882Z",
+    "url": "https://www.upwork.com/jobs/~022098545724399365784",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098545724399365784/apply/"
+  },
+  {
+    "id": "2098545584806575469",
+    "ciphertext": "~022098545584806575469",
+    "title": "WordPress Security Developer Needed",
+    "description": "We need an experienced WordPress security developer to recover our website after a confirmed hack. The hosting provider found malicious PHP backdoors, remote command-execution code, and a modified index.php downloading malware from an external IP. Scope includes preserving a quarantined backup, scanning the hosting account for malware, backdoors, unauthorized users, cron jobs, redirects, and database injections, identifying the likely point of entry, removing the compromised installation, reinstalling clean WordPress core files, verified themes and plugins, cleaning the database, recovering approved content and images, removing unauthorized administrators and hosting users, securing wp-config.php, updating PHP, WordPress, plugins, and themes, reviewing file permissions, .htaccess, uploads, DNS, FTP accounts, and redirects, testing website, forms, email, SSL, and mobile functionality, and providing a written report. Do not simply delete the two reported files or install a security plugin. Please share your experience, process, turnaround time, fixed-price quote, and required access.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 115,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "internet-security"
+    ],
+    "score": 4100,
+    "coverLetter": "Hi! I can help you completely recover and secure your hacked WordPress site. I understand this requires a systematic clean—not just deleting a couple of files or running a basic security plugin.\n\nAs a WordPress developer specializing in malware removal and security hardening, my process aligns exactly with your needs: I will preserve the quarantine, scan the database for injections, purge backdoors, reinstall clean core files and verified plugins, and secure your `wp-config.php` and `.htaccess`. I've successfully maintained and secured high-profile sites like https://www.seeintl.org/.\n\nI can complete this entire recovery and provide a detailed report within 24–48 hours. My fixed-price quote for this full scope is $400. To get started, I will just need your hosting control panel (cPanel) and SFTP access.\n\nAre you available for a quick chat to discuss the next steps?",
+    "publishedDateTime": "2026-09-12T01:55:16+0000",
+    "addedAt": "2026-09-12T01:57:48.585Z",
+    "url": "https://www.upwork.com/jobs/~022098545584806575469",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098545584806575469/apply/"
+  },
+  {
     "id": "2098531433661511998",
     "ciphertext": "~022098531433661511998",
     "title": "Front End Website Developer Needed for Clothing Brand Shop",
