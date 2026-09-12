@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098741075824454477",
+    "ciphertext": "~022098741075824454477",
+    "title": "Website Development for Adult Toys Store",
+    "description": "We need a freelancer to complete a website for an online store selling adult toys in Vietnam. The work includes translating content into Vietnamese, improving the site structure, and ensuring the platform is ready for product listings and customer use. The ideal candidate can help create a clean, functional shopping experience while supporting both English and Vietnamese language options. Please share relevant examples of similar e-commerce projects and your approach to completing this work efficiently.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "php",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you wrap up your WooCommerce store and get it fully ready for the Vietnamese market. Building high-performing, bilingual e-commerce sites is right in my wheelhouse. \n\nTo ensure a seamless shopping experience, I will optimize your site structure, set up a robust multilingual framework (using WPML or Polylang) for English and Vietnamese, and make sure your checkout and product listings are flawless. For a sense of the clean, highly functional WordPress structures I build, you can check out my work on https://www.thelifeyoucansave.org/. \n\nIs the site currently built on Elementor, Gutenberg, or a custom theme? Let's chat about your current setup so we can get this launched quickly.",
+    "publishedDateTime": "2026-09-12T11:51:24+0000",
+    "addedAt": "2026-09-12T11:53:10.714Z",
+    "url": "https://www.upwork.com/jobs/~022098741075824454477",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098741075824454477/apply/"
+  },
+  {
     "id": "2098734098958306809",
     "ciphertext": "~022098734098958306809",
     "title": "WordPress Developer Needed for a Minimal Mediation Website – Design and Content Already Prepared",

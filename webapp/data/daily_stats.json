@@ -1,10 +1,10 @@
 {
   "date": "2026-09-12",
   "lastDigestSentDate": "2026-09-12",
-  "totalScanned": 25,
-  "matchedFilters": 12,
+  "totalScanned": 26,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -64,18 +64,18 @@
       "addedAt": "2026-09-12T06:59:04.385Z"
     },
     {
+      "title": "Website Development for Adult Toys Store",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022098741075824454477",
+      "addedAt": "2026-09-12T11:53:05.391Z"
+    },
+    {
       "title": "WordPress Website Repair and Security",
       "budget": "Fixed-price",
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022098545724399365784",
       "addedAt": "2026-09-12T01:57:49.019Z"
-    },
-    {
-      "title": "Website Developer Needed for Clothing Brand E-Commerce Store",
-      "budget": "Fixed-price",
-      "score": 50,
-      "url": "https://www.upwork.com/jobs/~022098530948975731857",
-      "addedAt": "2026-09-12T00:56:44.084Z"
     }
   ]
 }
