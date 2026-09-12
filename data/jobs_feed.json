@@ -1,5 +1,32 @@
 [
   {
+    "id": "2098895531972246893",
+    "ciphertext": "~022098895531972246893",
+    "title": "Fix my 3 crashed Wordpress websites (\"Error establishing a database connection\")",
+    "description": "I hired an Upworker to fix my one website that wasn't loading (botsquad.co.nz) and now my other 2 websites (fallon.co.nz and mondaywiki.com) are also down.  All 3 websites now give the error message \"error connecting to database\".  Upworker has had access to my hosting and all 3 are hosted in the same place.  Upworker says it's a hosting/server issue, my host says otherwise.  As problem occurred immediately after Upworker had access to my hosting I am pretty sure it is their error.  Can you help me get my sites live again?  All 3 are hosted on Vultr.com (which doesn't offer a lot of support).",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "New Zealand",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 59,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 4100,
+    "coverLetter": "Hi! \"Error establishing a database connection\" across three Vultr-hosted sites usually means one of two things: either the previous developer misconfigured the database credentials in your wp-config.php files, or the MySQL database server on your Vultr VPS has crashed (often due to memory exhaustion). \n\nSince Vultr is an unmanaged host, it won't automatically restart crashed services. I specialize in WordPress server-level troubleshooting and database recovery. I can jump into your Vultr console via SSH, check the MySQL service status, inspect the error logs, and get botsquad.co.nz, fallon.co.nz, and mondaywiki.com back online safely.\n\nHere is an example of a major WordPress site I support: https://about.offerup.com/\n\nAre you available for a quick chat so I can look at your Vultr panel and get this sorted out for you today?",
+    "publishedDateTime": "2026-09-12T22:05:44+0000",
+    "addedAt": "2026-09-12T22:07:15.183Z",
+    "url": "https://www.upwork.com/jobs/~022098895531972246893",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098895531972246893/apply/"
+  },
+  {
     "id": "2098845544456466072",
     "ciphertext": "~022098845544456466072",
     "title": "Website Designer/Developer Needed for Interstate Moving Company Website (Lead Generation Focus)",

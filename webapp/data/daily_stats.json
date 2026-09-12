@@ -1,12 +1,19 @@
 {
   "date": "2026-09-13",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 3,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Fix my 3 crashed Wordpress websites (\"Error establishing a database connection\")",
+      "budget": "$20-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022098895531972246893",
+      "addedAt": "2026-09-12T22:07:09.463Z"
+    },
     {
       "title": "Website Designer/Developer Needed for Interstate Moving Company Website (Lead Generation Focus)",
       "budget": "$15-$30/hr",
