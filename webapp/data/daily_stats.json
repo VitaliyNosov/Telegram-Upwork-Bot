@@ -1,10 +1,10 @@
 {
   "date": "2026-09-12",
   "lastDigestSentDate": "2026-09-12",
-  "totalScanned": 7,
-  "matchedFilters": 2,
+  "totalScanned": 8,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022098530948975731857",
       "addedAt": "2026-09-12T00:56:44.084Z"
+    },
+    {
+      "title": "Front End Website Developer Needed for Clothing Brand Shop",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022098531433661511998",
+      "addedAt": "2026-09-12T00:58:43.046Z"
     }
   ]
 }
