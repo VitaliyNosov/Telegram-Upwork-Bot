@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098651487829282297",
+    "ciphertext": "~022098651487829282297",
+    "title": "WordPress Website Development",
+    "description": "Responsibilities\nSet up and configure WordPress\nInstall and customize a suitable theme\nCreate a modern, professional website design\nBuild approximately 5–7 pages (Home, About, Services, Contact, etc.)\nEnsure the website is fully responsive on desktop, tablet, and mobile\nConfigure contact forms\nAdd provided text, images, and other content\nSet up basic SEO-friendly structure\nOptimize website speed and performance\nEnsure proper navigation and user experience\nTest the website across major browsers and devices\nFix any bugs or layout issues before final delivery\nRequirements\nProven experience with WordPress\nGood knowledge of Elementor or similar page builders\nExperience with responsive web design\nBasic understanding of SEO and website performance\nAbility to follow design requirements and instructions\nGood communication and attention to detail\nDeliverables\nFully functional WordPress website\nResponsive design\nAll agreed pages completed\nContact form and basic integrations\nBasic speed and SEO optimization\nFinal testing and bug fixes\nWebsite ready for launch\nTimeline\nExpected completion: 7–10 days, depending on content and feedback.\n\nPlease include examples of your previous WordPress work when applying.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can build your 5-7 page WordPress website and have it fully launched within your 7-10 day timeline. \n\nI specialize in creating fast, responsive WordPress sites using Elementor and custom PHP. I will ensure your site is perfectly optimized for mobile, has quick loading speeds, and includes secure, functional contact forms. I also handle basic SEO structuring so your site is ready for search engines from day one.\n\nHere is an example of a clean, highly functional WordPress site I developed: https://waapple.org/\n\nDo you already have the text and images ready, or should we start by selecting the theme first?",
+    "publishedDateTime": "2026-09-12T05:56:06+0000",
+    "addedAt": "2026-09-12T05:57:13.565Z",
+    "url": "https://www.upwork.com/jobs/~022098651487829282297",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098651487829282297/apply/"
+  },
+  {
     "id": "2098614623771835757",
     "ciphertext": "~022098614623771835757",
     "title": "Elementor Pro Landing Page Redesign",
