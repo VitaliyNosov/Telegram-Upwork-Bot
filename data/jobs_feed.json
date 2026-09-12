@@ -1,5 +1,29 @@
 [
   {
+    "id": "2098734098958306809",
+    "ciphertext": "~022098734098958306809",
+    "title": "WordPress Developer Needed for a Minimal Mediation Website – Design and Content Already Prepared",
+    "description": "I am looking for an experienced and detail-oriented WordPress developer to implement a small, professionally designed website for my coaching, counselling and mediation practice in Munich, Germany.\n\nThis is not a project that requires developing a new brand, concept or website structure from scratch. The conceptual and editorial work has already been completed. I will provide the website structure, final German texts, photographs, visual references/mock-up and a detailed implementation brief.\n\nThe main task is to translate this existing concept into a clean, elegant, responsive WordPress website.\n\nThe visual direction is deliberately minimal: generous white space, restrained typography, carefully placed photography and a calm, professional appearance. The website should feel personal and sophisticated without looking like a typical commercial coaching website.\n\nThe site will include approximately the following areas/pages: Home, Mediation, Lerncoaching, Feeling Seen®, Haltung (Approach), Über mich (About Me), and Contact. The homepage provides a concise overview and links to the individual sections/pages.\n\nAll written content will be supplied in German. All photographs will also be supplied and are my own. No copywriting, stock photography or branding development is required.\n\nThe existing WordPress installation and editorial access are already available.\n\nThe implementation should include responsive desktop/tablet/mobile layouts, clean navigation, contact details/contact functionality, legal-page links, basic on-page SEO setup, sensible image compression and performance optimisation. Most importantly, the finished site should be easy for me to edit and maintain myself in WordPress afterwards.\n\nI am looking for someone who is particularly good at precise, restrained visual implementation. Attention to typography, spacing, image cropping and mobile behaviour is more important here than animations or elaborate technical effects.\n\nPlease do not redesign or rewrite the supplied concept unless specifically requested. The provided texts and design decisions should be treated as the approved basis for implementation.\n\nWhen applying, please include:\n\n    2–3 examples of clean, minimalist WordPress websites you have personally implemented.\n\n    Which WordPress editor/builder you recommend for this project and why.\n\n    Your proposed fixed price.\n\n    Your estimated turnaround time.\n\n    Confirmation that the site will remain straightforward for me to edit myself after handover.\n\nI am particularly interested in a developer who can implement a well-prepared design accurately rather than adding unnecessary complexity.\n\nBudget: approximately $400–600 fixed price, depending on experience and portfolio.\n\nExpected timeframe: approximately 1–2 weeks.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 150,
+    "coverLetter": "Hi! I can translate your prepared design and German content into a clean, elegant WordPress site with the exact typography, spacing, and responsive layout you’ve outlined.\n\nI highly recommend using the native WordPress Gutenberg editor. It keeps the site incredibly fast, avoids bloated code, and ensures you can easily edit your texts and swap images yourself without any risk of breaking the layout. \n\nHere are two clean, content-focused sites I've personally built:\n- https://www.thelifeyoucansave.org/\n- https://www.seeintl.org/\n\nI can deliver this fully responsive, optimized, and ready for your launch for a fixed price of $550 within 10 days. \n\nWould you like to share the visual references so we can discuss the typography details?",
+    "publishedDateTime": "2026-09-12T11:23:21+0000",
+    "addedAt": "2026-09-12T11:25:10.436Z",
+    "url": "https://www.upwork.com/jobs/~022098734098958306809",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098734098958306809/apply/"
+  },
+  {
     "id": "2098709264526265849",
     "ciphertext": "~022098709264526265849",
     "title": "Word Press Website Maintenance",

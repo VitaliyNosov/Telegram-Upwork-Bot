@@ -1,10 +1,10 @@
 {
   "date": "2026-09-12",
   "lastDigestSentDate": "2026-09-12",
-  "totalScanned": 24,
-  "matchedFilters": 11,
+  "totalScanned": 25,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 2500,
       "url": "https://www.upwork.com/jobs/~022098709264526265849",
       "addedAt": "2026-09-12T09:47:13.189Z"
+    },
+    {
+      "title": "WordPress Developer Needed for a Minimal Mediation Website – Design and Content Already Prepared",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022098734098958306809",
+      "addedAt": "2026-09-12T11:25:04.821Z"
     },
     {
       "title": "WordPress Expert Urgently – Recover Latest Website Version, Migrate from Manus to WordPress + SEO",
@@ -69,13 +76,6 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022098530948975731857",
       "addedAt": "2026-09-12T00:56:44.084Z"
-    },
-    {
-      "title": "Front End Website Developer Needed for Clothing Brand Shop",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022098531433661511998",
-      "addedAt": "2026-09-12T00:58:43.046Z"
     }
   ]
 }
