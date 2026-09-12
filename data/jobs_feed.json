@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098666755317741886",
+    "ciphertext": "~022098666755317741886",
+    "title": "WordPress Content Migration Specialist",
+    "description": "We are migrating wour courses.sureskills training website from DNN to WordPress and needs an experienced specialist to recreate approximately 75 course / content pages on an new base WordPress test site. The main architecture, theme configuration, and development are already handled internally. This role focuses on page migration, content population, and page building. Responsibilities include recreating pages using Blocksy and Gutenberg, copying and formatting existing content, placing existing images and media, ensuring mobile responsiveness, and maintaining consistency with the current design and templates. This is a content migration and page-building project, not a full website development project. I have one week to complete.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "seo",
+      "web-programming",
+      "web-content-management"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Recreating 75 course pages with Gutenberg and Blocksy within a strict one-week timeline is completely manageable, especially since your underlying theme and architecture are already handled internally. \n\nI specialize in building clean, fully responsive Gutenberg layouts and managing precise content migrations. I will carefully transfer all text, media, and formatting from your existing DNN site while keeping the layout pixel-perfect, consistent, and mobile-friendly across all pages. You can review an example of my clean, content-focused WordPress work here: https://www.thelifeyoucansave.org/\n\nGiven your tight seven-day deadline, is your test site and base template ready so we can jump right in today?",
+    "publishedDateTime": "2026-09-12T06:56:44+0000",
+    "addedAt": "2026-09-12T06:59:11.290Z",
+    "url": "https://www.upwork.com/jobs/~022098666755317741886",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098666755317741886/apply/"
+  },
+  {
     "id": "2098651487829282297",
     "ciphertext": "~022098651487829282297",
     "title": "WordPress Website Development",

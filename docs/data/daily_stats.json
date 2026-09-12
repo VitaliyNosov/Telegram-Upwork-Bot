@@ -1,10 +1,10 @@
 {
   "date": "2026-09-12",
   "lastDigestSentDate": "2026-09-12",
-  "totalScanned": 17,
-  "matchedFilters": 8,
+  "totalScanned": 18,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022098566754673994573",
       "addedAt": "2026-09-12T03:21:16.361Z"
+    },
+    {
+      "title": "WordPress Content Migration Specialist",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022098666755317741886",
+      "addedAt": "2026-09-12T06:59:04.385Z"
     },
     {
       "title": "WordPress Website Repair and Security",
