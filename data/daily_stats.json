@@ -1,10 +1,10 @@
 {
   "date": "2026-09-13",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 5,
-  "matchedFilters": 2,
+  "totalScanned": 6,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3000,
       "url": "https://www.upwork.com/jobs/~022098845544456466072",
       "addedAt": "2026-09-12T21:49:05.210Z"
+    },
+    {
+      "title": "WordPress Designer/Developer Needed for Homepage Redesign — Technology Advisory Firm",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022098911462071255176",
+      "addedAt": "2026-09-12T23:11:06.158Z"
     }
   ]
 }
