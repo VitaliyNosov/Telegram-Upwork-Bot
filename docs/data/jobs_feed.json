@@ -1,5 +1,36 @@
 [
   {
+    "id": "2098566754673994573",
+    "ciphertext": "~022098566754673994573",
+    "title": "URGENT: Webflow to WordPress / Elementor Pro Migration | Pixel-Perfect + SEO Ready | 48 Hours",
+    "description": "URGENT: Webflow to WordPress / Elementor Pro Migration | Pixel-Perfect + SEO Ready | 48 Hours\n\nJOB DESCRIPTION\n\nWe are looking for an experienced WordPress + Elementor Pro developer to migrate an existing luxury custom home builder website from Webflow to WordPress/Elementor Pro.\n\nThis is NOT a redesign. The finished WordPress website needs to look undetectably the same as the existing Webflow site, including desktop and mobile layouts, while being rebuilt cleanly and correctly inside Elementor Pro.\n\nThe existing site includes core marketing pages, project and listing detail pages, conditional forms, CMS-driven content, sliders, responsive interactions, Lottie/video elements, and substantial photography/media.\n\nTWO NON-NEGOTIABLE OBJECTIVES\n\n1. PIXEL-PERFECT VISUAL MIGRATION\n\n• No design deviation from the existing Webflow website\n• Desktop, tablet, and mobile must closely match\n• Preserve animations/interactions where practical\n• Maintain forms, sliders, galleries, video, Lottie, and other functionality\n\n2. 100% TECHNICALLY SEO-READY\n\n• Preserve existing URL structure wherever possible\n• Proper 301 redirects where URLs must change\n• Clean heading structure\n• Fully editable title tags and meta descriptions\n• Schema markup must be easy to add and edit\n• XML sitemap and indexing controls\n• Proper staging/noindex configuration before launch\n• Image optimization and alt-text capability\n• Strong performance/Core Web Vitals considerations\n• Clean technical structure for future SEO/GEO work\n• Analytics and Search Console should remain properly configured\n• Post-launch crawl to identify migration issues\n\nWORDPRESS BUILD REQUIREMENTS\n\nThe site must be built using Elementor Pro and be easy for our internal marketing and SEO team to manage after handoff.\n\nWe do NOT want a hard-coded WordPress site that requires a developer every time we need to make an update.\n\nProjects, Listings, Testimonials, and other repeatable content should be structured intelligently using:\n\n• Elementor Pro\n• ACF/custom post types where appropriate\n• Global styles\n• Reusable components\n• Archive and single-page templates\n• Centrally managed repeatable content\n\nWe have access to WP Engine and a migration/staging environment if needed.\n\nTIMELINE + BUDGET\n\nDeadline: 48 hours from project start\n\nFixed Budget: $400-$600\n\nPlease only apply if you can begin immediately and confidently complete the migration within the 48-hour window.\n\nWHEN APPLYING\n\nPlease include:\n\n• 2-3 examples of Webflow to WordPress/Elementor migrations you have completed\n• Confirmation that you can begin immediately\n• Confirmation that you can meet the 48-hour deadline\n• Your fixed-price quote within the stated budget\n• Briefly explain how you will ensure pixel-perfect visual parity AND protect technical SEO during the migration\n\nIMPORTANT\n\nAutomated conversion alone is NOT acceptable.\n\nWe need a clean, maintainable Elementor Pro implementation that our team can confidently edit, manage, and SEO-optimize moving forward.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "webflow",
+      "wordpress",
+      "html",
+      "performance-monitoring",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can start immediately and guarantee a pixel-perfect Webflow to Elementor Pro migration within your 48-hour deadline for a fixed price of $550. \n\nTo ensure 100% visual parity, I will build clean, custom Elementor templates integrated with ACF for your projects and listings, matching Webflow’s layout, margins, and Lottie animations. For SEO protection, I will map existing URLs, implement precise 301 redirects, configure SEO/schema controls, and run a post-migration crawl to verify zero 404s. \n\nI am highly proficient in both Webflow and WordPress. You can see my clean, high-performance WordPress development work at https://www.thelifeyoucansave.org/. I am ready to work directly in your WP Engine staging environment.\n\nDo you have the Webflow link ready so I can review the page count and start right now?",
+    "publishedDateTime": "2026-09-12T03:19:37+0000",
+    "addedAt": "2026-09-12T03:21:21.475Z",
+    "url": "https://www.upwork.com/jobs/~022098566754673994573",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098566754673994573/apply/"
+  },
+  {
     "id": "2098545724399365784",
     "ciphertext": "~022098545724399365784",
     "title": "WordPress Website Repair and Security",
