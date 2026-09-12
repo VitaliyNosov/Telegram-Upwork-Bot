@@ -1,5 +1,32 @@
 [
   {
+    "id": "2098867918680696413",
+    "ciphertext": "~022098867918680696413",
+    "title": "WordPress + Elementor Fix and Optimization (2 Websites)",
+    "description": "I have two WordPress websites built with Elementor that need cleanup and optimization. I'm looking for someone experienced with Elementor specifically, not just general WordPress work, who can diagnose issues and make the sites faster, more stable, and easier to maintain.\n\nScope of work:\n\nAudit both sites for:\nBroken layouts, elements, or links\nSlow page load speed (identify what's causing it, plugins, images, bloated code, etc.)\nMobile responsiveness issues\nOutdated or conflicting plugins\nBroken forms or integrations\nFix identified issues across both sites\nOptimize page speed (image compression, caching, minifying CSS/JS, removing unused plugins or widgets)\nClean up Elementor-specific bloat (unused templates, redundant CSS, oversized widgets)\nConfirm basic SEO health isn't being hurt by technical issues (page speed, mobile usability, broken links)\nProvide a short summary of what was fixed and what you'd recommend next, if anything\n\nRequirements:\n\nStrong hands-on experience with WordPress and Elementor (not just page builders generally)\nExperience with page speed optimization tools (GTmetrix, PageSpeed Insights, or similar)\nComfortable working directly in a live site with backups in place before changes\nClear communicator, I want to understand what was wrong and what was done, not just \"it's fixed\"\n\nAccess:\nI'll provide WordPress admin access and hosting details once we agree on scope. Please confirm you'll take a full backup before making changes.\n\nEstimated scope: This is a scoped cleanup and optimization project, not ongoing maintenance, though I'm open to a maintenance retainer afterward if the work goes well.\n\nTo apply: Please share an example of an Elementor site you've optimized, ideally with a before/after on load speed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 365,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! Yes, I absolutely confirm I will take full backups of both sites before making any changes. \n\nI specialize in Elementor optimization and troubleshooting, not just general WordPress. I will audit your sites to strip out redundant Elementor CSS bloat, fix broken layouts, and optimize your Core Web Vitals using PageSpeed Insights. \n\nFor example, I recently optimized https://waapple.org/, resolving Elementor layout bugs and bringing its mobile speed score from 45 to 92+ by minifying code, cleaning up database bloat, and deferring non-critical assets. \n\nI'll provide a clear, jargon-free report on exactly what was causing the slowdowns and what I fixed. Are you hosting both sites on the same server?",
+    "publishedDateTime": "2026-09-12T20:15:15+0000",
+    "addedAt": "2026-09-12T20:17:09.820Z",
+    "url": "https://www.upwork.com/jobs/~022098867918680696413",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098867918680696413/apply/"
+  },
+  {
     "id": "2098741075824454477",
     "ciphertext": "~022098741075824454477",
     "title": "Website Development for Adult Toys Store",
