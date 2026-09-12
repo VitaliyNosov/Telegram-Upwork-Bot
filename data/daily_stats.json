@@ -1,81 +1,8 @@
 {
-  "date": "2026-09-12",
-  "lastDigestSentDate": "2026-09-12",
-  "totalScanned": 40,
-  "matchedFilters": 14,
-  "byKeyword": {
-    "wordpress developer": 14
-  },
-  "topJobs": [
-    {
-      "title": "Website Design & Development",
-      "budget": "$25-$60/hr",
-      "score": 6095,
-      "url": "https://www.upwork.com/jobs/~022098529282206256633",
-      "addedAt": "2026-09-12T00:50:46.358Z"
-    },
-    {
-      "title": "WordPress Security Developer Needed",
-      "budget": "$20-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022098545584806575469",
-      "addedAt": "2026-09-12T01:57:41.935Z"
-    },
-    {
-      "title": "Elementor Pro Landing Page Redesign",
-      "budget": "$18-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022098614623771835757",
-      "addedAt": "2026-09-12T03:31:12.474Z"
-    },
-    {
-      "title": "Word Press Website Maintenance",
-      "budget": "$10-$25/hr",
-      "score": 2500,
-      "url": "https://www.upwork.com/jobs/~022098709264526265849",
-      "addedAt": "2026-09-12T09:47:13.189Z"
-    },
-    {
-      "title": "WordPress Developer Needed for a Minimal Mediation Website – Design and Content Already Prepared",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022098734098958306809",
-      "addedAt": "2026-09-12T11:25:04.821Z"
-    },
-    {
-      "title": "WordPress Expert Urgently – Recover Latest Website Version, Migrate from Manus to WordPress + SEO",
-      "budget": "Fixed-price",
-      "score": 144,
-      "url": "https://www.upwork.com/jobs/~022098705812376567944",
-      "addedAt": "2026-09-12T09:33:06.390Z"
-    },
-    {
-      "title": "URGENT: Webflow to WordPress / Elementor Pro Migration | Pixel-Perfect + SEO Ready | 48 Hours",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022098566754673994573",
-      "addedAt": "2026-09-12T03:21:16.361Z"
-    },
-    {
-      "title": "WordPress Content Migration Specialist",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022098666755317741886",
-      "addedAt": "2026-09-12T06:59:04.385Z"
-    },
-    {
-      "title": "Website Development for Adult Toys Store",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022098741075824454477",
-      "addedAt": "2026-09-12T11:53:05.391Z"
-    },
-    {
-      "title": "WordPress Website Repair and Security",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022098545724399365784",
-      "addedAt": "2026-09-12T01:57:49.019Z"
-    }
-  ]
+  "date": "2026-09-13",
+  "lastDigestSentDate": "2026-09-13",
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
