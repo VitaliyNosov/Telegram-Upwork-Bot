@@ -1,5 +1,31 @@
 [
   {
+    "id": "2098709264526265849",
+    "ciphertext": "~022098709264526265849",
+    "title": "Word Press Website Maintenance",
+    "description": "We are seeking an experienced Word Press website maintenance person to ensure plug ins, security and any template updates are completed.  \n•WordPress core updates — install minor/major version updates including security patches promptly\n•Plugin updates — update all active plugins; check changelogs for breaking changes before updating\n•PHP version checks — confirm your hosting PHP version stays current and compatible with WP/Avada requirements\nAs needed \n•Image optimization — compress images (especially important for a speaker site with lots of photos/headshots)\n•Broken link and 404 error fixes / checks — internal and external links, especially important on brochure-style sites where old event/press links accumulate\n• Content updates— schedules, videos, access to gated (after entering email) content \n•Form updates and testing — contact forms, speaker inquiry forms, membership signup (especially on EGA site) \n• EGA membership pricing / tilbuds and Stripe integration checks — updated and test payment flow periodically, confirm webhooks are working",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$10 - $25/hr",
+    "client": {
+      "country": "Norway",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 2500,
+    "coverLetter": "Hi! I can take over your WordPress maintenance and ensure your plugins, core updates, and PHP versions are always secure and compatible without breaking your site. \n\nI specialize in exactly what you need—from setting up staging environments for safe updates to debugging Stripe integrations, checking webhooks, and managing gated content. I have extensive experience handling ongoing maintenance, form testing, and security for high-traffic WordPress sites, such as https://www.thelifeyoucansave.org/. \n\nI will also optimize your images to keep your speaker site fast and run automated checks for 404 errors and broken links. \n\nWhen was the last time your Stripe webhooks and forms were audited? Let's chat and get your site running smoothly.",
+    "publishedDateTime": "2026-09-12T09:45:36+0000",
+    "addedAt": "2026-09-12T09:47:18.579Z",
+    "url": "https://www.upwork.com/jobs/~022098709264526265849",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098709264526265849/apply/"
+  },
+  {
     "id": "2098705812376567944",
     "ciphertext": "~022098705812376567944",
     "title": "WordPress Expert Urgently – Recover Latest Website Version, Migrate from Manus to WordPress + SEO",

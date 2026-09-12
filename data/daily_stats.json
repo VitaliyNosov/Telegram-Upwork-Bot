@@ -1,10 +1,10 @@
 {
   "date": "2026-09-12",
   "lastDigestSentDate": "2026-09-12",
-  "totalScanned": 22,
-  "matchedFilters": 10,
+  "totalScanned": 23,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 4100,
       "url": "https://www.upwork.com/jobs/~022098614623771835757",
       "addedAt": "2026-09-12T03:31:12.474Z"
+    },
+    {
+      "title": "Word Press Website Maintenance",
+      "budget": "$10-$25/hr",
+      "score": 2500,
+      "url": "https://www.upwork.com/jobs/~022098709264526265849",
+      "addedAt": "2026-09-12T09:47:13.189Z"
     },
     {
       "title": "WordPress Expert Urgently – Recover Latest Website Version, Migrate from Manus to WordPress + SEO",
@@ -69,13 +76,6 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022098531433661511998",
       "addedAt": "2026-09-12T00:58:43.046Z"
-    },
-    {
-      "title": "WordPress Website Development",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022098651487829282297",
-      "addedAt": "2026-09-12T05:57:07.906Z"
     }
   ]
 }
