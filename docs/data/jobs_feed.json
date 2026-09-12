@@ -1,5 +1,35 @@
 [
   {
+    "id": "2098845544456466072",
+    "ciphertext": "~022098845544456466072",
+    "title": "Website Designer/Developer Needed for Interstate Moving Company Website (Lead Generation Focus)",
+    "description": "We are looking for an experienced freelancer to design and build a professional website for a moving brokerage company focused on nationwide interstate moves. We currently only have the domain and need a modern, trustworthy, lead-generation-focused website that helps drive phone calls and inbound quote requests for primarily residential long-distance moves.\n\nThis is a website-only project. We will provide a brand identity guide to support the web design (logo, colors, typography, and usage examples). Your role is to translate that brand system into a clean, effective website, not to create the brand from scratch.\n\nOur priority is lead generation and SEO. The site should support strong mobile usability, clear click-to-call actions, contact/quote forms, fast loading, and a structure that supports organic search visibility. We are open to platform recommendations, but leaning toward WordPress or another user-friendly platform that will be easy to manage after launch.\n\nWe want a full website that stays lean: clear, professional, and conversion-focused rather than overly complex. We plan to provide most of the written content, and the writing style should land somewhere in the middle — not too sparse, but not overly wordy.\n\nExperience integrating website lead-generation forms with CRM or lead-management platforms via secure APIs, including real-time lead delivery, form-field mapping, source tracking, consent capture, duplicate prevention, and error handling.\n\nScope of work:\n- Recommend the best platform for this project (WordPress or another user-friendly CMS).  \n- Design and build a lean but complete service-business website.  \n- Create key pages such as Home, About, Services, How It Works, FAQ, Contact, plus lead capture sections.  \n- Emphasize click-to-call throughout the site, especially on mobile.  \n- Set up quote/contact forms and lead notifications.  \n- Support integration with Granot Moving Software via API\n- Implement the provided brand identity guide into the website design.  \n- Apply on-page SEO and complete SEO setup/configuration for small business website.\n- Optimize for mobile responsiveness, page speed, and clear calls to action.  \n- Ongoing support: Possible updates in the future, but this is not a major part of the initial scope.\n\nPreferred experience:\n- Service business or home-services websites.  \n- Lead-generation websites with strong mobile conversion strategy.  \n- SEO-focused website builds.  \n- Experience working from an existing logo/brand guide.  \n- Experience with CRM/form integrations/APIs.\n- Building sites clients can easily update after launch. \n\nTechnical skills required:\n- WordPress or another user-friendly CMS (Webflow or similar also acceptable).  \n- Figma or equivalent for web layout/wireframing.  \n- Responsive web design and mobile-first UX.  \n- Contact/quote form integration and email notifications.  \n- CRM integration experience.  \n- On-page SEO and basic technical SEO.  \n- Page speed/performance optimization.  \n- Google Analytics and/or simple conversion tracking setup.\n\nWhen applying, please include:\n- 3–5 examples of relevant service-business or lead-gen websites you’ve built.  \n- Which platform you recommend for this project and why.  \n- How you approach SEO and lead generation for small business websites.  \n- How you would structure the site to encourage calls, especially on mobile.  \n- Any experience with CRM API integrations. \n- Estimated timeline and total cost for the project.  \n- Confirmation that you are comfortable working from a provided brand identity guide and with client-provided copy.  \n- Please begin your proposal with the words \"Leading the Move\" so we know you read the full post.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "setup-and-configuration",
+      "lead-generation"
+    ],
+    "score": 3000,
+    "coverLetter": "Leading the Move! I would love to build your high-converting, mobile-first website. \n\nI highly recommend WordPress using Gutenberg and ACF. It keeps the site incredibly lightweight and fast (crucial for SEO), is easy for you to update, and perfectly supports the secure API integration with Granot Moving Software. I have extensive experience with REST APIs, form-field mapping, and error-handling for real-time CRM lead delivery. \n\nTo drive calls on mobile, I will implement a sticky click-to-call header and a simplified 2-step quote form above the fold. I am completely comfortable working from your brand guide and copy. You can see my clean, high-performance work at https://www.seeintl.org/. \n\nI estimate a 4-week timeline and a budget of $2,500 for this project. Do you have the Granot API documentation handy so we can review the integration?",
+    "publishedDateTime": "2026-09-12T21:47:11+0000",
+    "addedAt": "2026-09-12T21:49:11.209Z",
+    "url": "https://www.upwork.com/jobs/~022098845544456466072",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098845544456466072/apply/"
+  },
+  {
     "id": "2098867918680696413",
     "ciphertext": "~022098867918680696413",
     "title": "WordPress + Elementor Fix and Optimization (2 Websites)",

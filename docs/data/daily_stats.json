@@ -1,8 +1,18 @@
 {
   "date": "2026-09-13",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Website Designer/Developer Needed for Interstate Moving Company Website (Lead Generation Focus)",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022098845544456466072",
+      "addedAt": "2026-09-12T21:49:05.210Z"
+    }
+  ]
 }
