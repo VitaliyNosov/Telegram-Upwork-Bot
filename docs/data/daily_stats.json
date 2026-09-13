@@ -1,10 +1,10 @@
 {
   "date": "2026-09-13",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 49,
-  "matchedFilters": 7,
+  "totalScanned": 50,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 4100,
       "url": "https://www.upwork.com/jobs/~022098895531972246893",
       "addedAt": "2026-09-12T22:07:09.463Z"
+    },
+    {
+      "title": "WordPress Web Design Agency for Local Business (Custom Design & Ongoing Maintenance)",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022099241031351979513",
+      "addedAt": "2026-09-13T20:59:12.657Z"
     },
     {
       "title": "Website Design and Build for Real Estate and Construction",

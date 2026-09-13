@@ -1,5 +1,37 @@
 [
   {
+    "id": "2099241031351979513",
+    "ciphertext": "~022099241031351979513",
+    "title": "WordPress Web Design Agency for Local Business (Custom Design & Ongoing Maintenance)",
+    "description": "We are seeking a skilled web design agency to create a custom, user-friendly WordPress website for our local business. The site must be easy for us to manage content, and we require a comprehensive maintenance package covering updates, backups, security, and performance monitoring. \n\nSite Requirements: Must be built with an AI-ready, modern WordPress architecture—using clean code, semantic HTML, and structured data (Schema markup) to easily support future AI tools (such as AI customer service chatbots, automated scheduling, or search optimization).\n\nCrucially, the agency or developer must be available to communicate and provide support between at least 11:00 AM and 5:00 PM Mountain Time (Calgary time).\nThanks for reading .",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "graphic-design",
+      "html",
+      "adobe-photoshop",
+      "adobe-illustrator"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI build modern, high-performance WordPress websites designed with clean, semantic code and structured Schema markup—making them fully optimized for future AI tools like automated scheduling, chatbots, and advanced search. \n\nAs a WordPress developer focused on long-term support, I can build your local business site to be effortlessly easy for your team to manage, while setting up a comprehensive maintenance package covering updates, backups, security, and Core Web Vitals performance. For example, I recently built and optimized high-impact sites like https://www.snopud.com/, focusing on speed, clean architecture, and user experience.\n\nI am also fully available to communicate and provide support during your required hours (11:00 AM – 5:00 PM Mountain Time). \n\nWhen do you ideally want to launch the new site? Let's chat about your vision.",
+    "publishedDateTime": "2026-09-13T20:58:42+0000",
+    "addedAt": "2026-09-13T20:59:13.882Z",
+    "url": "https://www.upwork.com/jobs/~022099241031351979513",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099241031351979513/apply/"
+  },
+  {
     "id": "2099184524172307277",
     "ciphertext": "~022099184524172307277",
     "title": "WordPress Developer for Chatbot Integration",
