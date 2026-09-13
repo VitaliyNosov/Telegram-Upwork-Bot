@@ -1,6 +1,11 @@
 name: Test Gemini Models
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      model:
+        description: "Gemini Model to test"
+        required: false
+        default: "gemini-3.1-flash-lite"
 
 jobs:
   test:
@@ -20,5 +25,6 @@ jobs:
       - name: Run Gemini Model Test
         run: node scripts/test-gemini.js
         env:
+          GEMINI_MODEL: ${{ inputs.model || 'gemini-3.1-flash-lite' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_API_KEY_BACKUP: ${{ secrets.GEMINI_API_KEY_BACKUP }}
