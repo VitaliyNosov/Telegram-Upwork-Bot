@@ -1,5 +1,34 @@
 [
   {
+    "id": "2098992267032898381",
+    "ciphertext": "~022098992267032898381",
+    "title": "Wordpress site upgrade",
+    "description": "BIG NOTES\n* Placeholder bids will not be considered. The attached pdf is more than sufficient to provide the pricing if you know what you are doing.\n* Any bid where you have reached out to our company / me via facebook, linkedin, website will not be considered for this project or any future project. So don't waste your time sending that way.\n\nAward criteria\n- Experience\n- Time to complete\n- Price\n\nI require an existing wordpress site to be upgraded based on a new visual design.\n\nThis is a mobile first website that should be responsive and work across on all screen sizes.  This is a small site with only 5/6 pages and 4/5 sub pages.\n\nLocations and testimonials to be done via templates.\n\nI have the figma files [and have full hires graphic assets] already therefore this project is to implement the new look.\n\nSpecific requirements:\n- Build the wordpress site using the latest wordpress version\n- Use elementor pro using the latest version\n- For the contact us using WP Forms [latest]\n- Additionally I use ACF [advanced custom fields latest]\n\nNotes: \n1. This project is not to copy in full image files for the page. Instead you are to leverage Elementor elements, sections, widgets etc. to implement the pages.\n2. Only the main location page has been created in Figma, the specific branch locations page (using templates) has no figma file.  You will be required to help design the look for each only one location page.\n3. I have a a dev wordpress site for development.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Singapore",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 35,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website",
+      "elementor",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can upgrade your WordPress site using the latest Elementor Pro, ACF, and WP Forms, exactly as outlined. I always build cleanly using native Elementor widgets and sections rather than flat images, ensuring the site is fully responsive, mobile-first, and easy to manage.\n\nI am comfortable designing the missing branch location template based on your main Figma layout, and I will work directly on your dev site. You can see my clean, responsive development work on live sites like https://about.offerup.com/\n\nSince you have the Figma files and the page count is clear (5-6 main pages and 4-5 subpages), I can deliver this efficiently. Could you share the PDF mentioned in the job post so I can review the exact scope and provide a precise timeline and fixed price?",
+    "publishedDateTime": "2026-09-13T04:30:22+0000",
+    "addedAt": "2026-09-13T04:31:26.526Z",
+    "url": "https://www.upwork.com/jobs/~022098992267032898381",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022098992267032898381/apply/"
+  },
+  {
     "id": "2098911462071255176",
     "ciphertext": "~022098911462071255176",
     "title": "WordPress Designer/Developer Needed for Homepage Redesign — Technology Advisory Firm",
