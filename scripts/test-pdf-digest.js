@@ -37,12 +37,20 @@ async function run() {
   console.log(`Файл: ${filePath}`);
   console.log(`Размер файла: ${buffer.length} байт`);
 
-  const activeJobs = jobsFeed.filter(
-    (j) => !dailyStats?.date || !j.publishedDateTime || j.publishedDateTime.slice(0, 10) === dailyStats.date
-  );
-  const displayJobs = activeJobs.length > 0 ? activeJobs : jobsFeed;
+  // Выбираем вакансии за сегодняшний день (из stats.topJobs и по дате)
+  const topJobUrls = new Set((dailyStats?.topJobs || []).map((j) => j.url).filter(Boolean));
+  const matchedFromTop = jobsFeed.filter((j) => topJobUrls.has(j.url));
+  const matchedByDate = jobsFeed.filter((j) => {
+    if (j.deleted || topJobUrls.has(j.url)) return false;
+    const pubDate = j.publishedDateTime ? j.publishedDateTime.slice(0, 10) : "";
+    const addDate = j.addedAt ? j.addedAt.slice(0, 10) : "";
+    return pubDate === dailyStats?.date || addDate === dailyStats?.date;
+  });
+  const displayJobs = [...matchedFromTop, ...matchedByDate];
   const proposalsCount = displayJobs.filter((j) => j.coverLetter).length;
-  const topScore = Math.max(0, ...displayJobs.map((j) => j.score || 0));
+  const topScore = displayJobs.length > 0
+    ? Math.max(...displayJobs.map((j) => j.score || 0))
+    : (dailyStats?.topJobs?.[0]?.score || 0);
 
   const caption = formatDigestPhotoCaption(dailyStats, topScore, proposalsCount);
   const pdfWebUrl = `${config.PAGES_BASE_URL}/reports/${filename}`;
