@@ -1,67 +1,8 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 50,
-  "matchedFilters": 8,
-  "byKeyword": {
-    "wordpress developer": 8
-  },
-  "topJobs": [
-    {
-      "title": "Fix my 3 crashed Wordpress websites (\"Error establishing a database connection\")",
-      "budget": "$20-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022098895531972246893",
-      "addedAt": "2026-09-12T22:07:09.463Z"
-    },
-    {
-      "title": "WordPress Web Design Agency for Local Business (Custom Design & Ongoing Maintenance)",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022099241031351979513",
-      "addedAt": "2026-09-13T20:59:12.657Z"
-    },
-    {
-      "title": "Website Design and Build for Real Estate and Construction",
-      "budget": "$15-$30/hr",
-      "score": 3096,
-      "url": "https://www.upwork.com/jobs/~022099101459050999448",
-      "addedAt": "2026-09-13T11:45:08.023Z"
-    },
-    {
-      "title": "Website Designer/Developer Needed for Interstate Moving Company Website (Lead Generation Focus)",
-      "budget": "$15-$30/hr",
-      "score": 3000,
-      "url": "https://www.upwork.com/jobs/~022098845544456466072",
-      "addedAt": "2026-09-12T21:49:05.210Z"
-    },
-    {
-      "title": "WordPress Real Estate Website Developer Needed, Premium Design + Ongoing Updates",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022099107957886790477",
-      "addedAt": "2026-09-13T12:12:19.163Z"
-    },
-    {
-      "title": "WordPress Developer for Chatbot Integration",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022099184524172307277",
-      "addedAt": "2026-09-13T17:15:08.520Z"
-    },
-    {
-      "title": "WordPress Designer/Developer Needed for Homepage Redesign — Technology Advisory Firm",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022098911462071255176",
-      "addedAt": "2026-09-12T23:11:06.158Z"
-    },
-    {
-      "title": "Wordpress site upgrade",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022098992267032898381",
-      "addedAt": "2026-09-13T04:31:20.723Z"
-    }
-  ]
+  "totalScanned": 1,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
