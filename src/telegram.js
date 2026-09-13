@@ -115,13 +115,10 @@ async function sendTelegramDocument(config, docPathOrBuffer, filename = "documen
   }
 }
 
-function buildDigestKeyboard(pdfWebUrl, miniAppUrl) {
+function buildDigestKeyboard(pdfWebUrl) {
   const buttons = [];
   if (pdfWebUrl) {
-    buttons.push({ text: "📥 Скачать PDF (веб)", url: pdfWebUrl });
-  }
-  if (miniAppUrl) {
-    buttons.push({ text: "📱 Открыть Mini App", url: miniAppUrl });
+    buttons.push({ text: "Скачать PDF-отчет", url: pdfWebUrl });
   }
   return { inline_keyboard: [buttons] };
 }
@@ -137,18 +134,18 @@ function formatDigestPhotoCaption(stats, topScore = 0, proposalsCount = 0) {
     `✅ Отобрано по фильтрам: <b>${matched}</b>\n` +
     `🤖 Подготовлено AI-откликов: <b>${proposalsCount}</b>\n` +
     `🏆 Максимальный скор: <b>${topScore > 0 ? topScore : "N/A"}</b>\n\n` +
-    `📄 <i>Полный PDF-отчёт со ссылками на все вакансии прикреплён ниже 👇</i>`
+    `📄 <i>Скачать полный PDF-отчёт со ссылками на вакансии можно по кнопке ниже 👇</i>`
   );
 }
 
 function buildJobKeyboard(jobUrl, jobLinkId = null) {
   const buttons = [
-    { text: "🚀 Открыть вакансию", url: jobUrl },
+    { text: "Открыть вакансию", url: jobUrl },
   ];
 
   if (jobLinkId) {
     buttons.push({
-      text: "✍️ Подать Proposal",
+      text: "Подать Proposal",
       url: `https://www.upwork.com/ab/proposals/job/${jobLinkId}/apply/`,
     });
   }

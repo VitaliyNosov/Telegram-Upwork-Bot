@@ -6,6 +6,9 @@ on:
       - main
     paths:
       - ".github/workflows/test-pdf.yml"
+      - "scripts/test-pdf-digest.js"
+      - "src/telegram.js"
+      - "src/index.js"
 
 jobs:
   test:

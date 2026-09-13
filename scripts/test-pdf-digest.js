@@ -54,8 +54,7 @@ async function run() {
 
   const caption = formatDigestPhotoCaption(dailyStats, topScore, proposalsCount);
   const pdfWebUrl = `${config.PAGES_BASE_URL}/reports/${filename}`;
-  const miniAppUrl = `${config.PAGES_BASE_URL}/`;
-  const keyboard = buildDigestKeyboard(pdfWebUrl, miniAppUrl);
+  const keyboard = buildDigestKeyboard(pdfWebUrl);
 
   console.log("\n=== ТЕКСТ ПОДПИСИ К ОБЛОЖКЕ ===");
   console.log(caption);
@@ -69,19 +68,20 @@ async function run() {
     return;
   }
 
-  console.log("\nОтправка тестового отчета в Telegram...");
+  console.log("\nОтправка отчета в Telegram...");
   const coverPath = path.resolve(config.PATHS.COVER_IMAGE_FILE || "img-git/digest-cover.png");
+  let sent = false;
   if (fs.existsSync(coverPath)) {
-    console.log("Отправка обложки...");
-    await sendTelegramPhoto(config, coverPath, caption, keyboard);
+    console.log("Отправка обложки с кнопкой скачивания PDF...");
+    sent = await sendTelegramPhoto(config, coverPath, caption, keyboard);
+  } else {
+    sent = await sendTelegramMessage(config, caption, keyboard);
   }
 
-  console.log("Отправка PDF-документа в чат...");
-  const docSent = await sendTelegramDocument(config, buffer, filename, `📄 ${filename}`, keyboard);
-  if (docSent) {
-    console.log("🎉 PDF-отчет успешно доставлен в Telegram!");
+  if (sent) {
+    console.log("🎉 Отчет успешно доставлен в Telegram!");
   } else {
-    console.error("❌ Не удалось доставить PDF-отчет в Telegram.");
+    console.error("❌ Не удалось доставить отчет в Telegram.");
   }
 }
 

@@ -118,20 +118,20 @@ async function main() {
 
       const caption = formatDigestPhotoCaption(dailyStats, topScore, proposalsCount);
       const pdfWebUrl = `${config.PAGES_BASE_URL}/reports/${filename}`;
-      const miniAppUrl = `${config.PAGES_BASE_URL}/`;
-      const keyboard = buildDigestKeyboard(pdfWebUrl, miniAppUrl);
+      const keyboard = buildDigestKeyboard(pdfWebUrl);
 
-      // 1. Отправляем обложку с кратким итогом дня
+      // Отправляем обложку с кратким итогом дня и кнопкой скачивания PDF
       const coverPath = path.resolve(config.PATHS.COVER_IMAGE_FILE || "img-git/digest-cover.png");
+      let sent = false;
       if (fs.existsSync(coverPath)) {
-        await sendTelegramPhoto(config, coverPath, caption, keyboard);
+        sent = await sendTelegramPhoto(config, coverPath, caption, keyboard);
+      } else {
+        sent = await sendTelegramMessage(config, caption, keyboard);
       }
 
-      // 2. Отправляем сам сгенерированный PDF-документ прямо в чат
-      const docSent = await sendTelegramDocument(config, buffer, filename, `📄 ${filename}`, keyboard);
-      if (docSent) {
+      if (sent) {
         markDigestSent(dailyStats);
-        console.log(`[Analytics] Вечерний PDF-отчет (${filename}) успешно отправлен в Telegram.`);
+        console.log(`[Analytics] Вечерний отчет (${filename}) успешно отправлен в Telegram.`);
       }
     } catch (err) {
       console.error("[Analytics] Ошибка формирования или отправки PDF-отчета:", err.message);
