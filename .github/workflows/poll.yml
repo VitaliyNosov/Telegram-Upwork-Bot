@@ -51,5 +51,7 @@ jobs:
           [ -f data/jobs_feed.json ] && git add data/jobs_feed.json
           [ -f webapp/data/jobs_feed.json ] && git add webapp/data/jobs_feed.json
           [ -f docs/data/jobs_feed.json ] && git add docs/data/jobs_feed.json
+          [ -d docs/reports ] && git add docs/reports
+          [ -d webapp/reports ] && git add webapp/reports
           git diff --staged --quiet || git commit -m "chore: update bot state [skip ci]"
           git push

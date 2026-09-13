@@ -1,4 +1,5 @@
 // Отправка сообщений в Telegram
+const fs = require("fs");
 const config = require("./config");
 
 async function sendTelegramMessage(config, text, replyMarkup = null) {
@@ -36,6 +37,104 @@ async function sendTelegramMessage(config, text, replyMarkup = null) {
 
   console.error("Не удалось отправить сообщение в Telegram после 2 попыток.");
   return false;
+}
+
+async function sendTelegramPhoto(config, imagePathOrBuffer, caption = "", replyMarkup = null) {
+  const url = `https://api.telegram.org/bot${config.TELEGRAM_BOT_TOKEN}/sendPhoto`;
+
+  let buffer;
+  if (Buffer.isBuffer(imagePathOrBuffer)) {
+    buffer = imagePathOrBuffer;
+  } else if (typeof imagePathOrBuffer === "string" && fs.existsSync(imagePathOrBuffer)) {
+    buffer = fs.readFileSync(imagePathOrBuffer);
+  } else {
+    console.error("[Telegram] Фото не найдено по пути:", imagePathOrBuffer);
+    return false;
+  }
+
+  const formData = new FormData();
+  formData.append("chat_id", config.TELEGRAM_CHAT_ID);
+  formData.append("photo", new Blob([buffer], { type: "image/png" }), "cover.png");
+  if (caption) {
+    formData.append("caption", caption);
+    formData.append("parse_mode", "HTML");
+  }
+  if (replyMarkup) {
+    formData.append("reply_markup", JSON.stringify(replyMarkup));
+  }
+
+  try {
+    const resp = await fetch(url, { method: "POST", body: formData });
+    if (resp.ok) return true;
+    const errText = await resp.text();
+    console.error("[Telegram] Ошибка при отправке фото:", errText);
+    return false;
+  } catch (err) {
+    console.error("[Telegram] Сетевая ошибка при отправке фото:", err.message);
+    return false;
+  }
+}
+
+async function sendTelegramDocument(config, docPathOrBuffer, filename = "document.pdf", caption = "", replyMarkup = null) {
+  const url = `https://api.telegram.org/bot${config.TELEGRAM_BOT_TOKEN}/sendDocument`;
+
+  let buffer;
+  if (Buffer.isBuffer(docPathOrBuffer)) {
+    buffer = docPathOrBuffer;
+  } else if (typeof docPathOrBuffer === "string" && fs.existsSync(docPathOrBuffer)) {
+    buffer = fs.readFileSync(docPathOrBuffer);
+  } else {
+    console.error("[Telegram] Документ не найден по пути:", docPathOrBuffer);
+    return false;
+  }
+
+  const formData = new FormData();
+  formData.append("chat_id", config.TELEGRAM_CHAT_ID);
+  formData.append("document", new Blob([buffer], { type: "application/pdf" }), filename);
+  if (caption) {
+    formData.append("caption", caption);
+    formData.append("parse_mode", "HTML");
+  }
+  if (replyMarkup) {
+    formData.append("reply_markup", JSON.stringify(replyMarkup));
+  }
+
+  try {
+    const resp = await fetch(url, { method: "POST", body: formData });
+    if (resp.ok) return true;
+    const errText = await resp.text();
+    console.error("[Telegram] Ошибка при отправке документа:", errText);
+    return false;
+  } catch (err) {
+    console.error("[Telegram] Сетевая ошибка при отправке документа:", err.message);
+    return false;
+  }
+}
+
+function buildDigestKeyboard(pdfWebUrl, miniAppUrl) {
+  const buttons = [];
+  if (pdfWebUrl) {
+    buttons.push({ text: "📥 Скачать PDF (веб)", url: pdfWebUrl });
+  }
+  if (miniAppUrl) {
+    buttons.push({ text: "📱 Открыть Mini App", url: miniAppUrl });
+  }
+  return { inline_keyboard: [buttons] };
+}
+
+function formatDigestPhotoCaption(stats, topScore = 0, proposalsCount = 0) {
+  const dateStr = stats?.date || new Date().toISOString().slice(0, 10);
+  const totalScanned = stats?.totalScanned || 0;
+  const matched = stats?.matchedFilters || 0;
+
+  return (
+    `📊 <b>Итоги дня по поиску Upwork (${escapeHtml(dateStr)})</b>\n\n` +
+    `🔍 Всего отсканировано: <b>${totalScanned}</b>\n` +
+    `✅ Отобрано по фильтрам: <b>${matched}</b>\n` +
+    `🤖 Подготовлено AI-откликов: <b>${proposalsCount}</b>\n` +
+    `🏆 Максимальный скор: <b>${topScore > 0 ? topScore : "N/A"}</b>\n\n` +
+    `📄 <i>Полный PDF-отчёт со ссылками на все вакансии прикреплён ниже 👇</i>`
+  );
 }
 
 function buildJobKeyboard(jobUrl, jobLinkId = null) {
@@ -160,7 +259,11 @@ function escapeHtml(str) {
 
 module.exports = {
   sendTelegramMessage,
+  sendTelegramPhoto,
+  sendTelegramDocument,
   formatJobMessage,
   buildJobKeyboard,
+  buildDigestKeyboard,
+  formatDigestPhotoCaption,
   formatDailyDigestMessage,
 };

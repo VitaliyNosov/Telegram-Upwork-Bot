@@ -1,3 +1,5 @@
+const fs = require("fs");
+const path = require("path");
 const config = require("./config");
 const { getAccessToken } = require("./auth");
 const { fetchJobsForKeyword } = require("./upwork");
@@ -6,10 +8,14 @@ const { calculateScore } = require("./scoring");
 const { generateCoverLetter } = require("./gemini");
 const {
   sendTelegramMessage,
+  sendTelegramPhoto,
+  sendTelegramDocument,
   formatJobMessage,
   buildJobKeyboard,
-  formatDailyDigestMessage,
+  buildDigestKeyboard,
+  formatDigestPhotoCaption,
 } = require("./telegram");
+const { generateDailyPdfReport } = require("./pdfReport");
 const { loadSeenJobs, saveSeenJobs } = require("./seenJobs");
 const {
   loadDailyStats,
@@ -89,14 +95,38 @@ async function main() {
     }
   }
 
-  // Проверяем, наступило ли время вечерней аналитической сводки (по умолчанию 21:00)
-  if (shouldSendDigest(dailyStats, config.DIGEST_HOUR || 21)) {
-    console.log(`[Analytics] Формирование вечерней сводки за день (${dailyStats.date})...`);
-    const digestMessage = formatDailyDigestMessage(dailyStats);
-    const digestSent = await sendTelegramMessage(config, digestMessage);
-    if (digestSent) {
-      markDigestSent(dailyStats);
-      console.log("[Analytics] Вечерняя сводка успешно отправлена в Telegram.");
+  // Проверяем, наступило ли время вечернего PDF-отчета (по умолчанию 22:00)
+  if (shouldSendDigest(dailyStats, config.DIGEST_HOUR || 22)) {
+    console.log(`[Analytics] Формирование вечернего PDF-отчета за день (${dailyStats.date})...`);
+    try {
+      const { buffer, filename } = await generateDailyPdfReport(dailyStats, jobsFeed);
+
+      const activeJobs = jobsFeed.filter(
+        (j) => !dailyStats?.date || !j.publishedDateTime || j.publishedDateTime.slice(0, 10) === dailyStats.date
+      );
+      const displayJobs = activeJobs.length > 0 ? activeJobs : jobsFeed;
+      const proposalsCount = displayJobs.filter((j) => j.coverLetter).length;
+      const topScore = Math.max(0, ...displayJobs.map((j) => j.score || 0));
+
+      const caption = formatDigestPhotoCaption(dailyStats, topScore, proposalsCount);
+      const pdfWebUrl = `${config.PAGES_BASE_URL}/reports/${filename}`;
+      const miniAppUrl = `${config.PAGES_BASE_URL}/`;
+      const keyboard = buildDigestKeyboard(pdfWebUrl, miniAppUrl);
+
+      // 1. Отправляем обложку с кратким итогом дня
+      const coverPath = path.resolve(config.PATHS.COVER_IMAGE_FILE || "img-git/digest-cover.png");
+      if (fs.existsSync(coverPath)) {
+        await sendTelegramPhoto(config, coverPath, caption, keyboard);
+      }
+
+      // 2. Отправляем сам сгенерированный PDF-документ прямо в чат
+      const docSent = await sendTelegramDocument(config, buffer, filename, `📄 ${filename}`, keyboard);
+      if (docSent) {
+        markDigestSent(dailyStats);
+        console.log(`[Analytics] Вечерний PDF-отчет (${filename}) успешно отправлен в Telegram.`);
+      }
+    } catch (err) {
+      console.error("[Analytics] Ошибка формирования или отправки PDF-отчета:", err.message);
     }
   }
 

@@ -118,8 +118,14 @@ module.exports = {
     JOBS_FEED_FILE: "data/jobs_feed.json",
     WEBAPP_FEED_FILE: "webapp/data/jobs_feed.json",
     DOCS_FEED_FILE: "docs/data/jobs_feed.json",
+    COVER_IMAGE_FILE: "img-git/digest-cover.png",
+    REPORTS_DIR: "docs/reports",
+    WEBAPP_REPORTS_DIR: "webapp/reports",
   },
 
-  // Час отправки вечерней сводки в Telegram (по киевскому времени, 21 = 21:00)
-  DIGEST_HOUR: 21,
+  // Базовый URL для веб-приложения и публичных отчетов на GitHub Pages
+  PAGES_BASE_URL: "https://vitaliynosov.github.io/Telegram-Upwork-Bot",
+
+  // Час отправки вечернего PDF-отчета в Telegram (по киевскому времени, 22 = 22:00)
+  DIGEST_HOUR: 22,
 };

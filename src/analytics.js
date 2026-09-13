@@ -12,7 +12,7 @@ function getKyivDateTime() {
     day: "2-digit",
     hour: "2-digit",
     minute: "2-digit",
-    hour12: false,
+    hourCycle: "h23",
   });
 
   const parts = formatter.formatToParts(new Date());
@@ -22,7 +22,8 @@ function getKyivDateTime() {
   }
 
   const dateStr = `${map.year}-${map.month}-${map.day}`;
-  const hour = parseInt(map.hour, 10);
+  const rawHour = parseInt(map.hour, 10);
+  const hour = isNaN(rawHour) ? 0 : rawHour % 24;
   return { dateStr, hour };
 }
 
@@ -131,9 +132,9 @@ function saveDailyStats(filePath, stats) {
 /**
  * Проверяет, пора ли отправлять вечерний дайджест
  * @param {Object} stats - объект статистики
- * @param {number} targetHour - час отправки (по умолчанию 21)
+ * @param {number} targetHour - час отправки (по умолчанию 22)
  */
-function shouldSendDigest(stats, targetHour = 21) {
+function shouldSendDigest(stats, targetHour = 22) {
   const { dateStr, hour } = getKyivDateTime();
 
   // Если за сегодня дайджест уже отправлялся — не дублируем
@@ -141,7 +142,7 @@ function shouldSendDigest(stats, targetHour = 21) {
     return false;
   }
 
-  // Отправляем, если наступило заданное время (например >= 21:00)
+  // Отправляем, если наступило заданное время (например >= 22:00)
   return hour >= targetHour;
 }
 
