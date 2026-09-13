@@ -1550,17 +1550,7 @@
     const dateStr = state.dailyStats?.date || new Date().toISOString().slice(0, 10);
     const pdfDate = document.getElementById('pdf-date');
     if (pdfDate) {
-      try {
-        const parts = dateStr.split('-');
-        if (parts.length === 3) {
-          const d = new Date(parts[0], parts[1] - 1, parts[2]);
-          pdfDate.textContent = d.toLocaleDateString('ru-RU', { day: 'numeric', month: 'long', year: 'numeric' });
-        } else {
-          pdfDate.textContent = dateStr;
-        }
-      } catch {
-        pdfDate.textContent = dateStr;
-      }
+      pdfDate.textContent = `Date: ${dateStr}`;
     }
 
     const activeJobs = state.jobs && state.jobs.length > 0
@@ -1577,22 +1567,19 @@
     const pdfMatched = document.getElementById('pdf-matched');
     const pdfProposals = document.getElementById('pdf-proposals');
     const pdfScore = document.getElementById('pdf-score');
-    const pdfJobsCount = document.getElementById('pdf-jobs-count');
 
     if (pdfScanned) pdfScanned.textContent = totalScanned;
     if (pdfMatched) pdfMatched.textContent = matched;
     if (pdfProposals) pdfProposals.textContent = proposalsCount;
     if (pdfScore) pdfScore.textContent = topScore > 0 ? topScore : 'N/A';
-    if (pdfJobsCount) pdfJobsCount.textContent = `${jobsToInclude.length} ${jobsToInclude.length === 1 ? 'job' : 'jobs'}`;
 
     const pdfKeywords = document.getElementById('pdf-keywords');
     if (pdfKeywords) {
       const keywords = state.dailyStats?.byKeyword || { "wordpress developer": matched };
       pdfKeywords.innerHTML = Object.entries(keywords).map(([kw, count]) => `
-        <div class="keyword-stat-pill" style="background: #ffffff; color: #001e00; border: 1px solid #e4e4e4; border-radius: 9999px; padding: 3px 10px; font-size: 11px; font-weight: 500; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-          <span>${escapeHtml(kw)}</span>
-          <span class="keyword-stat-count" style="background: #14a800; color: #ffffff; font-size: 10px; font-weight: 700; border-radius: 9999px; padding: 1px 6px;">${count}</span>
-        </div>
+        <span style="border: 1px solid #e4e4e4; background: #f7f7f7; padding: 4px 12px; border-radius: 9999px; font-size: 11px; font-weight: 500; color: #001e00;">
+          ${escapeHtml(kw)} <strong style="color: #14a800;">(${count})</strong>
+        </span>
       `).join('');
     }
 
@@ -1600,50 +1587,29 @@
     if (pdfJobsList) {
       pdfJobsList.innerHTML = jobsToInclude.map((job, idx) => {
         const targetUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : 'https://www.upwork.com');
-        const budgetDisplay = job.budgetDisplay || (job.isHourly ? `Hourly: $${job.hourlyBudgetMin || 0}-$${job.hourlyBudgetMax || 0}/hr` : 'Fixed-price');
+        const budgetDisplay = job.budgetDisplay || (job.isHourly ? `$${job.hourlyBudgetMin || 0} - $${job.hourlyBudgetMax || 0}/hr` : 'Fixed-price');
         const clientCountry = job.client?.country || 'Unknown';
-        const clientFeedback = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1) : '5.0';
-        const isVerified = job.client?.verificationStatus === 'VERIFIED';
+        const clientFeedback = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1).replace(/\.0$/, '') : '5';
         const descSnippet = (job.description || '').replace(/\s+/g, ' ').trim().slice(0, 220);
 
-        const skills = Array.isArray(job.skills) ? job.skills.slice(0, 4) : [];
-        const skillsHtml = skills
-          .map((s) => `<span style="background: #f2f2f2; color: #5e6d55; font-size: 9.5px; font-weight: 500; padding: 2px 7px; border-radius: 9999px; border: 1px solid #e4e4e4;">${escapeHtml(s)}</span>`)
-          .join('');
-
         return `
-        <div style="background: #ffffff; border: 1px solid #e4e4e4; border-radius: 12px; padding: 11px 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); page-break-inside: avoid; break-inside: avoid;">
-          <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px;">
-            <div style="display: flex; align-items: center; gap: 6px;">
-              <span style="background: #f2f2f2; color: #001e00; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 6px;">#${idx + 1}</span>
-              <span style="font-size: 11px; color: #6f7d66; font-weight: 500;">Posted Today</span>
+        <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #ffffff; page-break-inside: avoid; break-inside: avoid; margin-bottom: 8px;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+            <div style="font-weight: 700; font-size: 13px; color: #001e00; line-height: 1.35; max-width: 82%;">
+              ${idx + 1}. ${escapeHtml(job.title || 'Untitled Job')}
             </div>
-            <div style="display: flex; align-items: center; gap: 6px;">
-              ${job.coverLetter ? '<span style="background: rgba(20,168,0,0.09); color: #14a800; font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 9999px; border: 1px solid rgba(20,168,0,0.2);">✍️ Proposal Ready</span>' : ''}
-              ${job.score ? `<span style="background: rgba(99,102,241,0.12); color: #6366f1; font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 9999px;">Score: ${job.score}</span>` : ''}
-            </div>
+            <span style="background: #e4f7e2; color: #14a800; font-weight: 700; font-size: 11px; padding: 2px 8px; border-radius: 9999px; white-space: nowrap; margin-left: 8px;">
+              Score: ${job.score || 'N/A'}
+            </span>
           </div>
-
-          <h3 style="font-size: 13px; font-weight: 700; color: #001e00; margin-bottom: 3px; line-height: 1.35;">${escapeHtml(job.title || 'Untitled Job')}</h3>
-
-          <div style="font-size: 11.5px; font-weight: 700; color: #14a800; margin-bottom: 4px;">
-            ${escapeHtml(budgetDisplay)}
+          <div style="font-size: 11px; color: #5e6d55; margin-bottom: 6px;">
+            <strong>Budget:</strong> ${escapeHtml(budgetDisplay)} • <strong>Client:</strong> ${escapeHtml(clientCountry)} (★ ${escapeHtml(clientFeedback)})
           </div>
-
-          <div style="font-size: 10.5px; color: #333333; line-height: 1.4; margin-bottom: 6px;">
+          <div style="font-size: 11px; color: #333333; line-height: 1.45; margin-bottom: 6px;">
             ${escapeHtml(descSnippet)}${descSnippet.length >= 220 ? '...' : ''}
           </div>
-
-          ${skillsHtml ? `<div style="display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 6px;">${skillsHtml}</div>` : ''}
-
-          <div style="display: flex; align-items: center; gap: 12px; font-size: 10.5px; color: #6f7d66; border-top: 1px solid #f0f0f0; padding-top: 6px; margin-bottom: 6px;">
-            <span style="${isVerified ? 'color: #14a800; font-weight: 600;' : ''}">${isVerified ? '✓ Payment verified' : 'Unverified'}</span>
-            <span>⭐ ${escapeHtml(clientFeedback)}</span>
-            <span>📍 ${escapeHtml(clientCountry)}</span>
-          </div>
-
-          <div style="display: flex; justify-content: flex-end;">
-            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="background: #14a800; color: #ffffff !important; text-decoration: none; font-size: 10.5px; font-weight: 700; padding: 4px 12px; border-radius: 9999px; display: inline-flex; align-items: center; gap: 4px;">
+          <div style="font-size: 11px; margin-top: 4px;">
+            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700; display: inline-block;">
               View Job on Upwork ➔
             </a>
           </div>

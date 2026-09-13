@@ -89,20 +89,19 @@ async function generateDailyPdfReport(stats, feed = []) {
     }
   } catch (_) {}
 
-  // Ключевые слова
+  // Подготавливаем ключевые слова
   const keywords = stats?.byKeyword || { "wordpress developer": matched };
   const keywordsHtml = Object.entries(keywords)
     .map(
       ([kw, count]) => `
-      <div class="keyword-stat-pill">
-        <span>${escapeHtml(kw)}</span>
-        <span class="keyword-stat-count">${count}</span>
-      </div>
+      <span style="border: 1px solid #e4e4e4; background: #f7f7f7; padding: 4px 12px; border-radius: 9999px; font-size: 11px; font-weight: 500; color: #001e00;">
+        ${escapeHtml(kw)} <strong style="color: #14a800;">(${count})</strong>
+      </span>
     `
     )
     .join("");
 
-  // Список вакансий (карточки 1:1 как в Mini App)
+  // Список вакансий (в точности как в скачиваемом PDF из Mini App)
   const jobsToInclude = displayJobs.slice(0, 10);
   const jobsHtml = jobsToInclude
     .map((job, idx) => {
@@ -112,62 +111,30 @@ async function generateDailyPdfReport(stats, feed = []) {
         (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : "https://www.upwork.com");
       const budgetDisplay =
         job.budgetDisplay ||
-        (job.isHourly ? `Hourly: $${job.hourlyBudgetMin || 0}-$${job.hourlyBudgetMax || 0}/hr` : "Fixed-price");
+        (job.isHourly ? `$${job.hourlyBudgetMin || 0} - $${job.hourlyBudgetMax || 0}/hr` : "Fixed-price");
       const clientCountry = job.client?.country || job.client?.location?.country || "Unknown";
-      const clientFeedback = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1) : "5.0";
-      const isVerified = job.client?.verificationStatus === "VERIFIED";
+      const clientFeedback = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1).replace(/\.0$/, "") : "5";
       const descSnippet = (job.description || "").replace(/\s+/g, " ").trim().slice(0, 220);
 
-      // Skills pills
-      const skills = Array.isArray(job.skills) ? job.skills.slice(0, 4) : [];
-      const skillsHtml = skills
-        .map((s) => `<span class="skill-pill">${escapeHtml(s)}</span>`)
-        .join("");
-
-      // Время публикации
-      let postTime = "Today";
-      if (job.publishedDateTime) {
-        try {
-          const dt = new Date(job.publishedDateTime);
-          postTime = dt.toLocaleTimeString("ru-RU", { hour: "2-digit", minute: "2-digit", timeZone: "Europe/Kyiv" });
-        } catch (_) {}
-      }
-
       return `
-      <div class="job-card">
-        <div class="card-top">
-          <div class="card-top-left">
-            <span class="job-rank">#${idx + 1}</span>
-            <span class="card-posted-time">Posted ${escapeHtml(postTime)}</span>
+      <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #ffffff; page-break-inside: avoid; break-inside: avoid; margin-bottom: 8px;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+          <div style="font-weight: 700; font-size: 13px; color: #001e00; line-height: 1.35; max-width: 82%;">
+            ${idx + 1}. ${escapeHtml(job.title || "Untitled Job")}
           </div>
-          <div class="card-actions-top">
-            ${job.coverLetter ? '<span class="badge-proposal">✍️ Proposal Ready</span>' : ""}
-            ${job.score ? `<span class="badge-score">Score: ${job.score}</span>` : ""}
-          </div>
+          <span style="background: #e4f7e2; color: #14a800; font-weight: 700; font-size: 11px; padding: 2px 8px; border-radius: 9999px; white-space: nowrap; margin-left: 8px;">
+            Score: ${job.score || "N/A"}
+          </span>
         </div>
-
-        <h3 class="job-title">${escapeHtml(job.title || "Untitled Job")}</h3>
-
-        <div class="job-budget-line">
-          <span>${escapeHtml(budgetDisplay)}</span>
+        <div style="font-size: 11px; color: #5e6d55; margin-bottom: 6px;">
+          <strong>Budget:</strong> ${escapeHtml(budgetDisplay)} • <strong>Client:</strong> ${escapeHtml(clientCountry)} (★ ${escapeHtml(clientFeedback)})
         </div>
-
-        <div class="job-description">
+        <div style="font-size: 11px; color: #333333; line-height: 1.45; margin-bottom: 6px;">
           ${escapeHtml(descSnippet)}${descSnippet.length >= 220 ? "..." : ""}
         </div>
-
-        ${skillsHtml ? `<div class="skills-pills">${skillsHtml}</div>` : ""}
-
-        <div class="card-client-meta">
-          <span class="meta-item ${isVerified ? "verified" : ""}">${isVerified ? "✓ Payment verified" : "Unverified"}</span>
-          <span class="meta-item">⭐ ${escapeHtml(clientFeedback)}</span>
-          <span class="meta-item">📍 ${escapeHtml(clientCountry)}</span>
-        </div>
-
-        <div class="card-footer-action">
-          <a href="${escapeHtml(targetUrl)}" target="_blank" class="btn-upwork-link">
-            <span>View Job on Upwork</span>
-            <span class="arrow">➔</span>
+        <div style="font-size: 11px; margin-top: 4px;">
+          <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700; display: inline-block;">
+            View Job on Upwork ➔
           </a>
         </div>
       </div>
@@ -183,9 +150,9 @@ async function generateDailyPdfReport(stats, feed = []) {
     logoDataUri = `data:image/png;base64,${logoBase64}`;
   }
 
-  // Полный HTML документ, 1 в 1 повторяющий дизайн и структуру Mini App
+  // Полный HTML документ 1 в 1 как в скачиваемом PDF из Mini App
   const fullHtml = `<!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Upwork Daily Report</title>
@@ -200,9 +167,9 @@ async function generateDailyPdfReport(stats, feed = []) {
     }
 
     body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, Arial, sans-serif;
       color: #001e00;
-      background-color: #f7f7f7;
+      background: #ffffff;
       padding: 0;
       margin: 0;
       -webkit-print-color-adjust: exact;
@@ -210,389 +177,72 @@ async function generateDailyPdfReport(stats, feed = []) {
     }
 
     .report-wrap {
-      max-width: 740px;
+      max-width: 800px;
       margin: 0 auto;
-      padding: 8px 12px;
-    }
-
-    /* Header Card - точно как в Mini App */
-    .report-header-card {
-      background-color: #ffffff;
-      border: 1px solid #e4e4e4;
-      border-radius: 14px;
-      padding: 14px 18px;
-      margin-bottom: 10px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-    }
-
-    .header-brand {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-
-    .upwork-logo-img {
-      height: 26px;
-      width: auto;
-      display: block;
-      object-fit: contain;
-    }
-
-    .report-title {
-      font-size: 17px;
-      font-weight: 800;
-      color: #001e00;
-      line-height: 1.2;
-    }
-
-    .report-subtitle {
-      font-size: 11px;
-      color: #5e6d55;
-      margin-top: 2px;
-    }
-
-    .report-date-badge {
-      background-color: rgba(20, 168, 0, 0.08);
-      color: #14a800;
-      font-size: 11px;
-      font-weight: 700;
-      padding: 4px 12px;
-      border-radius: 9999px;
-      border: 1px solid rgba(20, 168, 0, 0.2);
-      white-space: nowrap;
-    }
-
-    /* 4 KPI Cards - 1 в 1 как в Mini App */
-    .kpi-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 8px;
-      margin-bottom: 12px;
-    }
-
-    .kpi-card {
-      background-color: #ffffff;
-      border: 1px solid #e4e4e4;
-      border-radius: 12px;
-      padding: 10px 12px;
-      display: flex;
-      flex-direction: column;
-      gap: 3px;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-    }
-
-    .kpi-card-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .kpi-label {
-      font-size: 11px;
-      color: #5e6d55;
-      font-weight: 600;
-    }
-
-    .kpi-icon {
-      font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif;
-      font-size: 16px;
-      line-height: 1;
-    }
-
-    .kpi-value {
-      font-size: 22px;
-      font-weight: 800;
-      color: #001e00;
-      line-height: 1.1;
-    }
-
-    .text-green { color: #14a800 !important; }
-    .text-indigo { color: #6366f1 !important; }
-    .text-gold { color: #e28a00 !important; }
-
-    /* Keywords Breakdown */
-    .report-section-title {
-      font-size: 12px;
-      font-weight: 700;
-      color: #001e00;
-      margin: 12px 0 6px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-
-    .feed-tip {
-      background-color: #e4e4e4;
-      color: #5e6d55;
-      font-size: 11px;
-      font-weight: 600;
-      padding: 2px 8px;
-      border-radius: 9999px;
-      text-transform: none;
-      letter-spacing: normal;
-    }
-
-    .keyword-stats-list {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      margin-bottom: 12px;
-    }
-
-    .keyword-stat-pill {
-      background-color: #ffffff;
-      color: #001e00;
-      border: 1px solid #e4e4e4;
-      border-radius: 9999px;
-      padding: 3px 10px;
-      font-size: 11px;
-      font-weight: 500;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
-    }
-
-    .keyword-stat-count {
-      background-color: #14a800;
-      color: #ffffff;
-      font-size: 10px;
-      font-weight: 700;
-      border-radius: 9999px;
-      padding: 1px 6px;
-    }
-
-    /* Jobs Feed List */
-    .jobs-list {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-    }
-
-    .job-card {
-      background-color: #ffffff;
-      border: 1px solid #e4e4e4;
-      border-radius: 12px;
-      padding: 11px 14px;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-      page-break-inside: avoid;
-      break-inside: avoid;
-    }
-
-    .card-top {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 5px;
-    }
-
-    .card-top-left {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .job-rank {
-      background: #f2f2f2;
-      color: #001e00;
-      font-size: 10px;
-      font-weight: 700;
-      padding: 2px 6px;
-      border-radius: 6px;
-    }
-
-    .card-posted-time {
-      font-size: 11px;
-      color: #6f7d66;
-      font-weight: 500;
-    }
-
-    .card-actions-top {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .badge-proposal {
-      background-color: rgba(20, 168, 0, 0.09);
-      color: #14a800;
-      font-size: 10px;
-      font-weight: 700;
-      padding: 2px 7px;
-      border-radius: 9999px;
-      border: 1px solid rgba(20, 168, 0, 0.2);
-    }
-
-    .badge-score {
-      background-color: rgba(99, 102, 241, 0.12);
-      color: #6366f1;
-      font-size: 10px;
-      font-weight: 700;
-      padding: 2px 7px;
-      border-radius: 9999px;
-    }
-
-    .job-title {
-      font-size: 13px;
-      font-weight: 700;
-      color: #001e00;
-      margin-bottom: 3px;
-      line-height: 1.35;
-    }
-
-    .job-budget-line {
-      font-size: 11.5px;
-      font-weight: 700;
-      color: #14a800;
-      margin-bottom: 4px;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .job-description {
-      font-size: 10.5px;
-      color: #333333;
-      line-height: 1.4;
-      margin-bottom: 6px;
-    }
-
-    .skills-pills {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 4px;
-      margin-bottom: 6px;
-    }
-
-    .skill-pill {
-      background-color: #f2f2f2;
-      color: #5e6d55;
-      font-size: 9.5px;
-      font-weight: 500;
-      padding: 2px 7px;
-      border-radius: 9999px;
-      border: 1px solid #e4e4e4;
-    }
-
-    .card-client-meta {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      font-size: 10.5px;
-      color: #6f7d66;
-      border-top: 1px solid #f0f0f0;
-      padding-top: 6px;
-      margin-bottom: 6px;
-    }
-
-    .meta-item {
-      display: inline-flex;
-      align-items: center;
-      gap: 3px;
-    }
-
-    .meta-item.verified {
-      color: #14a800;
-      font-weight: 600;
-    }
-
-    .card-footer-action {
-      display: flex;
-      justify-content: flex-end;
-    }
-
-    .btn-upwork-link {
-      background-color: #14a800;
-      color: #ffffff !important;
-      text-decoration: none;
-      font-size: 10.5px;
-      font-weight: 700;
-      padding: 4px 12px;
-      border-radius: 9999px;
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
+      padding: 16px 20px;
     }
   </style>
 </head>
 <body>
   <div class="report-wrap">
-    <!-- Header Card -->
-    <div class="report-header-card">
-      <div class="header-brand">
-        ${
-          logoDataUri
-            ? `<img src="${logoDataUri}" alt="Upwork" class="upwork-logo-img" />`
-            : `<span style="font-size: 20px; font-weight: 800; color: #14a800;">Upwork</span>`
-        }
-        <div>
-          <h2 class="report-title">Daily Report</h2>
-          <p class="report-subtitle">Summary of Upwork jobs monitoring and AI proposals</p>
+    <!-- Header -->
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 2.5px solid #14a800; padding-bottom: 12px; margin-bottom: 20px;">
+      <div>
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 4px;">
+          ${
+            logoDataUri
+              ? `<img src="${logoDataUri}" alt="Upwork" style="height: 26px; width: auto; display: block; object-fit: contain;" />`
+              : `<span style="font-size: 20px; font-weight: 800; color: #14a800;">Upwork</span>`
+          }
+          <span style="font-size: 16px; color: #14a800; font-weight: 300;">|</span>
+          <span style="font-size: 15px; color: #001e00; font-weight: 700; line-height: 1;">Daily Intelligence Report</span>
         </div>
+        <p style="font-size: 11px; color: #5e6d55; margin: 2px 0 0;">Automatic Upwork Bot Monitoring & AI Proposal Analytics</p>
       </div>
       <div style="text-align: right;">
-        <span class="report-date-badge">${escapeHtml(formattedDate)}</span>
-        <div style="font-size: 10px; color: #5e6d55; margin-top: 3px;">Kyiv (UTC+3)</div>
+        <div style="font-size: 13px; font-weight: 700; color: #001e00;">Date: ${escapeHtml(targetDate)}</div>
+        <div style="font-size: 10px; color: #5e6d55; margin-top: 2px;">Timezone: Europe/Kyiv</div>
       </div>
     </div>
 
-    <!-- 4 KPI Cards -->
-    <div class="kpi-grid">
-      <div class="kpi-card">
-        <div class="kpi-card-header">
-          <span class="kpi-label">Scanned</span>
-          <span class="kpi-icon">📡</span>
-        </div>
-        <span class="kpi-value">${totalScanned}</span>
+    <!-- 4 Stats Cards -->
+    <div style="display: flex; gap: 12px; margin-bottom: 20px;">
+      <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+        <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">TOTAL SCANNED</div>
+        <div style="font-size: 24px; font-weight: 800; color: #001e00; margin-top: 4px;">${totalScanned}</div>
       </div>
-      <div class="kpi-card">
-        <div class="kpi-card-header">
-          <span class="kpi-label">Matched Profile</span>
-          <span class="kpi-icon">🎯</span>
-        </div>
-        <span class="kpi-value text-green">${matched}</span>
+      <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+        <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">MATCHED PROFILE</div>
+        <div style="font-size: 24px; font-weight: 800; color: #14a800; margin-top: 4px;">${matched}</div>
       </div>
-      <div class="kpi-card">
-        <div class="kpi-card-header">
-          <span class="kpi-label">AI Proposals</span>
-          <span class="kpi-icon">✍️</span>
-        </div>
-        <span class="kpi-value text-indigo">${proposalsCount}</span>
+      <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+        <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">AI PROPOSALS</div>
+        <div style="font-size: 24px; font-weight: 800; color: #6366f1; margin-top: 4px;">${proposalsCount}</div>
       </div>
-      <div class="kpi-card">
-        <div class="kpi-card-header">
-          <span class="kpi-label">Top Match Score</span>
-          <span class="kpi-icon">⭐️</span>
-        </div>
-        <span class="kpi-value text-gold">${topScore > 0 ? topScore : "N/A"}</span>
+      <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+        <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">TOP MATCH SCORE</div>
+        <div style="font-size: 24px; font-weight: 800; color: #e28a00; margin-top: 4px;">${topScore > 0 ? topScore : "N/A"}</div>
       </div>
     </div>
 
-    <!-- Keywords Breakdown -->
+    <!-- Search Keywords -->
     ${
       keywordsHtml
         ? `
-      <div class="report-section-title">
-        <span>Search Keywords</span>
+      <div style="margin-bottom: 20px;">
+        <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">SEARCH KEYWORDS:</h3>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap;">${keywordsHtml}</div>
       </div>
-      <div class="keyword-stats-list">${keywordsHtml}</div>
     `
         : ""
     }
 
-    <!-- Today's Matched Opportunities -->
-    <div class="report-section-title">
-      <span>Today's Matched Opportunities</span>
-      <span class="feed-tip">${displayJobs.length} ${displayJobs.length === 1 ? "job" : "jobs"}</span>
-    </div>
-
-    <div class="jobs-list">
-      ${jobsHtml || '<div style="color: #5e6d55; font-size: 12px; background: #ffffff; padding: 16px; border-radius: 12px;">No matching jobs found today.</div>'}
+    <!-- Selected Jobs -->
+    <div>
+      <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">SELECTED JOBS FOR THE DAY:</h3>
+      <div style="display: flex; flex-direction: column; gap: 4px;">
+        ${jobsHtml || '<div style="color: #5e6d55; font-size: 12px;">No matching jobs found today.</div>'}
+      </div>
     </div>
   </div>
 </body>
@@ -607,7 +257,12 @@ async function generateDailyPdfReport(stats, feed = []) {
 
   try {
     const page = await browser.newPage();
+    await page.setViewport({ width: 850, height: 1100, deviceScaleFactor: 2 });
     await page.setContent(fullHtml, { waitUntil: "networkidle0" });
+
+    if (process.env.DEBUG_SCREENSHOT) {
+      await page.screenshot({ path: path.resolve("docs/reports/preview.png"), fullPage: true });
+    }
 
     const pdfRaw = await page.pdf({
       format: "A4",
