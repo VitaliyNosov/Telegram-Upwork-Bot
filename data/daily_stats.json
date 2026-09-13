@@ -1,10 +1,10 @@
 {
   "date": "2026-09-13",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 25,
-  "matchedFilters": 4,
+  "totalScanned": 26,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 4100,
       "url": "https://www.upwork.com/jobs/~022098895531972246893",
       "addedAt": "2026-09-12T22:07:09.463Z"
+    },
+    {
+      "title": "Website Design and Build for Real Estate and Construction",
+      "budget": "$15-$30/hr",
+      "score": 3096,
+      "url": "https://www.upwork.com/jobs/~022099101459050999448",
+      "addedAt": "2026-09-13T11:45:08.023Z"
     },
     {
       "title": "Website Designer/Developer Needed for Interstate Moving Company Website (Lead Generation Focus)",

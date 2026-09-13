@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099101459050999448",
+    "ciphertext": "~022099101459050999448",
+    "title": "Website Design and Build for Real Estate and Construction",
+    "description": "We need a freelancer to design and build a professional website for a real estate firm and a construction firm. The project includes creating a clean, modern layout, organizing content into clear sections, and ensuring the site is easy to navigate. The final deliverable should be a fully functional website that reflects both businesses and supports long-term growth. Please share relevant examples of similar projects and your approach to building a polished, user-friendly site.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.81,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 46,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 3096,
+    "coverLetter": "Hi! Building a clean, scalable website that clearly presents both your real estate and construction operations requires a solid content architecture so each side of the business shines without confusing visitors.\n\nI specialize in custom WordPress development using Gutenberg and Advanced Custom Fields (ACF), creating lightweight, tailored designs that look modern and are incredibly easy for your team to update. My focus is on intuitive navigation, fast load speeds, and clean code built to scale alongside your firm. You can view a high-profile corporate site build I developed here: https://about.offerup.com/\n\nAre you looking to feature both businesses on a single domain with split landing sections, or do you prefer a parent-company hub structure? Let’s connect in chat to discuss your vision!",
+    "publishedDateTime": "2026-09-13T11:44:04+0000",
+    "addedAt": "2026-09-13T11:45:27.126Z",
+    "url": "https://www.upwork.com/jobs/~022099101459050999448",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099101459050999448/apply/"
+  },
+  {
     "id": "2098992267032898381",
     "ciphertext": "~022098992267032898381",
     "title": "Wordpress site upgrade",
