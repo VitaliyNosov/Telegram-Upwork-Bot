@@ -216,7 +216,7 @@ async function generateDailyPdfReport(stats, feed = []) {
     const page = await browser.newPage();
     await page.setContent(fullHtml, { waitUntil: "networkidle0" });
 
-    const buffer = await page.pdf({
+    const pdfRaw = await page.pdf({
       format: "A4",
       printBackground: true,
       margin: {
@@ -226,6 +226,7 @@ async function generateDailyPdfReport(stats, feed = []) {
         right: "8mm",
       },
     });
+    const buffer = Buffer.from(pdfRaw);
 
     // Сохраняем файл в docs/reports (для раздачи на GitHub Pages)
     const reportsDir = path.resolve(config.PATHS.REPORTS_DIR || "docs/reports");

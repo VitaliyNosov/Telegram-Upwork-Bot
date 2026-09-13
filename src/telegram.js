@@ -45,6 +45,8 @@ async function sendTelegramPhoto(config, imagePathOrBuffer, caption = "", replyM
   let buffer;
   if (Buffer.isBuffer(imagePathOrBuffer)) {
     buffer = imagePathOrBuffer;
+  } else if (imagePathOrBuffer instanceof Uint8Array) {
+    buffer = Buffer.from(imagePathOrBuffer);
   } else if (typeof imagePathOrBuffer === "string" && fs.existsSync(imagePathOrBuffer)) {
     buffer = fs.readFileSync(imagePathOrBuffer);
   } else {
@@ -81,6 +83,8 @@ async function sendTelegramDocument(config, docPathOrBuffer, filename = "documen
   let buffer;
   if (Buffer.isBuffer(docPathOrBuffer)) {
     buffer = docPathOrBuffer;
+  } else if (docPathOrBuffer instanceof Uint8Array) {
+    buffer = Buffer.from(docPathOrBuffer);
   } else if (typeof docPathOrBuffer === "string" && fs.existsSync(docPathOrBuffer)) {
     buffer = fs.readFileSync(docPathOrBuffer);
   } else {
