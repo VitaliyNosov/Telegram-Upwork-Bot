@@ -7,12 +7,15 @@ on:
     paths:
       - ".github/workflows/test-pdf.yml"
       - "scripts/test-pdf-digest.js"
+      - "src/pdfReport.js"
       - "src/telegram.js"
       - "src/index.js"
 
 jobs:
   test:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,3 +33,12 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Commit generated PDF to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          [ -d docs/reports ] && git add docs/reports
+          [ -d webapp/reports ] && git add webapp/reports
+          git diff --staged --quiet || git commit -m "chore: upload test pdf report [skip ci]"
+          git push
