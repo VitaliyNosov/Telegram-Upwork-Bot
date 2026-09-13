@@ -17,8 +17,10 @@ module.exports = {
   // Приоритетный стек моделей Gemini на одном аккаунте (переключение при 429 Rate Limit)
   GEMINI_MODELS: [
     process.env.GEMINI_MODEL,
-    "gemini-3.5-flash",
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
     "gemini-3.6-flash",
+    "gemini-3.5-flash",
     "gemini-2.0-flash",
     "gemini-2.0-flash-lite",
     "gemini-1.5-flash",
