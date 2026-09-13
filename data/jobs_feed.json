@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099184524172307277",
+    "ciphertext": "~022099184524172307277",
+    "title": "WordPress Developer for Chatbot Integration",
+    "description": "We are looking for an experienced WordPress developer to create and implement a customer-facing chatbot for a  website.\n\nThe chatbot will be used primarily to answer basic questions from potential customers and, most importantly, guide visitors toward requesting a quote.\n\nThis is not intended to be a highly complex AI assistant. We want a practical, easy-to-use chatbot that can provide helpful answers to common questions while functioning as a lead-generation tool.\n\nThe chatbot must be designed so that it can be updated and expanded in the future without rebuilding it from scratch.\n\nThe content should ideally be manageable through the WordPress admin area or another straightforward management interface.\n\nWe do not want a system where every new question or answer requires the developer to modify the underlying plugin code.\n\nThe architecture should allow the chatbot's knowledge/content and functionality to grow over time.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "html5"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can certainly build a scalable, lead-generation chatbot for your WordPress site that avoids hard-coded maintenance.\n\nTo ensure your team can manage content easily, I recommend setting up a custom post type or a dedicated settings interface within the WordPress admin. This allows you to update questions, answers, and lead-capture flows independently without needing to touch the core plugin code. Given my background in custom plugin development and API integrations, I will structure the architecture so it remains flexible for future expansion as your needs grow.\n\nYou can see an example of my custom development work at https://www.thelifeyoucansave.org/, where I focused on clean, manageable architecture. \n\nAre you currently using a specific CRM to track these quote requests, or should we build a custom notification system for the leads?",
+    "publishedDateTime": "2026-09-13T17:13:23+0000",
+    "addedAt": "2026-09-13T17:15:25.636Z",
+    "url": "https://www.upwork.com/jobs/~022099184524172307277",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099184524172307277/apply/"
+  },
+  {
     "id": "2099107957886790477",
     "ciphertext": "~022099107957886790477",
     "title": "WordPress Real Estate Website Developer Needed, Premium Design + Ongoing Updates",

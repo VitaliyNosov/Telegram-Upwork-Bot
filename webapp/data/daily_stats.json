@@ -1,10 +1,10 @@
 {
   "date": "2026-09-13",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 38,
-  "matchedFilters": 6,
+  "totalScanned": 39,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022099107957886790477",
       "addedAt": "2026-09-13T12:12:19.163Z"
+    },
+    {
+      "title": "WordPress Developer for Chatbot Integration",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022099184524172307277",
+      "addedAt": "2026-09-13T17:15:08.520Z"
     },
     {
       "title": "WordPress Designer/Developer Needed for Homepage Redesign — Technology Advisory Firm",
