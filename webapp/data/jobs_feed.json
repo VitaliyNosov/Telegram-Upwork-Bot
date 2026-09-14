@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099597791409808989",
+    "ciphertext": "~022099597791409808989",
+    "title": "Mortgage Brokerage Website for Investors",
+    "description": "We are launching a mortgage brokerage focused on real estate investors and need an experienced developer/designer to build a modern, professional, high-converting website. The site should include a polished homepage, individual loan-product pages, About/Team page, Submit a Deal / Get Pre-Qualified funnel, lead capture forms, Realtor/referral partner page, loan calculators, CRM integration, Calendly scheduling, mobile optimization, SEO and analytics, mortgage disclosures, privacy areas, and easy backend editing. This is a lead-generation site for investors, developers, Realtors, and wholesalers. We are open to WordPress + Elementor and AI-assisted development. Please share examples of similar work, recommended platform, estimated timeline, total cost, and your recommended CRM/form system. Full ownership and admin access to the website, domain, hosting, forms, and integrations are required.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "content-writing"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi!\n\nBuilding a high-converting lead-generation site for real estate investors requires a fast, secure platform with seamless CRM and calendar integrations. WordPress combined with Elementor or clean Gutenberg blocks is the ideal choice here—it gives you a modern, professional design while keeping the backend incredibly easy for your team to edit. \n\nI’ve built numerous conversion-focused sites with advanced forms, funnels, and CRM integrations, ensuring full ownership and admin access are handed over to you upon completion. For a mortgage brokerage site like this, I typically recommend using a robust form builder like Gravity Forms or Formidable paired with ActiveCampaign or HubSpot for CRM automation, alongside embedded Calendly scheduling. \n\nYou can view a recent, clean web project I developed here: https://www.thelifeyoucansave.org/\n\nTo give you an accurate timeline and cost, I'd love to know if you already have brand guidelines, wireframes, or copy ready to go?",
+    "publishedDateTime": "2026-09-14T20:36:03+0000",
+    "addedAt": "2026-09-14T20:37:19.176Z",
+    "url": "https://www.upwork.com/jobs/~022099597791409808989",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099597791409808989/apply/"
+  },
+  {
     "id": "2099589150799351289",
     "ciphertext": "~022099589150799351289",
     "title": "WordPress Developer Needed to Move 4 Small Course Websites Into One Domain",

@@ -1,10 +1,10 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-14",
-  "totalScanned": 92,
-  "matchedFilters": 27,
+  "totalScanned": 93,
+  "matchedFilters": 28,
   "byKeyword": {
-    "wordpress developer": 26,
+    "wordpress developer": 27,
     "wordpress plugin": 1
   },
   "topJobs": [
@@ -72,11 +72,11 @@
       "addedAt": "2026-09-14T18:37:24.892Z"
     },
     {
-      "title": "WordPress/WooCommerce Performance Audit → Optimization (Swiss D2C brand, WPML, custom theme",
-      "budget": "$12-$27/hr",
-      "score": 2846,
-      "url": "https://www.upwork.com/jobs/~022099439660672298648",
-      "addedAt": "2026-09-14T13:09:08.495Z"
+      "title": "Mortgage Brokerage Website for Investors",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022099597791409808989",
+      "addedAt": "2026-09-14T20:37:17.809Z"
     }
   ]
 }
