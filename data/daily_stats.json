@@ -1,12 +1,19 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 12,
-  "matchedFilters": 1,
+  "totalScanned": 13,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Build 12-Page Marketing Site + Monday.com Form Integration",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022099289242751282840",
+      "addedAt": "2026-09-14T00:13:12.268Z"
+    },
     {
       "title": "Migrate Websites to Supabase",
       "budget": "Fixed-price",
