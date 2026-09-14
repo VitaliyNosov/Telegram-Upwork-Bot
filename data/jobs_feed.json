@@ -1,5 +1,35 @@
 [
   {
+    "id": "2099620069519193503",
+    "ciphertext": "~022099620069519193503",
+    "title": "WordPress Performance Audit & Optimization Roadmap — Large Publishing Site",
+    "description": "**Title:**\nWordPress Performance Audit & Optimization Roadmap — Large Publishing Site\n\n**Job Description:**\n\nI’m looking for an experienced WordPress performance specialist to conduct a comprehensive technical audit of an established publishing website with thousands of pages.\n\nThe site has experienced noticeable performance degradation over the past several months, particularly around page-load speed and overall responsiveness.\n\n**This engagement is for assessment and recommendations only. I am not looking for implementation at this stage.** I already have a developer who manages the site and can execute against the recommendations.\n\nThe goal is to identify what is causing the performance issues and provide a clear, prioritized roadmap for improvement.\n\n**Current Environment**\n\n* WordPress\n* Large content/publishing site with thousands of URLs\n* Hosted through Netlify\n* Cloudflare in place\n* Google Search Console access available\n* PageSpeed Insights/Core Web Vitals data available\n* Existing developer available for follow-up questions and implementation\n\n**Scope of Audit**\n\nThe audit should evaluate:\n\n* Overall WordPress and site architecture\n* Core Web Vitals, including LCP, INP and CLS\n* Mobile vs. desktop performance\n* Server response time and TTFB\n* Netlify configuration and hosting architecture\n* Cloudflare configuration, caching and CDN performance\n* WordPress caching strategy\n* Database performance\n* Plugin and theme performance\n* JavaScript and CSS loading\n* Render-blocking resources\n* Third-party scripts, analytics and advertising\n* Image delivery, compression, sizing and lazy loading\n* Font loading\n* DOM size and page complexity\n* External resources and API calls\n* Search Console Core Web Vitals issues\n* PageSpeed Insights/Lighthouse findings\n* Performance differences across major page templates\n* Scalability issues related to the size of the site\n\n**Deliverables**\n\nThe final deliverable should include:\n\n1. A clear assessment of the primary causes of the current performance issues.\n2. A prioritized roadmap of recommended improvements.\n3. Recommendations categorized by expected impact and level of effort.\n4. Identification of quick wins vs. larger architectural changes.\n5. Specific technical recommendations my existing developer can implement.\n6. Identification of any hosting, CDN, caching or infrastructure changes that should be considered.\n7. Estimated impact of major recommendations where reasonably possible.\n8. A review call to walk through the findings and answer questions.\n\nPlease organize recommendations into:\n\n* Critical / highest impact\n* Medium priority\n* Longer-term improvements\n\n**Important**\n\nThis is an **audit and roadmap engagement, not an implementation engagement**.\n\nPlease do not include ongoing development or optimization work in your initial proposal unless listed separately as an optional future phase.\n\nI’m looking for an independent technical assessment of the current environment and a practical roadmap my existing developer can follow.\n\n**Experience Required**\n\nPlease apply only if you have meaningful experience auditing and optimizing large WordPress websites, ideally publishing, media or SEO-driven sites with thousands of indexed pages.\n\nExperience with the following is strongly preferred:\n\n* WordPress performance engineering\n* Core Web Vitals\n* Cloudflare\n* Netlify\n* Large-scale publishing websites\n* Google Search Console\n* PageSpeed Insights / Lighthouse\n* CDN and caching architecture\n* Technical SEO as it relates to performance\n\n**When applying, please include:**\n\n* **3-5 live websites you have personally worked on that are comparable in scale or complexity**\n* A brief explanation of what you were responsible for on each site\n* Approximate site size, page count or traffic level where possible\n* Specific performance issues you identified or improvements you helped achieve\n* Your audit methodology\n* Tools you typically use\n* A sample audit or redacted example of a previous performance roadmap, if available\n* Estimated hours required to complete the assessment\n\n**Please do not send generic portfolio links. I specifically want examples of live sites where you personally worked on performance, infrastructure, Core Web Vitals or technical optimization.**\n\nPlease also review the attached PageSpeed Insights screenshot and briefly mention one or two observations from it in your proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 237,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-optimization",
+      "aweber",
+      "gravity-forms",
+      "wordpress-website",
+      "page-speed-optimization"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Regarding your publishing site's performance drop, my immediate observation from large-scale setups is that database bloat combined with unoptimized third-party ad scripts and asset queuing often heavily impacts INP and LCP on high-page-count WordPress builds.\n\nI specialize in WordPress performance engineering for high-traffic and publishing sites. My audit methodology thoroughly evaluates your Netlify and Cloudflare caching layers, server response times (TTFB), DOM complexity, and Core Web Vitals diagnostics via GSC and Lighthouse. I deliver a precise, prioritized roadmap broken down by impact versus effort, specifically tailored for your existing developer to execute.\n\nFor comparable scale and performance work, take a look at https://www.snopud.com/ (a large municipal site with thousands of pages where I optimized server response, asset delivery, and caching architectures). \n\nI estimate this comprehensive assessment will require approximately 10 to 15 hours. Would you like to connect in chat to discuss access and kick off the audit?",
+    "publishedDateTime": "2026-09-14T22:04:37+0000",
+    "addedAt": "2026-09-14T22:05:13.080Z",
+    "url": "https://www.upwork.com/jobs/~022099620069519193503",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099620069519193503/apply/"
+  },
+  {
     "id": "2099597791409808989",
     "ciphertext": "~022099597791409808989",
     "title": "Mortgage Brokerage Website for Investors",
