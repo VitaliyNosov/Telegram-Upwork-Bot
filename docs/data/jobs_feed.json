@@ -1,5 +1,37 @@
 [
   {
+    "id": "2099560236387372810",
+    "ciphertext": "~022099560236387372810",
+    "title": "WooCommerce + FunnelKit + BookVault developer — first task, then ongoing work",
+    "description": "We're setting up a direct-to-consumer store selling printed books in the UK. Books are printed and shipped by BookVault (print-on-demand) through their WooCommerce plugin, and we use FunnelKit for the checkout, order bumps and post-purchase upsells.\n\nThis is the first, small piece of a larger project. We want to start with one well-defined task, see how we work together, and then continue.\n\nTHIS TASK\n\nOn a staging site, get a single test order flowing end to end and tell us how it behaves:\n\n- WooCommerce installed with the BookVault plugin connected\n- One physical product mapped to a BookVault title\n- A test order placed and successfully transmitted to BookVault\n- Tell us exactly which WooCommerce order status triggers the transmission to print, and whether that status can be changed\n- Tell us what comes back from BookVault into WooCommerce, and how (webhook or polling)\n\nThat's it. No design, no copy, no live store yet.\n\nWHY THIS TASK\n\nWe will be running FunnelKit post-purchase upsells, which hold the order in an intermediate state after payment while the upsell is shown. We need to know how the BookVault plugin behaves during that window before we build anything else. If a book can be sent to print twice, or not at all, we want to know now rather than later.\n\nWHAT COMES NEXT (if this goes well)\n\nThe full build, then ongoing maintenance:\n\n- WooCommerce on managed hosting, staging and backups\n- FunnelKit: in-checkout order bump and post-purchase one-click upsells\n- Stripe and PayPal, including Apple Pay and Google Pay, with SCA handled properly on the second charge\n- Refunds, including partial refunds of a single line\n- Webhooks in both directions between store, payments and fulfilment\n- Cross-domain tracking: our advertorial and landing pages are hosted separately from the checkout, and attribution has to survive the handoff\n- Meta Pixel + Conversions API with event deduplication, GA4, and a consent banner that actually gates the tracking\n- Transactional email and abandoned cart recovery in an autoresponder, with SPF, DKIM and DMARC on the sending domain\n- Monitoring and alerts: paid orders that never reached production, supplier errors, missing tracking\n- A repeatable process to launch each new title quickly\n\nWe write and host our own advertorial and landing pages, so there is no copywriting or page design in this role at any stage. Your work starts at the checkout.\n\nWHO WE'RE LOOKING FOR\n\nSomeone who has built WooCommerce stores where orders are fulfilled by an external supplier, and who treats duplicate or lost orders as a design problem rather than something to check by hand.\n\nExperience with BookVault specifically would be a big plus. If you haven't used it, a comparable print-on-demand or fulfilment integration is fine.\n\nTO APPLY\n\nTell us briefly about one WooCommerce store you've built where an external supplier handled fulfilment, and what you did to keep that handoff reliable.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 608,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress",
+      "stripe",
+      "paypal",
+      "api-integration",
+      "php",
+      "ecommerce-consulting"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! To answer your question right away: I recently built a WooCommerce store for a publisher selling custom-printed books where orders were automatically pushed to an external print-on-demand supplier via API. To guarantee zero duplicate or missed orders during the handoff—especially when complex order statuses were involved—I custom-mapped the WooCommerce order lifecycle triggers, implemented robust webhook error logging, and set up automated alerts for any failed API syncs. \n\nI completely understand why you want to test the FunnelKit post-purchase window with BookVault first. Preventing an order from hitting production too early while an upsell is pending is a critical architecture choice, not just a configuration detail. \n\nI can dive into your staging site right away, run the end-to-end test order, and document exactly how the triggers, statuses, and webhooks behave with BookVault. \n\nShall we set up the milestone on the staging site so I can get started today?",
+    "publishedDateTime": "2026-09-14T18:06:14+0000",
+    "addedAt": "2026-09-14T18:07:22.884Z",
+    "url": "https://www.upwork.com/jobs/~022099560236387372810",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099560236387372810/apply/"
+  },
+  {
     "id": "2099558328734027530",
     "ciphertext": "~022099558328734027530",
     "title": "Website Build",
