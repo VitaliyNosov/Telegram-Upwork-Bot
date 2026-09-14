@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099304318395819613",
+    "ciphertext": "~022099304318395819613",
+    "title": "Website for Real Estate Staging Business",
+    "description": "I need a website for a real estate staging business that can integrate with Booqable. The site should support online booking, inventory management, and a clean, professional look that reflects the brand. I’m looking for someone who can build a functional, user-friendly site and help ensure the Booqable connection works smoothly. Please share relevant experience with similar projects and your approach to delivering a reliable online booking solution.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 222,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "seo"
+    ],
+    "score": 3099,
+    "coverLetter": "Hi! \n\nI can help you build a clean, professional website for your real estate staging business that seamlessly integrates online booking and inventory management through Booqable. \n\nWith extensive experience in WordPress development, custom site design, and third-party API integrations, I specialize in creating user-friendly, high-performing websites tailored to specific operational needs. For booking and inventory systems like Booqable, my approach is focused on ensuring a frictionless user experience on the front end while keeping the backend synchronization reliable so your scheduling and stock data stay accurate. \n\nYou can review my recent WordPress work, such as https://www.seeintl.org/, to see the quality of design and execution I deliver. \n\nDo you already have an active Booqable account set up with your inventory items, or would you like assistance structuring that as well? Let’s chat about your vision for the site.",
+    "publishedDateTime": "2026-09-14T01:10:15+0000",
+    "addedAt": "2026-09-14T01:11:24.543Z",
+    "url": "https://www.upwork.com/jobs/~022099304318395819613",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099304318395819613/apply/"
+  },
+  {
     "id": "2099289242751282840",
     "ciphertext": "~022099289242751282840",
     "title": "Build 12-Page Marketing Site + Monday.com Form Integration",
