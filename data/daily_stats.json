@@ -1,10 +1,10 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 48,
-  "matchedFilters": 7,
+  "totalScanned": 49,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099473027992436872",
       "addedAt": "2026-09-14T12:21:37.658Z"
+    },
+    {
+      "title": "Website Designer and Builder",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022099483857001693320",
+      "addedAt": "2026-09-14T13:05:16.767Z"
     },
     {
       "title": "Migrate Websites to Supabase",

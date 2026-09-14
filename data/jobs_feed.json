@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099483857001693320",
+    "ciphertext": "~022099483857001693320",
+    "title": "Website Designer and Builder",
+    "description": "We need a website designer and builder to adjust an AI-built website to better align with our company vision and then deploy it. This role requires more than basic edits—we want someone who can apply internet best practices, recommend improvements, and make large-scale changes to key sections of the site. The ideal freelancer should be proactive, bring suggestions, and help make the website more professional and user-friendly. We have a tight deadline, so only serious applicants should apply.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 322,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html"
+    ],
+    "score": 95,
+    "coverLetter": "Hi! I can certainly help transform your AI-generated site into a professional, high-converting platform that aligns with your specific vision.\n\nMoving beyond basic edits, I specialize in taking raw structures and refining them with best practices in UX, speed, and clean code. I have extensive experience rebuilding sites using builders like Elementor and Bricks, ensuring the final output is not just visually polished, but technically sound and easy for your team to manage. You can see an example of a professional, high-traffic build I developed at https://www.thelifeyoucansave.org/.\n\nI am comfortable working with tight deadlines and am ready to offer proactive recommendations to improve your site’s layout and functionality immediately. Do you have a link to the current site, and what is your target launch date?",
+    "publishedDateTime": "2026-09-14T13:03:44+0000",
+    "addedAt": "2026-09-14T13:05:30.142Z",
+    "url": "https://www.upwork.com/jobs/~022099483857001693320",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099483857001693320/apply/"
+  },
+  {
     "id": "2099473027992436872",
     "ciphertext": "~022099473027992436872",
     "title": "WordPress + Elementor Expert Needed to Completely Redesign & Polish Zisker.com",
