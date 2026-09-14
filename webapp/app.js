@@ -46,6 +46,16 @@
       onlyUnviewed: false,
     },
     activeJob: null,
+    analyticsPeriod: 'all', // 'all', '7d', 'today'
+  };
+
+  // Chart.js Instances Store
+  const chartInstances = {
+    activity: null,
+    rates: null,
+    types: null,
+    skills: null,
+    countries: null,
   };
 
   // DOM Elements
@@ -104,9 +114,18 @@
     kpiScore: document.getElementById('kpi-score'),
     reportDateBadge: document.getElementById('report-date-badge'),
     keywordStatsList: document.getElementById('keyword-stats-list'),
-    reportJobsCount: document.getElementById('report-jobs-count'),
-    reportJobsList: document.getElementById('report-jobs-list'),
     pdfContainer: document.getElementById('pdf-report-container'),
+
+    // Market Analytics View
+    viewAnalytics: document.getElementById('view-analytics'),
+    periodSelector: document.getElementById('analytics-period-selector'),
+    statAvgRate: document.getElementById('stat-avg-rate'),
+    statTier1Ratio: document.getElementById('stat-tier1-ratio'),
+    statPeakHours: document.getElementById('stat-peak-hours'),
+    statAnalyzedCount: document.getElementById('stat-analyzed-count'),
+    badgePeakHour: document.getElementById('badge-peak-hour'),
+    donutHourlyPct: document.getElementById('donut-hourly-pct'),
+    funnelContainer: document.getElementById('funnel-container'),
     
     // Modals
     modalDetails: document.getElementById('modal-details'),
@@ -517,6 +536,9 @@
     renderJobsFeed();
     renderSavedFeed();
     renderDailyReport();
+    if (state.activeTab === 'view-analytics') {
+      renderAnalytics();
+    }
     updateBadges();
     updateCalendarIndicators();
   }
@@ -591,97 +613,558 @@
         </div>
       `).join('');
     }
+  }
 
-    if (el.reportJobsList) {
-      el.reportJobsList.innerHTML = '';
-      const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
-      if (el.reportJobsCount) el.reportJobsCount.textContent = `${activeJobs.length} ${activeJobs.length === 1 ? 'job' : 'jobs'}`;
+  // ==========================================
+  // Market Analytics & Chart.js Visualizations
+  // ==========================================
 
-      activeJobs.forEach((job) => {
-        const isHourly = job.isHourly;
-        const budgetText = isHourly
-          ? `$${job.hourlyBudgetMin || 0} - $${job.hourlyBudgetMax || 0}/hr`
-          : 'Fixed-price';
-
-        const country = job.client?.country || 'Unknown';
-        const rating = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1) : '5.0';
-        const jobUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : '');
-
-        const card = document.createElement('div');
-        card.className = 'job-card';
-        card.innerHTML = `
-          <div class="card-header">
-            <span class="card-time">Today</span>
-            <div style="display: flex; gap: 6px; align-items: center;">
-              ${job.score ? `<span class="badge-score">Score: ${job.score}</span>` : ''}
-              <button class="card-save-btn ${state.savedIds.has(job.id) ? 'saved' : ''}" data-id="${job.id}" aria-label="Save job">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="${state.savedIds.has(job.id) ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
-                  <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
-                </svg>
-              </button>
-              <button class="btn-dismiss-card" data-dismiss="${job.id}" title="Dismiss job" aria-label="Dismiss job">
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                  <line x1="18" y1="6" x2="6" y2="18"></line>
-                  <line x1="6" y1="6" x2="18" y2="18"></line>
-                </svg>
-              </button>
-            </div>
-          </div>
-          <h2 class="card-title">${escapeHtml(job.title)}</h2>
-          <div class="card-budget">${escapeHtml(budgetText)}</div>
-          <div class="card-footer">
-            <span class="client-stat client-verified">✓ Verified</span>
-            <span class="client-stat">★ ${rating}</span>
-            <span class="client-stat">📍 ${escapeHtml(country)}</span>
-          </div>
-          <div style="display: flex; gap: 8px; margin-top: 10px;">
-            <button class="btn btn-secondary btn-report-details" style="flex: 1; padding: 8px 12px; font-size: 13px;">
-              📋 AI Proposal
-            </button>
-            <a href="${escapeHtml(jobUrl || '#')}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-report-job-link" style="flex: 1; padding: 8px 12px; font-size: 13px; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 4px;">
-              <span>🚀 Upwork</span>
-            </a>
-          </div>
-        `;
-
-        card.querySelector('.btn-report-details').addEventListener('click', (e) => {
-          e.stopPropagation();
-          openJobModal(job);
-        });
-
-        card.querySelector('.card-save-btn').addEventListener('click', (e) => {
-          e.stopPropagation();
-          toggleSave(job.id);
-        });
-
-        const dismissBtn = card.querySelector('[data-dismiss]');
-        if (dismissBtn) {
-          dismissBtn.addEventListener('click', (e) => {
-            e.stopPropagation();
-            dismissJob(job.id, card);
-          });
-        }
-
-        const linkBtn = card.querySelector('.btn-report-job-link');
-        if (linkBtn) {
-          linkBtn.addEventListener('click', (e) => {
-            e.stopPropagation();
-            if (jobUrl) {
-              e.preventDefault();
-              triggerHaptic('impact');
-              if (tg?.openLink) {
-                tg.openLink(jobUrl);
-              } else {
-                window.open(jobUrl, '_blank', 'noopener,noreferrer');
-              }
-            }
-          });
-        }
-
-        card.addEventListener('click', () => openJobModal(job));
-
-        el.reportJobsList.appendChild(card);
+  function getAnalyticsJobs() {
+    const activeJobs = state.jobs.filter((j) => !state.deletedIds.has(j.id));
+    if (state.analyticsPeriod === 'today') {
+      const todayStr = new Date().toISOString().slice(0, 10);
+      return activeJobs.filter((j) => {
+        const d = j.publishedDateTime || j.addedAt;
+        return d && d.slice(0, 10) === todayStr;
       });
+    } else if (state.analyticsPeriod === '7d') {
+      const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+      return activeJobs.filter((j) => {
+        const d = j.publishedDateTime || j.addedAt;
+        return d && new Date(d).getTime() >= sevenDaysAgo;
+      });
+    }
+    return activeJobs;
+  }
+
+  function getChartThemeColors() {
+    const isDark = state.theme === 'dark';
+    return {
+      isDark,
+      primary: isDark ? '#22c55e' : '#14a800',
+      primaryTint: isDark ? 'rgba(34, 197, 94, 0.18)' : 'rgba(20, 168, 0, 0.12)',
+      textPrimary: isDark ? '#f0f2f5' : '#001e00',
+      textSecondary: isDark ? '#94a3b8' : '#5e6d55',
+      textMuted: isDark ? '#64748b' : '#6f7d66',
+      gridColor: isDark ? 'rgba(255, 255, 255, 0.08)' : 'rgba(0, 0, 0, 0.06)',
+      cardBg: isDark ? '#242f3d' : '#ffffff',
+      tooltipBg: isDark ? '#1b2633' : '#001e00',
+      tooltipText: '#ffffff',
+      donutPalette: [
+        isDark ? '#22c55e' : '#14a800',
+        '#3b82f6',
+        '#f59e0b',
+        '#a855f7',
+        '#ec4899',
+        '#06b6d4',
+        '#94a3b8'
+      ]
+    };
+  }
+
+  function renderAnalytics() {
+    if (!el.viewAnalytics) return;
+
+    const jobs = getAnalyticsJobs();
+    const colors = getChartThemeColors();
+
+    // 1. KPI Calculation
+    let hourlySum = 0;
+    let hourlyCount = 0;
+    let fixedCount = 0;
+    const tier1Keywords = ['united states', 'usa', 'us', 'united kingdom', 'uk', 'canada', 'australia', 'germany', 'netherlands', 'switzerland', 'sweden', 'norway', 'denmark', 'new zealand', 'ireland'];
+    let tier1Count = 0;
+
+    const hourCounts = new Array(24).fill(0);
+    const rateBrackets = { '<$20': 0, '$20–35': 0, '$35–50': 0, '$50–75': 0, '$75+': 0 };
+    const skillCounts = {};
+    const countryCounts = {};
+
+    jobs.forEach((j) => {
+      // Rates & Types
+      if (j.isHourly) {
+        hourlyCount++;
+        const maxRate = Number(j.hourlyBudgetMax || j.hourlyBudgetMin || 0);
+        const minRate = Number(j.hourlyBudgetMin || j.hourlyBudgetMax || 0);
+        const avg = maxRate > 0 && minRate > 0 ? (maxRate + minRate) / 2 : (maxRate || minRate || 0);
+        if (avg > 0) {
+          hourlySum += avg;
+        }
+
+        const effectiveRate = maxRate || minRate || 0;
+        if (effectiveRate < 20) rateBrackets['<$20']++;
+        else if (effectiveRate <= 35) rateBrackets['$20–35']++;
+        else if (effectiveRate <= 50) rateBrackets['$35–50']++;
+        else if (effectiveRate <= 75) rateBrackets['$50–75']++;
+        else rateBrackets['$75+']++;
+      } else {
+        fixedCount++;
+      }
+
+      // Country & Tier-1
+      const rawCountry = (j.client?.country || 'Unknown').trim();
+      const lowerCountry = rawCountry.toLowerCase();
+      if (tier1Keywords.some((k) => lowerCountry.includes(k))) {
+        tier1Count++;
+      }
+
+      // Normalize country for chart
+      let normCountry = 'Other';
+      if (lowerCountry.includes('united states') || lowerCountry === 'usa' || lowerCountry === 'us') normCountry = 'United States';
+      else if (lowerCountry.includes('united kingdom') || lowerCountry === 'uk') normCountry = 'United Kingdom';
+      else if (lowerCountry.includes('canada')) normCountry = 'Canada';
+      else if (lowerCountry.includes('australia')) normCountry = 'Australia';
+      else if (lowerCountry.includes('germany') || lowerCountry.includes('netherlands') || lowerCountry.includes('france') || lowerCountry.includes('spain') || lowerCountry.includes('italy')) normCountry = 'Europe';
+      else if (rawCountry && rawCountry !== 'Unknown') normCountry = rawCountry;
+
+      countryCounts[normCountry] = (countryCounts[normCountry] || 0) + 1;
+
+      // Hour of day (Europe/Kyiv / Local)
+      const dStr = j.publishedDateTime || j.addedAt;
+      if (dStr) {
+        try {
+          const d = new Date(dStr);
+          const h = d.getHours();
+          if (h >= 0 && h < 24) hourCounts[h]++;
+        } catch (_) {}
+      }
+
+      // Skills
+      (j.skills || []).forEach((s) => {
+        const clean = s.trim();
+        if (clean) {
+          skillCounts[clean] = (skillCounts[clean] || 0) + 1;
+        }
+      });
+    });
+
+    // Populate KPI Cards
+    if (el.statAnalyzedCount) el.statAnalyzedCount.textContent = jobs.length;
+
+    const avgHourly = hourlyCount > 0 ? Math.round(hourlySum / hourlyCount) : 0;
+    if (el.statAvgRate) el.statAvgRate.textContent = avgHourly > 0 ? `$${avgHourly}/hr` : 'N/A';
+
+    const tier1Pct = jobs.length > 0 ? Math.round((tier1Count / jobs.length) * 100) : 0;
+    if (el.statTier1Ratio) el.statTier1Ratio.textContent = `${tier1Pct}%`;
+
+    // Find peak 3-hour window
+    let max3hWindow = 0;
+    let peakStartHour = 17;
+    for (let h = 0; h < 22; h++) {
+      const sum = hourCounts[h] + hourCounts[h + 1] + hourCounts[h + 2];
+      if (sum > max3hWindow) {
+        max3hWindow = sum;
+        peakStartHour = h;
+      }
+    }
+    const peakStr = `${String(peakStartHour).padStart(2, '0')}:00 – ${String((peakStartHour + 3) % 24).padStart(2, '0')}:00`;
+    if (el.statPeakHours) el.statPeakHours.textContent = peakStr;
+
+    // Peak badge
+    let topSingleHour = 0;
+    let topSingleVal = 0;
+    hourCounts.forEach((val, h) => {
+      if (val > topSingleVal) {
+        topSingleVal = val;
+        topSingleHour = h;
+      }
+    });
+    if (el.badgePeakHour) {
+      el.badgePeakHour.textContent = `⚡ Top: ${String(topSingleHour).padStart(2, '0')}:00 (${topSingleVal} jobs)`;
+    }
+
+    // Hourly vs Fixed Percentage
+    const totalWithBudget = hourlyCount + fixedCount;
+    const hourlyPct = totalWithBudget > 0 ? Math.round((hourlyCount / totalWithBudget) * 100) : 0;
+    if (el.donutHourlyPct) el.donutHourlyPct.textContent = `${hourlyPct}%`;
+
+    // If Chart.js is not yet loaded, retry shortly
+    if (typeof Chart === 'undefined') {
+      setTimeout(renderAnalytics, 300);
+      return;
+    }
+
+    // Global Chart.js defaults
+    Chart.defaults.font.family = 'Inter, -apple-system, BlinkMacSystemFont, sans-serif';
+    Chart.defaults.color = colors.textSecondary;
+
+    // Render All 4 Charts
+    renderActivityChart(hourCounts, colors);
+    renderRatesChart(rateBrackets, colors);
+    renderTypesChart(hourlyCount, fixedCount, colors);
+    renderSkillsChart(skillCounts, colors);
+    renderCountriesChart(countryCounts, colors);
+
+    // Render Funnel
+    renderFunnelView(jobs);
+  }
+
+  // --- Chart 1: Activity ---
+  function renderActivityChart(hourCounts, colors) {
+    const canvas = document.getElementById('chart-activity');
+    if (!canvas) return;
+
+    const ctx = canvas.getContext('2d');
+    const labels = Array.from({ length: 24 }, (_, i) => `${String(i).padStart(2, '0')}:00`);
+
+    // Gradient fill
+    let gradient = colors.primaryTint;
+    try {
+      const g = ctx.createLinearGradient(0, 0, 0, 180);
+      g.addColorStop(0, colors.isDark ? 'rgba(34, 197, 94, 0.45)' : 'rgba(20, 168, 0, 0.35)');
+      g.addColorStop(1, colors.isDark ? 'rgba(34, 197, 94, 0.02)' : 'rgba(20, 168, 0, 0.02)');
+      gradient = g;
+    } catch (_) {}
+
+    if (chartInstances.activity) {
+      chartInstances.activity.destroy();
+    }
+
+    chartInstances.activity = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [{
+          label: 'Jobs Posted',
+          data: hourCounts,
+          borderColor: colors.primary,
+          borderWidth: 2.4,
+          backgroundColor: gradient,
+          fill: true,
+          tension: 0.38,
+          pointRadius: (ctx) => {
+            const val = ctx.raw || 0;
+            return val > 0 ? 3 : 0;
+          },
+          pointHoverRadius: 6,
+          pointBackgroundColor: colors.primary,
+          pointBorderColor: colors.cardBg,
+          pointBorderWidth: 2,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: {
+          mode: 'index',
+          intersect: false,
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: colors.tooltipBg,
+            titleColor: colors.tooltipText,
+            bodyColor: colors.tooltipText,
+            padding: 10,
+            cornerRadius: 8,
+            callbacks: {
+              title: (items) => `Time: ${items[0].label}`,
+              label: (item) => ` ${item.raw} new jobs`,
+            },
+          },
+        },
+        scales: {
+          x: {
+            grid: { display: false },
+            ticks: {
+              maxTicksLimit: 8,
+              font: { size: 10 },
+              color: colors.textMuted,
+            },
+          },
+          y: {
+            beginAtZero: true,
+            grid: { color: colors.gridColor },
+            ticks: {
+              precision: 0,
+              font: { size: 10 },
+              color: colors.textMuted,
+            },
+          },
+        },
+      },
+    });
+  }
+
+  // --- Chart 2A: Rates ---
+  function renderRatesChart(rateBrackets, colors) {
+    const canvas = document.getElementById('chart-rates');
+    if (!canvas) return;
+
+    const ctx = canvas.getContext('2d');
+    const labels = Object.keys(rateBrackets);
+    const data = Object.values(rateBrackets);
+
+    if (chartInstances.rates) {
+      chartInstances.rates.destroy();
+    }
+
+    chartInstances.rates = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [{
+          label: 'Hourly Jobs',
+          data,
+          backgroundColor: colors.primary,
+          borderRadius: 6,
+          borderSkipped: false,
+          maxBarThickness: 32,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: colors.tooltipBg,
+            titleColor: colors.tooltipText,
+            bodyColor: colors.tooltipText,
+            padding: 8,
+            cornerRadius: 8,
+            callbacks: {
+              label: (item) => ` ${item.raw} jobs in this rate`,
+            },
+          },
+        },
+        scales: {
+          x: {
+            grid: { display: false },
+            ticks: {
+              font: { size: 10 },
+              color: colors.textMuted,
+            },
+          },
+          y: {
+            beginAtZero: true,
+            grid: { color: colors.gridColor },
+            ticks: {
+              precision: 0,
+              font: { size: 10 },
+              color: colors.textMuted,
+            },
+          },
+        },
+      },
+    });
+  }
+
+  // --- Chart 2B: Types (Hourly vs Fixed) ---
+  function renderTypesChart(hourlyCount, fixedCount, colors) {
+    const canvas = document.getElementById('chart-types');
+    if (!canvas) return;
+
+    const ctx = canvas.getContext('2d');
+
+    if (chartInstances.types) {
+      chartInstances.types.destroy();
+    }
+
+    chartInstances.types = new Chart(ctx, {
+      type: 'doughnut',
+      data: {
+        labels: ['Hourly', 'Fixed-Price'],
+        datasets: [{
+          data: [hourlyCount, fixedCount],
+          backgroundColor: [
+            colors.primary,
+            colors.isDark ? '#3b82f6' : '#2563eb',
+          ],
+          borderColor: colors.cardBg,
+          borderWidth: 2,
+          hoverOffset: 4,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        cutout: '72%',
+        plugins: {
+          legend: {
+            position: 'bottom',
+            labels: {
+              boxWidth: 10,
+              font: { size: 10 },
+              color: colors.textSecondary,
+              padding: 8,
+            },
+          },
+          tooltip: {
+            backgroundColor: colors.tooltipBg,
+            titleColor: colors.tooltipText,
+            bodyColor: colors.tooltipText,
+            padding: 8,
+            cornerRadius: 8,
+          },
+        },
+      },
+    });
+  }
+
+  // --- Chart 3: Skills ---
+  function renderSkillsChart(skillCounts, colors) {
+    const canvas = document.getElementById('chart-skills');
+    if (!canvas) return;
+
+    const ctx = canvas.getContext('2d');
+    const sorted = Object.entries(skillCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 8);
+
+    const labels = sorted.map((s) => s[0]);
+    const data = sorted.map((s) => s[1]);
+
+    if (chartInstances.skills) {
+      chartInstances.skills.destroy();
+    }
+
+    chartInstances.skills = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [{
+          axis: 'y',
+          label: 'Demand Count',
+          data,
+          backgroundColor: colors.isDark ? 'rgba(34, 197, 94, 0.85)' : 'rgba(20, 168, 0, 0.85)',
+          borderRadius: 6,
+          borderSkipped: false,
+          maxBarThickness: 18,
+        }],
+      },
+      options: {
+        indexAxis: 'y',
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: colors.tooltipBg,
+            titleColor: colors.tooltipText,
+            bodyColor: colors.tooltipText,
+            padding: 8,
+            cornerRadius: 8,
+            callbacks: {
+              label: (item) => ` Mentioned in ${item.raw} jobs`,
+            },
+          },
+        },
+        scales: {
+          x: {
+            beginAtZero: true,
+            grid: { color: colors.gridColor },
+            ticks: {
+              precision: 0,
+              font: { size: 10 },
+              color: colors.textMuted,
+            },
+          },
+          y: {
+            grid: { display: false },
+            ticks: {
+              font: { size: 11, weight: '500' },
+              color: colors.textPrimary,
+            },
+          },
+        },
+      },
+    });
+  }
+
+  // --- Chart 4: Client Countries ---
+  function renderCountriesChart(countryCounts, colors) {
+    const canvas = document.getElementById('chart-countries');
+    if (!canvas) return;
+
+    const ctx = canvas.getContext('2d');
+    const sorted = Object.entries(countryCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 6);
+
+    const labels = sorted.map((c) => c[0]);
+    const data = sorted.map((c) => c[1]);
+
+    if (chartInstances.countries) {
+      chartInstances.countries.destroy();
+    }
+
+    chartInstances.countries = new Chart(ctx, {
+      type: 'doughnut',
+      data: {
+        labels,
+        datasets: [{
+          data,
+          backgroundColor: colors.donutPalette.slice(0, labels.length),
+          borderColor: colors.cardBg,
+          borderWidth: 2,
+          hoverOffset: 6,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        cutout: '58%',
+        plugins: {
+          legend: {
+            position: 'right',
+            labels: {
+              boxWidth: 10,
+              font: { size: 11 },
+              color: colors.textSecondary,
+              padding: 10,
+            },
+          },
+          tooltip: {
+            backgroundColor: colors.tooltipBg,
+            titleColor: colors.tooltipText,
+            bodyColor: colors.tooltipText,
+            padding: 8,
+            cornerRadius: 8,
+            callbacks: {
+              label: (item) => ` ${item.label}: ${item.raw} jobs`,
+            },
+          },
+        },
+      },
+    });
+  }
+
+  // --- Chart 5: Funnel View ---
+  function renderFunnelView(jobs) {
+    if (!el.funnelContainer) return;
+
+    const stats = state.dailyStats || {};
+    const totalScanned = Math.max(stats.totalScanned || 0, jobs.length * 5, 25);
+    const matched = jobs.length;
+    const withProposals = jobs.filter((j) => j.coverLetter).length;
+    const viewed = jobs.filter((j) => state.viewedIds.has(j.id)).length;
+    const saved = jobs.filter((j) => state.savedIds.has(j.id)).length;
+
+    const steps = [
+      { label: '📡 Scanned by Upwork Bot', count: totalScanned, pct: 100, color: 'var(--color-primary)' },
+      { label: '🎯 Matched your Filters', count: matched, pct: Math.round((matched / totalScanned) * 100), color: '#3b82f6' },
+      { label: '✨ AI Cover Letter Ready', count: withProposals, pct: matched > 0 ? Math.round((withProposals / matched) * 100) : 0, color: '#8b5cf6' },
+      { label: '👁️ Viewed by You', count: viewed, pct: matched > 0 ? Math.round((viewed / matched) * 100) : 0, color: '#f59e0b' },
+      { label: '💚 Saved in Favorites', count: saved, pct: matched > 0 ? Math.round((saved / matched) * 100) : 0, color: '#10b981' },
+    ];
+
+    el.funnelContainer.innerHTML = steps.map((s) => `
+      <div class="funnel-step">
+        <div class="funnel-step-header">
+          <span>${escapeHtml(s.label)}</span>
+          <span class="funnel-step-count" style="color: ${s.color};">${s.count} <small style="color: var(--text-muted); font-weight: 400;">(${s.pct}%)</small></span>
+        </div>
+        <div class="funnel-bar-bg">
+          <div class="funnel-bar-fill" style="width: ${Math.max(s.pct, 4)}%; background-color: ${s.color};"></div>
+        </div>
+      </div>
+    `).join('');
+  }
+
+  function updateChartThemes() {
+    if (state.activeTab === 'view-analytics') {
+      renderAnalytics();
     }
   }
 
@@ -1531,6 +2014,8 @@
         try { tg.setBackgroundColor('#f7f7f7'); } catch (_) {}
       }
     }
+
+    updateChartThemes();
   }
 
   function toggleTheme() {
@@ -1680,6 +2165,11 @@
           if (filterCarousel) filterCarousel.classList.add('hidden');
           else if (el.filterChipsWrapper) el.filterChipsWrapper.classList.add('hidden');
           renderDailyReport();
+        } else if (targetView === 'view-analytics') {
+          if (el.searchBox) el.searchBox.classList.add('hidden');
+          if (filterCarousel) filterCarousel.classList.add('hidden');
+          else if (el.filterChipsWrapper) el.filterChipsWrapper.classList.add('hidden');
+          renderAnalytics();
         } else {
           if (el.searchBox) el.searchBox.classList.remove('hidden');
           if (filterCarousel) filterCarousel.classList.remove('hidden');
@@ -1771,6 +2261,19 @@
         renderJobsFeed();
       });
     });
+
+    // Analytics Period Selector
+    if (el.periodSelector) {
+      el.periodSelector.querySelectorAll('.period-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          triggerHaptic('selection');
+          el.periodSelector.querySelectorAll('.period-btn').forEach((b) => b.classList.remove('active'));
+          btn.classList.add('active');
+          state.analyticsPeriod = btn.dataset.period;
+          renderAnalytics();
+        });
+      });
+    }
 
     if (el.chipCalendarBtn) {
       el.chipCalendarBtn.addEventListener('click', () => {
@@ -1970,8 +2473,13 @@
       showToast('Filters reset to default');
     }
 
-    // Go to feed from empty saved
-    document.getElementById('btn-go-to-feed').addEventListener('click', () => {
+    // Go to feed from empty saved or report
+    document.getElementById('btn-go-to-feed')?.addEventListener('click', () => {
+      document.querySelector('.bottom-nav .nav-item[data-target="view-jobs"]').click();
+    });
+
+    document.getElementById('btn-report-go-feed')?.addEventListener('click', () => {
+      triggerHaptic('selection');
       document.querySelector('.bottom-nav .nav-item[data-target="view-jobs"]').click();
     });
   }

@@ -658,7 +658,7 @@ body.theme-dark .chip-slider-btn {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 4px;
+  gap: 3px;
   background: none;
   border: none;
   color: var(--text-muted);
@@ -666,7 +666,15 @@ body.theme-dark .chip-slider-btn {
   font-weight: 500;
   cursor: pointer;
   transition: color 0.15s ease;
-  padding: 8px 0;
+  padding: 6px 0;
+  min-width: 0;
+}
+
+@media (max-width: 375px) {
+  .nav-item {
+    font-size: 10px;
+    gap: 2px;
+  }
 }
 
 .nav-item.active {
@@ -1188,6 +1196,24 @@ input[type="range"] {
 /* ==========================================================================
    Daily Analytics Report & PDF Styles
    ========================================================================== */
+/* Report Banner */
+.report-banner-wrapper {
+  width: 100%;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  margin-bottom: 14px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+  border: 1px solid var(--border-color);
+  background-color: #030816;
+}
+
+.report-banner-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
 .report-header-card {
   background-color: var(--bg-card);
   border-radius: var(--radius-md);
@@ -1332,6 +1358,262 @@ input[type="range"] {
   font-weight: 700;
   border-radius: var(--radius-pill);
   padding: 1px 6px;
+}
+
+/* Report Info Overview Card */
+.report-info-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 16px;
+  margin-top: 14px;
+  box-shadow: var(--shadow-sm);
+}
+
+.report-info-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+}
+
+.report-info-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.report-info-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.45;
+}
+
+.report-info-icon {
+  font-size: 15px;
+  flex-shrink: 0;
+}
+
+/* ==========================================================================
+   Analytics View & Interactive Charts (Upwork Design System)
+   ========================================================================== */
+.analytics-header-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  box-shadow: var(--shadow-sm);
+}
+
+.analytics-header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.analytics-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+}
+
+.analytics-subtitle {
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+/* Period Selector Pills */
+.period-selector {
+  display: inline-flex;
+  background-color: var(--bg-pill);
+  padding: 3px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-color);
+  gap: 2px;
+}
+
+.period-btn {
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  padding: 4px 11px;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.period-btn:hover {
+  color: var(--text-primary);
+}
+
+.period-btn.active {
+  background-color: var(--bg-card);
+  color: var(--color-primary);
+  box-shadow: var(--shadow-sm);
+}
+
+body.theme-dark .period-btn.active {
+  background-color: var(--color-primary);
+  color: #ffffff;
+}
+
+.analytics-kpi-grid {
+  margin-bottom: 14px;
+}
+
+/* Chart Cards */
+.chart-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 16px;
+  margin-bottom: 14px;
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.2s ease;
+}
+
+.chart-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.chart-header-text {
+  flex: 1;
+}
+
+.chart-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+}
+
+.chart-desc {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.chart-badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: var(--radius-pill);
+  background-color: var(--color-primary-tint);
+  color: var(--color-primary);
+  white-space: nowrap;
+}
+
+.chart-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.chart-split-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 12px;
+  align-items: center;
+}
+
+@media (max-width: 480px) {
+  .chart-split-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+}
+
+.chart-donut-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.donut-center-box {
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+.donut-center-label {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.donut-val {
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+.donut-sub {
+  font-size: 10px;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}
+
+/* Funnel Container */
+.funnel-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.funnel-step {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.funnel-step-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.funnel-step-count {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-primary);
+}
+
+.funnel-bar-bg {
+  width: 100%;
+  height: 9px;
+  background-color: var(--bg-pill);
+  border-radius: var(--radius-pill);
+  overflow: hidden;
+}
+
+.funnel-bar-fill {
+  height: 100%;
+  border-radius: var(--radius-pill);
+  transition: width 0.6s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 /* ==========================================================================
