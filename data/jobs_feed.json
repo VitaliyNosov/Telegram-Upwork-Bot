@@ -1,5 +1,36 @@
 [
   {
+    "id": "2099489285050541661",
+    "ciphertext": "~022099489285050541661",
+    "title": "Web Developer & Automation Specialist: Redesign Land Investing Website + REI Pebble CRM Integration",
+    "description": "Overview & Objective\nWe are an established real estate investment company specializing in vacant land acquisitions and dispositions. Currently, our website is hosted on GoDaddy, and all inventory management—listing new properties, updating prices, and changing deal statuses—is handled completely manually inside the GoDaddy site builder.\n\nWe are seeking an experienced Web Developer & Automation Specialist to redesign and migrate our public-facing inventory website to a modern, dynamic CMS (preferably WordPress or Webflow) and build two-way or trigger-based automations connecting it with our CRM, REI Pebble.\n\nThe primary goal is a hands-off, automated inventory pipeline where moving deals through stages in REI Pebble automatically creates, updates, and manages property listings on our live site.\n\nScope of Work & Key Deliverables\n1. Website Redesign & Migration\nRebuild and modernize our website, migrating away from GoDaddy's manual site builder to an agreed-upon CMS built for dynamic listings (e.g., WordPress with Custom Post Types/ACF, or Webflow CMS).\n\nFully responsive, clean, and fast-loading user experience optimized for land buyers, mobile browsing, and lead capture.\n\nStructured property listing template designed specifically for vacant land data.\n\n2. REI Pebble CRM Sync & Dynamic Automations\nBuild automated triggers (using REI Pebble webhooks, Make.com, or Zapier) to support the following workflows:\nAutomated Listing Creation: Triggered when a deal reaches a specific disposition stage in REI Pebble, dynamically publishing a listing containing: Image galleries / featured photography\nCore property specifications (APN, County, State, Acreage, GPS coordinates, Access / Road Frontage, Terrain, Zoning)Due diligence details (Annual taxes, HOA/POA status, park/environmental reports, utilities availability)Assigned realtor or acquisition manager contact info\nDual-pricing breakdown (Cash discount price vs. Owner Financing terms: down payment, monthly payment, term length, and total property value)Real-Time Status Updates: Automatically update badges and site visibility as deals shift pipelines: Available-Pending-Sold\nPrice Drop & Term Adjustments: Automatically update live cash prices, down payment specials, or financed terms when adjusted inside Pebble without manual site edits.\n\n3. Testing, Domain Cutover & Handoff\nThorough end-to-end sandbox testing of all pipeline triggers and edge cases.\n\nSeamless DNS cutover and hosting setup from GoDaddy to the new platform with zero downtime.\n\nA brief Loom walkthrough or SOP documenting how the integration functions and how to troubleshoot future webhook events.\n\nRequired Skills & Qualifications\nProven track record building dynamic real estate, inventory, or directory websites.\n\nDeep technical expertise in WordPress (ACF, CPTs, Elementor/Kadence/Bricks) OR Webflow (CMS Collections, Logic).\n\nAdvanced automation experience using Make.com, Zapier, and Webhooks / REST APIs.\n\nFamiliarity with REI Pebble (or similar land/real estate CRMs like Podio, InvestorFuse, or REI BlackBook) is a strong advantage.\n\nSolid grasp of SEO foundations, site speed optimization, and DNS/SSL management.\n\nProposal Requirements (Mandatory)\nTo be considered, please ensure your proposal covers:\n\nTotal Cost to Complete: Your all-inclusive fixed-price quote for the entire scope, broken down by key phases (e.g., Phase 1: Design & CMS Setup; Phase 2: CRM & Webhook Automation; Phase 3: QA, Domain Migration & Handoff).\n\nEstimated Timeline: Realistic completion estimate from project kickoff to launch.\n\nRecommended Tech Stack: Which CMS (WordPress vs. Webflow) and middleware (Make vs. Zapier) do you recommend for this use case, and why?\n\nThird-Party & Ongoing Costs: Any recurring external software/hosting subscriptions we will need to maintain (e.g., hosting plan, Make operations tier, CMS licenses).\n\nPortfolio Examples: Links to 2–3 dynamic, CMS-driven real estate or directory websites you have personally designed and deployed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "webflow",
+      "integromat",
+      "zapier",
+      "api-integration",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nAutomating your vacant land inventory from REI Pebble straight to a dynamic website is a fantastic way to eliminate manual bottlenecks. I specialize in building custom WordPress and Webflow ecosystems backed by robust API and webhook automations using Make.com and Zapier. \n\nFor your project, I recommend **WordPress using Custom Post Types, Advanced Custom Fields (ACF), and Make.com**. WordPress gives you complete data ownership and infinitely flexible schemas for complex land attributes (APN, GPS, zoning, cash vs. terms pricing), while Make.com handles the two-way REI Pebble sync reliably at a lower operational cost than Zapier. \n\nYou can review my work on dynamic directory and content sites here: https://www.thelifeyoucansave.org/\n\nLet’s chat about your ideal timeline and get this pipeline automated for you. Are you leaning toward WordPress or Webflow for the redesign?",
+    "publishedDateTime": "2026-09-14T16:24:36+0000",
+    "addedAt": "2026-09-14T16:25:53.158Z",
+    "url": "https://www.upwork.com/jobs/~022099489285050541661",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099489285050541661/apply/"
+  },
+  {
     "id": "2099487669284875085",
     "ciphertext": "~022099487669284875085",
     "title": "Experienced WordPress Developer Needed",
