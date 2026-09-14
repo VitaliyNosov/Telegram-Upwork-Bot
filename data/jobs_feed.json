@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099529069255998829",
+    "ciphertext": "~022099529069255998829",
+    "title": "WooCommerce Malware Incident Response",
+    "description": "Our WooCommerce site on WordPress hosted by Pressable has a confirmed, active malware injection that returns after cleanup. We need an incident-response specialist to fully remediate the issue, identify how the attacker maintains access, and prevent recurrence. This is not a simple malware removal task. The freelancer should investigate the root cause, secure the site, and provide a clear report on the compromise, remediation steps, and next steps to protect the site long-term.\n\nWhat's confirmed so far:\n\n\"ClickFix\" / fake-CAPTCHA overlay injecting clipboard-hijacking JavaScript (confirmed present in served admin-page HTML — navigator.clipboard / atob in page source).\nInjection appears to be gated to authenticated admin sessions — anonymous front-end and external scans read clean, which has masked it.\nPayload has been found in multiple locations across incidents (theme functions.php in an inactive default theme; a database option in wp_options), suggesting deliberate, structured access rather than a single drive-by file.\nA prior related incident referenced an unauthenticated PHP webshell and a second shell in wp-content/uploads/.\nSite was recently migrated to Pressable (early Sept); infection may have arrived with the migration.\nHosting is Pressable (SSH/SFTP/WP-CLI available); Wordfence installed post-incident.\n\nScope of work:\n\nIdentify and remove the active admin-gated injection and confirm removal in served HTML.\nLocate the persistence mechanism / backdoor — the reason cleanup doesn't hold (mu-plugins, cron, DB-stored loaders, rogue admin accounts, compromised credentials).\nDetermine the entry vector using host access logs (we can obtain Pressable logs).\nFull remediation: credential rotation plan, admin-account audit, integrity check of core/plugins/themes.\nWritten report: what was found, how they got in, what was changed, and hardening recommendations to prevent recurrence.\n\nDeliverables / milestones:\n\nM1: Live injection identified + removed, verified clean in admin-session HTML.\nM2: Persistence mechanism and entry vector documented.\nM3: Full remediation complete + written incident report + hardening plan.",
+    "isHourly": true,
+    "hourlyBudgetMin": 40,
+    "hourlyBudgetMax": 70,
+    "budgetDisplay": "$40 - $70/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "php",
+      "wp-ecommerce"
+    ],
+    "score": 7050,
+    "coverLetter": "Hi! \n\nThis is a classic case of persistent backdoor reinfection, and I can step in immediately to help. Having handled complex WordPress and WooCommerce malware recovery—including admin-gated ClickFix/clipboard-hijacking scripts, database-stored loaders, and hidden webshells—I know that standard scanners and simple file deletions won't hold if the persistence mechanism is missed.\n\nI will systematically audit your Pressable environment using WP-CLI and SSH access to trace the root cause. My process covers hunting down hidden mu-plugins, compromised database options (wp_options), cron-based loaders, and rogue admin accounts, followed by an analysis of the host access logs to pinpoint the exact entry vector. \n\nOnce remediated, I’ll provide the exact written incident report and hardening plan outlined in your milestones. \n\nAre the Pressable access logs ready to review so we can begin tracking the entry vector immediately?",
+    "publishedDateTime": "2026-09-14T16:03:20+0000",
+    "addedAt": "2026-09-14T16:05:30.325Z",
+    "url": "https://www.upwork.com/jobs/~022099529069255998829",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099529069255998829/apply/"
+  },
+  {
     "id": "2099499411534849629",
     "ciphertext": "~022099499411534849629",
     "title": "EXPERT CUSTOM / FULL STACK DESIGNER/DEVELOPER- Cosmetic /Derm Project Elementor/woo commerce (trial)",

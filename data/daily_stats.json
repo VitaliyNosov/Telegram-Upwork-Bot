@@ -1,12 +1,20 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 58,
-  "matchedFilters": 10,
+  "totalScanned": 59,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 10,
+    "wordpress plugin": 1
   },
   "topJobs": [
+    {
+      "title": "WooCommerce Malware Incident Response",
+      "budget": "$40-$70/hr",
+      "score": 7050,
+      "url": "https://www.upwork.com/jobs/~022099529069255998829",
+      "addedAt": "2026-09-14T16:05:29.077Z"
+    },
     {
       "title": "Hoot Academy Website Modernisation & Contact Optimisation",
       "budget": "$20-$40/hr",
@@ -69,13 +77,6 @@
       "score": 95,
       "url": "https://www.upwork.com/jobs/~022099483857001693320",
       "addedAt": "2026-09-14T13:05:16.767Z"
-    },
-    {
-      "title": "Migrate Websites to Supabase",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022099214798027564637",
-      "addedAt": "2026-09-13T22:15:15.588Z"
     }
   ]
 }
