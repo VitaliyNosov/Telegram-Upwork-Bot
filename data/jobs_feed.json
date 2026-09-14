@@ -1,5 +1,35 @@
 [
   {
+    "id": "2099556453302742680",
+    "ciphertext": "~022099556453302742680",
+    "title": "Junior Developer for Website Support",
+    "description": "Do you love building new pages, solving website problems, and checking things off your to-do list? Do you enjoy working with a collaborative team of developers, designers, project managers, researchers, and strategists?\n\nAt Next Step, we’re looking for a Junior Developer to provide ongoing development and technical support across a variety of client websites. You’ll work closely with our Senior Developer and broader client team, helping take ownership of day-to-day website updates, support tickets, QA, and smaller development projects.\n\nThis is a part-time contract role averaging approximately 5–10 hours per week. While the overall schedule is flexible, regular weekday availability and responsiveness are important. A key part of the role is monitoring our support ticketing platform and helping us respond promptly when clients have time-sensitive website needs. \n\nWhat you'll do\nMonitor our Support Ticketing platform and respond to client website requests in a timely manner\nHandle routine website updates, troubleshooting, and maintenance\nWork closely with our Senior Developer, designers, and Client Success team to ensure client needs and deadlines are met\nCommunicate proactively about ticket status, timing, questions, or issues that need to be escalated\nThoroughly test and QA new pages, updates, and website features\n\nTypical projects may include:\nAdding new webpages to client websites\nUpdating content and functionality on existing websites\nCreating custom PHP templates\nBuilding new website functionality, such as blogs or Careers sections\nInstalling, configuring, and testing WordPress plugins\nSupporting technical updates that help maintain strong SEO / AEO performance\nBuilding newsletters using platforms such as Mailchimp\nTesting and troubleshooting website issues across devices and browsers\n\nYou should have\nExperience with HTML, CSS, PHP, and JavaScript\nExperience working with WordPress CMS\nFamiliarity with Advanced Custom Fields (ACF) and Custom Post Types within WordPress\nFamiliarity with Bootstrap or a similar grid framework\nFamiliarity with WP Builders such as Divi, Elementor, etc.\nKnowledge of responsive development and styling\nStrong troubleshooting and problem-solving skills\nExcellent written and verbal communication skills\nAbility to manage multiple requests, prioritize effectively, and meet deadlines\nAbility to work independently while knowing when to ask questions or escalate an issue\nReliable weekday availability to regularly check incoming support requests and respond promptly when needed\nFamiliarity with Google Workspace and Microsoft Office\n\nNice to have\nExperience building custom email newsletter templates\nExperience with Figma, Adobe Photoshop, Illustrator\nFamiliarity with UI design, page layout, typography, and branding\nFamiliarity with WPEngine (prod, staging, backups, caching)\n\nEducation & experience\nBachelor’s degree in Computer Science or a related field, or currently pursuing a relevant degree, preferred\n1+ year of front-end development experience preferred\nEquivalent hands-on development experience is welcome\n\nSchedule: Monday–Friday, flexible hours with regular weekday availability for client support\nWork Location: Remote",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "html",
+      "wordpress",
+      "css"
+    ],
+    "score": 3650,
+    "coverLetter": "Hi! \n\nI’d love to help Next Step with your ongoing website support, ticketing queue, and day-to-day client updates. With strong hands-on experience in WordPress, PHP, JavaScript, custom page building, and troubleshooting, I’m well-equipped to jump in and start checking tasks off your team's to-do list.\n\nMy background covers everything you're looking for—from building out custom layouts using ACF and major page builders to handling routine maintenance, plugin updates, and cross-browser QA. I am comfortable working alongside senior developers and designers, communicating proactively, and maintaining reliable weekday availability to keep support tickets moving smoothly. \n\nFor a quick look at my recent WordPress work, you can check out https://www.thelifeyoucansave.org/. \n\nDo you have a specific ticketing tool your team currently uses for client requests? Let’s chat about how I can support your workflow.",
+    "publishedDateTime": "2026-09-14T17:52:09+0000",
+    "addedAt": "2026-09-14T17:53:11.999Z",
+    "url": "https://www.upwork.com/jobs/~022099556453302742680",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099556453302742680/apply/"
+  },
+  {
     "id": "2099554819661942265",
     "ciphertext": "~022099554819661942265",
     "title": "WordPress Security Cleanup and Ongoing Maintenance",
