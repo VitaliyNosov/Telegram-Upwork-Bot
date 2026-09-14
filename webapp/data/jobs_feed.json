@@ -1,5 +1,29 @@
 [
   {
+    "id": "2099561355486083390",
+    "ciphertext": "~022099561355486083390",
+    "title": "Fix WordPress WSIWG Rendering Issue",
+    "description": "After updating to WordPress 7.1, ACF WYSIWYG block editors are rendering in the sidebar panel instead of inline in the main content canvas. This issue affects all blocks and all pages, not just one template or block type. We need a freelancer to troubleshoot the cause, identify the root issue, and implement a fix so editors appear correctly in the main content area. Please share relevant experience with WordPress updates, ACF, and block editor troubleshooting.",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$5 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 3000,
+    "coverLetter": "Hi! I can help you resolve this ACF WYSIWYG rendering issue right away. \n\nThis behavior typically happens when a recent core or plugin update conflicts with custom Gutenberg/ACF block editor styles or overrides how sidebar and inline panels are initialized. As a WordPress developer with extensive experience troubleshooting post-update bugs, Advanced Custom Fields (ACF), and block editor architecture, I frequently diagnose and fix these exact DOM and script-loading regressions. \n\nI'll quickly trace the root cause of the sidebar panel rendering, whether it's tied to an ACF script update, CSS encapsulation, or a Gutenberg compatibility conflict, and restore standard inline rendering across your site. \n\nCould you let me know if you are using ACF PRO, and if there are any specific custom admin scripts currently enqueued on the editor screen?",
+    "publishedDateTime": "2026-09-14T18:11:32+0000",
+    "addedAt": "2026-09-14T18:13:18.143Z",
+    "url": "https://www.upwork.com/jobs/~022099561355486083390",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099561355486083390/apply/"
+  },
+  {
     "id": "2099560236387372810",
     "ciphertext": "~022099560236387372810",
     "title": "WooCommerce + FunnelKit + BookVault developer — first task, then ongoing work",

@@ -1,10 +1,10 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 79,
-  "matchedFilters": 23,
+  "totalScanned": 80,
+  "matchedFilters": 24,
   "byKeyword": {
-    "wordpress developer": 22,
+    "wordpress developer": 23,
     "wordpress plugin": 1
   },
   "topJobs": [
@@ -58,6 +58,13 @@
       "addedAt": "2026-09-14T10:23:15.701Z"
     },
     {
+      "title": "Fix WordPress WSIWG Rendering Issue",
+      "budget": "$5-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022099561355486083390",
+      "addedAt": "2026-09-14T18:13:16.669Z"
+    },
+    {
       "title": "WordPress/WooCommerce Performance Audit → Optimization (Swiss D2C brand, WPML, custom theme",
       "budget": "$12-$27/hr",
       "score": 2846,
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022099347570261044888",
       "addedAt": "2026-09-14T04:03:12.229Z"
-    },
-    {
-      "title": "Senior WooCommerce Engineer Needed — Audit, Stabilize & Complete Custom Plugin (LME + WWEX API)",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022099530625257679693",
-      "addedAt": "2026-09-14T16:09:19.523Z"
     }
   ]
 }
