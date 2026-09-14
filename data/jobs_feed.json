@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099554819661942265",
+    "ciphertext": "~022099554819661942265",
+    "title": "WordPress Security Cleanup and Ongoing Maintenance",
+    "description": "Need a freelancer to fix a WordPress site that was hacked twice and restore it to a secure, stable state. The work includes removing malicious code, cleaning up the site, identifying vulnerabilities, and implementing strong security measures to prevent future issues. Ongoing maintenance should include regular monitoring, updates, backups, and quick response to any new security concerns. Please apply only if you have experience handling hacked sites and can provide a clear plan for cleanup, security, and long-term protection.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "internet-security",
+      "php",
+      "virus-removal"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Getting hacked twice is a major headache, but I can help you permanently lock down your WordPress site and ensure it stays secure. \n\nMy approach starts with a complete forensic audit to completely remove all malicious backdoors, script injections, and infected files. From there, I implement robust security hardening—including closing plugin vulnerabilities, securing file permissions, and deploying enterprise-grade monitoring and firewalls to stop future attacks. Beyond the initial cleanup, I provide reliable ongoing maintenance covering secure core/plugin updates, automated backups, and proactive threat monitoring so you don't have to worry about this happening again.\n\nYou can review my recent WordPress work at https://www.thelifeyoucansave.org/. \n\nWhat hosting provider are you currently using, and are you seeing any specific error messages or active warnings right now?",
+    "publishedDateTime": "2026-09-14T17:45:38+0000",
+    "addedAt": "2026-09-14T17:47:22.062Z",
+    "url": "https://www.upwork.com/jobs/~022099554819661942265",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099554819661942265/apply/"
+  },
+  {
     "id": "2099549332316535102",
     "ciphertext": "~022099549332316535102",
     "title": "WordPress Website Development for SEO",
