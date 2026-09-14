@@ -1,5 +1,33 @@
 [
   {
+    "id": "2099347570261044888",
+    "ciphertext": "~022099347570261044888",
+    "title": "WordPress Bug Fix: Cannot Edit Pages (Blank White Screen)",
+    "description": "I am looking for an experienced CMS / WordPress Developer to troubleshoot and fix a critical backend issue on my website.\n\nThe Problem:\nCurrently, I cannot edit any of my pages. When I navigate to my WordPress dashboard and click \"Edit\" on a page, the screen turns completely white and stays blank (White Screen of Death). The front end of the website is still visible to users, but the backend page editor is completely inaccessible.\n\nRequired Skills:\n* Advanced WordPress troubleshooting and core architecture knowledge\n* Strong PHP debugging skills (diagnosing fatal errors, memory leaks)\n* Experience resolving plugin, theme, and server environment conflicts\n* Familiarity with debugging tools (wp-config.php, debug.log)\nYour Responsibilities:\n1. Safely diagnose the root cause of the error (likely by enabling WP_DEBUG or performing a conflict test).\n2. Fix the underlying PHP error or memory issue so the page editor loads properly.\n3. Ensure no data is lost and the live site remains completely unaffected during the fix.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "bug-fixes",
+      "wordpress",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can help you diagnose and resolve this backend white screen issue immediately without impacting your live site.\n\nThis is a classic symptom of a fatal PHP error, memory exhaustion, or a plugin/theme conflict triggered specifically within the WordPress editor (often related to Gutenberg, ACF, or a recent update). With my strong background in advanced WordPress troubleshooting, PHP debugging, and resolving WSOD issues, I can quickly check your `debug.log`, isolate the culprit, and fix the underlying error so your page editor is fully accessible again. \n\nWhenever you are ready, share temporary admin/FTP access in chat, and I'll get right to work on diagnosing it.",
+    "publishedDateTime": "2026-09-14T04:02:00+0000",
+    "addedAt": "2026-09-14T04:03:13.643Z",
+    "url": "https://www.upwork.com/jobs/~022099347570261044888",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099347570261044888/apply/"
+  },
+  {
     "id": "2099304318395819613",
     "ciphertext": "~022099304318395819613",
     "title": "Website for Real Estate Staging Business",
