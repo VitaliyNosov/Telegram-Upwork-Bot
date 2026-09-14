@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099547449627687230",
+    "ciphertext": "~022099547449627687230",
+    "title": "WordPress Developer for Website Troubleshooting",
+    "description": "Need a WordPress developer to troubleshoot and fix a slow, unstable website. The site frequently experiences “Error establishing a database connection” and “504 Gateway Time-out” issues, along with very slow page load times. The goal is to identify the root cause, improve performance, and stabilize the site during a two-week contract. Experience diagnosing server-side and WordPress-related issues is important for this short-term project.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 22,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "web-programming"
+    ],
+    "score": 140,
+    "coverLetter": "Hi! I can help you diagnose and permanently resolve those database connection errors, 504 timeouts, and performance bottlenecks on your WordPress site. \n\nDealing with server-side instabilities and slow load times requires a deep look at database queries, hosting performance, and resource-heavy plugins. In my daily WordPress work, I frequently handle site recovery, debugging fatal errors like \"Error establishing a database connection,\" and optimizing Core Web Vitals for high-traffic platforms (you can see examples of my performance and development work at https://www.snopud.com/). Over a two-week contract, I will audit your server and WordPress environment, eliminate the root causes of the crashes, and stabilize your page speeds.\n\nCould you share your current hosting provider and whether these 504 errors happen during specific traffic spikes?",
+    "publishedDateTime": "2026-09-14T17:15:46+0000",
+    "addedAt": "2026-09-14T17:17:19.165Z",
+    "url": "https://www.upwork.com/jobs/~022099547449627687230",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099547449627687230/apply/"
+  },
+  {
     "id": "2099543806717832013",
     "ciphertext": "~022099543806717832013",
     "title": "Senior WordPress Engineer needed",
