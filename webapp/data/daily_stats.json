@@ -1,10 +1,10 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 66,
-  "matchedFilters": 14,
+  "totalScanned": 67,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "wordpress plugin": 1
   },
   "topJobs": [
@@ -65,18 +65,18 @@
       "addedAt": "2026-09-14T16:09:19.523Z"
     },
     {
+      "title": "Design & Build Two High-Converting WordPress Landing Pages for NBCOT Exam Prep Company”",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022099540711658241389",
+      "addedAt": "2026-09-14T16:51:24.958Z"
+    },
+    {
       "title": "EXPERT CUSTOM / FULL STACK DESIGNER/DEVELOPER- Cosmetic /Derm Project Elementor/woo commerce (trial)",
       "budget": "Fixed-price",
       "score": 141,
       "url": "https://www.upwork.com/jobs/~022099499411534849629",
       "addedAt": "2026-09-14T14:05:11.344Z"
-    },
-    {
-      "title": "Build 12-Page Marketing Site + Monday.com Form Integration",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022099289242751282840",
-      "addedAt": "2026-09-14T00:13:12.268Z"
     }
   ]
 }
