@@ -1,5 +1,32 @@
 [
   {
+    "id": "2099558328734027530",
+    "ciphertext": "~022099558328734027530",
+    "title": "Website Build",
+    "description": "We currently have a plumbing client that is looking to build out their website. We have completed the entire design, we are just looking for a developer to build out the actual website. \n\nWe've traditionally have utilized WordPress but are open to AI website builders for a quicker turnaround. \n\nAgain, the designs are all completed, we just need these developed for desktop + mobile. Should be quick and easy.\n\nHappy to answer any additional questions.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 51,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website",
+      "web-programming"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nI’d love to help you build out the new website for your plumbing client. Since you already have the complete designs ready, I can turn them into a pixel-perfect, fully responsive site for both desktop and mobile. \n\nWhile AI builders can be fast, I recommend sticking with WordPress for a plumbing site to ensure local SEO strength, easy client handoff, and reliable lead-generation forms. I specialize in custom WordPress development—turning designs from tools like Figma into clean, lightning-fast sites without relying on bloated page builders. \n\nFor a sense of my clean build quality, you can check out this recent project: https://www.thelifeyoucansave.org/\n\nDo you have the design files ready in Figma or another format? Let’s chat about your timeline and get this started.",
+    "publishedDateTime": "2026-09-14T17:59:34+0000",
+    "addedAt": "2026-09-14T18:02:44.779Z",
+    "url": "https://www.upwork.com/jobs/~022099558328734027530",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099558328734027530/apply/"
+  },
+  {
     "id": "2099556453302742680",
     "ciphertext": "~022099556453302742680",
     "title": "Junior Developer for Website Support",
