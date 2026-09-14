@@ -1,5 +1,35 @@
 [
   {
+    "id": "2099541532431985485",
+    "ciphertext": "~022099541532431985485",
+    "title": "Wordpress Website Migration to New Server",
+    "description": "Need help migrating a website from one hosting server to another. The work includes transferring files, databases, and ensuring the site functions correctly after the move. Experience with website migration and troubleshooting post-migration issues is important. Please share your approach, timeline, and any relevant experience with similar projects. I would also like a recommendation for a new host",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.64,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 119,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "mysql",
+      "web-hosting",
+      "php",
+      "cpanel",
+      "wordpress"
+    ],
+    "score": 93,
+    "coverLetter": "Hi! \n\nI can help you seamlessly migrate your WordPress site to the new server with zero downtime and no data loss. \n\nMy migration process covers the complete transfer and meticulous post-move audit: safely moving all core files, executing a clean MySQL database export/import with URL replacements, configuring SSL, updating DNS settings, and rigorously testing every link, form, and plugin to ensure everything functions identically on the new environment. Using tools like WP-CLI, I handle migrations regularly for high-traffic sites like https://www.snopud.com/.\n\nRegarding your new host, I typically recommend SiteGround or Kinsta depending on your traffic and budget—they offer phenomenal performance, automated backups, and excellent server-level caching. \n\nIf you are ready, we can get started right away. What is the approximate size of your current site and database?",
+    "publishedDateTime": "2026-09-14T16:52:51+0000",
+    "addedAt": "2026-09-14T16:55:11.962Z",
+    "url": "https://www.upwork.com/jobs/~022099541532431985485",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099541532431985485/apply/"
+  },
+  {
     "id": "2099540711658241389",
     "ciphertext": "~022099540711658241389",
     "title": "Design & Build Two High-Converting WordPress Landing Pages for NBCOT Exam Prep Company”",
