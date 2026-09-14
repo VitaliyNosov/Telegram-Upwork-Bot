@@ -21,7 +21,10 @@
   <!-- html2pdf for client-side styled PDF download -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 
-  <link rel="stylesheet" href="styles.css?v=20260907_8" />
+  <!-- Chart.js for Interactive Mobile Statistics -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+
+  <link rel="stylesheet" href="styles.css?v=20260914_2" />
 </head>
 <body>
   <div id="app" class="app-container">
@@ -158,6 +161,11 @@
 
       <!-- VIEW: Daily Report (Digest & PDF Export) -->
       <section id="view-report" class="view-content">
+        <!-- PDF Intelligence Report Banner -->
+        <div class="report-banner-wrapper">
+          <img src="digest-cover.png?v=2" alt="Upwork PDF Report" class="report-banner-img" />
+        </div>
+
         <div class="report-header-card">
           <div class="report-header-top">
             <div>
@@ -220,13 +228,160 @@
           <!-- Dynamically populated -->
         </div>
 
-        <!-- Today's Matched Opportunities -->
-        <div class="report-section-title">
-          <span>Today's Matched Opportunities</span>
-          <span id="report-jobs-count" class="feed-tip">0 jobs</span>
+        <!-- PDF Report Contents Overview -->
+        <div class="report-info-card">
+          <div class="report-info-title">
+            <span>📑 What's Included in the PDF Report</span>
+          </div>
+          <div class="report-info-list">
+            <div class="report-info-item">
+              <span class="report-info-icon">🎯</span>
+              <span><strong>Top Matched Opportunities:</strong> Highest scoring jobs sorted by relevance.</span>
+            </div>
+            <div class="report-info-item">
+              <span class="report-info-icon">✍️</span>
+              <span><strong>Tailored AI Proposals:</strong> Full cover letters ready to copy or submit.</span>
+            </div>
+            <div class="report-info-item">
+              <span class="report-info-icon">💵</span>
+              <span><strong>Client & Budget Overview:</strong> Country, ratings, and payment verification.</span>
+            </div>
+            <div class="report-info-item">
+              <span class="report-info-icon">🔗</span>
+              <span><strong>Direct Upwork Links:</strong> Clickable links to apply immediately.</span>
+            </div>
+          </div>
+          <button id="btn-report-go-feed" class="btn btn-secondary btn-block">
+            Browse Interactive Feed ➔
+          </button>
         </div>
-        <div id="report-jobs-list" class="jobs-list">
-          <!-- Dynamically populated -->
+      </section>
+
+      <!-- VIEW: Market Analytics & Interactive Charts -->
+      <section id="view-analytics" class="view-content">
+        <div class="analytics-header-card">
+          <div class="analytics-header-top">
+            <div>
+              <h2 class="analytics-title">Market Analytics</h2>
+              <p class="analytics-subtitle">Key Upwork trends, rates & client insights</p>
+            </div>
+            <!-- Range Selector Pills -->
+            <div class="period-selector" id="analytics-period-selector">
+              <button class="period-btn active" data-period="all">All</button>
+              <button class="period-btn" data-period="7d">7 Days</button>
+              <button class="period-btn" data-period="today">Today</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- 4 Analytics Summary Cards -->
+        <div class="kpi-grid analytics-kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-card-header">
+              <span class="kpi-label">Avg. Hourly</span>
+              <span class="kpi-icon">💵</span>
+            </div>
+            <span id="stat-avg-rate" class="kpi-value">$0/hr</span>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-card-header">
+              <span class="kpi-label">Tier-1 Clients</span>
+              <span class="kpi-icon">🌐</span>
+            </div>
+            <span id="stat-tier1-ratio" class="kpi-value">0%</span>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-card-header">
+              <span class="kpi-label">Peak Hours</span>
+              <span class="kpi-icon">⏰</span>
+            </div>
+            <span id="stat-peak-hours" class="kpi-value">--:--</span>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-card-header">
+              <span class="kpi-label">Analyzed Jobs</span>
+              <span class="kpi-icon">📊</span>
+            </div>
+            <span id="stat-analyzed-count" class="kpi-value">0</span>
+          </div>
+        </div>
+
+        <!-- Chart 1: Activity by Time of Day -->
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-header-text">
+              <h3 class="chart-title">Peak Posting Hours</h3>
+              <p class="chart-desc">When relevant jobs appear (Europe/Kyiv)</p>
+            </div>
+            <span class="chart-badge" id="badge-peak-hour">⚡ High activity</span>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="chart-activity" height="190"></canvas>
+          </div>
+        </div>
+
+        <!-- Chart 2: Hourly Rates & Budget Types -->
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-header-text">
+              <h3 class="chart-title">Rates & Budget Distribution</h3>
+              <p class="chart-desc">Hourly brackets vs Fixed-price share</p>
+            </div>
+          </div>
+          <div class="chart-split-grid">
+            <div class="chart-wrapper">
+              <canvas id="chart-rates" height="190"></canvas>
+            </div>
+            <div class="chart-donut-wrapper">
+              <canvas id="chart-types" height="155"></canvas>
+              <div class="donut-center-label" id="donut-type-center">
+                <span class="donut-sub">Hourly</span>
+                <span class="donut-val" id="donut-hourly-pct">0%</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chart 3: Top Skills & Technologies -->
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-header-text">
+              <h3 class="chart-title">In-Demand Skills</h3>
+              <p class="chart-desc">Most requested technologies in matched jobs</p>
+            </div>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="chart-skills" height="210"></canvas>
+          </div>
+        </div>
+
+        <!-- Chart 4: Client Geography -->
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-header-text">
+              <h3 class="chart-title">Client Geography</h3>
+              <p class="chart-desc">Breakdown by country & market origin</p>
+            </div>
+          </div>
+          <div class="chart-wrapper donut-center-box">
+            <canvas id="chart-countries" height="195"></canvas>
+          </div>
+        </div>
+
+        <!-- Chart 5: Funnel & Engagement -->
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <div class="chart-header-text">
+              <h3 class="chart-title">Lead Conversion Funnel</h3>
+              <p class="chart-desc">Pipeline from scan to saved jobs</p>
+            </div>
+          </div>
+          <div class="funnel-container" id="funnel-container">
+            <!-- Dynamically populated funnel bars -->
+          </div>
         </div>
       </section>
 
@@ -253,6 +408,16 @@
           <span id="nav-saved-badge" class="nav-badge hidden">0</span>
         </div>
         <span>Saved</span>
+      </button>
+
+      <button class="nav-item" data-target="view-analytics">
+        <div class="nav-icon-box">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="22 7 13.5 15.5 8.5 10.5 2 17"></polyline>
+            <polyline points="16 7 22 7 22 13"></polyline>
+          </svg>
+        </div>
+        <span>Stats</span>
       </button>
 
       <button class="nav-item" data-target="view-report">
@@ -451,36 +616,37 @@
     <!-- Dedicated PDF Printable Layout (Styled for A4 in Upwork colors) -->
     <div id="pdf-report-container">
       <div style="font-family: 'Inter', Arial, sans-serif; color: #001e00; background: #ffffff; padding: 24px; max-width: 800px; margin: 0 auto;">
-        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #14a800; padding-bottom: 14px; margin-bottom: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 2.5px solid #14a800; padding-bottom: 12px; margin-bottom: 20px;">
           <div>
-            <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 4px;">
+            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 4px;">
               <img src="logo.png" alt="Upwork" style="height: 26px; width: auto; display: block; object-fit: contain;" />
-              <span style="font-size: 15px; color: #001e00; font-weight: 700; border-left: 2px solid #14a800; padding-left: 10px; line-height: 1;">Daily Intelligence Report</span>
+              <span style="font-size: 16px; color: #14a800; font-weight: 300;">|</span>
+              <span style="font-size: 15px; color: #001e00; font-weight: 700; line-height: 1;">Daily Intelligence Report</span>
             </div>
             <p style="font-size: 11px; color: #5e6d55; margin: 2px 0 0;">Automatic Upwork Bot Monitoring & AI Proposal Analytics</p>
           </div>
           <div style="text-align: right;">
             <div id="pdf-date" style="font-size: 13px; font-weight: 700; color: #001e00;"></div>
-            <div style="font-size: 10px; color: #5e6d55;">Timezone: Europe/Kyiv</div>
+            <div style="font-size: 10px; color: #5e6d55; margin-top: 2px;">Timezone: Europe/Kyiv</div>
           </div>
         </div>
 
         <div style="display: flex; gap: 12px; margin-bottom: 20px;">
-          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">TOTAL SCANNED</div>
-            <div id="pdf-scanned" style="font-size: 20px; font-weight: 800; color: #001e00; margin-top: 4px;">0</div>
+          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">TOTAL SCANNED</div>
+            <div id="pdf-scanned" style="font-size: 24px; font-weight: 800; color: #001e00; margin-top: 4px;">0</div>
           </div>
-          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">MATCHED PROFILE</div>
-            <div id="pdf-matched" style="font-size: 20px; font-weight: 800; color: #14a800; margin-top: 4px;">0</div>
+          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">MATCHED PROFILE</div>
+            <div id="pdf-matched" style="font-size: 24px; font-weight: 800; color: #14a800; margin-top: 4px;">0</div>
           </div>
-          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">AI PROPOSALS</div>
-            <div id="pdf-proposals" style="font-size: 20px; font-weight: 800; color: #6366f1; margin-top: 4px;">0</div>
+          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">AI PROPOSALS</div>
+            <div id="pdf-proposals" style="font-size: 24px; font-weight: 800; color: #6366f1; margin-top: 4px;">0</div>
           </div>
-          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 600;">TOP MATCH SCORE</div>
-            <div id="pdf-score" style="font-size: 20px; font-weight: 800; color: #e28a00; margin-top: 4px;">0</div>
+          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+            <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">TOP MATCH SCORE</div>
+            <div id="pdf-score" style="font-size: 24px; font-weight: 800; color: #e28a00; margin-top: 4px;">0</div>
           </div>
         </div>
 
@@ -491,7 +657,7 @@
 
         <div>
           <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">SELECTED JOBS FOR THE DAY:</h3>
-          <div id="pdf-jobs-list" style="display: flex; flex-direction: column; gap: 12px;"></div>
+          <div id="pdf-jobs-list" style="display: flex; flex-direction: column; gap: 4px;"></div>
         </div>
       </div>
     </div>
@@ -501,6 +667,6 @@
 
   </div>
 
-  <script src="app.js?v=20260907_8"></script>
+  <script src="app.js?v=20260914_2"></script>
 </body>
 </html>
