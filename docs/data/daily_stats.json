@@ -1,10 +1,10 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 59,
-  "matchedFilters": 11,
+  "totalScanned": 61,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "wordpress plugin": 1
   },
   "topJobs": [
@@ -51,6 +51,13 @@
       "addedAt": "2026-09-14T04:03:12.229Z"
     },
     {
+      "title": "Senior WooCommerce Engineer Needed — Audit, Stabilize & Complete Custom Plugin (LME + WWEX API)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022099530625257679693",
+      "addedAt": "2026-09-14T16:09:19.523Z"
+    },
+    {
       "title": "EXPERT CUSTOM / FULL STACK DESIGNER/DEVELOPER- Cosmetic /Derm Project Elementor/woo commerce (trial)",
       "budget": "Fixed-price",
       "score": 141,
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099473027992436872",
       "addedAt": "2026-09-14T12:21:37.658Z"
-    },
-    {
-      "title": "Website Designer and Builder",
-      "budget": "Fixed-price",
-      "score": 95,
-      "url": "https://www.upwork.com/jobs/~022099483857001693320",
-      "addedAt": "2026-09-14T13:05:16.767Z"
     }
   ]
 }
