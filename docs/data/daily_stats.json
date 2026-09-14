@@ -1,10 +1,10 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 61,
-  "matchedFilters": 12,
+  "totalScanned": 63,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "wordpress plugin": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 7050,
       "url": "https://www.upwork.com/jobs/~022099529069255998829",
       "addedAt": "2026-09-14T16:05:29.077Z"
+    },
+    {
+      "title": "Experienced WordPress Developer Needed",
+      "budget": "$30-$60/hr",
+      "score": 6100,
+      "url": "https://www.upwork.com/jobs/~022099487669284875085",
+      "addedAt": "2026-09-14T16:19:14.098Z"
     },
     {
       "title": "Hoot Academy Website Modernisation & Contact Optimisation",
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099289242751282840",
       "addedAt": "2026-09-14T00:13:12.268Z"
-    },
-    {
-      "title": "WordPress + Elementor Expert Needed to Completely Redesign & Polish Zisker.com",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022099473027992436872",
-      "addedAt": "2026-09-14T12:21:37.658Z"
     }
   ]
 }

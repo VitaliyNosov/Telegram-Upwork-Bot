@@ -1,5 +1,38 @@
 [
   {
+    "id": "2099487669284875085",
+    "ciphertext": "~022099487669284875085",
+    "title": "Experienced WordPress Developer Needed",
+    "description": "We're looking for an experienced WordPress developer to join our team on an ongoing basis. This is a client-facing role, so strong communication skills and professionalism are essential.\n\nResponsibilities:\n- Build, customize, and maintain WordPress websites (themes, plugins, page builders such as Elementor/WPBakery/Divi)\n- Communicate directly with clients to gather requirements and provide updates\n\n\nRequirements:\n- Must work during US business hours / time zone – you'll be collaborating with a US-based team and clients\n- Submit a short intro video with your application (1–2 minutes) introducing yourself and your experience\n- Provide an updated resume/CV and/or portfolio showcasing past WordPress projects\n- Strong communicator - native English\n- Comfortable in a client-facing role – confident speaking with clients directly on calls/chat, not just working behind the scenes\n\nNice to have:\n- Some experience with WooCommerce, Elementor, or Divi\n- Basic PHP/HTML/CSS/JS skills for custom fixes\n\nHow to Apply:\nPlease include:\n- A 1–2 minute intro video (more considerable)\n- Your resume/CV or portfolio link\n- A brief note on your availability in US time zones",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$30 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "webflow",
+      "elementor",
+      "php",
+      "html",
+      "css",
+      "e-commerce-website",
+      "wordpress-plugin",
+      "wordpress-website"
+    ],
+    "score": 6100,
+    "coverLetter": "Hi! \n\nI’m available during US business hours and am very comfortable in client-facing roles, regularly jumping on calls to gather requirements, guide technical decisions, and explain updates clearly. \n\nWith deep expertise in WordPress, PHP, custom theme builds, and page builders like Elementor, I handle everything from front-end design tweaks to complex plugin customizations. I also bring hands-on experience with Webflow and WooCommerce, matching the versatile skill set your team needs. You can see examples of my work here: https://www.thelifeyoucansave.org/\n\nI’d be happy to record a quick 1-2 minute intro video for you once we connect in chat. What is your preferred communication channel for kicking off a quick introductory call this week?",
+    "publishedDateTime": "2026-09-14T16:18:17+0000",
+    "addedAt": "2026-09-14T16:19:15.324Z",
+    "url": "https://www.upwork.com/jobs/~022099487669284875085",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099487669284875085/apply/"
+  },
+  {
     "id": "2099530625257679693",
     "ciphertext": "~022099530625257679693",
     "title": "Senior WooCommerce Engineer Needed — Audit, Stabilize & Complete Custom Plugin (LME + WWEX API)",
