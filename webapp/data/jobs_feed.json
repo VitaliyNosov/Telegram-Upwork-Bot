@@ -1,5 +1,32 @@
 [
   {
+    "id": "2099589150799351289",
+    "ciphertext": "~022099589150799351289",
+    "title": "WordPress Developer Needed to Move 4 Small Course Websites Into One Domain",
+    "description": "We are looking for an experienced WordPress developer to consolidate 4 relatively small course/membership websites into one main website:\nIvyBusinessSchool.com\n\nThese are not large websites with hundreds of courses or thousands of pages. Each site contains only a small number of courses and pages.\n\nFor example, some sites have approximately 1–4 courses plus their related sales pages, checkout pages, thank-you pages and member/course pages.\n\nWebsites Being Consolidated\nWe need to move content from:\nAcademy.MagicLeone.com\nA1CoachingPlan.com\nA1MarketingPlan.com\nTheRebelTactics.com\ninto:\nIvyBusinessSchool.com\nWhat We Need Done\nIvyBusinessSchool.com currently has an old WordPress installation.\nWe already have a backup of it and are not currently using the site, so we want to:\n\nRemove the existing Ivy Business School WordPress installation.\nStart with a clean WordPress installation.\nInstall fresh copies of the necessary plugins.\nMove the required pages and course content from the four existing sites.\nConsolidate the membership/customer data.\nTest everything before we make any changes to the existing websites.\nThe existing four websites will remain live during the migration.\nContent to Transfer\nThis includes the relevant:\nSales pages\nCheckout pages\nThank-you pages\nMember pages\nCourse pages\nLessons/modules\nDownloads/resources\nImages/media\nUpsell pages where applicable\nAgain, these are relatively small websites with a limited number of courses and pages.\nMembership System\nWe use:\nDigitalAccessPass (DAP) for membership/course protection.\n\nExisting members must continue to have access to the courses they previously purchased.\n\nIf the same customer exists on more than one website, their course access should be combined so that ideally they have:\n\nOne Ivy Business School account → access to all courses they previously purchased\n\nExisting passwords should be preserved where reasonably possible.\n\nAll migrated course pages must remain correctly protected by DAP.\n\nShopping Cart\nWe use:\nSmartPayCart\n\nThe relevant products/checkouts need to continue working properly after the migration.\n\nThis includes making sure that:\n\nPayments work\nNew buyers receive the correct DAP membership/course access\nThank-you pages work\nExisting recurring payments or payment plans are not accidentally interrupted\nTesting\nBefore the old websites are redirected or changed, we need to test:\nExisting member login\nCorrect course access\nCustomers with more than one course\nProtected pages\nNew purchases\nCheckout/payment\nAutomatic DAP access after purchase\nAny existing subscriptions/payment plans\nThe existing sites should remain untouched until we confirm that the new Ivy Business School setup works correctly.\nExperience\nWe are looking for someone comfortable with:\nWordPress migrations\nWordPress databases\nMembership websites\nDigitalAccessPass (preferred)\nSmartPayCart (preferred)\nPHP/MySQL when needed\nStripe/PayPal/payment integrations\nYou do not need to be an enterprise-level agency. We are looking for a capable individual WordPress developer who can carefully handle a relatively small migration.\nPlease Include With Your Proposal\nPlease tell us:\nHave you worked with DigitalAccessPass?\nHave you worked with SmartPayCart?\nHave you migrated WordPress membership/customer data before?\nAre you comfortable merging duplicate customer accounts while preserving their course access?\nHow would you make sure existing recurring payments are not interrupted?\nWhat would you charge for this project?\n\nWe would prefer that you first review the websites/setup before giving us your final fixed-price quote, so that both sides understand the exact amount of work involved.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 44,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cms-development",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I have extensive experience with WordPress migrations, database merging, and handling membership platforms like DigitalAccessPass (DAP) and SmartPayCart. \n\nTo answer your questions directly:\n- Yes, I have worked with DigitalAccessPass and SmartPayCart.\n- Yes, I frequently handle WordPress membership migrations and customer data consolidation. \n- I am comfortable merging duplicate customer accounts via SQL/PHP to ensure a single unified login with access to all previously purchased courses while preserving passwords where possible.\n- Regarding recurring payments: since the active subscriptions are tied to your payment gateways (Stripe/PayPal) and the existing sites will remain untouched during testing, active billing profiles won't be disrupted. We simply reconnect the new site's SmartPayCart/DAP endpoints to handle future webhook triggers correctly once everything is verified.\n\nGiven that these are small sites, I can cleanly wipe the old IvyBusinessSchool.com installation, set up a fresh environment, and execute this consolidation safely in a staging phase. \n\nSince you requested a review before a final fixed-price quote, let's connect in chat so I can take a quick look at the source sites and provide an accurate estimate.",
+    "publishedDateTime": "2026-09-14T20:01:40+0000",
+    "addedAt": "2026-09-14T20:03:25.382Z",
+    "url": "https://www.upwork.com/jobs/~022099589150799351289",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099589150799351289/apply/"
+  },
+  {
     "id": "2099574599284534093",
     "ciphertext": "~022099574599284534093",
     "title": "Elementor Developer Needed to Complete Email Signup Popup",
