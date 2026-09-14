@@ -1,5 +1,40 @@
 [
   {
+    "id": "2099543806717832013",
+    "ciphertext": "~022099543806717832013",
+    "title": "Senior WordPress Engineer needed",
+    "description": "Budget Range:( $55 to $75 )\nLocation: United States ( Remote )\n\nWe're seeking a Senior WordPress Engineer to join a leading digital media organization and help build high-traffic consumer-facing web experiences serving millions of users.\nThis role will focus on WordPress CMS development, React-based front-end applications, GraphQL APIs, and integrations supporting content, video, subscriptions, analytics, advertising, and mobile platforms.\n\nResponsibilities:\n\n- Develop custom WordPress themes, plugins, Gutenberg blocks, post types, taxonomies, and editorial workflows \n- Build modern React applications and reusable UI components \n- Design and optimize GraphQL schemas, queries, mutations, and resolvers \n- Integrate with third-party platforms including video, identity, subscriptions, analytics, search, and CDN services \n- Support performance, accessibility, SEO, scalability, and production reliability \n- Participate in code reviews, testing, CI/CD, troubleshooting, and release management \n\n\nRequired Skills:\n\n- 5+ years of WordPress development experience \n- Strong PHP, WordPress, React, JavaScript/TypeScript, and GraphQL expertise \n- Experience building custom themes, plugins, Gutenberg blocks, and content models \n- Experience with REST APIs, headless CMS architectures, and application integrations \n- Strong troubleshooting skills across frontend, backend, API, and caching layers \n\n\nPreferred Experience:\n\n- WordPress VIP \n- Media, publishing, streaming, newsroom, or other high-traffic consumer web platforms \n- Subscription, authentication, paywall, or entitlement solutions \n- Node.js, Docker, CI/CD, cloud platforms, Elasticsearch, analytics, CDN, or ad-tech technologies \n\nIf you've built scalable content platforms using WordPress, React, and GraphQL and have experience supporting large-scale digital products, we'd love to speak with you.\n\nNote: It's a full-time role. Please don't apply if you can't commit 40 hours a week",
+    "isHourly": true,
+    "hourlyBudgetMin": 55,
+    "hourlyBudgetMax": 75,
+    "budgetDisplay": "$55 - $75/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 75,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "react-js",
+      "typescript",
+      "graphql",
+      "javascript",
+      "html",
+      "php",
+      "css",
+      "html5",
+      "web-design"
+    ],
+    "score": 7600,
+    "coverLetter": "Hi! I’m a senior WordPress engineer with extensive experience building scalable, high-traffic digital platforms using custom themes, Gutenberg blocks, React, and GraphQL APIs. \n\nIn my recent work, including large-scale builds like https://about.offerup.com/ and https://www.snopud.com/, I focus heavily on performance, complex content modeling, and robust backend-to-frontend integrations. I bring deep expertise in PHP, modern JavaScript/TypeScript, React applications, and headless/hybrid WordPress architectures, ensuring your consumer-facing experiences remain fast, accessible, and reliable under heavy traffic.\n\nI am available for a full-time 40-hour weekly commitment and ready to dive into your editorial workflows, subscriptions, and integrations. Are you available for a quick chat this week to discuss the technical roadmap?",
+    "publishedDateTime": "2026-09-14T17:01:05+0000",
+    "addedAt": "2026-09-14T17:02:43.231Z",
+    "url": "https://www.upwork.com/jobs/~022099543806717832013",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099543806717832013/apply/"
+  },
+  {
     "id": "2099541532431985485",
     "ciphertext": "~022099541532431985485",
     "title": "Wordpress Website Migration to New Server",

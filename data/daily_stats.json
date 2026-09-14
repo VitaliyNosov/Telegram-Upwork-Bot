@@ -1,13 +1,20 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 70,
-  "matchedFilters": 16,
+  "totalScanned": 71,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 15,
+    "wordpress developer": 16,
     "wordpress plugin": 1
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Engineer needed",
+      "budget": "$55-$75/hr",
+      "score": 7600,
+      "url": "https://www.upwork.com/jobs/~022099543806717832013",
+      "addedAt": "2026-09-14T17:02:41.715Z"
+    },
     {
       "title": "WooCommerce Malware Incident Response",
       "budget": "$40-$70/hr",
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022099540711658241389",
       "addedAt": "2026-09-14T16:51:24.958Z"
-    },
-    {
-      "title": "EXPERT CUSTOM / FULL STACK DESIGNER/DEVELOPER- Cosmetic /Derm Project Elementor/woo commerce (trial)",
-      "budget": "Fixed-price",
-      "score": 141,
-      "url": "https://www.upwork.com/jobs/~022099499411534849629",
-      "addedAt": "2026-09-14T14:05:11.344Z"
     }
   ]
 }
