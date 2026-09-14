@@ -1,12 +1,19 @@
 {
   "date": "2026-09-14",
   "lastDigestSentDate": "2026-09-13",
-  "totalScanned": 31,
-  "matchedFilters": 4,
+  "totalScanned": 32,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Hoot Academy Website Modernisation & Contact Optimisation",
+      "budget": "$20-$40/hr",
+      "score": 4091,
+      "url": "https://www.upwork.com/jobs/~022099404716397530890",
+      "addedAt": "2026-09-14T07:49:13.453Z"
+    },
     {
       "title": "Website for Real Estate Staging Business",
       "budget": "$15-$30/hr",

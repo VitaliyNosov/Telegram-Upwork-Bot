@@ -1,5 +1,37 @@
 [
   {
+    "id": "2099404716397530890",
+    "ciphertext": "~022099404716397530890",
+    "title": "Hoot Academy Website Modernisation & Contact Optimisation",
+    "description": "1. Font: I’d like to change the current fonts to something more modern, clean and professional. Please use Poppins for headings and Inter for the main/body text.\n2. Enquiry form: Please check and fix the enquiry/contact form, as I don’t think it is currently working properly. I want to make sure submissions actually come through successfully and that the form works properly on both desktop and mobile.\n3. Change “Inquire Now”: Wherever it currently says “Inquire Now” or “Make an Enquiry”, please change this to “Contact Us”.\n4. Contact Us button: I want the “Contact Us” button to stand out clearly in the navigation/header. It should look like a proper CTA button rather than just another menu option — using the Hoot Academy green/cream branding.\n5. Logo: Please use my existing Hoot Academy circular owl logo exactly as supplied, without redesigning or changing it, and make sure it is clearly visible at the top, particularly on mobile.\n6. Google Business: I also have a live Google Business Profile for Bolton and a Blackburn profile currently pending. I’d like the website set up so we can link to the relevant Google Business profiles/reviews, particularly once the Blackburn profile is approved.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 4.54,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "website-redesign",
+      "woocommerce",
+      "wordpress",
+      "wordpress-website",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 4091,
+    "coverLetter": "Hi! I can help you modernise the Hoot Academy website and get your contact systems running smoothly right away. \n\nFixing broken contact forms and ensuring reliable email delivery is a routine task for me, as is handling precise styling updates like typography changes (Poppins/Inter), global text replacements, and header CTA button styling. I also have extensive experience with Elementor and WooCommerce, ensuring your mobile responsiveness and navigation will look sharp, feature your exact logo, and properly highlight your green/cream branding. Finally, I can seamlessly integrate your live Bolton and upcoming Blackburn Google Business profiles and reviews.\n\nYou can see examples of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nWhen would you like to get started? Send over the logo, brand colors, and temporary backend access, and I can knock these updates out quickly.",
+    "publishedDateTime": "2026-09-14T07:48:25+0000",
+    "addedAt": "2026-09-14T07:49:14.760Z",
+    "url": "https://www.upwork.com/jobs/~022099404716397530890",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099404716397530890/apply/"
+  },
+  {
     "id": "2099347570261044888",
     "ciphertext": "~022099347570261044888",
     "title": "WordPress Bug Fix: Cannot Edit Pages (Blank White Screen)",
