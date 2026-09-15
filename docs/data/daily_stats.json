@@ -1,10 +1,10 @@
 {
   "date": "2026-09-15",
   "lastDigestSentDate": "2026-09-14",
-  "totalScanned": 33,
-  "matchedFilters": 7,
+  "totalScanned": 34,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 6100,
       "url": "https://www.upwork.com/jobs/~022099763172840841951",
       "addedAt": "2026-09-15T07:35:21.600Z"
+    },
+    {
+      "title": "Building a responsive WordPress  site with booking appointments and contact form",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022099807185697603351",
+      "addedAt": "2026-09-15T10:29:14.028Z"
     },
     {
       "title": "WordPress & WooCommerce Developer Website Optmztion+Updates+Fixes, PHP 8.3 Upgrd & Cstm Ordr Mngmnt",
