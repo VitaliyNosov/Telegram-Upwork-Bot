@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099821557019845343",
+    "ciphertext": "~022099821557019845343",
+    "title": "Database Optimization and Traffic Filtering",
+    "description": "The website is currently inaccessible because the account has exceeded CPU seconds usage in the past 24 hours, with over 89,000 requests and a database size of 8.3 GB. The task is to reduce the database size below 1000 MB and implement custom filters to limit traffic and lower resource usage. Most requests are directed to specific URIs, so the solution should focus on optimizing the database and applying effective traffic controls to improve performance and prevent future overages.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "web-programming",
+      "wordpress",
+      "mysql"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can stabilize your site immediately by addressing the database bloat and implementing the necessary traffic filtering to bring your CPU usage back within limits.\n\nWith extensive experience in WordPress performance optimization and MySQL database management, I specialize in cleaning up bloated tables—such as post revisions, transient data, and logs—that often cause 8GB+ database sizes. Once we have reclaimed that space, I will implement server-side or application-level request filtering to block the malicious or excessive traffic hitting those specific URIs. I have successfully managed high-traffic sites like https://www.snopud.com/, ensuring they remain performant under heavy load.\n\nAre you seeing specific IP patterns in your access logs for these requests, or should we start by reviewing your current firewall/caching configuration? Let’s get your site back online.",
+    "publishedDateTime": "2026-09-15T14:25:13+0000",
+    "addedAt": "2026-09-15T14:27:32.734Z",
+    "url": "https://www.upwork.com/jobs/~022099821557019845343",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099821557019845343/apply/"
+  },
+  {
     "id": "2099807185697603351",
     "ciphertext": "~022099807185697603351",
     "title": "Building a responsive WordPress  site with booking appointments and contact form",
