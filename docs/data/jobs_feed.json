@@ -1,5 +1,33 @@
 [
   {
+    "id": "2099975547351120449",
+    "ciphertext": "~022099975547351120449",
+    "title": "Need help with a hacked wordpress website",
+    "description": "Ive got a wordpress website hacked with files that keep reinstalling themselves -- im looking for someone with experience that can locate the issue and get the files off of the server for good! I cant seem to find the script that regenrates the malicious files.\n\nI want to avoid restoring from a  backup.\n\nits on an nginx server via the gridpane control panel",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-malware-removal",
+      "virus-removal",
+      "malware-removal"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can help you find and destroy the root cause of those regenerating malware scripts so your site stays clean permanently, without needing a full backup restore.\n\nPersistent malware typically hides in cron jobs, compromised database entries, unknown backdoors, or vulnerable plugin/theme files, and I know exactly where to look on an NGINX and GridPane stack to shut it down for good. Beyond just scrubbing the server, I’ll patch the vulnerability so they can't sneak back in. \n\nWhenever you're ready, feel free to drop the URL or server access details in chat so we can get this sorted out right away.",
+    "publishedDateTime": "2026-09-15T21:38:36+0000",
+    "addedAt": "2026-09-15T21:39:23.973Z",
+    "url": "https://www.upwork.com/jobs/~022099975547351120449",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099975547351120449/apply/"
+  },
+  {
     "id": "2099939347906508470",
     "ciphertext": "~022099939347906508470",
     "title": "LearnDash developer: build a seven-lesson product training course WordPress",
