@@ -1,5 +1,32 @@
 [
   {
+    "id": "2099926545821152950",
+    "ciphertext": "~022099926545821152950",
+    "title": "WordPress Homepage Designer & Developer",
+    "description": "We’re looking for a WordPress designer/developer to design and build a professional homepage for an existing website.\n\nWe’re looking for a clean, modern design that works well on both desktop and mobile and is easy to manage in WordPress.\n\nScope:\n\n- Design and build the homepage\n- Responsive desktop and mobile layout\n- WordPress implementation\n- Content sections, images, buttons and forms\n- Final testing and revisions\n\nWe’ll provide the existing website, branding, content, and other materials needed for the project.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 355,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wordpress-theme"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you design and build a clean, modern, and high-converting homepage for your existing WordPress site. \n\nI specialize in custom WordPress development, transforming brand guidelines and content into responsive, high-performing layouts that look great on both desktop and mobile. Whether you prefer building with Gutenberg, ACF, or page builders like Elementor, I’ll ensure the final homepage is lightweight, visually striking, and very easy for your team to manage moving forward. \n\nYou can see an example of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nWhen do you ideally want to kick this off? Let's connect in chat and review the branding materials you have ready.",
+    "publishedDateTime": "2026-09-15T18:22:41+0000",
+    "addedAt": "2026-09-15T18:23:21.152Z",
+    "url": "https://www.upwork.com/jobs/~022099926545821152950",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099926545821152950/apply/"
+  },
+  {
     "id": "2099923525341607327",
     "ciphertext": "~022099923525341607327",
     "title": "Looking for WordPress resource to resolve critical error on website",
