@@ -1,5 +1,35 @@
 [
   {
+    "id": "2099611586725510935",
+    "ciphertext": "~022099611586725510935",
+    "title": "Senior Developer: ClickFunnels, GoHighLevel, WordPress",
+    "description": "We are a marketing agency running live paid-traffic funnels for our clients. We need a developer who writes code, not only drag-and-drop builds and no-code automations.\n\nStack: ClickFunnels 2.0, GoHighLevel, WordPress. JavaScript, PHP, webhooks and APIs (Stripe, Meta Pixel and Conversions API). Automations kept simple.\n\nHow we work\n- Each task comes as a brief. You send a plan, a fixed price and a delivery time. We approve, you build, we review the code before it goes live.\n- Done means evidence: the live page, the email received, the event in Events Manager. Payment releases on that.\n- Fixed price per task, ongoing. No hourly.\n\nCommunication\n- At least 4 hours a day inside 9 AM to 5 PM US Eastern, Monday to Friday.\n- Replies within the hour in that window. Short written updates, a Loom when something needs showing.\n- Start this week.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 163,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "javascript",
+      "php",
+      "api-integration",
+      "clickfunnels",
+      "wordpress-website"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’m a senior WordPress and PHP developer who writes real code, not just drag-and-drop builds. For your agency's paid-traffic funnels, I can step in immediately to handle custom PHP, JavaScript, webhooks, and complex API integrations including Stripe, Meta Pixel, and the Conversions API. \n\nI’m fully comfortable with your workflow—reviewing briefs, providing fixed-price and timeframe estimates, and delivering verified results (like live events firing properly in Events Manager). My technical stack heavily features PHP, JavaScript, and custom WordPress development, backed by robust experience connecting third-party platforms. You can review some of my recent production work here: https://www.thelifeyoucansave.org/\n\nI am available to work within your 9 AM to 5 PM US Eastern window, ensuring fast replies and clear Loom updates when needed. \n\nCan you share the first brief or task you'd like to kick off with this week?",
+    "publishedDateTime": "2026-09-15T00:31:21+0000",
+    "addedAt": "2026-09-15T00:33:13.679Z",
+    "url": "https://www.upwork.com/jobs/~022099611586725510935",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099611586725510935/apply/"
+  },
+  {
     "id": "2099620069519193503",
     "ciphertext": "~022099620069519193503",
     "title": "WordPress Performance Audit & Optimization Roadmap — Large Publishing Site",

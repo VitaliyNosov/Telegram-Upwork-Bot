@@ -1,10 +1,10 @@
 {
   "date": "2026-09-15",
   "lastDigestSentDate": "2026-09-14",
-  "totalScanned": 7,
-  "matchedFilters": 1,
+  "totalScanned": 8,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099620069519193503",
       "addedAt": "2026-09-14T22:05:11.088Z"
+    },
+    {
+      "title": "Senior Developer: ClickFunnels, GoHighLevel, WordPress",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022099611586725510935",
+      "addedAt": "2026-09-15T00:33:12.427Z"
     }
   ]
 }
