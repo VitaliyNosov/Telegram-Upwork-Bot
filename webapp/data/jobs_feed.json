@@ -1,5 +1,31 @@
 [
   {
+    "id": "2099992318204361281",
+    "ciphertext": "~022099992318204361281",
+    "title": "New website on elementor",
+    "description": "Need a website built similar to this site. https://www.denverpavingsolutions.com/index.html\n\nI’ll need a homepage, about, services, areas we serve, contact pages \n\nThe areas we serve will be 150 unique city pages with services listed and unique text for that city.\n\nThe site needs to rank well, so not a lot of duplicated content that Google will not rank. \n\nWhen can you complete, how much, and how will you make the website out rank others? \n\nI will share domain, Wordpress access, and logo, once I pick a person.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 111,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can build your Elementor website and set up the 150 unique city pages efficiently while ensuring strong SEO performance. \n\nTo answer your questions: I can complete this project within 3 to 4 weeks depending on how fast the unique content for the city pages is provided. My standard rate for a project of this scale is [Insert Rate/Fixed Price], which we can finalize once we review the exact content structure. To make the site outrank competitors and avoid duplicate content penalties, I will use a dynamic template structure powered by Advanced Custom Fields (ACF) combined with structured localized data, ensuring each of the 150 pages has a unique local angle, optimized metadata, and clean schema markup for local search.\n\nYou can view a sample of my recent work at https://www.seeintl.org/. \n\nWhen are you looking to kick this off?",
+    "publishedDateTime": "2026-09-15T22:43:21+0000",
+    "addedAt": "2026-09-15T22:45:20.728Z",
+    "url": "https://www.upwork.com/jobs/~022099992318204361281",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099992318204361281/apply/"
+  },
+  {
     "id": "2099946147883876119",
     "ciphertext": "~022099946147883876119",
     "title": "Rebuild wordpress site",
