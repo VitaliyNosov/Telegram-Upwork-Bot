@@ -1,10 +1,10 @@
 {
   "date": "2026-09-15",
   "lastDigestSentDate": "2026-09-14",
-  "totalScanned": 71,
-  "matchedFilters": 15,
+  "totalScanned": 72,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -50,6 +50,13 @@
       "addedAt": "2026-09-15T16:45:13.887Z"
     },
     {
+      "title": "Looking for WordPress resource to resolve critical error on website",
+      "budget": "$14-$28/hr",
+      "score": 2898,
+      "url": "https://www.upwork.com/jobs/~022099923525341607327",
+      "addedAt": "2026-09-15T18:11:15.080Z"
+    },
+    {
       "title": "WordPress & WooCommerce Developer Website Optmztion+Updates+Fixes, PHP 8.3 Upgrd & Cstm Ordr Mngmnt",
       "budget": "Fixed-price",
       "score": 195,
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099620069519193503",
       "addedAt": "2026-09-14T22:05:11.088Z"
-    },
-    {
-      "title": "Senior Developer: ClickFunnels, GoHighLevel, WordPress",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022099611586725510935",
-      "addedAt": "2026-09-15T00:33:12.427Z"
     }
   ]
 }
