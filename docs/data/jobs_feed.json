@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099856460066666166",
+    "ciphertext": "~022099856460066666166",
+    "title": "One-Page Website & Sign-Up Form",
+    "description": "We are looking for a developer to build a simple one-page website with a short sign-up process.\n\nWe will provide the full design, so no design work is required. We just need someone to build it and make everything work properly. When a user clicks Sign Up, they should be taken through a simple 2 or 3-step form, which will collect their details and include the necessary disclaimers and consent options that we provide.\n\nThe project will include:\n\n- Building the one-page website from our supplied design\n- A simple 2–3 step sign-up form\n- Email validation\n- Disclaimer and consent checkboxes\n- Secure collection and storage of the submitted data\n- Ability to export the data as a CSV\n- Basic spam/bot protection\n- Connecting the website to our existing domain, which is managed through Squarespace\n- Making sure everything works properly on mobile and desktop\n\nFor storing the data, we are considering Supabase, but we're happy to take recommendations if there is a simpler or better option. The important thing is that the data is stored in a clean and structured way, as we intend to eventually move it into Salesforce. This is a simple proof-of-concept project, so we don't want to overcomplicate it or spend thousands building the first version.\n\nBudget: A few hundred USD.\n\nWhen applying, please tell us how you would approach it, what you would use to store the data, how much you would charge and how quickly you could complete it.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 39,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "web-programming",
+      "html"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! To build this proof-of-concept quickly and cleanly within your budget, I would use WordPress with a lightweight custom template (or a clean form builder plugin connected directly to a secure database) to handle the responsive one-page layout, multi-step sign-up, validation, and bot protection. \n\nFor data storage, Supabase is actually a great, lightweight choice since it gives you structured SQL storage now and a seamless path to migrate data into Salesforce later. Alternatively, storing submissions securely in WordPress with a direct CSV export feature keeps things even simpler for an MVP. \n\nI can complete this within your budget in just a couple of days, ensuring it connects smoothly to your Squarespace domain and works flawlessly on all devices. For a similar clean, responsive build, you can check out https://www.seeintl.org/. \n\nHow soon are you looking to kick this off?",
+    "publishedDateTime": "2026-09-15T16:44:11+0000",
+    "addedAt": "2026-09-15T16:45:15.433Z",
+    "url": "https://www.upwork.com/jobs/~022099856460066666166",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099856460066666166/apply/"
+  },
+  {
     "id": "2099890711927291671",
     "ciphertext": "~022099890711927291671",
     "title": "Wordpress/Elementor Mortgage Sites",

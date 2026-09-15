@@ -1,10 +1,10 @@
 {
   "date": "2026-09-15",
   "lastDigestSentDate": "2026-09-14",
-  "totalScanned": 61,
-  "matchedFilters": 12,
+  "totalScanned": 62,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022099807185697603351",
       "addedAt": "2026-09-15T10:29:14.028Z"
+    },
+    {
+      "title": "One-Page Website & Sign-Up Form",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022099856460066666166",
+      "addedAt": "2026-09-15T16:45:13.887Z"
     },
     {
       "title": "WordPress & WooCommerce Developer Website Optmztion+Updates+Fixes, PHP 8.3 Upgrd & Cstm Ordr Mngmnt",
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099670936333301116",
       "addedAt": "2026-09-15T01:27:16.241Z"
-    },
-    {
-      "title": "Database Optimization and Traffic Filtering",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022099821557019845343",
-      "addedAt": "2026-09-15T14:27:18.249Z"
     }
   ]
 }
