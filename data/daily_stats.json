@@ -1,81 +1,8 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 84,
-  "matchedFilters": 18,
-  "byKeyword": {
-    "wordpress developer": 18
-  },
-  "topJobs": [
-    {
-      "title": "Ghost CMS Developer for Saaga Theme & Mine Record System",
-      "budget": "$35-$65/hr",
-      "score": 6594,
-      "url": "https://www.upwork.com/jobs/~022099887609087009503",
-      "addedAt": "2026-09-15T15:49:10.324Z"
-    },
-    {
-      "title": "Wordpress Spezialist",
-      "budget": "$20-$60/hr",
-      "score": 6100,
-      "url": "https://www.upwork.com/jobs/~022099763172840841951",
-      "addedAt": "2026-09-15T07:35:21.600Z"
-    },
-    {
-      "title": "Wordpress/Elementor Mortgage Sites",
-      "budget": "$20-$60/hr",
-      "score": 6000,
-      "url": "https://www.upwork.com/jobs/~022099890711927291671",
-      "addedAt": "2026-09-15T16:01:45.766Z"
-    },
-    {
-      "title": "WordPress, Lovable & Web Systems Developer – Ongoing Freelance Support",
-      "budget": "$15-$50/hr",
-      "score": 5100,
-      "url": "https://www.upwork.com/jobs/~022099906586435188127",
-      "addedAt": "2026-09-15T17:05:26.161Z"
-    },
-    {
-      "title": "LearnDash developer: build a seven-lesson product training course WordPress",
-      "budget": "$10-$40/hr",
-      "score": 4097,
-      "url": "https://www.upwork.com/jobs/~022099939347906508470",
-      "addedAt": "2026-09-15T19:19:42.352Z"
-    },
-    {
-      "title": "Building a responsive WordPress  site with booking appointments and contact form",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022099807185697603351",
-      "addedAt": "2026-09-15T10:29:14.028Z"
-    },
-    {
-      "title": "One-Page Website & Sign-Up Form",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022099856460066666166",
-      "addedAt": "2026-09-15T16:45:13.887Z"
-    },
-    {
-      "title": "Looking for WordPress resource to resolve critical error on website",
-      "budget": "$14-$28/hr",
-      "score": 2898,
-      "url": "https://www.upwork.com/jobs/~022099923525341607327",
-      "addedAt": "2026-09-15T18:11:15.080Z"
-    },
-    {
-      "title": "WordPress & WooCommerce Developer Website Optmztion+Updates+Fixes, PHP 8.3 Upgrd & Cstm Ordr Mngmnt",
-      "budget": "Fixed-price",
-      "score": 195,
-      "url": "https://www.upwork.com/jobs/~022099701045886956924",
-      "addedAt": "2026-09-15T03:27:16.193Z"
-    },
-    {
-      "title": "WordPress Developer Needed to Identify & Fix Website Bottlenecks",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022099883621857218695",
-      "addedAt": "2026-09-15T15:33:20.410Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
