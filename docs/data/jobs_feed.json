@@ -1,5 +1,33 @@
 [
   {
+    "id": "2099763172840841951",
+    "ciphertext": "~022099763172840841951",
+    "title": "Wordpress Spezialist",
+    "description": "Ich brauche Unterstützung bei der Erstellung und Betreuung von Wordpress-Seiten, vom einfachen Beantworten von Fragen über Upgrades, Webseiten-Umzügen, Problembehebung, Überarbeitung bis hin zu technischer Umsetzung komplexerer Vorgaben. Derzeit ist ein Projekt im Gange. Zukünftige Projekte sind möglich. \n\nWord press expert wanted for occasional work. Needs to know German. Detailed description above.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$20 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "german",
+      "wordpress-theme",
+      "wordpress-website"
+    ],
+    "score": 6100,
+    "coverLetter": "Hi! Ich spreche Deutsch und kann Sie direkt bei Ihrem laufenden WordPress-Projekt sowie bei zukünftigen Aufgaben unterstützen. \n\nAs a dedicated WordPress developer, I handle everything from complex custom technical implementations and site migrations to ongoing maintenance, troubleshooting, and theme updates. Whether you need immediate bug fixes or guidance on a current build, I ensure clean code and reliable performance. You can view one of my recent client builds here: https://www.thelifeyoucansave.org/\n\nLet's discuss your current project and how I can help you move forward. What specific tasks or issues on the active project need attention first?",
+    "publishedDateTime": "2026-09-15T07:32:53+0000",
+    "addedAt": "2026-09-15T07:35:22.715Z",
+    "url": "https://www.upwork.com/jobs/~022099763172840841951",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099763172840841951/apply/"
+  },
+  {
     "id": "2099745461567344775",
     "ciphertext": "~022099745461567344775",
     "title": "Wordpress Refresh & Fixes",
