@@ -1,10 +1,10 @@
 {
   "date": "2026-09-15",
   "lastDigestSentDate": "2026-09-14",
-  "totalScanned": 64,
-  "matchedFilters": 14,
+  "totalScanned": 65,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 6000,
       "url": "https://www.upwork.com/jobs/~022099890711927291671",
       "addedAt": "2026-09-15T16:01:45.766Z"
+    },
+    {
+      "title": "WordPress, Lovable & Web Systems Developer – Ongoing Freelance Support",
+      "budget": "$15-$50/hr",
+      "score": 5100,
+      "url": "https://www.upwork.com/jobs/~022099906586435188127",
+      "addedAt": "2026-09-15T17:05:26.161Z"
     },
     {
       "title": "Building a responsive WordPress  site with booking appointments and contact form",
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099611586725510935",
       "addedAt": "2026-09-15T00:33:12.427Z"
-    },
-    {
-      "title": "I want an exact duplicate of my website remade on a different domain.",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022099670936333301116",
-      "addedAt": "2026-09-15T01:27:16.241Z"
     }
   ]
 }

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2099906586435188127",
+    "ciphertext": "~022099906586435188127",
+    "title": "WordPress, Lovable & Web Systems Developer – Ongoing Freelance Support",
+    "description": "# WordPress, Lovable & Web Systems Developer – Ongoing Freelance Support\n\nWe are an established event-planning company supporting multiple continuing medical education programs and are looking for an experienced **web developer and technical partner** for ongoing freelance support.\n\nOur web environment includes **WordPress, Lovable-built sites, GitHub, Cloudflare, custom PHP development, and third-party integrations**.\n\nWe are gradually modernizing our websites and systems and need someone who can help manage migrations, deployments, troubleshooting, security, integrations, and ongoing technical maintenance.\n\nThis is not a one-time website build. We are looking for someone we can develop a **long-term relationship with and call on as projects arise**.\n\n## Primary Responsibilities\n\nProjects may include:\n\n* Migrating existing WordPress websites to new Lovable-built sites\n* Connecting, deploying, and maintaining Lovable projects\n* GitHub setup, version control, and backup workflows\n* Domain, DNS, and Cloudflare configuration\n* WordPress troubleshooting and maintenance\n* Coordinating redirects and SEO considerations during website migrations\n* Reviewing website security and deployment practices\n* Troubleshooting third-party integrations and custom functionality\n* Supporting and maintaining an existing custom WordPress access plug-in\n* Reviewing inherited code and repairing or improving it as needed\n* Helping us establish a repeatable process for future website migrations and launches\n\nWe already have an experienced webmaster who manages our existing WordPress environment and will remain involved.\n\nThe new developer will work collaboratively with her as we gradually transition sites and systems, particularly projects involving **Lovable, GitHub, custom development, and AI-assisted/vibe-coded websites**.\n\n## Custom WordPress Application Support\n\nWe also have a custom WordPress application that controls access to protected educational content.\n\nCurrent functionality includes:\n\n* User access verification\n* Email verification codes\n* PHP sessions\n* Access controls\n* Email delivery\n* Attendee logging\n* Gated educational content\n\nThe application is already operational but will need to be **reviewed, documented, troubleshot, maintained, and enhanced by a new developer**.\n\nStrong PHP and WordPress development experience is therefore important.\n\nWe are particularly interested in someone who is comfortable reviewing code written by another developer and can quickly understand how an inherited application works before recommending changes.\n\n## Technical Experience We Are Looking For\n\nStrong hands-on experience with:\n\n* WordPress development\n* Custom WordPress plug-ins\n* PHP\n* JavaScript\n* HTML/CSS\n* MySQL and WordPress database troubleshooting\n* Lovable\n* GitHub and version control\n* Cloudflare\n* DNS and domain management\n* Website migrations and deployment\n* CMS architecture and content management\n* Responsive website development\n* Website security and access-control systems\n* APIs and third-party integrations\n* Troubleshooting and maintaining inherited code\n\nExperience with **member access systems, authentication, gated content, attendee tracking, event platforms, or educational applications** is especially valuable.\n\n## Front-End + Back-End Understanding\n\nWe are not looking only for a designer or only for a developer.\n\nWe need someone who can understand the **front-end user experience as well as the technical systems behind the site** and help us make sound decisions as our web environment evolves.\n\nYou do not need to be the person designing every website, but you should be comfortable identifying usability issues, deployment risks, technical limitations, and better ways to structure what we are building.\n\n## Communication & Project Ownership\n\nCommunication is extremely important to us.\n\nTechnical ability matters, but **responsiveness, transparency, and project ownership are equally important**.\n\nWe are looking for someone who:\n\n* Communicates blockers immediately\n* Does not allow a project to stall without notifying us\n* Provides clear and concise status updates\n* Is comfortable joining Zoom/video meetings when needed\n* Coordinates well with other developers, vendors, and our webmaster\n* Keeps us included in relevant project communications\n* Documents meaningful technical changes\n* Leaves an environment understandable to another developer\n* Can manage a series of smaller projects as well as larger development work\n\nOur programs operate on firm deadlines, and there are times when websites or access systems are supporting live events. We therefore value someone who understands when an issue requires timely communication and escalation.\n\n## Engagement\n\nThis is an **ongoing independent-contractor relationship with fluctuating hours**.\n\nSome projects may be relatively small, such as DNS changes, deployment reviews, troubleshooting, or updates. Others may involve website migrations, application enhancements, or deeper technical work.\n\nWe are looking for a reliable developer who can become familiar with our environment over time and serve as a trusted technical resource as new needs arise.\n\n## To Apply\n\nPlease include:\n\n1. A brief description of your experience with WordPress, PHP, Lovable, GitHub, and Cloudflare\n2. Examples of WordPress plug-ins, gated-content systems, authentication systems, or custom applications you have supported\n3. Experience reviewing and maintaining code developed by someone else\n4. An example of a website migration or deployment you have managed\n5. Your hourly rate\n6. Your general availability\n7. Your preferred methods of communication for active projects\n\nPlease also let us know whether you are comfortable joining Zoom meetings and collaborating directly with an existing webmaster and other technical vendors.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$15 - $50/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "react-js",
+      "wordpress",
+      "javascript",
+      "mysql",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 5100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-15T17:03:30+0000",
+    "addedAt": "2026-09-15T17:05:42.530Z",
+    "url": "https://www.upwork.com/jobs/~022099906586435188127",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099906586435188127/apply/"
+  },
+  {
     "id": "2099905787183416221",
     "ciphertext": "~022099905787183416221",
     "title": "Website: LIVE 3 HOUR COLLABORATION",
