@@ -1,5 +1,33 @@
 [
   {
+    "id": "2099946147883876119",
+    "ciphertext": "~022099946147883876119",
+    "title": "Rebuild wordpress site",
+    "description": "See attached documents. They contain contractual terms",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 80,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nI’d love to help you rebuild your WordPress site according to your specifications. As a WordPress developer with extensive experience handling complete site rebuilds, custom theme development, and performance optimization, I can ensure a smooth, clean-code transition.\n\nWhether we are migrating from an existing setup, implementing modern Gutenberg blocks or ACF, or working from design files, I focus on building fast, secure, and easily manageable websites. You can review my recent WordPress work here: https://www.seeintl.org/\n\nCould you share the attached documents or give me a brief overview of the current site's structure so we can discuss the scope and timeline? \n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-09-15T22:40:27+0000",
+    "addedAt": "2026-09-15T22:41:12.404Z",
+    "url": "https://www.upwork.com/jobs/~022099946147883876119",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099946147883876119/apply/"
+  },
+  {
     "id": "2099976530954670215",
     "ciphertext": "~022099976530954670215",
     "title": "Looking for a front end designer experianced",
