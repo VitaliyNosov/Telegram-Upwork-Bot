@@ -1,10 +1,10 @@
 {
   "date": "2026-09-15",
   "lastDigestSentDate": "2026-09-14",
-  "totalScanned": 27,
-  "matchedFilters": 6,
+  "totalScanned": 28,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 95,
       "url": "https://www.upwork.com/jobs/~022099745461567344775",
       "addedAt": "2026-09-15T06:25:07.982Z"
+    },
+    {
+      "title": "Rebuild a website",
+      "budget": "Fixed-price",
+      "score": 94,
+      "url": "https://www.upwork.com/jobs/~022099765948081423261",
+      "addedAt": "2026-09-15T07:45:19.500Z"
     }
   ]
 }

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099765948081423261",
+    "ciphertext": "~022099765948081423261",
+    "title": "Rebuild a website",
+    "description": "We are looking to build a completely new website for Pallium Construction Accountants that positions us as a premium, modern accounting, financial intelligence and business advisory firm specialising exclusively in the construction industry. The website needs to clearly demonstrate that we understand the commercial and financial challenges faced by builders, civil contractors, major trade contractors and property developers, and that our role extends well beyond traditional tax and compliance to helping clients improve profitability, cash flow, project performance, financial control, tax planning and asset protection. It should be visually impressive but simple, strongly construction-focused, supported by real client results and case studies, and designed as a marketing and conversion tool that encourages the right established construction businesses to book a Discovery Meeting. Ultimately, we want visitors to quickly feel that Pallium understands construction, understands the numbers behind their business, has demonstrated evidence of making a difference, and is the accounting and advisory firm they should speak to.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.71,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 50,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "adaptive-web-design",
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 94,
+    "coverLetter": "Hi!\n\nI’d love to help you build a modern, high-converting WordPress website for Pallium Construction Accountants that positions you as the premier financial advisory firm for the construction industry. \n\nBuilding a site for an advisory firm requires balancing a premium, visually impressive aesthetic with clear messaging that drives conversions—specifically, booking Discovery Meetings. With extensive experience in custom WordPress development and translating complex business value into clean, responsive web design, I build sites that not only look professional but are engineered to turn visitors into clients. For example, I developed https://www.cchpca.org/, focusing on clear structure, performance, and user engagement. \n\nI can help you craft a site that effectively showcases your expertise in construction financials, cash flow, and project performance through case studies and clean layouts. \n\nDo you already have brand guidelines or wireframes ready, or would you need support with the design phase as well? Let’s talk about how to bring this to life.",
+    "publishedDateTime": "2026-09-15T07:44:32+0000",
+    "addedAt": "2026-09-15T07:45:20.944Z",
+    "url": "https://www.upwork.com/jobs/~022099765948081423261",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099765948081423261/apply/"
+  },
+  {
     "id": "2099763172840841951",
     "ciphertext": "~022099763172840841951",
     "title": "Wordpress Spezialist",
