@@ -1,5 +1,33 @@
 [
   {
+    "id": "2099890711927291671",
+    "ciphertext": "~022099890711927291671",
+    "title": "Wordpress/Elementor Mortgage Sites",
+    "description": "Two WordPress/Elementor sites for a licensed mortgage originator. Need someone comfortable with compliance-adjacent copy, not just implementation. First task is diagnosing why edits aren't reaching external visitors on one site; tell me in your proposal what you'd check and in what order.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$20 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "css",
+      "elementor"
+    ],
+    "score": 6000,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-15T16:00:17+0000",
+    "addedAt": "2026-09-15T16:02:10.998Z",
+    "url": "https://www.upwork.com/jobs/~022099890711927291671",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099890711927291671/apply/"
+  },
+  {
     "id": "2099887609087009503",
     "ciphertext": "~022099887609087009503",
     "title": "Ghost CMS Developer for Saaga Theme & Mine Record System",
