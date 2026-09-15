@@ -1,5 +1,31 @@
 [
   {
+    "id": "2099883621857218695",
+    "ciphertext": "~022099883621857218695",
+    "title": "WordPress Developer Needed to Identify & Fix Website Bottlenecks",
+    "description": "We’re looking for a WordPress developer to help us find and fix some bottlenecks on our existing website.\n\nThe website is already live. We need someone who can jump in, review the current setup, identify what is slowing things down or causing issues, and make the necessary fixes.\n\nWhat you’ll do:\n\nReview the existing WordPress website\nFind performance and technical issues\nFix bottlenecks and improve site speed\nCheck plugins, theme, database, and other possible issues\nMake sure everything continues working properly after the changes\n\nPlease share a couple of WordPress sites you’ve worked on and briefly tell us about any performance issues you’ve fixed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I specialize in diagnosing and resolving hidden performance bottlenecks on live WordPress sites. \n\nTo track down what's slowing your site down, I dive straight into a comprehensive audit of your theme, plugin conflicts, database bloat, and server response times. I recently optimized performance and Core Web Vitals for sites like https://www.cchpca.org/, cleaning up inefficient code and database queries to ensure smooth, lightning-fast load times without breaking any frontend functionality. \n\nI can jump in right away, review your current setup, and implement the necessary fixes to get your site running at peak performance. \n\nCould you share your website URL so I can take a quick initial look?",
+    "publishedDateTime": "2026-09-15T15:31:56+0000",
+    "addedAt": "2026-09-15T15:33:21.915Z",
+    "url": "https://www.upwork.com/jobs/~022099883621857218695",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099883621857218695/apply/"
+  },
+  {
     "id": "2099821557019845343",
     "ciphertext": "~022099821557019845343",
     "title": "Database Optimization and Traffic Filtering",
