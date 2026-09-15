@@ -1,12 +1,19 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 2,
-  "matchedFilters": 1,
+  "totalScanned": 3,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Looking for a front end designer experianced",
+      "budget": "$20-$45/hr",
+      "score": 4598,
+      "url": "https://www.upwork.com/jobs/~022099976530954670215",
+      "addedAt": "2026-09-15T21:43:55.521Z"
+    },
     {
       "title": "Need help with a hacked wordpress website",
       "budget": "Fixed-price",
