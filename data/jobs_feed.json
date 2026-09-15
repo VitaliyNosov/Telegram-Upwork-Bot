@@ -1,5 +1,29 @@
 [
   {
+    "id": "2099745461567344775",
+    "ciphertext": "~022099745461567344775",
+    "title": "Wordpress Refresh & Fixes",
+    "description": "https://docs.google.com/document/d/1n_FEgPYAxizu2wIT3KOCRYxeATQYzHY9_F_FZnyqQpE/edit?usp=sharing\n\nChanges Sep 2026\n\nOur website is not self hosted. It is hosted by Wordpress.\nAgencies should not apply and please do not use AI to respond.\nThis can lead to long term work, especially if you are skilled at building AI systems/agents and quantum computing\nCreate a staging website to test changes\nDocument all changes\nCheck all work before submitting screenshot proof in this document and Upwork\nNEVER push ANYTHING to production without our permission\nPlease do not contact us outside Upwork.\n\nCheck Ahrefs for any pressing issues\nLook at increasing website speed\nFind all broken links and fix\n“Quarterly” posts bring the most traffic. Place them in “Posts” and set up redirects. Test the redirects.\nEnsure images/Youtube/wordpress video and vimeo video can be embedded in posts\nWe moved to Wordpress hosting so we could easily switch themes. How can we do that without breaking our navigation AND switch back to our current theme? We would like to try to experiment with different themes\nRemove Kimi from lower right side.\nRemove lower left Wordpress AI search feature so it does not overlap with the podcast counter at the bottom\nHow can we toggle between our current homepage and future homepages? For example making all latest blog posts the home page?\nFix the following ridirects:\nwww.xxx.com/owntheroom\nxxx.com/decisions\nxxx.com/clarity\nxxx.com/25\nwww.xxx.com/planyourday\nTo….respectively in order a to i, b to ii etc.\nhttps://specialoffers.xxx.com/5reasons\nhttps://specialoffers.xxx.com/decisions\nhttps://specialoffers.xxx.com/clarity\nhttps://specialoffers.xxx.com/decisions\nhttps://specialoffers.xxx.com/planyourday\nWhat AI + other features in Wordpress and our plugin’s have we not turned on?\nWhat plugins should we remove?\nCalifornia law requires our website to be compliant and compatible with the needs of disabled users. We want the simplest plugin solution to this problem.\nCurrently not within scope. Dependent on successful delivery of the work above and will be new work\n“Page not found” page could be better formatted. \nUpdate terms.\nChanging the home page of additional website\nBulk download all files from Uscreen website.\nBulk download all files from Kajabi\nBulk download all files from 3 Libsyn Accounts",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.75,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 200,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 95,
+    "coverLetter": "Hi! I am an independent WordPress developer (no agencies here) and I wrote this response manually. \n\nI can easily handle your WordPress refresh, speed optimization, broken link fixes, and safe theme testing using a staging environment. My core stack includes advanced WordPress debugging, database optimization, redirection setup, and media embedding troubleshooting. For instance, I've successfully delivered complex performance and structure updates for sites like https://www.seeintl.org/ and https://www.cchpca.org/.\n\nI fully respect your workflow rules: I will document all changes, test everything in staging, never push to production without explicit permission, and keep all communications strictly within Upwork. \n\nWhen would you like me to set up the staging environment and start with the Ahrefs and speed audit?",
+    "publishedDateTime": "2026-09-15T06:23:11+0000",
+    "addedAt": "2026-09-15T06:25:09.415Z",
+    "url": "https://www.upwork.com/jobs/~022099745461567344775",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099745461567344775/apply/"
+  },
+  {
     "id": "2099701045886956924",
     "ciphertext": "~022099701045886956924",
     "title": "WordPress & WooCommerce Developer Website Optmztion+Updates+Fixes, PHP 8.3 Upgrd & Cstm Ordr Mngmnt",

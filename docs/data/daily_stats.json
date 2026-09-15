@@ -1,10 +1,10 @@
 {
   "date": "2026-09-15",
   "lastDigestSentDate": "2026-09-14",
-  "totalScanned": 23,
-  "matchedFilters": 4,
+  "totalScanned": 24,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099670936333301116",
       "addedAt": "2026-09-15T01:27:16.241Z"
+    },
+    {
+      "title": "Wordpress Refresh & Fixes",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022099745461567344775",
+      "addedAt": "2026-09-15T06:25:07.982Z"
     }
   ]
 }
