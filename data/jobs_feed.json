@@ -1,5 +1,32 @@
 [
   {
+    "id": "2099670936333301116",
+    "ciphertext": "~022099670936333301116",
+    "title": "I want an exact duplicate of my website remade on a different domain.",
+    "description": "I want an exact duplicate of my website www.peak-age.com remade on a different domain www.peak-age.net it is a WordPress site with woo commerce ..I want everything exactly the same images products setup plugins all the same.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wp-ecommerce"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can quickly and accurately clone your WordPress and WooCommerce site from `www.peak-age.com` to `www.peak-age.net`, ensuring all products, images, configurations, and plugins are seamlessly transferred so the new site is an exact duplicate.\n\nI specialize in WordPress website migration, database optimization, and WooCommerce store setups. I handle migrations regularly, ensuring zero data loss, intact permalinks, and fully functioning checkouts on the new domain without any downtime or broken assets. \n\nIf you'd like, you can check out a sample of my recent WordPress and WooCommerce work here: https://www.thelifeyoucansave.org/\n\nDo you already have hosting and domain access set up for `www.peak-age.net`, or would you like me to help configure that as well? Let’s get this clone started!",
+    "publishedDateTime": "2026-09-15T01:26:14+0000",
+    "addedAt": "2026-09-15T01:27:17.660Z",
+    "url": "https://www.upwork.com/jobs/~022099670936333301116",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099670936333301116/apply/"
+  },
+  {
     "id": "2099611586725510935",
     "ciphertext": "~022099611586725510935",
     "title": "Senior Developer: ClickFunnels, GoHighLevel, WordPress",
