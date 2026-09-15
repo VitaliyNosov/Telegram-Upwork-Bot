@@ -1,5 +1,33 @@
 [
   {
+    "id": "2099939347906508470",
+    "ciphertext": "~022099939347906508470",
+    "title": "LearnDash developer: build a seven-lesson product training course WordPress",
+    "description": "A UK digital agency is building an online training platform for a manufacturing client: WordPress with LearnDash Pro, one site, agency hosted. \nThe first course is product knowledge for a window system: seven short video lessons, a downloadable reference sheet per lesson, a knowledge check with a pass mark, a certificate of completion, and learner groups by customer company with a group leader who sees only their own staff's reports.\n\nWe are looking for an individual who has built courses like this in LearnDash before and can tell us, from experience, how long it takes.\n\nThe work:\n\nSet up LearnDash on a site we provide: course, lessons with video progression, quiz, certificate, groups and group leader, reporting, branding, mobile check and testing. Scripts and video are supplied. If you can also produce branded PDF reference sheets from supplied content, say so and price it separately.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$10 - $40/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 445,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "learndash",
+      "training-online-lms",
+      "wordpress-website"
+    ],
+    "score": 4097,
+    "coverLetter": "Hi! Having built several LMS platforms using LearnDash Pro, I can tell you that setting up a structured 7-lesson course with video progression, quizzes, certificates, and hierarchical group leader reporting typically takes around 3 to 5 working days, assuming all video and text assets are ready to go. \n\nI specialize in custom WordPress development and have deep experience configuring LearnDash ecosystems—including video-locking, advanced quiz logic, automated certificate generation, and WooCommerce/membership integrations. I can also easily format and generate the branded PDF reference sheets for each lesson if needed (I can add a quick day of work and a separate line item for that).\n\nYou can check out some of my recent WordPress and platform builds here: https://www.thelifeyoucansave.org/\n\nLet's hop on a quick chat to go over the design assets and nail down the exact timeline for your agency's client.",
+    "publishedDateTime": "2026-09-15T19:13:34+0000",
+    "addedAt": "2026-09-15T19:19:43.786Z",
+    "url": "https://www.upwork.com/jobs/~022099939347906508470",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099939347906508470/apply/"
+  },
+  {
     "id": "2099926545821152950",
     "ciphertext": "~022099926545821152950",
     "title": "WordPress Homepage Designer & Developer",
