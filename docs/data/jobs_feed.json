@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100232181959982871",
+    "ciphertext": "~022100232181959982871",
+    "title": "WooCommerce Website from HTML Template",
+    "description": "I need a freelancer to build a WooCommerce website using an existing HTML template. The work includes setting up the site, applying the template design, and making sure the store is ready for use. Please share relevant examples of similar projects and your approach to turning a static template into a functional online store.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 47,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "css",
+      "php"
+    ],
+    "score": 3148,
+    "coverLetter": "Hi! \n\nI can help you convert your static HTML template into a fully functional, high-performing WooCommerce store. \n\nMy approach involves setting up a clean WordPress environment, mapping your HTML/CSS structure into a custom WooCommerce theme, and configuring all core e-commerce features—including product catalogs, cart and checkout flows, and payment gateways. I ensure the site is fully responsive, optimized for speed, and easy for you to manage post-launch. \n\nYou can review my work on similar WordPress and WooCommerce builds here: https://www.snopud.com/. \n\nCould you share the HTML template so I can take a look at the structure and give you an exact timeline? \n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-09-16T14:37:35+0000",
+    "addedAt": "2026-09-16T14:39:16.836Z",
+    "url": "https://www.upwork.com/jobs/~022100232181959982871",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100232181959982871/apply/"
+  },
+  {
     "id": "2100231743808589959",
     "ciphertext": "~022100231743808589959",
     "title": "WordPress + GoHighLevel Expert Needed to Fix Website Issues",

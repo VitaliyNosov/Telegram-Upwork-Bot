@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 62,
-  "matchedFilters": 21,
+  "totalScanned": 63,
+  "matchedFilters": 22,
   "byKeyword": {
-    "wordpress developer": 20,
+    "wordpress developer": 21,
     "woocommerce": 1
   },
   "topJobs": [
@@ -51,6 +51,13 @@
       "addedAt": "2026-09-16T02:11:11.265Z"
     },
     {
+      "title": "WooCommerce Website from HTML Template",
+      "budget": "$15-$30/hr",
+      "score": 3148,
+      "url": "https://www.upwork.com/jobs/~022100232181959982871",
+      "addedAt": "2026-09-16T14:39:15.763Z"
+    },
+    {
       "title": "WordPress Web Designer / Content Designer — editorial & lifestyle websites",
       "budget": "$15-$30/hr",
       "score": 3100,
@@ -70,13 +77,6 @@
       "score": 2750,
       "url": "https://www.upwork.com/jobs/~022100002838352836278",
       "addedAt": "2026-09-16T02:27:14.603Z"
-    },
-    {
-      "title": "WordPress & WooCommerce Developer Website Optmztion+Updates+Fixes, PHP 8.3 Upgrd & Cstm Ordr Mngmnt",
-      "budget": "Fixed-price",
-      "score": 195,
-      "url": "https://www.upwork.com/jobs/~022100072359118420545",
-      "addedAt": "2026-09-16T04:03:19.325Z"
     }
   ]
 }
