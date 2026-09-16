@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100259900604864577",
+    "ciphertext": "~022100259900604864577",
+    "title": "Seeking an Avada Developer",
+    "description": "We’re looking for an experienced WordPress designer/developer who specializes in the Avada theme to help improve and refine an existing client website. The site is already built in Avada, but we need someone who can troubleshoot current issues and improve the design and responsiveness. In particular, we are having responsiveness issues on mobile. \n\nThe project will involve reviewing the existing website to:\n\n* Troubleshoot existing Avada layout and styling issues\n* Improve desktop, tablet, and mobile responsiveness\n* Fix spacing, alignment, sizing, and container issues\n* Refine headers, navigation, buttons, forms, and other site elements\n* Ensure pages display consistently across screen sizes\n\nThis is not a complete rebuild; it's an improvement of a current website (there are no changes needed on the desktop version, just the mobile version). We expect this to take 3-5 hours. \n\nWe would like to begin as soon as possible. Initial priority will be resolving the most noticeable design and responsive issues, followed by additional refinements.\n\nWhen applying, please briefly describe your Avada experience, share 2–3 relevant Avada website examples, and explain how you typically approach troubleshooting an existing Avada website.\n\nThis is a one-off project with the possibility to expand into a contract role, depending on Wordpress experience and project success.",
+    "isHourly": true,
+    "hourlyBudgetMin": 40,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$40 - $50/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "avada-theme-customization",
+      "wordpress-website",
+      "accessibility"
+    ],
+    "score": 5000,
+    "coverLetter": "Hi! I have extensive experience working with the Avada theme, specializing precisely in troubleshooting layout bugs, container alignment, and fixing mobile/tablet responsiveness issues without breaking desktop views. \n\nTo tackle an existing Avada site, my approach starts with an audit of the global options and custom CSS before diving into page-level Builder settings. I systematically inspect flex/grid containers, spacing, font scaling, and hidden element visibility across breakpoints to ensure a seamless mobile experience. \n\nYou can review some of my recent WordPress and layout work here: https://www.seeintl.org/\n\nI can start immediately and knock out these 3–5 hours of mobile refinements for you right away. What is the URL of the site we'll be working on?",
+    "publishedDateTime": "2026-09-16T16:27:14+0000",
+    "addedAt": "2026-09-16T16:29:18.778Z",
+    "url": "https://www.upwork.com/jobs/~022100259900604864577",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100259900604864577/apply/"
+  },
+  {
     "id": "2100257735014711063",
     "ciphertext": "~022100257735014711063",
     "title": "WordPress Developer for Website",

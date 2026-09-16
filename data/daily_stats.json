@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 74,
-  "matchedFilters": 24,
+  "totalScanned": 76,
+  "matchedFilters": 25,
   "byKeyword": {
-    "wordpress developer": 23,
+    "wordpress developer": 24,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 6150,
       "url": "https://www.upwork.com/jobs/~022100095325372733505",
       "addedAt": "2026-09-16T05:35:19.811Z"
+    },
+    {
+      "title": "Seeking an Avada Developer",
+      "budget": "$40-$50/hr",
+      "score": 5000,
+      "url": "https://www.upwork.com/jobs/~022100259900604864577",
+      "addedAt": "2026-09-16T16:29:17.604Z"
     },
     {
       "title": "WordPress Developer & UI/UX Implementer | Zoho CRM, Bookings, Billing & Member Portal Integration",
@@ -70,13 +77,6 @@
       "score": 3091,
       "url": "https://www.upwork.com/jobs/~022099997605004431495",
       "addedAt": "2026-09-16T02:07:16.085Z"
-    },
-    {
-      "title": "WordPress Developer for Website",
-      "budget": "$14-$28/hr",
-      "score": 2850,
-      "url": "https://www.upwork.com/jobs/~022100257735014711063",
-      "addedAt": "2026-09-16T16:19:16.495Z"
     }
   ]
 }
