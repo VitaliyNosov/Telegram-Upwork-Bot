@@ -1,5 +1,64 @@
 [
   {
+    "id": "2100324465070388918",
+    "ciphertext": "~022100324465070388918",
+    "title": "WordPress Developer (4 Local Business Websites)",
+    "description": "I run a performance marketing agency and need one reliable WordPress developer to build/rebuild websites for 4 local service business clients: a drywall contractor, a painter, a general contractor, and a electrician. All four are new clients of mine, so these are fresh builds on existing domains. Most likely you'll have access to a staging website. \n\nI'm looking for one person to handle all four sites from start to finish, not a team or agency. This could lead to ongoing work maintaining these sites and building future client sites as my agency grows.\n\nWhat you'll be working with\n-\tWordPress + Astra theme / Astra Pro\n-\tWP Rocket for caching/performance\n-\tGravity Forms for lead capture (redirect-to-thank-you-page confirmations, not inline text — this matters for our conversion tracking)\n-\tHosting: 2 sites on Hostinger, 1 on a host we'll confirm shortly (likely cPanel-based), and 1 to be confirmed\n-\tProject management via Asana — you'll be added as a collaborator there\n\nWhat I need you to do for each site\n1.\tBuild/rebuild on staging first, then push live. You must be comfortable creating a staging environment (via host-native tools where available, or subdirectory/subdomain method where the host doesn't support staging) and migrating cleanly to production without downtime.\n2.\tStructure every page for both traditional SEO and AI/AEO visibility. Specifically:\n-\tProper heading hierarchy — one H1 per page, logical nested H2s/H3s (not just \"make it look right,\" it needs to actually reflect content structure)\n-\tFAQ sections with FAQPage schema markup\n-\tJSON-LD structured data: LocalBusiness, Service, and Review/AggregateRating schema where applicable\n-\tClean semantic HTML — no generic div-soup from page builder bloat\n-\tInclude an llms.txt file at the root\n-\tFactual, citable content blocks (service descriptions, process steps, service area) written in clear declarative sentences — this content will be provided or outlined by me, but I need you to structure and implement it correctly\n3.\tBuild out Gravity Forms for lead capture with proper redirect confirmations tied to thank-you pages (needed for ad platform conversion tracking).\n4.\tStandard responsive, mobile-first build; fast load times (WP Rocket configured properly, not just installed).\n5.\tBasic on-page SEO setup: meta titles/descriptions, image alt text, XML sitemap, Search Console-ready.\n\nRequirements\n-\tProven experience with Astra theme / Astra Pro (please share example sites you've built with it)\n-\tExperience with WP Rocket configuration\n-\tExperience building and configuring Gravity Forms, including redirect confirmations\n-\tComfortable creating and managing staging environments and pushing to live cleanly\n-\tUnderstands on-page SEO fundamentals and can implement schema markup (JSON-LD) without a plugin doing all the thinking for you\n-\tFamiliarity with local service business sites (contractors, home services, or similar) is a strong plus\n-\tAvailable to communicate primarily via Google Chat (WhatsApp as backup)\n-\tAvailable to work inside Asana for task tracking\n\nTo Apply\nPlease include:\n\n1.\t2–3 examples of WordPress sites you've built using Astra/Astra Pro\n2.\tYour experience with staging-to-live workflows — briefly describe your process\n3.\tAn example of schema markup or AEO-focused structure you've implemented on a past project\n4.\tYour availability, and preferred working hours",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 158,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! I can build all four local service business sites from start to finish using your exact stack, including Astra Pro, WP Rocket, and advanced Gravity Forms setups with redirect-to-thank-you-page configurations. \n\nHere are answers to your questions:\n\n1. Astra Examples: You can see sites like https://www.snopud.com/ and https://www.daysforgirls.org/ in my portfolio, which feature clean, high-performance builds.\n2. Staging-to-Live Workflow: I build using host-native staging or a clean subdomain method, thoroughly QA mobile responsiveness and WP Rocket caching, then use tools like WP-CLI or native migration plugins for seamless zero-downtime deployment.\n3. Schema & AEO: I frequently implement manual JSON-LD (LocalBusiness, Service, FAQPage) directly into page templates alongside semantic HTML and custom `llms.txt` files for modern AI search visibility.\n4. Availability: I am available full-time and can communicate via Google Chat and manage tasks directly in Asana.\n\nLet’s chat about getting these four builds started!",
+    "publishedDateTime": "2026-09-16T20:46:54+0000",
+    "addedAt": "2026-09-16T20:49:22.124Z",
+    "url": "https://www.upwork.com/jobs/~022100324465070388918",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100324465070388918/apply/"
+  },
+  {
+    "id": "2100324793815193665",
+    "ciphertext": "~022100324793815193665",
+    "title": "Senior WordPress Engineer ( React, Gutenberg, GraphQL)",
+    "description": "Summary\nBudget Range: ($35 to $55/hr )\nLocation: United States (Hybrid), New York Metropolitan Area\nPayment Method: Only Upwork ( No direct Payments)\n\nWe're seeking a Senior WordPress Engineer to join a leading digital media organization and help build high-traffic consumer-facing web experiences serving millions of users.\nThis role will focus on WordPress CMS development, React-based front-end applications, GraphQL APIs, and integrations supporting content, video, subscriptions, analytics, advertising, and mobile platforms.\n\nResponsibilities:\n\n- Develop custom WordPress themes, plugins, Gutenberg blocks, post types, taxonomies, and editorial workflows \n- Build modern React applications and reusable UI components \n- Design and optimize GraphQL schemas, queries, mutations, and resolvers \n- Integrate with third-party platforms including video, identity, subscriptions, analytics, search, and CDN services \n- Support performance, accessibility, SEO, scalability, and production reliability \n- Participate in code reviews, testing, CI/CD, troubleshooting, and release management \n\n\nRequired Skills:\n\n- 5+ years of WordPress development experience \n- Strong PHP, WordPress, React, JavaScript/TypeScript, and GraphQL expertise \n- Experience building custom themes, plugins, Gutenberg blocks, and content models \n- Experience with REST APIs, headless CMS architectures, and application integrations \n- Strong troubleshooting skills across frontend, backend, API, and caching layers \n\n\nPreferred Experience:\n\n- WordPress VIP \n- Media, publishing, streaming, newsroom, or other high-traffic consumer web platforms \n- Subscription, authentication, paywall, or entitlement solutions \n- Node.js, Docker, CI/CD, cloud platforms, Elasticsearch, analytics, CDN, or ad-tech technologies \n\nIf you've built scalable content platforms using WordPress, React, and GraphQL and have experience supporting large-scale digital products, we'd love to speak with you.\n\nNote: It's a full-time role. Please don't apply if you can't commit 40 hours a week",
+    "isHourly": true,
+    "hourlyBudgetMin": 35,
+    "hourlyBudgetMax": 55,
+    "budgetDisplay": "$35 - $55/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 77,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "cms-development",
+      "javascript",
+      "react-js",
+      "css",
+      "graphql",
+      "html",
+      "typescript"
+    ],
+    "score": 5600,
+    "coverLetter": "Hi! \n\nI’ve spent years building high-traffic, scalable content platforms and custom WordPress architectures leveraging React, Gutenberg, and GraphQL. I understand the engineering demands of media organizations serving millions of users, particularly when it comes to custom Gutenberg block development, complex content models, and optimizing performance across high-traffic environments. \n\nIn my recent work, including large-scale builds like https://about.offerup.com/, I focus heavily on clean code, robust API integrations, and ensuring seamless frontend-backend performance under heavy load. I am fully available for 40 hours a week and bring deep expertise across PHP, modern JavaScript/TypeScript, and headless/hybrid WordPress deployments.\n\nDo you have a specific stack or timeline in mind for the initial release phase? Let's chat about how I can hit the ground running with your team.",
+    "publishedDateTime": "2026-09-16T20:48:06+0000",
+    "addedAt": "2026-09-16T20:49:20.313Z",
+    "url": "https://www.upwork.com/jobs/~022100324793815193665",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100324793815193665/apply/"
+  },
+  {
     "id": "2100321133771739271",
     "ciphertext": "~022100321133771739271",
     "title": "WordPress Designer Required – Build a 5-Page UK Business Acquisition Website From Supplied Mock-ups",
