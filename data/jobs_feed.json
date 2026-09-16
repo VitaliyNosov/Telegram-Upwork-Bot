@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100044015452353951",
+    "ciphertext": "~022100044015452353951",
+    "title": "Web Development for small wrodpress site",
+    "description": "Minor work on the website of a startup company. 1) Enhanced appeal of site 2) make recommendation to increase professional look and feel of the website 3) increase the polish of the site. 4) set up processing inquiry form sends message/alerts to specified emails and 5) set up visitor counting",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$20 - $35/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "wordpress-website"
+    ],
+    "score": 3500,
+    "coverLetter": "Hi! I can help you polish your startup's WordPress site, elevate its professional look and feel, and ensure your inquiry forms and visitor tracking are set up reliably. \n\nStartups often need that extra layer of polish to convert visitors, and I specialize in refining design details, improving UI/UX flow, and setting up robust backend configurations like functional notification forms and analytics. For instance, I recently revamped sites like https://www.seeintl.org/ and https://waapple.org/, focusing heavily on clean aesthetics, user engagement, and seamless functionality. \n\nBeyond implementing the requested updates, I can also provide a quick, actionable checklist of recommendations to instantly give your site a more enterprise-ready feel. \n\nWhen are you looking to get started on this?",
+    "publishedDateTime": "2026-09-16T02:09:41+0000",
+    "addedAt": "2026-09-16T02:11:12.459Z",
+    "url": "https://www.upwork.com/jobs/~022100044015452353951",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100044015452353951/apply/"
+  },
+  {
     "id": "2099997605004431495",
     "ciphertext": "~022099997605004431495",
     "title": "Website Performance Optimization Specialist",
