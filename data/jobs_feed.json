@@ -1,5 +1,29 @@
 [
   {
+    "id": "2100199403319033623",
+    "ciphertext": "~022100199403319033623",
+    "title": "Woocommerce + shipping automation",
+    "description": "I need some additional help with my existing WooCommerce website. My main goal is to streamline the checkout, shipping, and order process and automate as much as possible for both me and the customer.\n\nHere’s what I’d like help with:\n\t•\tConnect WooCommerce to Shippo so orders and shipping information automatically transfer over and I can easily purchase/print labels\n\t•\tAutomatically send customers order confirmation and shipping/tracking emails\n\t•\tHave tracking information automatically sync back to WooCommerce\n\t•\tReview and streamline the checkout process so it’s simple and seamless, especially on mobile\n\t•\tMake sure shipping rates/settings and product weights are set up correctly\n\t•\tMake sure inventory automatically updates when an order is placed\n\t•\tStreamline cancellations, full/partial refunds, customer refund emails, and inventory adjustments when an order is refunded/cancelled\n\t•\tUpdate inventory for a few existing products\n\t•\tAdd 2 new products for now (with about 3–4 more coming over the next few months)\n\t•\tReview the overall order process and recommend any other useful automations that would reduce manual work for me\n\nIdeally, when I receive an order, most things happen automatically and I mainly just need to review the order, print the shipping label, pack, and ship it.\n\nSince you’ve worked on my website before, I’d also love for you to take a look at the current setup and let me know if you see anything else we should improve or streamline. Please check with me before adding any new paid plugins/subscriptions.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.68,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 144,
+    "coverLetter": "Hi! I can definitely help you set up this end-to-end automation so your fulfillment workflow runs smoothly with minimal manual effort. \n\nI have extensive experience with WooCommerce setup, shipping integrations (like Shippo), and streamlining checkout and inventory synchronization. I will get your Shippo connection, tracking sync, automated emails, and refund/cancellation workflows dialed in. I'll also review your mobile checkout and current setup—making sure to check with you before adding any paid plugins—and configure your new products and inventory accurately.\n\nIf you'd like, you can check out some of my previous work here: https://www.thelifeyoucansave.org/\n\nLet’s chat about your current setup and get these automations in place!",
+    "publishedDateTime": "2026-09-16T12:26:16+0000",
+    "addedAt": "2026-09-16T12:27:19.036Z",
+    "url": "https://www.upwork.com/jobs/~022100199403319033623",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100199403319033623/apply/"
+  },
+  {
     "id": "2100189008670085255",
     "ciphertext": "~022100189008670085255",
     "title": "WordPress Website Deployment",
