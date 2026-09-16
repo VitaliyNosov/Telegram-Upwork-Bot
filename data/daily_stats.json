@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 20,
-  "matchedFilters": 7,
+  "totalScanned": 21,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022099979564698947719",
       "addedAt": "2026-09-16T00:55:17.685Z"
+    },
+    {
+      "title": "Website Performance Optimization Specialist",
+      "budget": "$15-$30/hr",
+      "score": 3091,
+      "url": "https://www.upwork.com/jobs/~022099997605004431495",
+      "addedAt": "2026-09-16T02:07:16.085Z"
     },
     {
       "title": "New website on elementor",

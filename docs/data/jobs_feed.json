@@ -1,5 +1,34 @@
 [
   {
+    "id": "2099997605004431495",
+    "ciphertext": "~022099997605004431495",
+    "title": "Website Performance Optimization Specialist",
+    "description": "We need a freelancer to improve our website’s performance and strengthen Core Web Vitals. The work includes identifying current issues, implementing fixes, and verifying results through testing and reporting. You should be able to recommend practical improvements, execute changes efficiently, and help ensure the site performs well across key metrics. Experience with performance optimization and clear communication are important for this project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.53,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 86,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "seo",
+      "web-design"
+    ],
+    "score": 3091,
+    "coverLetter": "Hi! Improving Core Web Vitals and boosting overall site performance is right in my wheelhouse. \n\nWith extensive experience in WordPress speed optimization, I specialize in diagnosing bottlenecks—from heavy assets and database bloat to suboptimal caching and server configurations—and implementing clean, efficient fixes that measurably improve metrics. For instance, I recently optimized high-traffic sites like https://www.snopud.com/, ensuring fast load times and strong Core Web Vitals compliance across mobile and desktop. \n\nMy process covers a thorough audit of your current setup, targeted code and asset optimization, and a final performance report so you can clearly see the before-and-after results. \n\nCould you share your current site URL so I can take a quick look at its performance bottlenecks?",
+    "publishedDateTime": "2026-09-16T02:04:50+0000",
+    "addedAt": "2026-09-16T02:07:17.228Z",
+    "url": "https://www.upwork.com/jobs/~022099997605004431495",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099997605004431495/apply/"
+  },
+  {
     "id": "2099979597634132033",
     "ciphertext": "~022099979597634132033",
     "title": "Website for Entertainment Band Hire",
