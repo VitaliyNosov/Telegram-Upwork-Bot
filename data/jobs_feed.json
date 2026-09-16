@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100146578778669981",
+    "ciphertext": "~022100146578778669981",
+    "title": "Website for Academics",
+    "description": "I am developing **Visibility for Academics**, a service providing professional personal websites for academics, professors and researchers.\n\nI need a freelancer to build the first high-quality website and create a reusable framework that can be cloned and adapted for future clients. Each website should include sections such as:\n\n* Profile and biography\n* Research and publications\n* Projects and collaborations\n* Teaching and supervision\n* Media and speaking engagements\n* Blog or insights\n* Contact details\n\nThe platform should be:\n\n* Professional, fast and mobile-friendly\n* Secure and search-engine optimised\n* Easy for non-technical academics to update\n* Flexible in its colours, banners, fonts and layouts\n* Very low maintenance\n* Scalable for multiple client websites\n\nI would prefer a modern alternative to WordPress, such as **Astro or Next.js**, combined with a straightforward content-management system and hosting through **Cloudflare Pages, Netlify or Vercel**. However, I am open to recommendations.\n\nI actively want AI to be used to reduce development time and cost. Possible tools include **ChatGPT/Codex, Claude, Cursor, GitHub Copilot, Figma AI, Relume and v0**. I can also use AI to help prepare client content, biographies and website copy.\n\nThe freelancer will remain responsible for reviewing the AI-assisted work, ensuring quality, security, accessibility and reliable performance.\n\nThe initial deliverables should include:\n\n1. A recommended technical solution\n2. A reusable design and website template\n3. One completed demonstration website\n4. A simple content-editing system\n5. Source code and accounts under my control\n6. Instructions for cloning the website for future clients\n7. Basic documentation and training\n\nPlease provide examples of similar work, your recommended approach, estimated timetable, fixed-price quotation, ongoing costs and an explanation of how AI will help reduce the overall cost.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.67,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 1186,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 93,
+    "coverLetter": "Hi! \n\nBuilding a fast, scalable, and easily clonable framework for academic websites is a fantastic project. While my background is deeply rooted in WordPress and PHP, I also work extensively with modern headless architectures, REST APIs, and modern deployment pipelines. \n\nFor \"Visibility for Academics,\" I recommend a modern Headless approach using Next.js or Astro paired with a user-friendly headless CMS (like Strapi or Contentful) deployed via Vercel or Netlify. This stack gives non-technical academics an intuitive editing experience while ensuring lightning-fast speeds, top-tier security, and effortless one-click cloning for future clients. \n\nTo accelerate delivery and lower your costs, I leverage AI tools like Cursor, Claude, and GitHub Copilot to rapidly scaffold components, write clean layouts, and automate template generation, while I personally review every line of code for performance, accessibility, and security.\n\nA great example of a clean, content-driven site I've built can be seen at https://www.thelifeyoucansave.org/. \n\nWould you be open to a quick chat to discuss the ideal headless CMS for your non-technical users?",
+    "publishedDateTime": "2026-09-16T08:56:54+0000",
+    "addedAt": "2026-09-16T08:57:26.189Z",
+    "url": "https://www.upwork.com/jobs/~022100146578778669981",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100146578778669981/apply/"
+  },
+  {
     "id": "2100124240536322973",
     "ciphertext": "~022100124240536322973",
     "title": "Senior WordPress Developer – Course Booking Website, SEO, Schema & AI Search",
