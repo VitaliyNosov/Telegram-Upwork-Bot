@@ -1,5 +1,32 @@
 [
   {
+    "id": "2100307312445552031",
+    "ciphertext": "~022100307312445552031",
+    "title": "Breakdance WordPress Developer Needed for Website Rebuild and Ongoing Work",
+    "description": "We’re looking for an experienced Breakdance freelancer to help improve two WordPress websites.\n\nThe first project is to rebuild https://www.denverwallpaperpros.com/ from Oxygen to Breakdance, using https://aspenwallpaperpros.com/ as the template. The websites belong to the same company, and you’ll have access to both. These are simple 6 or so page websites currently.\n\nAfter the rebuild, both websites will need a light facelift. This will include improving the design, adding new photos and content, updating features such as the homepage image slider, improving internal links, and tightening up schema markup.\n\nThis will begin as a larger one-time project, followed by ongoing smaller updates.\n\nRequirements:\n\nStrong Breakdance experience\nGood understanding of SEO best practices\nExperience with schema markup\nA good eye for modern website design\nBasic image editing and optimization skills\nReliable communication and attention to detail\n\nWhen applying, please send examples of Breakdance websites you’ve built and briefly describe your SEO and schema experience.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$15 - $25/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "website-redesign"
+    ],
+    "score": 2650,
+    "coverLetter": "Hi! I have strong experience working with Breakdance, Oxygen, and site rebuilds, and I’m ready to help you migrate and refresh your sites. \n\nTo answer your prompt: I frequently implement technical SEO best practices during builds, including structured data and local schema markup to help service-business sites rank better in local search. I also focus heavily on image optimization and Core Web Vitals to keep sites fast and modern. \n\nI’ve built numerous WordPress sites with clean, modern layouts (such as https://www.seeintl.org/), and I’m comfortable executing the layout transition from Oxygen to Breakdance while applying your new content, sliders, and internal linking strategy. \n\nFollowing this initial rebuild, I am fully available for ongoing maintenance and updates. \n\nCould you share the timeline you have in mind for getting both sites completed?",
+    "publishedDateTime": "2026-09-16T19:36:00+0000",
+    "addedAt": "2026-09-16T19:37:20.615Z",
+    "url": "https://www.upwork.com/jobs/~022100307312445552031",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100307312445552031/apply/"
+  },
+  {
     "id": "2100293332855600010",
     "ciphertext": "~022100293332855600010",
     "title": "WordPress Developer for Agency Client Websites",
