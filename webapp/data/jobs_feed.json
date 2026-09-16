@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100002838352836278",
+    "ciphertext": "~022100002838352836278",
+    "title": "WordPress Developer: Paywall Integration for Financial News Publication",
+    "description": "We are seeking a capable WordPress developer to implement a robust paywall for a financial news publication covering sub-Saharan Africa.\n\nRequirements for Application:\n\n1.  Block Editor Expertise: Strict proficiency with the native WordPress block editor (or plugins extending it, like GenerateBlocks) is required. We do not use third-party page builders, and applications proposing their use will be rejected immediately.\n\n2.  Demonstrable Experience: You must have a proven track record of configuring paywalls for content-heavy sites. Please include direct links to at least two relevant past projects in your proposal.\n\n3. Implementation Plan: To demonstrate your understanding of the task, please outline your proposed technical approach in exactly four steps within your cover letter.\n\n4. Preliminary Trial: Candidates must agree to a paid, two-hour initial test run. We do not commit to substantial upfront hours prior to assessing the quality and execution of your work.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "payment-gateway-integration",
+      "woocommerce",
+      "wordpress-website"
+    ],
+    "score": 2750,
+    "coverLetter": "Hi! \n\nI have deep expertise in native Gutenberg block development and WooCommerce-based membership/subscription systems, making this paywall integration for your financial news publication a great fit. I completely respect your stance on avoiding heavy third-party page builders.\n\nHere is my 4-step technical approach:\n1. Audit your current block-based setup and user roles to map out the subscription tiers.\n2. Integrate WooCommerce (or a dedicated membership plugin like Paid Memberships Pro) with a secure payment gateway.\n3. Restrict content visibility dynamically using native block conditional logic or custom Gutenberg blocks.\n4. Thoroughly test the checkout, subscriber login states, and paywall triggers on a staging environment.\n\nYou can review my work on content-heavy, high-performance sites like https://www.cchpca.0rg/ and https://www.snopud.com/. \n\nI am fully prepared for the paid two-hour initial test run to prove my execution quality. When would you like to schedule it?",
+    "publishedDateTime": "2026-09-16T02:25:22+0000",
+    "addedAt": "2026-09-16T02:27:16.123Z",
+    "url": "https://www.upwork.com/jobs/~022100002838352836278",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100002838352836278/apply/"
+  },
+  {
     "id": "2100044015452353951",
     "ciphertext": "~022100044015452353951",
     "title": "Web Development for small wrodpress site",
