@@ -1,5 +1,60 @@
 [
   {
+    "id": "2099979597634132033",
+    "ciphertext": "~022099979597634132033",
+    "title": "Website for Entertainment Band Hire",
+    "description": "We need a website for an entertainment band hire service in Australia. The site should make it easy for customers to find and book bands, manage payments, and leave reviews. We also want a clean, professional design that reflects the entertainment industry and supports long-term growth. Please include a strong focus on user experience, clear booking flow, and reliable payment handling. If you have experience building similar service-based websites, we’d love to hear how you would approach this project.\n\nExperience with music/band promotion is essential\n\nThe website will require the gallery to present media video files and be easy to search and navigate.\n\nOngoing management of SEO with Claude AI linked is essential",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "graphic-design",
+      "logo-design",
+      "performance-monitoring",
+      "wordpress"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! Building a high-converting, entertainment-focused booking platform for your band hire service in Australia is right in my wheelhouse. \n\nWith extensive experience building custom WordPress and WooCommerce service platforms, I can design a seamless booking flow, secure payment integration, and a searchable media gallery optimized for video performance. For instance, I built clean, user-friendly platforms like (https://www.seeintl.org/) with a strong focus on UX and performance. While my background is deeply rooted in WordPress development and speed optimization, I also integrate modern AI workflows—including Claude AI tools—to streamline ongoing SEO and content management as your platform grows. \n\nDo you already have branding and a specific booking plugin in mind, or would you like recommendations for the best setup? Let's chat about how to bring this to life.",
+    "publishedDateTime": "2026-09-16T00:53:32+0000",
+    "addedAt": "2026-09-16T00:55:20.851Z",
+    "url": "https://www.upwork.com/jobs/~022099979597634132033",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099979597634132033/apply/"
+  },
+  {
+    "id": "2099979564698947719",
+    "ciphertext": "~022099979564698947719",
+    "title": "WordPress Web Designer / Content Designer — editorial & lifestyle websites",
+    "description": "looking for a WordPress designer to help customize and polish an existing website for Enamra, a lifestyle editorial platform centered around community, taste, culture, and discovery.\n\nThe website has already been designed using a 17th Avenue WordPress theme, so I am not looking for a full website redesign or a new site from scratch. I need someone who can take the existing foundation and make it feel more like a thoughtful, elevated digital publication.\n\nEnamra covers lifestyle content across TABLE, HOME, SELF, LOVE, and CULTURE, including personal essays, recommendations, travel/hospitality, interiors, entertaining, relationships, and cultural stories.\n\nVisually, I’m drawn to editorial websites such as Camille Styles, particularly the way articles have strong hierarchy, intentional typography, photography, and clear visual separation between the article header and body. The goal is not to copy another publication, but to bring that level of editorial polish and usability to the existing Enamra brand.\n\nI already have established branding, fonts, colors, photography direction, written content, and a WordPress site. I need someone who is comfortable working within those elements rather than creating a completely new brand direction.\n\nScope of Work\n\nThe project will include:\n\n* Homepage customization\n    * Improve the hierarchy and overall editorial feel\n    * Create a strong featured-story area\n    * Organize recent/featured articles intentionally rather than creating a standard blog feed\n    * Incorporate TABLE, HOME, SELF, LOVE and CULTURE\n    * Add areas for recurring editorial franchises/recommendations\n    * Add newsletter/community calls to action\n    * Improve spacing, typography, photography placement and overall visual flow\n* Article/post template\n    * Create one reusable editorial article layout\n    * Strong category, headline, subheading/dek, author and image treatment\n    * Clear visual/color distinction between the article header and reading area\n    * Beautiful typography and spacing\n    * Ability to incorporate full-width images, pull quotes, product/recommendation sections and links\n    * Related-story section\n    * Email signup within or at the end of articles\n    * Template must be easy for me to reuse without needing a designer for every new story\n* Category/secondary pages\n    * Refine TABLE, HOME, SELF, LOVE and CULTURE landing pages\n    * Create consistency across About and other key site pages\n    * Improve navigation and make content easier to discover\n* Flodesk integration\n    * Connect/embed existing Flodesk forms\n    * Homepage “Come Sit With Us” email capture\n    * Article email capture\n    * Footer signup\n    * Make sure forms work properly on desktop and mobile\n* WordPress cleanup\n    * Remove/hide unnecessary demo content from the purchased theme\n    * Make sure categories/tags and post structure are set up logically\n    * Check navigation, buttons and links\n    * Make sure the site is responsive and polished on mobile\n    * Maintain reasonable site performance\n\nImportant\n\nI want to be able to manage the site myself after this project. Please avoid unnecessarily complicated custom coding or a setup that requires a developer every time I want to change a photo, feature a new article, or publish a story.\n\nThis is primarily an editorial design + WordPress customization project, not a branding project and not a ground-up website development project.\n\nIdeal Freelancer\n\nI’m looking for someone who:\n\n* Has strong WordPress experience\n* Has experience customizing existing themes\n* Understands editorial/magazine/lifestyle website design\n* Has a strong eye for typography, spacing and imagery\n* Understands mobile-responsive design\n* Can integrate Flodesk\n* Can work with an established brand rather than trying to redesign it\n* Communicates clearly and can recommend solutions when something within the existing theme needs to be adjusted\n\nExperience with 17th Avenue WordPress themes is a major plus.\n\nPlease send 2–3 examples of editorial, lifestyle, magazine, fashion, food, interiors or similar content-driven WordPress websites you’ve personally worked on. I’m especially interested in seeing how you have designed article pages and homepages.\n\nDeliverables\n\nAt completion, I would like to have a polished homepage, reusable editorial article template, polished category pages, About/secondary page consistency, working Flodesk integrations, cleaned-up WordPress backend/demo content, mobile optimization, and a short handoff showing me how to update featured stories, publish articles, change images, and use the new layouts myself.\n\nTimeline: Ideally completed within 1–2 weeks\nBudget: Approximately $400–$700 fixed price, depending on experience and proposed scope.\n\nApplication Questions\n\n1. Please share 2–3 editorial or content-heavy WordPress sites you personally designed or customized.\n2. Have you worked with 17th Avenue WordPress themes before?\n3. Have you integrated Flodesk with WordPress?\n4. How would you approach customizing an existing theme without unnecessarily rebuilding the site?\n5. Can you create reusable layouts that I can easily maintain after the project is finished?",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 3100,
+    "coverLetter": "Hi! Here are the answers to your questions to get straight to it:\n\n1. Two content-heavy editorial WordPress sites I’ve customized include [https://waapple.org/](https://waapple.org/) and [https://about.offerup.com/](https://about.offerup.com/), both featuring clean typography and strong content hierarchies.\n2. Yes, I am very familiar with working within pre-built frameworks like 17th Avenue themes.\n3. Yes, I have successfully integrated Flodesk email capture forms with WordPress sites.\n4. I approach existing themes by leaning into their native customizer and block settings rather than overriding everything with custom code, ensuring the site stays fast and lightweight.\n5. Absolutely. I will set up intuitive, reusable templates using Gutenberg blocks so you can easily publish and manage new lifestyle stories without needing a developer.\n\nI would love to help elevate Enamra’s digital publication feel across TABLE, HOME, SELF, LOVE, and CULTURE within your 1–2 week timeline. \n\nWhen would you like to chat about the details?",
+    "publishedDateTime": "2026-09-16T00:53:32+0000",
+    "addedAt": "2026-09-16T00:55:19.189Z",
+    "url": "https://www.upwork.com/jobs/~022099979564698947719",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022099979564698947719/apply/"
+  },
+  {
     "id": "2100024306504219201",
     "ciphertext": "~022100024306504219201",
     "title": "Senior WordPress Developer for ABC Fitness API Integration",
