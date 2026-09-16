@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100223474194503745",
+    "ciphertext": "~022100223474194503745",
+    "title": "WordPress Developer & UI/UX Implementer | Zoho CRM, Bookings, Billing & Member Portal Integration",
+    "description": "Seeking a developer to build the complete Sunshine Institute website (WordPress), including the Sunshine Pages Directory as a major section. You will be solely responsible for the site's UI/UX implementation — translating a pre-developed brand identity into a polished, functional web experience — and for all Zoho integrations. \n\nWe have a suite of job listings all related to this project. Please check our other listings to see if there is more you can do.\n\nResponsibilities:\nDesign & Build:\nBuild the full WordPress site for the Sunshine Institute, implementing the provided brand identity (colors, typography, logos) into a cohesive, calming, accessible web design.\nCreate the UI/UX for all site features: advanced directory search/filter (by name, location, category, keywords, tags), provider profiles, events calendar, appointment booking, space rental, and member portal.\nDesign responsive layouts (desktop/mobile) for all page types, including the distinct-but-related Directory section.\nBuild listing tier displays (basic, bold, featured, banner ads) and the upgrade purchase flow.\nIntegration & Automation:\nConfigure Zoho CRM, Zoho Bookings (appointments + space rental), and Zoho Books/Subscriptions (billing) for unified operations.\nIntegrate ZPortals (or equivalent) for the unified member/practitioner portal (listing management, bookings, billing).\nConnect Zoho CRM to WordPress (API, Zoho Flow, or Zapier/Make) for real-time listing sync.\nAutomate billing workflows for appointments, space rental, and directory advertising upgrades.\nSet up data export pipeline (CSV/XML) from Zoho CRM for print directory production.\nConfigure newsletter signup and email marketing connections (Zoho Campaigns).\nImplement SEO best practices, performance optimization, and accessibility standards (WCAG).\nHandover:\nDocument all workflows and provide training for ongoing management.\nRequired Skills:\nWordPress development (custom themes, plugin configuration, HivePress/GeoDirectory or similar)\nUI/UX design and implementation skills (ability to translate brand guidelines into polished web design without a separate designer)\nZoho One suite setup and automation (CRM, Bookings, Books/Subscriptions, Flow)\nAPI integration (Zoho Flow, Zapier/Make)\nExperience with directory/marketplace sites, booking systems, and billing automation\nAccessibility and responsive design expertise\nDeliverables:\nFully functional Sunshine Institute website with integrated Sunshine Pages Directory\nComplete UI/UX implementation across all site features (directory, booking, space rental, portal)\nAutomated Zoho workflows (CRM sync, bookings, billing, email)\nData export pipeline for print production\nDocumentation and training materials\nScreening Questions:\nDescribe a WordPress site you built end-to-end where you were responsible for both the UI/UX implementation and the development. Include links.\nDescribe a Zoho CRM integration project you completed. What was the biggest technical challenge?\nHow would you structure a directory with tiered listings (free, bold, featured, banner ads) synced to a CRM?\nWhat is your experience with Zoho Bookings and automated billing workflows?\nPilot Milestone:\nBuild a staging site with the brand identity applied to the homepage and one directory listing template, plus a working demo of CRM-to-WordPress listing sync (3 sample listings, 1 upgrade flow).\nTimeline: 8–12 weeks\nSuccess Criteria:\nPolished, brand-consistent site design implemented without a separate designer\nListings updated in CRM appear on the site within 5 minutes\nBooking, space rental, and billing workflows function end-to-end\nRed Flags:\nPortfolio showing only back-end work with weak visual implementation\nNo Zoho integration examples\nOverpromising on timeline or budget",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 47,
+    "budgetDisplay": "$25 - $47/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "wordpress-website",
+      "zoho-platform",
+      "zapier"
+    ],
+    "score": 4750,
+    "coverLetter": "Hi! To answer your screening questions:\n\n1. I recently built a full end-to-end WordPress site for Washington's Apple Commission (https://waapple.org/), translating brand guidelines into a polished, accessible UI while handling all custom development. \n\n2. I regularly integrate WordPress with complex third-party tools like Zoho, CRM platforms, and payment gateways using custom APIs, webhooks, and automation tools (Zapier/Make/Zoho Flow). For tiered directories, I typically structure them using custom post types and taxonomies with conditional meta fields synced bi-directionally to the CRM, ensuring upgrade tiers (featured, bold, banners) automatically adjust display logic and active billing statuses. \n\nWith deep experience in custom WordPress builds, directory plugins, UI/UX implementation, and Zoho suite automation, I can deliver the complete Sunshine Institute platform and directory seamlessly. \n\nWould you like to discuss the pilot milestone for the homepage and directory staging site?",
+    "publishedDateTime": "2026-09-16T14:01:44+0000",
+    "addedAt": "2026-09-16T14:03:43.448Z",
+    "url": "https://www.upwork.com/jobs/~022100223474194503745",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100223474194503745/apply/"
+  },
+  {
     "id": "2100199403319033623",
     "ciphertext": "~022100199403319033623",
     "title": "Woocommerce + shipping automation",

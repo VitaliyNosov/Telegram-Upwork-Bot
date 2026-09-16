@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 57,
-  "matchedFilters": 19,
+  "totalScanned": 59,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 18,
+    "wordpress developer": 19,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 6150,
       "url": "https://www.upwork.com/jobs/~022100095325372733505",
       "addedAt": "2026-09-16T05:35:19.811Z"
+    },
+    {
+      "title": "WordPress Developer & UI/UX Implementer | Zoho CRM, Bookings, Billing & Member Portal Integration",
+      "budget": "$25-$47/hr",
+      "score": 4750,
+      "url": "https://www.upwork.com/jobs/~022100223474194503745",
+      "addedAt": "2026-09-16T14:03:41.815Z"
     },
     {
       "title": "Looking for a front end designer experianced",
@@ -70,13 +77,6 @@
       "score": 195,
       "url": "https://www.upwork.com/jobs/~022100072359118420545",
       "addedAt": "2026-09-16T04:03:19.325Z"
-    },
-    {
-      "title": "WordPress Developer Needed — 7+ Page Healthcare Services Website",
-      "budget": "Fixed-price",
-      "score": 148,
-      "url": "https://www.upwork.com/jobs/~022100064852391936925",
-      "addedAt": "2026-09-16T03:33:17.522Z"
     }
   ]
 }
