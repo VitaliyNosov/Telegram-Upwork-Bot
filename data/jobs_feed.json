@@ -1,5 +1,29 @@
 [
   {
+    "id": "2100261315754950423",
+    "ciphertext": "~022100261315754950423",
+    "title": "Website Landing Page Develop",
+    "description": "Update landing page design, code landing page and make sure it is optimized page speed, make SEO friendly, upload to live site, use as a template for future local service landing pages.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 35,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you update your landing page design, code it to pixel-perfection, and set it up as a reusable template for your future local service pages. \n\nWith deep experience in clean WordPress development, Gutenberg blocks, and Advanced Custom Fields (ACF), I regularly build flexible layouts designed specifically for easy future scaling. I also focus heavily on technical performance and SEO best practices, ensuring your page loads instantly (optimizing Core Web Vitals) and ranks well. \n\nYou can check out some of my recent live production builds here: https://www.thelifeyoucansave.org/\n\nDo you already have the updated design ready in Figma, or are we tweaking it directly in the builder? Let's connect and get this rolling.",
+    "publishedDateTime": "2026-09-16T16:32:43+0000",
+    "addedAt": "2026-09-16T16:35:13.476Z",
+    "url": "https://www.upwork.com/jobs/~022100261315754950423",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100261315754950423/apply/"
+  },
+  {
     "id": "2100259900604864577",
     "ciphertext": "~022100259900604864577",
     "title": "Seeking an Avada Developer",
