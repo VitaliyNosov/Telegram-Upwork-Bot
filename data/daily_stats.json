@@ -1,12 +1,20 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 8,
-  "matchedFilters": 1,
+  "totalScanned": 9,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 1,
+    "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "WooCommerce Ecommerce Marketing Manager – Long-Term Part-Time",
+      "budget": "$15-$35/hr",
+      "score": 3650,
+      "url": "https://www.upwork.com/jobs/~022100360342611026867",
+      "addedAt": "2026-09-16T23:07:15.394Z"
+    },
     {
       "title": "Medspa Website Content Developer/ DO NOT contact me outside upwork",
       "budget": "Fixed-price",
