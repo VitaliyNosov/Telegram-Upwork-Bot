@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 73,
-  "matchedFilters": 23,
+  "totalScanned": 74,
+  "matchedFilters": 24,
   "byKeyword": {
-    "wordpress developer": 22,
+    "wordpress developer": 23,
     "woocommerce": 1
   },
   "topJobs": [
@@ -72,11 +72,11 @@
       "addedAt": "2026-09-16T02:07:16.085Z"
     },
     {
-      "title": "WordPress Developer: Paywall Integration for Financial News Publication",
-      "budget": "$12-$27/hr",
-      "score": 2750,
-      "url": "https://www.upwork.com/jobs/~022100002838352836278",
-      "addedAt": "2026-09-16T02:27:14.603Z"
+      "title": "WordPress Developer for Website",
+      "budget": "$14-$28/hr",
+      "score": 2850,
+      "url": "https://www.upwork.com/jobs/~022100257735014711063",
+      "addedAt": "2026-09-16T16:19:16.495Z"
     }
   ]
 }

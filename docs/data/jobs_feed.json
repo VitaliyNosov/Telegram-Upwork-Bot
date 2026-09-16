@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100257735014711063",
+    "ciphertext": "~022100257735014711063",
+    "title": "WordPress Developer for Website",
+    "description": "We need a developer to build a custom WordPress website for a small business. The project includes creating a responsive design, setting up core pages, adding contact and booking functionality, and ensuring the site is easy to manage. You should be comfortable working independently, communicating clearly, and delivering a polished final product. Please share relevant examples of similar websites you have built.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "web-programming"
+    ],
+    "score": 2850,
+    "coverLetter": "Hi! \n\nI would love to help you build a clean, responsive, and easy-to-manage custom WordPress website for your small business. \n\nWith extensive experience in custom WordPress and PHP development, I specialize in building user-friendly sites from the ground up, complete with seamless contact and booking integrations. I focus heavily on writing clean code and ensuring the backend is intuitive so you can easily update your content moving forward. \n\nYou can review a similar clean and responsive WordPress build I recently completed here: https://www.seeintl.org/\n\nDo you already have a design or wireframes ready, or would you like me to handle the layout structure as well? Let’s connect and chat about your vision!",
+    "publishedDateTime": "2026-09-16T16:18:00+0000",
+    "addedAt": "2026-09-16T16:19:17.592Z",
+    "url": "https://www.upwork.com/jobs/~022100257735014711063",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100257735014711063/apply/"
+  },
+  {
     "id": "2100193286755513759",
     "ciphertext": "~022100193286755513759",
     "title": "Ajustes en sitio web",
