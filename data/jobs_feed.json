@@ -1,5 +1,31 @@
 [
   {
+    "id": "2100293332855600010",
+    "ciphertext": "~022100293332855600010",
+    "title": "WordPress Developer for Agency Client Websites",
+    "description": "TechHouse Agency is a web design and SEO agency serving law firms, local contractors, and local government. We're looking for a WordPress developer to join us on an ongoing, project-by-project basis as our client work grows.\n\nWhat you'll do:\n\nBuild WordPress websites from approved Figma designs\nSet up custom fields and content structures so clients can edit their own content easily\nMake sure every site is fast, mobile responsive, and meets WCAG 2.1 AA accessibility standards\nSet up contact forms, tracking (Google Analytics 4 and Google Tag Manager), and basic on-page SEO structure\nHandle launch tasks: domain and SSL setup, redirects, and final QA across browsers and devices\n\nWhat we need:\n\nSeveral years of hands-on WordPress development experience\nStrong PHP, HTML, CSS, and JavaScript skills\nExperience with Advanced Custom Fields (ACF) or similar custom field tools\nReal accessibility experience: semantic HTML, keyboard navigation, ARIA used correctly, and testing with tools like WAVE, axe, or Lighthouse\nPerformance optimization experience (image optimization, Core Web Vitals, caching)\nClean, organized, documented code\nClear communication and reliable turnaround times\n\nNice to have:\n\nExperience building sites for law firms or government agencies\nExperience with Section 508 or ADA compliance requirements\nExperience working from a designer's Figma files\n\nHow we work:\nWe'll start with a single paid project. If it's a good fit, there's steady ongoing work as we take on more clients.\n\nTo apply, please answer these questions:\n\nShare 2–3 WordPress sites you built, and tell us what your specific role was on each.\nHow do you test a site for WCAG 2.1 AA compliance before launch? Which tools do you use, and what do you check manually?\nHow do you set up a site so a non-technical client can update their own content without breaking the layout?\nWhat's your process for getting a site to score well on Core Web Vitals?\nWhat's your rate, and roughly how many hours would a 5-page website take you to build from finished Figma designs?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 149,
+    "coverLetter": "Hi TechHouse Agency! Here are the answers to your questions to kick things off:\n\n1. **Portfolio & Roles:** \n- https://www.cchpca.org/ (Full WordPress development from design files, custom ACF setup, performance tuning)\n- https://www.snopud.com/ (Custom theme build, complex taxonomy structure, accessibility implementation)\n- https://www.thelifeyoucansave.org/ (Frontend development, plugin integration, speed optimization)\n\n2. **WCAG 2.1 AA Testing:** I test using automated tools like axe, WAVE, and Lighthouse, followed by thorough manual checks: validating semantic HTML structure, testing complete keyboard navigation paths, ensuring correct ARIA attribute usage, and checking color contrast ratios.\n\n3. **Client-Friendly Editing:** I build sites using Gutenberg or Advanced Custom Fields (ACF) to create rigid, modular content blocks. This gives non-technical clients pre-approved layout components to type into, completely preventing them from accidentally breaking the design.\n\n4. **Core Web Vitals Process:** I optimize images to next-gen formats, implement lazy loading, minimize and defer CSS/JS, configure reliable caching, and streamline the database to ensure fast server response times.\n\n5. **Rate & Timeline:** My rate is $[Rate]/hr, and a standard 5-page custom build from finished Figma designs typically takes around 20–25 hours.\n\nLet's start with that first trial project—when do you want to review my code?",
+    "publishedDateTime": "2026-09-16T18:39:47+0000",
+    "addedAt": "2026-09-16T18:41:28.787Z",
+    "url": "https://www.upwork.com/jobs/~022100293332855600010",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100293332855600010/apply/"
+  },
+  {
     "id": "2100288933799755543",
     "ciphertext": "~022100288933799755543",
     "title": "WordPress/PHP Developer Needed to Secure Public Serial Number Lookup",
