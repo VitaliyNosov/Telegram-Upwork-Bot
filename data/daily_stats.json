@@ -1,12 +1,19 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 13,
-  "matchedFilters": 4,
+  "totalScanned": 14,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Developer for ABC Fitness API Integration",
+      "budget": "$40-$100/hr",
+      "score": 10200,
+      "url": "https://www.upwork.com/jobs/~022100024306504219201",
+      "addedAt": "2026-09-16T00:53:15.898Z"
+    },
     {
       "title": "Looking for a front end designer experianced",
       "budget": "$20-$45/hr",

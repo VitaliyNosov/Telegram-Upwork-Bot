@@ -1,5 +1,35 @@
 [
   {
+    "id": "2100024306504219201",
+    "ciphertext": "~022100024306504219201",
+    "title": "Senior WordPress Developer for ABC Fitness API Integration",
+    "description": "We are looking for an experienced WordPress/PHP developer to build a custom plugin integrating an existing WordPress website with ABC Fitness.\n\nThe goal is to create a cleaner customer-facing scheduling and purchasing experience for Red Light and Recovery/Contrast services while keeping ABC as the back-end system of record.\n\nThe integration is expected to support:\n\nCustomer account creation and login\nRecognition/linking of existing ABC members\nService availability and appointment booking\nRecurring service plans with session credits\nApplication and tracking of available credits\nÀ la carte session purchases\nMember and non-member pricing\nPayments through ABC where supported\nRequired waivers/agreements\nBooking modifications and cancellations where supported\nSynchronization with ABC for customer, booking, credit and purchase data\n\nThe integration should be built as a custom WordPress plugin, independent of the site theme, and embedded into the existing site using a shortcode, block or similar method. The customer-facing interface should be responsive and visually consistent with the existing website.\n\nWe have prepared a detailed project outline describing the proposed user flow, functionality and items that still need to be confirmed with ABC. This outline is attached.\n\nAt this stage, we are looking for a preliminary development estimate and projected timeline. We understand that some functionality and final pricing may depend on review of ABC’s API documentation and sandbox/test access.\n\nPlease include:\n\nYour experience building custom WordPress API integrations\nExamples of similar integrations you have personally developed\nEstimated cost or cost range\nEstimated development timeline\nAny discovery/API review required before providing a firm estimate\nAssumptions or exclusions\nAny functionality you believe is dependent on ABC API capabilities\nWhether testing, deployment and post-launch bug support are included\nAny anticipated third-party licensing or ongoing costs\n\nExperience with membership systems, appointment scheduling platforms, recurring credits or ABC Fitness is preferred.\n\nPlease begin your proposal by briefly describing a project where WordPress served as the customer-facing interface while another platform remained the system of record.",
+    "isHourly": true,
+    "hourlyBudgetMin": 40,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$40 - $100/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress-website",
+      "wordpress-plugin",
+      "api-integration",
+      "restful-api"
+    ],
+    "score": 10200,
+    "coverLetter": "Hi! For the OfferUp brand site (https://about.offerup.com/), I built a custom integration where WordPress served as the customer-facing frontend while external services managed user data and backend operations as the system of record.\n\nI have extensive experience developing custom WordPress plugins, handling RESTful API integrations, and building membership/scheduling systems—making me a great fit for your ABC Fitness project. \n\nTo provide a firm estimate and timeline, I would first like to review your detailed project outline and ABC's API documentation/sandbox access to confirm endpoint capabilities, specifically regarding recurring credits and payment processing limitations. Once reviewed, I can outline a clean, theme-independent plugin with shortcode/block embedding, responsive frontend UI, and full data synchronization. \n\nTesting, deployment, and 30 days of post-launch bug support are fully included. \n\nCould you share the project outline and API details in chat so I can review them?",
+    "publishedDateTime": "2026-09-16T00:51:20+0000",
+    "addedAt": "2026-09-16T00:53:17.145Z",
+    "url": "https://www.upwork.com/jobs/~022100024306504219201",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100024306504219201/apply/"
+  },
+  {
     "id": "2099992318204361281",
     "ciphertext": "~022099992318204361281",
     "title": "New website on elementor",
