@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100231743808589959",
+    "ciphertext": "~022100231743808589959",
+    "title": "WordPress + GoHighLevel Expert Needed to Fix Website Issues",
+    "description": "We are looking for an experienced WordPress and GoHighLevel expert to troubleshoot and permanently fix several issues on an existing website.\n\nThe WordPress website is connected and customized with GoHighLevel, so some of the issues may be related to the integration between the two systems.\n\nCurrent issues include:\n\nWebsite banners/background sections displaying incorrectly.\nSome subpages are not showing properly.\nForms and lead flows need to be checked.\nPossible conflicts between WordPress, plugins, custom code and GoHighLevel.\nSome issues have been fixed before but keep coming back.\n\nWe need someone who can find the root cause, fix everything properly, and make sure the same problems do not continue to return.\n\nYou should have strong experience with:\n\nWordPress\nGoHighLevel\nWordPress/GHL integrations\nPlugins and custom code\nForms, funnels and lead tracking\nTroubleshooting recurring website issues\n\nPlease include examples of similar WordPress + GoHighLevel work you have done.\n\nWe are willing to pay more if the job exceed expectations and speed.\n\nWe are looking for someone who can start quickly.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Sweden",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 148,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! \n\nI specialize in tracking down the root cause of recurring WordPress bugs, plugin conflicts, and third-party integrations—including connecting WordPress with CRM and marketing automation platforms like GoHighLevel. \n\nSince your layout issues, subpage errors, and lead forms keep returning, a superficial patch won't work. I dive deep into the codebase, plugin setup, and API/embed connections to permanently resolve conflicts between WordPress, custom code, and GHL lead flows. \n\nI regularly troubleshoot complex setups like this. For instance, you can review my clean code approach on complex builds like https://www.cchpca.org/. \n\nI can start quickly and ensure your site and lead funnels are fully stable. Are the GHL forms embedded via plugins, iFrames, or custom API scripts? Let's chat and get this sorted out.",
+    "publishedDateTime": "2026-09-16T14:34:58+0000",
+    "addedAt": "2026-09-16T14:37:19.879Z",
+    "url": "https://www.upwork.com/jobs/~022100231743808589959",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100231743808589959/apply/"
+  },
+  {
     "id": "2100223474194503745",
     "ciphertext": "~022100223474194503745",
     "title": "WordPress Developer & UI/UX Implementer | Zoho CRM, Bookings, Billing & Member Portal Integration",
