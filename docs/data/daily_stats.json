@@ -1,82 +1,8 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 103,
-  "matchedFilters": 34,
-  "byKeyword": {
-    "wordpress developer": 33,
-    "woocommerce": 1
-  },
-  "topJobs": [
-    {
-      "title": "Senior WordPress Developer for ABC Fitness API Integration",
-      "budget": "$40-$100/hr",
-      "score": 10200,
-      "url": "https://www.upwork.com/jobs/~022100024306504219201",
-      "addedAt": "2026-09-16T00:53:15.898Z"
-    },
-    {
-      "title": "WordPress + OwnerRez Developer Needed — Take Over & Launch Vacation Rental Platform",
-      "budget": "$25-$60/hr",
-      "score": 6150,
-      "url": "https://www.upwork.com/jobs/~022100095325372733505",
-      "addedAt": "2026-09-16T05:35:19.811Z"
-    },
-    {
-      "title": "Senior WordPress Engineer ( React, Gutenberg, GraphQL)",
-      "budget": "$35-$55/hr",
-      "score": 5600,
-      "url": "https://www.upwork.com/jobs/~022100324793815193665",
-      "addedAt": "2026-09-16T20:49:18.710Z"
-    },
-    {
-      "title": "Seeking an Avada Developer",
-      "budget": "$40-$50/hr",
-      "score": 5000,
-      "url": "https://www.upwork.com/jobs/~022100259900604864577",
-      "addedAt": "2026-09-16T16:29:17.604Z"
-    },
-    {
-      "title": "WordPress Developer & UI/UX Implementer | Zoho CRM, Bookings, Billing & Member Portal Integration",
-      "budget": "$25-$47/hr",
-      "score": 4750,
-      "url": "https://www.upwork.com/jobs/~022100223474194503745",
-      "addedAt": "2026-09-16T14:03:41.815Z"
-    },
-    {
-      "title": "Looking for a front end designer experianced",
-      "budget": "$20-$45/hr",
-      "score": 4598,
-      "url": "https://www.upwork.com/jobs/~022099976530954670215",
-      "addedAt": "2026-09-15T21:43:55.521Z"
-    },
-    {
-      "title": "Web Designer for Lead Generation Site",
-      "budget": "$15-$40/hr",
-      "score": 4099,
-      "url": "https://www.upwork.com/jobs/~022100156634347778954",
-      "addedAt": "2026-09-16T09:37:23.824Z"
-    },
-    {
-      "title": "Web Development for small wrodpress site",
-      "budget": "$20-$35/hr",
-      "score": 3500,
-      "url": "https://www.upwork.com/jobs/~022100044015452353951",
-      "addedAt": "2026-09-16T02:11:11.265Z"
-    },
-    {
-      "title": "WooCommerce Website from HTML Template",
-      "budget": "$15-$30/hr",
-      "score": 3148,
-      "url": "https://www.upwork.com/jobs/~022100232181959982871",
-      "addedAt": "2026-09-16T14:39:15.763Z"
-    },
-    {
-      "title": "WordPress Web Designer / Content Designer — editorial & lifestyle websites",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022099979564698947719",
-      "addedAt": "2026-09-16T00:55:17.685Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
