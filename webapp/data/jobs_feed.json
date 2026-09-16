@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100189008670085255",
+    "ciphertext": "~022100189008670085255",
+    "title": "WordPress Website Deployment",
+    "description": "We need a website builder/engineer to convert an AI-coded website into a functional WordPress site and deploy it on our current domain. The work should include rebuilding the site structure in WordPress, ensuring all pages and features work correctly, and preparing the site for live use. We also need the deployment to include strong cybersecurity protections, such as secure hosting setup, SSL, and basic security hardening. Please share relevant experience with WordPress site builds and secure deployment workflows.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 321,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-design",
+      "html5"
+    ],
+    "score": 95,
+    "coverLetter": "Hi! \n\nI can help you convert your AI-coded prototype into a clean, fully functional WordPress site and deploy it securely to your live domain. \n\nWith extensive experience in custom WordPress development, theme structuring, and security hardening, I will rebuild your pages using a maintainable setup (such as Gutenberg or ACF) while ensuring all features run smoothly. As part of the deployment, I'll implement robust cybersecurity measures, including SSL configuration, secure hosting optimization, and essential WordPress security hardening to keep your live site protected from threats.\n\nFor a recent example of my WordPress work, you can review https://www.thelifeyoucansave.org/. \n\nAre you looking to use a specific page builder or custom Gutenberg blocks for the rebuild? Let’s chat about the details!",
+    "publishedDateTime": "2026-09-16T11:45:34+0000",
+    "addedAt": "2026-09-16T11:47:22.458Z",
+    "url": "https://www.upwork.com/jobs/~022100189008670085255",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100189008670085255/apply/"
+  },
+  {
     "id": "2100117635173809943",
     "ciphertext": "~022100117635173809943",
     "title": "Rebuild my existing website in WordPress with Elementor (SEO ready)",
