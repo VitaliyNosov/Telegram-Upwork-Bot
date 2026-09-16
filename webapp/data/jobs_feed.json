@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100288933799755543",
+    "ciphertext": "~022100288933799755543",
+    "title": "WordPress/PHP Developer Needed to Secure Public Serial Number Lookup",
+    "description": "We have a small custom PHP tool on a WordPress site that lets customers look up a product manual using a serial number.\n\nWe recently discovered that someone was able to automate the lookup and systematically pull a large amount of our serial history. We need a developer who can secure the existing lookup without breaking its current functionality.\n\nWHAT WE NEED\n•\tAdd rate limiting, ideally 3 searches/minute, 10 searches/hour, 20 searches/24 hours\n•\tBlock blacklisted IPs\n•\tAllow trusted/whitelisted IPs to bypass limits\n•\tMake sure rate limits happen before the database lookup, so blocked requests can't continue querying the database\n•\tReturn an appropriate error page when a limit is exceeded\n•\tReview the existing PHP for obvious performance or security improvements\n•\tReview the manual directory for any obvious exposure issues\n•\tPreserve the existing lookup functionality, including alphanumeric product/serial identifiers. For example, 1IRC is a valid lookup and must continue to work.\n•\tTest thoroughly on staging before production\n\nThis WordPress site is hosted on SiteGround. We can provide the existing PHP template and whatever else is needed to the selected developer.\n\nIMPORTANT\nWe're not looking for a complete website rebuild or a giant security audit. This is a focused fix to an existing tool.\n\nWe're also interested in your recommendation if you think Cloudflare/server-level rate limiting or another approach would provide a better layer of protection. Our current shared hosting does not offer server-level rate limiting.\n\nPLEASE INCLUDE:\n1.\tA brief description of how you'd approach this\n2.\tExamples of similar WordPress/PHP security or rate-limiting work you've done\n3.\tYour estimated hours/cost\n\nIf you've worked with custom WordPress PHP and understand the difference between blocking the request before the database query vs. simply hiding the result, that's especially relevant.\n\nThank you!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can secure your serial number lookup tool by implementing strict PHP-level rate limiting and IP control before any database queries execute.\n\nSince your SiteGround environment lacks server-level rate limiting, my approach is to handle this using a lean PHP transient/object cache mechanism. I’ll write a secure handler that tracks requests by IP against your 3/min, 10/hour, and 20/24hr thresholds, returning an clean error page instantly for blocked traffic while fully preserving alphanumeric inputs like \"1IRC\". I'll also audit the manual directory exposure and your custom PHP for quick performance wins. \n\nFor implementation, I typically handle this in 2–3 estimated hours of focused work on a staging environment first. \n\nWould you like to share the existing PHP template so we can get started?",
+    "publishedDateTime": "2026-09-16T18:22:34+0000",
+    "addedAt": "2026-09-16T18:23:21.783Z",
+    "url": "https://www.upwork.com/jobs/~022100288933799755543",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100288933799755543/apply/"
+  },
+  {
     "id": "2100287766210986909",
     "ciphertext": "~022100287766210986909",
     "title": "WordPress Developer for Website Build",
