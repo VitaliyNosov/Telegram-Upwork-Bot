@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100117635173809943",
+    "ciphertext": "~022100117635173809943",
+    "title": "Rebuild my existing website in WordPress with Elementor (SEO ready)",
+    "description": "I need my existing website, martinkloeckner.com, rebuilt on WordPress.  WordPress is already installed in Hostinger account. You will use the colour scheme, fonts and overall UI I provide (as currently used on my page), \n\nMust use Elementor only. No other page builder or editor will be accepted.\n\nPages\n\nHome\nServices (one page covering Business Audit, Strategy Design, Project Management and Training)\nBlog (listing page plus a single post template that matches the site design, with one featured image per post and full SEO fields)\nTerms of Use \nPrivacy Policy\n\nAll content will be provided.\n\nSetup\n\nGoogle Analytics 4 installed and tracking\nCookie compliance banner (GDPR and Australian Privacy Act friendly)\nGoogle Search Console connected, sitemap submitted, all pages indexed\n\nSEO requirements (top 10)\n\nOne H1 per page, with a logical H2 and H3 structure\nEditable meta titles and descriptions on every page and post (Rank Math or Yoast)\nClean, readable URLs (e.g. /services/business-audit)\nDescriptive image file names and alt text on all images\nCompressed images in WebP format\nDescriptive link text (no \"click here\")\nXML sitemap and a correct robots.txt\nSchema markup (Organisation, Person, Article)\nMobile responsive with fast load times (good Core Web Vitals)\nSSL, canonical tags and Open Graph tags for social sharing\n\nTo apply\n\nShare 2 or 3 Elementor sites you have built\nConfirm your fixed price and timeline\nStart your reply with \"Elementor\" so I know you read this",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "blog",
+      "analytics-plugin",
+      "elementor"
+    ],
+    "score": 100,
+    "coverLetter": "Elementor expert here! I can cleanly rebuild martinkloeckner.com on your Hostinger WordPress installation using strictly Elementor, matching your exact color scheme, typography, and UI. \n\nAs a dedicated WordPress developer, I routinely handle SEO-ready builds just like this. I will ensure all 10 of your SEO requirements are met—including proper H1-H3 structures, Rank Math setup, WebP image compression, schema markup, Google Analytics 4, Search Console integration, and a GDPR/Australian Privacy Act-compliant cookie banner. \n\nFor your review, here are two Elementor sites I’ve built:\n- https://www.seeintl.org/\n- https://www.cchpca.org/\n\nI can complete this entire 5-page setup for a fixed price of [Insert Price] within [Insert Timeline, e.g., 5-7 days]. \n\nAre you ready to get started? Let’s jump into chat so I can review your content and current site.",
+    "publishedDateTime": "2026-09-16T10:03:19+0000",
+    "addedAt": "2026-09-16T10:05:24.920Z",
+    "url": "https://www.upwork.com/jobs/~022100117635173809943",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100117635173809943/apply/"
+  },
+  {
     "id": "2100156634347778954",
     "ciphertext": "~022100156634347778954",
     "title": "Web Designer for Lead Generation Site",
