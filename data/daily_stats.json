@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 25,
-  "matchedFilters": 10,
+  "totalScanned": 26,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -50,6 +50,13 @@
       "addedAt": "2026-09-16T02:27:14.603Z"
     },
     {
+      "title": "WordPress Developer Needed — 7+ Page Healthcare Services Website",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022100064852391936925",
+      "addedAt": "2026-09-16T03:33:17.522Z"
+    },
+    {
       "title": "New website on elementor",
       "budget": "Fixed-price",
       "score": 100,
@@ -69,13 +76,6 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022099946147883876119",
       "addedAt": "2026-09-15T22:41:11.031Z"
-    },
-    {
-      "title": "Website for Entertainment Band Hire",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022099979597634132033",
-      "addedAt": "2026-09-16T00:55:19.577Z"
     }
   ]
 }

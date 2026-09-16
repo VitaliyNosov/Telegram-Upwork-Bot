@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100064852391936925",
+    "ciphertext": "~022100064852391936925",
+    "title": "WordPress Developer Needed — 7+ Page Healthcare Services Website",
+    "description": "We need an experienced WordPress developer to build a professional, healthcare-services website. Site structure and copy are already locked — we need someone to execute a clean, polished build using Wordpress (block editor or lightweight builder - no bloated plugins).\n\nWe have ready:\nComplete wireframe (structure, nav, page content)\nCopywriting for all pages\nBrand colors, fonts, logo\nSite includes (7+ pages):\nHome, About, Services, a Resources hub (FAQ/Careers/Contact), and a Blog (10-15 articles).\n(Stock photography not yet selected)\n\nYou'll do:\nBuild all pages from our wireframe + copy in WordPress\nCustomize a clean, professional focused tone, not sales-y\nIntegrate our photos and brand assets\nSet up blog for ongoing posts\nFull mobile responsiveness\nBasic on-page SEO (meta titles, URLs, alt text)\nWorking contact/referral forms\nFast, clean, lightweight build (no plugin bloat)\nNice to have: healthcare/nonprofit site experience\n\nDeliverable: Live-ready site\n\nTo be considered for the job:\n1. Include examples of WordPress sites you've built, ideally in healthcare or professional services.\n2. Confirm you will not display our site on any online platform/portfolio including Upwork.\n3. Confirm that you agree to time tracking in Upwork",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 44,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 148,
+    "coverLetter": "Hi!\n\nHere are two relevant healthcare/nonprofit WordPress sites I've built:\n- https://www.cchpca.org/ (Center for Connected Health Policy)\n- https://www.seeintl.org/\n\nI confirm that I will not display your site on any online platform or portfolio, and I fully agree to Upwork time tracking.\n\nYou have the wireframes, copy, and brand assets ready, and I am ready to execute a clean, lightweight build using the native block editor (Gutenberg) or a fast, minimal setup without plugin bloat. I specialize in developing professional, non-salesy websites with full mobile responsiveness, secure contact/referral forms, and basic on-page SEO fully optimized for speed and Core Web Vitals.\n\nWould you like to share the wireframes so we can discuss the best approach for the build?",
+    "publishedDateTime": "2026-09-16T03:32:19+0000",
+    "addedAt": "2026-09-16T03:33:18.655Z",
+    "url": "https://www.upwork.com/jobs/~022100064852391936925",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100064852391936925/apply/"
+  },
+  {
     "id": "2100002838352836278",
     "ciphertext": "~022100002838352836278",
     "title": "WordPress Developer: Paywall Integration for Financial News Publication",
