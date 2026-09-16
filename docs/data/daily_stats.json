@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 99,
-  "matchedFilters": 31,
+  "totalScanned": 101,
+  "matchedFilters": 32,
   "byKeyword": {
-    "wordpress developer": 30,
+    "wordpress developer": 31,
     "woocommerce": 1
   },
   "topJobs": [
