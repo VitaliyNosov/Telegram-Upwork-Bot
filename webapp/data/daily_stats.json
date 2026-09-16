@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 32,
-  "matchedFilters": 12,
+  "totalScanned": 33,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 10200,
       "url": "https://www.upwork.com/jobs/~022100024306504219201",
       "addedAt": "2026-09-16T00:53:15.898Z"
+    },
+    {
+      "title": "WordPress + OwnerRez Developer Needed — Take Over & Launch Vacation Rental Platform",
+      "budget": "$25-$60/hr",
+      "score": 6150,
+      "url": "https://www.upwork.com/jobs/~022100095325372733505",
+      "addedAt": "2026-09-16T05:35:19.811Z"
     },
     {
       "title": "Looking for a front end designer experianced",
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022099992318204361281",
       "addedAt": "2026-09-15T22:45:19.344Z"
-    },
-    {
-      "title": "Need help with a hacked wordpress website",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022099975547351120449",
-      "addedAt": "2026-09-15T21:39:22.625Z"
     }
   ]
 }

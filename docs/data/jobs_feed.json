@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100095325372733505",
+    "ciphertext": "~022100095325372733505",
+    "title": "WordPress + OwnerRez Developer Needed — Take Over & Launch Vacation Rental Platform",
+    "description": "I’m looking for an experienced WordPress/PHP developer who can **immediately take over an existing vacation-rental website project**, audit the current work, and bring it to a production-ready MVP quickly.\n\nThe website is an innovative direct-booking vacation-rental platform. A staging site already exists, and considerable work has been completed. **I am NOT looking to start over unless there is a compelling technical reason to do so.**\n\n### Current Technology\n\n* WordPress / Hostinger\n* RealHomes vacation-rental theme\n* OwnerRez property-management system\n* OwnerRez WordPress/API integration\n* Stripe\n* Custom API/functionality\n* Vacation-rental listings, rates and availability\n\n### OWNERREZ EXPERIENCE IS HIGHLY DESIRABLE\n\nA major priority is making sure property information is properly integrated with **OwnerRez rather than manually maintained in WordPress wherever dynamic integration is practical.**\n\nProperty data may include:\n\n* Listings and descriptions\n* Photos\n* Amenities\n* Rates\n* Availability\n* Booking information\n\nIf you have previously built or integrated an **OwnerRez-powered website, please tell me specifically what you did and provide a URL if possible.**\n\nExperience integrating other vacation-rental PMS platforms may also be relevant.\n\n### Unique Promotional Feature\n\nThis website includes a custom **Bitcoin-linked travel promotion**.\n\nGuests book normally in U.S. dollars and do NOT purchase or hold Bitcoin.\n\nThe system records a BTC/USD reference price when the reservation is made and compares it with the Bitcoin price at check-in. Depending on the movement, the guest may qualify for a promotional rebate according to predefined rules.\n\nThis requires reliable API/data handling and record keeping, but **crypto-development experience is not required.**\n\n### Immediate Assignment\n\nI need someone who can:\n\n* Audit the existing WordPress site and custom code\n* Back up the existing site before major changes\n* Determine what has been completed correctly\n* Identify incomplete/broken functionality\n* Review and correct OwnerRez integration\n* Make property/rate/availability data dynamic wherever practical\n* Review Stripe integration\n* Complete/test the Bitcoin promotional functionality\n* Fix broken buttons, forms and workflows\n* Remove remaining demo/template content\n* Test the complete booking process\n* Prepare and move the MVP to production\n* Document custom code and integrations\n\n**I retain full ownership and administrative access to the website, hosting, code and integrations.**\n\n### Skills I'm Looking For\n\nStrong experience with:\n\n* WordPress development\n* PHP\n* JavaScript\n* REST APIs / API integration\n* Custom WordPress plugins\n* Stripe\n\nExperience with **OwnerRez, vacation-rental websites, PMS integrations, RealHomes or booking platforms is a major advantage.**\n\n### IMPORTANT — TIMELINE\n\nI need someone who can **start immediately and make meaningful progress within the first few days.**\n\nI am much more interested in getting a solid MVP launched quickly than spending months redesigning the site.\n\nThe initial engagement may be a short **paid technical audit (approximately 2–4 hours)**. If we're a good fit, I expect to immediately continue with the development work.\n\nThere is also potential for ongoing work across several vacation-rental websites.\n\n### PLEASE ANSWER THESE QUESTIONS\n\n1. Have you worked with **OwnerRez**? If yes, what specifically did you build?\n2. Have you taken over an incomplete WordPress project from another developer?\n3. Describe your experience integrating WordPress with external APIs.\n4. What experience do you have with Stripe?\n5. Have you developed vacation-rental, hotel, property marketplace or booking websites?\n6. Are you comfortable reviewing and repairing someone else's PHP/plugin code rather than automatically rebuilding the site?\n7. **How soon can you start?**\n8. **How many hours can you devote to this project during the first 7 days?**\n\nPlease begin your proposal with the words:\n\n**OWNERREZ TAKEOVER**\n\nThis lets me know you actually read the posting rather than sending an automated proposal.\n\nThank you!\nJohn",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$25 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress-website",
+      "api-integration"
+    ],
+    "score": 6150,
+    "coverLetter": "OWNERREZ TAKEOVER\n\nHi John! I can start immediately and dedicate 30+ hours this week to audit your staging site, fix the OwnerRez and Stripe integrations, and push your MVP live. \n\nWhile I haven't specifically integrated the OwnerRez PMS, I have extensive experience building custom booking platforms and connecting WordPress/PHP backends to complex external REST APIs (such as Stripe, CRMs, and custom data feeds). Taking over incomplete projects, auditing existing codebase rather than starting from scratch, and fixing broken workflows is a core part of my daily work as a WordPress and PHP developer. I am fully comfortable handling custom business logic like your Bitcoin-linked promotion tracking and data handling.\n\nTo answer your initial questions:\n1. No prior OwnerRez experience, but strong with other external booking/PMS API integrations.\n2. Yes, frequently take over and rescue incomplete WP projects.\n3. Extensive REST API integration experience (Stripe, custom endpoints, CRM syncing).\n4. Highly experienced with Stripe payment flows and checkout debugging.\n5. Built various property marketplace and booking workflows.\n6. Absolutely—I prefer auditing and repairing existing PHP/plugins over rebuilding unnecessarily.\n7. Immediately.\n8. 30–40 hours.\n\nReady to start with the 2–4 hour technical audit right away. Shall we set it up?",
+    "publishedDateTime": "2026-09-16T05:33:17+0000",
+    "addedAt": "2026-09-16T05:35:21.554Z",
+    "url": "https://www.upwork.com/jobs/~022100095325372733505",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100095325372733505/apply/"
+  },
+  {
     "id": "2100072359118420545",
     "ciphertext": "~022100072359118420545",
     "title": "WordPress & WooCommerce Developer Website Optmztion+Updates+Fixes, PHP 8.3 Upgrd & Cstm Ordr Mngmnt",
