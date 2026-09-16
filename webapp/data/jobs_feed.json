@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100193286755513759",
+    "ciphertext": "~022100193286755513759",
+    "title": "Ajustes en sitio web",
+    "description": "Necesito un desarrollador web para realizar ajustes en mi sitio web. El trabajo incluye corregir errores, mejorar la navegación y optimizar la experiencia del usuario. Busco alguien con experiencia en sitios web y capacidad para identificar y resolver problemas de forma eficiente. El proyecto es pequeño y requiere una entrega clara y puntual.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.8,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! \n\nI can help you efficiently with those website adjustments, error fixes, and UX improvements on your WordPress site. \n\nWith extensive experience in WordPress debugging, custom development, and site optimization, I quickly diagnose issues and implement clean, reliable solutions. Whether it's fixing broken elements, streamlining navigation, or polishing the user experience, I focus on delivering exact results promptly. \n\nYou can check out some of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nCould you share a quick list of the specific adjustments or errors you need handled? We can get started right away.",
+    "publishedDateTime": "2026-09-16T15:02:31+0000",
+    "addedAt": "2026-09-16T15:04:13.294Z",
+    "url": "https://www.upwork.com/jobs/~022100193286755513759",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100193286755513759/apply/"
+  },
+  {
     "id": "2100232181959982871",
     "ciphertext": "~022100232181959982871",
     "title": "WooCommerce Website from HTML Template",
