@@ -1,5 +1,32 @@
 [
   {
+    "id": "2100156634347778954",
+    "ciphertext": "~022100156634347778954",
+    "title": "Web Designer for Lead Generation Site",
+    "description": "We're looking for a redesign of our current lead generation site with a focus on strong CRO fundamentals. \n\nSend examples of sites that you have developed/designed. \n\nAll existing content will need to be formatted and added to the new site and will need to be in WordPress.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$15 - $40/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 147,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 4099,
+    "coverLetter": "Hi! \n\nHere is a recent lead-generation site I developed in WordPress, focused heavily on clean layouts and user engagement: https://www.seeintl.org/\n\nI specialize in building high-performing WordPress websites optimized for conversion and lead generation. For your project, I can take your existing content, structure it for strong CRO fundamentals, and build a fast, responsive, and easy-to-manage WordPress site that turns visitors into leads. \n\nWhether we use a custom Gutenberg/ACF build or your preferred page builder, I ensure the site is clean, lightweight, and built to convert. \n\nAre you currently using a specific page builder or design system, or are we starting fresh from Figma? Let's chat about your vision.",
+    "publishedDateTime": "2026-09-16T09:36:16+0000",
+    "addedAt": "2026-09-16T09:37:25.014Z",
+    "url": "https://www.upwork.com/jobs/~022100156634347778954",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100156634347778954/apply/"
+  },
+  {
     "id": "2100146578778669981",
     "ciphertext": "~022100146578778669981",
     "title": "Website for Academics",

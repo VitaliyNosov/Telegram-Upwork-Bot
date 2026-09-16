@@ -1,10 +1,10 @@
 {
   "date": "2026-09-16",
   "lastDigestSentDate": "2026-09-15",
-  "totalScanned": 42,
-  "matchedFilters": 15,
+  "totalScanned": 43,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 4598,
       "url": "https://www.upwork.com/jobs/~022099976530954670215",
       "addedAt": "2026-09-15T21:43:55.521Z"
+    },
+    {
+      "title": "Web Designer for Lead Generation Site",
+      "budget": "$15-$40/hr",
+      "score": 4099,
+      "url": "https://www.upwork.com/jobs/~022100156634347778954",
+      "addedAt": "2026-09-16T09:37:23.824Z"
     },
     {
       "title": "Web Development for small wrodpress site",
@@ -69,13 +76,6 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022100064852391936925",
       "addedAt": "2026-09-16T03:33:17.522Z"
-    },
-    {
-      "title": "New website on elementor",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022099992318204361281",
-      "addedAt": "2026-09-15T22:45:19.344Z"
     }
   ]
 }
