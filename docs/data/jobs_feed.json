@@ -1,5 +1,39 @@
 [
   {
+    "id": "2100681491866301345",
+    "ciphertext": "~022100681491866301345",
+    "title": "WordPress Developer Needed for Bug Fixes & Website Design Updates",
+    "description": "We are looking for an experienced WordPress developer to fix bugs and make design changes to our existing website.\nThe work includes identifying and resolving existing WordPress issues, improving the website layout, updating design elements, and ensuring the site works properly across desktop and mobile devices.\nResponsibilities:\nFix existing WordPress bugs and issues\nMake design and layout changes\nImprove responsive/mobile compatibility\nFix UI/UX issues\nCheck website functionality after updates\nEnsure the website is clean, stable, and user-friendly\nRequirements:\nStrong WordPress experience\nGood knowledge of HTML, CSS, JavaScript\nExperience with WordPress themes and plugins\nAbility to troubleshoot bugs quickly\nGood attention to design details\nPlease apply with examples of similar WordPress bug-fixing and design-update projects you have completed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "html",
+      "css",
+      "javascript",
+      "responsive-design",
+      "elementor",
+      "website-optimization",
+      "wordpress-website"
+    ],
+    "score": 4150,
+    "coverLetter": "Hi!\n\nI can help you quickly squash those bugs, clean up the UI/UX, and polish the design across desktop and mobile devices. \n\nAs a WordPress developer with deep expertise in HTML, CSS, JavaScript, and responsive design, I routinely handle site stability, plugin conflicts, and layout updates. Whether it's refining user experience, fixing broken elements, or ensuring smooth functionality after updates, I focus on clean code and reliable performance. You can see examples of my recent WordPress work at https://waapple.org/ and https://www.thelifeyoucansave.org/.\n\nWhen are you looking to get started, and do you have a specific list of bugs and design updates ready to review?\n\nBest,\nWordPress Developer",
+    "publishedDateTime": "2026-09-17T23:22:54+0000",
+    "addedAt": "2026-09-17T23:23:17.434Z",
+    "url": "https://www.upwork.com/jobs/~022100681491866301345",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100681491866301345/apply/"
+  },
+  {
     "id": "2100671985019965565",
     "ciphertext": "~022100671985019965565",
     "title": "Fix Hacked WordPress Site",
