@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100443973137528223",
+    "ciphertext": "~022100443973137528223",
+    "title": "Improve Website INP Load Times",
+    "description": "Need help diagnosing and improving my website’s INP load times, which I believe are caused by CSS and JavaScript issues. I’m using WordPress with the Avada theme and NitroPack. Looking for someone who can review the current setup, identify performance bottlenecks, and implement fixes to improve page speed and overall user experience.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "javascript"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can help you diagnose and resolve your INP (Interaction to Next Paint) bottlenecks. Dealing with JavaScript execution delays and CSS rendering blocks on WordPress—especially when balancing a feature-rich theme like Avada with a caching layer like NitroPack—requires a deep understanding of core web vitals and script optimization. \n\nI specialize in WordPress performance tuning, database optimization, and eliminating main-thread blocking scripts. I’ll audit your current script execution, clean up heavy CSS/JS queues, and fine-tune your NitroPack configuration to drastically improve your responsiveness and user experience. \n\nYou can check out my performance work on high-traffic sites like https://www.snopud.com/. \n\nAre you currently seeing poor INP primarily on mobile devices, or is it impacting desktop users as well? Let's chat about getting your scores up.",
+    "publishedDateTime": "2026-09-17T04:38:15+0000",
+    "addedAt": "2026-09-17T04:39:15.179Z",
+    "url": "https://www.upwork.com/jobs/~022100443973137528223",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100443973137528223/apply/"
+  },
+  {
     "id": "2100440944208105607",
     "ciphertext": "~022100440944208105607",
     "title": "WordPress Website Update for Sign company",
