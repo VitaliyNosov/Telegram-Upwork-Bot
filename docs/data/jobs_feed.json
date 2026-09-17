@@ -1,5 +1,41 @@
 [
   {
+    "id": "2100616900185335540",
+    "ciphertext": "~022100616900185335540",
+    "title": "Website Design and Development",
+    "description": "Looking for an experienced website designer and developer to create, redesign, customize, and improve a professional, modern, responsive, and user-friendly website.\n\nThe project may include website design, website development, website redesign, custom website development, website customization, responsive design, Figma to website conversion, pixel-perfect design, theme customization, HTML, CSS, JavaScript, PHP, custom functionality, landing pages, bug fixing, performance optimization, and SEO-friendly development.\n\nWe are looking for someone who can handle the complete website design and development process and deliver a polished, responsive, fast, and SEO-friendly website.\n\nIf this project goes well and we are satisfied with the quality of work, there will be opportunities for additional website projects and ongoing work in the future.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 429,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "shopify",
+      "figma",
+      "responsive-design",
+      "php",
+      "html",
+      "css",
+      "web-programming",
+      "ecommerce-consulting",
+      "cms-development"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I have extensive experience turning Figma designs into pixel-perfect, high-performance WordPress and Shopify sites, which aligns perfectly with your requirements for this project.\n\nI specialize in custom development that balances modern design aesthetics with clean, SEO-friendly code. Whether you need a full site build or specific functional improvements, I prioritize responsiveness and speed to ensure a seamless user experience. For example, I recently managed the development for https://www.thelifeyoucansave.org/, focusing on a clean, responsive layout that handles high traffic efficiently. My technical background in PHP and CMS customization allows me to handle everything from custom theme development to complex site redesigns.\n\nAre you looking to start with a specific design file, or would you like to discuss the layout and feature requirements first?",
+    "publishedDateTime": "2026-09-17T16:05:57+0000",
+    "addedAt": "2026-09-17T16:07:39.355Z",
+    "url": "https://www.upwork.com/jobs/~022100616900185335540",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100616900185335540/apply/"
+  },
+  {
     "id": "2100554136523813770",
     "ciphertext": "~022100554136523813770",
     "title": "Senior WordPress Engineer ( React, Gutenberg, GraphQL)",
