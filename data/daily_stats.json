@@ -1,8 +1,18 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 3,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 4,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Fix Hacked WordPress Site",
+      "budget": "$20-$40/hr",
+      "score": 4099,
+      "url": "https://www.upwork.com/jobs/~022100671985019965565",
+      "addedAt": "2026-09-17T22:45:13.516Z"
+    }
+  ]
 }
