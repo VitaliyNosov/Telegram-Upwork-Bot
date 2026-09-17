@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100626266489792244",
+    "ciphertext": "~022100626266489792244",
+    "title": "Full-Stack Developer for Website Launch",
+    "description": "I’m looking for an experienced full-stack developer to finalize and launch my existing social/sweepstakes casino website within 1 week. The site is already built, and major APIs and integrations are in place, including KYC, payment processing, games, and backend systems. I need someone to thoroughly test and refine the customer journey, including registration, login, KYC, geolocation, payments, gameplay, redemptions, and mobile/desktop compatibility. You should identify and fix bugs, verify integrations work end-to-end, and improve the site’s visual polish, readability, and navigation. I want minimal day-to-day management, so please share your experience, availability, and proposed price.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "html5",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you thoroughly test, refine, and launch your social/sweepstakes casino website within your 1-week timeline. \n\nWith extensive experience in WordPress, full-stack debugging, API integrations (such as Stripe and payment gateways), and end-to-end user journey optimization, I excel at taking an existing build, squashing final bugs, and polishing the UI for both mobile and desktop. I focus heavily on clean code and robust troubleshooting, ensuring everything from KYC and geolocation to payments and gameplay functions seamlessly before going live. You can review my work on complex platforms like https://about.offerup.com/ to see my standard for quality and performance.\n\nI work independently with minimal oversight needed. Are you available this week to share access so I can review the current build and provide a fixed price?",
+    "publishedDateTime": "2026-09-17T16:42:57+0000",
+    "addedAt": "2026-09-17T16:45:16.640Z",
+    "url": "https://www.upwork.com/jobs/~022100626266489792244",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100626266489792244/apply/"
+  },
+  {
     "id": "2100619629250327457",
     "ciphertext": "~022100619629250327457",
     "title": "Landing Page Developer on PluginOps",
