@@ -1,10 +1,10 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 13,
-  "matchedFilters": 3,
+  "totalScanned": 14,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 2,
+    "wordpress developer": 3,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 3650,
       "url": "https://www.upwork.com/jobs/~022100360342611026867",
       "addedAt": "2026-09-16T23:07:15.394Z"
+    },
+    {
+      "title": "WordPress Broken Link Fixer",
+      "budget": "$5-$28/hr",
+      "score": 2896,
+      "url": "https://www.upwork.com/jobs/~022100378267206604865",
+      "addedAt": "2026-09-17T00:19:24.824Z"
     },
     {
       "title": "Medspa Website Content Developer/ DO NOT contact me outside upwork",

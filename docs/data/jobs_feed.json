@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100378267206604865",
+    "ciphertext": "~022100378267206604865",
+    "title": "WordPress Broken Link Fixer",
+    "description": "We need a freelancer to identify and fix broken links on a WordPress website. The work includes reviewing internal and external links, correcting or removing broken links, and ensuring the site remains functional after updates. You should be comfortable working in WordPress, handling link updates carefully, and communicating clearly about the changes made. This is a small, focused project for someone who can complete the task efficiently and accurately.",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$5 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.8,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html",
+      "seo"
+    ],
+    "score": 2896,
+    "coverLetter": "Hi! \n\nI can quickly scan your WordPress site, identify all broken internal and external links, and clean them up efficiently without disrupting your site's functionality. \n\nAs a WordPress developer with extensive experience handling site updates, technical maintenance, and debugging (as seen in my work on sites like https://waapple.org/), I know how important clean links are for both user experience and SEO. I'll make sure every link is thoroughly checked, corrected, or removed, and provide you with a clear summary of the changes made.\n\nIs the broken link issue isolated to a few pages, or would you like me to run a full-site crawl to catch everything? Let's get this sorted out quickly.",
+    "publishedDateTime": "2026-09-17T00:17:18+0000",
+    "addedAt": "2026-09-17T00:19:26.118Z",
+    "url": "https://www.upwork.com/jobs/~022100378267206604865",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100378267206604865/apply/"
+  },
+  {
     "id": "2100371120046028470",
     "ciphertext": "~022100371120046028470",
     "title": "Website development for a new business",
