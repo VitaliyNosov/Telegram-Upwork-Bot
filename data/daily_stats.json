@@ -1,10 +1,10 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 45,
-  "matchedFilters": 11,
+  "totalScanned": 46,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 9,
+    "wordpress developer": 10,
     "woocommerce": 2
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022100443973137528223",
       "addedAt": "2026-09-17T04:39:13.816Z"
+    },
+    {
+      "title": "WordPress SEO & Website Design Expert",
+      "budget": "$10-$30/hr",
+      "score": 3094,
+      "url": "https://www.upwork.com/jobs/~022100587531455447142",
+      "addedAt": "2026-09-17T14:11:37.230Z"
     },
     {
       "title": "Ongoing web developer/programmer wanted",
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022100440944208105607",
       "addedAt": "2026-09-17T04:27:12.154Z"
-    },
-    {
-      "title": "Long-Term WordPress/Elementor Designer for Women-Focused E-commerce Brands",
-      "budget": "Fixed-price",
-      "score": 50,
-      "url": "https://www.upwork.com/jobs/~022100468617233661719",
-      "addedAt": "2026-09-17T06:17:22.730Z"
     }
   ]
 }
