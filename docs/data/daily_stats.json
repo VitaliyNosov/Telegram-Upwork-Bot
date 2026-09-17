@@ -1,10 +1,10 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 68,
-  "matchedFilters": 18,
+  "totalScanned": 69,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 17,
     "woocommerce": 2
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 3650,
       "url": "https://www.upwork.com/jobs/~022100360342611026867",
       "addedAt": "2026-09-16T23:07:15.394Z"
+    },
+    {
+      "title": "WordPress Developer: Brand Refresh on an Existing Custom Theme",
+      "budget": "$10-$30/hr",
+      "score": 3150,
+      "url": "https://www.upwork.com/jobs/~022100655244109860989",
+      "addedAt": "2026-09-17T18:39:16.176Z"
     },
     {
       "title": "Improve Website INP Load Times",
@@ -70,13 +77,6 @@
       "score": 142,
       "url": "https://www.upwork.com/jobs/~022100422532273660851",
       "addedAt": "2026-09-17T03:15:12.425Z"
-    },
-    {
-      "title": "Medspa Website Content Developer/ DO NOT contact me outside upwork",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022100346416461837727",
-      "addedAt": "2026-09-16T22:13:11.119Z"
     }
   ]
 }

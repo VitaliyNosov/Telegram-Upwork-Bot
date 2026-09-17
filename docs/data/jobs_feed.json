@@ -1,5 +1,31 @@
 [
   {
+    "id": "2100655244109860989",
+    "ciphertext": "~022100655244109860989",
+    "title": "WordPress Developer: Brand Refresh on an Existing Custom Theme",
+    "description": "We’re looking for a WordPress developer for these initial updates:\n\n1. Apply a new brand direction. Update colours, typography, copy, and photography across the site, replacing dated imagery with real photos.\n2. Simplify navigation and signup. Make membership the main destination, add a clear signup option beside login, and place “Start free trial” calls to action in the navigation, homepage hero, and below pricing.\n3. Bring selected content in front of the paywall. Make content such as the class calendar and member success stories publicly visible to help visitors understand the value before signing up. Paid functionality should remain protected.\n4. Optional: rebuild the homepage. Quote this separately from the initial updates.\n\nThe site runs on a custom theme, uses Advanced Custom Fields (ACF), and has existing CSS overrides. We want to work within the current WordPress setup. \n\nMembership/community content also involves Circle, so part of the job is identifying what belongs in WordPress and what requires a Circle setting, embed, or integration.\n\nYou should be comfortable inspecting custom PHP templates, ACF structures, and existing CSS. Please assess which changes can use existing components and which require custom development.\n\nWe expect work to be tested on staging, checked on mobile and desktop, and deployed with a backup and rollback plan. Preserve existing URLs, SEO, and signup/login functionality.\nPlease include:\n- Relevant examples of custom-theme and ACF work.\n- Your proposed approach, estimated timeline, and pricing.\n- What access and assets you need, and whether your estimate includes design/copy support or implementation only.\n\nThere is an opportunity for ongoing work, including landing pages, comparison pages, author showcases, and conversion improvements.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! \n\nI’d love to help you roll out your brand refresh and UX updates while preserving your custom theme, ACF setup, and SEO equity. \n\nWorking with custom PHP templates, Advanced Custom Fields, and existing CSS overrides is a daily focus for me. For your project, my approach would be to first audit your current components—like leveraging existing blocks for the navigation and paywall adjustments—before building custom styling where needed. I am also comfortable untangling membership flows and integrating or embedding Circle community content seamlessly. A great example of my custom theme and ACF work can be seen on https://www.thelifeyoucansave.org/.\n\nMy estimate covers implementation only (using your provided copy, colours, and photography assets), and includes rigorous mobile/desktop testing on staging with a complete backup and rollback plan in place. For the optional homepage rebuild, I can provide a separate quote once we review it. \n\nTo kick things off smoothly, could you share temporary WordPress admin, staging access, and your new brand guidelines? \n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-09-17T18:38:06+0000",
+    "addedAt": "2026-09-17T18:39:17.631Z",
+    "url": "https://www.upwork.com/jobs/~022100655244109860989",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100655244109860989/apply/"
+  },
+  {
     "id": "2100641323244245117",
     "ciphertext": "~022100641323244245117",
     "title": "Word Press Website Updates & New Service Page",
