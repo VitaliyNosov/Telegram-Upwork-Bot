@@ -1,5 +1,38 @@
 [
   {
+    "id": "2100641323244245117",
+    "ciphertext": "~022100641323244245117",
+    "title": "Word Press Website Updates & New Service Page",
+    "description": "I'm looking for a Word​ Press developer to make several updates to my existing psychology practice website. The site is already built and functioning and I'm not looking for a redesign.\n\nThe main update is adding a new service for Immigration Psychological Evaluations and integrating it into the existing website.\n\nThe work would include:\n\n​-Build and format a new Immigration Psychological Evaluations page. I will provide the copy.\n​-Keep the page consistent with the current website design, including fonts, colors, spacing, and overall style\n​-Add links/CTAs for immigration evaluations to several existing pages\n​-Update the contact form so visitors can select whether they are contacting me for therapy or an immigration evaluation\n​-Make a few content updates to existing pages related to the new service\n​-Make sure everything works and displays correctly on desktop and mobile\n​-Set up the basic on​ page SEO for the new page\n​-Update GA4 tracking so therapy and immigration evaluation inquiries can be tracked separately\n​-Test the forms, links, buttons and updated pages before completion\n\nI already have the content and general direction for the changes. I'm mainly looking for someone to implement everything in Word​ Press and make sure it fits cleanly with the existing site.\n\nWebsite: transformativepsych.com\n\nWhen applying, please include a few examples of similar Word​ Press work, your estimated cost for the project, estimated turnaround time, and any questions you have about the scope.\n\nThere may also be occasional website updates in the future if it's a good fit.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "elementor",
+      "website-optimization",
+      "wordpress",
+      "web-programming",
+      "html",
+      "seo",
+      "google-analytics"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you seamlessly integrate your new Immigration Psychological Evaluations service into your WordPress site while keeping the design, branding, and mobile responsiveness completely consistent. \n\nWith extensive experience in WordPress, Elementor, and form/tracking integrations, I will build out the new page using your copy, update your contact form with conditional selections, configure the basic on-page SEO, and update your GA4 tracking so you can monitor therapy and evaluation inquiries separately. \n\nHere is a relevant example of my recent WordPress work: https://www.thelifeyoucansave.org/\n\nEstimated Cost: $150 - $250 (depending on the exact Elementor setup and form structure)\nTurnaround Time: 2–3 business days from when you share access and content.\n\nA quick question: Is your current contact form built natively in Elementor Pro, or are you using a separate plugin like WPForms or Gravity Forms? \n\nLooking forward to helping you launch this new service!",
+    "publishedDateTime": "2026-09-17T17:43:03+0000",
+    "addedAt": "2026-09-17T17:45:18.346Z",
+    "url": "https://www.upwork.com/jobs/~022100641323244245117",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100641323244245117/apply/"
+  },
+  {
     "id": "2100626266489792244",
     "ciphertext": "~022100626266489792244",
     "title": "Full-Stack Developer for Website Launch",
