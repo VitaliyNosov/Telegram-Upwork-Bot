@@ -1,5 +1,31 @@
 [
   {
+    "id": "2100683256241082504",
+    "ciphertext": "~022100683256241082504",
+    "title": "Mission",
+    "description": "MissionEdition.com is placed on GoDaddy by owner who will give access to forward the domain to the IONOS server. The initial site has views that were shown as page images and I have been able to go into CHATGPT and extract all of the images and text independently*\n\nI have sent emails and documentation on this site. CHATGPT did a good job in the breakout of the pages, yet may have added unneeded images, just ignore those.\n\nWe need to complete this in under 3 weeks. The client wants a separate ADMIN access and when launched, he wants the site downloaded and email for his own backup*\n\nNOTES: Looking at the entire Mission Editions site we have now built, the core website is complete, but I noticed a few things I would address before you actually build and launch it.\n\nThe biggest issue is consistency, not another major page. The AI concepts evolved while we were creating them, so the navigation differs from page to page. I would standardize every page to:\n\nHOME | THE LIFE READINESS GAP | THE BOOK | FOR STUDENTS | FOR PARENTS | FOR SCHOOLS & PARTNERS | CUSTOM EDITIONS | ABOUT | CONTACT\n\nThere are also five practical items I would add or verify during the build:\n\nOne consistent logo/header/footer. Some concepts use the text-only Mission Editions logo while the Life Readiness Gap page introduces the student/arrow symbol. Pick one final logo treatment and use it everywhere.\nAmazon purchasing links. Every orange “Order” button should go directly to the correct Amazon book listing. Don't make visitors hunt for the purchase.\nCustom Edition conversion path. Every “Custom Edition,” “Get Started,” or “Schedule a Conversation” CTA should ultimately lead to either the Contact page or a dedicated inquiry form. The form should capture organization, contact name, email/phone, estimated number of books/students, timing, and what type of custom edition they're interested in.\nMobile version. These designs are desktop concepts. When building them in WordPress, the three- and four-column sections need deliberate tablet/mobile stacking rather than simply shrinking the desktop page.\nSEO/technical basics. Unique page titles/meta descriptions, descriptive image alt text, Organization/Book structured data, sitemap, Search Console/analytics, social-sharing image, favicon, SSL, privacy policy, accessibility basics, and a 404 page should be handled before launch.\nThere is one additional page I think is worth adding even though it doesn't need to be in the main navigation: a simple Thank You / Inquiry Received page after someone submits the Custom Edition form. That gives the visitor confirmation and also lets you measure actual inquiries rather than merely Contact-page visits.\n\nI would not add more marketing pages right now. The nine-page structure is already quite strong. In particular, The Life Readiness Gap → The Book → audience-specific pages → Custom Editions creates a logical path from problem → solution → relevance → action.\n\nMISSION EDITIONS\nMASTER WEBSITE BUILD BLUEPRINT was sent via email",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 255,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you build and launch MissionEdition.com on IONOS within your 3-week timeline, ensuring all the cleanup, standardization, and technical setup outlined in your brief are executed flawlessly.\n\nWith extensive experience in custom WordPress development, I will standardize your 9-page navigation, unify the branding (logo, header, and footer), configure your Amazon order links, and build out the custom inquiry form with the exact fields you need—plus the Thank You confirmation page. I'll also ensure the site is fully responsive on mobile/tablet, configure core SEO/technical basics, and set up separate admin access along with a complete site backup upon launch. You can review a sample of my clean WordPress work here: https://www.thelifeyoucansave.org/\n\nLet's hop on a quick chat to go over the master website blueprint and get started!",
+    "publishedDateTime": "2026-09-17T20:28:12+0000",
+    "addedAt": "2026-09-17T20:29:19.639Z",
+    "url": "https://www.upwork.com/jobs/~022100683256241082504",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100683256241082504/apply/"
+  },
+  {
     "id": "2100671521133278113",
     "ciphertext": "~022100671521133278113",
     "title": "Frontend Developer Needed to Fix and Polish Existing Landing Page to Match Design Referenc",
