@@ -1,10 +1,10 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 38,
-  "matchedFilters": 10,
+  "totalScanned": 39,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 2
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 2896,
       "url": "https://www.upwork.com/jobs/~022100378267206604865",
       "addedAt": "2026-09-17T00:19:24.824Z"
+    },
+    {
+      "title": "Experienced WordPress Webmaster Wanted – Website Modernization, Speed & SEO",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022100530341892968583",
+      "addedAt": "2026-09-17T10:23:20.005Z"
     },
     {
       "title": "Shopify Migration Expert with CVR, AOV, Funnels Focus (From WooCommerce/Memberpress/Elementor Stack)",
@@ -70,13 +77,6 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022100468617233661719",
       "addedAt": "2026-09-17T06:17:22.730Z"
-    },
-    {
-      "title": "Urgent: Divi Landing Page Optimization & Google Ads Tracking",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022100372691775828874",
-      "addedAt": "2026-09-17T02:57:15.150Z"
     }
   ]
 }
