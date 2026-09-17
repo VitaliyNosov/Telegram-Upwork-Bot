@@ -1,5 +1,38 @@
 [
   {
+    "id": "2100554136523813770",
+    "ciphertext": "~022100554136523813770",
+    "title": "Senior WordPress Engineer ( React, Gutenberg, GraphQL)",
+    "description": "Budget Range: ($35 to $55/hr )\nLocation: United States (Hybrid), New York Metropolitan Area\nPayment Method: Only Upwork ( No direct Payments)\n\nWe're seeking a Senior WordPress Engineer to join a leading digital media organization and help build high-traffic consumer-facing web experiences serving millions of users.\nThis role will focus on WordPress CMS development, React-based front-end applications, GraphQL APIs, and integrations supporting content, video, subscriptions, analytics, advertising, and mobile platforms.\n\nResponsibilities:\n\n- Develop custom WordPress themes, plugins, Gutenberg blocks, post types, taxonomies, and editorial workflows \n- Build modern React applications and reusable UI components \n- Design and optimize GraphQL schemas, queries, mutations, and resolvers \n- Integrate with third-party platforms including video, identity, subscriptions, analytics, search, and CDN services \n- Support performance, accessibility, SEO, scalability, and production reliability \n- Participate in code reviews, testing, CI/CD, troubleshooting, and release management \n\n\nRequired Skills:\n\n- 5+ years of WordPress development experience \n- Strong PHP, WordPress, React, JavaScript/TypeScript, and GraphQL expertise \n- Experience building custom themes, plugins, Gutenberg blocks, and content models \n- Experience with REST APIs, headless CMS architectures, and application integrations \n- Strong troubleshooting skills across frontend, backend, API, and caching layers \n\n\nPreferred Experience:\n\n- WordPress VIP \n- Media, publishing, streaming, newsroom, or other high-traffic consumer web platforms \n- Subscription, authentication, paywall, or entitlement solutions \n- Node.js, Docker, CI/CD, cloud platforms, Elasticsearch, analytics, CDN, or ad-tech technologies \n\nIf you've built scalable content platforms using WordPress, React, and GraphQL and have experience supporting large-scale digital products, we'd love to speak with you.\n\nNote: It's a full-time role. Please don't apply if you can't commit 40 hours a week",
+    "isHourly": true,
+    "hourlyBudgetMin": 35,
+    "hourlyBudgetMax": 55,
+    "budgetDisplay": "$35 - $55/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 81,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "cms-development",
+      "javascript",
+      "react-js",
+      "css",
+      "graphql",
+      "html",
+      "typescript"
+    ],
+    "score": 5600,
+    "coverLetter": "Hi! \n\nI’ve spent years building scalable, high-traffic WordPress platforms utilizing modern JavaScript, React, custom Gutenberg blocks, and GraphQL/headless architectures. I am fully available to commit 40 hours a week to this role. \n\nIn my recent work, I’ve developed custom themes, complex plugins, and advanced editorial workflows optimized for performance and scalability—skills I've applied to high-profile builds like https://about.offerup.com/. My core stack includes advanced PHP, JavaScript/TypeScript, React, and robust API integrations (REST and GraphQL), ensuring seamless data flow across frontend and backend layers. I'm also well-versed in performance tuning, caching layers, and production reliability for large-scale digital products.\n\nI'd love to discuss how my background aligns with your media platform's technical roadmap. When is a good time to connect this week?",
+    "publishedDateTime": "2026-09-17T14:56:07+0000",
+    "addedAt": "2026-09-17T14:57:18.882Z",
+    "url": "https://www.upwork.com/jobs/~022100554136523813770",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100554136523813770/apply/"
+  },
+  {
     "id": "2100587531455447142",
     "ciphertext": "~022100587531455447142",
     "title": "WordPress SEO & Website Design Expert",

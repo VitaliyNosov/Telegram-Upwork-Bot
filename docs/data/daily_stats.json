@@ -1,13 +1,20 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 48,
-  "matchedFilters": 12,
+  "totalScanned": 51,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 2
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Engineer ( React, Gutenberg, GraphQL)",
+      "budget": "$35-$55/hr",
+      "score": 5600,
+      "url": "https://www.upwork.com/jobs/~022100554136523813770",
+      "addedAt": "2026-09-17T14:57:17.461Z"
+    },
     {
       "title": "WooCommerce Ecommerce Marketing Manager – Long-Term Part-Time",
       "budget": "$15-$35/hr",
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022100371120046028470",
       "addedAt": "2026-09-16T23:51:23.720Z"
-    },
-    {
-      "title": "WordPress Website Update for Sign company",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022100440944208105607",
-      "addedAt": "2026-09-17T04:27:12.154Z"
     }
   ]
 }
