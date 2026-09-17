@@ -1,82 +1,8 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 80,
-  "matchedFilters": 21,
-  "byKeyword": {
-    "wordpress developer": 19,
-    "woocommerce": 2
-  },
-  "topJobs": [
-    {
-      "title": "WordPress + Elementor UX/UI Designer, Developer & SEO Expert",
-      "budget": "$20-$80/hr",
-      "score": 8099,
-      "url": "https://www.upwork.com/jobs/~022100619010976363425",
-      "addedAt": "2026-09-17T16:15:14.896Z"
-    },
-    {
-      "title": "Senior WordPress Engineer ( React, Gutenberg, GraphQL)",
-      "budget": "$35-$55/hr",
-      "score": 5600,
-      "url": "https://www.upwork.com/jobs/~022100554136523813770",
-      "addedAt": "2026-09-17T14:57:17.461Z"
-    },
-    {
-      "title": "WooCommerce Ecommerce Marketing Manager – Long-Term Part-Time",
-      "budget": "$15-$35/hr",
-      "score": 3650,
-      "url": "https://www.upwork.com/jobs/~022100360342611026867",
-      "addedAt": "2026-09-16T23:07:15.394Z"
-    },
-    {
-      "title": "WordPress Developer: Brand Refresh on an Existing Custom Theme",
-      "budget": "$10-$30/hr",
-      "score": 3150,
-      "url": "https://www.upwork.com/jobs/~022100655244109860989",
-      "addedAt": "2026-09-17T18:39:16.176Z"
-    },
-    {
-      "title": "Improve Website INP Load Times",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022100443973137528223",
-      "addedAt": "2026-09-17T04:39:13.816Z"
-    },
-    {
-      "title": "Frontend Developer Needed to Fix and Polish Existing Landing Page to Match Design Referenc",
-      "budget": "$5-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022100671521133278113",
-      "addedAt": "2026-09-17T19:43:19.642Z"
-    },
-    {
-      "title": "WordPress SEO & Website Design Expert",
-      "budget": "$10-$30/hr",
-      "score": 3094,
-      "url": "https://www.upwork.com/jobs/~022100587531455447142",
-      "addedAt": "2026-09-17T14:11:37.230Z"
-    },
-    {
-      "title": "Ongoing web developer/programmer wanted",
-      "budget": "$18-$30/hr",
-      "score": 3000,
-      "url": "https://www.upwork.com/jobs/~022100481063468577674",
-      "addedAt": "2026-09-17T10:07:20.531Z"
-    },
-    {
-      "title": "WordPress Broken Link Fixer",
-      "budget": "$5-$28/hr",
-      "score": 2896,
-      "url": "https://www.upwork.com/jobs/~022100378267206604865",
-      "addedAt": "2026-09-17T00:19:24.824Z"
-    },
-    {
-      "title": "Experienced WordPress Webmaster Wanted – Website Modernization, Speed & SEO",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022100530341892968583",
-      "addedAt": "2026-09-17T10:23:20.005Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
