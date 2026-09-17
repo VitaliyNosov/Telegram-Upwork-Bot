@@ -1,10 +1,10 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 37,
-  "matchedFilters": 9,
+  "totalScanned": 38,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 2
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022100443973137528223",
       "addedAt": "2026-09-17T04:39:13.816Z"
+    },
+    {
+      "title": "Ongoing web developer/programmer wanted",
+      "budget": "$18-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022100481063468577674",
+      "addedAt": "2026-09-17T10:07:20.531Z"
     },
     {
       "title": "WordPress Broken Link Fixer",

@@ -1,5 +1,36 @@
 [
   {
+    "id": "2100481063468577674",
+    "ciphertext": "~022100481063468577674",
+    "title": "Ongoing web developer/programmer wanted",
+    "description": "Initially looking for someone to support a full-time dev/programmer administrator of several domains & sites. This could turn into a full-time job but hours set for certain jobs to begin with. Needs to be someone with years of experience and a wide-range of skills in matters of domain names, DNS, web dev, plugins, possible some app developement also. If starting out, this isn't what we're after right now. Needing someone who can run from the start, taking on projects and assisting the current manager, under his direction. \nWill need to be self-sufficient in setup and have a steady net connection.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$18 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "javascript",
+      "html",
+      "web-programming",
+      "php",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi!\n\nI’m ready to hit the ground running and assist your full-time administrator with managing, maintaining, and developing across your network of domains and sites. \n\nWith years of professional experience in WordPress, PHP, JavaScript, and broader web infrastructure (including DNS, domain management, and plugin/API integrations), I am fully self-sufficient and equipped to take on tasks under your manager's direction from day one. Whether we are tackling routine updates, troubleshooting technical errors, or expanding site functionality, I focus on clean code and reliable, long-term support. You can view some of my recent professional WordPress builds here: https://www.thelifeyoucansave.org/\n\nLet’s chat about your current stack and how I can best support your team. Are your sites currently hosted in a centralized environment, or spread across multiple hosts?",
+    "publishedDateTime": "2026-09-17T10:06:22+0000",
+    "addedAt": "2026-09-17T10:07:21.755Z",
+    "url": "https://www.upwork.com/jobs/~022100481063468577674",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100481063468577674/apply/"
+  },
+  {
     "id": "2100468617233661719",
     "ciphertext": "~022100468617233661719",
     "title": "Long-Term WordPress/Elementor Designer for Women-Focused E-commerce Brands",
