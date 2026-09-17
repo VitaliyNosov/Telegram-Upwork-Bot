@@ -1,10 +1,10 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 20,
-  "matchedFilters": 4,
+  "totalScanned": 21,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 3,
+    "wordpress developer": 4,
     "woocommerce": 1
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022100371120046028470",
       "addedAt": "2026-09-16T23:51:23.720Z"
+    },
+    {
+      "title": "Urgent: Divi Landing Page Optimization & Google Ads Tracking",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022100372691775828874",
+      "addedAt": "2026-09-17T02:57:15.150Z"
     }
   ]
 }

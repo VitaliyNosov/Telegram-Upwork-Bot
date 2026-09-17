@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100372691775828874",
+    "ciphertext": "~022100372691775828874",
+    "title": "Urgent: Divi Landing Page Optimization & Google Ads Tracking",
+    "description": "Urgent: Divi Landing Page Optimization & Google Ads Tracking\n\nI need an experienced WordPress/Divi developer to finish optimizing an existing dental landing page hosted on SiteGround. The page is built and live. Immediate availability is preferred.\n\nWork needed:\n\n- Improve mobile loading speed and fix any layout issues.\n- Review images, SiteGround caching, and relevant plugin conflicts.\n- Check phone numbers, hours, buttons, and appointment links.\n- Investigate a Google Search Console “Alternate page with proper canonical tag” notice and correct any confirmed configuration problems.\n- Coordinate with our Google Ads manager to verify CallRail call tracking and attribution of completed appointment requests.\n\nThe appointment form is on our separate main website, hosted by Great Dental Websites. It has been tested and successfully delivers email. The remaining task is to verify that completed requests originating from landing-page ad visits are tracked correctly. Coordinate with that website provider if needed.\n\nBack up the current live page before making changes. On completion, provide before-and-after mobile performance results, tracking test results, and a brief summary of changes or outstanding issues.\n\nPlease include:\n\n1. Your earliest start time and realistic completion time.\n2. Your experience with Divi, SiteGround, and Google Ads conversion tracking.\n3. One relevant project example.\n4. A fixed-price estimate, subject to reviewing the website.\n\nThe website URL will be shared privately with shortlisted applicants.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "google-adwords",
+      "google-analytics",
+      "google-tag-manager"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can start immediately and have this landing page fully optimized within 24 hours of receiving access.\n\nI am an experienced WordPress and Divi developer with extensive background troubleshooting SiteGround caching environments, optimizing mobile Core Web Vitals, and resolving technical SEO notices like canonical tags. I also regularly coordinate with marketing teams to verify Google Ads conversion tracking, Google Tag Manager, and call attribution tools like CallRail. \n\nFor a recent example of my WordPress performance and layout work, you can review https://www.thelifeyoucansave.org/. \n\nOnce I review the specific URL, I can provide a precise fixed-price quote. To secure your current setup, I will immediately take a full backup before making any adjustments, and I'll deliver clear before-and-after performance metrics upon completion.\n\nCould you share the landing page URL so I can review the current setup and provide my final estimate?",
+    "publishedDateTime": "2026-09-17T02:55:04+0000",
+    "addedAt": "2026-09-17T02:57:16.569Z",
+    "url": "https://www.upwork.com/jobs/~022100372691775828874",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100372691775828874/apply/"
+  },
+  {
     "id": "2100378267206604865",
     "ciphertext": "~022100378267206604865",
     "title": "WordPress Broken Link Fixer",
