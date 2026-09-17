@@ -1,10 +1,10 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-16",
-  "totalScanned": 25,
-  "matchedFilters": 6,
+  "totalScanned": 26,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 4,
+    "wordpress developer": 5,
     "woocommerce": 2
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022100371120046028470",
       "addedAt": "2026-09-16T23:51:23.720Z"
+    },
+    {
+      "title": "WordPress Website Update for Sign company",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022100440944208105607",
+      "addedAt": "2026-09-17T04:27:12.154Z"
     },
     {
       "title": "Urgent: Divi Landing Page Optimization & Google Ads Tracking",

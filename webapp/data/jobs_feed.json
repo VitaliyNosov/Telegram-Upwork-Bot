@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100440944208105607",
+    "ciphertext": "~022100440944208105607",
+    "title": "WordPress Website Update for Sign company",
+    "description": "We are looking for a WordPress web designer/developer to update our existing website for SignsCenter, a commercial signage contractor in South Florida. This is not an SEO or marketing project. We need help improving the current design and layout, updating pages and sections, ensuring mobile responsiveness, and implementing our existing branding, copy, and project photos. We do not want to rebuild the website from scratch unless necessary. Please send 2–3 examples of WordPress websites you personally designed or updated, preferably B2B, construction, contractor, real estate, or commercial websites.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nSignsCenter sounds like a great project, and I'd love to help you refresh your commercial signage website without doing a costly, unnecessary full rebuild. \n\nI specialize in WordPress layout updates, mobile responsiveness optimization, and integrating new branding, copy, and portfolio photos into existing sites. I focus on clean code and efficient updates so your site looks polished and professional while maintaining its current backend structure. \n\nYou can see an example of my work handling structured layouts and design updates here: https://www.snopud.com/\n\nCould you share a quick list of the specific pages or sections you're looking to update first? Let's chat about how we can get this knocked out quickly.",
+    "publishedDateTime": "2026-09-17T04:26:41+0000",
+    "addedAt": "2026-09-17T04:27:13.308Z",
+    "url": "https://www.upwork.com/jobs/~022100440944208105607",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100440944208105607/apply/"
+  },
+  {
     "id": "2100422532273660851",
     "ciphertext": "~022100422532273660851",
     "title": "Shopify Migration Expert with CVR, AOV, Funnels Focus (From WooCommerce/Memberpress/Elementor Stack)",
