@@ -1,10 +1,10 @@
 {
   "date": "2026-09-17",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 74,
-  "matchedFilters": 19,
+  "totalScanned": 75,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 17,
+    "wordpress developer": 18,
     "woocommerce": 2
   },
   "topJobs": [
@@ -44,6 +44,13 @@
       "addedAt": "2026-09-17T04:39:13.816Z"
     },
     {
+      "title": "Frontend Developer Needed to Fix and Polish Existing Landing Page to Match Design Referenc",
+      "budget": "$5-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022100671521133278113",
+      "addedAt": "2026-09-17T19:43:19.642Z"
+    },
+    {
       "title": "WordPress SEO & Website Design Expert",
       "budget": "$10-$30/hr",
       "score": 3094,
@@ -70,13 +77,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022100530341892968583",
       "addedAt": "2026-09-17T10:23:20.005Z"
-    },
-    {
-      "title": "Shopify Migration Expert with CVR, AOV, Funnels Focus (From WooCommerce/Memberpress/Elementor Stack)",
-      "budget": "Fixed-price",
-      "score": 142,
-      "url": "https://www.upwork.com/jobs/~022100422532273660851",
-      "addedAt": "2026-09-17T03:15:12.425Z"
     }
   ]
 }

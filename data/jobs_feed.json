@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100671521133278113",
+    "ciphertext": "~022100671521133278113",
+    "title": "Frontend Developer Needed to Fix and Polish Existing Landing Page to Match Design Referenc",
+    "description": "I already have the website running and hosted through GitHub Pages. The site is currently very simple and primarily uses HTML and CSS. I also have a clear visual reference showing exactly how I want the first part of the homepage to look.\n\nI attempted to recreate the design using AI tools, but the implementation does not match the reference closely enough. I now want someone with strong frontend and design skills to take the existing site and finish it properly.\n\nThis is not a full website build from scratch. The main job is to improve the existing homepage and accurately recreate the reference design.\n\nWhat I Need\n1 . Review the existing GitHub repository and current website\nRebuild the top portion of the homepage to closely match my provided reference image\nKeep the existing Nest logo, branding, colors, and overall identity\nCreate a polished desktop and mobile responsive layout\nBuild the hero section with the large headline, email signup, benefits, and Nest phone/app mockup\nCreate the “Take the awkward out of money” section\nCreate the “Built for real life” section\nAdd a clean New Zealand/Auckland visual section\nFix any broken images, icons, asset paths, spacing, and typography\nMake sure the existing early access/signup functionality continues working\nUse proper HTML/CSS rather than inserting the entire design as one static image\nMake the finished page closely match the reference in spacing, proportions, typography, colors, and overall feel\n\n\nIdeal Freelancer\n\nStrong HTML/CSS frontend skills, responsive web design experience, good visual judgment, experience reproducing Figma/mockup designs, GitHub familiarity, and attention to spacing and typography.\n\n\n\nWhen Applying\n\nPlease send 2 or 3 examples of landing pages you personally built, preferably where you worked from an existing design or mockup.",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$5 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "github"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! Here are two recent landing pages I built by closely translating design mockups into clean, responsive HTML/CSS:\n\n- https://about.offerup.com/\n- https://www.daysforgirls.org/\n\nI specialize in frontend development with a strong eye for typography, spacing, and pixel-perfect execution. I can easily review your GitHub repository, keep your existing email signup and branding intact, and rebuild the top sections of your homepage (hero, \"awkward out of money,\" and \"built for real life\") so they match your visual reference precisely across both desktop and mobile—no static image shortcuts.\n\nAre you available to share the design reference and GitHub link so I can take a quick look?",
+    "publishedDateTime": "2026-09-17T19:42:19+0000",
+    "addedAt": "2026-09-17T19:43:20.806Z",
+    "url": "https://www.upwork.com/jobs/~022100671521133278113",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100671521133278113/apply/"
+  },
+  {
     "id": "2100655244109860989",
     "ciphertext": "~022100655244109860989",
     "title": "WordPress Developer: Brand Refresh on an Existing Custom Theme",
