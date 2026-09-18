@@ -1,5 +1,33 @@
 [
   {
+    "id": "2100845563383493537",
+    "ciphertext": "~022100845563383493537",
+    "title": "Website edits",
+    "description": "I have an existing WordPress website built using the Avada Builder (Avada Live) that has already been copied over to my new domain. The structural layout is there, but it needs a professional to clean up the content and finish the site.\nRequired Tasks:\n•\tLocate and remove all placeholder text (Lorem Ipsum) across all pages.\n•\tSet up a professional \"Coming Soon / Under Construction\" landing page so the live site is hidden from the public while we work.\n•\tUpdate text areas, headers, and contact forms with my actual business details (I will provide the copy).\n•\tReview portfolio pages to ensure architectural drawings and project images are crisp, sharp, and properly formatted without slowing down the site.\n•\tKeep unused or template pages hidden as \"Drafts\" so they don't impact Google search results. Website:\ncityscapesdesigngroup.com",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.54,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "avada-theme-customization",
+      "seo",
+      "wordpress"
+    ],
+    "score": 3091,
+    "coverLetter": "Hi! I can help you clean up and finalize your new Avada site so it's ready for the public. \n\nI work extensively with WordPress and page builders like Avada, Elementor, and WPBakery, allowing me to efficiently update layouts, manage copy, and configure forms. For your specific tasks, I will methodically replace all placeholder text, drop in your actual business details, and properly hide or draft any unused template pages to protect your SEO. Additionally, I’ll optimize your architectural drawings and portfolio images to ensure they look crisp and sharp without hurting your page speed, and set up a clean \"Coming Soon\" landing page.\n\nYou can check out some of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nWhen do you want to get started? Send over the final copy and business details whenever you're ready.",
+    "publishedDateTime": "2026-09-18T07:13:57+0000",
+    "addedAt": "2026-09-18T07:15:52.388Z",
+    "url": "https://www.upwork.com/jobs/~022100845563383493537",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100845563383493537/apply/"
+  },
+  {
     "id": "2100818522538682100",
     "ciphertext": "~022100818522538682100",
     "title": "Expert Wordpress Site",
