@@ -1,5 +1,31 @@
 [
   {
+    "id": "2100818522538682100",
+    "ciphertext": "~022100818522538682100",
+    "title": "Expert Wordpress Site",
+    "description": "Our website project is running behind schedule, and we need multiple experienced designers and developers to work together with our existing team and get it back on track.\n\nWe need help with:\nPixel-perfect WordPress pages built in Elementor.\nRich, complex layouts that work beautifully across all devices.\nKeeping the site fast, lightweight and clean.\nHeadless Shopify integration.\n\nStrong experience, attention to detail and the ability to collaborate are essential. Immediate availability is preferred.\n\nPlease apply with direct links to 2-3 LIVE websites you have worked on, explaining your contribution. Please no portfolio links or Dropbox folders - we need to view the actual live sites.\n\nInclude your earliest start date, weekly availability and hourly rate.",
+    "isHourly": true,
+    "hourlyBudgetMin": 40,
+    "hourlyBudgetMax": 70,
+    "budgetDisplay": "$40 - $70/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.8,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 88,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor"
+    ],
+    "score": 7096,
+    "coverLetter": "Hi! I can start immediately and am available for 40 hours per week at $45/hour. \n\nYour project caught my eye because building complex, pixel-perfect layouts in Elementor while keeping the site fast and lightweight is right in my wheelhouse. I specialize in WordPress performance optimization and custom Elementor development, ensuring intricate designs translate seamlessly across all devices without slowing down. I also have solid experience handling integrations like the headless Shopify setup you mentioned.\n\nHere are two live websites I've built and optimized:\n- https://www.thelifeyoucansave.org/ (Custom development, complex responsive layouts, and strict performance optimization)\n- https://www.cchpca.org/ (Elementor build and custom layout implementation)\n\nWhen would you like to jump on a quick call to align with the existing team and get this project back on track?",
+    "publishedDateTime": "2026-09-18T05:26:44+0000",
+    "addedAt": "2026-09-18T05:27:14.633Z",
+    "url": "https://www.upwork.com/jobs/~022100818522538682100",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100818522538682100/apply/"
+  },
+  {
     "id": "2100681491866301345",
     "ciphertext": "~022100681491866301345",
     "title": "WordPress Developer Needed for Bug Fixes & Website Design Updates",

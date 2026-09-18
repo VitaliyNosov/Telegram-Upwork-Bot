@@ -1,12 +1,19 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 20,
-  "matchedFilters": 2,
+  "totalScanned": 21,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "Expert Wordpress Site",
+      "budget": "$40-$70/hr",
+      "score": 7096,
+      "url": "https://www.upwork.com/jobs/~022100818522538682100",
+      "addedAt": "2026-09-18T05:27:13.251Z"
+    },
     {
       "title": "WordPress Developer Needed for Bug Fixes & Website Design Updates",
       "budget": "$20-$40/hr",
