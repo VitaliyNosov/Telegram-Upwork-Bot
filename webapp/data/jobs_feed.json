@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101010455312405470",
+    "ciphertext": "~022101010455312405470",
+    "title": "WordPress Disk Space Optimization on Siteground",
+    "description": "We need a freelancer to help reduce our WordPress site’s disk space usage on Siteground. Our storage is currently at 90% capacity, and we need to bring it down to ensure the site continues to function properly. The work includes identifying large files, removing unnecessary data, and implementing a plan to prevent future storage issues. Please share relevant experience with WordPress performance and hosting optimization.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.8,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "css",
+      "php",
+      "html"
+    ],
+    "score": 3096,
+    "coverLetter": "Hi! \n\nI can help you audit and reduce your WordPress disk space usage on SiteGround to get you safely away from that 90% capacity limit. \n\nDisk bloat usually comes down to oversized media libraries, unoptimized database transients, leftover backup archives, and old plugin/theme files. I specialize in WordPress performance, server-level troubleshooting, and database optimization using tools like WP-CLI. \n\nMy approach involves auditing your storage to safely strip out unnecessary data, cleaning up server directories, and setting up a routine maintenance plan (including automated log rotation and backup retention limits) so this doesn't creep back up on you. \n\nFor a similar performance and optimization overhaul, you can take a look at my work on https://www.cchpca.org/.\n\nWhen is a good time to take a quick look inside your SiteGround account?",
+    "publishedDateTime": "2026-09-18T21:09:44+0000",
+    "addedAt": "2026-09-18T21:11:26.356Z",
+    "url": "https://www.upwork.com/jobs/~022101010455312405470",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101010455312405470/apply/"
+  },
+  {
     "id": "2101028002776514841",
     "ciphertext": "~022101028002776514841",
     "title": "Custom Restaurant Online Ordering Developer",

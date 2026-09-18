@@ -1,8 +1,18 @@
 {
   "date": "2026-09-19",
   "lastDigestSentDate": "2026-09-18",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress Disk Space Optimization on Siteground",
+      "budget": "$15-$30/hr",
+      "score": 3096,
+      "url": "https://www.upwork.com/jobs/~022101010455312405470",
+      "addedAt": "2026-09-18T21:11:24.848Z"
+    }
+  ]
 }
