@@ -1,10 +1,10 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 56,
-  "matchedFilters": 12,
+  "totalScanned": 57,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -51,6 +51,13 @@
       "addedAt": "2026-09-18T09:21:25.668Z"
     },
     {
+      "title": "WordPress Divi/Elementor Page Builder for Ongoing Website Content & Layout Work",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022100973171927533866",
+      "addedAt": "2026-09-18T15:43:24.373Z"
+    },
+    {
       "title": "Website edits",
       "budget": "$15-$30/hr",
       "score": 3091,
@@ -70,13 +77,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022100886493092603817",
       "addedAt": "2026-09-18T09:59:14.003Z"
-    },
-    {
-      "title": "Connect Gravity Forms to PayPal",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022100943353518058716",
-      "addedAt": "2026-09-18T13:47:41.240Z"
     }
   ]
 }
