@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101028002776514841",
+    "ciphertext": "~022101028002776514841",
+    "title": "Custom Restaurant Online Ordering Developer",
+    "description": "I need a developer to build a fully custom restaurant online ordering system connected to Square as the backend. The work includes creating a custom online store experience for customers, integrating with Square for order processing, and ensuring the system is reliable and easy to use. Prior experience building custom online ordering solutions with Square is required. Please share relevant examples of similar work and your approach to delivering a smooth ordering experience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "data-entry",
+      "english"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nBuilding a seamless online ordering system that relies on Square as a bulletproof backend requires a strong grasp of both custom WordPress/PHP development and reliable payment API integrations. I can build a fast, intuitive ordering experience for your customers while ensuring every transaction and order syncs smoothly with Square. \n\nWith extensive experience in custom WordPress development, WooCommerce, and API integrations (including Stripe and PayPal, alongside custom REST API setups), I specialize in creating reliable, user-friendly e-commerce and checkout flows. For instance, you can review some of my large-scale custom WordPress implementations like https://www.cchpca.org/.\n\nMy approach focuses on clean PHP code, a mobile-first UI for the menu and cart, and robust error handling so your kitchen never misses an order. \n\nWhat is your preferred timeline for getting the ordering system up and running? Let's chat!",
+    "publishedDateTime": "2026-09-18T19:18:44+0000",
+    "addedAt": "2026-09-18T19:19:30.583Z",
+    "url": "https://www.upwork.com/jobs/~022101028002776514841",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101028002776514841/apply/"
+  },
+  {
     "id": "2101020461247080152",
     "ciphertext": "~022101020461247080152",
     "title": "Modernize Website for SEO and SEM",
