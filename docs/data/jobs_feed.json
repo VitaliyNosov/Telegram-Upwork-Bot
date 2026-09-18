@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101037855904775030",
+    "ciphertext": "~022101037855904775030",
+    "title": "WordPress Developer – Convert Brochure Into 10-Page Website",
+    "description": "We're looking for an experienced WordPress developer to turn an existing, professionally designed multi-page brochure into a complete 10-page website.\n\nThe brochure is already finished and will provide the content, branding, colors, images, and overall design direction.\n\nThe website should be built using Divi or Elementor and must be easy for us to edit afterward.\n\nRequirements:\n\n-Approximately 10 pages\n-WordPress using Divi or Elementor\n-Closely follow the existing brochure design\n-Fully responsive for desktop, tablet, and mobile\n-Professional header, footer, navigation, and contact forms\n-Good page speed and basic SEO structure\n-Clean, modern, professional finish\n\nWe will provide the complete brochure and available source files/assets.\n\nPlease send examples of similar WordPress projects, your estimated turnaround time, and a fixed-price quote.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$18 - $40/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 228,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "css",
+      "graphic-design"
+    ],
+    "score": 4150,
+    "coverLetter": "Hi! \n\nI can help you convert your designed multi-page brochure into a clean, responsive, and easy-to-edit 10-page WordPress website using Elementor or Divi, ensuring it matches your branding and source assets pixel-for-pixel. \n\nWith extensive experience building custom WordPress sites from existing designs (such as https://www.cchpca.org/), I focus on creating intuitive layouts that your team can easily update moving forward, alongside a professional header, footer, contact forms, and strong baseline SEO/page speed.\n\nCould you share the brochure and assets so I can review the page layouts and provide an accurate fixed-price quote and estimated turnaround time? \n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-09-18T22:58:41+0000",
+    "addedAt": "2026-09-18T22:59:20.704Z",
+    "url": "https://www.upwork.com/jobs/~022101037855904775030",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101037855904775030/apply/"
+  },
+  {
     "id": "2101059349935063321",
     "ciphertext": "~022101059349935063321",
     "title": "WordPress Developer: Fix Core Web Vitals & Speed Issues (Beyond Caching Plugin)",
