@@ -1,10 +1,10 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 26,
-  "matchedFilters": 4,
+  "totalScanned": 27,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 7096,
       "url": "https://www.upwork.com/jobs/~022100818522538682100",
       "addedAt": "2026-09-18T05:27:13.251Z"
+    },
+    {
+      "title": "Expert Designer for Wordpress using Elementor",
+      "budget": "$40-$70/hr",
+      "score": 7096,
+      "url": "https://www.upwork.com/jobs/~022100846838393563049",
+      "addedAt": "2026-09-18T07:21:33.488Z"
     },
     {
       "title": "WordPress Developer Needed for Bug Fixes & Website Design Updates",
