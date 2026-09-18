@@ -1,5 +1,37 @@
 [
   {
+    "id": "2100876316302130454",
+    "ciphertext": "~022100876316302130454",
+    "title": "Web Developer for Corporate Website, Two Landing Pages and Recruitment Integration (Fixed Fee)",
+    "description": "We are looking for an experienced web developer to build a new corporate website for one of our holding companies, launch two standalone landing pages, and add a recruitment page to an existing group website. The copy, sitemap, brand guidelines, image and video assets and mockups are approved and ready. The work starts next week.\n\nScope\n\n1. Corporate website of approximately 21 pages, built to an approved sitemap, copy set and brand guidelines. Pages cover the company overview, leadership and governance, acquisitions, value creation, partnerships, careers, contact and legal policies.\n\n2. A card-based leadership module with a simple CMS so non-technical staff can add, edit and unpublish board profiles.\n\n3. Two single-page landing sites with contact forms and email notifications, including migration of legacy code and assets to staging.\n\n4. A recruitment page added to an existing website, with server-side handling of applicant details and CV uploads (PDF and Word), passed to our HR systems through Zapier webhooks.\n\n5. Contact form endpoints across the site, routed to CRM and email through Zapier.\n\n6. Invisible spam protection on all forms: Cloudflare Turnstile or reCAPTCHA v3, honeypot fields, rate limiting, email validation and filtering rules in the workflow.\n\n7. An SEO strategy for approval, then implementation.\n\n8. Cross-browser and responsive testing (Safari, Chrome, Edge, Firefox, iOS and Android; mobile through ultra-wide) and WCAG 2.2 Level AA fundamentals.\n\n9. Staging to production migration, DNS cutover, a handover session for our team, and written SOPs for the website and recruitment system.\n\n10. Defect correction for 30 days after launch at no extra charge.\n\nPayment\n\nFixed fee, paid in three milestones: 20% on approved master templates with the landing pages and recruitment page live; 30% on the full site complete and tested on staging; 50% on launch and handover.\n\nTerms\n\nAll designs, code and documents created for the project belong to us on full payment. Domains, hosting, analytics and admin accounts sit in accounts we control. Any third-party software or recurring cost is disclosed before use. The project runs through a Lark project plan with milestone approval at each stage.\n\nWhat we are looking for\n\nA portfolio with corporate or professional services websites you built end to end.\nWorking experience with Zapier webhooks, form handling with file uploads, and a CMS suited to non-technical editors.\nClear written English and reliable delivery against agreed dates.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Singapore",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 100,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website",
+      "website-redesign",
+      "web-design",
+      "web-programming",
+      "html",
+      "wordpress",
+      "css"
+    ],
+    "score": 95,
+    "coverLetter": "Hi! I can help you build this corporate website, landing pages, and recruitment integration starting next week. \n\nWith extensive experience developing professional corporate websites using WordPress and Advanced Custom Fields (ACF), I routinely set up intuitive, card-based custom modules so non-technical staff can easily manage content like leadership boards. I also have deep hands-on experience implementing secure form endpoints, file uploads (PDF/Word), and server-side logic integrated seamlessly with Zapier webhooks, CRM routing, and robust spam protection like Cloudflare Turnstile. \n\nFor a look at my corporate web development work, you can review this project from my portfolio: https://about.offerup.com/\n\nAre you planning to use Cloudflare Turnstile or reCAPTCHA v3 for the spam protection? Let's connect in chat to review your mockups and map out the Lark timeline.",
+    "publishedDateTime": "2026-09-18T09:15:57+0000",
+    "addedAt": "2026-09-18T09:17:30.825Z",
+    "url": "https://www.upwork.com/jobs/~022100876316302130454",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100876316302130454/apply/"
+  },
+  {
     "id": "2100846838393563049",
     "ciphertext": "~022100846838393563049",
     "title": "Expert Designer for Wordpress using Elementor",
