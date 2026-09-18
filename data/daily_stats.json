@@ -1,10 +1,10 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 42,
-  "matchedFilters": 8,
+  "totalScanned": 44,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 3091,
       "url": "https://www.upwork.com/jobs/~022100845563383493537",
       "addedAt": "2026-09-18T07:15:50.669Z"
+    },
+    {
+      "title": "WordPress Website Build - Local Service Business (CCTV & Alarm Installer), 18 Pages, Content Ready",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022100925908092155232",
+      "addedAt": "2026-09-18T12:38:00.309Z"
     },
     {
       "title": "Website Development",

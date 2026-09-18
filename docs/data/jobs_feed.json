@@ -1,5 +1,31 @@
 [
   {
+    "id": "2100925908092155232",
+    "ciphertext": "~022100925908092155232",
+    "title": "WordPress Website Build - Local Service Business (CCTV & Alarm Installer), 18 Pages, Content Ready",
+    "description": "Description:\n\nWe're looking for a WordPress developer to build a brand-new website for TSV Security, a CCTV and smart alarm installation business serving Yorkshire, Greater Manchester and Lancashire. The site will be driven primarily by paid Google and Meta Ads traffic, so speed, clean structure and conversion are the priority over visual flourish.\n\nWhat's already done - you're not starting from a blank page:\n\nFull page copy is written and provided for all 18 pages, including the About Us page\nColour direction is confirmed: off-white background, deep navy as the primary brand colour, coral as the CTA/accent colour\nFull sitemap is locked (see below)\nWe've already audited our current site, so we know exactly what technical issues to avoid in the new build\n\nScope - 18 pages total:\n\n4 x Service pages: CCTV & Alarm Specialists (main), CCTV for Home, Home Alarm Systems, Commercial CCTV & Alarm\n12 location landing pages covering our service area (11 published at launch, 1 built but kept unpublished for future use)\n1 x About Us page\n\nReviews, quote requests, and contact details are handled as CTAs and embedded elements across all pages, rather than as separate standalone pages.\n\nPlatform: WordPress, built on a minimal, lightweight theme - not a page-builder-heavy template. Every page needs to load fast, especially on mobile (roughly 90% of our traffic).\n\nKey requirements:\n\nReal, distinct, server-rendered URLs for every page (not a single-page-app shell)\nGA4, Google Ads conversion tracking, and Meta Ads Pixel installed site-wide\nrobots.txt and an XML sitemap\nA working quote-request CTA/form (3 fields: name, phone, preferred callback time) present on every page\nGoogle reviews synced automatically and displayed as a carousel on every page\nMobile-first: target page weight under ~500KB, tested on a throttled connection, not just office Wi-Fi\nBasic on-page SEO: meta tags, schema markup matching our actual business details\n\nWhat we'll provide: all page content, logo/brand files, and either original installation/product photography or a recommendation from you on where to source suitable stock imagery.\n\nBudget & structure: £500 total, split as two milestones - £250 for an approved design direction (mock-up of homepage, a service page, and a location page) and £250 for the full build, QA and launch.\n\nTimeline: We'd like this live within 5-7 days of the design direction being approved.\n\nTo apply, please include:\n\nA brief note on your approach to page speed on a lightweight WordPress build\nConfirmation you're comfortable working from supplied content and a locked colour palette, rather than starting from scratch\nYour day rate or estimate for adding an additional page post-launch, as the business grows\n\nAll candidates will be reviewed Saturday evening.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! Regarding your questions: I prioritize speed by avoiding heavy page builders, instead using a lightweight, custom-coded theme approach with minimal dependencies to keep page weight well under 500KB. I am fully comfortable working with your locked-in content and color palette, and my rate for adding future landing pages is £50 per page.\n\nMy focus is on conversion-ready, high-performance architecture. I have extensive experience building sites like https://www.seeintl.org/ with clean, server-rendered code that passes Core Web Vitals, ensuring your mobile traffic converts effectively. I’ll handle the full GA4/Meta Pixel setup and schema markup to ensure your local SEO is rock solid from day one.\n\nI’m ready to hit your 5-7 day timeline—would you like to hop on a quick call to discuss the staging environment setup?",
+    "publishedDateTime": "2026-09-18T12:37:26+0000",
+    "addedAt": "2026-09-18T12:38:13.694Z",
+    "url": "https://www.upwork.com/jobs/~022100925908092155232",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100925908092155232/apply/"
+  },
+  {
     "id": "2100886493092603817",
     "ciphertext": "~022100886493092603817",
     "title": "Website Development",
