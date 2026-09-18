@@ -1,5 +1,35 @@
 [
   {
+    "id": "2101059349935063321",
+    "ciphertext": "~022101059349935063321",
+    "title": "WordPress Developer: Fix Core Web Vitals & Speed Issues (Beyond Caching Plugin)",
+    "description": "My WordPress site (poyeyphotos.com) is failing Google's Core Web Vitals on mobile, and I need a developer who can go beyond plugin and WP Rocket settings into actual code-level fixes.\n\nWhat's already in place (please don't propose these — they're done):\n* WP Rocket, actively configured\n* Image compression\n* Minification\n* Lazy loading (on some pages)\n\nCurrent PageSpeed Insights results (link: https://pagespeed.web.dev/analysis/https-poyeyphotos-com/rsqri7gfnm?form_factor=mobile):\n\n* Mobile Performance score: 56\n* TTFB (real user data): 1.6s — poor\n* Render-blocking requests: 1,820ms in estimated savings\n* Total page weight: 5.8MB\n* Unused CSS: 146 KiB / Unused JavaScript: 204 KiB\n* Reason: heavy plugin count (site has extensive functionality I can't reduce), likely plugins loading assets on pages that don't need them, and/or scripts that need to be deferred/async'd by hand.\n\nWhat I need:\n* A developer comfortable auditing which plugins load which scripts on which pages, and selectively dequeuing/deferring what isn't needed\n* Someone who can explain findings in plain English — I'm not technical, so clear communication matters as much as the fix itself\n* Availability to work within the next few days (this is actively costing me ad spend/conversions with high bounce rates on mobile)\n\nPlease answer the questions included. Thanks.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 37,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wp-rocket",
+      "wordpress",
+      "javascript",
+      "css",
+      "php"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! That 1.6s TTFB and 5.8MB page weight are classic symptoms of heavy plugins loading assets globally instead of conditionally. Since WP Rocket, caching, and image compression are already maxed out, the real gains here require deep code-level optimization—specifically auditing plugin asset queues, eliminating render-blocking scripts, and selectively deregistering CSS and JS on pages where they aren't needed.\n\nI specialize in high-traffic WordPress performance optimization and Core Web Vitals remediation beyond standard plugin settings, using PHP, MySQL, and targeted script deferral. For instance, on sites like https://www.thelifeyoucansave.org/, I’ve tackled heavy asset loads to drastically improve mobile performance and reduce bounce rates. \n\nI speak plain English, not developer jargon, and I am available to start immediately to protect your ad spend. Are you available for a quick chat today to review the audit breakdown?",
+    "publishedDateTime": "2026-09-18T21:24:03+0000",
+    "addedAt": "2026-09-18T21:25:19.914Z",
+    "url": "https://www.upwork.com/jobs/~022101059349935063321",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101059349935063321/apply/"
+  },
+  {
     "id": "2101010455312405470",
     "ciphertext": "~022101010455312405470",
     "title": "WordPress Disk Space Optimization on Siteground",

@@ -1,10 +1,10 @@
 {
   "date": "2026-09-19",
   "lastDigestSentDate": "2026-09-18",
-  "totalScanned": 5,
-  "matchedFilters": 1,
+  "totalScanned": 6,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3096,
       "url": "https://www.upwork.com/jobs/~022101010455312405470",
       "addedAt": "2026-09-18T21:11:24.848Z"
+    },
+    {
+      "title": "WordPress Developer: Fix Core Web Vitals & Speed Issues (Beyond Caching Plugin)",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022101059349935063321",
+      "addedAt": "2026-09-18T21:25:18.489Z"
     }
   ]
 }
