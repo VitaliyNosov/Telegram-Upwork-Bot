@@ -1,10 +1,10 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 33,
-  "matchedFilters": 7,
+  "totalScanned": 34,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 3091,
       "url": "https://www.upwork.com/jobs/~022100845563383493537",
       "addedAt": "2026-09-18T07:15:50.669Z"
+    },
+    {
+      "title": "Website Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022100886493092603817",
+      "addedAt": "2026-09-18T09:59:14.003Z"
     },
     {
       "title": "Web Developer for Corporate Website, Two Landing Pages and Recruitment Integration (Fixed Fee)",

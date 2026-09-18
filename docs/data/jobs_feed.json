@@ -1,5 +1,35 @@
 [
   {
+    "id": "2100886493092603817",
+    "ciphertext": "~022100886493092603817",
+    "title": "Website Development",
+    "description": "Our client needs to build a new site for ai and research focussed think tank offering courses, thought leadership and delegations ate international level for senior development programmes.\n\nWe need a website with around six page types plus policies and two content templates. The copy is already written, and we are not looking for a copywriter. We need someone who can build the site, set up the templates, and ensure the pages are ready for launch.\n\nFive things matter technically, and they are how we will filter:\n\nAEO and SEO first principles for the build- which means we don't wish to build on Elementor-only stacks. clean theme code, fast Core Web Vitals scores etc.\nPage content present in the initial HTML response, not assembled by JavaScript in the browser\nStructured data configured at build and maintainable by us afterwards\nWe can create pages, add publications and add profiles ourselves without coming back to you, so maximal independence\nPageSpeed 90 or above on mobile and desktop at delivery\n\nWe will choose on design, so please answer this rather than sending a long portfolio. Our site is text heavy. We have no photography and, for now, little to photograph. Several sections are structurally complete but deliberately empty, because partners and testimonials will fill over the first year. Our sector is full of organisations that all look identical and we are trying not to be one of them. What would you do to make this dynamic and standout from the crowd?\n\nSeparately we would like an arrangement for ongoing maintenance, priced separately, aprox USD 50 pm and our preference is to forge an ongoing relationship with the developer as long as appropriate contracts can be drawn and NDA's executed as our work is highly proprietary and cannot be used in promotions for your portfolio etc.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "css",
+      "html5",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! To make a text-heavy think tank site stand out without relying on standard stock photography or identical templates, I’d leverage typography-driven editorial layouts, subtle CSS grid asymmetry, and interactive data-density modules (like clean accordion summaries for research or filterable delegation lists) that give the content gravitas and a distinct publication feel.\n\nMeeting your technical constraints is right in my wheelhouse: I avoid bloated page builders like Elementor, building instead with clean custom themes, ACF, and server-rendered HTML to guarantee lightning-fast Core Web Vitals (90+ PageSpeed) and robust AEO/SEO foundations. You’ll have a fully intuitive Gutenberg setup to manage courses, publications, and profiles independently. \n\nFor instance, sites like https://www.thelifeyoucansave.org/ showcase my ability to deliver content-heavy, clean-coded platforms. \n\nI’m also fully on board with an ongoing maintenance arrangement and happy to execute strict NDAs. Could you share the wireframes or designs so we can discuss the best architectural approach?",
+    "publishedDateTime": "2026-09-18T09:56:55+0000",
+    "addedAt": "2026-09-18T09:59:15.549Z",
+    "url": "https://www.upwork.com/jobs/~022100886493092603817",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100886493092603817/apply/"
+  },
+  {
     "id": "2100877191401658005",
     "ciphertext": "~022100877191401658005",
     "title": "SAP to WooCommerce API Integration",
