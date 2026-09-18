@@ -1,10 +1,10 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 73,
-  "matchedFilters": 14,
+  "totalScanned": 74,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "woocommerce": 1
   },
   "topJobs": [
@@ -65,18 +65,18 @@
       "addedAt": "2026-09-18T07:15:50.669Z"
     },
     {
+      "title": "Modernize Website for SEO and SEM",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022101020461247080152",
+      "addedAt": "2026-09-18T18:49:21.690Z"
+    },
+    {
       "title": "WordPress Website Build - Local Service Business (CCTV & Alarm Installer), 18 Pages, Content Ready",
       "budget": "Fixed-price",
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022100925908092155232",
       "addedAt": "2026-09-18T12:38:00.309Z"
-    },
-    {
-      "title": "Website Development",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022100886493092603817",
-      "addedAt": "2026-09-18T09:59:14.003Z"
     }
   ]
 }
