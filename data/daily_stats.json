@@ -1,10 +1,10 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 47,
-  "matchedFilters": 10,
+  "totalScanned": 49,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 9,
+    "wordpress developer": 10,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 7096,
       "url": "https://www.upwork.com/jobs/~022100846838393563049",
       "addedAt": "2026-09-18T07:21:33.488Z"
+    },
+    {
+      "title": "Complex Wordpress mega menu",
+      "budget": "$40-$60/hr",
+      "score": 6146,
+      "url": "https://www.upwork.com/jobs/~022100952115393626393",
+      "addedAt": "2026-09-18T14:19:18.514Z"
     },
     {
       "title": "WordPress Developer Needed for Bug Fixes & Website Design Updates",
@@ -70,13 +77,6 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022100943353518058716",
       "addedAt": "2026-09-18T13:47:41.240Z"
-    },
-    {
-      "title": "Web Developer for Corporate Website, Two Landing Pages and Recruitment Integration (Fixed Fee)",
-      "budget": "Fixed-price",
-      "score": 95,
-      "url": "https://www.upwork.com/jobs/~022100876316302130454",
-      "addedAt": "2026-09-18T09:17:29.535Z"
     }
   ]
 }

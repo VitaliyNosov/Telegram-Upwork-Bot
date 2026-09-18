@@ -1,5 +1,31 @@
 [
   {
+    "id": "2100952115393626393",
+    "ciphertext": "~022100952115393626393",
+    "title": "Complex Wordpress mega menu",
+    "description": "We need an experienced WordPress developer to build a mega menu for our Elementor website. We already have the design and need someone who can implement it with pixel-perfect accuracy.\n\nThe menu must:\n\nMatch our design, including spacing, typography and styling.\nWork smoothly across desktop, tablet and mobile.\nBe fast and lightweight.\nBe easy for our team to update within WordPress.\n\nYou should have strong attention to detail and proven experience building custom mega menus.\n\nPlease include direct links to live websites with mega menus you have built, along with your availability, estimated cost and turnaround time. No portfolio pages or Dropbox links—we want to see your work live.",
+    "isHourly": true,
+    "hourlyBudgetMin": 40,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$40 - $60/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.8,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 90,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 6146,
+    "coverLetter": "Hi! \n\nI can help you build this custom mega menu for your Elementor site with pixel-perfect accuracy, ensuring it matches your exact design specs for typography, spacing, and styling. \n\nAs a WordPress developer with extensive experience working with Elementor, custom navigation, and front-end optimization, I build menus that are lightweight, fully responsive across desktop, tablet, and mobile, and easy for your team to manage directly from the WordPress backend.\n\nHere is a live example of one of my recent WordPress builds: https://www.thelifeyoucansave.org/\n\nI am available to start immediately. Estimated turnaround is 2–3 days, and cost will depend on the exact number of sub-menu items, but I can provide a fixed quote once I review your design. \n\nWhen are you looking to have this live? Let’s chat about the details!",
+    "publishedDateTime": "2026-09-18T14:17:27+0000",
+    "addedAt": "2026-09-18T14:19:19.702Z",
+    "url": "https://www.upwork.com/jobs/~022100952115393626393",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100952115393626393/apply/"
+  },
+  {
     "id": "2100943353518058716",
     "ciphertext": "~022100943353518058716",
     "title": "Connect Gravity Forms to PayPal",
