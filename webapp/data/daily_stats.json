@@ -1,10 +1,11 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 32,
-  "matchedFilters": 6,
+  "totalScanned": 33,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 6,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -34,6 +35,13 @@
       "score": 4099,
       "url": "https://www.upwork.com/jobs/~022100671985019965565",
       "addedAt": "2026-09-17T22:45:13.516Z"
+    },
+    {
+      "title": "SAP to WooCommerce API Integration",
+      "budget": "$15-$35/hr",
+      "score": 3650,
+      "url": "https://www.upwork.com/jobs/~022100877191401658005",
+      "addedAt": "2026-09-18T09:21:25.668Z"
     },
     {
       "title": "Website edits",

@@ -1,5 +1,38 @@
 [
   {
+    "id": "2100877191401658005",
+    "ciphertext": "~022100877191401658005",
+    "title": "SAP to WooCommerce API Integration",
+    "description": "We need a freelancer to connect SAP with WooCommerce using the WooCommerce REST API. The work includes setting up the integration, mapping products and orders, and ensuring data flows correctly between systems. You should be able to test the connection, troubleshoot issues, and help maintain a reliable workflow. Experience with SAP, WooCommerce, and API-based integrations is important. This is a part-time project with a clear scope and expected timeline.\n\nIt's critical to be able to support customer specific pricing rapidly on the front end with no slow down. Once the customer logs in, their pricing is shown.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 74,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "api-development",
+      "woocommerce",
+      "wordpress",
+      "sap",
+      "api",
+      "api-integration",
+      "mysql"
+    ],
+    "score": 3650,
+    "coverLetter": "Hi! \n\nConnecting SAP with WooCommerce while ensuring rapid, customer-specific pricing on the frontend without performance drops is a challenge I regularly solve. As a WordPress and WooCommerce expert, I specialize in robust API integrations and high-performance database optimization. \n\nI have extensive experience working with the WooCommerce REST API, custom PHP backend logic, and handling complex data mapping between external enterprise systems like SAP and e-commerce stores. I also know how to implement authenticated user-role pricing efficiently via caching and AJAX so your logged-in clients see their exact rates instantly with zero site slowdown. \n\nYou can review my recent full-stack WordPress and WooCommerce work here: https://www.thelifeyoucansave.org/\n\nWhen are you looking to kick this off, and do you already have the SAP API documentation and endpoints prepared?\n\nBest,\nWordPress Developer",
+    "publishedDateTime": "2026-09-18T09:20:41+0000",
+    "addedAt": "2026-09-18T09:21:27.005Z",
+    "url": "https://www.upwork.com/jobs/~022100877191401658005",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100877191401658005/apply/"
+  },
+  {
     "id": "2100876316302130454",
     "ciphertext": "~022100876316302130454",
     "title": "Web Developer for Corporate Website, Two Landing Pages and Recruitment Integration (Fixed Fee)",
