@@ -1,10 +1,10 @@
 {
   "date": "2026-09-18",
   "lastDigestSentDate": "2026-09-17",
-  "totalScanned": 45,
-  "matchedFilters": 9,
+  "totalScanned": 47,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022100886493092603817",
       "addedAt": "2026-09-18T09:59:14.003Z"
+    },
+    {
+      "title": "Connect Gravity Forms to PayPal",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022100943353518058716",
+      "addedAt": "2026-09-18T13:47:41.240Z"
     },
     {
       "title": "Web Developer for Corporate Website, Two Landing Pages and Recruitment Integration (Fixed Fee)",

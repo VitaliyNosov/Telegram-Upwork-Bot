@@ -1,5 +1,34 @@
 [
   {
+    "id": "2100943353518058716",
+    "ciphertext": "~022100943353518058716",
+    "title": "Connect Gravity Forms to PayPal",
+    "description": "I need help connecting my Gravity Forms to my PayPal Merchant account so payments can be processed correctly. The work includes setting up the integration, testing the payment flow, and ensuring everything works smoothly. Please share relevant experience with similar projects and your approach to troubleshooting any issues that may arise.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2894,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "paypal-integration",
+      "gravity-forms"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can help you seamlessly connect your Gravity Forms to your PayPal Merchant account and ensure the payment flow is fully tested and working without a hitch. \n\nAs a WordPress developer with extensive experience in API integrations and custom form configurations, I regularly set up and troubleshoot payment gateways like PayPal and Stripe to prevent failed transactions, webhook errors, and cart abandonment issues. My approach involves a secure initial connection, rigorous sandbox testing for both successful and failed payments, and verifying post-submission actions so your data and funds sync up correctly.\n\nAre you using PayPal Checkout or the standard Gravity Forms PayPal Payments Standard/Pro add-on, and is the sandbox environment already set up? Let's get this sorted out quickly.",
+    "publishedDateTime": "2026-09-18T13:46:47+0000",
+    "addedAt": "2026-09-18T13:47:42.846Z",
+    "url": "https://www.upwork.com/jobs/~022100943353518058716",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022100943353518058716/apply/"
+  },
+  {
     "id": "2100925908092155232",
     "ciphertext": "~022100925908092155232",
     "title": "WordPress Website Build - Local Service Business (CCTV & Alarm Installer), 18 Pages, Content Ready",
