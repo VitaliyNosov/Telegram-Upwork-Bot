@@ -1,81 +1,8 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "lastDigestSentDate": "2026-09-19",
-  "totalScanned": 57,
-  "matchedFilters": 11,
-  "byKeyword": {
-    "wordpress developer": 11
-  },
-  "topJobs": [
-    {
-      "title": "WordPress Developer – Convert Brochure Into 10-Page Website",
-      "budget": "$18-$40/hr",
-      "score": 4150,
-      "url": "https://www.upwork.com/jobs/~022101037855904775030",
-      "addedAt": "2026-09-18T22:59:19.700Z"
-    },
-    {
-      "title": "WordPress & Elementor Developer Needed to Clone and Complete Responsive Website",
-      "budget": "$10-$40/hr",
-      "score": 4150,
-      "url": "https://www.upwork.com/jobs/~022101398951121640835",
-      "addedAt": "2026-09-19T19:55:18.161Z"
-    },
-    {
-      "title": "Elementor Pro – WordPress Website Support / Fix",
-      "budget": "$18-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022101135479442861276",
-      "addedAt": "2026-09-19T05:27:13.098Z"
-    },
-    {
-      "title": "Clone Website for Hosting Control",
-      "budget": "$15-$35/hr",
-      "score": 3500,
-      "url": "https://www.upwork.com/jobs/~022101108355567560408",
-      "addedAt": "2026-09-19T00:39:12.288Z"
-    },
-    {
-      "title": "WordPress Disk Space Optimization on Siteground",
-      "budget": "$15-$30/hr",
-      "score": 3096,
-      "url": "https://www.upwork.com/jobs/~022101010455312405470",
-      "addedAt": "2026-09-18T21:11:24.848Z"
-    },
-    {
-      "title": "WordPress Developer: Fix Core Web Vitals & Speed Issues (Beyond Caching Plugin)",
-      "budget": "Fixed-price",
-      "score": 148,
-      "url": "https://www.upwork.com/jobs/~022101059349935063321",
-      "addedAt": "2026-09-18T21:25:18.489Z"
-    },
-    {
-      "title": "Real Estate Website Design",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022101330868287716214",
-      "addedAt": "2026-09-19T15:25:14.263Z"
-    },
-    {
-      "title": "Manager of Website with  IT Experience",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022101348033641409756",
-      "addedAt": "2026-09-19T16:31:30.464Z"
-    },
-    {
-      "title": "WordPress Website Developer Needed",
-      "budget": "Fixed-price",
-      "score": 93,
-      "url": "https://www.upwork.com/jobs/~022101327985602197859",
-      "addedAt": "2026-09-19T15:11:23.499Z"
-    },
-    {
-      "title": "Wordpress Website Developer Needed for Clothing shop",
-      "budget": "Fixed-price",
-      "score": 50,
-      "url": "https://www.upwork.com/jobs/~022101386800682122102",
-      "addedAt": "2026-09-19T19:07:19.491Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
