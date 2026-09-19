@@ -1,10 +1,10 @@
 {
   "date": "2026-09-19",
   "lastDigestSentDate": "2026-09-19",
-  "totalScanned": 53,
-  "matchedFilters": 9,
+  "totalScanned": 54,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 4150,
       "url": "https://www.upwork.com/jobs/~022101037855904775030",
       "addedAt": "2026-09-18T22:59:19.700Z"
+    },
+    {
+      "title": "WordPress & Elementor Developer Needed to Clone and Complete Responsive Website",
+      "budget": "$10-$40/hr",
+      "score": 4150,
+      "url": "https://www.upwork.com/jobs/~022101398951121640835",
+      "addedAt": "2026-09-19T19:55:18.161Z"
     },
     {
       "title": "Elementor Pro – WordPress Website Support / Fix",
