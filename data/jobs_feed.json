@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101327985602197859",
+    "ciphertext": "~022101327985602197859",
+    "title": "WordPress Website Developer Needed",
+    "description": "We need a developer to build a WordPress website for our business. The project includes setting up the site, creating pages, adding content, and ensuring the site is functional and easy to use. You should be comfortable working with WordPress and related web technologies to deliver a clean, reliable website that meets our business needs.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.66,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 26,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 93,
+    "coverLetter": "Hi! \n\nI’d love to help you build a clean, reliable, and user-friendly WordPress website tailored to your business needs. \n\nWith extensive experience in custom WordPress development, theme setup, and site architecture, I specialize in delivering fast-loading, professional websites that are easy for your team to manage. Whether we're building custom pages, setting up intuitive navigation, or ensuring seamless mobile responsiveness, I focus on clean code and robust functionality from day one. You can check out a recent WordPress build I completed here: https://www.daysforgirls.org/\n\nDo you already have a specific design or theme in mind, or would you like recommendations on the best setup for your content? Let's chat about how we can bring your vision to life!",
+    "publishedDateTime": "2026-09-19T15:10:51+0000",
+    "addedAt": "2026-09-19T15:11:24.566Z",
+    "url": "https://www.upwork.com/jobs/~022101327985602197859",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101327985602197859/apply/"
+  },
+  {
     "id": "2101135479442861276",
     "ciphertext": "~022101135479442861276",
     "title": "Elementor Pro – WordPress Website Support / Fix",
