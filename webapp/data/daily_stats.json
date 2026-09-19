@@ -1,10 +1,10 @@
 {
   "date": "2026-09-19",
   "lastDigestSentDate": "2026-09-18",
-  "totalScanned": 39,
-  "matchedFilters": 7,
+  "totalScanned": 40,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022101330868287716214",
       "addedAt": "2026-09-19T15:25:14.263Z"
+    },
+    {
+      "title": "Manager of Website with  IT Experience",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022101348033641409756",
+      "addedAt": "2026-09-19T16:31:30.464Z"
     },
     {
       "title": "WordPress Website Developer Needed",

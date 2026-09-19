@@ -1,5 +1,35 @@
 [
   {
+    "id": "2101348033641409756",
+    "ciphertext": "~022101348033641409756",
+    "title": "Manager of Website with  IT Experience",
+    "description": "Manager for changes if needed for current live website with calendar and bookings for services.Paywall for booking services using Woo Commerce on Wordpress Platform. Third party platform web embedded. Looking for strong skills and planning for future development as well as any short term fixes as we scale. Ability to assist founders with training on any current or new platform needs. Graphics experience a plus, but not necessary.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 33,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "human-resources",
+      "web-design",
+      "very-small-1-9-employees",
+      "wordpress",
+      "google-analytics"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI would love to help you manage, optimize, and scale your WordPress website. With extensive experience in WordPress, WooCommerce paywalls, and booking integrations, I can immediately step in to handle day-to-day changes, troubleshoot your current setup, and plan for future growth. \n\nMy background includes robust WooCommerce customization, third-party platform embedding, and setting up secure payment flows. I also focus heavily on long-term maintenance and client training, ensuring your founders feel confident managing the platform moving forward. You can see examples of my recent WordPress work on live, high-impact sites like https://www.thelifeyoucansave.org/.\n\nAre you available for a quick chat this week to discuss your current booking workflow and short-term priorities?",
+    "publishedDateTime": "2026-09-19T16:30:44+0000",
+    "addedAt": "2026-09-19T16:31:32.831Z",
+    "url": "https://www.upwork.com/jobs/~022101348033641409756",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101348033641409756/apply/"
+  },
+  {
     "id": "2101330868287716214",
     "ciphertext": "~022101330868287716214",
     "title": "Real Estate Website Design",
