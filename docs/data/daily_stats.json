@@ -1,10 +1,10 @@
 {
   "date": "2026-09-19",
   "lastDigestSentDate": "2026-09-18",
-  "totalScanned": 21,
-  "matchedFilters": 4,
+  "totalScanned": 22,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 4150,
       "url": "https://www.upwork.com/jobs/~022101037855904775030",
       "addedAt": "2026-09-18T22:59:19.700Z"
+    },
+    {
+      "title": "Elementor Pro – WordPress Website Support / Fix",
+      "budget": "$18-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022101135479442861276",
+      "addedAt": "2026-09-19T05:27:13.098Z"
     },
     {
       "title": "Clone Website for Hosting Control",
