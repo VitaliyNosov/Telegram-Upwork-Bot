@@ -1,8 +1,18 @@
 {
   "date": "2026-09-20",
   "lastDigestSentDate": "2026-09-19",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress Design and Development for Consulting Firm on Bluehost",
+      "budget": "$18-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022101432580999477603",
+      "addedAt": "2026-09-19T22:09:17.642Z"
+    }
+  ]
 }
