@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101108355567560408",
+    "ciphertext": "~022101108355567560408",
+    "title": "Clone Website for Hosting Control",
+    "description": "We need a freelancer to clone our existing website so we can manage and host it independently. The work includes replicating the current site structure, transferring content, and ensuring the cloned version functions correctly. We want someone who can help us take full control of the site and make it easy to maintain moving forward. Please share relevant experience with similar website cloning or migration projects.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "web-programming",
+      "html5"
+    ],
+    "score": 3500,
+    "coverLetter": "Hi!\n\nI can help you seamlessly clone your website, transfer all content and structure, and set it up on your independent hosting environment so you have 100% control moving forward. \n\nWebsite migration and server transfers are a routine part of my daily work. I ensure that all file structures, databases, and dependencies are correctly configured so the cloned site runs smoothly without broken links or missing assets. I'll also ensure the setup is clean and straightforward for you to maintain. For instance, you can check out https://www.seeintl.org/, a complex site migration and setup project I successfully handled.\n\nAre you moving to a specific hosting provider, or do you need recommendations for the new setup? Let's get this sorted out for you.",
+    "publishedDateTime": "2026-09-19T00:37:58+0000",
+    "addedAt": "2026-09-19T00:39:13.399Z",
+    "url": "https://www.upwork.com/jobs/~022101108355567560408",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101108355567560408/apply/"
+  },
+  {
     "id": "2101037855904775030",
     "ciphertext": "~022101037855904775030",
     "title": "WordPress Developer – Convert Brochure Into 10-Page Website",
