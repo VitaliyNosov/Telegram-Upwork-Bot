@@ -1,10 +1,10 @@
 {
   "date": "2026-09-19",
   "lastDigestSentDate": "2026-09-18",
-  "totalScanned": 35,
-  "matchedFilters": 6,
+  "totalScanned": 37,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022101059349935063321",
       "addedAt": "2026-09-18T21:25:18.489Z"
+    },
+    {
+      "title": "Real Estate Website Design",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022101330868287716214",
+      "addedAt": "2026-09-19T15:25:14.263Z"
     },
     {
       "title": "WordPress Website Developer Needed",

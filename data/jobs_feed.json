@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101330868287716214",
+    "ciphertext": "~022101330868287716214",
+    "title": "Real Estate Website Design",
+    "description": "Website Designer for Short-Term Rental Business\n\nWe are seeking an experienced website designer to create a professional, mobile-friendly website for our short-term rental properties on Logan Martin Lake in Alabama. The site should showcase each property through attractive photos, descriptions, amenities, local attractions, and clear booking calls to action. We use a CRM called Hospitable to accept direct bookings. I would like this website to be a simple design.\n\nThe ideal candidate has experience designing websites for vacation rentals, hospitality businesses, or property managers. The website should integrate with Hospitable or our direct-booking system so that availability, reservations, and pricing remain synchronized with Airbnb and VRBO.\n\nProject requirements:\n\nModern, welcoming lake-house design\nIndividual pages for multiple rental properties\nDirect-booking and Hospitable integration\nAvailability calendars and secure payment capability\nPhoto galleries, amenities, reviews, and local-area information\nMobile-friendly, fast-loading design\nBasic search-engine optimization\nEasy for us to update and add properties later\nOptional section for future boat rentals\n\nPlease include examples of similar websites you have designed, your estimated project timeline, pricing, and the platform you recommend.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you build a clean, mobile-friendly website for your Logan Martin Lake short-term rentals with seamless Hospitable integration for direct bookings, synced calendars, and secure payments. \n\nFor vacation rental and property sites, I typically recommend WordPress utilizing Advanced Custom Fields (ACF) or custom post types. This ensures the design stays fast-loading and modern, while making it incredibly easy for you to update property details, add new rentals, or include your future boat rental section down the road without touching code. \n\nYou can check out a clean, responsive community and organization build from my portfolio here: https://www.thelifeyoucansave.org/\n\nProject Timeline: Typically 2-3 weeks from start to launch.\nPricing: Let's discuss your exact property count and feature preferences so I can provide a precise quote.\n\nAre the properties currently listed on Hospitable, and do you already have branding elements like a logo and photos ready to go?",
+    "publishedDateTime": "2026-09-19T15:23:05+0000",
+    "addedAt": "2026-09-19T15:25:15.732Z",
+    "url": "https://www.upwork.com/jobs/~022101330868287716214",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101330868287716214/apply/"
+  },
+  {
     "id": "2101327985602197859",
     "ciphertext": "~022101327985602197859",
     "title": "WordPress Website Developer Needed",
