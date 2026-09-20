@@ -1,5 +1,36 @@
 [
   {
+    "id": "2101770898072288118",
+    "ciphertext": "~022101770898072288118",
+    "title": "Divi website redesign",
+    "description": "Here is the mock website I need put on my existing WordPress site \n\nhttps://claude.ai/artifact/5w4bM66bSCszUErjDMZyUZ",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 76,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "divi",
+      "elementor",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "visual-design"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can take your mock design and implement it cleanly on your existing WordPress site using Divi. \n\nI specialize in Divi bug fixes, layout repairs, and transforming UI mockups into fully functional, responsive WordPress pages without bloating your code. I'll make sure the new design matches your reference layout precisely while keeping your site fast and mobile-friendly.\n\nYou can see examples of my recent WordPress builds here: https://www.thelifeyoucansave.org/\n\nDo you have any specific animations or interactions from the mock that you want prioritized during the build? Let's chat and get started!",
+    "publishedDateTime": "2026-09-20T23:31:20+0000",
+    "addedAt": "2026-09-20T23:33:11.613Z",
+    "url": "https://www.upwork.com/jobs/~022101770898072288118",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101770898072288118/apply/"
+  },
+  {
     "id": "2101807335576583030",
     "ciphertext": "~022101807335576583030",
     "title": "WordPress Developer to fix a handful of bugs and add new content pages to  (Wannycleandaho.com)",
