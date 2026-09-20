@@ -1,82 +1,8 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 52,
-  "matchedFilters": 12,
-  "byKeyword": {
-    "wordpress developer": 11,
-    "woocommerce": 1
-  },
-  "topJobs": [
-    {
-      "title": "Rebuild and Redesign Law Firm Website",
-      "budget": "$15-$60/hr",
-      "score": 6100,
-      "url": "https://www.upwork.com/jobs/~022101700996686822262",
-      "addedAt": "2026-09-20T15:59:16.288Z"
-    },
-    {
-      "title": "WordPress & WooCommerce Developer Needed for a Professional eCommerce Website developer",
-      "budget": "$10-$40/hr",
-      "score": 4141,
-      "url": "https://www.upwork.com/jobs/~022101770893507630046",
-      "addedAt": "2026-09-20T20:31:55.808Z"
-    },
-    {
-      "title": "WordPress Design and Development for Consulting Firm on Bluehost",
-      "budget": "$18-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022101432580999477603",
-      "addedAt": "2026-09-19T22:09:17.642Z"
-    },
-    {
-      "title": "Wordpress / Elementor Developer needed",
-      "budget": "$20-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022101712582124966878",
-      "addedAt": "2026-09-20T16:41:23.577Z"
-    },
-    {
-      "title": "Build responsive WordPress site with booking/payment functionality",
-      "budget": "Fixed-price",
-      "score": 198,
-      "url": "https://www.upwork.com/jobs/~022101579593603881578",
-      "addedAt": "2026-09-20T10:53:10.801Z"
-    },
-    {
-      "title": "WordPress Admin: WooCommerce Email Setup & Automation (2 Milestones)",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022101553190320827612",
-      "addedAt": "2026-09-20T06:07:17.423Z"
-    },
-    {
-      "title": "WordPress Developer for Naxos Landing Page",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022101711653969685724",
-      "addedAt": "2026-09-20T16:37:17.945Z"
-    },
-    {
-      "title": "Website Email correction  Needed",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022101752451764168408",
-      "addedAt": "2026-09-20T19:19:22.515Z"
-    },
-    {
-      "title": "WooCommerce Expert to Optimize Sales Process",
-      "budget": "Fixed-price",
-      "score": 149,
-      "url": "https://www.upwork.com/jobs/~022101692383397090270",
-      "addedAt": "2026-09-20T15:21:19.508Z"
-    },
-    {
-      "title": "Shopify Migration Expert with CVR, AOV, Funnels Focus (From WooCommerce/Memberpress/Elementor Stack)",
-      "budget": "Fixed-price",
-      "score": 142,
-      "url": "https://www.upwork.com/jobs/~022101666232248449910",
-      "addedAt": "2026-09-20T13:37:24.679Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
