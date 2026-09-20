@@ -1,5 +1,32 @@
 [
   {
+    "id": "2101692383397090270",
+    "ciphertext": "~022101692383397090270",
+    "title": "WooCommerce Expert to Optimize Sales Process",
+    "description": "We sell professional professional development courses for coaches and consultants, plus optional add-ons, through our website. The purchase process is fairly simple, but I want it to convert better and feel effortless for the buyer. I'm looking for someone who can review what we have and tell me the most effective way to set it up. We have been doing this for more than 10 years, but have never looked closely at our sales process.\n\nThis is mainly a sales and marketing role, not a development job. I need someone who understands how people decide to buy a professional development courses (typically a considered purchase by coaches, HR and L&D professionals, and consultants) and who has enough technical understanding to make sure the recommendations work in practice.\n\nOur setup:\n\nWordPress with Elementor\nWooCommerce for checkout, with Stripe for payments\nQuickBooks Online integration already in place\n\nWe are simplifying the site to a single homepage, with a separate, dedicated page for the purchase and booking flow\n\nWhat I'd like you to help with:\n\nReview our current path from homepage to purchase and identify where buyers are likely dropping off or hesitating\n\nRecommend how to structure and present the certification and its add-ons (bundling, upsells, order of options, pricing presentation)\n\nAdvise on the key messaging, calls to action, and trust signals that belong on the homepage and on the purchase page\n\nRecommend improvements to the checkout experience, including any follow-up such as abandoned cart or post-purchase emails\n\nSuggest simple tracking so we can see what is working\nProvide a clear, prioritised action plan I can implement myself or hand to a developer\n\nIdeal background:\n\nProven experience improving conversion for online courses, certifications, or other professional services\n\nStrong understanding of B2B and professional buyer behaviour\n\nWorking knowledge of WordPress and WooCommerce (you don't need to build, but you should know what is realistic)\n\nClear, direct communicator who can explain the \"why\" behind each recommendation\n\nBonus: experience with training, coaching, or assessment businesses\n\nTo apply, please include:\n\nTwo or three examples of similar work, ideally with results\nA short note on what you would look at first on our site and why\nYour proposed approach, timeline, and fixed price or hourly rate",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 368,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! To get started, I would first analyze your Google Analytics and WooCommerce funnel reports to identify the exact step where users drop off, as this data will dictate which friction points we need to prioritize fixing.\n\nHaving optimized WooCommerce stores for over a decade, I understand the balance between technical performance and B2B buyer psychology. I don't just fix code; I look at how checkout flow, upsell sequencing, and trust signals influence conversion rates for high-value professional certifications. You can see an example of my work at https://www.thelifeyoucansave.org/, where we focused on streamlining complex user journeys.\n\nMy approach is to audit your current flow, provide a prioritized CRO roadmap, and ensure your Elementor/WooCommerce stack is optimized to support these changes. Are you available for a brief call to discuss your current drop-off rates?",
+    "publishedDateTime": "2026-09-20T15:19:15+0000",
+    "addedAt": "2026-09-20T15:21:33.940Z",
+    "url": "https://www.upwork.com/jobs/~022101692383397090270",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101692383397090270/apply/"
+  },
+  {
     "id": "2101690150046508760",
     "ciphertext": "~022101690150046508760",
     "title": "WordPress Website Clone Without Admin Access",

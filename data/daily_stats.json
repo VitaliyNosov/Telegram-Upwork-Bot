@@ -1,10 +1,10 @@
 {
   "date": "2026-09-20",
   "lastDigestSentDate": "2026-09-19",
-  "totalScanned": 33,
-  "matchedFilters": 6,
+  "totalScanned": 34,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022101553190320827612",
       "addedAt": "2026-09-20T06:07:17.423Z"
+    },
+    {
+      "title": "WooCommerce Expert to Optimize Sales Process",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022101692383397090270",
+      "addedAt": "2026-09-20T15:21:19.508Z"
     },
     {
       "title": "Shopify Migration Expert with CVR, AOV, Funnels Focus (From WooCommerce/Memberpress/Elementor Stack)",
