@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101603170284825820",
+    "ciphertext": "~022101603170284825820",
+    "title": "Website Redesign for Existing Site",
+    "description": "We need a designer to refresh our current website with a modern, clean look that improves user experience and better supports our business goals. The project includes updating the overall design, refining the layout, and making the site more visually appealing while keeping it functional and easy to navigate. We’re looking for someone who can work with our existing site and deliver a polished redesign that aligns with our brand and helps improve engagement.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.81,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 32,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html5"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! \n\nRefreshing an existing site to look modern, clean, and engaging without disrupting its core functionality is right in my wheelhouse. I specialize in WordPress redesigns that elevate visual appeal and user experience while keeping the site fast and easy to navigate.\n\nRather than starting from scratch, I can take your current structure and refine the layout, typography, and design elements to better align with your brand and business goals. For example, on projects like https://www.thelifeyoucansave.org/, I’ve successfully modernized existing setups to improve user engagement and overall presentation. \n\nAre you looking to keep your current theme and page builder (like Elementor or Gutenberg), or are we planning a fresh layout build? Let’s chat about your vision.",
+    "publishedDateTime": "2026-09-20T09:24:19+0000",
+    "addedAt": "2026-09-20T09:25:13.028Z",
+    "url": "https://www.upwork.com/jobs/~022101603170284825820",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101603170284825820/apply/"
+  },
+  {
     "id": "2101553190320827612",
     "ciphertext": "~022101553190320827612",
     "title": "WordPress Admin: WooCommerce Email Setup & Automation (2 Milestones)",
