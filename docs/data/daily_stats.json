@@ -1,10 +1,10 @@
 {
   "date": "2026-09-20",
   "lastDigestSentDate": "2026-09-19",
-  "totalScanned": 39,
-  "matchedFilters": 9,
+  "totalScanned": 40,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 4100,
       "url": "https://www.upwork.com/jobs/~022101432580999477603",
       "addedAt": "2026-09-19T22:09:17.642Z"
+    },
+    {
+      "title": "Wordpress / Elementor Developer needed",
+      "budget": "$20-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022101712582124966878",
+      "addedAt": "2026-09-20T16:41:23.577Z"
     },
     {
       "title": "Build responsive WordPress site with booking/payment functionality",
