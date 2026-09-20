@@ -1,5 +1,33 @@
 [
   {
+    "id": "2101711653969685724",
+    "ciphertext": "~022101711653969685724",
+    "title": "WordPress Developer for Naxos Landing Page",
+    "description": "Project Description\n\nI’m looking for an experienced WordPress developer to redesign and replace the current content of an existing website using the Naxos theme, which has already been purchased and installed.\n\nThis is not a website built from scratch. WordPress, hosting, domain, SSL, and the theme are already set up.\n\nI will provide approved visual references, final copy, photos, app mockups, legal documents, App Store/Google Play links, and social media links.\n\nScope of Work\n1. Home Page\n\nBuild one long-form landing page based on the provided visual reference, including:\n\nHero section\nSection introducing three mobile apps\nThree alternating app sections with descriptions and phone mockups\nApp Store and Google Play links for each app\nFooter with social media links\nPrivacy Policy and Terms & Conditions links\n2. About Page\n\nCreate one simple standalone About page:\n\nOne portrait photo\nEditorial-style two-column text layout on desktop\nResponsive single-column layout on mobile\nStyling consistent with the main website\n3. Contact Form\n\nCreate a contact form accessible through the Contact link:\n\nName\nEmail\nSubject\nMessage\nEmail delivery to the specified address\nSMTP setup and delivery testing\nBasic spam protection\n4. Responsive Design\n\nThe website must be manually reviewed and optimized for:\n\nDesktop\nTablet\nMobile\nCurrent versions of Chrome, Safari, and major mobile browsers\n5. Technical Work\nBack up the existing website before starting\nSafely update the theme and required plugins\nBasic website speed and image optimization\nPage titles, meta descriptions, favicon, and basic SEO structure\nTest all links and forms\nPublish the completed website without changing the existing domain\nNot Required\nE-commerce or payment processing\nUser accounts or registration\nDatabase development\nCustom web application functionality\nCopywriting\nCreating new photography or app mockups\nBranding or design from scratch\nWhat I Will Provide\nExisting WordPress website with the Naxos theme installed\nFinal visual references for the Home and About pages\nFinal English copy\nAll photos and images\nPhone/app mockups\nApp Store and Google Play links\nSocial media links\nPrivacy Policy and Terms & Conditions\nEmail address for contact form submissions\nFont specifications\n\nAccess will be provided through a separate temporary WordPress administrator account. The primary hosting login will not be shared. Hosting access may be provided separately only if a specific task genuinely requires it.\n\nDeliverables\nCompleted and published website\nHome page and About page\nFully functional contact form\nResponsive desktop, tablet, and mobile versions\nTwo rounds of revisions included\nRevision requests must be submitted within five business days after the initial delivery\nAll work completed within my existing WordPress account\nFull ownership and ability to edit the website after completion\nWhat to Include in Your Proposal\n\nPlease include:\n\nConfirmation that you can complete the entire project for $300 fixed price\nEstimated completion time\nExamples of similar WordPress landing pages you have built\nConfirmation that you can work with the existing Naxos theme\nWhether you will work directly in WordPress or first create a layout in Figma\nA brief explanation of what you expect to customize manually\nAny potential additional costs for plugins, licenses, or other tools\n\nPlease start your proposal with the word “NAXOS” so I know you have read the full project description.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "graphic-design",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "NAXOS – I can complete this entire project for the fixed price of $300, and I am ready to start right away with an estimated completion time of 3 to 4 days.\n\nI have extensive experience working with purchased commercial themes, custom page layouts, and configuring reliable SMTP email delivery with spam protection. I will work directly in your WordPress environment using the Naxos theme, manually customizing the Gutenberg blocks or theme settings to precisely match your visual references, while ensuring flawless responsiveness across desktop, tablet, and mobile. No additional plugins or licenses will be needed beyond what you provide. \n\nYou can review a similar modern, responsive WordPress build I completed here: https://www.thelifeyoucansave.org/\n\nWhen would you like to set up temporary admin access so we can get started?",
+    "publishedDateTime": "2026-09-20T16:36:17+0000",
+    "addedAt": "2026-09-20T16:37:19.053Z",
+    "url": "https://www.upwork.com/jobs/~022101711653969685724",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101711653969685724/apply/"
+  },
+  {
     "id": "2101700996686822262",
     "ciphertext": "~022101700996686822262",
     "title": "Rebuild and Redesign Law Firm Website",

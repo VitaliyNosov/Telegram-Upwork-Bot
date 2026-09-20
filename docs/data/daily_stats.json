@@ -1,10 +1,10 @@
 {
   "date": "2026-09-20",
   "lastDigestSentDate": "2026-09-19",
-  "totalScanned": 38,
-  "matchedFilters": 8,
+  "totalScanned": 39,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022101553190320827612",
       "addedAt": "2026-09-20T06:07:17.423Z"
+    },
+    {
+      "title": "WordPress Developer for Naxos Landing Page",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022101711653969685724",
+      "addedAt": "2026-09-20T16:37:17.945Z"
     },
     {
       "title": "WooCommerce Expert to Optimize Sales Process",
