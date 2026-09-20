@@ -1,12 +1,19 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 2,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WooCommerce Developer Needed for Cosmetics Website",
+      "budget": "$12-$27/hr",
+      "score": 2750,
+      "url": "https://www.upwork.com/jobs/~022101789436343220579",
+      "addedAt": "2026-09-20T21:47:14.953Z"
+    },
     {
       "title": "Website Developement LA",
       "budget": "Fixed-price",

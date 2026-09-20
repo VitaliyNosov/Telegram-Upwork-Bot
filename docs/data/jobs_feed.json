@@ -1,5 +1,37 @@
 [
   {
+    "id": "2101789436343220579",
+    "ciphertext": "~022101789436343220579",
+    "title": "WooCommerce Developer Needed for Cosmetics Website",
+    "description": "We are looking for an experienced WordPress/WooCommerce developer to create a professional and modern online store for a cosmetics and beauty products brand.\n\nProject Requirements\nBuild a complete WooCommerce cosmetics e-commerce website\nCreate a modern, elegant, and mobile-friendly design\nSet up product categories such as skincare, makeup, haircare, and beauty products\nAdd product images, descriptions, prices, variations, and inventory\nConfigure shopping cart and checkout\nIntegrate payment methods\nConfigure shipping and delivery options\nCreate customer accounts and order management\nAdd product search and filtering\nAdd product reviews and ratings\nConfigure promotional discounts and coupon codes\nOptimize the website for mobile, speed, and SEO\nConfigure basic security and backups\nTest the complete ordering process before launch\nRequirements\nStrong WordPress and WooCommerce experience\nExperience creating e-commerce websites\nGood knowledge of PHP, HTML, CSS, and JavaScript\nExperience customizing WooCommerce themes and plugins\nStrong attention to design and user experience\nGood communication and ability to meet deadlines\nDeliverables\n\nA complete, responsive, professional cosmetics online store that is ready to accept customer orders.\n\nPlease include examples of WooCommerce or cosmetics/beauty websites you have previously developed in your proposal.\n\nWe are looking for a freelancer who can start soon and work closely with us throughout the project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "web-programming",
+      "web-design",
+      "e-commerce-website",
+      "css",
+      "php"
+    ],
+    "score": 2750,
+    "coverLetter": "Hi! I would love to help you build a sleek, high-converting WooCommerce store for your cosmetics brand. \n\nI specialize in custom WooCommerce development, crafting mobile-first e-commerce sites with seamless product filtering, robust checkout flows, and secure payment integrations. Using my background in PHP, CSS, and WordPress performance optimization, I will ensure your store looks elegant, loads quickly, and provides an exceptional shopping experience for beauty consumers—from skincare to makeup. \n\nYou can check out some of my recent WordPress and e-commerce work here: https://www.thelifeyoucansave.org/\n\nWhen would be a good time to discuss your brand's specific design preferences and product catalog structure?",
+    "publishedDateTime": "2026-09-20T21:45:14+0000",
+    "addedAt": "2026-09-20T21:47:16.130Z",
+    "url": "https://www.upwork.com/jobs/~022101789436343220579",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101789436343220579/apply/"
+  },
+  {
     "id": "2101715245859593603",
     "ciphertext": "~022101715245859593603",
     "title": "Website Developement LA",
