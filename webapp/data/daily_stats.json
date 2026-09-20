@@ -1,10 +1,11 @@
 {
   "date": "2026-09-20",
   "lastDigestSentDate": "2026-09-19",
-  "totalScanned": 29,
-  "matchedFilters": 4,
+  "totalScanned": 30,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 4,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -27,6 +28,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022101553190320827612",
       "addedAt": "2026-09-20T06:07:17.423Z"
+    },
+    {
+      "title": "Shopify Migration Expert with CVR, AOV, Funnels Focus (From WooCommerce/Memberpress/Elementor Stack)",
+      "budget": "Fixed-price",
+      "score": 142,
+      "url": "https://www.upwork.com/jobs/~022101666232248449910",
+      "addedAt": "2026-09-20T13:37:24.679Z"
     },
     {
       "title": "Website Redesign for Existing Site",
