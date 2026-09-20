@@ -1,5 +1,35 @@
 [
   {
+    "id": "2101770893507630046",
+    "ciphertext": "~022101770893507630046",
+    "title": "WordPress & WooCommerce Developer Needed for a Professional eCommerce Website developer",
+    "description": "We are looking for an experienced WordPress/WooCommerce developer to build a modern, professional, and responsive eCommerce website.\n\nRequirements:\nWooCommerce store setup and development\nModern homepage and shop design\nProduct, category, cart, and checkout pages\nProduct variations and filters\nPayment gateway integration\nShipping setup\nCustomer account functionality\nMobile and tablet responsive design\nBasic speed optimization\n\nWe will provide the logo, product information, images, content, and reference websites.\n\nLooking for someone with strong WooCommerce experience, good communication, and attention to detail. We are also interested in long-term collaboration for future updates and improvements.\n\nPlease share a few relevant WooCommerce projects with your proposal.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$10 - $40/hr",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 4.57,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wp-ecommerce",
+      "ecommerce-consulting",
+      "wordpress-website",
+      "e-commerce-website",
+      "custom-ecommerce-platform"
+    ],
+    "score": 4141,
+    "coverLetter": "Hi! I'd love to help you build a modern, high-performing WooCommerce store for your brand. \n\nWith extensive experience in custom WooCommerce setups, I specialize in building smooth customer journeys—from product pages and advanced filtering to secure checkout, payment gateway integrations, and mobile responsiveness. I focus heavily on clean code and reliable architecture to ensure your store runs fast and converts well. \n\nYou can review a couple of my relevant recent WordPress/WooCommerce builds here:\n- https://waapple.org/\n- https://www.cchpca.org/\n\nBeyond initial development, I am fully equipped and interested in a long-term collaboration for ongoing maintenance, feature updates, and performance optimization as your business grows. \n\nWhat payment gateways and shipping providers are you planning to integrate for this launch?",
+    "publishedDateTime": "2026-09-20T20:31:12+0000",
+    "addedAt": "2026-09-20T20:31:57.160Z",
+    "url": "https://www.upwork.com/jobs/~022101770893507630046",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101770893507630046/apply/"
+  },
+  {
     "id": "2101752451764168408",
     "ciphertext": "~022101752451764168408",
     "title": "Website Email correction  Needed",
