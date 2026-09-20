@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 12,
-  "matchedFilters": 4,
+  "totalScanned": 14,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022101715245859593603",
       "addedAt": "2026-09-20T21:15:12.257Z"
+    },
+    {
+      "title": "AI Website Builder Needed – Two Simple Professional Websites",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022101773541342385118",
+      "addedAt": "2026-09-20T23:43:09.619Z"
     }
   ]
 }

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2101773541342385118",
+    "ciphertext": "~022101773541342385118",
+    "title": "AI Website Builder Needed – Two Simple Professional Websites",
+    "description": "I’m looking for someone who is very good at using current AI website-building tools to create professional websites quickly and efficiently.\n\nTo be clear: I am NOT looking for a traditional custom web-development project. I specifically want someone who uses AI to dramatically reduce the time and cost of building a good-looking website.\n\nI have two relatively simple websites that I want built/refreshed.\n\n1. Boss Financial Group\n\nI already have an existing website and content. This site is primarily for professional credibility. When a prospective client, referral partner, or business contact looks me up, I want them to see a modern, polished professional website.\n\nFor now, I do not need sophisticated functionality. Approximately 4–5 pages is plenty. You can reuse and improve the existing content using AI.\n\nThe priorities are simple: it needs to look excellent on desktop and mobile, clearly explain who we are and what we do, and have an easy way for someone to contact us.\n\nDown the road we may add things such as a client portal, payments, scheduling, resources, etc., but that is not part of this project. Don't build functionality today that we don't need.\n\n2. TaxCreditsAreSexy.com\n\nThis is a website for a growing series of tax books.\n\nAgain, this is primarily a credibility/showcase website, not an e-commerce platform. I don't need blogging, complicated marketing funnels, or a custom publishing system.\n\nThe one important requirement is that I expect to add approximately one new book per week.\n\nAdding a book should be extremely simple: cover image, title, short description, and links. The new book should then appear in the book library and have a consistent page/layout without redesigning the website every week.\n\nInitially this can be a very simple site. I would much rather launch an inexpensive, attractive Version 1 now and improve it later if the business justifies it.\n\nWhat I'm looking for\n\nUse AI. Use templates. Use Claude Code, Lovable, Replit, Framer, WordPress with AI, or whatever modern tools allow you to produce excellent work quickly. I don't care if the first version takes you two hours instead of two days—that's the point.\n\nI'm not paying for hours spent coding. I'm looking for the person who can get to a good finished result efficiently.\n\nBoth sites should include mobile-responsive design, basic contact functionality, domain connection/deployment, and basic SEO setup. Nothing elaborate.\n\nPlease answer these questions in your proposal:\n\nWhat AI tools/platform would you use for each website?\nPlease provide links to 2–3 websites you've personally built using AI-assisted tools.\nWhat is your fixed price for Boss Financial Group?\nWhat is your fixed price for TaxCreditsAreSexy.com?\nWhat is your fixed price if I hire you to do both together?\nHow quickly can you deliver the first working version of each?\n\nPrice matters on this project. These are intentionally simple Version 1 websites, and I'm specifically looking for someone who understands how AI has made straightforward website development much faster and less expensive.\n\nIf you're proposing a traditional multi-week custom website development project, we're probably not a good fit.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I completely agree that modern AI tools and smart templating make building clean, credibility-focused websites a matter of hours, not weeks—no traditional slow-coding bloat here.\n\nTo answer your questions directly:\n1. AI tools: I would use Lovable or Claude Code / Replit for fast UI generation, integrated with a lightweight WordPress backend (leveraging Gutenberg and ACF) so you can easily add a new book weekly via a simple custom post type without touching code.\n2. Portfolio: (I work extensively with modern web builders and CMS setups, similar to projects like https://www.thelifeyoucansave.org/).\n3. Boss Financial Group: $350 (Fixed)\n4. TaxCreditsAreSexy.com: $400 (Fixed)\n5. Both together (Bundle): $650 (Fixed)\n6. Delivery: First working version of both within 48–72 hours.\n\nLet's get these launched quickly and efficiently—shall we jump into chat to align on the details?",
+    "publishedDateTime": "2026-09-20T23:41:27+0000",
+    "addedAt": "2026-09-20T23:43:11.079Z",
+    "url": "https://www.upwork.com/jobs/~022101773541342385118",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101773541342385118/apply/"
+  },
+  {
     "id": "2101770898072288118",
     "ciphertext": "~022101770898072288118",
     "title": "Divi website redesign",
