@@ -1,5 +1,31 @@
 [
   {
+    "id": "2101807335576583030",
+    "ciphertext": "~022101807335576583030",
+    "title": "WordPress Developer to fix a handful of bugs and add new content pages to  (Wannycleandaho.com)",
+    "description": "Looking for a WordPress developer to fix a handful of small bugs and add new content pages to an existing cleaning-company website (wannycleanidaho.com, built on WP Rocket + a common WP theme framework). Phase 1: fix a template bug in the footer, update the About/team page, clean up a few blog post URLs that contain emoji characters, and fix a typo in one page's meta description. Phase 2 (optional follow-on): add a \"WannyPro Commercial Cleaning\" link to the homepage nav and build one new page there holding all commercial/post-construction cleaning content, plus 6-8 city-specific landing pages and an FAQ page, plus basic image/video optimization. Please share examples of past WordPress content/SEO work.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 4050,
+    "coverLetter": "Hi! I can easily help you knock out those quick bug fixes and build out your new content and landing pages for Wanny Clean Idaho. \n\nFrom fixing your footer template and URL cleanups (handling those stray emojis) to building out your city-specific landing pages, FAQ, and commercial content, I've got you covered. Since your site runs on WP Rocket and a standard framework, I'll ensure all the new pages are fast-loading, properly structured for SEO, and seamlessly integrated into your current navigation. \n\nFor past work, you can check out https://www.daysforgirls.org/, where I've managed extensive content layouts, custom page builds, and performance optimization. \n\nWhen would you like to kick off Phase 1? We can knock these initial fixes out today.",
+    "publishedDateTime": "2026-09-20T22:55:36+0000",
+    "addedAt": "2026-09-20T22:57:13.441Z",
+    "url": "https://www.upwork.com/jobs/~022101807335576583030",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101807335576583030/apply/"
+  },
+  {
     "id": "2101789436343220579",
     "ciphertext": "~022101789436343220579",
     "title": "WooCommerce Developer Needed for Cosmetics Website",

@@ -1,12 +1,19 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 6,
-  "matchedFilters": 2,
+  "totalScanned": 7,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "WordPress Developer to fix a handful of bugs and add new content pages to  (Wannycleandaho.com)",
+      "budget": "$20-$40/hr",
+      "score": 4050,
+      "url": "https://www.upwork.com/jobs/~022101807335576583030",
+      "addedAt": "2026-09-20T22:57:12.229Z"
+    },
     {
       "title": "WooCommerce Developer Needed for Cosmetics Website",
       "budget": "$12-$27/hr",
