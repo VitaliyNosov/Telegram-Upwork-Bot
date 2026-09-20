@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101690150046508760",
+    "ciphertext": "~022101690150046508760",
+    "title": "WordPress Website Clone Without Admin Access",
+    "description": "Need a clone of a 500+ page WordPress website without administrative or FTP access. The site appears to be a multi-site structure, and all images are hosted off-site. There are possibly thousands of images that must be included in the archive as owned content. This clone is for archiving purposes only. Permalink structure must remain intact. The site includes English content and a few Spanish pages. Please share relevant experience with similar cloning projects and your approach to handling off-site media and preserving URLs. The cloned site must be reachable, stable and complete after it is de-activated from the current host. I will provide an account at WPEngine for the clone.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "html5"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I have extensive experience with large-scale site migrations and archiving projects, including complex multi-site structures. I can certainly handle the cloning of this 500+ page site and ensure all off-site media is properly scraped and integrated as owned content while maintaining your exact permalink structure.\n\nMy approach involves using custom scripts to crawl the site, mirroring the hierarchical structure, and re-linking all external image assets to your new WPEngine environment. I’ve managed similar high-volume content migrations for clients like https://www.thelifeyoucansave.org/, where preserving data integrity and URL mapping was critical. I am comfortable working without admin access by utilizing advanced crawling techniques to capture the front-end output and database structure effectively.\n\nAre you available for a quick chat to discuss the site’s URL structure and total media volume so I can outline the specific migration plan?",
+    "publishedDateTime": "2026-09-20T15:10:31+0000",
+    "addedAt": "2026-09-20T15:11:35.864Z",
+    "url": "https://www.upwork.com/jobs/~022101690150046508760",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101690150046508760/apply/"
+  },
+  {
     "id": "2101666232248449910",
     "ciphertext": "~022101666232248449910",
     "title": "Shopify Migration Expert with CVR, AOV, Funnels Focus (From WooCommerce/Memberpress/Elementor Stack)",
