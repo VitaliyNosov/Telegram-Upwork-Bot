@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101752451764168408",
+    "ciphertext": "~022101752451764168408",
+    "title": "Website Email correction  Needed",
+    "description": "WordPress & Email Delivery Expert Needed to Fix Site Ground / Business Email Routing Issue.\nLooking for an experienced WordPress developer and troubleshooting expert to resolve a critical email delivery issue. Client emails are currently being blocked or jammed and failing to reach my business Outlook account.\n\nKey Responsibilities:\n\nDiagnose and resolve WordPress configuration or server routing issues causing inbound emails to fail.\n\nVerify and fix DNS, MX records, or plugin conflicts between Site Ground, WordPress, and Microsoft Outlook.\n\nTest email delivery to ensure client messages and inquiries route successfully to my inbox.\n\nRequirements:\n\nProven expertise with WordPress troubleshooting and SiteGround hosting environments.\n\nStrong understanding of email authentication, DNS configurations, and mail routing.\n\nAbility to quickly diagnose the bottleneck (\"traffic jam\") and implement a lasting fix.\n\nPlease include a brief description of similar email delivery or WordPress troubleshooting projects you have resolved when applying.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can quickly diagnose and fix your email routing bottleneck between SiteGround, WordPress, and Microsoft Outlook. \n\nI regularly resolve WordPress and WooCommerce email delivery issues, DNS configurations, and MX record conflicts that cause messages to fail or get blocked. Whether it's a plugin conflict, improper mailer routing, or server-side authentication issue, I will trace the exact point of failure and secure your inbox delivery. \n\nFor a recent example of my troubleshooting work, you can review https://www.seeintl.org/, where I handled complex backend technical fixes. \n\nCould you share if you are currently using SMTP plugins or native PHP mail on SiteGround? Let's get this sorted out today.",
+    "publishedDateTime": "2026-09-20T19:17:40+0000",
+    "addedAt": "2026-09-20T19:19:23.721Z",
+    "url": "https://www.upwork.com/jobs/~022101752451764168408",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101752451764168408/apply/"
+  },
+  {
     "id": "2101712582124966878",
     "ciphertext": "~022101712582124966878",
     "title": "Wordpress / Elementor Developer needed",
