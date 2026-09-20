@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101700996686822262",
+    "ciphertext": "~022101700996686822262",
+    "title": "Rebuild and Redesign Law Firm Website",
+    "description": "We need a developer to rebuild and redesign an existing law firm website. The work includes improving the site structure, updating the layout, and creating a more professional, user-friendly experience. You will also help with content organization, page updates, and ensuring the site is easy to navigate. The goal is to refresh the current website while maintaining its core functionality and improving overall usability for visitors.  The project would ideally include custom UX/UI design, full responsive WordPress development, migration of the existing site, improved conversion design, speed/Core Web Vitals optimization, technical SEO, and careful preservation of our existing URLs and rankings. We will also need to coordinate content creation/optimization and the SEO migration.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$15 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 27,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 6100,
+    "coverLetter": "Hi! Rebuilding a law firm's website requires a delicate balance: delivering a modern, high-converting design while strictly protecting existing SEO rankings, URLs, and traffic during the migration. \n\nWith extensive experience in custom WordPress development, I specialize in transforming outdated sites into fast, professional, and user-friendly experiences. My approach covers everything you need: clean responsive builds using ACF or modern page builders, strict Core Web Vitals optimization, and meticulous URL mapping/301 redirects to ensure your search rankings remain secure. I also ensure the backend structure is intuitive, making it easy for your team to manage content moving forward.\n\nFor similar professional organization rebuilds, you can view my work on projects like https://www.cchpca.org/.\n\nAre you currently working from finalized design files (like Figma), or would you need help with the UX/UI layout phase as well?",
+    "publishedDateTime": "2026-09-20T15:55:07+0000",
+    "addedAt": "2026-09-20T15:59:17.690Z",
+    "url": "https://www.upwork.com/jobs/~022101700996686822262",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101700996686822262/apply/"
+  },
+  {
     "id": "2101692383397090270",
     "ciphertext": "~022101692383397090270",
     "title": "WooCommerce Expert to Optimize Sales Process",

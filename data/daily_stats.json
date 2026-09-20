@@ -1,13 +1,20 @@
 {
   "date": "2026-09-20",
   "lastDigestSentDate": "2026-09-19",
-  "totalScanned": 35,
-  "matchedFilters": 7,
+  "totalScanned": 36,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Rebuild and Redesign Law Firm Website",
+      "budget": "$15-$60/hr",
+      "score": 6100,
+      "url": "https://www.upwork.com/jobs/~022101700996686822262",
+      "addedAt": "2026-09-20T15:59:16.288Z"
+    },
     {
       "title": "WordPress Design and Development for Consulting Firm on Bluehost",
       "budget": "$18-$40/hr",
