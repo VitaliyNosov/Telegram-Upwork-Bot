@@ -1,5 +1,32 @@
 [
   {
+    "id": "2101553190320827612",
+    "ciphertext": "~022101553190320827612",
+    "title": "WordPress Admin: WooCommerce Email Setup & Automation (2 Milestones)",
+    "description": "Job Title: WordPress Admin: WooCommerce Email Setup & Automation (2 Milestones)\n\nJob Description:\nWe need a practical, tech-savvy WordPress site administrator to help configure our WooCommerce store's email infrastructure. This is a configuration task—no custom coding required.\n\nTo keep things organized, we are breaking this project down into two clear milestones. You will be hired for Milestone 1 immediately, with Milestone 2 following right after.\n\nMilestone 1: WooCommerce Transactional Emails (Immediate Priority)\nFixing and verifying basic store operations so order receipts and shipping updates actually deliver.\nTroubleshoot and configure native WooCommerce order receipts and shipping notifications.\nConnect and configure an SMTP plugin (like WP Mail SMTP) to ensure emails send reliably.\nVerify basic email authentication (SPF, DKIM) with our domain registrar to prevent spam flagging.\n\nMilestone 2: Self-Hosted Marketing Automation (Next Phase)\nSetting up on-site marketing plugins and isolated sending domains.\nInstall and configure a self-hosted marketing plugin (AutomateWoo or FunnelKit).\nAssist with setting up an auxiliary sending domain/subdomain to isolate automated sequences.\nLoad and configure our pre-designed abandoned cart and order follow-up sequences.\nTest all automated flows to ensure proper triggering.\n\nStrong experience navigating the WordPress and WooCommerce dashboard.\nPractical knowledge of email plugins, SMTP relay\nAble to handle configuration tasks efficiently and communicate clearly.\n:s, and basic DNS records.\n\nWhen applying, please confirm your experience with WooCommerce email settings and plugin configuration, and let us know your availability to start Milestone 1 immediately.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wp-ecommerce"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I am available to start Milestone 1 immediately, and I have extensive experience configuring WooCommerce transactional emails, SMTP relays, and DNS records (SPF/DKIM) to ensure 100% deliverability. \n\nIn my WordPress development work, resolving email delivery failures, setting up WP Mail SMTP, and configuring marketing automation tools like AutomateWoo and FunnelKit are routine tasks for me. I frequently handle everything from basic receipt troubleshooting to isolated sending domain setups and multi-step abandoned cart sequences. You can see examples of my live WordPress and WooCommerce builds here: https://www.thelifeyoucansave.org/\n\nLet's get your transactional and automated emails firing reliably right away. What is your current email service provider or SMTP host for this setup?",
+    "publishedDateTime": "2026-09-20T06:06:28+0000",
+    "addedAt": "2026-09-20T06:07:18.848Z",
+    "url": "https://www.upwork.com/jobs/~022101553190320827612",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101553190320827612/apply/"
+  },
+  {
     "id": "2101432580999477603",
     "ciphertext": "~022101432580999477603",
     "title": "WordPress Design and Development for Consulting Firm on Bluehost",
