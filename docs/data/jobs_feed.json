@@ -1,5 +1,33 @@
 [
   {
+    "id": "2102123237643663067",
+    "ciphertext": "~022102123237643663067",
+    "title": "E-Commerce Consultant & Developer – Build Large-Catalog Water Fountain Store",
+    "description": "I am launching a US-based business selling water fountains and need an experienced e-commerce expert to guide me from the ground up and build the website.\nOur catalog will grow to hundreds or thousands of products, so the site must be fast, well-organized, and built to scale.\nI need help with:\nRecommending and setting up the best platform (Shopify, WooCommerce, etc.) for a large catalog\nSetting up the domain, business email, and basic site infrastructure\nDesigning a clean, professional, mobile-friendly storefront\nOrganizing categories, search, and product filters so customers can easily find what they want\nGuiding me through logistics setup: payment processing, freight shipping for heavy items, and essential legal/policy pages (Terms, Privacy, Freight Delivery)\nMany operational details will be finalized as we go, so I am looking for a proactive partner who can advise on best practices, recommend the right tools, and then execute the build.\nTo Apply:\nShare 2–3 links to live e-commerce websites you have built.\nIn 1–2 sentences, mention which platform you'd suggest for an inventory of hundreds to thousands of items and why.\nWhat is your preferred way to manage a project like this from scratch?",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 2850,
+    "coverLetter": "Hi! For a large-catalog store scaling to thousands of products, I suggest WooCommerce because it handles massive inventories and complex tiered attributes (like dimensions, weights, and freight shipping options) without monthly SaaS transaction fees, though Shopify is a strong alternative if you prefer a completely hands-off backend.\n\nI’m an e-commerce consultant and developer specializing in scalable, high-performance stores. I can guide you through the initial infrastructure, freight shipping setups, and advanced product filtering to ensure a seamless user experience. \n\nA great example of my e-commerce work is https://www.snopud.com/. \n\nTo manage a project like this from scratch, I prefer starting with a clear scope and staging environment, breaking development into weekly milestones—from initial architecture and logistics integration to UX design and search optimization—so we can iterate efficiently.\n\nWhen would you like to jump on a quick call to map out the foundational steps?",
+    "publishedDateTime": "2026-09-21T19:51:52+0000",
+    "addedAt": "2026-09-21T19:53:25.530Z",
+    "url": "https://www.upwork.com/jobs/~022102123237643663067",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102123237643663067/apply/"
+  },
+  {
     "id": "2102089950038068357",
     "ciphertext": "~022102089950038068357",
     "title": "Convert HTML website design to Elementor",

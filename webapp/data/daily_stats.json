@@ -1,10 +1,11 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 94,
-  "matchedFilters": 27,
+  "totalScanned": 95,
+  "matchedFilters": 28,
   "byKeyword": {
-    "wordpress developer": 27
+    "wordpress developer": 27,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -71,11 +72,11 @@
       "addedAt": "2026-09-21T13:05:21.148Z"
     },
     {
-      "title": "WooCommerce Developer Needed for Cosmetics Website",
+      "title": "E-Commerce Consultant & Developer – Build Large-Catalog Water Fountain Store",
       "budget": "$12-$27/hr",
-      "score": 2750,
-      "url": "https://www.upwork.com/jobs/~022101789436343220579",
-      "addedAt": "2026-09-20T21:47:14.953Z"
+      "score": 2850,
+      "url": "https://www.upwork.com/jobs/~022102123237643663067",
+      "addedAt": "2026-09-21T19:53:23.864Z"
     }
   ]
 }
