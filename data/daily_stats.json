@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 77,
-  "matchedFilters": 24,
+  "totalScanned": 79,
+  "matchedFilters": 25,
   "byKeyword": {
-    "wordpress developer": 24
+    "wordpress developer": 25
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022101770898072288118",
       "addedAt": "2026-09-20T23:33:10.181Z"
+    },
+    {
+      "title": "Pixly.ai Homepage Update: Design & Wordpress",
+      "budget": "$15-$30/hr",
+      "score": 3099,
+      "url": "https://www.upwork.com/jobs/~022102076917662803501",
+      "addedAt": "2026-09-21T16:49:16.334Z"
     },
     {
       "title": "WordPress Website Update Needed",
@@ -69,13 +76,6 @@
       "score": 2750,
       "url": "https://www.upwork.com/jobs/~022101789436343220579",
       "addedAt": "2026-09-20T21:47:14.953Z"
-    },
-    {
-      "title": "AI Code Generated Website Redesign",
-      "budget": "$8-$25/hr",
-      "score": 2600,
-      "url": "https://www.upwork.com/jobs/~022101973095227841923",
-      "addedAt": "2026-09-21T09:55:13.903Z"
     }
   ]
 }

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102076917662803501",
+    "ciphertext": "~022102076917662803501",
+    "title": "Pixly.ai Homepage Update: Design & Wordpress",
+    "description": "I need a new homepage design created and built in WordPress for www.Pixly.ai. I have a design that I like; I need it refined a little bit with the copy and logo. Otherwise, it is mostly ready to be created in WordPress. I want this done within a week.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "hubspot"
+    ],
+    "score": 3099,
+    "coverLetter": "Hi! \n\nI can help you refine your homepage design, polish the copy and logo, and build it live on WordPress within your one-week timeframe. \n\nI specialize in custom WordPress development, translating designs (like Figma) into pixel-perfect, clean, and responsive pages using tools like Gutenberg, ACF, or your preferred page builder. I also have hands-on experience with HubSpot and web design, ensuring your branding and layout look sharp and conversion-focused. \n\nYou can check out some of my recent WordPress builds here: https://about.offerup.com/\n\nDo you already have the copy and logo assets ready for review, or should we factor that into the first couple of days? Let’s get this launched for Pixly.ai on schedule.",
+    "publishedDateTime": "2026-09-21T16:47:21+0000",
+    "addedAt": "2026-09-21T16:49:17.896Z",
+    "url": "https://www.upwork.com/jobs/~022102076917662803501",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102076917662803501/apply/"
+  },
+  {
     "id": "2102062271238769797",
     "ciphertext": "~022102062271238769797",
     "title": "WordPress Build — Portable Custom Kadence Child Theme + ACF Pro",
