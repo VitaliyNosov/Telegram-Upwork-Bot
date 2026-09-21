@@ -613,60 +613,60 @@
       </div>
     </div>
 
-    <!-- Dedicated PDF Printable Layout (Styled for A4 in Upwork colors) -->
-    <div id="pdf-report-container">
-      <div style="font-family: 'Inter', Arial, sans-serif; color: #001e00; background: #ffffff; padding: 24px; max-width: 800px; margin: 0 auto;">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 2.5px solid #14a800; padding-bottom: 12px; margin-bottom: 20px;">
-          <div>
-            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 4px;">
-              <img src="logo.png" alt="Upwork" style="height: 26px; width: auto; display: block; object-fit: contain;" />
-              <span style="font-size: 16px; color: #14a800; font-weight: 300;">|</span>
-              <span style="font-size: 15px; color: #001e00; font-weight: 700; line-height: 1;">Daily Intelligence Report</span>
-            </div>
-            <p style="font-size: 11px; color: #5e6d55; margin: 2px 0 0;">Automatic Upwork Bot Monitoring & AI Proposal Analytics</p>
-          </div>
-          <div style="text-align: right;">
-            <div id="pdf-date" style="font-size: 13px; font-weight: 700; color: #001e00;"></div>
-            <div style="font-size: 10px; color: #5e6d55; margin-top: 2px;">Timezone: Europe/Kyiv</div>
-          </div>
-        </div>
-
-        <div style="display: flex; gap: 12px; margin-bottom: 20px;">
-          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">TOTAL SCANNED</div>
-            <div id="pdf-scanned" style="font-size: 24px; font-weight: 800; color: #001e00; margin-top: 4px;">0</div>
-          </div>
-          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">MATCHED PROFILE</div>
-            <div id="pdf-matched" style="font-size: 24px; font-weight: 800; color: #14a800; margin-top: 4px;">0</div>
-          </div>
-          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">AI PROPOSALS</div>
-            <div id="pdf-proposals" style="font-size: 24px; font-weight: 800; color: #6366f1; margin-top: 4px;">0</div>
-          </div>
-          <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
-            <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">TOP MATCH SCORE</div>
-            <div id="pdf-score" style="font-size: 24px; font-weight: 800; color: #e28a00; margin-top: 4px;">0</div>
-          </div>
-        </div>
-
-        <div style="margin-bottom: 20px;">
-          <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">SEARCH KEYWORDS:</h3>
-          <div id="pdf-keywords" style="display: flex; gap: 8px; flex-wrap: wrap;"></div>
-        </div>
-
-        <div>
-          <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">SELECTED JOBS FOR THE DAY:</h3>
-          <div id="pdf-jobs-list" style="display: flex; flex-direction: column; gap: 4px;"></div>
-        </div>
-      </div>
-    </div>
-
     <!-- Toast Notification -->
     <div id="toast" class="toast hidden">Copied to clipboard!</div>
 
   </div>
 
-  <script src="app.js?v=20260922_3"></script>
+  <!-- Dedicated PDF Printable Layout (Styled for A4 in Upwork colors) -->
+  <div id="pdf-report-container" class="pdf-hidden">
+    <div style="font-family: 'Inter', Arial, sans-serif; color: #001e00; background: #ffffff; padding: 24px; max-width: 800px; margin: 0 auto;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 2.5px solid #14a800; padding-bottom: 12px; margin-bottom: 20px;">
+        <div>
+          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 4px;">
+            <img src="logo.png?v=4" alt="Upwork" style="height: 26px; width: auto; display: block; object-fit: contain;" />
+            <span style="font-size: 16px; color: #14a800; font-weight: 300;">|</span>
+            <span style="font-size: 15px; color: #001e00; font-weight: 700; line-height: 1;">Daily Intelligence Report</span>
+          </div>
+          <p style="font-size: 11px; color: #5e6d55; margin: 2px 0 0;">Automatic Upwork Bot Monitoring & AI Proposal Analytics</p>
+        </div>
+        <div style="text-align: right;">
+          <div id="pdf-date" style="font-size: 13px; font-weight: 700; color: #001e00;"></div>
+          <div style="font-size: 10px; color: #5e6d55; margin-top: 2px;">Timezone: Europe/Kyiv</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 12px; margin-bottom: 20px;">
+        <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+          <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">TOTAL SCANNED</div>
+          <div id="pdf-scanned" style="font-size: 24px; font-weight: 800; color: #001e00; margin-top: 4px;">0</div>
+        </div>
+        <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+          <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">MATCHED PROFILE</div>
+          <div id="pdf-matched" style="font-size: 24px; font-weight: 800; color: #14a800; margin-top: 4px;">0</div>
+        </div>
+        <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+          <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">AI PROPOSALS</div>
+          <div id="pdf-proposals" style="font-size: 24px; font-weight: 800; color: #6366f1; margin-top: 4px;">0</div>
+        </div>
+        <div style="flex: 1; border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #f7f7f7;">
+          <div style="font-size: 10px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px;">TOP MATCH SCORE</div>
+          <div id="pdf-score" style="font-size: 24px; font-weight: 800; color: #e28a00; margin-top: 4px;">0</div>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 20px;">
+        <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">SEARCH KEYWORDS:</h3>
+        <div id="pdf-keywords" style="display: flex; gap: 8px; flex-wrap: wrap;"></div>
+      </div>
+
+      <div>
+        <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">SELECTED JOBS FOR THE DAY:</h3>
+        <div id="pdf-jobs-list" style="display: flex; flex-direction: column; gap: 4px;"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js?v=20260922_4"></script>
 </body>
 </html>

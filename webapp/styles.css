@@ -1619,8 +1619,18 @@ body.theme-dark .period-btn.active {
 /* ==========================================================================
    Hidden PDF Export Printable Container
    ========================================================================== */
+#pdf-report-container.pdf-hidden {
+  display: none !important;
+}
+
 #pdf-report-container {
-  display: none;
+  display: block;
+  width: 760px;
+  max-width: 100%;
+  margin: 0 auto;
+  background: #ffffff;
+  color: #001e00;
+  box-sizing: border-box;
 }
 
 @media print {
@@ -1628,8 +1638,11 @@ body.theme-dark .period-btn.active {
     background: #ffffff !important;
     color: #001e00 !important;
   }
-  .app-header, .bottom-nav, .filter-chips, .search-box, .sheet-overlay, .toast {
+  .app-header, .bottom-nav, .filter-chips, .search-box, .sheet-overlay, .toast, .app-container {
     display: none !important;
+  }
+  #pdf-report-container.pdf-hidden {
+    display: block !important;
   }
   #pdf-report-container {
     display: block !important;

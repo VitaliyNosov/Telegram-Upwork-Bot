@@ -2025,7 +2025,7 @@
     showToast(newTheme === 'dark' ? 'Тёмная тема Telegram 🌙' : 'Светлая тема Upwork ☀️');
   }
 
-  function downloadReportPDF() {
+  async function downloadReportPDF() {
     triggerHaptic('impact');
     showToast('Формирование PDF-отчета... ⏳');
 
@@ -2138,38 +2138,56 @@
     const element = document.getElementById('pdf-report-container');
     if (!element) return;
 
+    // Сохраняем исходный скролл и перемещаемся наверх, чтобы html2canvas запечатлел элемент без сдвига вьюпорта
+    const prevScrollY = window.scrollY;
+    window.scrollTo(0, 0);
+
+    // Делаем контейнер видимым для отрисовки в нормальном потоке документа (не absolute!)
+    element.classList.remove('pdf-hidden');
     element.style.display = 'block';
-    element.style.position = 'absolute';
-    element.style.left = '0';
-    element.style.top = '0';
-    element.style.width = '800px';
-    element.style.zIndex = '99999';
+    element.style.position = 'relative';
+    element.style.width = '760px';
+    element.style.margin = '0 auto';
     element.style.background = '#ffffff';
+    element.style.opacity = '1';
+
+    // Даем браузеру время для полного расчета геометрии и отрисовки шрифтов
+    await new Promise((resolve) => setTimeout(resolve, 200));
 
     const opt = {
-      margin: [10, 10, 10, 10],
+      margin: [8, 8, 8, 8],
       filename: pdfFilename,
       image: { type: 'jpeg', quality: 0.98 },
       enableLinks: true,
-      html2canvas: { scale: 1.5, useCORS: true, logging: false, scrollY: 0, scrollX: 0 },
+      html2canvas: {
+        scale: 2,
+        useCORS: true,
+        allowTaint: true,
+        logging: false,
+        letterRendering: true,
+        scrollY: 0,
+        scrollX: 0,
+        windowWidth: 800
+      },
       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
     };
 
-    if (window.html2pdf) {
-      window.html2pdf().set(opt).from(element).save().then(() => {
-        element.style.display = 'none';
-        element.style.position = '';
+    try {
+      if (window.html2pdf) {
+        await window.html2pdf().set(opt).from(element).save();
         showToast('PDF-отчет успешно скачан! 📥');
-      }).catch((err) => {
-        console.error('PDF export error:', err);
-        element.style.display = 'none';
-        element.style.position = '';
+      } else {
         window.print();
-      });
-    } else {
+      }
+    } catch (err) {
+      console.error('PDF export error:', err);
+      showToast('Ошибка экспорта PDF. Открываем печать...');
+      window.print();
+    } finally {
+      element.classList.add('pdf-hidden');
       element.style.display = 'none';
       element.style.position = '';
-      window.print();
+      window.scrollTo(0, prevScrollY);
     }
   }
 
