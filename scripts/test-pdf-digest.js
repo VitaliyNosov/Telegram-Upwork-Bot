@@ -87,17 +87,9 @@ async function run() {
   }
 
   if (sent) {
-    console.log("🎉 Обложка отчета успешно доставлена в Telegram!");
+    console.log("🎉 Отчет успешно доставлен в Telegram!");
   } else {
-    console.error("❌ Не удалось доставить обложку отчета в Telegram.");
-  }
-
-  console.log("Отправка самого PDF-документа напрямую в чат...");
-  const docSent = await sendTelegramDocument(config, buffer, filename, `📄 Полный отчёт: ${filename}`);
-  if (docSent) {
-    console.log("🎉 PDF-документ успешно доставлен в Telegram!");
-  } else {
-    console.error("❌ Не удалось доставить PDF-документ в Telegram.");
+    console.error("❌ Не удалось доставить отчет в Telegram.");
   }
 }
 

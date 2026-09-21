@@ -2041,16 +2041,8 @@
     const activeJobs = state.jobs && state.jobs.length > 0
       ? state.jobs.filter((j) => !state.deletedIds.has(j.id))
       : (FALLBACK_SEED_JOBS || []);
-
-    const matchedByDate = activeJobs.filter((j) => {
-      const pubDate = j.publishedDateTime ? j.publishedDateTime.slice(0, 10) : "";
-      const addDate = j.addedAt ? j.addedAt.slice(0, 10) : "";
-      return pubDate === dateStr || addDate === dateStr;
-    });
-
-    let displayJobs = matchedByDate.length > 0 ? matchedByDate : activeJobs;
-    displayJobs.sort((a, b) => (b.score || 0) - (a.score || 0));
-    const jobsToInclude = displayJobs;
+    // Include all active jobs (not limited to 10)
+    const jobsToInclude = activeJobs.length > 0 ? activeJobs : (FALLBACK_SEED_JOBS || []);
 
     const totalScanned = state.dailyStats?.totalScanned || Math.max(jobsToInclude.length * 6, 28);
     const matched = state.dailyStats?.matchedFilters || jobsToInclude.length;
@@ -2061,13 +2053,11 @@
     const pdfMatched = document.getElementById('pdf-matched');
     const pdfProposals = document.getElementById('pdf-proposals');
     const pdfScore = document.getElementById('pdf-score');
-    const pdfJobsTitle = document.getElementById('pdf-jobs-title');
 
     if (pdfScanned) pdfScanned.textContent = totalScanned;
     if (pdfMatched) pdfMatched.textContent = matched;
     if (pdfProposals) pdfProposals.textContent = proposalsCount;
     if (pdfScore) pdfScore.textContent = topScore > 0 ? topScore : 'N/A';
-    if (pdfJobsTitle) pdfJobsTitle.textContent = `ALL MATCHED JOBS FOR THE DAY (${jobsToInclude.length}):`;
 
     const pdfKeywords = document.getElementById('pdf-keywords');
     if (pdfKeywords) {
@@ -2124,7 +2114,7 @@
       filename: `Upwork_Daily_Report_${dateStr}.pdf`,
       image: { type: 'jpeg', quality: 0.98 },
       enableLinks: true,
-      html2canvas: { scale: 2, useCORS: true, logging: false },
+      html2canvas: { scale: 2, useCORS: true, logging: false, scrollY: 0, scrollX: 0 },
       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
     };
 
