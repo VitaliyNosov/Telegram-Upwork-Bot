@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 19,
-  "matchedFilters": 6,
+  "totalScanned": 20,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022101842742771745049",
       "addedAt": "2026-09-21T01:17:12.846Z"
+    },
+    {
+      "title": "WordPress / Elementor Performance Expert Needed – Fix PageSpeed & Core Web Vitals",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022101846381750122851",
+      "addedAt": "2026-09-21T01:33:10.995Z"
     },
     {
       "title": "Website Developement LA",
