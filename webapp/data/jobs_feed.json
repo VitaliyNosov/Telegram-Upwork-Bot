@@ -1,5 +1,33 @@
 [
   {
+    "id": "2101875675693309315",
+    "ciphertext": "~022101875675693309315",
+    "title": "WordPress Website Migration – 8 Pages / ~400MB Site",
+    "description": "# WordPress Website Migration – 8 Pages / ~400MB Site\n\nWe are looking for an experienced **WordPress migration specialist** to migrate an existing WordPress website to a new hosting environment.\n\n### Website\n\n* WordPress website\n* Approximately **8 pages**\n* Approximately **400MB total site size**\n* Elementor-based website\n* Existing website must remain fully functional after migration\n\n### Scope of Work\n\nThe successful freelancer will be responsible for:\n\n* Complete WordPress migration from the existing hosting environment to the new host\n* Migrate all WordPress files, themes, plugins and media\n* Migrate the complete database\n* Preserve all existing pages, URLs, images and content\n* Configure the new hosting environment\n* Update DNS when required\n* Ensure SSL/HTTPS is correctly configured\n* Check WordPress, Elementor and all plugins after migration\n* Resolve any migration-related errors\n* Verify forms, menus, buttons, images and other functionality\n* Check for broken links or missing assets\n* Ensure there are no PHP/database compatibility issues\n* Confirm the site loads correctly on desktop and mobile\n* Provide a clean handover once the migration is complete\n\n### Important\n\nThis is **a migration project, not a website redesign**.\n\nDo not change the design, content, Elementor layouts or functionality unless required to resolve a migration issue.\n\nWe want someone who understands how to migrate WordPress properly rather than simply installing a migration plugin and hoping it works.\n\n### Requirements\n\nYou should have proven experience with:\n\n* WordPress migrations\n* Elementor\n* Database migrations\n* DNS and SSL\n* cPanel / hosting environments\n* Troubleshooting WordPress after migration\n* PHP/MySQL compatibility\n* Handling sites with existing plugins and custom configurations\n\n### Before Starting\n\nThe successful freelancer will be provided with access/details for the existing and new hosting environments.\n\nPlease **do not make changes to the live website without approval**.\n\n### Deliverables\n\nThe migration is considered complete when:\n\n1. The full website has been successfully migrated.\n2. All 8 pages work correctly.\n3. Images/media and other assets are intact.\n4. Elementor pages display correctly.\n5. Forms and interactive functionality work.\n6. HTTPS/SSL works correctly.\n7. DNS is correctly configured.\n8. No significant WordPress/PHP/database errors remain.\n9. The new site has been tested on desktop and mobile.\n10. The old site remains untouched until the migration has been verified.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 80,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can handle your 8-page, 400MB Elementor migration smoothly and ensure a seamless transition to your new host without touching the live site until everything is fully verified. \n\nAs a WordPress developer with extensive experience in site migrations, database transfers, and troubleshooting Elementor-based builds, I know how to do this properly rather than relying solely on automated plugins that often break serialization, URLs, or styling. My migration process covers full file and database transfer, DNS and SSL configuration, PHP compatibility checks, and rigorous testing of all forms, menus, and media across devices. \n\nYou can check out some of the live WordPress sites I've built and maintained, such as https://www.thelifeyoucansave.org/. \n\nAre you ready to share the hosting details so we can get started?",
+    "publishedDateTime": "2026-09-21T03:27:51+0000",
+    "addedAt": "2026-09-21T03:29:14.386Z",
+    "url": "https://www.upwork.com/jobs/~022101875675693309315",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101875675693309315/apply/"
+  },
+  {
     "id": "2101846381750122851",
     "ciphertext": "~022101846381750122851",
     "title": "WordPress / Elementor Performance Expert Needed – Fix PageSpeed & Core Web Vitals",

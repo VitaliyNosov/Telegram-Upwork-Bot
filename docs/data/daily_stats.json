@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 23,
-  "matchedFilters": 7,
+  "totalScanned": 24,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022101846381750122851",
       "addedAt": "2026-09-21T01:33:10.995Z"
+    },
+    {
+      "title": "WordPress Website Migration – 8 Pages / ~400MB Site",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022101875675693309315",
+      "addedAt": "2026-09-21T03:29:13.218Z"
     },
     {
       "title": "Website Developement LA",
