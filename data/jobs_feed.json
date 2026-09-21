@@ -1,5 +1,36 @@
 [
   {
+    "id": "2101907008826105219",
+    "ciphertext": "~022101907008826105219",
+    "title": "WordPress Build — Portable Custom Kadence Child Theme + ACF Pro",
+    "description": "I run a small network of local lead-generation websites for a group of skilled trades in Canada. It is a WordPress multisite: one subsite per community, each with a home page and six service pages.\n\nThe good news for you: the design is completely finished. You get pixel-complete HTML/CSS mockups (desktop and mobile) and a written spec, so there is no guessing and no design-by-committee. I need a developer to build it cleanly, once, so new communities can be added without touching layout again.\n\nWHAT YOU WOULD BUILD\n- A clean WordPress multisite (subdirectories) on Cloudways with a hand-coded Kadence child theme, built from my mockups.\n- Two templates: a Community Home page and a Category page (one on/off switch changes its hero and form).\n- Shared parts built once: header with mobile menu, footer, FAQ block, a lazy-loaded map band, and a sticky call bar on phones.\n- ACF Pro fields registered in code: one settings screen per subsite where all of a community's content is entered, plus one network-wide settings screen.\n- Seven simple forms posting to GoHighLevel by webhook/API, with file upload.\n- A master subsite that gets cloned with NS Cloner.\n- One articles subsite where you import and reskin an Elementor kit I supply.\n- Launch: clean install on staging, about 27 pages of content moved by hand, a 301 redirect map I supply, basic SEO and security setup.\n\nWHAT MATTERS MOST TO ME\nA non-technical person should be able to set up a new community from the settings screen alone, without opening the page editor, and a layout change should be made once and show up on every subsite. That is how I will check the work at the end.\n\nA GOOD FIT IF YOU\n- Build custom WordPress themes in PHP/HTML/CSS (Kadence experience is a plus).\n- Know ACF Pro well and have worked on a multisite.\n- Prefer clear specs and ask questions before building.\n(This is a coding job rather than a page-builder job, apart from the one Elementor subsite.)\n\nHOW WE WOULD WORK\n- A short paid trial first (8 to 10 hours, fixed fee): build the header and one strip from the mockup, reading from an ACF settings screen, on a two-subsite staging multisite.\n- Then fixed price by milestone. Milestone 1 is everything above with one region live.\n- Mockups and site details are shared with shortlisted candidates.\n- More builds on the same stack are available to the right person.\n\nTO APPLY\nPlease start your proposal with the word CEDAR, tell me about one multisite or ACF project you built (a link helps), and give me your fee for the paid trial. That is all I need. Thank you for reading.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.69,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 83,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "html",
+      "api-integration",
+      "elementor"
+    ],
+    "score": 94,
+    "coverLetter": "CEDAR! Hi, my fee for the 8-10 hour paid trial is [Insert Amount], and I am ready to dive right in. \n\nYour requirement for a clean, code-driven architecture where non-technical users manage content entirely through ACF Pro settings—without touching page builders—is exactly how I love building WordPress sites. I specialize in custom theme development, PHP, ACF Pro, and multisite setups, ensuring that global layout updates cascade effortlessly across all subsites while maintaining blazing-fast performance on Cloudways. For instance, I built scalable, content-driven structures like those on https://waapple.org and have deep experience implementing programmatic ACF fields and webhook integrations (such as GoHighLevel). \n\nI am comfortable working from pixel-complete HTML/CSS mockups and clear specs, and I'm happy to start with the trial milestone to prove the architecture. \n\nWould you like to share the first spec so we can kick off the trial?",
+    "publishedDateTime": "2026-09-21T09:17:41+0000",
+    "addedAt": "2026-09-21T09:19:10.593Z",
+    "url": "https://www.upwork.com/jobs/~022101907008826105219",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101907008826105219/apply/"
+  },
+  {
     "id": "2101961362437777082",
     "ciphertext": "~022101961362437777082",
     "title": "WordPress back-end developer — MemberPress paywall, SiteGround cache, structured data",
