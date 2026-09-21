@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 69,
-  "matchedFilters": 22,
+  "totalScanned": 70,
+  "matchedFilters": 23,
   "byKeyword": {
-    "wordpress developer": 22
+    "wordpress developer": 23
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022101770898072288118",
       "addedAt": "2026-09-20T23:33:10.181Z"
+    },
+    {
+      "title": "WordPress Website Update Needed",
+      "budget": "$15-$30/hr",
+      "score": 3098,
+      "url": "https://www.upwork.com/jobs/~022102051815500679316",
+      "addedAt": "2026-09-21T15:13:19.406Z"
     },
     {
       "title": "WordPress & Squarespace Web Designer/Developer — 4 Existing-Site Updates (approx. 3 months, remote)",
@@ -69,13 +76,6 @@
       "score": 2600,
       "url": "https://www.upwork.com/jobs/~022101973095227841923",
       "addedAt": "2026-09-21T09:55:13.903Z"
-    },
-    {
-      "title": "Integration Developer – WooCommerce + Telehealth Platform + Customer.io Event Pipeline (HIPAA)",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022101933900794373818",
-      "addedAt": "2026-09-21T10:21:40.406Z"
     }
   ]
 }

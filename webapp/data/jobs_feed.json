@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102051815500679316",
+    "ciphertext": "~022102051815500679316",
+    "title": "WordPress Website Update Needed",
+    "description": "I need a developer to update my existing website, Learningcroissant.com. The work includes improving the site structure, updating content, and making the site more user-friendly. I’m looking for someone who can assess the current setup, identify areas for improvement, and implement changes that enhance the overall experience. Please share examples of similar projects and your approach to website updates.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 3098,
+    "coverLetter": "Hi! \n\nImproving structural flow and user experience for an existing site like Learningcroissant.com requires a strategic balance of clean code and thoughtful design. I regularly help clients audit their current WordPress setups, streamline navigation, and implement content updates that elevate usability and engagement without breaking underlying functionality. \n\nMy approach starts with a quick diagnostic of your current site architecture to identify friction points. From there, I restructure layouts, clean up the user journey, and implement the necessary content updates using clean PHP, Gutenberg, or your preferred page builder. You can see an example of my work restructuring and optimizing established WordPress sites at https://www.thelifeyoucansave.org/.\n\nWhen are you looking to kick this off, and do you have specific user journey pain points in mind already? \n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-09-21T15:11:22+0000",
+    "addedAt": "2026-09-21T15:13:27.290Z",
+    "url": "https://www.upwork.com/jobs/~022102051815500679316",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102051815500679316/apply/"
+  },
+  {
     "id": "2102050062075261650",
     "ciphertext": "~022102050062075261650",
     "title": "WordPress Developer with AI SEO",
