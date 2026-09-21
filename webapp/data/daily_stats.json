@@ -1,82 +1,8 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 101,
-  "matchedFilters": 28,
-  "byKeyword": {
-    "wordpress developer": 27,
-    "woocommerce": 1
-  },
-  "topJobs": [
-    {
-      "title": "Senior Integration Engineer – WooCommerce + Telehealth Platform + Customer.io Event Pipeline (HIPAA)",
-      "budget": "$5-$100/hr",
-      "score": 10150,
-      "url": "https://www.upwork.com/jobs/~022101905221130589150",
-      "addedAt": "2026-09-21T08:27:14.385Z"
-    },
-    {
-      "title": "Restore WordPress Site from Archive.com",
-      "budget": "$20-$40/hr",
-      "score": 4097,
-      "url": "https://www.upwork.com/jobs/~022102048729303131075",
-      "addedAt": "2026-09-21T15:02:02.917Z"
-    },
-    {
-      "title": "WordPress Developer to fix a handful of bugs and add new content pages to  (Wannycleandaho.com)",
-      "budget": "$20-$40/hr",
-      "score": 4050,
-      "url": "https://www.upwork.com/jobs/~022101807335576583030",
-      "addedAt": "2026-09-20T22:57:12.229Z"
-    },
-    {
-      "title": "Divi website redesign",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022101770898072288118",
-      "addedAt": "2026-09-20T23:33:10.181Z"
-    },
-    {
-      "title": "Pixly.ai Homepage Update: Design & Wordpress",
-      "budget": "$15-$30/hr",
-      "score": 3099,
-      "url": "https://www.upwork.com/jobs/~022102076917662803501",
-      "addedAt": "2026-09-21T16:49:16.334Z"
-    },
-    {
-      "title": "WordPress Website Update Needed",
-      "budget": "$15-$30/hr",
-      "score": 3098,
-      "url": "https://www.upwork.com/jobs/~022102051815500679316",
-      "addedAt": "2026-09-21T15:13:19.406Z"
-    },
-    {
-      "title": "WordPress & Squarespace Web Designer/Developer — 4 Existing-Site Updates (approx. 3 months, remote)",
-      "budget": "$15-$30/hr",
-      "score": 3094,
-      "url": "https://www.upwork.com/jobs/~022101934398061934947",
-      "addedAt": "2026-09-21T07:21:37.224Z"
-    },
-    {
-      "title": "WordPress Website Update for Personal Training",
-      "budget": "$15-$30/hr",
-      "score": 3000,
-      "url": "https://www.upwork.com/jobs/~022101910137898524035",
-      "addedAt": "2026-09-21T08:45:12.286Z"
-    },
-    {
-      "title": "WooCommerce Furniture Store Setup Expert Needed",
-      "budget": "$20-$27/hr",
-      "score": 2850,
-      "url": "https://www.upwork.com/jobs/~022102020425669761181",
-      "addedAt": "2026-09-21T13:05:21.148Z"
-    },
-    {
-      "title": "E-Commerce Consultant & Developer – Build Large-Catalog Water Fountain Store",
-      "budget": "$12-$27/hr",
-      "score": 2850,
-      "url": "https://www.upwork.com/jobs/~022102123237643663067",
-      "addedAt": "2026-09-21T19:53:23.864Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
