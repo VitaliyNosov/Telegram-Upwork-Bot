@@ -1,5 +1,38 @@
 [
   {
+    "id": "2102089950038068357",
+    "ciphertext": "~022102089950038068357",
+    "title": "Convert HTML website design to Elementor",
+    "description": "We are looking for an experienced WordPress developer to convert an existing HTML/CSS website design into a fully functional, highly optimized, and lightweight Elementor website.\n\nOur main priority is performance, clean code, and SEO readiness. We want a site that feels as fast as a static HTML page while retaining the ease of editing through Elementor. \n\nThe template can be viewed here:\nhttps://eluna-agency.com/iso/index.html\n\n---\n\n### **Scope & Page Templates Required:**\n\nYou will **only need to create the unique page templates** (dynamic listing templates, single post layouts, and static page templates)—you do **not** need to create individual pages for duplicate content structures. But all templates for things such as blog articles should be there for easy re-use. 100% mobile friendly website.\n\nThe **12 unique page templates** to build are:\n\n1. **Home** (*Homepage*)\n2. **Alle diensten** (*Services overview / archive*)\n3. **Certificeringstrajecten** (*Certification pathways / detail layout*)\n4. **Alle thema's** (*Themes / categories overview*)\n5. **Informatiebeveiliging en ISO 27001** (*Single topic / service detail page*)\n6. **Klantcases** (*Case studies / portfolio archive & detail*)\n7. **Over ons** (*About us page*)\n8. **Kennisbank** (*Knowledge base / blog archive*)\n9. **FAQ** (*Frequently asked questions layout*)\n10. **ISO-Scan** (*Interactive or form landing page*)\n11. **Vacatures** (*Careers / job listings overview & single job post*)\n12. **Contact** (*Contact page with optimized form layout*)\n\n---\n\n### **Key Responsibilities:**\n\n* **Pixel-Perfect Conversion:** Accurately replicate the provided HTML/CSS design into Elementor using WordPress best practices.\n* **Lightweight Build:** Build using a minimalist starter theme (e.g., Hello Elementor) and minimize unnecessary plugins, scripts, or bloat.\n* **Speed & Performance Optimization:** Ensure top-tier Core Web Vitals scores (90+ on Google PageSpeed Insights for both Desktop and Mobile).\n* **SEO & Technical Foundations:**\n* Implement clean, semantic HTML5 structure ($H1$, $H2$, $H3$ hierarchy).\n* Integrate Schema.org structured data (JSON-LD) for enhanced search visibility.\n* Optimize images (WebP format, lazy loading, responsive scaling).\n\n\n* **Responsive Design:** Ensure flawless functionality and appearance across all screen sizes (mobile, tablet, desktop).\n* **Dynamic & Reusable Layouts:** Set up custom post types, fields (ACF) if necessary, or global Elementor templates so repetitive pages (e.g., individual blog posts, job listings, services) can be generated dynamically.\n\n---\n\n### **Requirements & Qualifications:**\n\n* Experience converting HTML/CSS/JS templates into or a lot of experience with Elementor.\n* Deep understanding of WordPress performance optimization (DOM depth reduction, asset minification, critical CSS).\n* Experience with Schema markup and technical SEO best practices.\n* Portfolio of previous WordPress/Elementor projects with high PageSpeed scores.\n\n---\n\n### **How to Apply:**\n\nPlease submit your proposal with:\n\n1. **Portfolio Links:** 2-3 examples of Elementor sites you built with a focus on speed and clean design.\n2. **Your Approach:** A brief note on your preferred stack/starter theme and how you keep Elementor builds lightweight.\n\nPlease send me your offer and let me know if you have any questions.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 22,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "web-design",
+      "css",
+      "elementor",
+      "html5",
+      "css3",
+      "website"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! \n\nI can convert your HTML template into a lightning-fast, pixel-perfect Elementor build while keeping the performance matching a static page. \n\nTo keep Elementor lightweight and score 90+ on Core Web Vitals, my stack relies on the Hello Elementor theme combined with native widgets, minimal plugin bloat, DOM depth reduction, and WebP image optimization. I will also structure the 12 required templates using dynamic layouts and ACF where needed so your team can easily manage services, case studies, and blog posts. \n\nYou can review my work on high-performing WordPress builds here: https://www.seeintl.org/\n\nWhen would you like to get started on this?",
+    "publishedDateTime": "2026-09-21T17:39:11+0000",
+    "addedAt": "2026-09-21T17:41:32.310Z",
+    "url": "https://www.upwork.com/jobs/~022102089950038068357",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102089950038068357/apply/"
+  },
+  {
     "id": "2102083941641500379",
     "ciphertext": "~022102083941641500379",
     "title": "Expert Website Developer Needed for Exciting Ongoing Project",
