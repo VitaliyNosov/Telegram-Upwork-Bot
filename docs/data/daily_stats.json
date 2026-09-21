@@ -1,12 +1,19 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 6,
-  "matchedFilters": 1,
+  "totalScanned": 7,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Copy WordPress Site to Google Sites",
+      "budget": "Fixed-price",
+      "score": 92,
+      "url": "https://www.upwork.com/jobs/~022102158123424812165",
+      "addedAt": "2026-09-21T22:11:16.996Z"
+    },
     {
       "title": "WordPress Web Developer Needed for Exciting Dynamic Ongoing Project",
       "budget": "Fixed-price",

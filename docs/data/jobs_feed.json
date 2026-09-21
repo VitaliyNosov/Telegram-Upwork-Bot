@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102158123424812165",
+    "ciphertext": "~022102158123424812165",
+    "title": "Copy WordPress Site to Google Sites",
+    "description": "I need a freelancer to copy my existing WordPress website, batterylite.com, into Google Sites. The work includes transferring the site structure, pages, and overall design into Google Sites while preserving the look and feel as closely as possible. Please share relevant examples of similar website migration or redesign work, along with your approach to handling layout, content, and navigation in Google Sites.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.6,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 36,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "seo",
+      "google-webmaster-central",
+      "google-adsense"
+    ],
+    "score": 92,
+    "coverLetter": "Hi! \n\nMigrating a WordPress site like batterylite.com to Google Sites requires a careful approach to manually adapt the structure, pages, and layout, given the platform's distinct design limitations compared to WordPress. \n\nWhile my core expertise is in WordPress development, custom themes, and complex site migrations (such as rebuilding and transferring sites like https://waapple.org/), I am well-versed in mapping out content architecture, navigation trees, and design layouts for alternative platforms to ensure your brand's look and feel translate as closely as possible. \n\nTo tackle this, my approach would be to first map out the core navigation and page hierarchy of batterylite.com, set up the Google Sites structure, and carefully rebuild the content block-by-block using Google Sites' native layout components to match your current aesthetic.\n\nAre you looking to migrate all historical blog posts and pages, or just a streamlined set of core pages for this transition? Let's discuss how we can make this move smoothly.",
+    "publishedDateTime": "2026-09-21T22:10:12+0000",
+    "addedAt": "2026-09-21T22:11:18.820Z",
+    "url": "https://www.upwork.com/jobs/~022102158123424812165",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102158123424812165/apply/"
+  },
+  {
     "id": "2102108909087504091",
     "ciphertext": "~022102108909087504091",
     "title": "WordPress Web Developer Needed for Exciting Dynamic Ongoing Project",
