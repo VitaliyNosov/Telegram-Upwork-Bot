@@ -2113,22 +2113,22 @@
         const descSnippet = (job.description || '').replace(/\s+/g, ' ').trim().slice(0, 220);
 
         return `
-        <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #ffffff; page-break-inside: avoid; break-inside: avoid; margin-bottom: 8px;">
-          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
-            <div style="font-weight: 700; font-size: 13px; color: #001e00; line-height: 1.35; max-width: 82%;">
+        <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 10px 14px; background: #ffffff; page-break-inside: avoid; break-inside: avoid; margin-bottom: 6px; box-sizing: border-box; width: 100%;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 5px; width: 100%; box-sizing: border-box;">
+            <div style="font-weight: 700; font-size: 13px; color: #001e00; line-height: 1.35; flex: 1; min-width: 0; padding-right: 12px; box-sizing: border-box;">
               ${idx + 1}. ${escapeHtml(job.title || 'Untitled Job')}
             </div>
-            <span style="background: #e4f7e2; color: #14a800; font-weight: 700; font-size: 11px; padding: 2px 8px; border-radius: 9999px; white-space: nowrap; margin-left: 8px;">
+            <span style="background: #e4f7e2; color: #14a800; font-weight: 700; font-size: 11px; padding: 2px 10px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0;">
               Score: ${job.score || 'N/A'}
             </span>
           </div>
-          <div style="font-size: 11px; color: #5e6d55; margin-bottom: 6px;">
+          <div style="font-size: 11px; color: #5e6d55; margin-bottom: 5px;">
             <strong>Budget:</strong> ${escapeHtml(budgetDisplay)} • <strong>Client:</strong> ${escapeHtml(clientCountry)} (★ ${escapeHtml(clientFeedback)})
           </div>
-          <div style="font-size: 11px; color: #333333; line-height: 1.45; margin-bottom: 6px;">
+          <div style="font-size: 11px; color: #333333; line-height: 1.45; margin-bottom: 5px;">
             ${escapeHtml(descSnippet)}${descSnippet.length >= 220 ? '...' : ''}
           </div>
-          <div style="font-size: 11px; margin-top: 4px;">
+          <div style="font-size: 11px; margin-top: 2px;">
             <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700; display: inline-block;">
               View Job on Upwork ➔
             </a>
@@ -2149,16 +2149,19 @@
     element.classList.remove('pdf-hidden');
     element.style.display = 'block';
     element.style.position = 'relative';
-    element.style.width = '760px';
+    element.style.width = '750px';
+    element.style.minWidth = '750px';
+    element.style.maxWidth = '750px';
     element.style.margin = '0 auto';
     element.style.background = '#ffffff';
     element.style.opacity = '1';
+    element.style.boxSizing = 'border-box';
 
     // Даем браузеру время для полного расчета геометрии и отрисовки шрифтов
     await new Promise((resolve) => setTimeout(resolve, 200));
 
     const opt = {
-      margin: [8, 8, 8, 8],
+      margin: [10, 10, 10, 10],
       filename: pdfFilename,
       image: { type: 'jpeg', quality: 0.98 },
       enableLinks: true,
@@ -2168,9 +2171,10 @@
         allowTaint: true,
         logging: false,
         letterRendering: true,
+        width: 750,
+        windowWidth: 750,
         scrollY: 0,
-        scrollX: 0,
-        windowWidth: 800
+        scrollX: 0
       },
       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
     };

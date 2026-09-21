@@ -1625,8 +1625,9 @@ body.theme-dark .period-btn.active {
 
 #pdf-report-container {
   display: block;
-  width: 760px;
-  max-width: 100%;
+  width: 750px !important;
+  min-width: 750px !important;
+  max-width: 750px !important;
   margin: 0 auto;
   background: #ffffff;
   color: #001e00;
