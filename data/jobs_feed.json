@@ -1,5 +1,39 @@
 [
   {
+    "id": "2101842742771745049",
+    "ciphertext": "~022101842742771745049",
+    "title": "WordPress Website Development",
+    "description": "We are seeking an experienced WordPress and WooCommerce developer to help expand, and optimize, www.d12store.com, our commercial contract furniture e-commerce platform. Beyond routine maintenance and performance optimization, the primary focus of this project is uploading and configuring new commercial furniture inventory, refining product categories, and ensuring a seamless user experience for our clients.\n\nKey Responsibilities & Scope of Work\nProduct Catalog Expansion: Upload, format, and configure new commercial furniture pieces and product variations (collaborating with manufacturers like Kimball International, HON, AIS, SitOnIt, KI, Patterson Pope, MooreCo, and Ecologic Furniture).\n\nAttribute & Category Management: Ensure all furniture listings include accurate descriptions, high-resolution imagery, proper categorization, tags, and downloadable assets (spec sheets/catalogs if applicable).\n\nWooCommerce & WordPress Maintenance: Troubleshoot checkout flows, update plugins/themes safely, optimize page load speeds, and fix any layout or mobile responsiveness issues.\n\nPerformance & SEO Optimization: Improve site performance, ensure clean URL structures, and implement best practices for on-page SEO.\n\nOngoing Support: Act as our go-to developer for troubleshooting issues, minor design tweaks, and routine site updates as they arise.\n\nRequired Skills & Experience\nProven experience managing and developing WordPress and WooCommerce websites.\n\nStrong background in managing large e-commerce product catalogs with extensive variable products and attributes.\n\nFamiliarity with commercial furniture, interior planning, or B2B e-commerce structures is a strong plus.\n\nAbility to work independently, communicate clearly, and meet deadlines.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "php",
+      "web-programming",
+      "woocommerce",
+      "website",
+      "components-design",
+      "ui-design",
+      "bot-development"
+    ],
+    "score": 149,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-21T01:16:17+0000",
+    "addedAt": "2026-09-21T01:17:58.118Z",
+    "url": "https://www.upwork.com/jobs/~022101842742771745049",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101842742771745049/apply/"
+  },
+  {
     "id": "2101773541342385118",
     "ciphertext": "~022101773541342385118",
     "title": "AI Website Builder Needed – Two Simple Professional Websites",
