@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 32,
-  "matchedFilters": 10,
+  "totalScanned": 34,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022101770898072288118",
       "addedAt": "2026-09-20T23:33:10.181Z"
+    },
+    {
+      "title": "WordPress & Squarespace Web Designer/Developer — 4 Existing-Site Updates (approx. 3 months, remote)",
+      "budget": "$15-$30/hr",
+      "score": 3094,
+      "url": "https://www.upwork.com/jobs/~022101934398061934947",
+      "addedAt": "2026-09-21T07:21:37.224Z"
     },
     {
       "title": "WooCommerce Developer Needed for Cosmetics Website",
@@ -69,13 +76,6 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022101715245859593603",
       "addedAt": "2026-09-20T21:15:12.257Z"
-    },
-    {
-      "title": "AI Website Builder Needed – Two Simple Professional Websites",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022101773541342385118",
-      "addedAt": "2026-09-20T23:43:09.619Z"
     }
   ]
 }

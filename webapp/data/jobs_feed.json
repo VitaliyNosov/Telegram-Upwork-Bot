@@ -1,5 +1,36 @@
 [
   {
+    "id": "2101934398061934947",
+    "ciphertext": "~022101934398061934947",
+    "title": "WordPress & Squarespace Web Designer/Developer — 4 Existing-Site Updates (approx. 3 months, remote)",
+    "description": "We're a Melbourne-based marketing and communications agency looking for a skilled, reliable web designer/developer to work with us on a remote, project-by-project basis over the next two to three months.\n\nWe have four website projects lined up. Each one is an existing, live website that we're updating and improving, not a build from scratch, and not a migration to a new platform. We're staying on each site's current platform and working within its existing setup. Because these sites are already live with established content and search rankings, protecting the existing SEO through the changes is essential (more on that below).\n\nThe four sites span three setups:\n- One WordPress site built on the Avada theme\n- Two other WordPress sites\n- One Squarespace site (the largest of the four)\n\nIf the work goes well, there's strong potential for ongoing projects beyond these four.\n\nTHE FOUR PROJECTS AT A GLANCE\n- Site 1 — WordPress: small, ~10-page site. \n- Site 2 — WordPress: ~25 core pages plus a ~48-item product catalogue built on one repeating template.\n- Site 3 — Squarespace: our largest site — a full main site plus ~50 project case studies on a repeating layout. \n- Site 4 — WordPress: small site, roughly 6–8 pages (currently offline; scope to be confirmed).\n\nExact scope will be confirmed per project.\n\nABOUT THE ROLE\nThis is a design + build role. We'll give you the brand direction, brief and content, and we're looking for someone who can take each change from concept through to a polished, launched update. \nThese are established sites we're maintaining, not template jobs, you'll be working inside each site's existing setup, so you need to be comfortable customising properly (including hand-written HTML/CSS where the design calls for it), not just dropping in prebuilt blocks.\n\nSKILLS AND EXPERIENCE WE'RE LOOKING FOR\n- Strong hands-on WordPress experience\n- Confident working within Squarespace\n- Responsive desktop, tablet and mobile builds\n- HTML/CSS for minor customisations where required\n- For our Avada site specifically (Site 1): experience with WordPress, Avada / Avada Builder and Avada child themes\n- A proven, careful approach to SEO-safe updates on live sites — maintaining URL structure, setting up 301 redirects where URLs must change, keeping metadata and page structure intact, and making sure we don't lose the rankings and legacy SEO work already in place\n- Reliable content population using the copy, images and media we provide\n- Comfort handling hosting, domain and staging tasks needed to update a live site safely\n- A portfolio of WordPress and Squarespace sites you've built (live links, please)\n- Genuine design sensibility — work that looks considered and professional\n- Clear, responsive communication and dependable turnaround (we work directly with senior client stakeholders, so reliability matters)\n- Comfort working to an agency's standards; some work may be white-label\n\nENGAGEMENT DETAILS\n- Remote, hourly, project-by-project across the next ~3 months\n- Rate: Please advise.\n- Start: ASAP / within 2 weeks\n- A comfortable overlap with Melbourne (AEST) business hours is a plus, but not essential for the right person\n\nTO APPLY, PLEASE INCLUDE\n1. Links to 2–3 relevant sites you've built (ideally at least one WordPress and one Squarespace site)\n2. A brief note on how you approach an SEO-safe update to a live site (redirects, URL mapping, preserving rankings)\n3. Your hourly rate and your general availability over the next three months\n\nPlease start your reply with the word \"Live-site\" so we know you've read this through.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.71,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 155,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "avada-theme-customization",
+      "website-redesign",
+      "wordpress",
+      "squarespace",
+      "css",
+      "web-design"
+    ],
+    "score": 3094,
+    "coverLetter": "Live-site updates require a meticulous touch, and I’d love to help your Melbourne agency polish these four existing web properties without disrupting their hard-earned traffic. \n\nI’m a senior WordPress developer with deep hands-on experience working inside established builds—including Avada themes, child themes, and custom HTML/CSS styling—as well as managing Squarespace sites. When updating live pages, I strictly safeguard SEO by preserving exact URL structures, handling metadata and structural hierarchies carefully, and mapping out 301 redirects whenever a URL must change. You can see examples of my live WordPress work here: https://www.thelifeyoucansave.org/ and https://www.cchpca.org/ (I can also share Squarespace examples in chat).\n\nMy hourly rate is $45/hr, and I have solid availability to take on these projects over the next three months. \n\nCould we jump on a quick call or chat to review the scope for Site 1?",
+    "publishedDateTime": "2026-09-21T07:20:22+0000",
+    "addedAt": "2026-09-21T07:21:38.601Z",
+    "url": "https://www.upwork.com/jobs/~022101934398061934947",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101934398061934947/apply/"
+  },
+  {
     "id": "2101925331880673561",
     "ciphertext": "~022101925331880673561",
     "title": "Long-Term Senior WordPress Developer – Europe Only | WooCommerce, WPML, Brevo & SEO",
