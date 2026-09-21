@@ -2028,26 +2028,50 @@
   // ==========================================
   // PDF Export
   // ==========================================
-  function downloadReportPDF() {
+  async function downloadReportPDF() {
     triggerHaptic('impact');
-    showToast('Generating PDF report... ⏳');
+    showToast('Загрузка PDF-отчета... ⏳');
 
     const dateStr = state.dailyStats?.date || new Date().toISOString().slice(0, 10);
-    const pdfDate = document.getElementById('pdf-date');
-    if (pdfDate) {
-      pdfDate.textContent = `Date: ${dateStr}`;
+    const pdfFilename = `Upwork_Daily_Report_${dateStr}.pdf`;
+    const pdfUrl = `reports/${pdfFilename}`;
+    const fullUrl = new URL(pdfUrl, window.location.href).href;
+
+    // 1. Сначала пробуем открыть/скачать готовый серверный PDF-отчет
+    try {
+      const resp = await fetch(fullUrl, { method: 'HEAD' });
+      if (resp.ok) {
+        if (window.Telegram?.WebApp?.openLink) {
+          window.Telegram.WebApp.openLink(fullUrl);
+        } else {
+          const a = document.createElement('a');
+          a.href = fullUrl;
+          a.download = pdfFilename;
+          a.target = '_blank';
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        }
+        showToast('PDF-отчет успешно открыт! 📥');
+        return;
+      }
+    } catch (_) {
+      // Резервный переход к html2pdf
     }
 
+    // 2. Резервный локальный рендеринг: берем до 15 лучших вакансий, чтобы холст не переполнялся
     const activeJobs = state.jobs && state.jobs.length > 0
       ? state.jobs.filter((j) => !state.deletedIds.has(j.id))
       : (FALLBACK_SEED_JOBS || []);
-    // Include all active jobs (not limited to 10)
-    const jobsToInclude = activeJobs.length > 0 ? activeJobs : (FALLBACK_SEED_JOBS || []);
+    const jobsToInclude = activeJobs.slice(0, 15);
 
     const totalScanned = state.dailyStats?.totalScanned || Math.max(jobsToInclude.length * 6, 28);
     const matched = state.dailyStats?.matchedFilters || jobsToInclude.length;
     const proposalsCount = jobsToInclude.filter((j) => j.coverLetter).length;
     const topScore = Math.max(0, ...jobsToInclude.map((j) => j.score || 0));
+
+    const pdfDate = document.getElementById('pdf-date');
+    if (pdfDate) pdfDate.textContent = `Date: ${dateStr}`;
 
     const pdfScanned = document.getElementById('pdf-scanned');
     const pdfMatched = document.getElementById('pdf-matched');
@@ -2111,10 +2135,10 @@
 
     const opt = {
       margin: [10, 10, 10, 10],
-      filename: `Upwork_Daily_Report_${dateStr}.pdf`,
+      filename: pdfFilename,
       image: { type: 'jpeg', quality: 0.98 },
       enableLinks: true,
-      html2canvas: { scale: 2, useCORS: true, logging: false, scrollY: 0, scrollX: 0 },
+      html2canvas: { scale: 1.5, useCORS: true, logging: false, scrollY: 0, scrollX: 0 },
       jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
     };
 
@@ -2125,11 +2149,11 @@
       }).catch((err) => {
         console.error('PDF export error:', err);
         element.style.display = 'none';
-        window.print();
+        window.open(fullUrl, '_blank');
       });
     } else {
       element.style.display = 'none';
-      window.print();
+      window.open(fullUrl, '_blank');
     }
   }
 
