@@ -1,5 +1,29 @@
 [
   {
+    "id": "2102048761535018715",
+    "ciphertext": "~022102048761535018715",
+    "title": "WordPress Developer for Training Website",
+    "description": "We are looking for an experienced WordPress developer to build the website for London Calling Academy, a London-based online professional-development academy for international professionals.\n\nWe already have the brand, content structure, programme details, copy direction and a detailed development brief. We need someone who can turn this into a polished, modern, conversion-focused website.\n\nThe website will include:\n\nHomepage\nProgrammes overview\n3 dedicated programme landing pages\nAbout and Faculty pages\nContact page\nApplication/enquiry forms\nStripe payment integration/payment links\nSimple booking flow for 1-to-1 sessions\nMeta Pixel and GA4 setup\nMobile optimisation\nSEO-friendly structure\nPerformance and technical cleanup\n\nThe website should feel closer to executive education / professional coaching / modern consultancy, not a generic language-school template.\n\nStrong experience with WordPress, responsive design, Stripe, forms and conversion tracking is important.\n\nThis is a short-term project with a clear brief and defined deliverables. We are looking for someone who can start quickly and provide a clear delivery timeline.\nBudget: approximately $600 fixed price, open to reasonable proposals depending on experience and delivery time.\n\nScope\n\nMedium project\nLess than 1 month\nIntermediate level\n\nSkills\n\n\nWordPress\nWeb Development\nWeb Design\nPHP\nStripe\nResponsive Web Design\nGoogle Analytics\nMeta Pixel\nSEO",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 150,
+    "coverLetter": "Hi!\n\nLondon Calling Academy needs that polished, executive-level feel rather than a generic template, and I can turn your detailed brief and content structure into a high-converting, modern WordPress site. \n\nI specialize in custom WordPress development, responsive design, and seamless integrations. For this project, I will build out your programme landing pages, 1-to-1 booking flow, Stripe payment integration, and configure your GA4 and Meta Pixel tracking cleanly. You can check out similar clean, professional work I’ve built like https://about.offerup.com or https://www.thelifeyoucansave.org/. \n\nI can start immediately and deliver this efficiently within your timeline. When would you like to jump on a quick chat to review the brief?",
+    "publishedDateTime": "2026-09-21T14:55:00+0000",
+    "addedAt": "2026-09-21T14:57:16.784Z",
+    "url": "https://www.upwork.com/jobs/~022102048761535018715",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102048761535018715/apply/"
+  },
+  {
     "id": "2102034081996057990",
     "ciphertext": "~022102034081996057990",
     "title": "Internal Company Website Build — WordPress + Divi Developer (One-Time Project)",

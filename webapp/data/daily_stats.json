@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 65,
-  "matchedFilters": 19,
+  "totalScanned": 66,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 19
+    "wordpress developer": 20
   },
   "topJobs": [
     {
@@ -71,11 +71,11 @@
       "addedAt": "2026-09-21T10:21:40.406Z"
     },
     {
-      "title": "WordPress Website Development",
+      "title": "WordPress Developer for Training Website",
       "budget": "Fixed-price",
-      "score": 149,
-      "url": "https://www.upwork.com/jobs/~022101842742771745049",
-      "addedAt": "2026-09-21T01:17:12.846Z"
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022102048761535018715",
+      "addedAt": "2026-09-21T14:57:15.273Z"
     }
   ]
 }
