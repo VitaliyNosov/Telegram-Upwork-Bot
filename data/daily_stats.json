@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 37,
-  "matchedFilters": 12,
+  "totalScanned": 38,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3094,
       "url": "https://www.upwork.com/jobs/~022101934398061934947",
       "addedAt": "2026-09-21T07:21:37.224Z"
+    },
+    {
+      "title": "WordPress Website Update for Personal Training",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022101910137898524035",
+      "addedAt": "2026-09-21T08:45:12.286Z"
     },
     {
       "title": "WooCommerce Developer Needed for Cosmetics Website",
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022101911970291941657",
       "addedAt": "2026-09-21T05:53:10.354Z"
-    },
-    {
-      "title": "Long-Term Senior WordPress Developer – Europe Only | WooCommerce, WPML, Brevo & SEO",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022101925331880673561",
-      "addedAt": "2026-09-21T06:47:21.137Z"
     }
   ]
 }
