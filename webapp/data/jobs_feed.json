@@ -1,5 +1,31 @@
 [
   {
+    "id": "2102034081996057990",
+    "ciphertext": "~022102034081996057990",
+    "title": "Internal Company Website Build — WordPress + Divi Developer (One-Time Project)",
+    "description": "We're an educational consulting firm looking for an experienced WordPress Divi developer to build a complete internal website for our team a single, fixed-scope project from setup through launch. This is a private, staff-only site: a central hub where our consultants and staff access resources, documents, and operational tools. We have the content and structure; we need a developer to build it cleanly and hand it off.\n\nScope of Work\nBuild a complete internal site in WordPress + Divi Builder from our provided structure and content\nSet up role-based access so the site is private to staff and contractors, with permissions by user type\nBuild a searchable document/resource library with categories, filters, and controlled download access\nCreate custom sections and templates we can reuse and update ourselves after handoff\nImplement forms and workflows (onboarding, submissions, scheduling/calendar views)\nResponsive, mobile-first design across all pages\nSite performance, security hardening, and cross-browser testing\nDeliver documentation and a short walkthrough (recorded or live) so our team can maintain the site independently\n\nRequirements\nProven WordPress + Divi Builder experience (portfolio required)\nExperience with membership/permission plugins such as MemberPress or equivalent\nStrong responsive/mobile-first design skills\nComfortable building document libraries or gated resource systems\nClear communicator, works independently, hits agreed milestones\nAble to complete the full build within the project timeline this is a one-time engagement, not ongoing retainer work",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 36,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 99,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-21T13:56:52+0000",
+    "addedAt": "2026-09-21T13:59:45.590Z",
+    "url": "https://www.upwork.com/jobs/~022102034081996057990",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102034081996057990/apply/"
+  },
+  {
     "id": "2102020425669761181",
     "ciphertext": "~022102020425669761181",
     "title": "WooCommerce Furniture Store Setup Expert Needed",
