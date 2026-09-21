@@ -2110,25 +2110,30 @@
         const descSnippet = (job.description || '').replace(/\s+/g, ' ').trim().slice(0, 220);
 
         return `
-        <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 10px 14px; background: #ffffff; page-break-inside: avoid; break-inside: avoid; margin-bottom: 6px; box-sizing: border-box; width: 100%;">
-          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 5px; width: 100%; box-sizing: border-box;">
-            <div style="font-weight: 700; font-size: 13px; color: #001e00; line-height: 1.35; flex: 1; min-width: 0; padding-right: 12px; box-sizing: border-box;">
-              ${idx + 1}. ${escapeHtml(job.title || 'Untitled Job')}
+        <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #ffffff; page-break-inside: avoid; break-inside: avoid; margin-bottom: 8px; box-sizing: border-box; width: 100%;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px; width: 100%; box-sizing: border-box;">
+            <div style="flex: 1; min-width: 0; padding-right: 12px; box-sizing: border-box;">
+              <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #001e00; text-decoration: none; font-weight: 700; font-size: 13px; line-height: 1.35; display: inline-block;">
+                ${idx + 1}. ${escapeHtml(job.title || 'Untitled Job')}
+              </a>
             </div>
             <span style="background: #e4f7e2; color: #14a800; font-weight: 700; font-size: 11px; padding: 2px 10px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0;">
               Score: ${job.score || 'N/A'}
             </span>
           </div>
-          <div style="font-size: 11px; color: #5e6d55; margin-bottom: 5px;">
+          <div style="font-size: 11px; color: #5e6d55; margin-bottom: 6px;">
             <strong>Budget:</strong> ${escapeHtml(budgetDisplay)} • <strong>Client:</strong> ${escapeHtml(clientCountry)} (★ ${escapeHtml(clientFeedback)})
           </div>
-          <div style="font-size: 11px; color: #333333; line-height: 1.45; margin-bottom: 5px;">
+          <div style="font-size: 11px; color: #333333; line-height: 1.45; margin-bottom: 6px;">
             ${escapeHtml(descSnippet)}${descSnippet.length >= 220 ? '...' : ''}
           </div>
-          <div style="font-size: 11px; margin-top: 2px;">
-            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700; display: inline-block;">
+          <div style="font-size: 11px; margin-top: 4px; padding-top: 6px; border-top: 1px dashed #e4e4e4; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 4px;">
+            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700; display: inline-block; font-size: 11px;">
               View Job on Upwork ➔
             </a>
+            <span style="font-size: 9.5px; color: #14a800; font-family: monospace; word-break: break-all;">
+              ${escapeHtml(targetUrl)}
+            </span>
           </div>
         </div>
       `;
@@ -2178,7 +2183,45 @@
 
     try {
       if (window.html2pdf) {
-        await window.html2pdf().set(opt).from(element).save();
+        await window.html2pdf()
+          .set(opt)
+          .from(element)
+          .toPdf()
+          .get('pdf')
+          .then((pdf) => {
+            // Внедряем кликабельные PDF-аннотации (doc.link) для всех ссылок на вакансии
+            const elRect = element.getBoundingClientRect();
+            const scale = 190 / 750; // 190mm печатная область / 750px ширина контейнера
+            const marginX = 10;
+            const marginY = 10;
+            const pageHeightMm = 277; // 297mm - 20mm марджины
+
+            const links = element.querySelectorAll('a[href]');
+            links.forEach((a) => {
+              const rect = a.getBoundingClientRect();
+              const relX = rect.left - elRect.left;
+              const relY = rect.top - elRect.top;
+
+              const xMm = marginX + relX * scale;
+              const wMm = Math.max(rect.width * scale, 30);
+              const hMm = Math.max(rect.height * scale, 6);
+
+              const pageNum = Math.floor((relY * scale) / pageHeightMm) + 1;
+              const yPageMm = marginY + ((relY * scale) % pageHeightMm);
+
+              const url = a.getAttribute('href') || a.href;
+              if (url && url.startsWith('http')) {
+                try {
+                  pdf.setPage(pageNum);
+                  pdf.link(xMm - 1, yPageMm - 1, wMm + 2, hMm + 2, { url: url });
+                } catch (linkErr) {
+                  console.warn('PDF link injection warning:', linkErr);
+                }
+              }
+            });
+          })
+          .save();
+
         showToast('PDF-отчет успешно скачан! 📥');
       } else {
         window.print();
