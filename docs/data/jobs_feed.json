@@ -1,5 +1,35 @@
 [
   {
+    "id": "2102020425669761181",
+    "ciphertext": "~022102020425669761181",
+    "title": "WooCommerce Furniture Store Setup Expert Needed",
+    "description": "Looking for an experienced WooCommerce developer to set up a complete online furniture store. The store will sell various furniture products (sofas, beds, chairs, tables, wardrobes, etc.).\nThe project involves creating a professional furniture store where customers can browse products, view detailed product information, add items to cart, and complete purchases smoothly.\nResponsibilities:\n- Set up a WooCommerce furniture store from scratch\n- Configure WooCommerce settings and store functionality\n- Upload and organize furniture products with categories\n- Configure Checkout gateways\n- Design clean product pages, cart, checkout, and shop pages using Elementor or Gutenberg\n- Create essential pages (Home, Shop, Product Details, Cart, Checkout)\n- Optimize store for desktop, tablet, and mobile devices\n- Perform testing and fix setup-related issues before launch\nRequirements:\n- Proven experience with WooCommerce store setup\n- Strong knowledge of WordPress and WooCommerce\n- Expert in Elementor Pro or Gutenberg block editor\n- Experience working with furniture or eCommerce websites\n- Understanding of checkout gateways\n- Attention to detail and good communication skills\n- Ability to deliver within the agreed timeline\n\nTo Apply:\n- Share examples of WooCommerce stores you have set up\n- Explain your experience with furniture or eCommerce projects\n- Provide your estimated completion timeline\n- Share your hourly rate and availability",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$20 - $27/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 447,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress",
+      "theme-customization",
+      "elementor",
+      "product-management"
+    ],
+    "score": 2850,
+    "coverLetter": "Hi! I can certainly get your furniture store up and running efficiently. I have extensive experience setting up WooCommerce stores from scratch, specifically focusing on clean product layouts and seamless checkout flows that convert.\n\nI specialize in both Elementor and Gutenberg, allowing me to build high-performance, responsive shop and product pages tailored for the furniture industry. You can see an example of my work on complex WordPress builds at https://www.thelifeyoucansave.org/. My approach ensures that your store is not only visually professional but also technically optimized for speed and mobile usability.\n\nFor a project of this scope, I estimate a completion timeline of [Insert Number] days. I am available to start immediately at my hourly rate of $[Insert Rate].\n\nWhat specific payment gateways or shipping configurations are you planning to prioritize for the launch?",
+    "publishedDateTime": "2026-09-21T13:03:35+0000",
+    "addedAt": "2026-09-21T13:05:35.370Z",
+    "url": "https://www.upwork.com/jobs/~022102020425669761181",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102020425669761181/apply/"
+  },
+  {
     "id": "2101933900794373818",
     "ciphertext": "~022101933900794373818",
     "title": "Integration Developer – WooCommerce + Telehealth Platform + Customer.io Event Pipeline (HIPAA)",
