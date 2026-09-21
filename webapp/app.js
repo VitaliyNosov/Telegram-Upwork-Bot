@@ -2025,50 +2025,57 @@
     showToast(newTheme === 'dark' ? 'Тёмная тема Telegram 🌙' : 'Светлая тема Upwork ☀️');
   }
 
-  // ==========================================
-  // PDF Export
-  // ==========================================
-  async function downloadReportPDF() {
+  function downloadReportPDF() {
     triggerHaptic('impact');
-    showToast('Загрузка PDF-отчета... ⏳');
+    showToast('Формирование PDF-отчета... ⏳');
 
     const dateStr = state.dailyStats?.date || new Date().toISOString().slice(0, 10);
     const pdfFilename = `Upwork_Daily_Report_${dateStr}.pdf`;
-    const pdfUrl = `reports/${pdfFilename}`;
-    const fullUrl = new URL(pdfUrl, window.location.href).href;
 
-    // 1. Сначала пробуем открыть/скачать готовый серверный PDF-отчет
-    try {
-      const resp = await fetch(fullUrl, { method: 'HEAD' });
-      if (resp.ok) {
-        if (window.Telegram?.WebApp?.openLink) {
-          window.Telegram.WebApp.openLink(fullUrl);
-        } else {
-          const a = document.createElement('a');
-          a.href = fullUrl;
-          a.download = pdfFilename;
-          a.target = '_blank';
-          document.body.appendChild(a);
-          a.click();
-          document.body.removeChild(a);
+    // 1. Извлекаем ровно те вакансии, которые соответствуют текущей статистике дня
+    const topJobUrls = new Set((state.dailyStats?.topJobs || []).map((j) => j.url).filter(Boolean));
+    const matchedFromTop = (state.jobs || []).filter((j) => topJobUrls.has(j.url));
+
+    const matchedByDate = (state.jobs || []).filter((j) => {
+      if (state.deletedIds.has(j.id) || topJobUrls.has(j.url)) return false;
+      const pubDate = j.publishedDateTime ? j.publishedDateTime.slice(0, 10) : "";
+      const addDate = j.addedAt ? j.addedAt.slice(0, 10) : "";
+      return pubDate === dateStr || addDate === dateStr;
+    });
+
+    let displayJobs = [...matchedFromTop, ...matchedByDate];
+
+    // Если полных вакансий в ленте нет, но в topJobs они зафиксированы — используем их
+    if (displayJobs.length < (state.dailyStats?.topJobs || []).length) {
+      const existingUrls = new Set(displayJobs.map((j) => j.url));
+      (state.dailyStats?.topJobs || []).forEach((tj) => {
+        if (!existingUrls.has(tj.url)) {
+          displayJobs.push({
+            title: tj.title,
+            budgetDisplay: tj.budget,
+            score: tj.score,
+            url: tj.url,
+            description: "",
+            client: { country: "Verified Client", totalFeedback: "5.0" }
+          });
         }
-        showToast('PDF-отчет успешно открыт! 📥');
-        return;
-      }
-    } catch (_) {
-      // Резервный переход к html2pdf
+      });
     }
 
-    // 2. Резервный локальный рендеринг: берем до 15 лучших вакансий, чтобы холст не переполнялся
-    const activeJobs = state.jobs && state.jobs.length > 0
-      ? state.jobs.filter((j) => !state.deletedIds.has(j.id))
-      : (FALLBACK_SEED_JOBS || []);
-    const jobsToInclude = activeJobs.slice(0, 15);
+    if (displayJobs.length === 0) {
+      displayJobs = (state.jobs || []).filter((j) => !state.deletedIds.has(j.id)).slice(0, 5);
+    }
 
-    const totalScanned = state.dailyStats?.totalScanned || Math.max(jobsToInclude.length * 6, 28);
+    displayJobs.sort((a, b) => (b.score || 0) - (a.score || 0));
+    const jobsToInclude = displayJobs;
+
+    // Цифры строго из текущего состояния экрана
+    const totalScanned = state.dailyStats?.totalScanned || jobsToInclude.length;
     const matched = state.dailyStats?.matchedFilters || jobsToInclude.length;
-    const proposalsCount = jobsToInclude.filter((j) => j.coverLetter).length;
-    const topScore = Math.max(0, ...jobsToInclude.map((j) => j.score || 0));
+    const proposalsCount = jobsToInclude.filter((j) => j.coverLetter).length || 0;
+    const topScore = jobsToInclude.length > 0
+      ? Math.max(...jobsToInclude.map((j) => j.score || 0))
+      : (state.dailyStats?.topJobs?.[0]?.score || 0);
 
     const pdfDate = document.getElementById('pdf-date');
     if (pdfDate) pdfDate.textContent = `Date: ${dateStr}`;
@@ -2098,7 +2105,7 @@
       pdfJobsList.innerHTML = jobsToInclude.map((job, idx) => {
         const targetUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : 'https://www.upwork.com');
         const budgetDisplay = job.budgetDisplay || (job.isHourly ? `$${job.hourlyBudgetMin || 0} - $${job.hourlyBudgetMax || 0}/hr` : 'Fixed-price');
-        const clientCountry = job.client?.country || 'Unknown';
+        const clientCountry = job.client?.country || job.client?.location?.country || 'Unknown';
         const clientFeedback = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1).replace(/\.0$/, '') : '5';
         const descSnippet = (job.description || '').replace(/\s+/g, ' ').trim().slice(0, 220);
 
@@ -2132,6 +2139,12 @@
     if (!element) return;
 
     element.style.display = 'block';
+    element.style.position = 'absolute';
+    element.style.left = '0';
+    element.style.top = '0';
+    element.style.width = '800px';
+    element.style.zIndex = '99999';
+    element.style.background = '#ffffff';
 
     const opt = {
       margin: [10, 10, 10, 10],
@@ -2145,15 +2158,18 @@
     if (window.html2pdf) {
       window.html2pdf().set(opt).from(element).save().then(() => {
         element.style.display = 'none';
-        showToast('PDF report downloaded successfully! 📥');
+        element.style.position = '';
+        showToast('PDF-отчет успешно скачан! 📥');
       }).catch((err) => {
         console.error('PDF export error:', err);
         element.style.display = 'none';
-        window.open(fullUrl, '_blank');
+        element.style.position = '';
+        window.print();
       });
     } else {
       element.style.display = 'none';
-      window.open(fullUrl, '_blank');
+      element.style.position = '';
+      window.print();
     }
   }
 
