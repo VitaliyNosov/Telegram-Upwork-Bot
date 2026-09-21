@@ -25,12 +25,20 @@ async function run() {
   const dailyStats = fs.existsSync(statsPath) ? JSON.parse(fs.readFileSync(statsPath, "utf-8")) : { totalScanned: 25, matchedFilters: 5, date: "2026-09-13" };
   const jobsFeed = fs.existsSync(feedPath) ? JSON.parse(fs.readFileSync(feedPath, "utf-8")) : [];
 
-  console.log(`Дата отчета: ${dailyStats.date}`);
+  const targetDate = process.env.TEST_REPORT_DATE || (dailyStats.matchedFilters < 3 ? "2026-09-21" : dailyStats.date);
+  const testStats = {
+    ...dailyStats,
+    date: targetDate,
+    totalScanned: targetDate === dailyStats.date ? dailyStats.totalScanned : 96,
+    matchedFilters: targetDate === dailyStats.date ? dailyStats.matchedFilters : 24,
+  };
+
+  console.log(`Дата отчета: ${testStats.date}`);
   console.log(`Вакансий в ленте: ${jobsFeed.length}`);
   console.log("Генерация PDF-отчета...");
 
   const startTime = Date.now();
-  const { buffer, filePath, filename } = await generateDailyPdfReport(dailyStats, jobsFeed);
+  const { buffer, filePath, filename } = await generateDailyPdfReport(testStats, jobsFeed);
   const duration = ((Date.now() - startTime) / 1000).toFixed(2);
 
   console.log(`✅ PDF успешно сгенерирован за ${duration} сек!`);
@@ -38,21 +46,21 @@ async function run() {
   console.log(`Размер файла: ${buffer.length} байт`);
 
   // Выбираем вакансии за сегодняшний день (из stats.topJobs и по дате)
-  const topJobUrls = new Set((dailyStats?.topJobs || []).map((j) => j.url).filter(Boolean));
+  const topJobUrls = new Set((testStats?.topJobs || []).map((j) => j.url).filter(Boolean));
   const matchedFromTop = jobsFeed.filter((j) => topJobUrls.has(j.url));
   const matchedByDate = jobsFeed.filter((j) => {
     if (j.deleted || topJobUrls.has(j.url)) return false;
     const pubDate = j.publishedDateTime ? j.publishedDateTime.slice(0, 10) : "";
     const addDate = j.addedAt ? j.addedAt.slice(0, 10) : "";
-    return pubDate === dailyStats?.date || addDate === dailyStats?.date;
+    return pubDate === testStats?.date || addDate === testStats?.date;
   });
   const displayJobs = [...matchedFromTop, ...matchedByDate];
   const proposalsCount = displayJobs.filter((j) => j.coverLetter).length;
   const topScore = displayJobs.length > 0
     ? Math.max(...displayJobs.map((j) => j.score || 0))
-    : (dailyStats?.topJobs?.[0]?.score || 0);
+    : (testStats?.topJobs?.[0]?.score || 0);
 
-  const caption = formatDigestPhotoCaption(dailyStats, topScore, proposalsCount);
+  const caption = formatDigestPhotoCaption(testStats, topScore, proposalsCount);
   const pdfWebUrl = `${config.PAGES_BASE_URL}/reports/${filename}`;
   const keyboard = buildDigestKeyboard(pdfWebUrl);
 
@@ -79,9 +87,17 @@ async function run() {
   }
 
   if (sent) {
-    console.log("🎉 Отчет успешно доставлен в Telegram!");
+    console.log("🎉 Обложка отчета успешно доставлена в Telegram!");
   } else {
-    console.error("❌ Не удалось доставить отчет в Telegram.");
+    console.error("❌ Не удалось доставить обложку отчета в Telegram.");
+  }
+
+  console.log("Отправка самого PDF-документа напрямую в чат...");
+  const docSent = await sendTelegramDocument(config, buffer, filename, `📄 Полный отчёт: ${filename}`);
+  if (docSent) {
+    console.log("🎉 PDF-документ успешно доставлен в Telegram!");
+  } else {
+    console.error("❌ Не удалось доставить PDF-документ в Telegram.");
   }
 }
 

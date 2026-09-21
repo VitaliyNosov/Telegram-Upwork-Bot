@@ -105,10 +105,10 @@ function recordJobScanned(stats, job, passed, keyword, score = 0) {
       addedAt: new Date().toISOString(),
     });
 
-    // Сортируем по убыванию score и оставляем до 10 лучших
+    // Сортируем по убыванию score
     stats.topJobs.sort((a, b) => (b.score || 0) - (a.score || 0));
-    if (stats.topJobs.length > 10) {
-      stats.topJobs = stats.topJobs.slice(0, 10);
+    if (stats.topJobs.length > 100) {
+      stats.topJobs = stats.topJobs.slice(0, 100);
     }
   }
 }

@@ -101,8 +101,8 @@ async function generateDailyPdfReport(stats, feed = []) {
     )
     .join("");
 
-  // Список вакансий (в точности как в скачиваемом PDF из Mini App)
-  const jobsToInclude = displayJobs.slice(0, 10);
+  // Список вакансий (все отобранные за день)
+  const jobsToInclude = displayJobs;
   const jobsHtml = jobsToInclude
     .map((job, idx) => {
       const targetUrl =
@@ -239,7 +239,7 @@ async function generateDailyPdfReport(stats, feed = []) {
 
     <!-- Selected Jobs -->
     <div>
-      <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">SELECTED JOBS FOR THE DAY:</h3>
+      <h3 style="font-size: 12px; font-weight: 700; color: #001e00; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;">ALL MATCHED JOBS FOR THE DAY (${jobsToInclude.length}):</h3>
       <div style="display: flex; flex-direction: column; gap: 4px;">
         ${jobsHtml || '<div style="color: #5e6d55; font-size: 12px;">No matching jobs found today.</div>'}
       </div>

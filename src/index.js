@@ -129,6 +129,9 @@ async function main() {
         sent = await sendTelegramMessage(config, caption, keyboard);
       }
 
+      // Отправляем сам файл PDF-отчета напрямую в чат
+      await sendTelegramDocument(config, buffer, filename, `📄 Полный отчёт: ${filename}`);
+
       if (sent) {
         markDigestSent(dailyStats);
         console.log(`[Analytics] Вечерний отчет (${filename}) успешно отправлен в Telegram.`);
