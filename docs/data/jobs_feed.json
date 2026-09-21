@@ -1,5 +1,35 @@
 [
   {
+    "id": "2101973095227841923",
+    "ciphertext": "~022101973095227841923",
+    "title": "AI Code Generated Website Redesign",
+    "description": "I'm looking for a developer with extensive experience generating code from AI for the purpose of a website redesign for a small medical clinic. I have the outline prepared (a 35 page PDF) that you could upload to Claude to immediately start developing the design and code. I do not expect you to generate the design creatively, but to use AI generated suggestions with some guidance from the existing site. Everything will come from Claude, so this will be an hourly job, and I will send you the PDF for a quote.\n\nYou're expected to load the site onto a new PHP version/fresh Wordpress while retaining all the existing analytics/tags/etc.\n\nPlease explain in detail your experience with such approached to website redesigns.",
+    "isHourly": true,
+    "hourlyBudgetMin": 8,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$8 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 84,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html5",
+      "javascript",
+      "css",
+      "php",
+      "web-design"
+    ],
+    "score": 2600,
+    "coverLetter": "Hi! \n\nI have extensive experience working with AI-generated code and leveraging tools like Claude for rapid website development, structure builds, and modern redesigns. I can take your 35-page PDF outline, feed it into the workflow, and efficiently build out your small medical clinic's new site while ensuring clean implementation. \n\nFor your technical requirements, I specialize in migrating and setting up fresh WordPress environments on the latest PHP versions, handling custom theme builds (such as from https://www.thelifeyoucansave.org/), and safely preserving all existing Google Analytics, tracking tags, and SEO data during the transition to prevent any loss in traffic or metrics. \n\nSend over the PDF whenever you're ready so I can review it and provide an accurate quote for the hourly work. When would you like to get started?",
+    "publishedDateTime": "2026-09-21T09:54:20+0000",
+    "addedAt": "2026-09-21T09:55:15.371Z",
+    "url": "https://www.upwork.com/jobs/~022101973095227841923",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101973095227841923/apply/"
+  },
+  {
     "id": "2101907008826105219",
     "ciphertext": "~022101907008826105219",
     "title": "WordPress Build — Portable Custom Kadence Child Theme + ACF Pro",

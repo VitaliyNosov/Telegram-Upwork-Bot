@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 43,
-  "matchedFilters": 15,
+  "totalScanned": 44,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -50,6 +50,13 @@
       "addedAt": "2026-09-20T21:47:14.953Z"
     },
     {
+      "title": "AI Code Generated Website Redesign",
+      "budget": "$8-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022101973095227841923",
+      "addedAt": "2026-09-21T09:55:13.903Z"
+    },
+    {
       "title": "WordPress Website Development",
       "budget": "Fixed-price",
       "score": 149,
@@ -69,13 +76,6 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022101875675693309315",
       "addedAt": "2026-09-21T03:29:13.218Z"
-    },
-    {
-      "title": "Pixel Perfect Elementor Pro Design",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022101911970291941657",
-      "addedAt": "2026-09-21T05:53:10.354Z"
     }
   ]
 }
