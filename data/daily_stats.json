@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 66,
-  "matchedFilters": 20,
+  "totalScanned": 69,
+  "matchedFilters": 22,
   "byKeyword": {
-    "wordpress developer": 20
+    "wordpress developer": 22
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 10150,
       "url": "https://www.upwork.com/jobs/~022101905221130589150",
       "addedAt": "2026-09-21T08:27:14.385Z"
+    },
+    {
+      "title": "Restore WordPress Site from Archive.com",
+      "budget": "$20-$40/hr",
+      "score": 4097,
+      "url": "https://www.upwork.com/jobs/~022102048729303131075",
+      "addedAt": "2026-09-21T15:02:02.917Z"
     },
     {
       "title": "WordPress Developer to fix a handful of bugs and add new content pages to  (Wannycleandaho.com)",
@@ -69,13 +76,6 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022101933900794373818",
       "addedAt": "2026-09-21T10:21:40.406Z"
-    },
-    {
-      "title": "WordPress Developer for Training Website",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022102048761535018715",
-      "addedAt": "2026-09-21T14:57:15.273Z"
     }
   ]
 }

@@ -1,5 +1,63 @@
 [
   {
+    "id": "2102050062075261650",
+    "ciphertext": "~022102050062075261650",
+    "title": "WordPress Developer with AI SEO",
+    "description": "We’re seeking a WordPress developer to build and optimize a website for a growing business. The project includes creating a clean, responsive site, improving page speed, and implementing SEO best practices to help the site rank better in search results. You’ll also support ongoing updates, troubleshoot issues, and help maintain a smooth user experience across devices. If you have experience improving site performance and visibility, we’d love to hear how you can help us grow our online presence.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "wordpress",
+      "web-design",
+      "psd-to-wordpress"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! I can certainly help you build a high-performance WordPress site that is optimized for both user experience and search rankings.\n\nI specialize in creating clean, responsive WordPress sites from designs and have a strong track record of optimizing page speed to meet Core Web Vitals standards, which is a critical factor for SEO. Beyond the initial build, I provide ongoing technical support to ensure your site remains secure, fast, and bug-free as your business grows. You can see an example of my work on high-traffic, performance-focused sites here: https://www.thelifeyoucansave.org/.\n\nMy approach focuses on lean code and efficient database management to ensure your site ranks well and converts visitors effectively. Are you working from existing design files, or should we start with a blank canvas?",
+    "publishedDateTime": "2026-09-21T15:00:57+0000",
+    "addedAt": "2026-09-21T15:02:31.705Z",
+    "url": "https://www.upwork.com/jobs/~022102050062075261650",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102050062075261650/apply/"
+  },
+  {
+    "id": "2102048729303131075",
+    "ciphertext": "~022102048729303131075",
+    "title": "Restore WordPress Site from Archive.com",
+    "description": "Need an expert to help restore a very large WordPress website from archive.com data. The work includes retrieving the site, rebuilding it properly, and ensuring all content, pages, and functionality are restored accurately. Experience handling large-scale WordPress migrations and data recovery is important. Please share relevant examples of similar projects and your approach to restoring a site from archived data.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 86,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 4097,
+    "coverLetter": "Hi! Restoring a large-scale site from the Wayback Machine requires a systematic approach to scraping, data parsing, and rebuilding the database structure, which I have successfully handled for several complex migrations.\n\nMy process involves using automated tools to extract the site’s structure and content, followed by a manual rebuild to ensure the WordPress taxonomy, media library, and page templates are restored correctly. I specialize in WordPress architecture and database management, which allows me to reconstruct broken links and missing assets efficiently. You can see examples of my large-scale work at https://www.thelifeyoucansave.org/, where I managed complex content structures and performance requirements.\n\nDo you have a specific list of priority pages, or are we looking to restore the entire site archive as it appeared on a specific date? Let’s chat about the site’s scope.",
+    "publishedDateTime": "2026-09-21T14:59:08+0000",
+    "addedAt": "2026-09-21T15:02:25.466Z",
+    "url": "https://www.upwork.com/jobs/~022102048729303131075",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102048729303131075/apply/"
+  },
+  {
     "id": "2102048761535018715",
     "ciphertext": "~022102048761535018715",
     "title": "WordPress Developer for Training Website",
