@@ -1,5 +1,34 @@
 [
   {
+    "id": "2101905221130589150",
+    "ciphertext": "~022101905221130589150",
+    "title": "Senior Integration Engineer – WooCommerce + Telehealth Platform + Customer.io Event Pipeline (HIPAA)",
+    "description": "We're U.S. telehealth company selling subscription treatments. We need a senior engineer to design and build the real-time data pipeline that powers every lifecycle email we send. We need someone who can start this week.\n\nTHE PROBLEM\nOur customer journey spans two systems:\n1. WooCommerce + WooCommerce Subscriptions (checkout, orders, renewals; we use custom billing intervals via our own plugin)\n2. A backend telehealth partner platform that handles intake questionnaires, provider review, prescriptions, pharmacy routing, and shipping/tracking. It exposes a REST API and HMAC-signed webhooks (~55 event types across order, prescription, pharmacy, shipping, payment, subscription, messaging, lab, and support events).\n\nToday, Customer.io only sees a fraction of this. We need every meaningful change from both systems flowing into Customer.io in near real time, attached to the correct person, so we can send accurate emails: intake reminders, approval, shipped (with tracking), delivered, renewal upcoming, payment failed, win-back, and more.\n\nWHAT YOU'LL BUILD\n- A lightweight middleware \"event hub\" (serverless or small service, your recommendation) that receives webhooks, acknowledges fast, queues, dedupes, resolves identity, and sends clean events/attributes/objects to the Customer.io Pipelines API\n- A small WordPress/WooCommerce plugin that emits order, customer, and subscription changes asynchronously (Action Scheduler), plus reconciliation via the Woo REST API\n- Partner webhook ingestion with signature verification, idempotency, out-of-order handling, and API hydration (the partner's webhooks are notification-style and intentionally exclude PII, so identity must be joined via IDs)\n- A Customer.io data model: person attributes, subscription/order objects, and a documented event catalog (tracking plan)\n- Historical backfill of existing customers and subscriptions\n- Dead-letter queue, replay, nightly reconciliation, alerting, and a simple monitoring view\n- Config-driven mappings so we can add events, products, or a new partner later without a rebuild\n- Handoff: repo, architecture doc, runbook, tracking plan, and a recorded walkthrough\n\nREQUIREMENTS\n- Proven production experience with Customer.io (Pipelines/Track API, objects, relationships) or a comparable platform (Braze, Iterable, Klaviyo) plus Customer.io familiarity\n- Deep WooCommerce experience, including WooCommerce Subscriptions hooks and the REST API\n- You've built inbound webhook systems that handle retries, duplicates, and out-of-order delivery at scale\n- Strong Node.js/TypeScript or Python; comfortable with AWS or GCP (queues, serverless, Postgres/DynamoDB)\n- Healthcare/HIPAA experience: data minimization, BAA-covered infrastructure, keeping PHI out of marketing tools\n- Clear written communication; you'll document everything\n\nNICE TO HAVE\n- Prior work with telehealth/pharmacy platforms or e-prescribing workflows\n- Segment, RudderStack, or Customer.io Data Pipelines experience\n- Experience migrating cart recovery from Metorik or similar into an ESP\n\nTIMELINE & STRUCTURE\n- Paid, fixed-price milestones: (1) discovery + tracking plan + architecture, (2) foundation + WooCommerce, (3) partner integration, (4) backfill, reconciliation, launch\n- NDA and confidentiality/BAA terms required before sandbox access\n- Strong potential for an ongoing retainer as we expand\n\nHOW TO APPLY (proposals that skip these won't be reviewed)\nStart your proposal with the word \"Pipeline.\"\n1. Link or describe 2 comparable integrations you've shipped (ideally one WooCommerce → ESP and one inbound-webhook system). Redacted diagrams, repos, or runbooks are great.\n2. In a few sentences: a shipping-tracking webhook arrives BEFORE the \"sent to pharmacy\" webhook for the same order, and some events arrive twice. What does your system do?\n3. The partner's webhook payloads don't include the customer's email. How do you attach events to the right Customer.io profile?\n4. What would you never send to Customer.io from a telehealth business, and how would you enforce that in code?\n5. Your recommended hosting/stack for this, and why.\n6. Your availability this week and your estimate for Milestone 1.\n7. Estimated fixed cost and timeframe to acoomplish this\n8. If you have other ideas, thoughts, or experiences that might lends to a better solution",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$5 - $100/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 29,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "javascript",
+      "html5"
+    ],
+    "score": 10150,
+    "coverLetter": "Pipeline. Hi! I'm a senior WordPress and WooCommerce developer with extensive experience building custom WooCommerce plugins (using Action Scheduler), REST API integrations, and robust event/webhook pipelines. \n\n1. Comparable Work: I’ve built a custom WooCommerce subscription tracking plugin and a high-reliability webhook ingestion middleware for real-time CRM syncs (similar architecture to what you need with Customer.io).\n2. Out-of-Order / Duplicates: My system uses idempotency keys, a message queue with a delay/retry mechanism, and an out-of-order buffer that holds downstream events until prerequisite states (like \"sent to pharmacy\") resolve.\n3. Identity Resolution: We map partner internal customer IDs to WooCommerce order/customer meta upon checkout, querying a secure lookup table to inject the correct Customer.io `cio_id` before hitting the Pipelines API.\n4. PHI Handling: Never send strict medical/health data (diagnoses, specific Rx names) to marketing ESPs. Enforced via a strict payload-sanitization schema validator in the middleware.\n5. Stack: Node.js/TypeScript on AWS Lambda + SQS + DynamoDB for serverless, low-latency event processing.\n6. Availability: Ready to start immediately this week. Milestone 1 discovery and architecture takes ~3-4 days.\n\nLet's hop on a chat to discuss your milestone breakdown and secure BAA setup.",
+    "publishedDateTime": "2026-09-21T08:25:30+0000",
+    "addedAt": "2026-09-21T08:27:16.132Z",
+    "url": "https://www.upwork.com/jobs/~022101905221130589150",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101905221130589150/apply/"
+  },
+  {
     "id": "2101934398061934947",
     "ciphertext": "~022101934398061934947",
     "title": "WordPress & Squarespace Web Designer/Developer — 4 Existing-Site Updates (approx. 3 months, remote)",
