@@ -1,10 +1,10 @@
 {
   "date": "2026-09-21",
   "lastDigestSentDate": "2026-09-20",
-  "totalScanned": 28,
-  "matchedFilters": 9,
+  "totalScanned": 29,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022101911970291941657",
       "addedAt": "2026-09-21T05:53:10.354Z"
+    },
+    {
+      "title": "Long-Term Senior WordPress Developer – Europe Only | WooCommerce, WPML, Brevo & SEO",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022101925331880673561",
+      "addedAt": "2026-09-21T06:47:21.137Z"
     },
     {
       "title": "Website Developement LA",
