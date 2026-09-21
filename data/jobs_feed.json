@@ -1,5 +1,32 @@
 [
   {
+    "id": "2101961362437777082",
+    "ciphertext": "~022101961362437777082",
+    "title": "WordPress back-end developer — MemberPress paywall, SiteGround cache, structured data",
+    "description": "Subscription articles are gated by MemberPress behind an intentional two-article meter. Two holes break it: SiteGround's full-page cache can serve a gated article in full to a visitor who arrives with no cookie, and the meter cookie is plain base64 and rewritable from the browser. The paywall is also not declared in structured data. Part A closes this. Part B installs four supplied page designs. Part B is installation, not design — markup, styles and copy are provided.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nFixing caching conflicts with paywalls like MemberPress and securing client-side cookies is a challenge I regularly solve for high-traffic WordPress sites. \n\nTo address Part A, I can configure SiteGround's dynamic caching rules and exclusion headers so that cached full-page versions never bypass your two-article meter. I'll also secure the meter cookie logic on the server side to prevent client-side tampering, and properly implement paywall structured data for SEO compliance. For Part B, I'll cleanly integrate your four provided page designs (markup, styles, and copy) directly into the site structure without friction. \n\nYou can see examples of my recent custom WordPress development work here: https://www.thelifeyoucansave.org/\n\nWhen would be a good time to review the current MemberPress setup and get started?",
+    "publishedDateTime": "2026-09-21T09:08:38+0000",
+    "addedAt": "2026-09-21T09:11:24.153Z",
+    "url": "https://www.upwork.com/jobs/~022101961362437777082",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022101961362437777082/apply/"
+  },
+  {
     "id": "2101910137898524035",
     "ciphertext": "~022101910137898524035",
     "title": "WordPress Website Update for Personal Training",
