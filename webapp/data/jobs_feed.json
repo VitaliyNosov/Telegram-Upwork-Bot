@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102269228582491307",
+    "ciphertext": "~022102269228582491307",
+    "title": "Expert WordPress Website Developer Needed",
+    "description": "We need an experienced web developer to build a WordPress website for one of our clients. The project includes setting up the site, customizing the design, and ensuring the site is functional and user-friendly. We are looking for someone who can deliver a polished website on time and communicate clearly throughout the project. With how comprehensive a full website build would be, we'd suggest moving this website for launch in September 2027 for the 2028 event. Then just update the existing website for this 2027 event. \n\nPlease see attached request for quote based in this new timeline. As per discussions we feel keeping a Wordpress website, Woocommerce and Elementor is the best way to proceed.\n\nI've requested two quotes; one that keeps the Jotform setup and a second quote that involves the creation of a full Tournament and Competition Management System + staff dashboard.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$18 - $40/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 22,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 4145,
+    "coverLetter": "Hi! \n\nI’d love to help you build your client’s new WordPress site and manage the dual-timeline approach for the 2027 and 2028 events. \n\nGiven that you are sticking with WordPress, WooCommerce, and Elementor, this aligns directly with my core development stack. I build clean, high-performing WordPress sites from custom designs and have extensive experience integrating complex systems like Jotform or building out custom tournament/competition management dashboards and staff portals. \n\nFor a sense of my layout and build quality, you can take a look at my work on sites like https://www.snopud.com/. \n\nWould you like me to break down the two quotes based on whether we retain Jotform or build the custom management system, and we can discuss the specifics in chat?",
+    "publishedDateTime": "2026-09-22T05:31:45+0000",
+    "addedAt": "2026-09-22T05:33:11.425Z",
+    "url": "https://www.upwork.com/jobs/~022102269228582491307",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102269228582491307/apply/"
+  },
+  {
     "id": "2102264214014408411",
     "ciphertext": "~022102264214014408411",
     "title": "WordPress Developer for SEO",
