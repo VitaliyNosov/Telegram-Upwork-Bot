@@ -1,5 +1,35 @@
 [
   {
+    "id": "2102450366705606562",
+    "ciphertext": "~022102450366705606562",
+    "title": "WordPress Elementor Developer — Mobile Fixes and Speed Optimization",
+    "description": "Improve the performance and mobile usability of an existing WordPress website built with Elementor.\n\nThe scope covers three agreed pages: the homepage, one service page, and the contact page. Review mobile layouts, image loading, unnecessary scripts, caching, and any visible layout shifts. Fix navigation, spacing, and form issues that affect visitors on smaller screens.\n\nTake a backup and test changes on staging before applying them to the live website. Preserve the existing design, tracking, and functionality.\n\nDeliver a short before-and-after performance report, a list of changes, and confirmation that the navigation and contact form still work correctly. Flag hosting or third-party limitations separately.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 199,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "css",
+      "responsive-design",
+      "wordpress",
+      "wordpress-website"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-22T17:35:07+0000",
+    "addedAt": "2026-09-22T17:37:27.116Z",
+    "url": "https://www.upwork.com/jobs/~022102450366705606562",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102450366705606562/apply/"
+  },
+  {
     "id": "2102449094216264412",
     "ciphertext": "~022102449094216264412",
     "title": "Senior WordPress Performance Optimization Expert | Full-Stack Developer",

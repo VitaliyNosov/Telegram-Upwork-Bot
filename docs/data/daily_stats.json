@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 86,
-  "matchedFilters": 21,
+  "totalScanned": 87,
+  "matchedFilters": 22,
   "byKeyword": {
-    "wordpress developer": 21
+    "wordpress developer": 22
   },
   "topJobs": [
     {
@@ -132,6 +132,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022102337007559656828",
       "addedAt": "2026-09-22T10:01:37.667Z"
+    },
+    {
+      "title": "WordPress Elementor Developer — Mobile Fixes and Speed Optimization",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022102450366705606562",
+      "addedAt": "2026-09-22T17:37:12.988Z"
     },
     {
       "title": "Website for short term rental company",
