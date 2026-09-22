@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102480131096980188",
+    "ciphertext": "~022102480131096980188",
+    "title": "remove Elementor, add email signup and affiliate click tracking, protect SEO",
+    "description": "Hi! I run a healthy home and interiors website on WordPress and we just invested in a full brand strategy and new visual identity which the reason for this project. The website needs to catch up with the new brand, both in how it looks and how it runs behind the scenes. Right now it's built with Elementor, the back end is messy, the categories are unclear, email signups, or track affiliate clicks in a way thats clear to see. I'm looking for someone who knows WordPress well to bring the new brand to life on the site and get the basics working properly.\n\nThe one thing that really matters: please keep my Google traffic safe. My article links should stay the same, and if any have to change, they need a 301 redirect.\n\nHere's what I'd like done:\n\n1. Back up the site and set up a staging copy so nothing goes live until it's ready.\n2. Help us plan a simple site map and help mapping out a site that's easy for people to find their way around and works well for Google.\n3. Remove Elementor. \n4. Build the new brand design. My designer will send four page designs in Figma which will be carried through the whole site so everything looks consistent.\n5. Sort out categories and tags. A past SEO person set these up and it's now unclear which articles and products belong where. I'd like a clear, simple structure, and your take on whether the current setup is hurting my Google results.\n6. Make sure the email signup form is perfectly setup and including one on article pages.\n7. Set up affiliate click tracking so I can see which page a click came from, with separate tags for my website, Instagram stories, storefront and chat automation.\n8. General tidy up: page titles, meta descriptions, duplicates and broken links.\n9. Check everything works well on mobile.\n10. Make sure Google Search Console and Analytics are working before and after.\n\nIn your proposal, please share:\n\n- One or two examples of WordPress sites you've rebuilt or cleaned up without losing search traffic\n- How you'd remove Elementor safely\n- Which plugins you'd use for the email form and click tracking\n- A fixed price, broken down by the numbered steps above\n- How long it would take\n\nI'm looking for a fixed price once we've agreed on scope and price.\n\nThanks so much, looking forward to hearing from you!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "html5",
+      "android-app-development"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I can help you migrate away from Elementor, implement your new Figma designs, and clean up your site structure while strictly protecting your SEO and organic traffic. \n\nTo safely remove Elementor, I first clone the site to a staging environment, then rebuild your layouts using clean native Gutenberg blocks and Advanced Custom Fields (ACF). This strips out the heavy Elementor bloat, significantly improves speed, and keeps your backend tidy. For email signups, I typically use lightweight solutions like Fluent Forms or native provider integrations, and for affiliate click tracking with precise source tagging, I set up custom redirect structures or dedicated tracking plugins.\n\nHere are a few relevant WordPress redesigns from my portfolio where we maintained or improved search traffic:\nhttps://www.thelifeyoucansave.org/\nhttps://www.snopud.com/\n\nLet's chat in detail about your Figma files and I can provide a precise fixed-price breakdown for your 10 steps.",
+    "publishedDateTime": "2026-09-22T22:29:22+0000",
+    "addedAt": "2026-09-22T22:31:18.532Z",
+    "url": "https://www.upwork.com/jobs/~022102480131096980188",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102480131096980188/apply/"
+  },
+  {
     "id": "2102515086208835490",
     "ciphertext": "~022102515086208835490",
     "title": "WordPress/Elementor Developer to Build 12 Child Pages from Existing Templates",
