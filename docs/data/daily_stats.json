@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 34,
-  "matchedFilters": 9,
+  "totalScanned": 35,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022102257805844849603",
       "addedAt": "2026-09-22T04:47:13.745Z"
+    },
+    {
+      "title": "WordPress Website Updates, Website Design Improvement & Speed Optimization",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022102292436135277266",
+      "addedAt": "2026-09-22T07:03:54.446Z"
     },
     {
       "title": "Copy WordPress Site to Google Sites",
