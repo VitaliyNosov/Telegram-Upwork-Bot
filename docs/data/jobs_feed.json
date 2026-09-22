@@ -1,5 +1,37 @@
 [
   {
+    "id": "2102337007559656828",
+    "ciphertext": "~022102337007559656828",
+    "title": "WordPress Redesign Specialist (7-8 pages)",
+    "description": "Project Overview\n\nWe are looking for a skilled, fast-working WordPress designer/developer to completely redesign our existing 7-8 page WordPress website.  We will likely need you to also maintain the site monthly for under an hour (update plugins, etc) and we will hire you for that.\n\nAll text content, logos, and general layout ideas will be provided at kickoff. We need someone who can work efficiently on a staging environment to deliver a clean, modern, fast, and fully responsive site within 2 to 3 weeks.\n\nScope of Work\n\n- 7-8 Page Redesign: \n Redesign core pages (e.g., Home, About, Services, Contact, etc.) using modern WordPress tools (Elementor, Gutenberg, or Divi).\n\n- Staging Setup:\n Build on a staging link/sandbox so our current live site experiences zero downtime during development.\n\n- Mobile Responsiveness: Ensure perfect layout display across smartphones, tablets, and desktop devices.\n\n- Performance & Speed: Compress media, optimize page load times, and implement basic technical SEO best practices.\n\n- Final QA & Launch:\nTest forms, links, and cross-browser functionality before safely migrating the new build to our main domain.\n\n\nRequirements\n\n- Proven experience in WordPress web design with a strong portfolio of live sites.\n- Fast execution without sacrificing design quality or site performance.\n- Clear, proactive English communication and prompt updates.\n- Ability to hit the 2 to 3-week completion target.\n\nHow to Apply:\n\nPlease submit your proposal with:\n\n1. Links to 2–3 relevant WordPress sites you have designed.\n2. The primary page builder / stack you prefer to use (e.g., Elementor, Gutenberg, Divi).\n3. Confirmation that you can complete a 7-page redesign within 2 to 3 weeks.\n\n(Note: Please start your application proposal with the word **\"WORDPRESS\"** so I know you read the full description).*\n\nThank you!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "responsive-design",
+      "html5",
+      "wordpress",
+      "wordpress-website",
+      "website-optimization",
+      "website-migration"
+    ],
+    "score": 100,
+    "coverLetter": "WORDPRESS — Hi! I would love to help you completely redesign your 7-8 page site within your 2 to 3-week timeline while ensuring zero downtime using a staging environment. \n\nFor projects like this, I primarily use Gutenberg with ACF or Elementor, ensuring clean code, fast page load speeds, and flawless mobile responsiveness. I also handle technical SEO best practices, performance optimization, and safe migrations, and I'd be more than happy to support the site on a monthly basis moving forward.\n\nHere are 2 relevant WordPress sites I've built:\n- https://www.seeintl.org/\n- https://www.thelifeyoucansave.org/\n\nI can easily meet the 2-3 week completion target. Are you leaning toward a specific page builder like Elementor or Gutenberg for this build?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-09-22T10:00:15+0000",
+    "addedAt": "2026-09-22T10:01:39.091Z",
+    "url": "https://www.upwork.com/jobs/~022102337007559656828",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102337007559656828/apply/"
+  },
+  {
     "id": "2102330149141178298",
     "ciphertext": "~022102330149141178298",
     "title": "WordPress Server & Hosting Expert",
