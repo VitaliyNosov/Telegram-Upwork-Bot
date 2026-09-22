@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 97,
-  "matchedFilters": 23,
+  "totalScanned": 98,
+  "matchedFilters": 24,
   "byKeyword": {
-    "wordpress developer": 23
+    "wordpress developer": 24
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 3500,
       "url": "https://www.upwork.com/jobs/~022102278414866412242",
       "addedAt": "2026-09-22T09:07:23.893Z"
+    },
+    {
+      "title": "WooCommerce Website Developer and SEO",
+      "budget": "$6-$30/hr",
+      "score": 3146,
+      "url": "https://www.upwork.com/jobs/~022102463642628069527",
+      "addedAt": "2026-09-22T18:25:15.697Z"
     },
     {
       "title": "Web Developer for SEO and AI Agency",

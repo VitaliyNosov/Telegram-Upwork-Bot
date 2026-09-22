@@ -1,5 +1,35 @@
 [
   {
+    "id": "2102463642628069527",
+    "ciphertext": "~022102463642628069527",
+    "title": "WooCommerce Website Developer and SEO",
+    "description": "Looking for a Web Designer to generate a WooCommerce with a number of pages and products categories including forms, etc. Site is to be optimized for searchability, and to contain online content resource documents to add to the SEO, etc.  Add AI features searchability, and also contain product categories and sub-categories for webstore.\n\nDetails to be provided",
+    "isHourly": true,
+    "hourlyBudgetMin": 6,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$6 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.79,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "seo",
+      "wordpress",
+      "woocommerce",
+      "web-design"
+    ],
+    "score": 3146,
+    "coverLetter": "Hi! Building a high-converting, SEO-optimized WooCommerce store with complex product taxonomies and resource libraries is exactly what I specialize in.\n\nI have extensive experience structuring large-scale WooCommerce catalogs with nested categories and sub-categories, ensuring the architecture is primed for search engines from day one. I can also implement advanced search functionality and integrate AI-driven search features to improve your user experience and content discoverability. You can see an example of my work on a complex, content-heavy site at https://www.cchpca.org/.\n\nI focus on clean, performant code that ensures your site remains fast as your product list grows. Could you share a bit more about the specific AI features you have in mind and how many products you are planning to launch with?",
+    "publishedDateTime": "2026-09-22T18:24:23+0000",
+    "addedAt": "2026-09-22T18:25:37.884Z",
+    "url": "https://www.upwork.com/jobs/~022102463642628069527",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102463642628069527/apply/"
+  },
+  {
     "id": "2102453505542365090",
     "ciphertext": "~022102453505542365090",
     "title": "Wordpress Developer (Elementor + ACF)",
