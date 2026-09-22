@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 43,
-  "matchedFilters": 11,
+  "totalScanned": 44,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3649,
       "url": "https://www.upwork.com/jobs/~022102232119947613355",
       "addedAt": "2026-09-22T06:05:17.755Z"
+    },
+    {
+      "title": "Expert Needed For WordPress Web Development",
+      "budget": "$15-$35/hr",
+      "score": 3500,
+      "url": "https://www.upwork.com/jobs/~022102278414866412242",
+      "addedAt": "2026-09-22T09:07:23.893Z"
     },
     {
       "title": "Wordpress Techniker",

@@ -1,5 +1,36 @@
 [
   {
+    "id": "2102278414866412242",
+    "ciphertext": "~022102278414866412242",
+    "title": "Expert Needed For WordPress Web Development",
+    "description": "We are looking for an experienced WordPress Web Developer to build, customize, and optimize a professional, modern, and responsive website.Project Requirements:\nDevelop a professional WordPress website\n\nCreate a clean, modern, and mobile-friendly design\n\nCustomize WordPress themes and plugins\n\nBuild required pages and sections\n\nEnsure the website is fully responsive on desktop, tablet, and mobile\n\nOptimize website speed and performance\n\nSet up contact forms and basic functionality\n\nImplement basic SEO-friendly structure\n\nEnsure proper security and functionality\n\nFix any bugs or compatibility issues\n\nMake the website easy to manage and update",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "e-commerce-website",
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "woocommerce",
+      "html"
+    ],
+    "score": 3500,
+    "coverLetter": "Hi!\n\nI would love to help you build a fast, modern, and high-performing WordPress website that is both secure and exceptionally easy for your team to manage. \n\nWith extensive experience in custom WordPress development, theme/plugin configuration, and WooCommerce e-commerce setup, I build responsive, SEO-friendly sites focused on clean code and speed optimization. I also ensure all forms, security hardening, and essential pages are properly configured from day one so your site is ready to convert visitors immediately.\n\nYou can view a recent example of my work here: https://www.thelifeyoucansave.org/\n\nDo you already have specific design files (like Figma) or brand guidelines ready, or should we start by mapping out the layout and structure together? \n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-09-22T09:06:51+0000",
+    "addedAt": "2026-09-22T09:07:25.137Z",
+    "url": "https://www.upwork.com/jobs/~022102278414866412242",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102278414866412242/apply/"
+  },
+  {
     "id": "2102315576379061979",
     "ciphertext": "~022102315576379061979",
     "title": "WordPress Website Redesign & Elementor Customization Expert Needed",
