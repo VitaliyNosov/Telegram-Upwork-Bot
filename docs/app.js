@@ -2080,77 +2080,120 @@
       ? Math.max(...jobsToInclude.map((j) => j.score || 0))
       : (state.dailyStats?.topJobs?.[0]?.score || 0);
 
-    const pdfDate = document.getElementById('pdf-date');
-    if (pdfDate) pdfDate.textContent = `Date: ${dateStr}`;
+    const keywords = state.dailyStats?.byKeyword || { "wordpress developer": matched };
+    const keywordsBadgesHtml = Object.entries(keywords).map(([kw, count]) => `
+      <span style="border: 1px solid #e4e4e4; background: #f7f7f7; padding: 3px 10px; border-radius: 9999px; font-size: 10px; font-weight: 500; color: #001e00;">
+        ${escapeHtml(kw)} <strong style="color: #14a800;">(${count})</strong>
+      </span>
+    `).join('');
 
-    const pdfScanned = document.getElementById('pdf-scanned');
-    const pdfMatched = document.getElementById('pdf-matched');
-    const pdfProposals = document.getElementById('pdf-proposals');
-    const pdfScore = document.getElementById('pdf-score');
+    function buildJobCardHtml(job, globalIdx) {
+      const targetUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : 'https://www.upwork.com');
+      const budgetDisplay = job.budgetDisplay || (job.isHourly ? `$${job.hourlyBudgetMin || 0} - $${job.hourlyBudgetMax || 0}/hr` : 'Fixed-price');
+      const clientCountry = job.client?.country || job.client?.location?.country || 'Unknown';
+      const clientFeedback = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1).replace(/\.0$/, '') : '5';
+      const descSnippet = (job.description || '').replace(/\s+/g, ' ').trim().slice(0, 200);
 
-    if (pdfScanned) pdfScanned.textContent = totalScanned;
-    if (pdfMatched) pdfMatched.textContent = matched;
-    if (pdfProposals) pdfProposals.textContent = proposalsCount;
-    if (pdfScore) pdfScore.textContent = topScore > 0 ? topScore : 'N/A';
-
-    const pdfKeywords = document.getElementById('pdf-keywords');
-    if (pdfKeywords) {
-      const keywords = state.dailyStats?.byKeyword || { "wordpress developer": matched };
-      pdfKeywords.innerHTML = Object.entries(keywords).map(([kw, count]) => `
-        <span style="border: 1px solid #e4e4e4; background: #f7f7f7; padding: 4px 12px; border-radius: 9999px; font-size: 11px; font-weight: 500; color: #001e00;">
-          ${escapeHtml(kw)} <strong style="color: #14a800;">(${count})</strong>
-        </span>
-      `).join('');
-    }
-
-    const pdfJobsList = document.getElementById('pdf-jobs-list');
-    if (pdfJobsList) {
-      pdfJobsList.innerHTML = jobsToInclude.map((job, idx) => {
-        const targetUrl = job.url || job.applyUrl || (job.ciphertext ? `https://www.upwork.com/jobs/${job.ciphertext}` : 'https://www.upwork.com');
-        const budgetDisplay = job.budgetDisplay || (job.isHourly ? `$${job.hourlyBudgetMin || 0} - $${job.hourlyBudgetMax || 0}/hr` : 'Fixed-price');
-        const clientCountry = job.client?.country || job.client?.location?.country || 'Unknown';
-        const clientFeedback = job.client?.totalFeedback ? Number(job.client.totalFeedback).toFixed(1).replace(/\.0$/, '') : '5';
-        const descSnippet = (job.description || '').replace(/\s+/g, ' ').trim().slice(0, 220);
-
-        return `
-        <div style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 12px 14px; background: #ffffff; page-break-inside: avoid; break-inside: avoid; margin-bottom: 8px; box-sizing: border-box; width: 100%;">
-          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px; width: 100%; box-sizing: border-box;">
-            <div style="flex: 1; min-width: 0; padding-right: 12px; box-sizing: border-box;">
-              <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #001e00; text-decoration: none; font-weight: 700; font-size: 13px; line-height: 1.35; display: inline-block;">
-                ${idx + 1}. ${escapeHtml(job.title || 'Untitled Job')}
-              </a>
-            </div>
-            <span style="background: #e4f7e2; color: #14a800; font-weight: 700; font-size: 11px; padding: 2px 10px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0;">
-              Score: ${job.score || 'N/A'}
-            </span>
-          </div>
-          <div style="font-size: 11px; color: #5e6d55; margin-bottom: 6px;">
-            <strong>Budget:</strong> ${escapeHtml(budgetDisplay)} • <strong>Client:</strong> ${escapeHtml(clientCountry)} (★ ${escapeHtml(clientFeedback)})
-          </div>
-          <div style="font-size: 11px; color: #333333; line-height: 1.45; margin-bottom: 6px;">
-            ${escapeHtml(descSnippet)}${descSnippet.length >= 220 ? '...' : ''}
-          </div>
-          <div style="font-size: 11px; margin-top: 4px; padding-top: 6px; border-top: 1px dashed #e4e4e4; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 4px;">
-            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700; display: inline-block; font-size: 11px;">
-              View Job on Upwork ➔
+      return `
+      <div class="pdf-job-card" style="border: 1px solid #e4e4e4; border-radius: 8px; padding: 10px 14px; background: #ffffff; margin-bottom: 7px; box-sizing: border-box; width: 100%;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 5px; width: 100%; box-sizing: border-box;">
+          <div style="flex: 1; min-width: 0; padding-right: 12px; box-sizing: border-box;">
+            <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #001e00; text-decoration: none; font-weight: 700; font-size: 13px; line-height: 1.35; display: inline-block;">
+              ${globalIdx}. ${escapeHtml(job.title || 'Untitled Job')}
             </a>
-            <span style="font-size: 9.5px; color: #14a800; font-family: monospace; word-break: break-all;">
-              ${escapeHtml(targetUrl)}
-            </span>
           </div>
+          <span style="background: #e4f7e2; color: #14a800; font-weight: 700; font-size: 11px; padding: 2px 10px; border-radius: 9999px; white-space: nowrap; flex-shrink: 0;">
+            Score: ${job.score || 'N/A'}
+          </span>
         </div>
+        <div style="font-size: 11px; color: #5e6d55; margin-bottom: 5px;">
+          <strong>Budget:</strong> ${escapeHtml(budgetDisplay)} • <strong>Client:</strong> ${escapeHtml(clientCountry)} (★ ${escapeHtml(clientFeedback)})
+        </div>
+        <div style="font-size: 11px; color: #333333; line-height: 1.4; margin-bottom: 6px;">
+          ${escapeHtml(descSnippet)}${descSnippet.length >= 200 ? '...' : ''}
+        </div>
+        <div style="font-size: 11px; margin-top: 4px; padding-top: 5px; border-top: 1px dashed #e4e4e4; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 4px;">
+          <a href="${escapeHtml(targetUrl)}" target="_blank" rel="noopener noreferrer" style="color: #14a800; text-decoration: underline; font-weight: 700; display: inline-block; font-size: 11px;">
+            View Job on Upwork ➔
+          </a>
+          <span style="font-size: 9.5px; color: #14a800; font-family: monospace; word-break: break-all;">
+            ${escapeHtml(targetUrl)}
+          </span>
+        </div>
+      </div>
       `;
-      }).join('');
     }
+
+    const page1TopHtml = `
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 2.5px solid #14a800; padding-bottom: 12px; margin-bottom: 14px; width: 100%; box-sizing: border-box;">
+        <div style="flex: 1; min-width: 0; padding-right: 16px;">
+          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 4px;">
+            <img src="logo.png?v=4" alt="Upwork" style="height: 24px; width: auto; display: block; object-fit: contain;" />
+            <span style="font-size: 16px; color: #14a800; font-weight: 300;">|</span>
+            <span style="font-size: 15px; color: #001e00; font-weight: 700; line-height: 1;">Daily Intelligence Report</span>
+          </div>
+          <p style="font-size: 11px; color: #5e6d55; margin: 2px 0 0;">Automatic Upwork Bot Monitoring & AI Proposal Analytics</p>
+        </div>
+        <div style="text-align: right; flex-shrink: 0; min-width: 150px;">
+          <div style="font-size: 12px; font-weight: 700; color: #001e00; white-space: nowrap;">Date: ${escapeHtml(dateStr)}</div>
+          <div style="font-size: 10px; color: #5e6d55; margin-top: 2px; white-space: nowrap;">Timezone: Europe/Kyiv</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 10px; margin-bottom: 14px; width: 100%; box-sizing: border-box;">
+        <div style="flex: 1; min-width: 0; border: 1px solid #e4e4e4; border-radius: 8px; padding: 9px 12px; background: #f7f7f7; box-sizing: border-box;">
+          <div style="font-size: 9px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; white-space: nowrap;">TOTAL SCANNED</div>
+          <div style="font-size: 20px; font-weight: 800; color: #001e00; margin-top: 2px;">${totalScanned}</div>
+        </div>
+        <div style="flex: 1; min-width: 0; border: 1px solid #e4e4e4; border-radius: 8px; padding: 9px 12px; background: #f7f7f7; box-sizing: border-box;">
+          <div style="font-size: 9px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; white-space: nowrap;">MATCHED PROFILE</div>
+          <div style="font-size: 20px; font-weight: 800; color: #14a800; margin-top: 2px;">${matched}</div>
+        </div>
+        <div style="flex: 1; min-width: 0; border: 1px solid #e4e4e4; border-radius: 8px; padding: 9px 12px; background: #f7f7f7; box-sizing: border-box;">
+          <div style="font-size: 9px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; white-space: nowrap;">AI PROPOSALS</div>
+          <div style="font-size: 20px; font-weight: 800; color: #6366f1; margin-top: 2px;">${proposalsCount}</div>
+        </div>
+        <div style="flex: 1; min-width: 0; border: 1px solid #e4e4e4; border-radius: 8px; padding: 9px 12px; background: #f7f7f7; box-sizing: border-box;">
+          <div style="font-size: 9px; color: #5e6d55; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; white-space: nowrap;">TOP MATCH SCORE</div>
+          <div style="font-size: 20px; font-weight: 800; color: #e28a00; margin-top: 2px;">${topScore > 0 ? topScore : 'N/A'}</div>
+        </div>
+      </div>
+
+      ${keywordsBadgesHtml ? `
+      <div style="margin-bottom: 12px; width: 100%; box-sizing: border-box;">
+        <h3 style="font-size: 10.5px; font-weight: 700; color: #001e00; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.5px;">SEARCH KEYWORDS:</h3>
+        <div style="display: flex; gap: 6px; flex-wrap: wrap;">${keywordsBadgesHtml}</div>
+      </div>
+      ` : ''}
+
+      <div style="margin-bottom: 8px; width: 100%; box-sizing: border-box;">
+        <h3 style="font-size: 10.5px; font-weight: 700; color: #001e00; margin: 0; text-transform: uppercase; letter-spacing: 0.5px;">SELECTED JOBS FOR THE DAY:</h3>
+      </div>
+    `;
+
+    const pageContinuationTopHtml = `
+      <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #14a800; padding-bottom: 8px; margin-bottom: 12px; width: 100%; box-sizing: border-box;">
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="logo.png?v=4" alt="Upwork" style="height: 18px; width: auto; display: block; object-fit: contain;" />
+          <span style="font-size: 14px; color: #14a800; font-weight: 300;">|</span>
+          <span style="font-size: 13px; color: #001e00; font-weight: 700;">Daily Intelligence Report (Continued)</span>
+        </div>
+        <div style="font-size: 11px; color: #5e6d55; font-weight: 600;">
+          Date: ${escapeHtml(dateStr)} • Europe/Kyiv
+        </div>
+      </div>
+
+      <div style="margin-bottom: 8px; width: 100%; box-sizing: border-box;">
+        <h3 style="font-size: 10.5px; font-weight: 700; color: #001e00; margin: 0; text-transform: uppercase; letter-spacing: 0.5px;">SELECTED JOBS FOR THE DAY (Continued):</h3>
+      </div>
+    `;
 
     const element = document.getElementById('pdf-report-container');
     if (!element) return;
 
-    // Сохраняем исходный скролл и перемещаемся наверх, чтобы html2canvas запечатлел элемент без сдвига вьюпорта
     const prevScrollY = window.scrollY;
     window.scrollTo(0, 0);
 
-    // Делаем контейнер видимым для отрисовки в нормальном потоке документа (не absolute!)
     element.classList.remove('pdf-hidden');
     element.style.display = 'block';
     element.style.position = 'relative';
@@ -2162,73 +2205,147 @@
     element.style.opacity = '1';
     element.style.boxSizing = 'border-box';
 
+    // 2. Точный расчет высоты карточек и разбивка на отдельные страницы А4
+    const measureContainer = document.createElement('div');
+    measureContainer.style.position = 'fixed';
+    measureContainer.style.top = '-9999px';
+    measureContainer.style.left = '0';
+    measureContainer.style.width = '710px'; // 750px - 40px горизонтальный padding
+    measureContainer.style.visibility = 'hidden';
+    measureContainer.style.boxSizing = 'border-box';
+    measureContainer.style.fontFamily = "'Inter', Arial, sans-serif";
+    document.body.appendChild(measureContainer);
+
+    measureContainer.innerHTML = page1TopHtml;
+    const p1TopHeight = measureContainer.offsetHeight;
+
+    measureContainer.innerHTML = pageContinuationTopHtml;
+    const p2TopHeight = measureContainer.offsetHeight;
+
+    const cardHeights = jobsToInclude.map((job, idx) => {
+      measureContainer.innerHTML = buildJobCardHtml(job, idx + 1);
+      return measureContainer.offsetHeight;
+    });
+
+    document.body.removeChild(measureContainer);
+
+    // Доступная высота под карточки на странице (полная высота страницы А4 при 750px = 1061px, минус padding и footer)
+    const p1Available = Math.max(1003 - p1TopHeight, 400);
+    const p2Available = Math.max(1003 - p2TopHeight, 700);
+
+    const pages = [];
+    let currentPage = [];
+    let currentAvailable = p1Available;
+
+    for (let i = 0; i < jobsToInclude.length; i++) {
+      const h = cardHeights[i];
+      if (currentPage.length > 0 && h > currentAvailable) {
+        pages.push(currentPage);
+        currentPage = [{ job: jobsToInclude[i], globalIdx: i + 1 }];
+        currentAvailable = p2Available - h;
+      } else {
+        currentPage.push({ job: jobsToInclude[i], globalIdx: i + 1 });
+        currentAvailable -= h;
+      }
+    }
+    if (currentPage.length > 0) {
+      pages.push(currentPage);
+    }
+    if (pages.length === 0) {
+      pages.push([]);
+    }
+
+    const totalPages = pages.length;
+    let finalHtml = '';
+
+    pages.forEach((pageJobs, pageIdx) => {
+      const isFirst = pageIdx === 0;
+      const topHtml = isFirst ? page1TopHtml : pageContinuationTopHtml;
+      const jobsHtml = pageJobs.length > 0
+        ? pageJobs.map((item) => buildJobCardHtml(item.job, item.globalIdx)).join('')
+        : '<div style="color: #5e6d55; font-size: 12px; padding: 20px 0;">No matching jobs found today.</div>';
+
+      finalHtml += `
+      <div class="pdf-page" style="width: 750px; min-width: 750px; max-width: 750px; height: 1061px; min-height: 1061px; max-height: 1061px; padding: 16px 20px 14px 20px; box-sizing: border-box; background: #ffffff; color: #001e00; display: flex; flex-direction: column; justify-content: space-between; position: relative; overflow: hidden; margin: 0 auto ${pageIdx < totalPages - 1 ? '16px' : '0'};">
+        <div style="display: flex; flex-direction: column; flex: 1; min-height: 0; box-sizing: border-box; width: 100%;">
+          ${topHtml}
+          <div style="display: flex; flex-direction: column; width: 100%; box-sizing: border-box;">
+            ${jobsHtml}
+          </div>
+        </div>
+        <div style="height: 22px; min-height: 22px; border-top: 1px solid #e4e4e4; padding-top: 5px; display: flex; justify-content: space-between; align-items: center; font-size: 9.5px; color: #5e6d55; box-sizing: border-box; width: 100%; flex-shrink: 0;">
+          <div>Upwork Daily Intelligence Report • ${escapeHtml(dateStr)}</div>
+          <div>Page ${pageIdx + 1} of ${totalPages}</div>
+        </div>
+      </div>
+      `;
+    });
+
+    element.innerHTML = finalHtml;
+
     // Даем браузеру время для полного расчета геометрии и отрисовки шрифтов
     await new Promise((resolve) => setTimeout(resolve, 200));
 
-    const opt = {
-      margin: [10, 10, 10, 10],
-      filename: pdfFilename,
-      image: { type: 'jpeg', quality: 0.98 },
-      enableLinks: true,
-      html2canvas: {
-        scale: 2,
-        useCORS: true,
-        allowTaint: true,
-        logging: false,
-        letterRendering: true,
-        width: 750,
-        windowWidth: 750,
-        scrollY: 0,
-        scrollX: 0
-      },
-      jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
-    };
-
     try {
-      if (window.html2pdf) {
-        await window.html2pdf()
-          .set(opt)
-          .from(element)
-          .toPdf()
-          .get('pdf')
-          .then((pdf) => {
-            // Внедряем кликабельные PDF-аннотации (doc.link) для всех ссылок на вакансии
-            const elRect = element.getBoundingClientRect();
-            const scale = 190 / 750; // 190mm печатная область / 750px ширина контейнера
-            const marginX = 10;
-            const marginY = 10;
-            const pageHeightMm = 277; // 297mm - 20mm марджины
-
-            const links = element.querySelectorAll('a[href]');
-            links.forEach((a) => {
-              const rect = a.getBoundingClientRect();
-              const relX = rect.left - elRect.left;
-              const relY = rect.top - elRect.top;
-
-              const xMm = marginX + relX * scale;
-              const wMm = Math.max(rect.width * scale, 30);
-              const hMm = Math.max(rect.height * scale, 6);
-
-              const pageNum = Math.floor((relY * scale) / pageHeightMm) + 1;
-              const yPageMm = marginY + ((relY * scale) % pageHeightMm);
-
-              const url = a.getAttribute('href') || a.href;
-              if (url && url.startsWith('http')) {
-                try {
-                  pdf.setPage(pageNum);
-                  pdf.link(xMm - 1, yPageMm - 1, wMm + 2, hMm + 2, { url: url });
-                } catch (linkErr) {
-                  console.warn('PDF link injection warning:', linkErr);
-                }
-              }
-            });
-          })
-          .save();
-
-        showToast('PDF-отчет успешно скачан! 📥');
-      } else {
-        window.print();
+      const jsPdfModule = window.jspdf?.jsPDF || window.jsPDF;
+      if (!jsPdfModule || !window.html2canvas) {
+        throw new Error('Библиотеки PDF-экспорта не загружены');
       }
+
+      const pdf = new jsPdfModule({
+        unit: 'mm',
+        format: 'a4',
+        orientation: 'portrait'
+      });
+
+      const pageEls = element.querySelectorAll('.pdf-page');
+      for (let pIdx = 0; pIdx < pageEls.length; pIdx++) {
+        const pageEl = pageEls[pIdx];
+
+        const canvas = await window.html2canvas(pageEl, {
+          scale: 2,
+          useCORS: true,
+          allowTaint: false,
+          logging: false,
+          letterRendering: true,
+          width: 750,
+          height: 1061,
+          windowWidth: 750,
+          scrollY: 0,
+          scrollX: 0
+        });
+
+        if (pIdx > 0) {
+          pdf.addPage();
+        }
+
+        const imgData = canvas.toDataURL('image/jpeg', 0.98);
+        pdf.addImage(imgData, 'JPEG', 0, 0, 210, 297);
+
+        // Внедряем кликабельные ссылки для текущей страницы
+        const pageRect = pageEl.getBoundingClientRect();
+        const links = pageEl.querySelectorAll('a[href]');
+        links.forEach((a) => {
+          const aRect = a.getBoundingClientRect();
+          const xMm = ((aRect.left - pageRect.left) / pageRect.width) * 210;
+          const yMm = ((aRect.top - pageRect.top) / pageRect.height) * 297;
+          const wMm = (aRect.width / pageRect.width) * 210;
+          const hMm = (aRect.height / pageRect.height) * 297;
+
+          const url = a.getAttribute('href') || a.href;
+          if (url && url.startsWith('http')) {
+            try {
+              pdf.setPage(pIdx + 1);
+              pdf.link(xMm - 0.5, yMm - 0.5, Math.max(wMm + 1, 15), Math.max(hMm + 1, 4), { url: url });
+            } catch (linkErr) {
+              console.warn('PDF link injection warning:', linkErr);
+            }
+          }
+        });
+      }
+
+      pdf.save(pdfFilename);
+      showToast('PDF-отчет успешно скачан! 📥');
     } catch (err) {
       console.error('PDF export error:', err);
       showToast('Ошибка экспорта PDF. Открываем печать...');
@@ -2237,6 +2354,7 @@
       element.classList.add('pdf-hidden');
       element.style.display = 'none';
       element.style.position = '';
+      element.innerHTML = '';
       window.scrollTo(0, prevScrollY);
     }
   }
@@ -2594,6 +2712,7 @@
   }
 
   // Start Application
+  window.__appState = state;
   initTheme();
   bindEvents();
   fetchJobs();

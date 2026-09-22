@@ -1634,6 +1634,22 @@ body.theme-dark .period-btn.active {
   box-sizing: border-box;
 }
 
+.pdf-page {
+  width: 750px !important;
+  min-width: 750px !important;
+  max-width: 750px !important;
+  height: 1061px !important;
+  min-height: 1061px !important;
+  max-height: 1061px !important;
+  box-sizing: border-box !important;
+  background: #ffffff !important;
+  color: #001e00 !important;
+  position: relative !important;
+  overflow: hidden !important;
+  page-break-after: always !important;
+  break-after: page !important;
+}
+
 @media print {
   body {
     background: #ffffff !important;
