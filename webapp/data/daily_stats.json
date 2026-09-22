@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 54,
-  "matchedFilters": 15,
+  "totalScanned": 55,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 7598,
       "url": "https://www.upwork.com/jobs/~022102330149141178298",
       "addedAt": "2026-09-22T09:35:18.789Z"
+    },
+    {
+      "title": "Website Clone with Custom Sell Section",
+      "budget": "$25-$45/hr",
+      "score": 4500,
+      "url": "https://www.upwork.com/jobs/~022102365650053195706",
+      "addedAt": "2026-09-22T11:55:14.802Z"
     },
     {
       "title": "Senior WordPress Developer - ACF Pro, PageSpeed, PHP & Technical SEO",

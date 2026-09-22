@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102365650053195706",
+    "ciphertext": "~022102365650053195706",
+    "title": "Website Clone with Custom Sell Section",
+    "description": "Create a website clone with a new logo and only a “Buy” and “Sell” menu tab. Most of the content will be based on an existing website, but the “Sell” section for virtual goods needs to be custom built. The project is straightforward and should take only 1 or 2 days to complete.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$25 - $45/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "javascript"
+    ],
+    "score": 4500,
+    "coverLetter": "Hi! \n\nI can quickly clone the target website, update the branding with your new logo, and build out the streamlined \"Buy\" and \"Sell\" menu structure you need. \n\nGiven your requirement for a custom virtual goods \"Sell\" section, I can leverage my expertise in custom PHP, JavaScript, and WordPress backend logic to build a smooth, secure submission and checkout flow tailored specifically for digital assets. I've built custom interactive sections and handled similar rapid turnaround projects successfully—you can see some of my recent work at https://about.offerup.com/. \n\nSince this is a straightforward 1-2 day project, when would you like to share the reference site and the new logo so I can get started right away?",
+    "publishedDateTime": "2026-09-22T11:54:00+0000",
+    "addedAt": "2026-09-22T11:55:16.010Z",
+    "url": "https://www.upwork.com/jobs/~022102365650053195706",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102365650053195706/apply/"
+  },
+  {
     "id": "2102301357763924511",
     "ciphertext": "~022102301357763924511",
     "title": "Ecommerce Website Developer Needed",
