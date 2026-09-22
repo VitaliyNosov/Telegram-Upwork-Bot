@@ -1,5 +1,35 @@
 [
   {
+    "id": "2102506927109054756",
+    "ciphertext": "~022102506927109054756",
+    "title": "Web Developer for Website Maintenance",
+    "description": "Responsibilities may include developing and improving website pages and features, updating existing content, layouts, and functionality, troubleshooting and fixing technical issues, optimizing website performance and responsiveness, maintaining integrations, applications, and third-party services, implementing changes requested for current client projects, testing all updates before deployment, and providing general technical support and preventive maintenance.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "javascript",
+      "python",
+      "mysql"
+    ],
+    "score": 0,
+    "coverLetter": "Hi!\n\nI read through your maintenance requirements and can help you keep your web properties running smoothly, securely, and fast. With strong expertise in PHP, JavaScript, MySQL, and WordPress core maintenance, I routinely handle site improvements, bug fixes, performance optimization, and third-party integrations. \n\nWhether it's deploying new page layouts, troubleshooting technical bottlenecks, or performing preventive maintenance, I rigorously test all updates in staging environments before pushing them live to ensure zero downtime. You can see examples of my recent work on high-performing sites like https://www.snopud.com/ and https://waapple.org/.\n\nWhat specific frameworks, CMS, or platforms are your current client projects built on? Let’s connect to discuss how I can support your ongoing development queue.",
+    "publishedDateTime": "2026-09-22T21:23:37+0000",
+    "addedAt": "2026-09-22T21:25:15.158Z",
+    "url": "https://www.upwork.com/jobs/~022102506927109054756",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102506927109054756/apply/"
+  },
+  {
     "id": "2102499605958676933",
     "ciphertext": "~022102499605958676933",
     "title": "WordPress Website Migration and Complete Ownership Transfer",
