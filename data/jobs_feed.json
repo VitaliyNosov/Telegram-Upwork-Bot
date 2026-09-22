@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102440651677290949",
+    "ciphertext": "~022102440651677290949",
+    "title": "Urgent WordPress WooCommerce Website Repair",
+    "description": "We need an experienced WordPress/WooCommerce developer or IT specialist to urgently diagnose and repair our website, RevactaLabs.com, which is currently down and not loading properly.\n\nThe site previously showed a PHP/WordPress warning involving:\n\nWP_USE_THEMES already defined\n\nWe also previously discovered suspicious spam/casino pages indexed under our domain, so we need someone who can check for malware, compromised files, plugin/theme conflicts, corrupted WordPress core files, PHP errors, database issues, and hosting/server problems.\n\nWe need someone who can:\n\nRestore the website and WooCommerce store as quickly as possible\nCheck server and PHP error logs\nDiagnose the WP_USE_THEMES issue\nInspect index.php, wp-config.php, theme files, plugins, and WordPress core files\nScan for malware or injected spam pages\nCheck for unauthorized admin users or modified files\nConfirm the database is functioning properly\nMake sure the shopping cart, checkout, and payment flow work correctly\nRemove any malicious or spam content without damaging legitimate product pages\nAvoid overwriting current WooCommerce data\nImprove security so the problem does not happen again\n\nHostinger hosting experience and strong WooCommerce troubleshooting experience are preferred.\n\nThis is an urgent project, so please only apply if you can start immediately and have experience repairing WordPress sites that are completely down.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.86,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "wordpress-plugin",
+      "wp-ecommerce"
+    ],
+    "score": 147,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-22T16:56:28+0000",
+    "addedAt": "2026-09-22T16:57:43.699Z",
+    "url": "https://www.upwork.com/jobs/~022102440651677290949",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102440651677290949/apply/"
+  },
+  {
     "id": "2102425342089770638",
     "ciphertext": "~022102425342089770638",
     "title": "Website for short term rental company",

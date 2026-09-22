@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 80,
-  "matchedFilters": 19,
+  "totalScanned": 81,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 19
+    "wordpress developer": 20
   },
   "topJobs": [
     {
@@ -97,6 +97,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022102264214014408411",
       "addedAt": "2026-09-22T05:13:10.939Z"
+    },
+    {
+      "title": "Urgent WordPress WooCommerce Website Repair",
+      "budget": "Fixed-price",
+      "score": 147,
+      "url": "https://www.upwork.com/jobs/~022102440651677290949",
+      "addedAt": "2026-09-22T16:57:16.837Z"
     },
     {
       "title": "Web developer + product consultant to launch and polish travel web app",
