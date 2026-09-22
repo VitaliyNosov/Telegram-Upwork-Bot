@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 33,
-  "matchedFilters": 8,
+  "totalScanned": 34,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3649,
       "url": "https://www.upwork.com/jobs/~022102232119947613355",
       "addedAt": "2026-09-22T06:05:17.755Z"
+    },
+    {
+      "title": "Wordpress Techniker",
+      "budget": "$15-$25/hr",
+      "score": 2650,
+      "url": "https://www.upwork.com/jobs/~022102288913221907154",
+      "addedAt": "2026-09-22T06:51:28.208Z"
     },
     {
       "title": "Redesign the website for a cannabis brand",

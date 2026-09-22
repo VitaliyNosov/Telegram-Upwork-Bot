@@ -1,5 +1,38 @@
 [
   {
+    "id": "2102288913221907154",
+    "ciphertext": "~022102288913221907154",
+    "title": "Wordpress Techniker",
+    "description": "WordPress / Website Technician – German Native Speaker – Long-Term Collaboration\n\nWe are a digital agency specializing in web design, online marketing, and AI solutions. We are looking for a reliable German-speaking WordPress / Website Technician to support us long-term with the ongoing technical needs of our website maintenance clients.\n\nFor this position, we are specifically looking for a German native speaker, as some communication with our clients, hosting providers, and other German service providers will be in German.\n\nThis role is not primarily about building complete websites from scratch. We are looking for someone who can reliably handle the recurring technical tasks, requests, fixes, and smaller changes that come up across our existing client websites.\n\nYour responsibilities\nOngoing technical maintenance of WordPress websites\nWordPress, theme, and plugin updates\nTroubleshooting and bug fixing\nSmall changes to existing websites\nWorking with Elementor / Elementor Pro\nFixing responsive and layout issues\nPageSpeed and performance optimization\nPlugin configuration and troubleshooting\nBackups and website migrations\nHosting, domain, DNS, and SSL-related tasks\nSMTP and email deliverability setup/troubleshooting\nContact form issues, including Contact Form 7\nCookie consent and tracking implementations\nBasic technical SEO tasks\nWordPress security checks and troubleshooting\nWooCommerce-related issues\nGeneral technical requests from our maintenance clients\nWhat we are looking for\n\nWe need someone who is reliable, responsive, technically experienced, and solution-oriented. Many of the requests from our maintenance clients are relatively small, but they need to be handled quickly and properly.\n\nYou should have a strong understanding of WordPress and the technical environment around websites and be able to independently investigate problems and find solutions.\n\nWe are specifically interested in a long-term collaboration. We don't want to find a new freelancer for every individual task. Our goal is to have a reliable technical person who becomes familiar with our websites, clients, systems, and internal processes over time.\n\nRequirements\nNative German speaker\nGood English communication skills\nStrong WordPress experience\nExperience with Elementor / Elementor Pro\nGood understanding of hosting, domains, DNS, SSL, and SMTP\nExperience with website performance and PageSpeed optimization\nBasic knowledge of HTML, CSS, PHP, and JavaScript\nExperience with WordPress security, backups, and migrations\nWooCommerce experience is a plus\nIndependent and structured way of working\nReliable availability and quick response times\n\nWhen applying, please tell us briefly about your WordPress experience, the hosting providers and tools you regularly work with, your weekly availability, your hourly rate, and whether you are interested in a long-term collaboration.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$15 - $25/hr",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design",
+      "css",
+      "html",
+      "wordpress-plugin",
+      "javascript"
+    ],
+    "score": 2650,
+    "coverLetter": "Hi! (Note: While I am writing this in English as requested, I am a native German speaker and fully fluent in both languages for seamless client and hosting provider communication).\n\nI would love to partner with your agency long-term as your go-to WordPress technician. I specialize in ongoing site maintenance, fast troubleshooting, performance optimization, and daily technical tasks just like the ones you outlined—from resolving Elementor layout bugs and SMTP issues to managing DNS, migrations, and WooCommerce fixes. \n\nIn my recent work, including sites like https://www.seeintl.org/, I focus on clean code, secure updates, and reliable, quick-turnaround support. \n\nTo answer your specific questions: I have extensive hands-on WordPress, PHP, and JavaScript experience, regularly work with cPanel, WP-Engine, SiteGround, DNS managers, and migration tools, and can dedicate [Insert Availability] hours per week at an hourly rate of $[Insert Rate]. \n\nAre you available for a quick chat this week to discuss your maintenance workflow?",
+    "publishedDateTime": "2026-09-22T06:49:12+0000",
+    "addedAt": "2026-09-22T06:51:29.642Z",
+    "url": "https://www.upwork.com/jobs/~022102288913221907154",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102288913221907154/apply/"
+  },
+  {
     "id": "2102232119947613355",
     "ciphertext": "~022102232119947613355",
     "title": "Senior WordPress Plugin Developer: Reusable Gallery with Connected Treatment-Page Results",
