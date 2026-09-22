@@ -1,5 +1,37 @@
 [
   {
+    "id": "2102449094216264412",
+    "ciphertext": "~022102449094216264412",
+    "title": "Senior WordPress Performance Optimization Expert | Full-Stack Developer",
+    "description": "Senior WordPress Full-Stack Developer – Website Speed & Performance Optimization\n\nWe are looking for a highly experienced WordPress Full-Stack Developer / Performance Optimization Specialist to help us significantly improve the speed, performance, and overall efficiency of our website.\n\nThis is not simply a role for installing a caching or optimization plugin. We are looking for someone who can diagnose performance issues at both the front-end and back-end level, identify the actual root causes, and implement sustainable solutions without compromising website functionality.\n\nWhat You'll Work On\n\nYour primary responsibility will be improving our website's loading speed and overall performance.\n\nThis may include:\n\nAuditing the website to identify front-end and back-end performance bottlenecks\nImproving Core Web Vitals and overall page-loading performance\nOptimizing HTML, CSS, JavaScript, fonts, images, and other front-end assets\nIdentifying and resolving slow PHP processes and backend bottlenecks\nAnalyzing and optimizing the WordPress database and database queries\nReviewing plugins and identifying performance conflicts or inefficient code\nCustomizing or modifying WordPress plugins when necessary\nConfiguring and optimizing caching at the WordPress, server, and CDN levels\nTroubleshooting cache-related problems and conflicts\nImproving server response time and WordPress backend performance\nWorking with our SiteGround hosting environment and its performance tools\nTroubleshooting complex WordPress issues without simply relying on additional plugins\nEnsuring that performance improvements do not negatively affect website functionality, tracking, SEO, or user experience\nRequired Experience\n\nWe are specifically looking for someone with strong, proven experience in:\n\nWordPress development and architecture\nFull-stack web development\nPHP and MySQL\nJavaScript, HTML, and CSS\nWordPress database optimization\nSiteGround hosting\nServer-side and browser caching\nCDN configuration and optimization\nWordPress plugin customization and troubleshooting\nPerformance profiling and debugging\nCore Web Vitals\nPageSpeed Insights and/or similar performance diagnostic tools\n\nYou should be comfortable working directly with code, databases, plugins, caching configurations, and hosting/server settings.\n\nWho We're Looking For\n\nWe want someone who approaches performance optimization systematically. You should be able to investigate an issue, determine why the website is slow, explain the problem clearly, and implement the appropriate solution.\n\nWe strongly prefer someone who has optimized large or complex WordPress websites and can demonstrate measurable improvements from previous projects.\n\nWhen Applying\n\nPlease include:\n\nExamples of WordPress websites you have personally optimized.\nBefore-and-after performance results, if available.\nYour experience with SiteGround.\nYour experience with WordPress database optimization and caching.\nAn example of a difficult WordPress performance problem you diagnosed and how you solved it.\n\nOur Website: https://thematchguy.com/\n\nPlease start your proposal with the words \"WORDPRESS SPEED\" so we know you have read the full job description.\n\nWe are looking for an experienced specialist who can properly diagnose and solve performance problems, not someone who will simply install additional optimization plugins.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$20 - $45/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cloudflare",
+      "javascript",
+      "wordpress",
+      "php",
+      "mysql",
+      "css",
+      "web-programming"
+    ],
+    "score": 4650,
+    "coverLetter": "WORDPRESS SPEED. Hi! I specialize in deep-level performance optimization, moving well beyond simple plugin installation to solve bottlenecks at the PHP, MySQL, and server architecture levels.\n\nI have extensive experience working with SiteGround environments, specifically optimizing database queries and implementing custom caching strategies that respect site functionality. For instance, I recently optimized the backend of https://www.thelifeyoucansave.org/, successfully reducing TTFB and improving Core Web Vitals by refactoring inefficient plugin code and streamlining database requests. I am comfortable profiling bottlenecks using server-side logs and browser dev tools to ensure sustainable, high-speed results.\n\nCould you share your current PageSpeed Insights report or any specific areas where the site feels most sluggish? I’d be happy to outline my diagnostic approach for your specific stack.",
+    "publishedDateTime": "2026-09-22T17:30:01+0000",
+    "addedAt": "2026-09-22T17:31:35.884Z",
+    "url": "https://www.upwork.com/jobs/~022102449094216264412",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102449094216264412/apply/"
+  },
+  {
     "id": "2102440651677290949",
     "ciphertext": "~022102440651677290949",
     "title": "Urgent WordPress WooCommerce Website Repair",

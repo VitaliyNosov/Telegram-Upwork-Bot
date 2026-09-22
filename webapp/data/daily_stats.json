@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 85,
-  "matchedFilters": 20,
+  "totalScanned": 86,
+  "matchedFilters": 21,
   "byKeyword": {
-    "wordpress developer": 20
+    "wordpress developer": 21
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 7598,
       "url": "https://www.upwork.com/jobs/~022102330149141178298",
       "addedAt": "2026-09-22T09:35:18.789Z"
+    },
+    {
+      "title": "Senior WordPress Performance Optimization Expert | Full-Stack Developer",
+      "budget": "$20-$45/hr",
+      "score": 4650,
+      "url": "https://www.upwork.com/jobs/~022102449094216264412",
+      "addedAt": "2026-09-22T17:31:22.632Z"
     },
     {
       "title": "Website Clone with Custom Sell Section",
