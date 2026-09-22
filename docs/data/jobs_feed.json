@@ -1,5 +1,38 @@
 [
   {
+    "id": "2102453505542365090",
+    "ciphertext": "~022102453505542365090",
+    "title": "Wordpress Developer (Elementor + ACF)",
+    "description": "DO NOT CONTACT VIA EMAIL. WILL NOT RESPOND.\n\nBuild 5 pages in Wordpress using Elementor with Advanced Custom Fields. \n\nHigh-fidelity design mockups with placeholder content will be provided. Two of these are page templates (Topics and Blog posts).\n\nPosts and content must be manageable by non-tech savvy person.\n\nThis does NOT require a full website build, only building the infrastructure and 5 pages (homepage, topics, topic template, blogs, blog template).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.73,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor",
+      "web-programming",
+      "mailchimp",
+      "css",
+      "php",
+      "web-design",
+      "wordpress-website"
+    ],
+    "score": 145,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-22T17:47:37+0000",
+    "addedAt": "2026-09-22T17:49:33.550Z",
+    "url": "https://www.upwork.com/jobs/~022102453505542365090",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102453505542365090/apply/"
+  },
+  {
     "id": "2102450366705606562",
     "ciphertext": "~022102450366705606562",
     "title": "WordPress Elementor Developer — Mobile Fixes and Speed Optimization",
