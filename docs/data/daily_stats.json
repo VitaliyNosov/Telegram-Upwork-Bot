@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 32,
-  "matchedFilters": 7,
+  "totalScanned": 33,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4145,
       "url": "https://www.upwork.com/jobs/~022102269228582491307",
       "addedAt": "2026-09-22T05:33:09.937Z"
+    },
+    {
+      "title": "Senior WordPress Plugin Developer: Reusable Gallery with Connected Treatment-Page Results",
+      "budget": "$20-$35/hr",
+      "score": 3649,
+      "url": "https://www.upwork.com/jobs/~022102232119947613355",
+      "addedAt": "2026-09-22T06:05:17.755Z"
     },
     {
       "title": "Redesign the website for a cannabis brand",
