@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102264214014408411",
+    "ciphertext": "~022102264214014408411",
+    "title": "WordPress Developer for SEO",
+    "description": "We need an expert WordPress developer to improve our website’s onsite SEO and AI readiness. The work includes auditing existing pages, optimizing content structure, improving page speed, and implementing technical fixes that support better search visibility. You should be able to identify issues, recommend practical improvements, and execute changes that help the site perform well in search and AI-driven environments. Experience with WordPress, SEO, and performance optimization is essential.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "wordpress",
+      "web-programming",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nI can help optimize your WordPress site for both traditional search engines and AI-driven environments. \n\nMy approach combines deep technical WordPress expertise with performance tuning—two critical factors for modern onsite SEO and AI readiness. I specialize in auditing content structures, fixing technical roadblocks, and optimizing Core Web Vitals to ensure fast loading times and clean code that search crawlers easily index. For instance, I recently optimized high-traffic sites like https://www.thelifeyoucansave.org/ for better performance and structural integrity. \n\nBeyond speed optimization, I can clean up your page architecture, implement necessary technical fixes, and ensure your database and theme are running at peak efficiency to support your visibility goals.\n\nAre you currently using a specific SEO or schema plugin, or should we review your setup from scratch during an initial audit?",
+    "publishedDateTime": "2026-09-22T05:11:32+0000",
+    "addedAt": "2026-09-22T05:13:12.201Z",
+    "url": "https://www.upwork.com/jobs/~022102264214014408411",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102264214014408411/apply/"
+  },
+  {
     "id": "2102257805844849603",
     "ciphertext": "~022102257805844849603",
     "title": "Web developer + product consultant to launch and polish travel web app",
