@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102509243164840389",
+    "ciphertext": "~022102509243164840389",
+    "title": "Skilled WordPress and Elementor developer for launch project and ongoing work (UK agency)",
+    "description": "We're a UK digital agency established in 2005, building and supporting websites for clients across the UK, Europe and the US.\n\nWe need a skilled WordPress developer to work alongside our lead developer, Gabriel, on a site launching on 3 November 2026. If it goes well, there is regular work on other client projects after that.\n\nThe project\nA WordPress site built by another agency for a UK manufacturer. It needs work before it can launch safely:\n\nFixing launch-critical issues from our pre-launch review\nFixing the site's internal search\nBuilding new pages in Elementor from Photoshop and Figma designs\nSetting up redirects from the old site from a URL inventory\nTechnical SEO fixes: metadata, canonicals, sitemaps, indexing\nPerformance and accessibility fixes (proper fixes, not overlay plugins)\nHelping with the server move and DNS switch at launch\n\nAfter launch, there is ongoing maintenance and development on this site.\n\nOther work\nNew builds, site takeovers, migrations and support across our client base, including WooCommerce.\n\nYou should have\n\nSeveral years of professional WordPress development\nStrong PHP, custom themes and plugins, custom post types and ACF\nStrong Elementor experience, building accurate pages from Figma and Photoshop files\nConfidence working on code written by someone else\nExperience with redirects and migrations without losing search rankings\nGood written English and clear updates on progress and blockers\nAvailability in UK or European working hours\n\nHow we'll hire - IMPORTANT\nWe'll start with a short paid task so we can see how you work. If that goes well, you'll move straight onto the project.\n\nIndividuals only. We don't work with agencies. Please don't contact us by email, phone, LinkedIn or WhatsApp. Apply through Upwork only. anyone contacting outside Upwork will be reported.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 446,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "elementor",
+      "page-speed-optimization",
+      "seo-audit"
+    ],
+    "score": 3697,
+    "coverLetter": "Hi! \n\nI’m a senior WordPress developer with extensive experience building and refining complex sites during pre-launch phases, and I’m fully available for UK/European working hours. \n\nI frequently step into codebases built by other agencies to fix critical launch blockers, rebuild precise pages from Figma and Photoshop files in Elementor, and handle clean technical SEO, internal search fixes, and seamless server/redirect migrations without dropping rankings. I also write clean custom PHP, ACF, and code-based performance/accessibility fixes—no heavy overlay plugins. You can view some of my recent client work here: https://www.thelifeyoucansave.org/\n\nI’m completely comfortable starting with a short paid trial task to prove my workflow. \n\nShall we chat about the details of the test task and the November launch?",
+    "publishedDateTime": "2026-09-22T21:29:01+0000",
+    "addedAt": "2026-09-22T21:31:42.133Z",
+    "url": "https://www.upwork.com/jobs/~022102509243164840389",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102509243164840389/apply/"
+  },
+  {
     "id": "2102506927109054756",
     "ciphertext": "~022102506927109054756",
     "title": "Web Developer for Website Maintenance",
