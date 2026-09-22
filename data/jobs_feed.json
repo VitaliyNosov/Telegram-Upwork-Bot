@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102330149141178298",
+    "ciphertext": "~022102330149141178298",
+    "title": "WordPress Server & Hosting Expert",
+    "description": "We are an established Australian digital agency looking for an experienced server/hosting specialist to provide ongoing technical support for our client websites.\n\nWe manage and host multiple WordPress websites and already have web developers, so this is not primarily a website development role.\n\nWe are looking for someone who is very experienced with the technical/server side and can step in when we have hosting, DNS, email or server-related issues.\n\nWhat we are looking for\n\nWe want someone who:\n\nHas strong server administration and WordPress hosting experience\nCan troubleshoot problems rather than simply follow instructions\nUnderstands DNS and email configuration extremely well\nIs comfortable dealing with urgent website issues\nCommunicates clearly in English\nIs reliable and responsive\nCan explain technical problems in simple terms\nIs interested in an ongoing relationship rather than just one project\n\nThis would start with a few tasks so we can see how we work together. If it is a good fit, we would like this person to become our regular server/hosting specialist.",
+    "isHourly": true,
+    "hourlyBudgetMin": 35,
+    "hourlyBudgetMax": 75,
+    "budgetDisplay": "$35 - $75/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 108,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "cpanel",
+      "web-hosting",
+      "web-host-manager"
+    ],
+    "score": 7598,
+    "coverLetter": "Hi! \n\nI’d love to support your Australian digital agency as your go-to WordPress server and hosting specialist. \n\nWhile my core background is in WordPress development, I bring extensive hands-on experience handling the critical technical infrastructure that keeps client sites running smoothly. I regularly troubleshoot server-level errors (like 500 errors and memory limits), configure complex DNS and email delivery issues, manage migrations, and optimize hosting performance using WP-CLI, cPanel, and WHM. \n\nBecause I understand both the server environment and WordPress architecture, I can quickly diagnose root causes during urgent issues—whether it's a sudden downtime, a routing conflict, or a stubborn email configuration—and explain the fix clearly. \n\nAre you currently using cPanel/WHM for your server management stack, and how many client sites are you looking to support initially? Let's connect to test things out on a few tasks.",
+    "publishedDateTime": "2026-09-22T09:33:21+0000",
+    "addedAt": "2026-09-22T09:35:20.303Z",
+    "url": "https://www.upwork.com/jobs/~022102330149141178298",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102330149141178298/apply/"
+  },
+  {
     "id": "2102278414866412242",
     "ciphertext": "~022102278414866412242",
     "title": "Expert Needed For WordPress Web Development",
