@@ -1,5 +1,36 @@
 [
   {
+    "id": "2102301357763924511",
+    "ciphertext": "~022102301357763924511",
+    "title": "Ecommerce Website Developer Needed",
+    "description": "We are looking for an experienced WordPress Ecommerce Developer to build and customize a professional, modern, and user-friendly ecommerce website.\n\nThe ideal candidate should have strong experience with WordPress, WooCommerce, Elementor, responsive design, payment gateway integration, and website optimization. You should be able to take our requirements and turn them into a clean, functional, and conversion-focused online store.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "ecommerce-consulting",
+      "woocommerce",
+      "web-design",
+      "html"
+    ],
+    "score": 2750,
+    "coverLetter": "Hi!\n\nI would love to help you build and customize your new WooCommerce store. With extensive experience in WordPress, WooCommerce, and Elementor, I specialize in turning requirements into clean, fast, and conversion-focused online shops. \n\nBeyond just getting the site up and running, I focus heavily on responsive design, seamless payment gateway integrations, and speed optimization to ensure your customers have a friction-free shopping experience from landing page to checkout. You can review a recent WordPress build I completed here: https://www.thelifeyoucansave.org/.\n\nWhen do you ideally want to launch this store, and do you already have your design mockups and payment gateways selected? Let’s chat about your requirements!",
+    "publishedDateTime": "2026-09-22T10:38:01+0000",
+    "addedAt": "2026-09-22T10:41:15.932Z",
+    "url": "https://www.upwork.com/jobs/~022102301357763924511",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102301357763924511/apply/"
+  },
+  {
     "id": "2102337007559656828",
     "ciphertext": "~022102337007559656828",
     "title": "WordPress Redesign Specialist (7-8 pages)",

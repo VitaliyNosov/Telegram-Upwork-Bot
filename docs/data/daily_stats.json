@@ -1,10 +1,10 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 51,
-  "matchedFilters": 14,
+  "totalScanned": 53,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 3500,
       "url": "https://www.upwork.com/jobs/~022102278414866412242",
       "addedAt": "2026-09-22T09:07:23.893Z"
+    },
+    {
+      "title": "Ecommerce Website Developer Needed",
+      "budget": "$12-$27/hr",
+      "score": 2750,
+      "url": "https://www.upwork.com/jobs/~022102301357763924511",
+      "addedAt": "2026-09-22T10:41:14.554Z"
     },
     {
       "title": "Wordpress Techniker",
