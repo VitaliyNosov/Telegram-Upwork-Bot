@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102464429842112804",
+    "ciphertext": "~022102464429842112804",
+    "title": "Wordpress site update",
+    "description": "Need an adminster to update wordpress website.  Typical tasks would be to optimize for PC and mobile, update new information, general look and feel, etc.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 193,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "php",
+      "web-programming"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I can help you update, refresh, and optimize your WordPress site for both desktop and mobile users. \n\nWith extensive experience in WordPress development, site maintenance, and performance optimization, I regularly handle tasks like updating content, refining the overall look and feel, and ensuring fast loading speeds across all devices. Whether it's layout tweaks, responsive design fixes, or general upkeep, I focus on clean execution and keeping your site running smoothly. \n\nFor a look at my previous work, you can check out https://www.thelifeyoucansave.org/, which showcases my standard for clean, professional WordPress builds.\n\nWhen are you looking to get started, and do you have a specific list of updates ready to go?",
+    "publishedDateTime": "2026-09-22T18:27:22+0000",
+    "addedAt": "2026-09-22T18:29:28.444Z",
+    "url": "https://www.upwork.com/jobs/~022102464429842112804",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102464429842112804/apply/"
+  },
+  {
     "id": "2102463642628069527",
     "ciphertext": "~022102463642628069527",
     "title": "WooCommerce Website Developer and SEO",
