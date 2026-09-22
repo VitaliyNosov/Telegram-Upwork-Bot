@@ -1,12 +1,19 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 21,
-  "matchedFilters": 2,
+  "totalScanned": 22,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "Redesign the website for a cannabis brand",
+      "budget": "Fixed-price",
+      "score": 199,
+      "url": "https://www.upwork.com/jobs/~022102232549313417759",
+      "addedAt": "2026-09-22T03:07:14.007Z"
+    },
     {
       "title": "Copy WordPress Site to Google Sites",
       "budget": "Fixed-price",

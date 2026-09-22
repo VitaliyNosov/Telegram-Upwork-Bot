@@ -1,5 +1,38 @@
 [
   {
+    "id": "2102232549313417759",
+    "ciphertext": "~022102232549313417759",
+    "title": "Redesign the website for a cannabis brand",
+    "description": "We are First State Gardens (FSG), a cannabis cultivation brand based in Delaware. We have an existing WordPress website and are looking for an experienced designer/developer to completely redesign it into a unique, modern, high-impact brand experience.\n\nOur current website is firststategardens.com.\n\nThe site is built with WordPress + Elementor, and we want to continue using Elementor so our internal team can easily maintain and update the website after launch.\n\nDesign Direction\n\nWe are NOT looking for a generic cannabis website or a pre-made WordPress template.\n\nWe want a distinctive underground / street-art / industrial / “trap house” inspired aesthetic, while still feeling premium, professional and extremely easy to navigate.\n\nOur visual direction includes graffiti/brush typography, torn-paper textures, dark cultivation imagery, oversized product photography, subtle animation, depth/3D elements and unexpected transitions between sections.\n\nThe finished site should feel custom to FSG rather than following the same design trends used by every cannabis company.\n\nWe already have logos, brand assets, product packaging, strain photography and other creative assets that can be provided.\n\nWebsite Scope\n\nWe expect the redesigned website to include the Homepage, Strains/Flower library, individual strain pages, Products, Cultivation/Our Process, About FSG, Where to Find Us, Contact and other supporting pages as needed.\n\nStrain pages should be visually rich and capable of displaying flower photography, strain type, genetics, THC/testing information, terpene/flavor information, descriptions and related products.\n\nWe would also like tasteful motion throughout the site—scroll effects, text reveals, image movement, hover interactions, transitions and potentially lightweight 3D effects—but performance is more important than unnecessary animation.\n\nMobile First\n\nApproximately 95% of our visitors are expected to access the website from mobile devices, so this needs to be designed mobile-first rather than creating a desktop site and simply shrinking it.\n\nMobile performance, responsive typography, touch interactions, image optimization and Core Web Vitals are extremely important.\n\nMerchandise / E-Commerce\n\nWe also want to sell FSG branded merchandise directly through the website, including items such as T-shirts, hoodies, hats, beanies and other accessories.\n\nWe would like the merchandise store built using WooCommerce and visually integrated into the FSG website rather than looking like a separate generic online store.\n\nThe store should include product/category pages, variations such as size/color, inventory management, cart, checkout, payment integration, shipping configuration, order emails and responsive mobile checkout.\n\nWe are selling branded merchandise—not cannabis through the website.\n\nTechnical Requirements\n\nStrong experience with WordPress, Elementor/Elementor Pro and WooCommerce is required. You should also be comfortable with custom CSS/JavaScript where necessary rather than relying entirely on Elementor widgets.\n\nThe website should be lightweight and optimized. We do not want dozens of unnecessary WordPress plugins or heavy animation libraries that negatively affect mobile performance.\n\nThe finished website must be easy for our team to update through Elementor/WooCommerce without needing a developer for normal content changes.\n\nWho We're Looking For\n\nWe are especially interested in designers who have experience with highly visual brands such as cannabis, streetwear, music, nightlife, fashion, beverages or lifestyle brands.\n\nStrong design ability is just as important as development ability for this project.\n\nPlease do not send us a list of 30 generic WordPress websites.\n\nWhen applying, please send 3–5 examples of your strongest highly customized websites, especially projects involving unusual layouts, animation, streetwear/lifestyle branding, WooCommerce or strong mobile experiences.\n\nPlease also briefly explain how you would approach making the FSG website feel unique while keeping it fast on mobile.\n\nDeliverables\n\nComplete responsive FSG website redesign in Elementor, reusable global styles/components, WooCommerce merchandise store, mobile optimization, performance optimization, basic on-page SEO structure, cross-browser testing and deployment to our existing WordPress environment.\n\nWe will provide the existing website, logos/brand assets, product information, photography and design references.\n\nImportant: We are looking for someone capable of creating a custom visual experience, not installing a theme and replacing the logo/colors.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "php",
+      "woocommerce",
+      "javascript",
+      "css3",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 199,
+    "coverLetter": "Hi First State Gardens team! \n\nTo make your site feel custom and stand out from generic cannabis branding while maintaining lightning-fast mobile performance, my approach centers on custom CSS/JS layered strategically inside Elementor Pro—avoiding bloated plugins and heavy animation libraries. I build bespoke, highly visual layouts optimized from the ground up for mobile-first touch interactions and Core Web Vitals, while ensuring your internal team can still easily manage content. \n\nWith deep expertise in WordPress, Elementor, and WooCommerce, I frequently build high-impact, custom-styled digital experiences for lifestyle and brand-focused clients. A strong example of my custom layout and performance work can be seen at https://about.offerup.com/. \n\nI’d love to help bring your underground, industrial FSG aesthetic to life. When are you looking to kick this off?",
+    "publishedDateTime": "2026-09-22T03:05:22+0000",
+    "addedAt": "2026-09-22T03:07:15.665Z",
+    "url": "https://www.upwork.com/jobs/~022102232549313417759",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102232549313417759/apply/"
+  },
+  {
     "id": "2102158123424812165",
     "ciphertext": "~022102158123424812165",
     "title": "Copy WordPress Site to Google Sites",
