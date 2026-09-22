@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
   "lastDigestSentDate": "2026-09-22",
-  "totalScanned": 2,
-  "matchedFilters": 2,
+  "totalScanned": 3,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3697,
       "url": "https://www.upwork.com/jobs/~022102509243164840389",
       "addedAt": "2026-09-22T21:31:40.716Z"
+    },
+    {
+      "title": "WordPress/Elementor Developer to Build 12 Child Pages from Existing Templates",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022102515086208835490",
+      "addedAt": "2026-09-22T21:49:17.605Z"
     },
     {
       "title": "Web Developer for Website Maintenance",

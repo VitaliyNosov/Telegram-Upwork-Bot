@@ -1,5 +1,35 @@
 [
   {
+    "id": "2102515086208835490",
+    "ciphertext": "~022102515086208835490",
+    "title": "WordPress/Elementor Developer to Build 12 Child Pages from Existing Templates",
+    "description": "We have a working WordPress site built in Elementor, with a set of designed pages and templates working. We need an experienced Elementor developer to build 12 new child pages by adapting those existing layouts. This isn't a from-scratch design job. The visual system is set, and the work is reusing, tweaking and extending it cleanly and consistently.\n\nScope of work\nBuild 12 new child pages under existing parent pages, using current Elementor templates, sections and global styles as the base\nAdjust layouts as needed to fit new content, such as reordering sections, adding or removing modules, and adapting grids and cards\nPlace provided copy and images; we supply final content for each page\nKeep brand consistency: use existing global colors, fonts, buttons and spacing rather than one-off styles\nSave any new reusable sections as Elementor templates for future use\nMake every page fully responsive on desktop, tablet and mobile\nSet up page hierarchy, slugs and navigation/menu placement\nDo basic on-page SEO setup: page titles, meta descriptions, H1/H2 structure and image alt text (we provide the copy)\nQA pass: check links, forms, cross-browser rendering and page speed\n\nRequirements\n3+ years building sites in WordPress with Elementor (Pro)\nStrong portfolio of Elementor sites, ideally B2B, healthcare or professional services\nComfortable working inside an existing theme without breaking global styles\nSolid understanding of responsive design and Elementor's breakpoint controls\nClear communication and good English; able to take feedback in rounds\nExperience with a staging environment before pushing live (preferred)\n\nDeliverables\n12 published (or staging-ready) child pages, built to the approved layouts\nAny new reusable templates saved in the Elementor library\nA short handoff note listing pages built, templates created and anything flagged for follow-up\n\nTimeline: 1 week",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "divi",
+      "website",
+      "landing-pages",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nI can help you efficiently build out your 12 new Elementor child pages while strictly adhering to your existing global styles, templates, and brand consistency. \n\nWith extensive experience developing and scaling WordPress sites using Elementor Pro, I am very comfortable working within established design systems without breaking global typography, colors, or responsive breakpoints. I will ensure every page is properly structured, optimized for mobile, and includes your provided copy, meta descriptions, and image alt text. \n\nFor a look at my past work building out clean, structured pages in WordPress, you can check out https://www.thelifeyoucansave.org/. \n\nAre these pages ready in staging, and do you have the specific copy and imagery mapped out for all 12? I can easily hit your 1-week timeline.\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-09-22T21:48:01+0000",
+    "addedAt": "2026-09-22T21:49:19.083Z",
+    "url": "https://www.upwork.com/jobs/~022102515086208835490",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102515086208835490/apply/"
+  },
+  {
     "id": "2102509243164840389",
     "ciphertext": "~022102509243164840389",
     "title": "Skilled WordPress and Elementor developer for launch project and ongoing work (UK agency)",
