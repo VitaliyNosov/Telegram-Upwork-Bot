@@ -1,12 +1,19 @@
 {
   "date": "2026-09-22",
   "lastDigestSentDate": "2026-09-21",
-  "totalScanned": 31,
-  "matchedFilters": 6,
+  "totalScanned": 32,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Developer - ACF Pro, PageSpeed, PHP & Technical SEO",
+      "budget": "$15-$40/hr",
+      "score": 4148,
+      "url": "https://www.upwork.com/jobs/~022102276063553916037",
+      "addedAt": "2026-09-22T05:59:12.548Z"
+    },
     {
       "title": "Expert WordPress Website Developer Needed",
       "budget": "$18-$40/hr",
