@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102413185974935844",
+    "ciphertext": "~022102413185974935844",
+    "title": "WordPress Website Fixes & Speed Optimization",
+    "description": "Looking for a WordPress developer to fix a few issues on an existing site and improve overall performance. Site is currently live but has some bugs and feels slow.\n\nNeed help with:\n\n\t•\tFixing broken layout/styling issues (mobile + desktop)\n\t•\tSpeeding up page load time (caching, image optimization, cleaning up plugin bloat)\n\t•\tFixing any broken links, forms, or plugin conflicts\n\t•\tBasic on-page SEO cleanup (meta titles/descriptions, alt tags)\n\t•\tCross-browser testing to make sure everything displays correctly\n\nRequirements:\n\n\t•\tStrong WordPress experience (Elementor/WooCommerce a plus if relevant)\n\t•\tComfortable debugging plugin/theme conflicts\n\t•\tCan explain what was fixed in simple terms afterward\n\nDeliverable: A clean, faster, bug-free WordPress site with a short summary of changes made and before/after load time.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 448,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "web-programming"
+    ],
+    "score": 3000,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-22T15:07:19+0000",
+    "addedAt": "2026-09-22T15:09:22.885Z",
+    "url": "https://www.upwork.com/jobs/~022102413185974935844",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102413185974935844/apply/"
+  },
+  {
     "id": "2102384672803088314",
     "ciphertext": "~022102384672803088314",
     "title": "Web Developer for SEO and AI Agency",
