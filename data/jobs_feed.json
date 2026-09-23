@@ -1,5 +1,33 @@
 [
   {
+    "id": "2102860439108443304",
+    "ciphertext": "~022102860439108443304",
+    "title": "Need Interface to Merge Wholesale Product Database with Retail Store",
+    "description": "Need to create web interface to be able to import wholesale product spreadsheets into WooCommerce retail store. This process will repeat every week or so. We also need to be able to update our store stock numbers via the same process, every week, for products that are already in our database. Anotherwords, we need to export our wholesaler's catalog into a spreadsheet, then import the spreadsheet into our store, thus updating all stock numbers for existing products, while creating new products that aren't in our store yet. Attached are two spreadsheets... one exported from our wholesaler's catalog, and one exported from our retail store. These are the two databases we are trying to merge.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "custom-ecommerce-platform",
+      "woocommerce",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nI can help you build a streamlined, recurring import interface to seamlessly merge your wholesaler's catalog with your WooCommerce store every week, automatically handling both new product creation and stock level updates. \n\nAs a WooCommerce and PHP expert, I frequently build custom import/sync scripts and automated backend interfaces to handle complex data mapping between external spreadsheets and WordPress databases. Whether you prefer a custom admin dashboard tool or an automated WP-CLI/cron-based background script to process these weekly spreadsheets without manual friction, I can set this up cleanly and reliably.\n\nYou can view some of my recent WordPress and WooCommerce work here: https://waapple.org/\n\nWhen do you need this interface up and running for your next weekly inventory cycle?",
+    "publishedDateTime": "2026-09-23T20:40:50+0000",
+    "addedAt": "2026-09-23T20:43:16.456Z",
+    "url": "https://www.upwork.com/jobs/~022102860439108443304",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102860439108443304/apply/"
+  },
+  {
     "id": "2102854913770396973",
     "ciphertext": "~022102854913770396973",
     "title": "Need 5-7 page wordpress website and ongoing SEO",
