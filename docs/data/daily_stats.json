@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
   "lastDigestSentDate": "2026-09-22",
-  "totalScanned": 56,
-  "matchedFilters": 20,
+  "totalScanned": 57,
+  "matchedFilters": 21,
   "byKeyword": {
-    "wordpress developer": 20
+    "wordpress developer": 21
   },
   "topJobs": [
     {
@@ -132,6 +132,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022102684328715234012",
       "addedAt": "2026-09-23T09:07:21.024Z"
+    },
+    {
+      "title": "Web Development",
+      "budget": "Fixed-price",
+      "score": 94,
+      "url": "https://www.upwork.com/jobs/~022102768211275513542",
+      "addedAt": "2026-09-23T14:35:13.618Z"
     },
     {
       "title": "Web Developer for Website Maintenance",

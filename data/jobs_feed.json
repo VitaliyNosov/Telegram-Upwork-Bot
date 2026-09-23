@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102768211275513542",
+    "ciphertext": "~022102768211275513542",
+    "title": "Web Development",
+    "description": "We are looking for a skilled web developer to build and maintain our website. The ideal candidate will have experience with modern web technologies and be able to create responsive, user-friendly designs. You will be responsible for implementing new features, troubleshooting issues, and ensuring the site performs well across devices. Strong communication and attention to detail are important for this role.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.72,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html5",
+      "javascript",
+      "web-programming",
+      "php"
+    ],
+    "score": 94,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-23T14:34:12+0000",
+    "addedAt": "2026-09-23T14:35:28.231Z",
+    "url": "https://www.upwork.com/jobs/~022102768211275513542",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102768211275513542/apply/"
+  },
+  {
     "id": "2102746659870162214",
     "ciphertext": "~022102746659870162214",
     "title": "Content & SEO Specialist (WordPress, Elementor & AI)",
