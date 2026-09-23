@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102811164884666423",
+    "ciphertext": "~022102811164884666423",
+    "title": "Website Revamp and Development",
+    "description": "We need a developer to revamp our existing website and improve its overall user experience. The project includes updating the site structure, refining the layout, and enhancing navigation so the site is more intuitive and easier to use. You will also help improve the visual presentation and ensure the site functions smoothly across devices. This is a small project for someone who can deliver a polished, user-friendly website with clear improvements in design and usability.\n\nI am looking at streamlining the being clearer on the services we provide. Also I want to connect it to our other website that allows people to book airbnbs.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-23T17:28:45+0000",
+    "addedAt": "2026-09-23T17:29:32.681Z",
+    "url": "https://www.upwork.com/jobs/~022102811164884666423",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102811164884666423/apply/"
+  },
+  {
     "id": "2102778314143631415",
     "ciphertext": "~022102778314143631415",
     "title": "WordPress Website Maintenance & Custom Development",
