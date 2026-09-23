@@ -1,5 +1,37 @@
 [
   {
+    "id": "2102679733823859980",
+    "ciphertext": "~022102679733823859980",
+    "title": "Website Development For business",
+    "description": "# WordPress & WooCommerce Developer Needed for E-commerce Website\n\nWe are looking for an **experienced WordPress & WooCommerce Developer** to help us build, customize, maintain, and continuously improve our e-commerce website.\n\nWe need someone who understands **e-commerce, website performance, mobile responsiveness, SEO, security, and conversion optimization** — not just someone who can install plugins or make basic WordPress edits.\n\n### Responsibilities\n\n* Develop and customize our **WordPress + WooCommerce** website\n* Customize themes and WooCommerce functionality\n* Create and modify product pages, landing pages, banners, menus, and website sections\n* Ensure the website looks and works perfectly on **desktop, tablet, and mobile**\n* Improve website speed and Core Web Vitals\n* Fix bugs, errors, plugin conflicts, and technical issues\n* Install, configure, and manage WordPress/WooCommerce plugins\n* Integrate payment gateways and third-party tools\n* Set up and troubleshoot APIs and other integrations\n* Optimize website structure for **SEO and AEO**\n* Improve website navigation, UI/UX, and checkout experience\n* Implement conversion-focused improvements\n* Maintain website security, backups, and updates\n* Troubleshoot hosting and technical issues when required\n* Provide ongoing website maintenance and technical support\n\n### Required Skills\n\n* Strong experience with **WordPress & WooCommerce**\n* Excellent knowledge of **HTML, CSS, JavaScript, PHP, and MySQL**\n* Experience customizing WordPress themes and plugins\n* Strong WooCommerce knowledge\n* Experience with payment gateway integrations\n* Experience with APIs and third-party integrations\n* Strong understanding of website speed optimization\n* Knowledge of technical SEO\n* Experience with responsive/mobile-first design\n* Ability to troubleshoot problems independently\n* Good communication and attention to detail\n\n### Preferred Experience\n\n* E-commerce website development\n* Elementor or similar page builders\n* WooCommerce customization\n* Google Analytics & Google Tag Manager\n* Meta Pixel and conversion tracking\n* SEO tools and optimization\n* CRO (Conversion Rate Optimization)\n* Website security and malware prevention\n* Experience working with websites targeting the **US and international markets**\n\n### Long-Term Opportunity\n\nThis is not just a one-time project.\n\nWe are looking for a developer who can become our **long-term website development and technical partner**. After the initial work, there will be ongoing requirements for new features, improvements, maintenance, troubleshooting, and optimization.\n\n### To Apply\n\nPlease provide:\n\n1. Your Upwork profile and portfolio\n2. **2–3 WooCommerce websites** you have developed or customized\n3. Examples of custom WordPress/WooCommerce work\n4. Your hourly rate\n5. Your weekly availability\n6. Your experience with PHP, JavaScript, WooCommerce, and APIs\n7. A short explanation of how you normally improve **WordPress website speed and security**\n\n**Important:** Please only apply if you have proven experience with WordPress/WooCommerce e-commerce websites.\n\nWe are looking for a **reliable, skilled developer interested in long-term work**, not someone looking for a quick one-time project.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 155,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "web-design",
+      "html5",
+      "php",
+      "shopify",
+      "html"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! I’d love to partner with you long-term as your go-to WordPress & WooCommerce developer. \n\nWith deep expertise in PHP, JavaScript, WooCommerce, and API integrations, I build high-performing, secure, and conversion-focused e-commerce stores. For WooCommerce speed and security, I optimize database queries, implement advanced caching and CDN setups, compress assets to boost Core Web Vitals, and harden security through proactive updates and malware prevention. \n\nHere are a couple of relevant e-commerce and custom WordPress sites from my portfolio:\n- https://waapple.org/\n- https://www.snopud.com/\n\nI am available for ongoing work. Could you share a bit more about the specific custom features or payment gateways you need built first?",
+    "publishedDateTime": "2026-09-23T11:42:47+0000",
+    "addedAt": "2026-09-23T11:45:16.069Z",
+    "url": "https://www.upwork.com/jobs/~022102679733823859980",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102679733823859980/apply/"
+  },
+  {
     "id": "2102709022248000938",
     "ciphertext": "~022102709022248000938",
     "title": "Shopify & WordPress Developer – Custom Coding & Website Development",
