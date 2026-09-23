@@ -1,5 +1,33 @@
 [
   {
+    "id": "2102670354997616546",
+    "ciphertext": "~022102670354997616546",
+    "title": "Wordpress Developer for maintenance of Existing Website",
+    "description": "We are looking for an experienced WordPress Developer to build, customize, and maintain our WordPress website. The ideal candidate should have strong knowledge of WordPress themes, plugins, website optimization, and responsive design. Responsibilities include implementing new features, troubleshooting issues, improving website performance, and ensuring a seamless user experience. Experience with HTML, CSS, JavaScript, PHP, and Elementor/WooCommerce is a plus.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php"
+    ],
+    "score": 200,
+    "coverLetter": "Hi! \n\nI’d love to help you maintain, customize, and optimize your WordPress website. With extensive experience in PHP, custom themes, plugin management, and performance tuning, I regularly help clients keep their sites secure, fast, and fully functional. \n\nWhether you need ongoing maintenance, troubleshooting for layout or plugin issues, or new feature implementations, I can jump right in. You can see examples of my recent WordPress work here: https://www.thelifeyoucansave.org/. \n\nWhat are the top 1 or 2 priorities or current issues you’d like to tackle first on the site? \n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-09-23T08:09:13+0000",
+    "addedAt": "2026-09-23T08:11:32.572Z",
+    "url": "https://www.upwork.com/jobs/~022102670354997616546",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102670354997616546/apply/"
+  },
+  {
     "id": "2102667944935550220",
     "ciphertext": "~022102667944935550220",
     "title": "WordPress Website Designer & Developer for Speaker/Performance Website",
