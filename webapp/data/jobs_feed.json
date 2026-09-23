@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102684328715234012",
+    "ciphertext": "~022102684328715234012",
+    "title": "Website Re-Development",
+    "description": "We need a developer to re-develop our current website, which is currently built on some fancy replit platform by another developer. The project includes rebuilding the site into a wordpress site and incorporate content management system. All content are re-usable. The hosting need to be on client's server instead of this Git that previous developer had done.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.86,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 48,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "php",
+      "web-design"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! \n\nI can help you migrate and rebuild your website from Replit into a robust, easily manageable WordPress site hosted directly on your own server. \n\nSince all your content is ready and reusable, the main focus will be setting up a clean, scalable WordPress structure with an intuitive CMS backend tailored to your needs. I specialize in custom WordPress development, clean PHP/MySQL coding, and seamless site migrations away from developer-locked environments. \n\nFor a look at my past work building and restructuring client sites, you can check out https://www.seeintl.org/. \n\nDo you have any specific page builder preferences (like Gutenberg or Elementor) for the new build, or would you prefer a custom-coded theme? Let's chat about getting this migrated smoothly.",
+    "publishedDateTime": "2026-09-23T09:04:45+0000",
+    "addedAt": "2026-09-23T09:07:22.509Z",
+    "url": "https://www.upwork.com/jobs/~022102684328715234012",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102684328715234012/apply/"
+  },
+  {
     "id": "2102678986988071644",
     "ciphertext": "~022102678986988071644",
     "title": "Web Designer for WordPress / WooCommerce / Magento Shops (ongoing)",
