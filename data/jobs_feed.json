@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102771165936056803",
+    "ciphertext": "~022102771165936056803",
+    "title": "Web Designer/Developer for PMC Consulting",
+    "description": "I’m looking for a web designer/developer to redesign and rebuild the website for PMC Consulting, a construction planning, project controls and delay analysis consultancy working across Ireland, the UK and Europe.\n\nI want a modern, professional site that clearly presents our services, sectors and project experience. The expected scope is approximately 10 pages, including Home, About, Services, individual service pages, Sectors, Experience and Contact. I have draft copy for these pages. The site should work well on mobile, be easy for me to update and include a tested contact form.\n\nPlease send 2–3 live websites you personally designed and built. Experience with construction, engineering or specialist consultancy websites would be particularly useful, but is not essential. Please provide a fixed-price quote, what it includes and your estimated timeframe.\n\nThe existing WordPress website currently has a technical error. I have contacted its original developer about this; please treat any diagnosis or repair as separate from your quote for the rebuild.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php"
+    ],
+    "score": 0,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-23T17:46:16+0000",
+    "addedAt": "2026-09-23T17:47:34.670Z",
+    "url": "https://www.upwork.com/jobs/~022102771165936056803",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102771165936056803/apply/"
+  },
+  {
     "id": "2102814328600083320",
     "ciphertext": "~022102814328600083320",
     "title": "WordPress / Elementor Designer Needed for Podcast Website (Riverside.fm Experience Required)",
