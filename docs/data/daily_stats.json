@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
   "lastDigestSentDate": "2026-09-22",
-  "totalScanned": 36,
-  "matchedFilters": 16,
+  "totalScanned": 37,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 16
+    "wordpress developer": 17
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022102670354997616546",
       "addedAt": "2026-09-23T08:11:31.389Z"
+    },
+    {
+      "title": "Shopify & WordPress Developer – Custom Coding & Website Development",
+      "budget": "Fixed-price",
+      "score": 200,
+      "url": "https://www.upwork.com/jobs/~022102709022248000938",
+      "addedAt": "2026-09-23T10:45:15.363Z"
     },
     {
       "title": "WordPress Developer & IT Support Specialist – WooCommerce, Multi-Site Development & Ongoing Support",

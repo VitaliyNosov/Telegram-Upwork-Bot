@@ -1,5 +1,40 @@
 [
   {
+    "id": "2102709022248000938",
+    "ciphertext": "~022102709022248000938",
+    "title": "Shopify & WordPress Developer – Custom Coding & Website Development",
+    "description": "We’re looking for an experienced Shopify & WordPress Developer to join our team for ongoing website development and customization projects.\nThe ideal candidate should be comfortable working with custom code, theme development, API integrations, troubleshooting, and performance optimization rather than relying only on page builders or apps/plugins.\nKey Responsibilities\nDevelop and customize Shopify stores using Liquid, HTML, CSS, JavaScript, and Shopify APIs\nDevelop and customize WordPress websites using PHP, HTML, CSS, JavaScript, and WordPress APIs\nBuild custom Shopify sections, features, and theme functionality\nCustomize and modify existing Shopify themes\nDevelop custom WordPress themes and functionality\nCreate and modify custom plugins when required\nIntegrate third-party APIs, apps, plugins, and external services\nFix bugs, layout issues, functionality problems, and coding errors\nImprove website speed, performance, responsiveness, and user experience\nEnsure websites are fully responsive across desktop, tablet, and mobile\nTroubleshoot checkout, payment, form, product, and integration issues\nFollow clean, organized, and maintainable coding practices\nRequired Skills\nShopify\nShopify Liquid\nShopify Theme Development\nHTML5 / CSS3\nJavaScript\nShopify API\nCustom Shopify Sections\nTheme Customization\nShopify App & API Integration\nWordPress\nWordPress Development\nPHP\nJavaScript\nHTML/CSS\nCustom Theme Development\nCustom Plugin Development\nWordPress REST API\nWooCommerce\nBonus Skills\nGit/GitHub\nFigma to Shopify/WordPress\nSEO-friendly development\nWebsite speed optimization\nThird-party API integrations\nConversion-focused eCommerce development\nShopify Plus experience\nRequirements\nProven experience with both Shopify and WordPress\nStrong custom coding ability\nAbility to work independently and troubleshoot problems\nGood understanding of responsive web development\nStrong attention to detail\nGood communication skills\nAbility to provide clean and scalable code\nPlease include 3–5 examples of Shopify and WordPress websites you have personally developed or customized. Tell us briefly what custom coding or functionality you handled on each project.\nThis is intended to be a long-term opportunity for the right developer, with ongoing projects and consistent work.\nTo apply, please start your proposal with “CUSTOM CODING” so we know you have read the complete job post.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 250,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "css",
+      "html",
+      "shopify",
+      "wordpress",
+      "javascript",
+      "web-design",
+      "e-commerce-website",
+      "php",
+      "html5"
+    ],
+    "score": 200,
+    "coverLetter": "CUSTOM CODING\n\nHi! \n\nI’m a full-stack WordPress and Shopify developer with deep experience in custom theme development, PHP, Shopify Liquid, JavaScript, and API integrations. Rather than relying heavily on bloated plugins or page builders, I write clean, scalable code to build fast, responsive, and tailored e-commerce experiences. \n\nMy background covers everything from custom WordPress plugin and theme development to building bespoke Shopify sections and troubleshooting complex checkout or performance issues. For example, I developed and customized sites like https://waapple.org/, focusing on robust functionality and clean frontend execution. I also use Git and follow strict version control practices to ensure long-term maintainability for ongoing projects.\n\nI'm looking for a reliable, long-term collaboration. When are you available for a quick chat to discuss your current pipeline?",
+    "publishedDateTime": "2026-09-23T10:42:56+0000",
+    "addedAt": "2026-09-23T10:45:17.092Z",
+    "url": "https://www.upwork.com/jobs/~022102709022248000938",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102709022248000938/apply/"
+  },
+  {
     "id": "2102695856126438108",
     "ciphertext": "~022102695856126438108",
     "title": "Web Designer for WordPress / WooCommerce / Magento Shops (ongoing)",
