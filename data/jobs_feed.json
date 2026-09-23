@@ -1,5 +1,29 @@
 [
   {
+    "id": "2102602190133797156",
+    "ciphertext": "~022102602190133797156",
+    "title": "Website creator",
+    "description": "Title: Website Designer/Developer for Longevity & Wellness Telehealth Brand (Llum Longevity)\n\nOverview:\nLlum Longevity is a Houston-based longevity and wellness telehealth brand offering hormone therapy, GLP-1 programs, and peptide therapies through licensed clinicians and compounding pharmacy fulfillment. We need a clean, premium, conversion-focused website built from our existing brand system (logo, color palette, typography already defined).\n\nScope of work:\n\n\t•\tDesign + build a responsive marketing website (5–8 pages: Home, How It Works, Programs/Products, About, FAQ, Contact, Privacy/Terms)\n\t•\tIntegrate an intake/lead form connecting to our telehealth evaluation flow (details provided)\n\t•\tMobile-first, fast-loading, SEO-friendly structure\n\t•\tBuilt on [Webflow / Shopify / WordPress — pick your preference] so we can make text/image edits ourselves after launch\n\t•\tBasic on-page SEO setup (meta tags, sitemap, schema)\n\t•\tLight copywriting polish on content we provide (not full copywriting from scratch)\n\nBrand assets provided: logo, color palette (black/cream/gold), existing product catalog content, tone/voice reference\n\nRequirements:\n\n\t•\tPortfolio with health, wellness, or telehealth clients (strongly preferred — this industry has specific compliance/tone considerations)\n\t•\tExperience with HIPAA-conscious form handling (no storing of PHI client-side without proper safeguards)\n\t•\tComfortable working from a brand kit rather than starting from scratch\n\nDeliverables: Fully deployed, responsive site + 30-day post-launch support window for bug fixes",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 100,
+    "coverLetter": "Hi! I’d love to help you build a clean, premium, and conversion-focused digital home for Llum Longevity. \n\nHaving built numerous responsive sites on Webflow and WordPress, I can easily develop this 5–8 page marketing platform using your existing brand kit (black/cream/gold) while setting up an intuitive CMS so your team can effortlessly manage content post-launch. I also understand the compliance nuances of the health and wellness space, including implementing secure, HIPAA-conscious intake flows that safely handle lead data without vulnerable client-side storage. \n\nYou can check out a sample of my clean, high-performance work here: https://www.thelifeyoucansave.org/. \n\nWhich CMS platform—Webflow or WordPress—are you leaning toward for this project, and would you like to hop on a quick chat to map out the intake flow?",
+    "publishedDateTime": "2026-09-23T03:38:24+0000",
+    "addedAt": "2026-09-23T03:39:12.075Z",
+    "url": "https://www.upwork.com/jobs/~022102602190133797156",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102602190133797156/apply/"
+  },
+  {
     "id": "2102551836900341390",
     "ciphertext": "~022102551836900341390",
     "title": "WordPress Website Development",
