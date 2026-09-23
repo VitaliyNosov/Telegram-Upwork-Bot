@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
   "lastDigestSentDate": "2026-09-22",
-  "totalScanned": 15,
-  "matchedFilters": 7,
+  "totalScanned": 16,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022102602190133797156",
       "addedAt": "2026-09-23T03:39:10.841Z"
+    },
+    {
+      "title": "Wix Website Development and Optimization",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022102603585863950628",
+      "addedAt": "2026-09-23T03:47:12.863Z"
     },
     {
       "title": "remove Elementor, add email signup and affiliate click tracking, protect SEO",

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102603585863950628",
+    "ciphertext": "~022102603585863950628",
+    "title": "Wix Website Development and Optimization",
+    "description": "We need a freelancer to improve our website’s performance, user experience, and conversion potential. The work includes refining the site structure, improving navigation, optimizing pages for search visibility, and strengthening the sales funnel. We also want to enhance product-focused storytelling through visuals and messaging that clearly introduce the product and build brand trust. You will review the current site, identify gaps, and recommend improvements across design, content, and technical performance.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "wordpress",
+      "html5"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nWhile your job description mentions Wix, I am a seasoned web developer specializing in performance, UX optimization, and conversion-focused design. I regularly help businesses transform their digital presence by refining site structures, streamlining navigation, and strengthening sales funnels to build brand trust and drive conversions.\n\nMy approach focuses on auditing your current setup to identify conversion gaps, optimizing technical performance, and elevating product-focused storytelling through clean layout and messaging adjustments. For example, on projects like https://about.offerup.com/, I've focused heavily on user experience and conversion optimization. \n\nIf you are open to leveraging robust web development techniques to maximize your site's potential, let’s chat about where your current bottlenecks are. What are the top two pain points you are noticing in your sales funnel right now?",
+    "publishedDateTime": "2026-09-23T03:45:40+0000",
+    "addedAt": "2026-09-23T03:47:14.126Z",
+    "url": "https://www.upwork.com/jobs/~022102603585863950628",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102603585863950628/apply/"
+  },
+  {
     "id": "2102602190133797156",
     "ciphertext": "~022102602190133797156",
     "title": "Website creator",
