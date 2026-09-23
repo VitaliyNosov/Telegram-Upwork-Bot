@@ -1,5 +1,32 @@
 [
   {
+    "id": "2102651432103308556",
+    "ciphertext": "~022102651432103308556",
+    "title": "WordPress Developer (Technical) — Australian Digital Marketing Agency",
+    "description": "We're Viridi Marketing, a Perth-based digital marketing agency working with trade and service businesses across Australia. We're looking for a technical WordPress developer to join our subcontractor team on an ongoing basis — someone comfortable both building sites and managing the backend/hosting side.\n\nA NOTE ON THE WORK\nWe don't do e-commerce. All our sites are simple lead-generation sites for service businesses (plumbers, electricians, home services, etc.) — the goal is either a lead form fill or a booking/call. Nothing complex.\n\nWe also plan and write all the content ourselves. Before any build starts, you'll receive a full content document — page by page, section by section, with all copy already written. Your job is to build exactly to that plan, not create or write content.\n\nWHAT YOU'LL BE DOING\n• Building 5–10 page WordPress websites for our clients, following our pre-written content and page plans\n• Building and editing landing pages to support our Google Ads and SEO campaigns\n• Liaising directly with our SEO team on website changes and technical SEO fixes\n• Managing our Cloudways-hosted server environment — uploading/deploying sites, server-level configuration, troubleshooting when something breaks, and provisioning new servers when needed\n• Diagnosing and fixing plugin conflicts or backend issues on client sites\n• Setting up integrations — e.g. connecting sites to our CRM so leads are routed automatically to the client's email\n\nWe use an automated tool for routine backups, updates, and uptime monitoring — this role is about the technical work those tools can't do: server management, troubleshooting, and integrations.\n\nTIMEZONE\nWe're based in Perth, Australia (AWST). We need someone who can work at least partially within or close to our hours — Eastern Europe or the Philippines work well for us. We'd prefer to avoid US/American working hours, as the overlap with our team is too limited.\n\nWHAT WE NEED FROM YOU\n• Portfolio or links to recent WordPress sites you've built (we'll also share a few of our own recent builds for reference)\n• Experience managing hosting environments — Cloudways specifically is a plus\n• Experience with API/CRM integrations (GoHighLevel experience is a bonus)\n• How you'd typically price a 5–10 page site build (rough range is fine — happy to discuss further on a call)\n• Your usual hourly rate for ongoing edits, troubleshooting, and server management\n\nThis is an ongoing subcontractor role, not a one-off project — we're looking for someone to build a working relationship with over time.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$20 - $35/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.84,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "bug-fixes",
+      "wordpress-website"
+    ],
+    "score": 3647,
+    "coverLetter": "Hi Viridi Marketing team! \n\nI’m a technical WordPress developer based in Eastern Europe, fitting your AWST timezone overlap perfectly. I specialize in building fast, clean lead-generation sites for service businesses and handling the heavy lifting on the backend, server management, and CRM integrations. \n\nI work extensively with Cloudways server environments, custom theme development (following strict page-by-page plans), and technical SEO/bug fixes. I also regularly connect WordPress sites to various CRMs to ensure seamless lead routing. You can view a recent service/non-profit build of mine here: https://www.cchpca.org/\n\nFor a standard 5–10 page service site build, my typical fixed rate ranges between $600–$900 depending on exact design complexity, and my ongoing hourly rate for troubleshooting, edits, and server management is $35/hr. \n\nLet's jump on a quick chat to discuss how we can team up long-term!",
+    "publishedDateTime": "2026-09-23T06:50:42+0000",
+    "addedAt": "2026-09-23T06:51:18.463Z",
+    "url": "https://www.upwork.com/jobs/~022102651432103308556",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102651432103308556/apply/"
+  },
+  {
     "id": "2102620058430873892",
     "ciphertext": "~022102620058430873892",
     "title": "Woocommetce Auction Site Needed",
