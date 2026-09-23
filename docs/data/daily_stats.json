@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
   "lastDigestSentDate": "2026-09-22",
-  "totalScanned": 48,
-  "matchedFilters": 18,
+  "totalScanned": 49,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 18
+    "wordpress developer": 19
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 8050,
       "url": "https://www.upwork.com/jobs/~022102695856126438108",
       "addedAt": "2026-09-23T09:51:24.957Z"
+    },
+    {
+      "title": "Perfex CRM and Wordpress Developer",
+      "budget": "$7-$40/hr",
+      "score": 4146,
+      "url": "https://www.upwork.com/jobs/~022102743500573588774",
+      "addedAt": "2026-09-23T12:57:16.656Z"
     },
     {
       "title": "Skilled WordPress and Elementor developer for launch project and ongoing work (UK agency)",

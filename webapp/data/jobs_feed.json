@@ -1,5 +1,36 @@
 [
   {
+    "id": "2102743500573588774",
+    "ciphertext": "~022102743500573588774",
+    "title": "Perfex CRM and Wordpress Developer",
+    "description": "Hi - we're looking for a developer with experience with Perfex CRM (and integrations with Wordpress) to assist with smaller tasks (alongside our main developer).\n\nThanks",
+    "isHourly": true,
+    "hourlyBudgetMin": 7,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$7 - $40/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.78,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 527,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cms-development",
+      "php",
+      "wordpress",
+      "api",
+      "web-programming",
+      "crm"
+    ],
+    "score": 4146,
+    "coverLetter": "Hi! \n\nI’d love to help support your main developer with your Perfex CRM and WordPress tasks. I work extensively with WordPress, custom PHP, and API integrations, making it straightforward for me to bridge the two platforms seamlessly and jump into your existing workflow without friction.\n\nWhether you need custom module adjustments in Perfex, automated data synchronization, or WordPress-facing integrations, I write clean, maintainable code to ensure everything runs smoothly. You can see examples of my recent WordPress work at https://www.thelifeyoucansave.org/.\n\nWhat specific tasks or integrations do you need help tackling first? \n\nBest regards,\nWordPress & API Developer",
+    "publishedDateTime": "2026-09-23T12:56:15+0000",
+    "addedAt": "2026-09-23T12:57:18.101Z",
+    "url": "https://www.upwork.com/jobs/~022102743500573588774",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102743500573588774/apply/"
+  },
+  {
     "id": "2102679733823859980",
     "ciphertext": "~022102679733823859980",
     "title": "Website Development For business",
