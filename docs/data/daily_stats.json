@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
   "lastDigestSentDate": "2026-09-22",
-  "totalScanned": 76,
-  "matchedFilters": 25,
+  "totalScanned": 77,
+  "matchedFilters": 26,
   "byKeyword": {
-    "wordpress developer": 25
+    "wordpress developer": 26
   },
   "topJobs": [
     {
@@ -153,6 +153,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022102814328600083320",
       "addedAt": "2026-09-23T17:39:17.227Z"
+    },
+    {
+      "title": "Office Location Pages & Footer Updates",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022102820129211284208",
+      "addedAt": "2026-09-23T18:01:29.152Z"
     },
     {
       "title": "Web Development",
