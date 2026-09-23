@@ -1,5 +1,36 @@
 [
   {
+    "id": "2102678986988071644",
+    "ciphertext": "~022102678986988071644",
+    "title": "Web Designer for WordPress / WooCommerce / Magento Shops (ongoing)",
+    "description": "We run several online shops for farmers and agricultural businesses in Germany and the Netherlands, mostly WordPress with WooCommerce, one on Magento. We are looking for a web designer for ongoing work across these shops.\n\nFirst project: redesign for horizont.nl. After that: similar work on our other shops, plus landing pages and banners.\n\nWhat we need:\n- Portfolio with e-commerce designs, ideally WooCommerce\n- Design in Figma and implement in WordPress (Elementor or theme CSS), or hand off clean specs to our developer\n- Mobile-first pages that load fast\n- Eye for conversion: clear product pages, simple checkout\n\nHow we work: short written briefs, async via Upwork messages, feedback within 1-2 days. We start with a paid test task of 3-5 hours.\n\nIn your proposal, please include links to 2-3 shop designs you made, your hourly rate, and your availability per week.",
+    "isHourly": true,
+    "hourlyBudgetMin": 35,
+    "hourlyBudgetMax": 80,
+    "budgetDisplay": "$35 - $80/hr",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "figma",
+      "responsive-design",
+      "uiux-prototyping",
+      "wordpress",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 8050,
+    "coverLetter": "Hi! I’d love to help you redesign and optimize your agricultural e-commerce shops, starting with horizont.nl. \n\nHere are three WooCommerce and e-commerce projects I've worked on that align with your needs:\n- https://waapple.org/\n- https://www.snopud.com/\n- https://www.cchpca.org/\n\nMy hourly rate is $45/hr, and I am available for 20+ hours per week for ongoing work.\n\nI specialize in designing mobile-first, high-conversion e-commerce experiences in Figma and seamlessly implementing them in WordPress/WooCommerce (using Elementor, Gutenberg, or custom CSS) while keeping performance lightning-fast. I'm completely comfortable starting with your 3-5 hour paid test task.\n\nAre you available this week to discuss the horizont.nl brief in more detail?",
+    "publishedDateTime": "2026-09-23T08:43:31+0000",
+    "addedAt": "2026-09-23T08:45:23.859Z",
+    "url": "https://www.upwork.com/jobs/~022102678986988071644",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102678986988071644/apply/"
+  },
+  {
     "id": "2102670354997616546",
     "ciphertext": "~022102670354997616546",
     "title": "Wordpress Developer for maintenance of Existing Website",
