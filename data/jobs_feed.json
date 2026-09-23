@@ -1,5 +1,32 @@
 [
   {
+    "id": "2102814328600083320",
+    "ciphertext": "~022102814328600083320",
+    "title": "WordPress / Elementor Designer Needed for Podcast Website (Riverside.fm Experience Required)",
+    "description": "Job Description:\nWe are seeking an experienced WordPress Web Designer with expert-level Elementor Pro skills to design and build/refine a high-converting website for our video podcast.\nCrucially, you must have experience working with Riverside.fm. We record our content there and need a designer who understands how to best integrate Riverside widgets, media players, or workflows (like pulling transcripts or video clips) into a seamless WordPress CMS experience.\nKey Responsibilities:\n• Design and build clean, responsive, and fast pages (Home, Episodes, About, Contact) using WordPress and Elementor Pro.\n• Integrate and embed Riverside.fm media assets, players, or RSS feeds fluidly into episode landing pages.\n• Ensure absolute mobile responsiveness and optimization for Core Web Vitals (speed is a priority).\n• Implement clean UI/UX focused on audio/video consumption and newsletter sign-ups.\nRequirements:\n• Proven portfolio of live WordPress sites built natively in Elementor (please do not send Figma-only links).\n• Prior experience building websites specifically for podcasters, vloggers, or media creators.\n• Direct experience or clear understanding of the Riverside.fm ecosystem.\nApplication Question:\n1. Please provide links to 2–3 live media or podcasting websites you have personally designed using Elementor.\n2. Briefly describe your experience with Riverside.fm or how you plan to optimize embedding its video/audio content on our site.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.86,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 351,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "podcast-deliverable"
+    ],
+    "score": 97,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-23T17:37:46+0000",
+    "addedAt": "2026-09-23T17:39:33.401Z",
+    "url": "https://www.upwork.com/jobs/~022102814328600083320",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102814328600083320/apply/"
+  },
+  {
     "id": "2102811164884666423",
     "ciphertext": "~022102811164884666423",
     "title": "Website Revamp and Development",
