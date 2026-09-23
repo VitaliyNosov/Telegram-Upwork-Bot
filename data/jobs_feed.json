@@ -1,5 +1,33 @@
 [
   {
+    "id": "2102778314143631415",
+    "ciphertext": "~022102778314143631415",
+    "title": "WordPress Website Maintenance & Custom Development",
+    "description": "We are looking for an experienced WordPress developer to provide ongoing monthly maintenance and development for an established WordPress website with many customizations and a complex existing build.\n\nThis is not a simple plugin-update or basic maintenance role. We need someone comfortable understanding and working within an existing custom WordPress environment, making improvements without breaking existing functionality, and developing new features/pages that fit seamlessly into the current site.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$20 - $50/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "css"
+    ],
+    "score": 5150,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-23T15:14:35+0000",
+    "addedAt": "2026-09-23T15:15:15.951Z",
+    "url": "https://www.upwork.com/jobs/~022102778314143631415",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102778314143631415/apply/"
+  },
+  {
     "id": "2102768211275513542",
     "ciphertext": "~022102768211275513542",
     "title": "Web Development",
