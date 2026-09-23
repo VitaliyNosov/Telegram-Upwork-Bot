@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102871885349780208",
+    "ciphertext": "~022102871885349780208",
+    "title": "Website Build Out",
+    "description": "We need a developer to build out a website based on an existing design. The work includes creating responsive pages, implementing core functionality, and ensuring the site works smoothly across devices. You should be comfortable translating design files into clean, functional code and helping deliver a polished final product. This is a short-term project for someone who can work independently and communicate clearly throughout the build process.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "php",
+      "html5"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you build out your website cleanly and efficiently from your existing design files, ensuring it is fully responsive and polished across all devices. \n\nWith extensive experience translating designs into robust code—using modern PHP, HTML5, and various CMS frameworks like WordPress and Webflow—I focus on writing clean code and delivering a smooth, high-performing end product. For example, I recently built and launched sites like https://www.daysforgirls.org/, ensuring seamless responsiveness and functionality. \n\nI work independently, communicate clearly, and can get started right away. Are you working from Figma, Adobe XD, or another design tool for this build?",
+    "publishedDateTime": "2026-09-23T21:26:45+0000",
+    "addedAt": "2026-09-23T21:29:13.647Z",
+    "url": "https://www.upwork.com/jobs/~022102871885349780208",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102871885349780208/apply/"
+  },
+  {
     "id": "2102871706563083032",
     "ciphertext": "~022102871706563083032",
     "title": "Freelance Web Designer/Developer for Luxury Real Estate",
