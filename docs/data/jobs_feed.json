@@ -1,5 +1,36 @@
 [
   {
+    "id": "2102695856126438108",
+    "ciphertext": "~022102695856126438108",
+    "title": "Web Designer for WordPress / WooCommerce / Magento Shops (ongoing)",
+    "description": "We run several online shops for farmers and agricultural businesses in Germany and the Netherlands, mostly WordPress with WooCommerce, one on Magento. We are looking for a web designer for ongoing work across these shops.\n\nFirst project: redesign for horizont.nl. After that: similar work on our other shops, plus landing pages and banners.\n\nWhat we need:\n- Portfolio with e-commerce designs, ideally WooCommerce\n- Design in Figma and implement in WordPress (Elementor or theme CSS), or hand off clean specs to our developer\n- Mobile-first pages that load fast\n- Eye for conversion: clear product pages, simple checkout\n\nHow we work: short written briefs, async via Upwork messages, feedback within 1-2 days. We start with a paid test task of 3-5 hours.\n\nIn your proposal, please include links to 2-3 shop designs you made, your hourly rate, and your availability per week.",
+    "isHourly": true,
+    "hourlyBudgetMin": 35,
+    "hourlyBudgetMax": 80,
+    "budgetDisplay": "$35 - $80/hr",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "figma",
+      "responsive-design",
+      "uiux-prototyping",
+      "wordpress",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 8050,
+    "coverLetter": "Hi! Here are two WooCommerce store examples I've built and designed: \n- https://www.thelifeyoucansave.org/\n- https://waapple.org/\n\nI design mobile-first, conversion-focused e-commerce layouts in Figma and implement them seamlessly using WordPress, WooCommerce, and page builders like Elementor, ensuring fast-loading pages and clean mobile UX. \n\nFor your shops in Germany and the Netherlands (starting with horizont.nl), I am fully comfortable working with short briefs asynchronously. \n\nMy hourly rate is $40/hr, and I have an availability of 20 hours per week for ongoing work. I am also completely ready to start with the 3–5 hour paid test task.\n\nShall we discuss the details for horizont.nl in chat?",
+    "publishedDateTime": "2026-09-23T09:50:33+0000",
+    "addedAt": "2026-09-23T09:51:26.599Z",
+    "url": "https://www.upwork.com/jobs/~022102695856126438108",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102695856126438108/apply/"
+  },
+  {
     "id": "2102684328715234012",
     "ciphertext": "~022102684328715234012",
     "title": "Website Re-Development",
