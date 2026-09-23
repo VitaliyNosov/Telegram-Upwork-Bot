@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102792451576570794",
+    "ciphertext": "~022102792451576570794",
+    "title": "Expert WordPress Developer",
+    "description": "We're looking for a skilled WordPress developer to convert a Figma design into a fully responsive, pixel accurate website.\n\nAbout the project:\nThis is a full time engagement with an estimated 140 to 160 hours of work. We're hiring for long term reliability, not just a one time build.\n\nHiring process:\nInitial screening based on your proposal and portfolio.\nShortlisted candidates receive the Figma file and complete a paid test assignment (24 hour deadline) matching layout, spacing, typography, and responsive behavior across desktop, tablet, and mobile, plus sensible interactivity for buttons, forms, and FAQs not explicitly defined in the design.\nStrong performers move into the full project.\n\nWhat we're looking for:\n• Proven experience converting Figma designs into WordPress sites\n• Clean, semantic HTML5 and CSS3 along with solid WordPress theme development skills\n• Ability to exercise good judgment where design specs are incomplete\n• A portfolio with live links to relevant WordPress builds\n\nTo apply, please include:\n• Links to 3 to 5 relevant WordPress projects (Figma to code builds preferred)\n• Confirmation you can commit to a 24 hour test turnaround if shortlisted",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cms-development",
+      "all-in-one-seo-pack",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! I can certainly commit to a 24-hour turnaround for the test assignment if shortlisted. \n\nI specialize in converting Figma designs into pixel-perfect, fully responsive WordPress websites using clean, semantic code and modern theme development practices. Whether it’s matching exact spacing and typography or implementing intuitive interactivity for forms and FAQs where specs are missing, I focus on building high-performance sites meant for the long term. \n\nHere are a few relevant live WordPress projects from my portfolio:\n• https://www.thelifeyoucansave.org/\n• https://www.daysforgirls.org/\n• https://www.cchpca.org/\n\nI am ready for a full-time engagement and would love to discuss the details of the Figma file and the test assignment. When would be a good time to connect?",
+    "publishedDateTime": "2026-09-23T19:09:30+0000",
+    "addedAt": "2026-09-23T19:11:24.395Z",
+    "url": "https://www.upwork.com/jobs/~022102792451576570794",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102792451576570794/apply/"
+  },
+  {
     "id": "2102828488733708959",
     "ciphertext": "~022102828488733708959",
     "title": "Wix / Webflow / WordPress Developer",
