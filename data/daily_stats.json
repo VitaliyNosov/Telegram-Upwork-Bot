@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
   "lastDigestSentDate": "2026-09-22",
-  "totalScanned": 16,
-  "matchedFilters": 8,
+  "totalScanned": 18,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 192,
       "url": "https://www.upwork.com/jobs/~022102525532903088034",
       "addedAt": "2026-09-22T22:35:14.384Z"
+    },
+    {
+      "title": "Senior WordPress Developer/Agency — Financial Services Website Redesign & SEO-Preserving Migration",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022102575453702234018",
+      "addedAt": "2026-09-23T04:49:14.553Z"
     },
     {
       "title": "WordPress/Elementor Developer to Build 12 Child Pages from Existing Templates",
