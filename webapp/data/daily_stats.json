@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
   "lastDigestSentDate": "2026-09-22",
-  "totalScanned": 18,
-  "matchedFilters": 9,
+  "totalScanned": 19,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 192,
       "url": "https://www.upwork.com/jobs/~022102525532903088034",
       "addedAt": "2026-09-22T22:35:14.384Z"
+    },
+    {
+      "title": "Woocommetce Auction Site Needed",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022102620058430873892",
+      "addedAt": "2026-09-23T04:51:22.518Z"
     },
     {
       "title": "Senior WordPress Developer/Agency — Financial Services Website Redesign & SEO-Preserving Migration",

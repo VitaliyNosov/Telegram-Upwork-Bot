@@ -1,5 +1,37 @@
 [
   {
+    "id": "2102620058430873892",
+    "ciphertext": "~022102620058430873892",
+    "title": "Woocommetce Auction Site Needed",
+    "description": "Need a woocommerce auction site built. Need someone with API integration knowledge",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "custom-ecommerce-platform",
+      "woocommerce",
+      "web-programming",
+      "html",
+      "php",
+      "wordpress"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nI can help you build a fully functional WooCommerce auction site tailored to your exact specifications. \n\nWith extensive experience in WordPress, PHP, and WooCommerce development, I specialize in custom e-commerce stores and complex backend functionality. I also have strong expertise in API integrations, ensuring your auction platform seamlessly connects with third-party services, payment gateways, or real-time bidding systems as needed. You can review my work on similar complex WordPress builds like https://www.thelifeyoucansave.org/ to see the quality of my delivery.\n\nLet's chat about your specific feature requirements and how we can get this auction site up and running efficiently. What kind of auction logic or external APIs do you need integrated?",
+    "publishedDateTime": "2026-09-23T04:49:22+0000",
+    "addedAt": "2026-09-23T04:51:23.679Z",
+    "url": "https://www.upwork.com/jobs/~022102620058430873892",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102620058430873892/apply/"
+  },
+  {
     "id": "2102575453702234018",
     "ciphertext": "~022102575453702234018",
     "title": "Senior WordPress Developer/Agency — Financial Services Website Redesign & SEO-Preserving Migration",
