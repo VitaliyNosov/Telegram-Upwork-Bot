@@ -1,5 +1,39 @@
 [
   {
+    "id": "2103052543229262616",
+    "ciphertext": "~022103052543229262616",
+    "title": "Elementor & WooCommerce Specialist for Responsive Optimisation and Product Page Improvements",
+    "description": "We are looking for an experienced UK-based Elementor and WooCommerce specialist to improve the layout, responsiveness and presentation of an existing live WordPress website.\n\nThis is not a redesign or rebuild. The website is already live and functioning. The main aim is to improve the existing site across tablet, mobile and intermediate screen widths, while also improving the layout and user experience of our WooCommerce product/course pages across desktop, tablet and mobile.\n\nThe website is a UK-wide health and safety training marketplace, so the existing booking journey and WooCommerce functionality must remain stable throughout the work.\n\nThe main scope includes:\n\nResponsive optimisation across tablet, mobile and intermediate screen sizes\nHeader and navigation improvements for smaller screen widths\nFooter optimisation for tablet and mobile\nReview and improvement of WooCommerce product/course page layouts across desktop, tablet and mobile\nBetter product image/gallery sizing and placement\nImproved visual hierarchy, spacing, alignment and readability\nImproved presentation of course information, price, dates, location and booking calls to action\nReview of accordion/content sections on product pages\nResponsive improvements across key customer-facing pages including marketplace/search results, course/category pages, basket, checkout, Training Management and FAQs\nFixing Elementor container, flexbox, spacing, wrapping and breakpoint issues where required\nUsing clean CSS where appropriate rather than relying on excessive device-specific margins or workarounds\n\nThe existing desktop design across the wider site should generally be preserved. The main exception is the WooCommerce product/course pages, where we are specifically looking for stronger layout and UX improvements across all devices.\n\nImportant requirements:\n\nStrong experience with Elementor, WooCommerce and responsive design\nExperience improving an existing live website rather than rebuilding from scratch\nComfortable working with Elementor containers/flexbox and CSS\nAble to identify the underlying cause of responsive layout issues rather than applying temporary patches\nChanges should preferably be tested on staging before deployment where appropriate\nExisting WooCommerce booking and checkout functionality must remain intact\nNo plugin replacements, caching changes or unrelated technical changes without approval\nNo redesign or rebuild of the wider site\n\nAt the end of the project we expect:\n\nimproved tablet and mobile layouts across the agreed page types\nimproved WooCommerce product/course page presentation across desktop, tablet and mobile\nheader and footer working cleanly across responsive breakpoints\na stable product → basket → checkout journey\na short summary of changes made and any remaining recommendations\n\nPlease include examples of relevant Elementor + WooCommerce work, particularly projects where you improved the responsiveness and UX of an existing site.\n\nUK-based freelancers only, please.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "responsive-design",
+      "design-enhancement",
+      "css",
+      "wordpress",
+      "woocommerce",
+      "frontend-development",
+      "html",
+      "user-experience-design"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! While I am based just outside the UK, I specialize precisely in Elementor responsive tuning and WooCommerce UX enhancements on live, high-stakes sites without breaking existing booking and checkout journeys. \n\nYour requirement for clean Elementor container/flexbox restructuring and targeted CSS—rather than messy device-specific workarounds or full rebuilds—is right in my wheelhouse. I frequently drop into existing WordPress environments to iron out awkward mobile/tablet breakpoints, refine headers and footers, and elevate product page hierarchies (like restructuring galleries, pricing layouts, course dates, and CTAs for better conversion). \n\nFor instance, on projects like https://www.cchpca.org/, I’ve focused heavily on structural layout refinement, responsive integrity, and seamless UX across all devices. \n\nI always work safely via staging, ensuring your marketplace booking flows remain 100% stable. Shall we discuss your priority pages and current pain points?",
+    "publishedDateTime": "2026-09-24T09:24:25+0000",
+    "addedAt": "2026-09-24T09:25:20.745Z",
+    "url": "https://www.upwork.com/jobs/~022103052543229262616",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103052543229262616/apply/"
+  },
+  {
     "id": "2103042898007784216",
     "ciphertext": "~022103042898007784216",
     "title": "Web Developer Needed For Fix & Improve Existing Website",
