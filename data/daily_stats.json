@@ -1,10 +1,10 @@
 {
   "date": "2026-09-24",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 83,
-  "matchedFilters": 24,
+  "totalScanned": 85,
+  "matchedFilters": 25,
   "byKeyword": {
-    "wordpress developer": 24
+    "wordpress developer": 25
   },
   "topJobs": [
     {
@@ -146,6 +146,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022102933463906748557",
       "addedAt": "2026-09-24T01:31:16.420Z"
+    },
+    {
+      "title": "Malware Plugin Elementor- Wordpress",
+      "budget": "Fixed-price",
+      "score": 96,
+      "url": "https://www.upwork.com/jobs/~022103218474098287501",
+      "addedAt": "2026-09-24T20:25:15.355Z"
     },
     {
       "title": "Website Developer Needed for New Business Website",

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2103218474098287501",
+    "ciphertext": "~022103218474098287501",
+    "title": "Malware Plugin Elementor- Wordpress",
+    "description": "Our Website: palmbeachwildlifeconservationgroup.com and readybarrentals.com have been hacked.  There is an issue with  Elementor, I was told by our hosting company that there was a malware issue.  \n\nI do not know how to fix this, but I need someone to assist ASAP.   I will provide login information to access the accounts.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.82,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 39,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "wordpress-plugin",
+      "elementor"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! I can help you clean up the malware on both palmbeachwildlifeconservationgroup.com and readybarrentals.com, and resolve the Elementor issues right away. \n\nAs a WordPress security and bug-fix specialist, I routinely handle hacked site recovery, malware removal, and plugin conflicts (including Elementor errors caused by malicious injections). I will thoroughly scan your files and database, patch the vulnerabilities, and restore your sites to full, secure working order. \n\nFor a look at my recent WordPress work, you can check out https://www.thelifeyoucansave.org/. \n\nAre you ready to share the temporary login details so I can jump in and diagnose the infection immediately?",
+    "publishedDateTime": "2026-09-24T20:23:41+0000",
+    "addedAt": "2026-09-24T20:25:16.561Z",
+    "url": "https://www.upwork.com/jobs/~022103218474098287501",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103218474098287501/apply/"
+  },
+  {
     "id": "2103206475261198849",
     "ciphertext": "~022103206475261198849",
     "title": "Fix my Wordpress site",
