@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103179911291444814",
+    "ciphertext": "~022103179911291444814",
+    "title": "WHMCS and WordPress Developer",
+    "description": "We need a developer to support our hosting company by building and maintaining WHMCS templates and WordPress sites. \nThe work is on the purpose of being a retainer for use if the company needs urgent assistance with either. \nWe host a main WordPress website accompanied by a WHMCS billing website. \nYoull be responsible for stepping in if required to correct errors of major issues relating to either site. You may be required from time to time to make updates to our website themes or code if required.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$10 - $28/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "mysql",
+      "web-programming"
+    ],
+    "score": 2950,
+    "coverLetter": "Hi!\n\nI can help as your reliable retainer developer for both your WordPress main site and WHMCS billing platform, jumping in quickly whenever urgent issues or updates arise. \n\nWith deep expertise in PHP, WordPress, MySQL, and custom coding, I regularly diagnose and fix critical site errors, database issues, and theme updates—skills that directly apply to maintaining a stable, secure hosting infrastructure. You can see examples of my recent WordPress work at https://www.snopud.com/. \n\nHow many hours per month do you typically anticipate needing for support, and do you currently have a staging environment set up for testing updates? Let's connect to discuss how we can structure this retainer.",
+    "publishedDateTime": "2026-09-24T17:49:51+0000",
+    "addedAt": "2026-09-24T17:51:38.417Z",
+    "url": "https://www.upwork.com/jobs/~022103179911291444814",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103179911291444814/apply/"
+  },
+  {
     "id": "2103177835174152604",
     "ciphertext": "~022103177835174152604",
     "title": "Website Design/development using Elementor and Directorist",
