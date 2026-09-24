@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103042898007784216",
+    "ciphertext": "~022103042898007784216",
+    "title": "Web Developer Needed For Fix & Improve Existing Website",
+    "description": "We are seeking for a developer to fix and improve an existing website. The work includes resolving current issues, improving performance, and making the site more user-friendly. You should be comfortable working with the current codebase, identifying problems, and implementing reliable fixes. This is a part-time project for someone who can communicate clearly and deliver steady progress on an ongoing basis.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 54,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "php",
+      "html"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi!\n\nI can help you diagnose the issues on your existing website, clean up the codebase, and implement the performance and user-experience improvements you need. \n\nAs a WordPress and PHP developer, I routinely handle site audits, bug fixing, and ongoing optimizations. Whether it is resolving plugin conflicts, optimizing database queries, or improving front-end usability, I focus on delivering clean, reliable code that keeps your site running smoothly. You can see examples of my recent work on production sites like https://www.thelifeyoucansave.org/.\n\nLet’s chat about what specific issues you're currently facing and how we can get started on steady improvements. What are the top two pain points on the site right now?",
+    "publishedDateTime": "2026-09-24T08:45:04+0000",
+    "addedAt": "2026-09-24T08:47:32.747Z",
+    "url": "https://www.upwork.com/jobs/~022103042898007784216",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103042898007784216/apply/"
+  },
+  {
     "id": "2102955936651114411",
     "ciphertext": "~022102955936651114411",
     "title": "Expert WordPress Developer Needed: High-Speed Site w/Advanced Filterable Resource Center",
