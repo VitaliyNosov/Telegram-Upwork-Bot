@@ -1,10 +1,10 @@
 {
   "date": "2026-09-24",
   "lastDigestSentDate": "2026-09-23",
-  "totalScanned": 53,
-  "matchedFilters": 16,
+  "totalScanned": 54,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 16
+    "wordpress developer": 17
   },
   "topJobs": [
     {
@@ -69,6 +69,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022103140783785871501",
       "addedAt": "2026-09-24T15:17:14.737Z"
+    },
+    {
+      "title": "Senior WordPress Developer & Technical SEO Strategist for Digital Publisher",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022103155257636479885",
+      "addedAt": "2026-09-24T16:13:14.108Z"
     },
     {
       "title": "Freelance Web Designer/Developer for Luxury Real Estate",
