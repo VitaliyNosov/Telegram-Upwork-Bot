@@ -1,5 +1,34 @@
 [
   {
+    "id": "2102926729332609695",
+    "ciphertext": "~022102926729332609695",
+    "title": "WordPress Website Launch Support",
+    "description": "I need help editing my WordPress website to prepare it for launch. The work includes updating content, refining the layout, and making sure the site is polished and ready to go live. I’m looking for someone who can review the current setup, improve the overall presentation, and ensure everything is organized and functioning smoothly before launch.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi!\n\nI can help you review your current setup, refine the layout, and polish your content so your WordPress site is fully ready for a smooth launch. \n\nWith extensive experience in WordPress development, theme customization, and site optimization, I regularly help clients take their websites from the final staging phase across the finish line. I’ll make sure all pages are visually cohesive, fully functional, and optimized before you go live. You can see an example of my recent work here: https://waapple.org/\n\nWhen are you hoping to launch the site? Let's chat about what needs polishing first.",
+    "publishedDateTime": "2026-09-24T01:07:58+0000",
+    "addedAt": "2026-09-24T01:09:10.431Z",
+    "url": "https://www.upwork.com/jobs/~022102926729332609695",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102926729332609695/apply/"
+  },
+  {
     "id": "2102871885349780208",
     "ciphertext": "~022102871885349780208",
     "title": "Website Build Out",
