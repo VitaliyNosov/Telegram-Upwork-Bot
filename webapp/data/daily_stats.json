@@ -1,10 +1,10 @@
 {
   "date": "2026-09-24",
   "lastDigestSentDate": "2026-09-23",
-  "totalScanned": 62,
-  "matchedFilters": 17,
+  "totalScanned": 63,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 17
+    "wordpress developer": 18
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022103155257636479885",
       "addedAt": "2026-09-24T16:13:14.108Z"
+    },
+    {
+      "title": "WordPress Developer for Gutenberg Builds",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022103170739369171605",
+      "addedAt": "2026-09-24T17:15:16.168Z"
     },
     {
       "title": "Freelance Web Designer/Developer for Luxury Real Estate",

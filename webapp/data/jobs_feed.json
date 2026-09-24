@@ -1,5 +1,36 @@
 [
   {
+    "id": "2103170739369171605",
+    "ciphertext": "~022103170739369171605",
+    "title": "WordPress Developer for Gutenberg Builds",
+    "description": "WordPress Developer Needed for Gutenberg Full Site Editor Website Builds\n\nWe are looking for experienced WordPress developers to build and modify websites using our established starting point themes built with WordPress Gutenberg and Full Site Editing (FSE).\nThis is not an Elementor, Divi, Beaver Builder, or other page builder position. It is also not a Gutenberg extension position.\n\nOur websites are built primarily using native WordPress Gutenberg blocks and Full Site Editing, with heavy use of custom CSS to achieve the required designs and responsive behavior.\nWe do not build our websites around Gutenberg extension suites such as Kadence Blocks, Spectra, GenerateBlocks, Stackable, CoBlocks, or similar tools.\n\nApplicants must be highly comfortable working with native Gutenberg/FSE functionality, writing substantial custom CSS, and building websites with ADA accessibility and usability requirements in mind throughout development.\n\nAccessibility should not be treated as something that is checked only after the website has been completed. Developers are expected to consider accessibility while building templates, components, navigation, forms, content, and responsive layouts.\n\nPlease see full description and requirements here: https://docs.google.com/document/d/1ewH1gn4ectV4Di2gEt2bdbagxcXzpsOT7A3JXE3AfLU/edit?usp=sharing",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "javascript",
+      "html",
+      "web-programming"
+    ],
+    "score": 148,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-24T17:14:02+0000",
+    "addedAt": "2026-09-24T17:15:35.881Z",
+    "url": "https://www.upwork.com/jobs/~022103170739369171605",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103170739369171605/apply/"
+  },
+  {
     "id": "2103155257636479885",
     "ciphertext": "~022103155257636479885",
     "title": "Senior WordPress Developer & Technical SEO Strategist for Digital Publisher",
