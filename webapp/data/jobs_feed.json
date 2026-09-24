@@ -1,5 +1,33 @@
 [
   {
+    "id": "2102955936651114411",
+    "ciphertext": "~022102955936651114411",
+    "title": "Expert WordPress Developer Needed: High-Speed Site w/Advanced Filterable Resource Center",
+    "description": "Expert WordPress Developer Needed: High-Speed Home Improvement Site with Advanced Filterable Resource Center \n\nWe are looking for highly experienced WordPress Developer to build a premium website for our home improvement company. This site needs to be incredibly fast, beautifully optimized for mobile, and built to handle a robust content marketing engine (video blogging, articles, and downloadable resources). \n\nA critical element of this project is the construction of a custom, searchable, and filterable \"Learning Center\" similar in functionality and user experience to riverpoolsandspas.com. \n\n**Core Project Requirements:** \n* **\"Crazy Fast\" Performance:** Extreme optimization for Google Core Web Vitals. Clean code architecture without relying on bloated page builders that drag down performance. Possibly headless?\n* **Mobile-First Responsive Design:** The majority of our traffic will come from homeowners browsing on mobile devices. UX/UI must be flawless on mobile.\n* **Robust Video & Blog Management:** Seamless integration for high-volume video content (YouTube/Vimeo embedding without slowing down page speeds), well-structured articles, and downloadable PDF resources.\n* **Custom Learning Center:** A dynamic, searchable, and multi-category filterable resource hub (similar to the riverpoolsandspas.com layout). Users must be able to filter content by topic, content type (video vs. article), and project scope effortlessly.\n\n**Technical Stack Expectations:** \n-- We did use AI for this part as we don't know everything that would be required to do this well --\n* Mastery of WordPress, PHP, JavaScript, HTML5, and CSS3.\n* Experience with lightweight themes/builders (e.g., GeneratePress, Bricks, or custom Gutenberg blocks) to maximize performance.\n* Deep knowledge of Advanced Custom Fields (ACF) or Custom Post Types (CPT) to build out the structural taxonomy of the Learning Center.\n* Expertise in facet-based search/filtering plugins or custom AJAX filtering solutions (e.g., FacetWP, Search & Filter Pro, or equivalent custom solutions).\n* Absolute mastery of WordPress speed optimization plugins and techniques (WP Rocket, LiteSpeed, CDN configuration, lazy-loading heavy video scripts).\n\n**To Apply, Please Provide:** \n1. Links to 2-3 live WordPress sites you have built from scratch where you achieved exceptional mobile speed scores.\n2. A brief overview of how you would technically architect our searchable/filterable Learning Center (which tools or custom coding approach would you use?).\n3. Include the phrase \"Spade and Hammer\" at the top of your proposal so we know you read this entire brief.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.73,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 57,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 4145,
+    "coverLetter": "Spade and Hammer\n\nHi! \n\nTo build your home improvement site for speed and scale, I would architect the custom \"Learning Center\" using Custom Post Types and Advanced Custom Fields (ACF) paired with an AJAX-powered filtering solution like FacetWP or custom JavaScript to ensure instant, zero-lag results. To keep performance \"crazy fast\" and hit top-tier Core Web Vitals, I avoid bloated builders entirely, opting instead for lightweight setups using Bricks or custom Gutenberg blocks, alongside aggressive media lazy-loading for heavy video embeds.\n\nYou can review my work on high-performance builds like https://www.cchpca.org/ and https://www.snopud.com/, where I delivered fast loading speeds and flawless mobile UX. \n\nWould you prefer a custom AJAX filtering approach or a plugin-based solution like FacetWP for the resource hub? Let’s talk specifics in chat.",
+    "publishedDateTime": "2026-09-24T03:00:18+0000",
+    "addedAt": "2026-09-24T03:01:17.857Z",
+    "url": "https://www.upwork.com/jobs/~022102955936651114411",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102955936651114411/apply/"
+  },
+  {
     "id": "2102933463906748557",
     "ciphertext": "~022102933463906748557",
     "title": "Mailpoet Task inside Wordpress Site",
