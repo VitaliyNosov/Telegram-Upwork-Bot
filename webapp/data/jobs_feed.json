@@ -1,5 +1,31 @@
 [
   {
+    "id": "2103177835174152604",
+    "ciphertext": "~022103177835174152604",
+    "title": "Website Design/development using Elementor and Directorist",
+    "description": "Website Build\n\nThe purpose of the site is to allow baseball players to post a player profile about themselves, announcing that they are interested in /available to join another team.\n\nBaseball coaches are allowed to search the player database/pages and find players that they can then contact and invite to join their team.\n\nWe will start with Baseball, but could expand to other sports.\n\nClosest example of desired design (but with operational differences):  https://sportsmatchbaseball.com/#top\n\nCompared to the example site above:\nWe will NOT send player profiles to coaches within a geographic radius.\nCoaches will need to search the player database to find matches.\n\nPlatform:\n•\tWeb Hosting with Godaddy\n•\tDirectorist\n•\tElementor – web design\n•\tStripe is our merchant account\n\nSubscription model:\n•\tPlayers can create a post a profile - $1 per month recurring\n•\tCoaches can search the player database and contact/invite players - $3 per month\n\nWebsite design:\n•\tSimple – white space – open layout – short descriptions\no\tHome page – this is a simple concept.  The industry is used to this process – usually on social media – we need to let them know why it is better on a website/database platform.\no\tFAQ/ Benefits\no\tSign up page\n\tPlayers – 2 steps – \n1.\tMake payment\n2.\tFill out player registration/information form/Questionaire – most fields are required and several need standardization because they will be searchable by coaches.\no\tEach player will need their own login credentials and account management tools\n\tCoaches – 2 steps\n1.\tMake Payment\n2.\tFill out the coaches information form/questionaire\no\tEach Coach will need login credentials and account management tools.\no\tSearch player database landing page\n\tCoaches will be able to search players by several different fields or combination of fields – State, Age, Position\n* Search output page\no\tPlayer profile pages – each player will get an individual page\n\tPlayer profile pages will contain information gathered in the player sign up process.\n\tPlayers will also be allowed to insert pictures, playing videos (Videos Hosted at Youtube or Vimeo) and additional information onto the page through their account management portal.\n\tThese pages are only accessible/visible to paid/subscribing coaches\no\tPrivacy, terms of service pages will be needed\n\nPlease review and let us know:\n•\tYes, this is a project and platform I can work on\n•\tEstimated # of hours to build this website and functionality\n•\tAny additional plug ins required beyond elementor and directorist\n•\tTimeline – What is your timeline to complete the project\n\nThank you for your consideration.\nCoach Jay",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor"
+    ],
+    "score": 3000,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-24T17:42:13+0000",
+    "addedAt": "2026-09-24T17:43:22.099Z",
+    "url": "https://www.upwork.com/jobs/~022103177835174152604",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103177835174152604/apply/"
+  },
+  {
     "id": "2103171065345681725",
     "ciphertext": "~022103171065345681725",
     "title": "Web Developer for Furniture Website",
