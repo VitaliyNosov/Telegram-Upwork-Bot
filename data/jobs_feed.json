@@ -1,5 +1,39 @@
 [
   {
+    "id": "2103183666653899069",
+    "ciphertext": "~022103183666653899069",
+    "title": "Need site for google AdSense with approval",
+    "description": "Hi, \nI’m looking for a website Google AdSense approval.\n\nProject Requirements:\n\n* Build a fast, responsive WordPress website.\n* Use a clean, modern, SEO-friendly design.\n* Connect a custom domain and enable SSL (HTTPS).\n* Create essential pages:\n    * About Us\n    * Contact Us\n    * Privacy Policy\n    * Terms & Conditions\n    * Disclaimer\n* Organize the website with proper categories and navigation.\n* Optimize site speed and Core Web Vitals.\n* Set up Google Search Console and Google Analytics.\n* Generate and submit an XML sitemap.\n* Ensure the website follows all current Google AdSense policies and best practices.\n\nContent Requirements:\n\n* Publish high-quality, original, human-written content.\n* Articles should be informative, well-structured, and optimized for SEO.\n* No copied, spun, or low-quality content.\n* The website should be fully prepared for Google AdSense approval.\n\nPreferred Skills:\n\n* WordPress Development\n* Technical SEO\n* Google AdSense\n* Google Search Console\n* Google Analytics\n* Website Performance Optimization\n\nPlease include examples of websites you have built that were successfully approved for Google AdSense. Also mention your estimated timeline, total cost, and what is included in your service.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "google-adsense",
+      "seo-keyword-research",
+      "web-programming",
+      "seo",
+      "google-analytics",
+      "google-adsense-api",
+      "wordpress",
+      "sem",
+      "google-adsense-plugin"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! I can build a fast, fully optimized WordPress site structured specifically to meet all Google AdSense policies and get approved smoothly. \n\nMy approach covers everything on your checklist: a clean, responsive design using WordPress, essential policy pages, proper category architecture, XML sitemap generation, and complete integration with Google Search Console and Google Analytics. I also specialize in WordPress speed optimization and Core Web Vitals, ensuring your site loads lightning-fast, which is a key factor for both SEO and AdSense acceptance.\n\nFor instance, I built and optimized sites like https://www.thelifeyoucansave.org/, focusing on performance and clean structure. \n\nTimeline: I can have the site fully built, optimized, and ready for submission within 5-7 days. \n\nWhat is your niche or preferred topic for the content? Let’s chat to get started!",
+    "publishedDateTime": "2026-09-24T18:19:35+0000",
+    "addedAt": "2026-09-24T18:21:22.015Z",
+    "url": "https://www.upwork.com/jobs/~022103183666653899069",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103183666653899069/apply/"
+  },
+  {
     "id": "2103179911291444814",
     "ciphertext": "~022103179911291444814",
     "title": "WHMCS and WordPress Developer",
