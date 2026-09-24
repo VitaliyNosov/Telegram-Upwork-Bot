@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103131213396660895",
+    "ciphertext": "~022103131213396660895",
+    "title": "Website Cleanup for Hotel and Investors",
+    "description": "We need a freelancer to clean up and improve our hotel website for both guests and investors. The work includes reviewing the current site, identifying issues, and making practical updates to improve usability, clarity, and overall presentation. You should be able to assess the site, recommend changes, and implement improvements that make the experience smoother for visitors. This is a small, focused project for someone who can work independently and deliver a polished result.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$25 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "web-programming",
+      "html"
+    ],
+    "score": 3599,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-24T14:36:51+0000",
+    "addedAt": "2026-09-24T14:37:21.338Z",
+    "url": "https://www.upwork.com/jobs/~022103131213396660895",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103131213396660895/apply/"
+  },
+  {
     "id": "2103125323522182242",
     "ciphertext": "~022103125323522182242",
     "title": "Website Developer Needed for New Business Website",
