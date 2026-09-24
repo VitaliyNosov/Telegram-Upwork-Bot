@@ -1,10 +1,10 @@
 {
   "date": "2026-09-24",
   "lastDigestSentDate": "2026-09-23",
-  "totalScanned": 40,
-  "matchedFilters": 12,
+  "totalScanned": 41,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022103042898007784216",
       "addedAt": "2026-09-24T08:47:31.667Z"
+    },
+    {
+      "title": "Redesign of current website for luxury golf travel provider",
+      "budget": "$15-$30/hr",
+      "score": 3099,
+      "url": "https://www.upwork.com/jobs/~022103111072191740656",
+      "addedAt": "2026-09-24T13:19:16.796Z"
     },
     {
       "title": "Add Search to Article Page",

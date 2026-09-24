@@ -1,5 +1,33 @@
 [
   {
+    "id": "2103111072191740656",
+    "ciphertext": "~022103111072191740656",
+    "title": "Redesign of current website for luxury golf travel provider",
+    "description": "We are looking to redesign our current website.  We have designed a concept piece of what a new site could look like.  We are looking for a website that is one page and the header links bring you down to the specific content on the page rather than moving you to new pages.  We focus on high end golf travelers.  We don't transact from our site.  It is used more for validating who we are and what we do.  www.f2hgolf.com is the current site.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 30,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress"
+    ],
+    "score": 3099,
+    "coverLetter": "Hi! \n\nI would love to help you elevate your luxury golf travel brand with a sleek, high-end redesign of f2hgolf.com. Creating a refined, immersive one-page experience with smooth anchor-link navigation is a fantastic way to validate your high-end positioning without the clutter of traditional multi-page structures. \n\nI specialize in custom WordPress development, translating design concepts into fast, pixel-perfect, and responsive sites tailored to high-end audiences. For similar mission-driven and luxury brand aesthetics, you can take a look at my work on [The Life You Can Save](https://www.thelifeyoucansave.org/), where clean typography and seamless user journeys are a priority. \n\nAre you looking to build this using a specific page builder like Elementor, Bricks, or custom Gutenberg blocks, or would you like a recommendation based on your design concept? Let's chat!",
+    "publishedDateTime": "2026-09-24T13:16:53+0000",
+    "addedAt": "2026-09-24T13:19:20.429Z",
+    "url": "https://www.upwork.com/jobs/~022103111072191740656",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103111072191740656/apply/"
+  },
+  {
     "id": "2103105113008736397",
     "ciphertext": "~022103105113008736397",
     "title": "Senior WordPress Developer for Ongoing Development, Integrations, and Maintenance",
