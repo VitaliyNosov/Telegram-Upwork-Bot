@@ -1,5 +1,67 @@
 [
   {
+    "id": "2103206475261198849",
+    "ciphertext": "~022103206475261198849",
+    "title": "Fix my Wordpress site",
+    "description": "**Do not contact me offline, you will be blocked**\n\nMy real estate website, hosted on WP with Elementor, needs many formatting corrections. \n\n-Home page\n-Footer\n-Blog page\n-Elements are not working\n-Video section not formatted correctly\n\nThese changes should take you 3 hours or so. I will make a list for you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 434,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "wordpress-website"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nI can quickly knock out your formatting corrections and fix those broken Elementor elements on your real estate website. I work extensively with Elementor bug fixes, layout repairs, and precision frontend adjustments, ensuring everything looks pixel-perfect on both desktop and mobile. \n\nWhether it's rebuilding the video section, aligning the footer, or cleaning up your homepage and blog, I can easily knock this out in the 3-hour timeframe you mentioned using your list. \n\nYou can check out some of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nSend over your list of changes whenever you're ready, and we can get started today!",
+    "publishedDateTime": "2026-09-24T19:39:35+0000",
+    "addedAt": "2026-09-24T19:41:21.140Z",
+    "url": "https://www.upwork.com/jobs/~022103206475261198849",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103206475261198849/apply/"
+  },
+  {
+    "id": "2103207759083445838",
+    "ciphertext": "~022103207759083445838",
+    "title": "WordPress Marketing Developer (Full Stack) — Contract, $40/hr",
+    "description": "WordPress Marketing Developer (Full Stack) — Contract, $40/hr\n\nInterlaced · Remote · Contract · Starts with a site audit, then up to 5 hrs/week\nhttps://interlaced.io/\n\nThe role\n\nOur website changes all the time: new pages, updates to existing ones, and tracking that has to work. Right now we're dealing with slow page loads, broken images, caching issues, and HubSpot conversions that don't reach Google reliably.\n\nWe need a developer who owns the site from start to finish. You take a design, build it to match, check your own work, and send us something that's ready to review, not a first draft. You spot problems before we do. And you get work done on your own, without needing a call to make it happen.\n\nIf you care about how a site looks and whether its data is right, keep reading.\n\nYour first project: audit and fix\n\nBefore any new builds, you'll do a full technical audit of our site:\n\nPerformance: find out why pages load slowly and fix it (Core Web Vitals, asset loading, plugin bloat, database cleanup).\nCaching: diagnose and fix caching conflicts across WP Engine, plugins, and the CDN.\nImages: fix broken images, sizing, compression, and lazy loading.\nTracking and attribution: make sure HubSpot form submissions show up in Google Ads and GA4 as conversions, and that GTM is set up cleanly.\nEverything else: plugin conflicts, publishing failures (our blog posts recently stopped publishing correctly), security, and anything else you find.\n\nAudit scope: When you apply, include an estimate of how many hours the audit will take. We'll agree on a set number of hours before you start. The deliverable is a written findings report ranked by impact, with an estimated number of hours for each fix. Then you'll start fixing the most urgent issues right away.\n\nAt the same time, you'll build new pages for our AI offering and improve existing pages on the site.\n\nWhat you'll do after the audit\n\nFront end\n\nBuild pages in Divi that match the Figma or design files exactly: spacing, font sizes, image proportions, and how they look on mobile.\nCatch and fix visual problems yourself before sending anything for review. If the text size is off or an image is stretched, you fix it first.\nEmbed and style HubSpot forms so they match the page.\nBuild pop-ups (with triggers, targeting, and page rules) and modern transitions and animations that don't slow the site down.\nImprove existing pages for speed, conversions, and consistency.\n\nBack end\n\nKeep the site fast, stable, and cached correctly on WP Engine.\nOwn the technical tracking setup: GTM, GA4, Google Ads conversion tags, and HubSpot, all working together, and regularly check that the data is coming through.\nWatch for problems before they turn into outages: broken publishing, plugin updates, failed forms, dropped tracking.\nAdvise on attribution. If something in our setup will skew the data, tell us and suggest a fix.\nMust-haves\n3+ years building WordPress sites, with strong Divi experience\nHands-on experience with WP Engine (staging, caching, CDN, backups)\nExperience embedding and troubleshooting HubSpot forms\nWorking knowledge of GTM, GA4, and Google Ads conversion tracking, including getting HubSpot conversions into Google\nA proven record of improving site speed, with before and after numbers\nAn eye for design. You notice when something looks off.\nStrong written communication. You give clear status updates and flag blockers without being asked.\nNice-to-haves\nHTML, CSS, JavaScript, and PHP beyond the page builder\nExperience with enhanced conversions, consent mode, or offline conversion imports\nA background in B2B or SaaS marketing sites\nHow we work\nYou work on your own schedule. We'll send clear direction. You deliver without needing a live session to get things moving.\nYou keep your commitments. When you give a date, you hit it or tell us ahead of time that you can't.\nYou check your own work. What you send for review is ready to launch.\nYou keep us updated. A short written update after each work session: what's done, what's next, and what's blocked.\nRate and hours\n$40/hr, contract\nAudit phase: a set number of hours, agreed before you start, based on your estimate\nOngoing: up to 5 hours per week, including 1 hour set aside for monitoring: site speed, uptime, forms, publishing, and checking that conversions are tracking. The rest goes to page builds and improvements.\nHow to apply\n\nSend the following:\n\nTwo or three WordPress/Divi sites you built or improved, with your specific role on each\nA before and after example of a speed improvement (PageSpeed or GTmetrix scores work)\nYour estimate of how many hours the audit will take, and what it would cover\nShort answers to these scenarios:\nSome visitors see certain images on the site load and others don't. How would you troubleshoot it?\nA HubSpot form is getting submissions, but Google Ads shows zero conversions. Where do you start?\nWe push a page update, but some visitors still see the old version. What do you check?\nA scheduled blog post didn't publish at its set time. How do you find out why, and how do you keep it from happening again?\n\nApplications without answers to these scenarios won't be considered.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$25 - $40/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-plugin",
+      "website-optimization",
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "javascript",
+      "html",
+      "hubspot",
+      "google-tag-manager"
+    ],
+    "score": 4100,
+    "coverLetter": "Hi Interlaced team! I can jump straight into your technical audit, speed optimization, and tracking fixes without needing hand-holding. \n\nFor the initial technical audit (performance, WP Engine caching, broken assets, and GTM/HubSpot tracking), I estimate it will take **5 to 6 hours**. This will cover a comprehensive review of your database bloat, plugin conflicts, CDN/caching layers, and attribution gaps, resulting in a prioritized impact report.\n\nHere are my answers to your scenarios:\n1. **Broken images:** I’d check lazy-loading conflicts, mixed HTTP/HTTPS content, CDN asset paths, and broken image URLs in the database/uploads folder.\n2. **HubSpot to Google Ads conversions:** I’d start by inspecting GTM triggers on the HubSpot form submission event (e.g., `hsFormCallback`), verifying GA4 event tags, and checking Google Ads conversion linker and tag IDs.\n3. **Stale cached pages:** I’d clear object caching, WP Engine page cache, and CDN (Cloudflare/Fastly) rules, while checking for browser caching headers and dynamic plugins bypassing cache.\n4. **Missed scheduled post:** I’d check the WordPress Cron system (`wp-cron.php`), server-level cron jobs via WP-CLI, and conflicting caching or caching plugins blocking the pseudo-cron trigger.\n\nHere is a Divi project from my portfolio matching your stack: https://www.snopud.com/ (customized, optimized WordPress build focusing on performance and layout precision).\n\nLet’s get the audit scheduled—when would you like to kick off?",
+    "publishedDateTime": "2026-09-24T19:40:39+0000",
+    "addedAt": "2026-09-24T19:41:19.438Z",
+    "url": "https://www.upwork.com/jobs/~022103207759083445838",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103207759083445838/apply/"
+  },
+  {
     "id": "2103183666653899069",
     "ciphertext": "~022103183666653899069",
     "title": "Need site for google AdSense with approval",

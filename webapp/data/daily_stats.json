@@ -1,10 +1,10 @@
 {
   "date": "2026-09-24",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 77,
-  "matchedFilters": 22,
+  "totalScanned": 80,
+  "matchedFilters": 24,
   "byKeyword": {
-    "wordpress developer": 22
+    "wordpress developer": 24
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 4145,
       "url": "https://www.upwork.com/jobs/~022102955936651114411",
       "addedAt": "2026-09-24T03:01:16.476Z"
+    },
+    {
+      "title": "WordPress Marketing Developer (Full Stack) — Contract, $40/hr",
+      "budget": "$25-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022103207759083445838",
+      "addedAt": "2026-09-24T19:41:17.352Z"
     },
     {
       "title": "Website Cleanup for Hotel and Investors",
@@ -125,6 +132,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022102871885349780208",
       "addedAt": "2026-09-23T21:29:12.093Z"
+    },
+    {
+      "title": "Fix my Wordpress site",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022103206475261198849",
+      "addedAt": "2026-09-24T19:41:19.937Z"
     },
     {
       "title": "Mailpoet Task inside Wordpress Site",
