@@ -1,5 +1,35 @@
 [
   {
+    "id": "2103239331176702861",
+    "ciphertext": "~022103239331176702861",
+    "title": "WordPress/Elementor Site Updates + On-Page SEO Implementation (Yoast)",
+    "description": "WordPress/Elementor Site Updates + On-Page SEO Implementation (Yoast) — Fully Specced, All Copy Provided\n\nWe're Charrette, a Virginia-based strategic marketing agency, hiring a WordPress developer to implement a fully documented site-optimization project for one of our clients — an established professional-services firm with a five-page WordPress site built on Elementor with Yoast SEO.\n\nThis is implementation, not strategy or copywriting. Every word, title tag, meta description, heading level, alt text entry, and internal link is already written and packaged in a developer work order with per-item acceptance checks. You build exactly what's specified; all scope questions get same-day answers from our strategy lead.\n\n**Scope summary** (full work order shared with shortlisted candidates):\n\n- Set up Google Search Console (Yoast verification available) and GA4, with owner-level access for three parties; submit the XML sitemap\n- Implement supplied title tags and meta descriptions across five pages via Yoast\n- Homepage updates: new hero copy, heading-hierarchy repair from a supplied heading map, and small housekeeping fixes (replace a placeholder image, remove leftover template text, set the og:image)\n- Build three new service pages from supplied copy documents, styled to the existing site pattern and added to navigation\n- Services page updates: relabel cards, remove one card, link three cards to the new pages\n- One section relabel with anchor IDs on an existing page\n- Implement a supplied internal linking map (~19 links) and a supplied alt text inventory (~33 images)\n- Set up redirects for any changed URLs (approach depends on Yoast tier — see question 3)\n\nAn optional Priority 3 add-on (light body-copy refinements from supplied copy, image compression, one schema markup addition) should be quoted as a separate line.\n\n**What we provide:** the complete copy package (six documents), the work order with acceptance checks, site access, and a walkthrough call with the developer who originally built the site.\n\n**In your proposal, please include:**\n\n1. Your estimate for Priority 1 + Priority 2 — fixed fee or hourly with a cap, your preference — with Priority 3 as a separate optional line\n2. Your realistic timeline and earliest start date\n3. How you would handle redirects on Yoast free vs. Yoast Premium\n4. One or two links to comparable Elementor implementation work\n\nWe're ready to start immediately and would like completion within about a month. We're looking for someone meticulous — the acceptance checks are the definition of done, and final QA is verified against them line by line.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.82,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 36,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "yoast-seo",
+      "elementor",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 146,
+    "coverLetter": "Hi Charrette team! \n\nTo answer your technical question right away: for Yoast Free, I handle URL redirects using a trusted third-party redirect manager or .htaccess depending on server access, while Yoast Premium allows handling this directly within the plugin's built-in redirect manager. \n\nWith deep expertise in Elementor bug fixes, site builds, and meticulous technical implementation, I regularly execute exact-spec developer work orders without guesswork. You can review my Elementor implementation work on sites like https://www.thelifeyoucansave.org/. \n\n1. **Estimate:** Fixed fee of $___ for Priority 1 & 2 (happy to outline Priority 3 as a separate line).\n2. **Timeline:** Can start immediately, with completion well within your one-month window.\n3. **Redirects:** (Answered above).\n4. **Portfolio:** https://www.thelifeyoucansave.org/\n\nWhen would you like to schedule the walkthrough call with the original developer?",
+    "publishedDateTime": "2026-09-24T21:50:13+0000",
+    "addedAt": "2026-09-24T21:51:25.538Z",
+    "url": "https://www.upwork.com/jobs/~022103239331176702861",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103239331176702861/apply/"
+  },
+  {
     "id": "2103230883090667528",
     "ciphertext": "~022103230883090667528",
     "title": "Domain Migration: Technical SEO Specialist / WordPress Developer",

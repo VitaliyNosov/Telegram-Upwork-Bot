@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 2,
-  "matchedFilters": 1,
+  "totalScanned": 3,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022103230883090667528",
       "addedAt": "2026-09-24T21:15:15.047Z"
+    },
+    {
+      "title": "WordPress/Elementor Site Updates + On-Page SEO Implementation (Yoast)",
+      "budget": "Fixed-price",
+      "score": 146,
+      "url": "https://www.upwork.com/jobs/~022103239331176702861",
+      "addedAt": "2026-09-24T21:51:24.061Z"
     }
   ]
 }
