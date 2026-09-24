@@ -1,5 +1,45 @@
 [
   {
+    "id": "2103255466706133901",
+    "ciphertext": "~022103255466706133901",
+    "title": "Web Developer / Implementation Specialist for Home Service Websites",
+    "description": "Orange County Home Service Sales & Marketing is looking for a reliable Web Developer / Implementation Specialist to become our go-to technical partner for building and improving high-converting home-service websites and landing pages.\n\nThis is primarily an implementation role.\n\nYou will typically receive approved Figma designs, copy, CRO recommendations, SEO requirements and tracking requirements, then turn them into fast, responsive, reliable production websites.\n\nWe care much more about what you have personally built and the results those websites produced than generic certifications or cover letters.\n\nWHAT YOU’LL OWN\n\n• Build websites and landing pages in WordPress, Webflow and/or Framer\n• Convert Figma designs into responsive production websites\n• Build forms, booking flows and integrations\n• Improve page speed and Core Web Vitals\n• Implement technical SEO and schema requirements provided by our SEO specialist\n• Implement tracking scripts and requirements provided by our analytics specialist\n• Handle staging, backups, deployment and technical QA\n• Troubleshoot website issues\n• Maintain and improve sites after launch where needed\n\nROLE BOUNDARY\n\nOur CRO / UX / UI specialist owns conversion strategy, wireframes and final design.\n\nOur SEO specialist owns keyword, page and technical SEO strategy.\n\nOur Analytics specialist owns tracking and attribution strategy.\n\nYour role is to implement approved requirements accurately, identify technical risks and recommend better implementation approaches when appropriate.\n\nYou are not expected to invent the client’s marketing strategy.\n\nQUALIFICATIONS\n\n• 3+ years building production websites\n• Strong portfolio of live websites you personally developed\n• Strong WordPress, Webflow and/or Framer experience\n• Strong responsive development skills\n• Comfortable implementing designs from Figma\n• Strong HTML/CSS fundamentals\n• JavaScript experience where needed\n• Experience with forms, APIs, webhooks and third-party integrations\n• Strong page-speed / Core Web Vitals knowledge\n• Strong staging, backup, migration and launch process\n• Experience with local-service or lead-generation websites strongly preferred\n• Reliable, responsive and comfortable working independently\n\nWHAT I CARE ABOUT MOST\n\n• The quality of your live work\n• What you personally owned\n• Measurable business or conversion results\n• Page-speed improvements\n• Successful integrations\n• Reliability\n• Attention to design accuracy\n• Ability to work with other specialists\n• Long-term availability\n\nTO APPLY\n\nPlease send 3 live websites you personally developed.\n\nFor each, include:\n\n• Business type\n• Platform\n• What you personally built\n• Whether you worked from your own design or someone else’s Figma\n• Any custom integrations\n• Page-speed or Core Web Vitals improvements\n• Any measurable conversion, lead or business results available\n\nAlso include:\n\n• One difficult technical problem or integration you solved\n• Your hourly rate\n• Current weekly availability\n• How many active builds you can realistically handle\n• Whether you personally perform the development work or use a team\n\nNo generic cover letters.\n\nI care most about real work, real results and how you think.\n\nThis will begin as project-based work with the potential for consistent recurring work if we’re a strong fit.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "webflow",
+      "framer",
+      "html",
+      "html5",
+      "css",
+      "css3",
+      "javascript",
+      "landing-pages",
+      "website-customization",
+      "website-redesign",
+      "figma",
+      "elementor",
+      "php"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I’m a dedicated WordPress and Webflow developer who loves turning Figma designs into fast, reliable, pixel-perfect production websites without needing hand-holding on the technical side. \n\nHere are three live websites I personally developed from approved designs:\n\n1. SnoPUD (https://www.snopud.com/)\n• Business type: Utility / Home Service adjacent\n• Platform: WordPress\n• What I personally built: Custom WordPress development and theme implementation\n• Design source: External Figma designs\n• Integrations & Performance: Optimized for high-traffic Core Web Vitals and accessibility standards.\n\n2. WA Apple Health (https://waapple.org/)\n• Platform: WordPress\n• What I personally built: End-to-end custom build from design files\n• Performance: Strict page-speed optimization and robust responsive layout.\n\n3. THE LIFE YOU CAN SAVE (https://www.thelifeyoucansave.org/)\n• Platform: WordPress\n• What I personally built: Complex custom post types, layouts, and interactive form integrations.\n\nOne difficult technical problem I recently solved involved untangling a severe plugin conflict and broken REST API endpoints on a high-traffic site, which I resolved by refactoring custom PHP and optimizing database queries to restore 100% uptime and speed.\n\n• Hourly rate: [Insert Rate]\n• Current weekly availability: 30–40 hours\n• Active builds I can handle: 2-3 concurrently\n• Team structure: I perform 100% of the development work myself.\n\nLet’s chat about how I can become your go-to technical partner for upcoming builds.",
+    "publishedDateTime": "2026-09-24T22:54:31+0000",
+    "addedAt": "2026-09-24T22:57:13.958Z",
+    "url": "https://www.upwork.com/jobs/~022103255466706133901",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103255466706133901/apply/"
+  },
+  {
     "id": "2103246505174286849",
     "ciphertext": "~022103246505174286849",
     "title": "Migrate Shift4Shop to WordPress",
