@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103054381157025933",
+    "ciphertext": "~022103054381157025933",
+    "title": "Add Search to Article Page",
+    "description": "Need a developer to add a search feature to an existing article page using a custom post type query. The work includes implementing the search functionality, ensuring results display correctly, and making sure the page behaves smoothly after the update. Please share relevant experience with WordPress custom queries and similar page enhancements.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$20 - $30/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.83,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2276,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "seo-keyword-research",
+      "wordpress",
+      "article-writing"
+    ],
+    "score": 3097,
+    "coverLetter": "Hi!\n\nI can quickly add the search feature to your article page using an optimized custom post type query, ensuring fast results and smooth performance without disrupting your current layout. \n\nWith extensive experience in WordPress development, I frequently build custom queries, implement advanced search functionality, and work with custom post types and taxonomies (using ACF and native WP_Query). For instance, I recently developed complex custom layouts and backend queries for sites like https://www.cchpca.org/.\n\nWhen do you need this implemented, and is the current search form already designed, or would you like me to style the UI as well?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-09-24T12:31:00+0000",
+    "addedAt": "2026-09-24T12:31:57.990Z",
+    "url": "https://www.upwork.com/jobs/~022103054381157025933",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103054381157025933/apply/"
+  },
+  {
     "id": "2103083260766278303",
     "ciphertext": "~022103083260766278303",
     "title": "Website Developer Needed",
