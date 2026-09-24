@@ -1,10 +1,10 @@
 {
   "date": "2026-09-24",
   "lastDigestSentDate": "2026-09-23",
-  "totalScanned": 63,
-  "matchedFilters": 18,
+  "totalScanned": 64,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 18
+    "wordpress developer": 19
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022103042898007784216",
       "addedAt": "2026-09-24T08:47:31.667Z"
+    },
+    {
+      "title": "Web Developer for Furniture Website",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022103171065345681725",
+      "addedAt": "2026-09-24T17:17:18.409Z"
     },
     {
       "title": "Redesign of current website for luxury golf travel provider",

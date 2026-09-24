@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103171065345681725",
+    "ciphertext": "~022103171065345681725",
+    "title": "Web Developer for Furniture Website",
+    "description": "I need a web developer to build a website for my furniture business. The site should be clean, professional, and easy to navigate, with a strong focus on showcasing products and supporting customer engagement. I’m looking for someone who can create a polished online presence and help turn visitors into customers. Please share relevant examples of similar projects and your approach to building an effective furniture-focused website.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 3100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-24T17:15:28+0000",
+    "addedAt": "2026-09-24T17:17:44.699Z",
+    "url": "https://www.upwork.com/jobs/~022103171065345681725",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103171065345681725/apply/"
+  },
+  {
     "id": "2103170739369171605",
     "ciphertext": "~022103170739369171605",
     "title": "WordPress Developer for Gutenberg Builds",
