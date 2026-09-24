@@ -1,5 +1,33 @@
 [
   {
+    "id": "2103230883090667528",
+    "ciphertext": "~022103230883090667528",
+    "title": "Domain Migration: Technical SEO Specialist / WordPress Developer",
+    "description": "We are migrating our WordPress site to a new branded domain. We require an experienced Technical SEO Specialist or WordPress Developer to handle the technical site migration, 1-to-1 301 redirect mapping for our static core pages, and the indexation controls/isolation of our Flexmls® IDX pages.\n\nNote: All on-page copywriting, title tags, content updates, and Schema / JSON-LD markup will be handled in-house. This contract is strictly focused on technical migration, server/plugin redirect execution, IDX isolation, and Search Console setup.\n\nCRITICAL ACCESS REQUIREMENT\n\nNo Direct Credentials Provided: For security reasons, we do NOT share direct admin credentials to WordPress, cPanel, or our hosting provider.\n\nRemote Desktop Execution: All work must be completed remotely through my computer using TeamViewer (or similar) during an agreed-upon working block. You will have full hands-on control to perform the migration and configuration while connected. Please do not apply if you cannot work under this requirement.\n\nKey Responsibilities\n\nSite Migration: Execute a complete, seamless WordPress site migration from the old domain to MelbourneFloridaRealty.com via remote desktop.\n\nStatic Page 301 Redirects: Map and implement explicit 1-to-1 301 redirects for approximately 90 static core pages (homepage, about, contact, blog posts, landing pages).\n\nFlexmls® IDX Isolation: Exclude all dynamic Flexmls® IDX listing/search URLs from global or wildcard 301 redirects.\n\nIDX Noindex Configuration: Ensure Flexmls® IDX custom post types and dynamic listing paths on the new domain are properly configured with noindex directives (via SEO plugin settings or X-Robots-Tag HTTP headers) so thousands of temporary MLS property pages do not pollute Google's index.\n\nGoogle Search Console Setup: Assist in verifying the new domain property in Google Search Console, submitting the new XML sitemap (static core pages only), and executing the \"Change of Address\" tool.\n\nPost-Launch Technical QA: Perform a crawl audit (e.g., using Screaming Frog) immediately after launch to verify that all 90 static URLs resolve correctly and that IDX parameters remain functional and unindexed.\n\nPlease start your proposal with the phrase \"Space Coast Remote\" to confirm you have read all security and technical requirements. Make sure to answer the 5 screening questions above in your proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 50,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "cms-development",
+      "seo"
+    ],
+    "score": 150,
+    "coverLetter": "Space Coast Remote — Hi! I am fully prepared to execute your domain migration and handle the technical setup over TeamViewer according to your exact security requirements. \n\nWith extensive experience in WordPress site migrations, URL restructuring, and technical SEO configurations, I regularly manage complex transitions without downtime. I will meticulously map your 90 static core pages for 1-to-1 301 redirects, properly isolate your Flexmls® IDX pages using targeted noindex rules or HTTP headers to protect your crawl budget, and set up your Google Search Console property and XML sitemap. \n\nMy background includes handling high-traffic platform migrations and deep database optimizations (similar to my work on sites like https://www.cchpca.org/), ensuring clean post-launch crawls and seamless execution. \n\nAre you looking to schedule this migration during a specific weekday block, and what time zone are you operating in?",
+    "publishedDateTime": "2026-09-24T21:13:03+0000",
+    "addedAt": "2026-09-24T21:15:16.314Z",
+    "url": "https://www.upwork.com/jobs/~022103230883090667528",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103230883090667528/apply/"
+  },
+  {
     "id": "2103226604289206589",
     "ciphertext": "~022103226604289206589",
     "title": "Web Designer for Legal Services Website",
