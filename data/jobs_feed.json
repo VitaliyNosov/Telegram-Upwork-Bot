@@ -1,5 +1,31 @@
 [
   {
+    "id": "2102933463906748557",
+    "ciphertext": "~022102933463906748557",
+    "title": "Mailpoet Task inside Wordpress Site",
+    "description": "I have a very simple task! Inside the Mailpoet plugin on my site, can you please do the following:\n\n- Move all \"unconfirmed\" subscribers into \"subscribed\"\n- Delete all \"unsubscribed\" entries\n- Delete all \"bounced\" entries\n- Delete all \"inactive\" entries\n- Delete all 'trash\" entries\n\nJust move all \"UNCONFIRMED\" entries into \"SUBSCRIBED\"\n\nThat's it :)\n\nI can send you a debrief video explaining it... see attached!\n\nImmediate start. Should take no more than 1 hour to finish the job.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 58,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! \n\nI can knock out this MailPoet cleanup for you right now. \n\nAs a WordPress expert who regularly handles database management, user list migrations, and plugin configurations, I can quickly and safely batch-update your unconfirmed subscribers, clean out the trash, and purge the bounced and inactive entries without touching your site's health. \n\nSend over the quick video debrief, and I'll jump right in to get this done in under an hour. Ready to start immediately—shall we begin?",
+    "publishedDateTime": "2026-09-24T01:30:22+0000",
+    "addedAt": "2026-09-24T01:31:17.451Z",
+    "url": "https://www.upwork.com/jobs/~022102933463906748557",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102933463906748557/apply/"
+  },
+  {
     "id": "2102930346785591967",
     "ciphertext": "~022102930346785591967",
     "title": "Diagnose and Fix Website Issues",
