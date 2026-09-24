@@ -1,12 +1,19 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 4,
-  "matchedFilters": 2,
+  "totalScanned": 5,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "Migrate Shift4Shop to WordPress",
+      "budget": "$14-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022103246505174286849",
+      "addedAt": "2026-09-24T22:17:14.875Z"
+    },
     {
       "title": "Domain Migration: Technical SEO Specialist / WordPress Developer",
       "budget": "Fixed-price",

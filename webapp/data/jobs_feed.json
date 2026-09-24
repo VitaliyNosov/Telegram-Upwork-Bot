@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103246505174286849",
+    "ciphertext": "~022103246505174286849",
+    "title": "Migrate Shift4Shop to WordPress",
+    "description": "Migrate a Shift4Shop-hosted website to a new WordPress site and merge it with an existing WordPress blog subdomain. Clipa.us has been active since 2009, originally built by iguana and later moved to 3DCart/Shift4Shop. The site is no longer used for sales but still handles free orders for a repair kit. The goal is to improve AI-SEO ranking by consolidating the blog’s 300 articles and press coverage into the new site. The work includes fixing broken or expired links, improving article titles, and ensuring the merged site supports SEO and customer discovery.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$14 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html",
+      "web-programming"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi!\n\nMigrating Clipa.us from Shift4Shop to WordPress while seamlessly merging 300+ legacy blog articles and press pieces from your subdomain is a great project for improving your AI-SEO rankings. I specialize in complex website migrations, content consolidation, and URL structure preservation to ensure you don't lose existing search equity. \n\nBeyond moving the free repair-kit ordering system and legacy pages, I can clean up expired links, optimize article titles for modern SEO, and build a unified, high-performance WordPress structure. For a similar migration and content architecture project, you can check out https://www.thelifeyoucansave.org/, where we handled extensive content organization and performance.\n\nCould you share how the current blog is hosted (e.g., WordPress.org, Subdomain setup) so we can map out the best redirection and database merge strategy?\n\nBest regards,\nWordPress Development Expert",
+    "publishedDateTime": "2026-09-24T22:15:02+0000",
+    "addedAt": "2026-09-24T22:17:16.174Z",
+    "url": "https://www.upwork.com/jobs/~022103246505174286849",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103246505174286849/apply/"
+  },
+  {
     "id": "2103239331176702861",
     "ciphertext": "~022103239331176702861",
     "title": "WordPress/Elementor Site Updates + On-Page SEO Implementation (Yoast)",
