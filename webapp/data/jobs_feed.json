@@ -1,5 +1,38 @@
 [
   {
+    "id": "2103105113008736397",
+    "ciphertext": "~022103105113008736397",
+    "title": "Senior WordPress Developer for Ongoing Development, Integrations, and Maintenance",
+    "description": "We are seeking an experienced WordPress developer for an ongoing engagement of approximately 20 to 30 hours per week. You will own development and maintenance of specialstrong.com, including franchise location pages, event landing pages, lead forms, and routing that sends inquiries to the correct territory.\n\nOur immediate priorities are setting up a staging environment and automated backups. From there, you will support CRM integrations through APIs and webhooks, manage redirects and site cleanup, test pages and forms before launch, and improve site performance and conversions.\n\nYou should have substantial hands-on WordPress experience and be comfortable working with HTML, CSS, PHP, JavaScript, APIs, webhooks, and complex form routing. Experience with Cloudflare, SEO, and UI/UX improvements is a plus. Please include examples of WordPress sites you have worked on and briefly explain your role in their development and maintenance.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 80,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "javascript",
+      "css",
+      "web-programming",
+      "html",
+      "api",
+      "uiux"
+    ],
+    "score": 4149,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-24T12:52:28+0000",
+    "addedAt": "2026-09-24T12:55:28.895Z",
+    "url": "https://www.upwork.com/jobs/~022103105113008736397",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103105113008736397/apply/"
+  },
+  {
     "id": "2103054381157025933",
     "ciphertext": "~022103054381157025933",
     "title": "Add Search to Article Page",

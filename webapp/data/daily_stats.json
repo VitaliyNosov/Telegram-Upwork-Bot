@@ -1,10 +1,10 @@
 {
   "date": "2026-09-24",
   "lastDigestSentDate": "2026-09-23",
-  "totalScanned": 38,
-  "matchedFilters": 11,
+  "totalScanned": 39,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 10000,
       "url": "https://www.upwork.com/jobs/~022102930346785591967",
       "addedAt": "2026-09-24T01:19:11.985Z"
+    },
+    {
+      "title": "Senior WordPress Developer for Ongoing Development, Integrations, and Maintenance",
+      "budget": "$20-$40/hr",
+      "score": 4149,
+      "url": "https://www.upwork.com/jobs/~022103105113008736397",
+      "addedAt": "2026-09-24T12:55:14.863Z"
     },
     {
       "title": "Expert WordPress Developer Needed: High-Speed Site w/Advanced Filterable Resource Center",
