@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103226604289206589",
+    "ciphertext": "~022103226604289206589",
+    "title": "Web Designer for Legal Services Website",
+    "description": "I need help improving my attorney website to increase form submissions from the home page, which currently acts as a landing page. The site is weisberg.tax, and I get decent traffic but not enough inquiries. I’m looking for someone who can review the current setup, suggest improvements, and make changes that help visitors move more easily toward requesting assistance. The goal is to make the site more effective at turning traffic into leads.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$15 - $50/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "css"
+    ],
+    "score": 5100,
+    "coverLetter": "Hi! Improving conversion rates for a legal landing page like weisberg.tax comes down to reducing friction, sharpening the value proposition, and placing clear calls-to-action right where visitors are looking. \n\nWith strong experience in WordPress optimization and UX-focused landing page updates, I can review your current setup, identify why visitors aren't converting, and implement structural changes to turn your existing traffic into qualified client inquiries. \n\nFor a sense of my clean, conversion-focused design and development work, you can take a look at https://about.offerup.com/. \n\nWhat are the main friction points you suspect visitors encounter on the current homepage? Let's connect and discuss a quick game plan to boost your form submissions.",
+    "publishedDateTime": "2026-09-24T20:55:58+0000",
+    "addedAt": "2026-09-24T20:57:14.090Z",
+    "url": "https://www.upwork.com/jobs/~022103226604289206589",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103226604289206589/apply/"
+  },
+  {
     "id": "2103218474098287501",
     "ciphertext": "~022103218474098287501",
     "title": "Malware Plugin Elementor- Wordpress",

@@ -1,10 +1,10 @@
 {
   "date": "2026-09-24",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 88,
-  "matchedFilters": 25,
+  "totalScanned": 90,
+  "matchedFilters": 26,
   "byKeyword": {
-    "wordpress developer": 25
+    "wordpress developer": 26
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 10000,
       "url": "https://www.upwork.com/jobs/~022102930346785591967",
       "addedAt": "2026-09-24T01:19:11.985Z"
+    },
+    {
+      "title": "Web Designer for Legal Services Website",
+      "budget": "$15-$50/hr",
+      "score": 5100,
+      "url": "https://www.upwork.com/jobs/~022103226604289206589",
+      "addedAt": "2026-09-24T20:57:12.985Z"
     },
     {
       "title": "Senior WordPress Developer for Ongoing Development, Integrations, and Maintenance",
