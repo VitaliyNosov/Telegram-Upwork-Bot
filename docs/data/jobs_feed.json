@@ -1,5 +1,39 @@
 [
   {
+    "id": "2102930346785591967",
+    "ciphertext": "~022102930346785591967",
+    "title": "Diagnose and Fix Website Issues",
+    "description": "Two of my partner company's websites have suddenly stopped functioning, and I need a developer to diagnose the issue and provide guidance. One site is CMS-based, and the other is built on Salesforce CRM; both were deployed and running on AWS. I need this issue resolved as soon as possible, ideally within 1–2 days. Please share your experience with similar troubleshooting work and your availability to start immediately.",
+    "isHourly": true,
+    "hourlyBudgetMin": 60,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$60 - $100/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "css",
+      "azure-devops",
+      "devops",
+      "aws-lambda",
+      "amazon-web-services",
+      "salesforce-app-development"
+    ],
+    "score": 10000,
+    "coverLetter": "Hi! I can start immediately to diagnose and fix the sudden downtime on your CMS site hosted on AWS. \n\nWith extensive experience troubleshooting crashed WordPress sites, resolving server-level issues, and working within cloud hosting environments, I am well-equipped to quickly identify whether the root cause is a database error, plugin conflict, or server misconfiguration. While my core expertise is in CMS platforms like WordPress, PHP, and MySQL, I focus on rapid debugging and getting critical infrastructure back online safely. \n\nAre the sites currently throwing specific error messages or a white screen, and do you have AWS console access ready? Let's get this resolved today.",
+    "publishedDateTime": "2026-09-24T01:18:14+0000",
+    "addedAt": "2026-09-24T01:19:13.026Z",
+    "url": "https://www.upwork.com/jobs/~022102930346785591967",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022102930346785591967/apply/"
+  },
+  {
     "id": "2102926729332609695",
     "ciphertext": "~022102926729332609695",
     "title": "WordPress Website Launch Support",
