@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103373212438938113",
+    "ciphertext": "~022103373212438938113",
+    "title": "WordPress Website Upgrade Specialist",
+    "description": "We need a developer to improve our existing WordPress site, which uses a custom theme and WooCommerce. The work includes fixing layout issues, improving page speed, enhancing the checkout and product pages, and making the site more user-friendly. You should be comfortable working with an existing codebase, identifying performance bottlenecks, and delivering a smoother experience for visitors. Please share relevant examples of similar website upgrades and your approach to improving site performance and usability.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI regularly help businesses upgrade their existing WordPress and WooCommerce codebases, specifically tackling layout issues, sluggish page speeds, and checkout friction. \n\nSince your site runs on a custom theme with WooCommerce, my approach is to first diagnose performance bottlenecks (database queries, asset bloat, or server-side issues) and audit the user journey from product page to checkout. I specialize in custom WordPress development, Advanced Custom Fields, and deep WooCommerce optimization, ensuring updates enhance usability without breaking your custom design.\n\nFor a look at my past work with custom WordPress builds, you can check out https://www.seeintl.org/. \n\nCould you share the URL of your site and the top 2-3 pain points in your current checkout flow? I'd be happy to take a quick look.",
+    "publishedDateTime": "2026-09-25T06:38:21+0000",
+    "addedAt": "2026-09-25T06:39:13.169Z",
+    "url": "https://www.upwork.com/jobs/~022103373212438938113",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103373212438938113/apply/"
+  },
+  {
     "id": "2103366624231823368",
     "ciphertext": "~022103366624231823368",
     "title": "Visual Brand Guidelines and WordPress Website",

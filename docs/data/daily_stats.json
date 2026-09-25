@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 25,
-  "matchedFilters": 7,
+  "totalScanned": 26,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022103230883090667528",
       "addedAt": "2026-09-24T21:15:15.047Z"
+    },
+    {
+      "title": "WordPress Website Upgrade Specialist",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022103373212438938113",
+      "addedAt": "2026-09-25T06:39:12.062Z"
     },
     {
       "title": "WordPress/Elementor Site Updates + On-Page SEO Implementation (Yoast)",
