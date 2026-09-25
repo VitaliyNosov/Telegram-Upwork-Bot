@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 60,
-  "matchedFilters": 18,
+  "totalScanned": 61,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 18
+    "wordpress developer": 19
   },
   "topJobs": [
     {
@@ -104,6 +104,13 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022103366624231823368",
       "addedAt": "2026-09-25T06:13:11.365Z"
+    },
+    {
+      "title": "Transportation Pricing / Booking Functionality",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022103576997070330863",
+      "addedAt": "2026-09-25T20:13:12.432Z"
     },
     {
       "title": "Create 10 high converting small landing pages on wordpress, content already there",

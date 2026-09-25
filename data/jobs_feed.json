@@ -1,5 +1,32 @@
 [
   {
+    "id": "2103576997070330863",
+    "ciphertext": "~022103576997070330863",
+    "title": "Transportation Pricing / Booking Functionality",
+    "description": "We are looking for a developer with experience building advanced transportation pricing systems for a self-service booking form.\n\nWe have an existing website, vehicle categories and pricing structure. We also have a detailed pricing spreadsheet that shows the direction of our current rates.\n\nWe need someone who can review the pricing structure, help define the calculation logic, and configure it directly into our website so customers can receive the correct price based on their trip details.\n\nThe pricing system needs to account for:\n\n• Different vehicle categories and rates  \n• Fixed and distance-based airport transfer pricing  \n• Local transportation and disposal packages  \n• Base fares with included kilometers and hours  \n• Per-kilometer charges  \n• Additional hourly charges  \n• Outstation and interstate trips  \n• Minimum daily kilometer requirements  \n• One-way and round-trip calculations  \n• Highway and road tolls  \n• Interstate and state entry taxes  \n• Parking charges where applicable  \n• Driver overnight allowances  \n• Multi-day bookings  \n• Different rates based on trip type, distance and duration  \n• Other location-specific transportation charges  \n\nThis will be a self-service form. A customer should be able to enter their pickup location, destination, trip type, dates and other required information, select a vehicle, and receive the appropriate price automatically.\n\nFor example, for an outstation booking, the system should determine the applicable distance, identify the correct per-kilometer rate for the selected vehicle, apply any minimum kilometer requirement, determine whether an overnight driver allowance applies, and include applicable tolls, state charges and other fees.\n\nWe need the developer to understand transportation pricing well enough to identify edge cases and recommend how different fare rules should interact. We do not want someone who will simply copy values from a spreadsheet into the website.\n\nThe scope includes reviewing our existing pricing spreadsheet, establishing the pricing logic, building the calculation system, connecting it to the customer-facing booking form, and testing different booking scenarios to confirm that the correct price is generated.\n\nExperience with chauffeur services, taxi platforms, airport transfers, car rental systems, intercity transportation, travel booking systems or similar transportation pricing engines is strongly preferred.\n\nWhen applying, please share examples of booking systems, fare calculators or transportation pricing engines you have built, and explain what parts of the pricing logic you were responsible for.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I can help you translate your complex transportation pricing spreadsheet into a robust, automated calculation engine for your WooCommerce booking system. \n\nBuilding advanced pricing logic requires more than just translating numbers—it requires anticipating edge cases like minimum daily kilometer rules, overnight driver allowances, toll stacking, and tiered vehicle rates. I specialize in custom WooCommerce development, advanced pricing structures, and building dynamic self-service forms that handle complex, multi-variable calculations smoothly. \n\nI’ll review your rate sheet, map out the interaction logic for base fares, distance, time, and additional fees, and configure a seamless booking workflow for your customers. \n\nWhen you have a moment, could you share the pricing spreadsheet or a few core routing scenarios so I can review the calculation complexity?",
+    "publishedDateTime": "2026-09-25T20:12:00+0000",
+    "addedAt": "2026-09-25T20:13:13.676Z",
+    "url": "https://www.upwork.com/jobs/~022103576997070330863",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103576997070330863/apply/"
+  },
+  {
     "id": "2103568458766223925",
     "ciphertext": "~022103568458766223925",
     "title": "WordPress/Elementor Developer for Interactive Children’s Feelings and Coping Activities",
