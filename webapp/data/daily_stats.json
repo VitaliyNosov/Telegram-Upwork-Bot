@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 23,
-  "matchedFilters": 6,
+  "totalScanned": 24,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022103317823442856253",
       "addedAt": "2026-09-25T05:59:14.206Z"
+    },
+    {
+      "title": "Visual Brand Guidelines and WordPress Website",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022103366624231823368",
+      "addedAt": "2026-09-25T06:13:11.365Z"
     },
     {
       "title": "Experienced web developer",

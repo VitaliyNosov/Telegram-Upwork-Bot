@@ -1,5 +1,35 @@
 [
   {
+    "id": "2103366624231823368",
+    "ciphertext": "~022103366624231823368",
+    "title": "Visual Brand Guidelines and WordPress Website",
+    "description": "I need a freelancer to create visual brand guidelines and build a WordPress website for my agency. \n\nThe work should include defining a consistent visual identity (based on our brand and verbal identity) and delivering a polished website that reflects the brand. This is a mid to senior role for someone with strong experience in both design and development. \n\nThe project needs to be completed within 3–5 days, so I’m looking for someone who can work efficiently and deliver high-quality results quickly.\n\nReferences:\n- https://www.bb-b.net/en\n- https://wearebou.com/\n\nMost, if not all, graphics and copy will be provided by us. Thank you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Singapore",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 107,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "graphic-design",
+      "web-programming",
+      "brand-identity"
+    ],
+    "score": 98,
+    "coverLetter": "Hi!\n\nI can help you define your visual brand guidelines and build your agency's WordPress website within your 3–5 day timeline. \n\nWhile my core expertise is custom WordPress development, theme building from Figma/designs, and creating polished sites (like https://www.thelifeyoucansave.org/), I also have strong experience translating brand and verbal identities into cohesive digital layouts. Since you already have most of the graphics and copy ready, we can move efficiently to pull everything together into a sleek, high-performing site inspired by the clean aesthetics of your references.\n\nAre you looking to use a specific page builder like Elementor, Gutenberg, or Bricks for the build? Let's chat and get started.",
+    "publishedDateTime": "2026-09-25T06:12:16+0000",
+    "addedAt": "2026-09-25T06:13:15.786Z",
+    "url": "https://www.upwork.com/jobs/~022103366624231823368",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103366624231823368/apply/"
+  },
+  {
     "id": "2103317823442856253",
     "ciphertext": "~022103317823442856253",
     "title": "WordPress Site Copy to New Domain",
