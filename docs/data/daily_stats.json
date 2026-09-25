@@ -1,12 +1,19 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 28,
-  "matchedFilters": 9,
+  "totalScanned": 29,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
+    {
+      "title": "Web Designer with wordpress experience",
+      "budget": "$15-$50/hr",
+      "score": 5100,
+      "url": "https://www.upwork.com/jobs/~022103403518442887829",
+      "addedAt": "2026-09-25T08:41:15.444Z"
+    },
     {
       "title": "Migrate Shift4Shop to WordPress",
       "budget": "$14-$35/hr",

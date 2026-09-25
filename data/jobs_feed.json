@@ -1,5 +1,39 @@
 [
   {
+    "id": "2103403518442887829",
+    "ciphertext": "~022103403518442887829",
+    "title": "Web Designer with wordpress experience",
+    "description": "I have a 2 websites that I would like to get on to wordpress and off of a third-party web builder platform. One is a landing page..the other is a 4 page site. I know my designs mainly but need these to look great on mobile and table. I need these haev a clean and flat design. super modern preferably.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$15 - $50/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "adaptive-web-design",
+      "uiux-prototyping",
+      "responsive-design",
+      "high-fidelity-design",
+      "user-experience-design",
+      "wordpress",
+      "web-programming",
+      "graphic-design",
+      "visual-design"
+    ],
+    "score": 5100,
+    "coverLetter": "Hi!\n\nMigrating your two sites (the landing page and 4-page site) from a third-party builder to a clean, modern WordPress setup is right in my wheelhouse. I specialize in custom, flat-design WordPress development that translates seamlessly into responsive, pixel-perfect layouts across mobile, tablet, and desktop. \n\nRather than relying on heavy, bloated builders, I build fast, lightweight sites using Gutenberg or custom ACF setups to ensure they look stunning and load instantly. For instance, I recently migrated and rebuilt sites like https://www.seeintl.org/ and https://www.cchpca.org/, ensuring modern UI/UX design with flawless mobile responsiveness.\n\nDo you already have the designs finalized in Figma or another tool, or would we be adapting them directly from the current builder? Let’s chat about getting these migrated smoothly!",
+    "publishedDateTime": "2026-09-25T08:39:01+0000",
+    "addedAt": "2026-09-25T08:41:16.889Z",
+    "url": "https://www.upwork.com/jobs/~022103403518442887829",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103403518442887829/apply/"
+  },
+  {
     "id": "2103348922634152253",
     "ciphertext": "~022103348922634152253",
     "title": "Create 10 high converting small landing pages on wordpress, content already there",
