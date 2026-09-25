@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103546980188424757",
+    "ciphertext": "~022103546980188424757",
+    "title": "WordPress Site Manager for Tennis Education Platform",
+    "description": "Title\n\nWordPress Site Manager for a Growing Tennis Education Platform (Ongoing, Part-Time)\n\nAbout us\n\nFirst Ball To Last (firstballtolast.com) is a tennis platform teaching emotional intelligence and mental performance to competitive players, parents, and coaches. We run on WordPress. We publish regularly, run in-person events, and are launching in November followed by a six-month promotional push, so the site needs someone tending it consistently rather than in bursts.\n\nWhat you'd do\n\n\nUpload and format content we supply: articles, video, images, landing pages\nKeep the site healthy: plugin and theme updates, backups, security, uptime, page speed, broken links\nBuild and adjust pages, and handle occasional light redesigns of existing sections\nOrganize the site as it grows: navigation, categories, tagging, internal linking, media library\nBasic on-page SEO: titles, meta descriptions, alt text, sitemap\nSupport promotion: email campaigns, landing pages for events, embedding and scheduling social content\nFlag problems and suggest improvements before we ask\nYou should have\n2+ years managing live WordPress sites, not just building them once\nComfort with our page builder and theme, plus plugin troubleshooting\nA good eye: pages you build should look like the rest of the site, not like a template\nClear written English and a reliable weekly rhythm\nLinks to 2–3 sites you currently maintain\nNice to have\nMembership or subscription plugins (MemberPress, WooCommerce Subscriptions, or similar)\nEmail platforms (Mailchimp, ConvertKit, or similar)\nBasic video handling: compressing, embedding, thumbnails, captions\nCanva or light graphics work\nAny interest in tennis or junior sports, though it isn't required\nTiming\n\nOctober is site clean-up and promotion ahead of a November launch, so this starts busy: expect a heavier load through October, then a steady ongoing rhythm once we're live. We want someone in place within the next two weeks.\n\nHow this works\n\nWe'll start with one small paid project this week so we can both see how it goes. If it's a fit, this becomes an ongoing arrangement of roughly [X] hours per week through October, settling to [X] hours per week after launch, with room to grow as the platform does.\n\nTo apply\n\nSkip the generic cover letter. Answer these four things:\n\nTwo or three WordPress sites you currently maintain, with links.\nLook at firstballtolast.com and name one thing you'd fix first, and why.\nHow do you handle a plugin update that takes a live site down?\nYour time zone and the hours you're typically reachable.\n\nStart your reply with the word \"ace\" so I know you read this.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 3148,
+    "coverLetter": "Ace. Hi! I’m a WordPress developer who specializes in the exact type of ongoing maintenance and site management you need for First Ball To Last.\n\nI currently maintain several high-traffic sites, including https://www.thelifeyoucansave.org/ and https://www.cchpca.org/, focusing on performance, security, and content structure. Regarding your site, I’d prioritize optimizing the loading speed of your video embeds, as heavy media can often drag down Core Web Vitals and impact user retention during your November launch. \n\nIf a plugin update causes a site crash, I immediately roll back to the most recent backup, diagnose the conflict in a staging environment, and apply a fix or look for a stable alternative. I am based in [Insert Your Time Zone] and am typically reachable between [Insert Hours] for consistent support.\n\nWhen can we chat about the initial project to get things moving?",
+    "publishedDateTime": "2026-09-25T18:08:33+0000",
+    "addedAt": "2026-09-25T18:09:15.481Z",
+    "url": "https://www.upwork.com/jobs/~022103546980188424757",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103546980188424757/apply/"
+  },
+  {
     "id": "2103530711615527676",
     "ciphertext": "~022103530711615527676",
     "title": "Migrate existing Wordpress + Divi site to new server",

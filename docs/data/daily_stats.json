@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 50,
-  "matchedFilters": 16,
+  "totalScanned": 51,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 16
+    "wordpress developer": 17
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022103246505174286849",
       "addedAt": "2026-09-24T22:17:14.875Z"
+    },
+    {
+      "title": "WordPress Site Manager for Tennis Education Platform",
+      "budget": "$15-$30/hr",
+      "score": 3148,
+      "url": "https://www.upwork.com/jobs/~022103546980188424757",
+      "addedAt": "2026-09-25T18:09:13.145Z"
     },
     {
       "title": "Wordpress website",
