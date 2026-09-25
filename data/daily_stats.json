@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 65,
-  "matchedFilters": 21,
+  "totalScanned": 66,
+  "matchedFilters": 22,
   "byKeyword": {
-    "wordpress developer": 21
+    "wordpress developer": 22
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022103373212438938113",
       "addedAt": "2026-09-25T06:39:12.062Z"
+    },
+    {
+      "title": "Need my website from Shopify copied over to WordPress in 24hours.",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022103585371792620189",
+      "addedAt": "2026-09-25T20:43:14.731Z"
     },
     {
       "title": "WordPress/Elementor Site Updates + On-Page SEO Implementation (Yoast)",

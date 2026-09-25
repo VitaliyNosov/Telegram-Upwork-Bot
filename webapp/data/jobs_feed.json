@@ -1,5 +1,33 @@
 [
   {
+    "id": "2103585371792620189",
+    "ciphertext": "~022103585371792620189",
+    "title": "Need my website from Shopify copied over to WordPress in 24hours.",
+    "description": "I have a website on Shopify that is no longer able to accept funds. I will give you the login information and then copy my Shopify store into a WordPress store with WooCommerce. I only have 5 products and 7 different pages is all. The payment processor I need only has a plugin for WooCommerce. I need this done ASAP. I also already have an account with WordPress. Please let me know what else you would need. Has to be done in 24 hours.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wp-ecommerce",
+      "ecommerce-consulting",
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can migrate your Shopify store to WordPress with WooCommerce in well under your 24-hour deadline. \n\nWith only 5 products and 7 pages, this is a straightforward project that I can knock out quickly and accurately. As a WordPress and WooCommerce specialist, I routinely handle site migrations, store setups, and payment gateway integrations. I will ensure your products, pages, and layout are seamlessly transferred over, and properly configure your required payment processor plugin so you can start accepting funds again immediately.\n\nTo get started right away, I just need your Shopify login and your WordPress admin credentials. \n\nAre you ready to share the details so I can begin immediately?",
+    "publishedDateTime": "2026-09-25T20:40:42+0000",
+    "addedAt": "2026-09-25T20:43:15.953Z",
+    "url": "https://www.upwork.com/jobs/~022103585371792620189",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103585371792620189/apply/"
+  },
+  {
     "id": "2103582495465933365",
     "ciphertext": "~022103582495465933365",
     "title": "WordPress wp-admin Error Fix",
