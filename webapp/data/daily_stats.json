@@ -1,12 +1,19 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 66,
-  "matchedFilters": 22,
+  "totalScanned": 68,
+  "matchedFilters": 24,
   "byKeyword": {
-    "wordpress developer": 22
+    "wordpress developer": 24
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Developer / Architect  - Website & Product Configurator Rebuild",
+      "budget": "$20-$60/hr",
+      "score": 6150,
+      "url": "https://www.upwork.com/jobs/~022103586124023803256",
+      "addedAt": "2026-09-25T20:45:13.543Z"
+    },
     {
       "title": "Web Designer with wordpress experience",
       "budget": "$15-$50/hr",
@@ -104,6 +111,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022103581264626961800",
       "addedAt": "2026-09-25T20:27:11.585Z"
+    },
+    {
+      "title": "Blind and shutters",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022103585867173014904",
+      "addedAt": "2026-09-25T20:45:16.024Z"
     },
     {
       "title": "WordPress Site Copy to New Domain",

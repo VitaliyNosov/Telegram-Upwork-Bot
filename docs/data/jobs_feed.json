@@ -1,5 +1,65 @@
 [
   {
+    "id": "2103585867173014904",
+    "ciphertext": "~022103585867173014904",
+    "title": "Blind and shutters",
+    "description": "WordPress website redo for a blinds and shutters project. Need someone creative and ready to go.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 453,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help you redo your WordPress website for your blinds and shutters project. Since you need something creative and ready to go, I can jump right in and bring a fresh, professional look to your brand.\n\nWith extensive experience in custom WordPress development, theme customization, and converting designs into fully functional, high-performing sites, I know how to build a clean, conversion-focused website tailored specifically to showcase products like blinds and shutters. For a sample of my recent WordPress work, you can take a look at https://www.seeintl.org/. \n\nAre you working with pre-designed layouts (like Figma), or would you like me to take the creative lead on the visual design as well? \n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-09-25T20:42:59+0000",
+    "addedAt": "2026-09-25T20:45:17.196Z",
+    "url": "https://www.upwork.com/jobs/~022103585867173014904",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103585867173014904/apply/"
+  },
+  {
+    "id": "2103586124023803256",
+    "ciphertext": "~022103586124023803256",
+    "title": "Senior WordPress Developer / Architect  - Website & Product Configurator Rebuild",
+    "description": "Project Type: WordPress architecture, development, migration, performance optimization and custom product configurator\nIndustry: Manufacturing / Consumer Products\nDevelopment Environment: Separate development/staging server\nEngagement: Project-based, with potential ongoing development/support\nProject Overview\nWe are an established North American manufacturer seeking an experienced senior WordPress developer/architect to rebuild and modernize our corporate and product website.\nThis is not simply a website redesign project.\nThe existing WordPress website contains a significant amount of valuable structured product information and custom functionality but has accumulated substantial technical debt. The current implementation relies heavily on Elementor/Elementor Pro, JetEngine/Crocoblock, multiple Elementor extensions and numerous utility plugins. Approximately 50+ plugins are currently installed.\nOur objective is to retain WordPress and preserve the site's valuable content and product data while creating a substantially leaner, faster, more maintainable and less plugin-dependent website.\nA major project objective is to eliminate Elementor and Elementor Pro, along with unnecessary Elementor-related dependencies.\nThe project also includes the complete rebuild and modernization of an existing interactive Product Builder, which allows consumers to configure products based on available models, bases, finishes and other options.\nThe company's identity, production website URL and access to the existing system will be provided to shortlisted candidates.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$20 - $60/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "javascript",
+      "html",
+      "php",
+      "css",
+      "mysql"
+    ],
+    "score": 6150,
+    "coverLetter": "Hi!\n\nEliminating heavy page builders like Elementor, reducing a bloated 50+ plugin stack, and modernizing a complex WordPress architecture is right in my wheelhouse. As a senior WordPress developer, I specialize in moving sites away from fragile drag-and-drop builders toward lean, maintainable, and high-performance custom builds using native Gutenberg blocks, ACF, and clean PHP/JavaScript.\n\nI also have extensive experience architecting custom interactive tools, such as product configurators and builders, ensuring seamless user experiences without relying on clunky third-party plugins. For instance, I recently rebuilt and optimized complex enterprise platforms like https://www.snopud.com/, focusing on speed, clean code structure, and data preservation.\n\nI'd love to learn more about the specific logic behind your current product configurator. Are you looking to rebuild it using a native JS framework integrated with WordPress, or a custom Gutenberg block approach? Let's connect to discuss the details.",
+    "publishedDateTime": "2026-09-25T20:44:29+0000",
+    "addedAt": "2026-09-25T20:45:15.583Z",
+    "url": "https://www.upwork.com/jobs/~022103586124023803256",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103586124023803256/apply/"
+  },
+  {
     "id": "2103585371792620189",
     "ciphertext": "~022103585371792620189",
     "title": "Need my website from Shopify copied over to WordPress in 24hours.",
