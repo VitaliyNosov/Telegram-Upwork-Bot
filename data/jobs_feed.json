@@ -1,5 +1,37 @@
 [
   {
+    "id": "2103502833803806526",
+    "ciphertext": "~022103502833803806526",
+    "title": "Build responsive WordPress Website with active emails and functional host and domain.",
+    "description": "We need a new website based on WordPress with quality Images from scratch with logo and active responsive e mails to be ready in 5 days for an existing Family Office business entity. Fully functional website made in go daddy with C panel mails.\n\nBe serious efficient and effective.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Switzerland",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 40,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website",
+      "wordpress",
+      "web-programming",
+      "godaddy",
+      "web-design",
+      "logo-design",
+      "woocommerce"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can build your complete, responsive WordPress website from scratch, set up professional GoDaddy cPanel emails, and have everything fully functional and polished within your 5-day deadline. \n\nFor projects like this, I handle end-to-end WordPress development—including clean layouts, quality imagery integration, and reliable email configuration to ensure your family office has a professional online presence right out of the gate. I frequently build high-performance WordPress sites for established organizations, such as https://www.cchpca.org/, focusing on responsiveness and seamless hosting setup. \n\nLet's get this moving quickly—do you already have the brand assets and logo concepts ready, or should we incorporate those into the 5-day timeline?",
+    "publishedDateTime": "2026-09-25T15:12:44+0000",
+    "addedAt": "2026-09-25T15:15:16.874Z",
+    "url": "https://www.upwork.com/jobs/~022103502833803806526",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103502833803806526/apply/"
+  },
+  {
     "id": "2103497369472977279",
     "ciphertext": "~022103497369472977279",
     "title": "Website Development with Vercel",

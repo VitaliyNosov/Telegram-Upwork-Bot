@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 42,
-  "matchedFilters": 13,
+  "totalScanned": 43,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022103497369472977279",
       "addedAt": "2026-09-25T14:53:16.375Z"
+    },
+    {
+      "title": "Build responsive WordPress Website with active emails and functional host and domain.",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022103502833803806526",
+      "addedAt": "2026-09-25T15:15:15.612Z"
     },
     {
       "title": "WordPress Site Copy to New Domain",
