@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103317823442856253",
+    "ciphertext": "~022103317823442856253",
+    "title": "WordPress Site Copy to New Domain",
+    "description": "Need someone to create an exact copy of my existing WordPress website on a new domain. The work includes duplicating the site structure, content, and settings, and ensuring everything functions correctly after migration. Please have experience with WordPress site transfers and be able to complete the task efficiently and accurately.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 21,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "web-hosting"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nI can help you create an exact, seamless copy of your WordPress website on your new domain quickly and accurately. \n\nWebsite migration and hosting transfers are core services I handle regularly. I will ensure that your site structure, database, content, and all settings are duplicated without data loss, followed by thorough testing to guarantee everything functions perfectly on the new URL—including permalinks, forms, images, and internal links. For example, I recently migrated complex WordPress builds like https://www.seeintl.org/ smoothly and with zero downtime.\n\nCould you share access details for both the current host and the new domain so we can get started?",
+    "publishedDateTime": "2026-09-25T05:58:25+0000",
+    "addedAt": "2026-09-25T05:59:21.175Z",
+    "url": "https://www.upwork.com/jobs/~022103317823442856253",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103317823442856253/apply/"
+  },
+  {
     "id": "2103232926154513045",
     "ciphertext": "~022103232926154513045",
     "title": "Experienced web developer",
