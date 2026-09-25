@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 33,
-  "matchedFilters": 11,
+  "totalScanned": 34,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022103317823442856253",
       "addedAt": "2026-09-25T05:59:14.206Z"
+    },
+    {
+      "title": "Full stack developer AND designer, I need someone that can add things to website, do SEO and do code",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022103459326982965142",
+      "addedAt": "2026-09-25T12:21:31.152Z"
     },
     {
       "title": "Visual Brand Guidelines and WordPress Website",
