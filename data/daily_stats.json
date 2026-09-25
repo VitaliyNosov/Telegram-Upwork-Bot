@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 62,
-  "matchedFilters": 19,
+  "totalScanned": 63,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 19
+    "wordpress developer": 20
   },
   "topJobs": [
     {
@@ -83,6 +83,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022103568458766223925",
       "addedAt": "2026-09-25T19:37:13.190Z"
+    },
+    {
+      "title": "Navigation Bar repair",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022103581264626961800",
+      "addedAt": "2026-09-25T20:27:11.585Z"
     },
     {
       "title": "WordPress Site Copy to New Domain",

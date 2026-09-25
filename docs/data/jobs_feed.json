@@ -1,5 +1,33 @@
 [
   {
+    "id": "2103581264626961800",
+    "ciphertext": "~022103581264626961800",
+    "title": "Navigation Bar repair",
+    "description": "We’re looking for a developer skilled in HTML, CSS, and JavaScript to troubleshoot and repair the custom navigation bar on our HubSpot-hosted blog, which may have broken following HubSpot updates. The project involves identifying and fixing the issue, then updating the blog’s navigation to match the design and functionality of our main website’s navigation bar. Experience with HubSpot customization and responsive navigation is necessary.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 28,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can quickly troubleshoot and repair your HubSpot blog's custom navigation bar, bringing it up to date with your main website's design and functionality. \n\nWhile my primary expertise is in WordPress and PHP, I have hands-on experience with HubSpot CMS development, custom HTML/CSS/JavaScript, and resolving layout breakages caused by platform updates. Whether it's a responsive menu toggle issue, broken CSS, or a DOM structure mismatch post-update, I'll have it sorted out efficiently.\n\nCould you share the URL of your main website and the HubSpot blog so I can take a quick look at the current navigation setup? Let's get this fixed for you today.",
+    "publishedDateTime": "2026-09-25T20:25:23+0000",
+    "addedAt": "2026-09-25T20:27:13.178Z",
+    "url": "https://www.upwork.com/jobs/~022103581264626961800",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103581264626961800/apply/"
+  },
+  {
     "id": "2103576997070330863",
     "ciphertext": "~022103576997070330863",
     "title": "Transportation Pricing / Booking Functionality",
