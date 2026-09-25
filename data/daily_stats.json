@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 9,
-  "matchedFilters": 4,
+  "totalScanned": 10,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 146,
       "url": "https://www.upwork.com/jobs/~022103239331176702861",
       "addedAt": "2026-09-24T21:51:24.061Z"
+    },
+    {
+      "title": "Experienced web developer",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022103232926154513045",
+      "addedAt": "2026-09-25T00:21:15.879Z"
     },
     {
       "title": "Web Developer / Implementation Specialist for Home Service Websites",

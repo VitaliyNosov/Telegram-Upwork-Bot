@@ -1,5 +1,37 @@
 [
   {
+    "id": "2103232926154513045",
+    "ciphertext": "~022103232926154513045",
+    "title": "Experienced web developer",
+    "description": "We're a wellness technology brand preparing to launch our e-commerce website, and we're looking for an experienced developer to bring our brand to life online.\n\nWhat you'll do\n- Build a fast, elegant e-commerce website from the ground up\n- Translate our brand into a calm, premium, trust-building experience\n- Set up product pages, checkout, payments and shipping\n- Build a flexible blog and content hub we can run ourselves\n- Get the fundamentals right: SEO, speed, mobile, accessibility, analytics\n- Lay the groundwork for a companion web app to be built later\n\nMust have\n- A portfolio including high-end wellness, beauty or lifestyle brands\n- Strong e-commerce experience (Shopify, WooCommerce or similar)\n- An eye for luxury design: whitespace, typography, subtle motion\n- Clear communication and reliable delivery against deadlines\n\nNice to have\n- Experience launching a wellness or health-tech product\n- Email marketing and CRM integrations \n- Web app or API experience for future phases\n- UX/UI design skills\n\n\n- Timeline: 3 weeks \n- Budget: fixed project fee \n- Location: Remote, flexible for UK time zone",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-development",
+      "e-commerce-website",
+      "website-optimization",
+      "api-integration",
+      "web-programming",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nBuilding a calm, high-end e-commerce experience for a wellness tech brand requires a precise balance of luxury aesthetics, speed, and robust backend functionality like WooCommerce and secure checkout. I specialize in developing custom, lightning-fast e-commerce platforms that prioritize whitespace, immaculate typography, and seamless user journeys. \n\nFor example, I built [https://www.thelifeyoucansave.org/](https://www.thelifeyoucansave.org/), focusing on clean design, performance, and scalability. Beyond the initial e-commerce build, I have deep experience setting up flexible content hubs, integrating APIs, and laying down clean code foundations for future web app integrations. \n\nI work comfortably within UK time zones and can easily hit your 3-week timeline. Would you like to share the designs or brand guidelines so we can discuss the best technical stack for the launch?",
+    "publishedDateTime": "2026-09-25T00:20:38+0000",
+    "addedAt": "2026-09-25T00:21:17.717Z",
+    "url": "https://www.upwork.com/jobs/~022103232926154513045",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103232926154513045/apply/"
+  },
+  {
     "id": "2103255466706133901",
     "ciphertext": "~022103255466706133901",
     "title": "Web Developer / Implementation Specialist for Home Service Websites",
