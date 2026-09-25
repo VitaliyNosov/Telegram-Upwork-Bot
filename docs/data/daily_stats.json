@@ -1,8 +1,18 @@
 {
   "date": "2026-09-26",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 3,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 4,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Website Redesign and Rebuild",
+      "budget": "$18-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022103614197211450760",
+      "addedAt": "2026-09-25T22:37:13.177Z"
+    }
+  ]
 }
