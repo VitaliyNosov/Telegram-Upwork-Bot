@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 46,
-  "matchedFilters": 14,
+  "totalScanned": 48,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022103246505174286849",
       "addedAt": "2026-09-24T22:17:14.875Z"
+    },
+    {
+      "title": "Wordpress website",
+      "budget": "$14-$28/hr",
+      "score": 2900,
+      "url": "https://www.upwork.com/jobs/~022103481785117034879",
+      "addedAt": "2026-09-25T16:51:29.643Z"
     },
     {
       "title": "Domain Migration: Technical SEO Specialist / WordPress Developer",

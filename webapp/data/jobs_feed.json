@@ -1,5 +1,31 @@
 [
   {
+    "id": "2103481785117034879",
+    "ciphertext": "~022103481785117034879",
+    "title": "Wordpress website",
+    "description": "we want to desing a landing page ,, can you help me to find talent",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 2900,
+    "coverLetter": "Hi! \n\nI can help you design and build a high-converting WordPress landing page that loads fast and looks great on all devices. \n\nWhether you have a design ready in Figma or need it built from scratch, I specialize in creating clean, responsive WordPress pages using Gutenberg or page builders like Elementor and Bricks. I focus on fast performance, strong conversion design, and clean code that is easy for you to manage. \n\nYou can check out a sample of my recent work here: https://www.thelifeyoucansave.org/\n\nDo you already have a design or wireframe ready, or would you like to discuss layout ideas first? Let’s chat!",
+    "publishedDateTime": "2026-09-25T16:49:53+0000",
+    "addedAt": "2026-09-25T16:51:30.715Z",
+    "url": "https://www.upwork.com/jobs/~022103481785117034879",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103481785117034879/apply/"
+  },
+  {
     "id": "2103502833803806526",
     "ciphertext": "~022103502833803806526",
     "title": "Build responsive WordPress Website with active emails and functional host and domain.",
