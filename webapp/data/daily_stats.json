@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 48,
-  "matchedFilters": 15,
+  "totalScanned": 49,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022103502833803806526",
       "addedAt": "2026-09-25T15:15:15.612Z"
+    },
+    {
+      "title": "Migrate existing Wordpress + Divi site to new server",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022103530711615527676",
+      "addedAt": "2026-09-25T17:09:16.857Z"
     },
     {
       "title": "WordPress Site Copy to New Domain",

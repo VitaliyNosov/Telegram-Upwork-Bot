@@ -1,5 +1,31 @@
 [
   {
+    "id": "2103530711615527676",
+    "ciphertext": "~022103530711615527676",
+    "title": "Migrate existing Wordpress + Divi site to new server",
+    "description": "Existing Wordpress site built with Divi builder. Getting frequent downtime, server might have malware. Needs to be migrated to a different Wordpress server along with basic plugin stack. The new Wordpress server will already be setup with a bare install of Wordpress, and you will get sudo access. Fixed rate quotes only.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you cleanly migrate your WordPress and Divi site to your new server while safely resolving the downtime and potential malware issues you mentioned. \n\nWith extensive experience in WordPress migrations, server management, and malware recovery, I will ensure your database, files, and Divi layouts are transferred without data loss. I'll also perform a security check during the migration to ensure the new environment is completely clean, and configure your existing plugin stack on the new bare install using my root/sudo access. \n\nYou can check out some of my recent WordPress projects here: https://www.thelifeyoucansave.org/\n\nCould you share the current hosting details and whether you want me to run a full malware cleanup before or after the migration? \n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-09-25T17:07:59+0000",
+    "addedAt": "2026-09-25T17:09:18.068Z",
+    "url": "https://www.upwork.com/jobs/~022103530711615527676",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103530711615527676/apply/"
+  },
+  {
     "id": "2103481785117034879",
     "ciphertext": "~022103481785117034879",
     "title": "Wordpress website",
