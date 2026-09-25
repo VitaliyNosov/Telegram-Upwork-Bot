@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 31,
-  "matchedFilters": 10,
+  "totalScanned": 32,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022103255466706133901",
       "addedAt": "2026-09-24T22:57:12.127Z"
+    },
+    {
+      "title": "WordPress/Elementor Website – UK CBT Therapy Business",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022103391785115879392",
+      "addedAt": "2026-09-25T10:53:14.952Z"
     }
   ]
 }
