@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-24",
-  "totalScanned": 40,
-  "matchedFilters": 12,
+  "totalScanned": 41,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 146,
       "url": "https://www.upwork.com/jobs/~022103239331176702861",
       "addedAt": "2026-09-24T21:51:24.061Z"
+    },
+    {
+      "title": "Website Development with Vercel",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022103497369472977279",
+      "addedAt": "2026-09-25T14:53:16.375Z"
     },
     {
       "title": "WordPress Site Copy to New Domain",
