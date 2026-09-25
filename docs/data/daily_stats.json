@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 58,
-  "matchedFilters": 17,
+  "totalScanned": 59,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 17
+    "wordpress developer": 18
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022103530711615527676",
       "addedAt": "2026-09-25T17:09:16.857Z"
+    },
+    {
+      "title": "WordPress/Elementor Developer for Interactive Children’s Feelings and Coping Activities",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022103568458766223925",
+      "addedAt": "2026-09-25T19:37:13.190Z"
     },
     {
       "title": "WordPress Site Copy to New Domain",

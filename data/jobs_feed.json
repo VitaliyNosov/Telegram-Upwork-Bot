@@ -1,5 +1,39 @@
 [
   {
+    "id": "2103568458766223925",
+    "ciphertext": "~022103568458766223925",
+    "title": "WordPress/Elementor Developer for Interactive Children’s Feelings and Coping Activities",
+    "description": "I’m looking for an experienced WordPress/Elementor developer to create interactive feelings and coping activities on my existing Good Medicine Counseling website. I’m a child and adolescent therapist and want tools I can use with children during sessions, as well as resources families can revisit at home.\n\nFor the first phase, I’d like:\n\n- An animated breathing exercise with a clear visual pace, pause option, and simple instructions.\n- A feelings explorer where children can select a feeling and see a brief description, possible body clues, and a coping idea.\n- Two simple interactive games, such as matching feelings to expressions or choosing a helpful response to a scenario.\n- A brief caregiver section explaining how to use the activities together.\n\nThe design should feel warm, playful, and age appropriate while fitting my existing site. It must work well on phones, tablets, and desktop computers. I’ll provide or approve all mental health wording. Children should be able to use the activities without creating an account or entering personal information.\n\nPlease build the content so I can edit descriptions, prompts, and images myself after handoff. Include testing, a short walkthrough, and documentation of any plugins or paid licenses required. You’re welcome to suggest tools such as H5P or an Elementor template kit, perhaps [Kinderly](https://themeforest.net/item/kinderly-child-therapist-psychologist-elementor-template-kit/39095018), if they’re a good fit for my existing website. Please explain your recommendation.\n\nIn your response, please share **examples of interactive tools you’ve built**, your proposed approach, a fixed-price estimate, and an estimated timeline. I’d like to review a working breathing exercise and one feeling card as an early milestone.\n\nFor visual inspiration, see the [Feelings Corner](https://www.centerforchildcounseling.org/resources/feelings/). The finished activities must use original design and content.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor",
+      "javascript",
+      "html5",
+      "css",
+      "web-programming",
+      "web-design",
+      "ui-design",
+      "h5p"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I’d love to help you build these warm, engaging, and interactive therapeutic tools for the Good Medicine Counseling website using WordPress and Elementor.\n\nTo achieve this seamlessly without requiring heavy custom coding from scratch, I recommend utilizing H5P integrated with custom CSS/JS styling to match your brand. H5P is lightweight, fully responsive on mobile and tablets, requires no user accounts, and allows you to easily update text, prompts, and images directly from your WordPress dashboard after handoff. For the layout, we can build custom Elementor templates that match the playful aesthetic of the Kinderly kit while blending naturally into your existing site architecture. \n\nFor relevant experience, you can view a similar interactive community resource build here: https://www.thelifeyoucansave.org/. \n\nI am happy to build the breathing exercise and a sample feeling card as an early milestone for your review. When would you like to chat about the fixed-price estimate and timeline?",
+    "publishedDateTime": "2026-09-25T19:34:28+0000",
+    "addedAt": "2026-09-25T19:37:14.474Z",
+    "url": "https://www.upwork.com/jobs/~022103568458766223925",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103568458766223925/apply/"
+  },
+  {
     "id": "2103546980188424757",
     "ciphertext": "~022103546980188424757",
     "title": "WordPress Site Manager for Tennis Education Platform",
