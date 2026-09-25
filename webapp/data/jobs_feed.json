@@ -1,5 +1,34 @@
 [
   {
+    "id": "2103582495465933365",
+    "ciphertext": "~022103582495465933365",
+    "title": "WordPress wp-admin Error Fix",
+    "description": "Need a freelancer to fix a WordPress issue where the wp-admin page is not loading properly. The site is currently down, and the problem appears to be related to the wp-admin section. Please review the issue, identify the cause, and implement a working fix so the admin area is accessible again. Experience troubleshooting WordPress admin issues is important for this short-term project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "wordpress-plugin",
+      "web-programming"
+    ],
+    "score": 2800,
+    "coverLetter": "Hi! I can help you get your wp-admin area back up and running right away. \n\nI specialize in diagnosing and fixing critical WordPress site issues, including fatal errors, white screens of death, and broken admin panels caused by plugin conflicts, memory limits, or update failures. I will quickly access the server/database, identify the exact root cause of the admin lockout, and implement a stable fix so you have full control of your site again.\n\nWhenever you're ready, share the temporary access details or error logs, and I can start troubleshooting immediately.",
+    "publishedDateTime": "2026-09-25T20:33:49+0000",
+    "addedAt": "2026-09-25T20:35:14.346Z",
+    "url": "https://www.upwork.com/jobs/~022103582495465933365",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103582495465933365/apply/"
+  },
+  {
     "id": "2103581264626961800",
     "ciphertext": "~022103581264626961800",
     "title": "Navigation Bar repair",

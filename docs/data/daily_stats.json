@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 63,
-  "matchedFilters": 20,
+  "totalScanned": 65,
+  "matchedFilters": 21,
   "byKeyword": {
-    "wordpress developer": 20
+    "wordpress developer": 21
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 2900,
       "url": "https://www.upwork.com/jobs/~022103481785117034879",
       "addedAt": "2026-09-25T16:51:29.643Z"
+    },
+    {
+      "title": "WordPress wp-admin Error Fix",
+      "budget": "$14-$28/hr",
+      "score": 2800,
+      "url": "https://www.upwork.com/jobs/~022103582495465933365",
+      "addedAt": "2026-09-25T20:35:13.253Z"
     },
     {
       "title": "Domain Migration: Technical SEO Specialist / WordPress Developer",
