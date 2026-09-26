@@ -1,10 +1,10 @@
 {
   "date": "2026-09-26",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 23,
-  "matchedFilters": 4,
+  "totalScanned": 24,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022103690639816219631",
       "addedAt": "2026-09-26T06:40:49.354Z"
+    },
+    {
+      "title": "Add one page to an existing web site",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022103818663550373256",
+      "addedAt": "2026-09-26T12:10:50.398Z"
     }
   ]
 }

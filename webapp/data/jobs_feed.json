@@ -1,5 +1,32 @@
 [
   {
+    "id": "2103818663550373256",
+    "ciphertext": "~022103818663550373256",
+    "title": "Add one page to an existing web site",
+    "description": "Need to add one more page to the existing website. pictures and text. Very simple nice clean looking page needed",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nI can help you quickly add that new, clean-looking page to your WordPress website. I specialize in WordPress development and can ensure the new page matches your existing design perfectly while seamlessly integrating your provided text and pictures. \n\nWhether you use Gutenberg, Elementor, or another page builder, I'll make sure it looks professional, loads fast, and is fully responsive. You can see examples of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nCould you share the link to your current website and the content (text and images) you'd like on the new page? We can get this wrapped up for you right away.",
+    "publishedDateTime": "2026-09-26T12:08:27+0000",
+    "addedAt": "2026-09-26T12:10:51.439Z",
+    "url": "https://www.upwork.com/jobs/~022103818663550373256",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103818663550373256/apply/"
+  },
+  {
     "id": "2103690639816219631",
     "ciphertext": "~022103690639816219631",
     "title": "Rebuild Exterior Cleaning Website in an Editable Platform and Connect Leads to Markate CRM",
