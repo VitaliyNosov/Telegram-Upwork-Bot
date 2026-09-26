@@ -1,5 +1,33 @@
 [
   {
+    "id": "2103680254167035256",
+    "ciphertext": "~022103680254167035256",
+    "title": "Need help restoring WordPress UpDraft backup to host",
+    "description": "Have new Hostinger WordPress installed on temp domain, uploaded Updraft backup and trying to restore but keep getting critical error here:\n\nhttps://papayawhip-lyrebird-108194.hostingersite.com/",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-hosting"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nI can help you resolve that critical error right away and successfully restore your UpDraft backup on Hostinger. \n\nThat specific \"critical error\" screen usually stems from a PHP memory limit exhaustion, a plugin/theme conflict triggered during the migration, or a corrupted file archive during the UpDraft extraction on a temporary domain. I deal with WordPress site migrations, server errors (like Error 500), and backup restorations daily. \n\nI can jump into your Hostinger panel and UpDraft right now to clean up the error and get your site fully functional. \n\nCould you share your temporary WP-admin or Hostinger credentials in chat so I can take a quick look?",
+    "publishedDateTime": "2026-09-26T02:58:18+0000",
+    "addedAt": "2026-09-26T03:01:10.389Z",
+    "url": "https://www.upwork.com/jobs/~022103680254167035256",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103680254167035256/apply/"
+  },
+  {
     "id": "2103642282971752284",
     "ciphertext": "~022103642282971752284",
     "title": "WordPress Website Editor Needed",

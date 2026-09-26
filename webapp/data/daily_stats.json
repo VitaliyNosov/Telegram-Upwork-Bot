@@ -1,10 +1,10 @@
 {
   "date": "2026-09-26",
   "lastDigestSentDate": "2026-09-25",
-  "totalScanned": 13,
-  "matchedFilters": 2,
+  "totalScanned": 14,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3096,
       "url": "https://www.upwork.com/jobs/~022103642282971752284",
       "addedAt": "2026-09-26T00:29:14.065Z"
+    },
+    {
+      "title": "Need help restoring WordPress UpDraft backup to host",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022103680254167035256",
+      "addedAt": "2026-09-26T03:01:09.313Z"
     }
   ]
 }
