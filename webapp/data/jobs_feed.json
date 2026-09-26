@@ -1,5 +1,35 @@
 [
   {
+    "id": "2103690639816219631",
+    "ciphertext": "~022103690639816219631",
+    "title": "Rebuild Exterior Cleaning Website in an Editable Platform and Connect Leads to Markate CRM",
+    "description": "Our current website is custom-coded and hosted in GoHighLevel (GHL). I want a professional website that I can edit myself, with our lead and pricing flows working through Markate so we can eventually stop using GHL.\n\nI’m looking for someone who can handle the website build and the technical transition. Please review the existing site and workflows before recommending a platform or final price. I’m open to Wix or another easy-to-edit platform if you can explain why it fits this project.\n\nWhat the website needs\n\nA clean, mobile-friendly design using our branding, service information, photos, and existing website content.\n\nPages and calls to action for our residential and commercial exterior cleaning services.\n\nAn editor I can use to change text, photos, services, and basic prices without hiring a developer.\n\nA working contact form that sends customer information into Markate.\n\nOur existing custom pricing calculator rebuilt or migrated. It asks service-specific questions and calculates pricing; I will provide the current site and pricing rules for review.  **This is the most difficult but extremely important**\n\nAfter a customer sees pricing, they should be able to select “Request a Call to Schedule” for their chosen service. They should not be able to book an appointment directly. Their information will already have been collected earlier in the flow, so they should not have to enter it again.\n\nWhen a customer requests a call, I need an email and SMS notification with their contact information, selected service, and pricing details.\n\nMarkate should remain our system for estimates, invoices, scheduling, and managing jobs.\n\nTransition requirements\n\nPlease identify everything on the current site that depends on GHL, including forms, calculator logic, notifications, and any connected automations. Tell me which parts you can move to the new setup and flag any that would require an ongoing third-party subscription. I want to understand the full monthly cost before approving the build.\n\nThe new site should be built in accounts I own. Please preserve existing page URLs where practical, set up redirects where URLs change, and carry over page titles and other basic SEO settings. Test the forms and notifications on desktop and mobile before launch. The current site must stay live until the replacement is ready.\n\nFinal handoff\n\nI’d like a short live walkthrough or recorded tutorial showing me how to update text, photos, service information, and pricing. Please provide a list of all ongoing subscriptions, integrations, and accounts used by the new site.\n\nPlease include in your proposal:\n\nTwo or three service-business websites you’ve built that the owner can edit.\n\nThe platform you recommend and why.\n\nYour experience integrating website leads with Markate. If you haven’t worked with Markate, explain how you would verify the connection before building around it.\n\nHow you would build the pricing calculator so I can update its rates later.\n\nYour fixed-price estimate, proposed milestones, timeline, and expected ongoing monthly costs.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "crm",
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you transition away from GoHighLevel by building a clean, mobile-friendly WordPress site that you can easily edit yourself, complete with your custom pricing calculator and seamless Markate CRM integration. \n\nFor service businesses like yours, I strongly recommend WordPress paired with Advanced Custom Fields (ACF) or an intuitive builder like Elementor. This gives you a completely code-free editing experience for text, photos, and services, while allowing me to custom-code your complex multi-step pricing calculator so you can easily update rates in the backend later. \n\nTo give you an idea of my work, here is a service-focused site I built: https://www.snopud.com/. \n\nWhile I haven't directly integrated Markate before, I have extensive experience connecting web forms and complex custom calculators to external CRMs via REST APIs, webhooks, and Zapier/Make. I will verify the Markate API/webhook capabilities before we start to ensure smooth lead routing and SMS/email notifications.\n\nCould you share the current site link and pricing rules so I can review the calculator logic and provide an exact fixed-price estimate and timeline?",
+    "publishedDateTime": "2026-09-26T06:40:00+0000",
+    "addedAt": "2026-09-26T06:40:50.918Z",
+    "url": "https://www.upwork.com/jobs/~022103690639816219631",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103690639816219631/apply/"
+  },
+  {
     "id": "2103680254167035256",
     "ciphertext": "~022103680254167035256",
     "title": "Need help restoring WordPress UpDraft backup to host",
