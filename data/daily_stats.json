@@ -1,8 +1,18 @@
 {
   "date": "2026-09-27",
   "lastDigestSentDate": "2026-09-26",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Web designer for an enterprise agency website (Figma, WordPress handoff)",
+      "budget": "$18-$70/hr",
+      "score": 7098,
+      "url": "https://www.upwork.com/jobs/~022103973749531302895",
+      "addedAt": "2026-09-26T22:30:58.047Z"
+    }
+  ]
 }

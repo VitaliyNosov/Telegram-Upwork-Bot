@@ -1,5 +1,40 @@
 [
   {
+    "id": "2103973749531302895",
+    "ciphertext": "~022103973749531302895",
+    "title": "Web designer for an enterprise agency website (Figma, WordPress handoff)",
+    "description": "Web designer for an enterprise agency website (Figma, WordPress handoff)\n\nFixed price · 2 weeks · paid test first\n\nThe client is a 40-person influencer marketing agency working with brands like Google, Meta and Hyundai. Their site ranks #1 on Google for its main search term. It runs on WordPress, and their own developers build from your files.\n\nWe write the copy and decide what goes on each page. You make it look premium, clean, enterprise and simple. The client said it himself: it can't look like AI made it.\n\nIt also has to convert. You understand how people feel when they scroll, why they click, what a client logo does to trust, and what makes someone leave.\n\nYou've designed websites for B2B companies selling to mid-size and enterprise buyers. An enterprise agency is a big plus.\n\nDo NOT apply if:\n- AI does the work and you polish it. Use AI, but the taste is yours\n- You haven't designed sites in this space\n- You don't have work you're proud to share / are live sites getting traffic right now\n- Someone else did the work and you're taking credit. We check\n- You're stacking jobs and rushing\n\nSCOPE\nHomepage plus 9 pages (Home, Agency, Services, Industries, Case Studies, About Us, Blog, Free Tools, Podcast, Contact Us), and the templates they use. Blog posts and SEO work are not part of this job.\n\nWHAT YOU DELIVER\n- The pages in Figma, desktop (1440 wide) and mobile (390 wide)\n- Colors, fonts and spacing set up as Figma styles\n- Every button, form and card as a named component, with how it looks\n  when hovered, clicked, filled in, and when something's wrong\n- A style guide page inside the file\n- Images and icons exported\n\nWHAT I CHECK YOUR WORK AGAINST\n- One main button per screen, everything else quieter\n- Easy to read on a phone\n- Client logos and results sit right next to the buttons\n- Looks right standing still. Movement is simple fades only, because\n  it gets built in WordPress\n\nYOU NEED\n- Websites you designed that are live today\n- Agency or B2B clients that sell to big companies\n- Experience handing Figma files to developers\n\nIN YOUR PROPOSAL, ANSWER ALL THREE\n1. One link: the live site you designed that's closest to this job\n\n2. On that site, what did you do, and what did someone else do?\n\n3. In 2 or 3 sentences: why does that site convert?\n\nInclude your fixed price for the full scope.\n\nI reply to every proposal within 48 hours. Proposals that skip a question get archived.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 70,
+    "budgetDisplay": "$18 - $70/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 44,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "web-design",
+      "wire-framing",
+      "figma",
+      "user-flows",
+      "conversion-rate-optimization",
+      "wordpress",
+      "web-programming",
+      "mockup",
+      "css"
+    ],
+    "score": 7098,
+    "coverLetter": "Hi! Here are the answers to your questions for the enterprise agency website project:\n\n1. https://about.offerup.com/ (or https://www.cchpca.org/)\n2. I handled the complete end-to-end web design and Figma layout handoff, while the internal development team built the site on WordPress. \n3. That site converts because it builds immediate B2B trust by placing enterprise social proof right next to clear call-to-actions, maintaining a distraction-free visual hierarchy with a single primary button per view.\n\nMy fixed price for the full scope (homepage + 9 pages, components, style guide, and developer-ready Figma handoff) is [Insert Price]. \n\nSince I build custom WordPress sites from Figma daily, I know exactly how to structure layers and styles so your developers can implement them cleanly without friction. \n\nWhen are you looking to kick off the paid test?",
+    "publishedDateTime": "2026-09-26T22:28:28+0000",
+    "addedAt": "2026-09-26T22:30:59.387Z",
+    "url": "https://www.upwork.com/jobs/~022103973749531302895",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022103973749531302895/apply/"
+  },
+  {
     "id": "2103921929542028680",
     "ciphertext": "~022103921929542028680",
     "title": "Dedicated Website Developer Needed for Exciting Ongoing Project",
