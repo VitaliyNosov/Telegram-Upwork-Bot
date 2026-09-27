@@ -1,10 +1,10 @@
 {
   "date": "2026-09-27",
   "lastDigestSentDate": "2026-09-26",
-  "totalScanned": 22,
-  "matchedFilters": 7,
+  "totalScanned": 23,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -56,6 +56,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022104206937886371192",
       "addedAt": "2026-09-27T13:52:42.307Z"
+    },
+    {
+      "title": "WordPress Web Designer for Spirituel Business-First Landing Page, More Work to Follow",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022104223642776128760",
+      "addedAt": "2026-09-27T14:58:50.474Z"
     }
   ]
 }
