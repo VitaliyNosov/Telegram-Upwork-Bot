@@ -1,5 +1,32 @@
 [
   {
+    "id": "2104206937886371192",
+    "ciphertext": "~022104206937886371192",
+    "title": "WordPress/Elementor Website Redesign for Custom On-Site Shed Builder",
+    "description": "Rondavel Sheds is a Rhode Island-based company that builds custom sheds on-site throughout Rhode Island and nearby portions of Connecticut and Massachusetts.\n\nCurrent website: https://rondavelsheds.com\n\nWe are looking for a creative, conversion-focused website designer who can help shape the visual direction of our company...not simply install a generic WordPress template.\n\nOur current website uses WordPress, Astra and Elementor. We prefer to improve the existing platform unless there is a compelling reason to recommend something different.\n\nPROJECT GOALS\n\n- Generate more qualified quote requests\n- Make the website more visual, engaging and interactive\n- Clearly communicate the advantages of our on-site construction\n- Showcase completed sheds, studios and specialty projects\n- Create an interactive map showing the towns where we have completed projects\n- Add reusable before-and-after and construction-progress features\n- Improve the mobile experience\n- Improve the quote-request journey\n- Prepare the website for a possible future 3D shed configurator\n- Preserve or improve website speed, SEO and analytics tracking\n\nPROJECT GALLERY AND MAP\n\nWe want an easy-to-update project system. Ideally, we should be able to add a completed project once (including its town, shed size, style, intended use, features, description and photographs) and have it automatically appear in both the project gallery and on the project map.\n\nMap markers should show only approximate town-level locations, not customers’ addresses.\n\nFUTURE 3D CONFIGURATOR\n\nWe are considering a third-party system such as ShedBuilder.ai that would allow customers to design a shed online. Integrating it is not necessarily required during the first phase, but the website design should anticipate a future “Design Your Shed” feature.\n\nWHAT WE ARE LOOKING FOR\n\nWe need someone with:\n\n- Strong visual and creative design ability\n- WordPress and Elementor implementation experience\n- Experience designing lead-generating service-business websites\n- Responsive/mobile design experience\n- The ability to create reusable project templates\n- Experience with interactive maps, galleries or before-and-after features\n- Clear communication and the ability to explain design decisions\n- An understanding of local construction, home-improvement or visually driven service businesses\n\nAPPLICATION INSTRUCTIONS\n\nPlease do not send a generic message saying that you can build the website.\n\nTo be considered, please provide:\n\n1. A three-to-five-minute Loom or similar video reviewing our current website and identifying the most important opportunities you see.\n2. Three specific changes you would recommend to improve lead generation and presentation.\n3. A visual indication of your proposed direction. This may be an annotated screenshot, rough wireframe or mood board. We are not requesting a completed unpaid homepage design.\n4. Two relevant websites you personally designed, preferably for construction, home improvement, landscaping, architecture or another visual service business.\n5. Your estimated fixed price and project timeline.\n6. Confirmation that you can both design and implement the website in WordPress/Elementor.\n7. An explanation of how you would make the gallery, map and before-and-after projects easy for the owner to update.\n8. Details about any ongoing software, plugin or licensing costs your solution would require.\n\nWe expect to shortlist approximately two designers for a small paid design exercise before selecting the designer for the full project.\n\nThe current estimated budget for the full project is $1,500. We are open to reviewing proposals above or below that amount when the applicant clearly explains the recommended scope and deliverables.\n\nPlease begin your application with the words “Built On-Site” so we know you reviewed the instructions.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 30,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Built On-Site! Hi! I’d love to help Rondavel Sheds redesign your website using your existing Astra and Elementor stack while dramatically improving conversion rates and visual engagement. \n\nAs an experienced WordPress and Elementor developer, I specialize in building lead-generating service-business websites. For your specific requirements, we can use Custom Post Types and Advanced Custom Fields (ACF) to set up a unified project system: you enter the details—town, size, photos—once, and it automatically updates both the filterable gallery and an interactive town-level map. I've built similar dynamic layouts on client sites like https://www.snopud.com/ and am fully prepared to structure the architecture for a seamless future 3D configurator integration.\n\nI can both design and implement this entire scope. Let's jump into chat so I can share my proposed wireframe concept, answer your technical questions, and discuss timeline and pricing.",
+    "publishedDateTime": "2026-09-27T13:50:30+0000",
+    "addedAt": "2026-09-27T13:52:43.623Z",
+    "url": "https://www.upwork.com/jobs/~022104206937886371192",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104206937886371192/apply/"
+  },
+  {
     "id": "2104173861480827445",
     "ciphertext": "~022104173861480827445",
     "title": "Build an \"Add to Website\" feature for Averitek Commerce (Shopify and WooCommerce",

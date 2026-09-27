@@ -1,10 +1,10 @@
 {
   "date": "2026-09-27",
   "lastDigestSentDate": "2026-09-26",
-  "totalScanned": 21,
-  "matchedFilters": 6,
+  "totalScanned": 22,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022104153359018232373",
       "addedAt": "2026-09-27T10:18:41.987Z"
+    },
+    {
+      "title": "WordPress/Elementor Website Redesign for Custom On-Site Shed Builder",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022104206937886371192",
+      "addedAt": "2026-09-27T13:52:42.307Z"
     }
   ]
 }
