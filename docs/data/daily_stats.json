@@ -1,10 +1,10 @@
 {
   "date": "2026-09-27",
   "lastDigestSentDate": "2026-09-26",
-  "totalScanned": 13,
-  "matchedFilters": 2,
+  "totalScanned": 14,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022104034365954558388",
       "addedAt": "2026-09-27T02:26:41.032Z"
+    },
+    {
+      "title": "Website Redesign & Modernization",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022104153359018232373",
+      "addedAt": "2026-09-27T10:18:41.987Z"
     }
   ]
 }

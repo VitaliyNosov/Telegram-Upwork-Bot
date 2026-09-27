@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104153359018232373",
+    "ciphertext": "~022104153359018232373",
+    "title": "Website Redesign & Modernization",
+    "description": "We need a freelancer to refresh our existing website with a modern, clean look and improved user experience. The work includes updating the overall design, refining navigation and layout, adding new imagery, and improving on-page SEO for key pages. The goal is to create a polished, professional site that feels current and easy to use. Please share relevant examples of similar redesign projects and your approach to balancing aesthetics with functionality.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help modernize your website with a clean, professional redesign that improves both user experience and on-page SEO. My approach focuses on balancing a fresh, contemporary aesthetic with intuitive navigation and fast loading speeds to ensure the site performs just as well as it looks.\n\nWith extensive experience in custom WordPress development, theme design from Figma, and Gutenberg/ACF implementation, I build structured, easy-to-manage sites tailored for engagement and conversion. For a look at my recent work on content-driven, modern layouts, you can review https://about.offerup.com/.\n\nWhen it comes to your redesign, what are the top 2-3 pages or sections you feel need the most improvement right now? Let's chat about how we can bring your vision to life.",
+    "publishedDateTime": "2026-09-27T10:17:52+0000",
+    "addedAt": "2026-09-27T10:18:43.388Z",
+    "url": "https://www.upwork.com/jobs/~022104153359018232373",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104153359018232373/apply/"
+  },
+  {
     "id": "2104034365954558388",
     "ciphertext": "~022104034365954558388",
     "title": "Experienced WordPress Developer Needed for Tax Preparation Website With 50+ Local SEO Pages",
