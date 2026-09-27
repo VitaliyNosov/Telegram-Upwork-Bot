@@ -1,5 +1,31 @@
 [
   {
+    "id": "2104173861480827445",
+    "ciphertext": "~022104173861480827445",
+    "title": "Build an \"Add to Website\" feature for Averitek Commerce (Shopify and WooCommerce",
+    "description": "Project overview\nAveritek Commerce is a multi-tenant commerce platform for resellers and online sellers. We are building a wholesale product\ncatalog. Members should be able to select an eligible product, click \"Add to Website,\" and publish it to a connected Shopify or\nWooCommerce store. We need a developer who can inspect our existing codebase, propose the integration design, build it,\nand demonstrate reliable sync and order handling\n\nPlease see attachment",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 311,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "e-commerce-website"
+    ],
+    "score": 147,
+    "coverLetter": "Hi! \n\nBuilding a seamless \"Add to Website\" integration for both Shopify and WooCommerce is right in my wheelhouse. I have deep, hands-on experience working with both platforms, managing custom API integrations, and handling complex e-commerce product sync and order workflows. \n\nFor this project, I can step into your existing codebase to inspect the architecture, design a robust synchronization pipeline, and build out the feature so resellers can effortlessly push wholesale products to their connected stores. My background in PHP, JavaScript, and multi-platform e-commerce ensures the sync and order handling will be secure, reliable, and performant.\n\nI'd love to review the attachment and discuss your current tech stack. Are you using REST APIs or webhooks for the primary store connections? \n\nBest regards,\nWordPress & CMS Expert",
+    "publishedDateTime": "2026-09-27T11:39:20+0000",
+    "addedAt": "2026-09-27T11:41:08.411Z",
+    "url": "https://www.upwork.com/jobs/~022104173861480827445",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104173861480827445/apply/"
+  },
+  {
     "id": "2104168364564218989",
     "ciphertext": "~022104168364564218989",
     "title": "Cargo Website Update and Design Refresh",
