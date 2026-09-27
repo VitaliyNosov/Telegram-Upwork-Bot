@@ -1,10 +1,10 @@
 {
   "date": "2026-09-27",
   "lastDigestSentDate": "2026-09-26",
-  "totalScanned": 15,
-  "matchedFilters": 4,
+  "totalScanned": 16,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3650,
       "url": "https://www.upwork.com/jobs/~022104159134528703029",
       "addedAt": "2026-09-27T10:42:47.376Z"
+    },
+    {
+      "title": "Cargo Website Update and Design Refresh",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022104168364564218989",
+      "addedAt": "2026-09-27T11:20:53.811Z"
     },
     {
       "title": "Experienced WordPress Developer Needed for Tax Preparation Website With 50+ Local SEO Pages",
