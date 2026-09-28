@@ -1,11 +1,11 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 63,
-  "matchedFilters": 14,
+  "totalScanned": 64,
+  "matchedFilters": 15,
   "byKeyword": {
     "wordpress developer": 13,
-    "woocommerce": 1
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -63,6 +63,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022104636333831361871",
       "addedAt": "2026-09-28T18:22:57.221Z"
+    },
+    {
+      "title": "Senior Payments Engineer / Fractional CTO: Gateway Integrations, Merchant Onboarding & eCom Plugins",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022104644969928762416",
+      "addedAt": "2026-09-28T18:56:43.368Z"
     },
     {
       "title": "Senior Shopify Expert — WooCommerce to Shopify Migration (SEO, Payments, Shipping, Plans)",

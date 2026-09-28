@@ -1,5 +1,38 @@
 [
   {
+    "id": "2104644969928762416",
+    "ciphertext": "~022104644969928762416",
+    "title": "Senior Payments Engineer / Fractional CTO: Gateway Integrations, Merchant Onboarding & eCom Plugins",
+    "description": "Company operates several white-label merchant services brands. Each brand runs on a different gateway and front-end processor. We're looking for a senior payments engineer who can build this hands-on (full-stack) or lead it as a fractional CTO.\n\nDeep, hands-on payment gateway and processor integration experience is the #1 requirement. This is not a fit for a generalist web developer who has only dropped in a Stripe checkout.\n\nWHAT YOU'LL BUILD\n\n1. Processor API evaluation\n- Review a processor partner's API and documentation for merchant management: boarding, application status, underwriting, settlement/funding data, reporting, and residuals\n- Deliver a written gap analysis covering what's possible, what isn't, workarounds, and a recommended architecture\n\n2. Gateway integration + self-service payments product\n- Build Stripe-style self-service tools: embeddable checkout, simple invoicing, and payment links, each branded to the merchant and set up without talking to anyone\n- Provide a developer sandbox, API keys, and docs so merchants' own developers can add our tools to their sites\n- Build payment plugins for WooCommerce, BigCommerce, and Magento\n\n3. Merchant onboarding\n- Build a merchant-facing application flow (multi-step, save/resume, document upload)\n- Map application data to processor PDF applications, auto-send via e-signature (DocuSign), and capture signed documents back\n- Track each application from submitted to approved to live\n\n4. Unified back office\n- Build one internal interface across multiple gateways and processors to manage the sales and onboarding pipeline and active merchants\n\nREQUIRED EXPERIENCE\n- Production integrations with multiple payment gateways, plus a working understanding of front-end/back-end processor relationships and the ISO / sponsor bank model\n- Strong grasp of merchant boarding, underwriting, batching/settlement and funding, chargebacks, interchange, and card-present vs. card-not-present\n- PCI DSS scope reduction: tokenization, hosted fields and iFrames, vaulting\n- E-commerce payment plugin development (WooCommerce/Magento in PHP, BigCommerce apps)\n- Experience building developer-facing APIs, sandboxes, and webhooks\n- Full-stack: modern TypeScript/JS front end; Node or Python back end\n\nNICE TO HAVE\n- DocuSign API, HubSpot API, Slack integrations\n- Experience at a PayFac, ISO, gateway, or payments SaaS company\n- Experience leading small dev teams\n\nENGAGEMENT\nOpen to either an individual full-stack builder or a fractional CTO who manages a small team.\n\nTO APPLY\nAnswer the screening questions and start your proposal with the word \"settlement\" so we know you read this. Proposals that list gateways and processors you've actually built on will be reviewed first.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 22,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "payment-gateway-integration",
+      "php",
+      "api-integration",
+      "woocommerce",
+      "magento",
+      "bigcommerce",
+      "point-of-sale-pos",
+      "payment-processing"
+    ],
+    "score": 148,
+    "coverLetter": "Settlement! Hi! \n\nI have deep, hands-on experience building custom WooCommerce payment plugins, handling complex API integrations (including Stripe and PayPal), and developing secure checkout workflows with tokenization to ensure PCI DSS scope reduction. \n\nWhile my background is rooted in robust PHP and JavaScript development for platforms like WooCommerce, I bring the exact full-stack architectural mindset you need to evaluate processor APIs, build developer-facing sandboxes, and streamline merchant onboarding flows. For large-scale e-commerce implementations and high-traffic performance optimization, you can review my work on sites like https://about.offerup.com/ or https://www.snopud.com/. \n\nAre you looking for an individual hands-on builder to start immediately on the WooCommerce plugin and gateway integrations, or do you prefer someone to step into a fractional CTO capacity right away? Let's discuss your tech stack and current processor partners.",
+    "publishedDateTime": "2026-09-28T18:55:38+0000",
+    "addedAt": "2026-09-28T18:56:51.731Z",
+    "url": "https://www.upwork.com/jobs/~022104644969928762416",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104644969928762416/apply/"
+  },
+  {
     "id": "2104636333831361871",
     "ciphertext": "~022104636333831361871",
     "title": "WordPress Website Redesign",
