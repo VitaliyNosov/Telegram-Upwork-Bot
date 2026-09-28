@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104539106468365421",
+    "ciphertext": "~022104539106468365421",
+    "title": "Website Design and Development for Architectural Company",
+    "description": "We need a freelancer to design and develop a modern website for an architectural company. The project includes creating a visually appealing layout, building responsive pages, and ensuring the site is easy to navigate. You will also help with the overall user experience and support the launch of the website. Experience delivering clean, professional web projects is important for this role.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.84,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 360,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "html5",
+      "php"
+    ],
+    "score": 97,
+    "coverLetter": "Hi!\n\nBuilding a modern, visually striking website for an architectural firm requires a careful balance of aesthetics and clean, responsive code—something I specialize in. \n\nWith deep expertise in WordPress, PHP, and custom web development, I build high-performing, user-friendly sites that showcase visual portfolios with elegance and speed. I can help translate your vision into a professional online presence, ensuring seamless navigation and a flawless user experience from launch to ongoing support. You can view an example of my clean, professional development work here: https://about.offerup.com/\n\nDo you already have Figma or wireframe designs ready, or would you need assistance with the initial layout planning as well? Let’s chat about your timeline.",
+    "publishedDateTime": "2026-09-28T11:51:23+0000",
+    "addedAt": "2026-09-28T11:52:55.372Z",
+    "url": "https://www.upwork.com/jobs/~022104539106468365421",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104539106468365421/apply/"
+  },
+  {
     "id": "2104506853014592495",
     "ciphertext": "~022104506853014592495",
     "title": "Build a Small Wordpress Site from Figma Files",
