@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104552728021811467",
+    "ciphertext": "~022104552728021811467",
+    "title": "WordPress Developer for Website Projects",
+    "description": "We’re looking for a WordPress developer to support ongoing website projects. \n\nIll need someone to help me with some projects with Wordpress website development, back end, maintenance, edits, etc.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$14 - $25/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 33,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "web-programming"
+    ],
+    "score": 2650,
+    "coverLetter": "Hi! I specialize in full-stack WordPress development and can hit the ground running with your ongoing projects, whether you need backend troubleshooting, theme modifications, or routine maintenance.\n\nI have extensive experience managing complex WordPress environments, including custom plugin development, database optimization, and fixing technical bottlenecks like fatal errors or performance issues. For example, I recently managed the development and technical support for https://www.thelifeyoucansave.org/, ensuring the site remained secure, fast, and fully functional under high traffic. Whether you need help with a specific bug or long-term site management, I provide clean code and reliable, professional support.\n\nWhat is the most pressing task or project you need help with right now? I’d love to hop on a quick call or chat to discuss how I can help streamline your workflow.",
+    "publishedDateTime": "2026-09-28T12:45:30+0000",
+    "addedAt": "2026-09-28T12:47:00.592Z",
+    "url": "https://www.upwork.com/jobs/~022104552728021811467",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104552728021811467/apply/"
+  },
+  {
     "id": "2104539106468365421",
     "ciphertext": "~022104539106468365421",
     "title": "Website Design and Development for Architectural Company",

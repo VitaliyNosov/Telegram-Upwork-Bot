@@ -1,10 +1,10 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 28,
-  "matchedFilters": 6,
+  "totalScanned": 29,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4099,
       "url": "https://www.upwork.com/jobs/~022104321355486813167",
       "addedAt": "2026-09-27T21:26:44.560Z"
+    },
+    {
+      "title": "WordPress Developer for Website Projects",
+      "budget": "$14-$25/hr",
+      "score": 2650,
+      "url": "https://www.upwork.com/jobs/~022104552728021811467",
+      "addedAt": "2026-09-28T12:46:47.335Z"
     },
     {
       "title": "Web Designer/Developer Needed to Revamp Coaching Website",
