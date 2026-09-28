@@ -1,12 +1,19 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 9,
-  "matchedFilters": 4,
+  "totalScanned": 12,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Web Designer for Website Refresh",
+      "budget": "$200-$250/hr",
+      "score": 25100,
+      "url": "https://www.upwork.com/jobs/~022104712573596201253",
+      "addedAt": "2026-09-28T23:22:44.398Z"
+    },
     {
       "title": "WordPress Blog Post Editor",
       "budget": "$12-$38/hr",

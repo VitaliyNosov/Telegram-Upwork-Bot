@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104712573596201253",
+    "ciphertext": "~022104712573596201253",
+    "title": "Web Designer for Website Refresh",
+    "description": "We're updating our website and need a designer with exceptional taste and craft. This is not a template job. We're looking for someone whose portfolio makes us stop scrolling. You'll redesign key pages, including homepage, product/services, about, and supporting pages, with a clear visual system that scales. You'll tighten information hierarchy so visitors understand what we do and why it matters within seconds. You'll design responsive layouts that feel as considered on mobile as on desktop, deliver clean Figma files, and work closely with whoever builds the site. You'll also collaborate with marketing on messaging so design and copy reinforce each other. Please apply with 2–3 portfolio links and a brief note on your role and one proud decision for each.",
+    "isHourly": true,
+    "hourlyBudgetMin": 200,
+    "hourlyBudgetMax": 250,
+    "budgetDisplay": "$200 - $250/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "html5",
+      "wordpress"
+    ],
+    "score": 25100,
+    "coverLetter": "Hi! \n\nTo answer your request for portfolio work: \n\n1. [https://about.offerup.com/](https://about.offerup.com/) – Role: Lead Designer & Developer. Proud decision: Re-architected the information hierarchy and visual system to instantly communicate core value proposition within seconds, moving away from a standard template feel to a polished, high-converting layout.\n\n2. [https://www.thelifeyoucansave.org/](https://www.thelifeyoucansave.org/) – Role: UI/UX Designer. Proud decision: Designed fully custom, responsive layouts optimized for seamless mobile engagement, ensuring the messaging and design tightly reinforced one another.\n\nAs a WordPress developer with a deep eye for custom design, typography, and clear information architecture, I build clean, scalable systems (no generic templates) that translate seamlessly from Figma into robust code. \n\nAre you looking to handle the build in-house after the redesign, or should we discuss bringing in custom WordPress development as well?",
+    "publishedDateTime": "2026-09-28T23:20:38+0000",
+    "addedAt": "2026-09-28T23:22:45.811Z",
+    "url": "https://www.upwork.com/jobs/~022104712573596201253",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104712573596201253/apply/"
+  },
+  {
     "id": "2104701388807607631",
     "ciphertext": "~022104701388807607631",
     "title": "Build Website with Astra and Elementor",
