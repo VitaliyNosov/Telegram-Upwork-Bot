@@ -1,5 +1,31 @@
 [
   {
+    "id": "2104355019826355183",
+    "ciphertext": "~022104355019826355183",
+    "title": "WordPress Site",
+    "description": "WordPress site keeps crashing (Bluehost) – need stabilization + malware check, short-term\n\nMy WordPress site on Bluehost goes down repeatedly. I suspect plugin updates on a small hosting plan are the cause. Bluehost says it's malware. A previous developer didn't resolve it.\n\nThe site is being replaced by a new build soon, so I need it stable until then, not rebuilt.\n\nScope:\n\nDiagnose the crash cause (logs, plugin conflicts, PHP/resources)\nScan and clean malware if present\nDisable/remove problem plugins, stop auto-updates\nFull backup before any changes\nShort written summary of what you found and fixed\n\nFixed price. Please tell me your first diagnostic step and share one similar job you've done.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! My first diagnostic step will be to pull the raw server error logs and PHP error logs from your Bluehost cPanel to check for memory exhaustion, resource limits, or fatal plugin conflicts, followed immediately by an independent file and database malware scan.\n\nI regularly handle hacked site recovery, Bluehost resource issues, and crash stabilization for sites needing a temporary fix before a full migration or rebuild. I recently cleaned up malware, resolved recurring crash issues, and stabilized a client site prior to a new launch (similar to my work on https://www.waapple.org/). \n\nMy plan: take a full backup, quarantine any malicious code, disable conflicting plugins causing resource spikes on your limited hosting plan, and ensure the site stays stable until your new build is ready. \n\nWhen are you looking to get started on this?",
+    "publishedDateTime": "2026-09-28T02:39:45+0000",
+    "addedAt": "2026-09-28T02:40:48.284Z",
+    "url": "https://www.upwork.com/jobs/~022104355019826355183",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104355019826355183/apply/"
+  },
+  {
     "id": "2104379956656538733",
     "ciphertext": "~022104379956656538733",
     "title": "Build Website with Astra and Elementor",

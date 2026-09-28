@@ -1,10 +1,10 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 9,
-  "matchedFilters": 2,
+  "totalScanned": 10,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4099,
       "url": "https://www.upwork.com/jobs/~022104321355486813167",
       "addedAt": "2026-09-27T21:26:44.560Z"
+    },
+    {
+      "title": "WordPress Site",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022104355019826355183",
+      "addedAt": "2026-09-28T02:40:46.967Z"
     }
   ]
 }
