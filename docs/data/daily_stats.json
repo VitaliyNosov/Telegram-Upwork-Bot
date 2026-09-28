@@ -1,10 +1,11 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 58,
-  "matchedFilters": 11,
+  "totalScanned": 59,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 11,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -48,6 +49,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022104564053657633035",
       "addedAt": "2026-09-28T13:31:20.686Z"
+    },
+    {
+      "title": "Senior Shopify Expert — WooCommerce to Shopify Migration (SEO, Payments, Shipping, Plans)",
+      "budget": "Fixed-price",
+      "score": 145,
+      "url": "https://www.upwork.com/jobs/~022104627039297090426",
+      "addedAt": "2026-09-28T17:42:44.488Z"
     },
     {
       "title": "Web Designer/Developer Needed to Revamp Coaching Website",
