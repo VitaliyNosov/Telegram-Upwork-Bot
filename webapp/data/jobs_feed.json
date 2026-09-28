@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104506853014592495",
+    "ciphertext": "~022104506853014592495",
+    "title": "Build a Small Wordpress Site from Figma Files",
+    "description": "I have a mockup of a website that I want to publish.  I want to leverage Wordpress to launch this site.  I need a developer to use the figma designs to build the site.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.53,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "css",
+      "web-design"
+    ],
+    "score": 91,
+    "coverLetter": "Hi! \n\nI can help you turn your Figma designs into a clean, fully functional WordPress site. \n\nI specialize in custom WordPress development, taking static designs and building them into pixel-perfect, responsive websites. Whether you prefer a custom theme approach, Gutenberg blocks with Advanced Custom Fields (ACF), or a lightweight page builder setup, I ensure the codebase is clean, fast, and easy for you to manage post-launch. \n\nYou can review an example of my recent WordPress builds here: https://www.thelifeyoucansave.org/\n\nCould you share the Figma link so I can take a quick look at the scope and recommend the best approach for building it?\n\nBest regards,\nWordPress Developer",
+    "publishedDateTime": "2026-09-28T09:43:14+0000",
+    "addedAt": "2026-09-28T09:44:51.288Z",
+    "url": "https://www.upwork.com/jobs/~022104506853014592495",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104506853014592495/apply/"
+  },
+  {
     "id": "2104440440711240687",
     "ciphertext": "~022104440440711240687",
     "title": "Web Designer/Developer Needed to Revamp Coaching Website",

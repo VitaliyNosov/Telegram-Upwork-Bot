@@ -1,10 +1,10 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 21,
-  "matchedFilters": 4,
+  "totalScanned": 22,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022104355019826355183",
       "addedAt": "2026-09-28T02:40:46.967Z"
+    },
+    {
+      "title": "Build a Small Wordpress Site from Figma Files",
+      "budget": "Fixed-price",
+      "score": 91,
+      "url": "https://www.upwork.com/jobs/~022104506853014592495",
+      "addedAt": "2026-09-28T09:44:49.815Z"
     }
   ]
 }
