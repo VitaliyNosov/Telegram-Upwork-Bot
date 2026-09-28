@@ -1,10 +1,10 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 53,
-  "matchedFilters": 10,
+  "totalScanned": 54,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4099,
       "url": "https://www.upwork.com/jobs/~022104321355486813167",
       "addedAt": "2026-09-27T21:26:44.560Z"
+    },
+    {
+      "title": "WordPress Website Designer and Developer",
+      "budget": "$14-$28/hr",
+      "score": 2800,
+      "url": "https://www.upwork.com/jobs/~022104618760767289954",
+      "addedAt": "2026-09-28T17:12:42.815Z"
     },
     {
       "title": "WordPress Developer for Website Projects",

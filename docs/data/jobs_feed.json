@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104618760767289954",
+    "ciphertext": "~022104618760767289954",
+    "title": "WordPress Website Designer and Developer",
+    "description": "We’re looking for a freelancer to design and build a modern, responsive website for our business. The project includes creating a clean layout, setting up key pages, and ensuring the site works well across devices. You should be comfortable handling the full build process and delivering a polished final product. Please share relevant examples of similar websites you’ve developed and your approach to creating a user-friendly experience.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 76,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 2800,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-28T17:11:34+0000",
+    "addedAt": "2026-09-28T17:13:02.882Z",
+    "url": "https://www.upwork.com/jobs/~022104618760767289954",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104618760767289954/apply/"
+  },
+  {
     "id": "2104592060402645602",
     "ciphertext": "~022104592060402645602",
     "title": "Wordpress Performance Specialist",
