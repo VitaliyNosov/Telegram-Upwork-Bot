@@ -1,5 +1,38 @@
 [
   {
+    "id": "2104440440711240687",
+    "ciphertext": "~022104440440711240687",
+    "title": "Web Designer/Developer Needed to Revamp Coaching Website",
+    "description": "I'm a coach looking to modernize my existing website so it better reflects my brand, builds trust with visitors. I'm looking for a skilled web designer/developer to redesign and improve the visual appeal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "uiux",
+      "website-customization",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "graphic-design",
+      "user-flows",
+      "visual-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nRevamping a coaching website to build instant trust and better reflect your personal brand is all about creating a clean, engaging user flow and a polished visual design. \n\nAs a WordPress developer with extensive experience building and customizing professional sites, I specialize in transforming outdated layouts into modern, high-converting platforms. I work closely with custom themes, advanced visual builders (like Elementor or Gutenberg), and custom styling to ensure your site not only looks stunning but also positions you as an authority in your field. \n\nFor a look at the quality of my work, you can check out https://www.thelifeyoucansave.org/, which reflects the clean and professional aesthetic I can bring to your coaching brand.\n\nWhat platform is your current site built on, and do you already have new brand guidelines or a design direction in mind?",
+    "publishedDateTime": "2026-09-28T05:22:57+0000",
+    "addedAt": "2026-09-28T05:24:49.925Z",
+    "url": "https://www.upwork.com/jobs/~022104440440711240687",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104440440711240687/apply/"
+  },
+  {
     "id": "2104355019826355183",
     "ciphertext": "~022104355019826355183",
     "title": "WordPress Site",
