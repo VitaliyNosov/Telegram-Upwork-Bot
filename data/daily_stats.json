@@ -1,10 +1,10 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 60,
-  "matchedFilters": 12,
+  "totalScanned": 61,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 4099,
       "url": "https://www.upwork.com/jobs/~022104321355486813167",
       "addedAt": "2026-09-27T21:26:44.560Z"
+    },
+    {
+      "title": "Web Developer for Semplice and WordPress",
+      "budget": "$15-$30/hr",
+      "score": 3092,
+      "url": "https://www.upwork.com/jobs/~022104631025197191887",
+      "addedAt": "2026-09-28T17:56:58.679Z"
     },
     {
       "title": "WordPress Website Designer and Developer",
