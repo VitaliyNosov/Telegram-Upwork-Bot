@@ -1,5 +1,32 @@
 [
   {
+    "id": "2104592060402645602",
+    "ciphertext": "~022104592060402645602",
+    "title": "Wordpress Performance Specialist",
+    "description": "I need an experienced WordPress performance engineer to optimize an established WordPress + WooCommerce website:\n\nhttps://www.joannesweb.com/\n\nThis is a knitting and crochet website with a large YouTube audience and significant content, images, WooCommerce products and tutorial pages.\n\nThe most important problem is slow loading, particularly on the cart, checkout, product pages and some category/filter pages.\n\nI need a TECHNICAL performance specialist, not someone who simply installs a caching plugin.\n\nPlease diagnose and optimize:\n\n• Server/hosting performance\n• TTFB\n• PHP performance\n• Database performance\n• WordPress plugins\n• Elementor performance\n• JavaScript\n• CSS\n• WooCommerce scripts\n• AJAX requests\n• Cart performance\n• Checkout performance\n• PayPal/payment loading\n• Browser caching\n• Page caching\n• CDN/Cloudflare\n• Core Web Vitals\n• LCP\n• INP\n• CLS\n• Mobile performance\n\nPlease identify exactly what is causing the slow loading before making major changes.\n\nI also want you to investigate why the site appears to have caching/minification errors.\n\nIMPORTANT:\n\nDo not rebuild the website.\n\nDo not replace Elementor.\n\nDo not install numerous new plugins.\n\nDo not delete plugins or functionality without explaining why.\n\nDo not make major changes without approval.\n\nBefore beginning, provide baseline measurements for:\n\n1. Homepage\n2. Product page\n3. Category page\n4. Blog/tutorial page\n5. Cart\n6. Checkout\n\nAfter optimization, provide the same measurements so we can compare before and after.\n\nThe goal is a faster, more reliable WooCommerce website without breaking existing functionality.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 35,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "javascript",
+      "wordpress"
+    ],
+    "score": 199,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-28T15:25:25+0000",
+    "addedAt": "2026-09-28T15:26:51.569Z",
+    "url": "https://www.upwork.com/jobs/~022104592060402645602",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104592060402645602/apply/"
+  },
+  {
     "id": "2104569298846400048",
     "ciphertext": "~022104569298846400048",
     "title": "Wordpress Elementor Website Builder",
