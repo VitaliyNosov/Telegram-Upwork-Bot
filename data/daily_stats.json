@@ -1,10 +1,10 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 33,
-  "matchedFilters": 7,
+  "totalScanned": 34,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 2650,
       "url": "https://www.upwork.com/jobs/~022104552728021811467",
       "addedAt": "2026-09-28T12:46:47.335Z"
+    },
+    {
+      "title": "WordPress & AI Automation Expert",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022104564053657633035",
+      "addedAt": "2026-09-28T13:31:20.686Z"
     },
     {
       "title": "Web Designer/Developer Needed to Revamp Coaching Website",
