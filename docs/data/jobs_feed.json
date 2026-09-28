@@ -1,5 +1,33 @@
 [
   {
+    "id": "2104681075331962191",
+    "ciphertext": "~022104681075331962191",
+    "title": "WordPress Blog Post Editor",
+    "description": "I need help creating and editing blog posts on a WordPress site using Elementor. The work includes writing or improving content, formatting posts for readability, and making sure each page looks clean and professional. You should be comfortable working within an existing site structure and delivering polished posts that are easy to read and visually consistent. Please share examples of similar blog or content work you have completed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 38,
+    "budgetDisplay": "$12 - $38/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "blog-article",
+      "seo-writing"
+    ],
+    "score": 3900,
+    "coverLetter": null,
+    "publishedDateTime": "2026-09-28T21:15:26+0000",
+    "addedAt": "2026-09-28T21:17:09.890Z",
+    "url": "https://www.upwork.com/jobs/~022104681075331962191",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104681075331962191/apply/"
+  },
+  {
     "id": "2104644969928762416",
     "ciphertext": "~022104644969928762416",
     "title": "Senior Payments Engineer / Fractional CTO: Gateway Integrations, Merchant Onboarding & eCom Plugins",

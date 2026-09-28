@@ -1,8 +1,18 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress Blog Post Editor",
+      "budget": "$12-$38/hr",
+      "score": 3900,
+      "url": "https://www.upwork.com/jobs/~022104681075331962191",
+      "addedAt": "2026-09-28T21:16:43.320Z"
+    }
+  ]
 }
