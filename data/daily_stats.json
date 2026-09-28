@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 6,
-  "matchedFilters": 2,
+  "totalScanned": 7,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022104684906280907045",
       "addedAt": "2026-09-28T21:32:51.390Z"
+    },
+    {
+      "title": "Full-Stack Developer & WordPress Expert",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022104650875307169103",
+      "addedAt": "2026-09-28T22:16:48.044Z"
     }
   ]
 }

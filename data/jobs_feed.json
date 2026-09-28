@@ -1,5 +1,36 @@
 [
   {
+    "id": "2104650875307169103",
+    "ciphertext": "~022104650875307169103",
+    "title": "Full-Stack Developer & WordPress Expert",
+    "description": "We are looking for an experienced **Full-Stack Developer with strong WordPress expertise** to join our team for web development projects. The ideal candidate should have solid experience working with both frontend and backend technologies and be comfortable building, customizing, maintaining, and troubleshooting WordPress websites.\n\nYou will be responsible for developing and maintaining responsive websites, customizing WordPress themes and plugins, creating custom WordPress functionality, integrating APIs and third-party services, working with databases, and converting designs into responsive websites. You should also be comfortable troubleshooting bugs, improving website performance, handling website migrations, and resolving hosting, DNS, SSL, and other technical issues when required.\n\nStrong experience with **WordPress, PHP, JavaScript, HTML, CSS, MySQL, REST APIs, Git/GitHub, and responsive web development** is required. Experience with custom WordPress theme and plugin development is highly preferred. Knowledge of Elementor, WooCommerce, cPanel, GoDaddy, Cloudflare, and website performance optimization would also be a plus.\n\nExperience with modern JavaScript frameworks such as **React, Next.js, Svelte, or SvelteKit**, as well as Tailwind CSS, AI integrations, or automation tools, would be an advantage.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "typescript",
+      "web-design",
+      "css",
+      "api"
+    ],
+    "score": 149,
+    "coverLetter": "Hi!\n\nI’m a Full-Stack WordPress Developer with deep backend and frontend expertise (PHP, JavaScript, MySQL, custom theme/plugin development, and REST APIs) who can seamlessly jump into your web projects. \n\nIn addition to building responsive, high-performance sites from scratch—like my work on [waapple.org](https://waapple.org/)—I regularly handle complex troubleshooting, database optimization, third-party API integrations, and server-level issues. I also work extensively with modern tooling like Git, WP-CLI, and performance optimization best practices to ensure secure, scalable builds.\n\nWhen do you need this role started, and what is the current scope of the first project you'd like me to tackle?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-09-28T22:15:43+0000",
+    "addedAt": "2026-09-28T22:16:49.312Z",
+    "url": "https://www.upwork.com/jobs/~022104650875307169103",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104650875307169103/apply/"
+  },
+  {
     "id": "2104684906280907045",
     "ciphertext": "~022104684906280907045",
     "title": "WordPress Developer for Website Redesign",
