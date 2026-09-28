@@ -1,10 +1,10 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 34,
-  "matchedFilters": 8,
+  "totalScanned": 35,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022104440440711240687",
       "addedAt": "2026-09-28T05:24:48.392Z"
+    },
+    {
+      "title": "Wordpress Elementor Website Builder",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022104569298846400048",
+      "addedAt": "2026-09-28T13:57:04.038Z"
     },
     {
       "title": "WordPress Site",
