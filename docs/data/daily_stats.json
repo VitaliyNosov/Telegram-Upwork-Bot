@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 12,
-  "matchedFilters": 5,
+  "totalScanned": 13,
+  "matchedFilters": 6,
   "byKeyword": {
-    "wordpress developer": 5
+    "wordpress developer": 6
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022104701388807607631",
       "addedAt": "2026-09-28T22:36:52.179Z"
+    },
+    {
+      "title": "Website Updating-Update my website with text",
+      "budget": "$15-$30/hr",
+      "score": 3097,
+      "url": "https://www.upwork.com/jobs/~022104714283425198373",
+      "addedAt": "2026-09-28T23:28:45.658Z"
     },
     {
       "title": "WordPress Developer for Website Redesign",
