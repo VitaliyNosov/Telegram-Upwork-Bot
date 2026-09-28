@@ -1,12 +1,19 @@
 {
   "date": "2026-09-28",
   "lastDigestSentDate": "2026-09-27",
-  "totalScanned": 7,
-  "matchedFilters": 1,
+  "totalScanned": 8,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Build Website with Astra and Elementor",
+      "budget": "$15-$50/hr",
+      "score": 5100,
+      "url": "https://www.upwork.com/jobs/~022104379956656538733",
+      "addedAt": "2026-09-28T01:20:44.089Z"
+    },
     {
       "title": "Recovery of website in wordpress",
       "budget": "$18-$40/hr",
