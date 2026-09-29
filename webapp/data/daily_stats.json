@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 56,
-  "matchedFilters": 21,
+  "totalScanned": 57,
+  "matchedFilters": 22,
   "byKeyword": {
-    "wordpress developer": 20,
+    "wordpress developer": 21,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022104684906280907045",
       "addedAt": "2026-09-28T21:32:51.390Z"
+    },
+    {
+      "title": "Wordpress website design - The renewable energy sector",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022104913257767969824",
+      "addedAt": "2026-09-29T12:38:43.951Z"
     },
     {
       "title": "Full-Stack Developer & WordPress Expert",

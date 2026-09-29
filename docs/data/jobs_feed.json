@@ -1,5 +1,38 @@
 [
   {
+    "id": "2104913257767969824",
+    "ciphertext": "~022104913257767969824",
+    "title": "Wordpress website design - The renewable energy sector",
+    "description": "WordPress Developer Needed to Build 3-Page Commercial Renewable Energy Website (Hello Elementor / Elementor Pro)\n\nJob Description:\nI am looking for an experienced WordPress developer to quickly build out a clean, highly professional, B2B commercial website for my company, Carlo Energy.\nHosting is already set up on SiteGround, and we are using a clean, modern corporate WordPress environment built entirely on the Hello Elementor core theme with Elementor Pro as the layout canvas.\nThe business operates as a dual-function commercial renewable energy consultancy. The design needs a highly visual \"hub-and-spoke\" layout to cleanly split our two service arms so that search engines (SEO) and corporate clients understand our offerings instantly.\nWebsite Structure Required:\nHomepage (The Hub): Needs a broad, premium B2B hero section with an immediate visual split using two side-by-side CTA boxes/buttons directing users to our two core service arms.\nPage 2: Installation & Project Management: Content focused on commercial Solar PV, Battery Storage (BESS), and Commercial EV Infrastructure.\nPage 3: Technical Diagnostics & Aerial Surveys: Content showcasing our 3 core drone tiers: Site Progress Tracking/Roof Surveys, Renewable Feasibility Studies, and High-Tier Thermal Asset Inspections.\nWhat You Will Do:\nConfigure the Hello Elementor theme and setup Elementor Pro container layouts.\nBuild the 3-page structural layout with a clear visual hierarchy, utilizing clean card blocks, video placeholders, and image galleries (as our asset tracking work is highly visual).\nMap all prepared headings, bulleted service breakdowns, and copywriting onto the respective pages.\nSet up a permanent 301 domain redirect from a secondary domain to our Technical Diagnostics page.\nImplement basic on-page SEO framework (H1, H2 tags, and clean alt text formatting).\nEnsure the site is 100% mobile-responsive and optimized for speed via SiteGround’s caching tools.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "landing-pages",
+      "website",
+      "website-customization",
+      "visual-design",
+      "elementor",
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! Building a clean, high-performance B2B site for Carlo Energy using Hello Elementor and Elementor Pro is right in my wheelhouse. \n\nI specialize in custom Elementor development with a strong focus on building structured, highly visual layouts—perfect for cleanly executing your \"hub-and-spoke\" design to differentiate your installation and drone diagnostic services. Beyond the core 3-page build, I will efficiently handle your SiteGround caching setup, on-page SEO framework, and the permanent 301 domain redirect to ensure everything is locked down and lightning-fast from day one. You can view an example of my clean structural work on high-impact corporate sites like [https://www.cchpca.org/](https://www.cchpca.org/).\n\nLet’s connect in chat to review your copywriting and asset folders so we can get this built quickly.",
+    "publishedDateTime": "2026-09-29T12:38:01+0000",
+    "addedAt": "2026-09-29T12:38:47.101Z",
+    "url": "https://www.upwork.com/jobs/~022104913257767969824",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104913257767969824/apply/"
+  },
+  {
     "id": "2104892016886581255",
     "ciphertext": "~022104892016886581255",
     "title": "Website & Landing Page Optimization for Video Production Business",
