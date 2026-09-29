@@ -1,5 +1,40 @@
 [
   {
+    "id": "2104879022124893121",
+    "ciphertext": "~022104879022124893121",
+    "title": "Website Developer Needed for Dynamic Ongoing Project",
+    "description": "We’re looking for a reliable, creative, and experienced Website Developer to join us on an exciting long-term brand project.\n\nThis is more than a one-time website build. We’re looking for someone who can become a trusted development partner and help us continuously improve, maintain, and grow the brand’s online presence.\nWhat You’ll Be Doing\n\n    Develop, customize, and maintain a modern, high-performing website\n\n    Build responsive pages that work seamlessly across desktop, tablet, and mobile\n\n    Implement new features, functionality, and design updates\n\n    Optimize website speed, performance, SEO, and user experience\n\n    Troubleshoot bugs and resolve technical issues quickly\n\n    Integrate third-party tools, APIs, forms, analytics, and other services as needed\n\n    Collaborate with our team on ongoing website improvements\n\n    Maintain clean, scalable, well-organized code\n\n    Provide recommendations for improving the website and overall digital experience\n\nWhat We’re Looking For\n\n    Proven experience as a professional web developer\n\n    Strong knowledge of HTML, CSS, JavaScript, and modern web development practices\n\n    Experience with relevant CMS/platforms such as WordPress, Shopify, Webflow, or similar (depending on your expertise)\n\n    Strong understanding of responsive design and cross-browser compatibility\n\n    Experience with website performance optimization and SEO best practices\n\n    Ability to work independently and meet deadlines\n\n    Excellent communication and attention to detail\n\n    A proactive mindset—you should be comfortable identifying problems and suggesting solutions rather than simply waiting for instructions\n\nLong-Term Opportunity\n\nWe’re specifically interested in finding someone who is looking for ongoing work and a long-term working relationship.\n\nThe right developer will have opportunities to work on new pages, features, integrations, optimization, maintenance, and future projects as the brand grows.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "jquery",
+      "web-design",
+      "web-programming",
+      "javascript",
+      "woocommerce",
+      "php",
+      "html",
+      "css",
+      "html5"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI’m looking for a long-term partnership just like this, where I can act as your go-to developer to continuously improve, maintain, and scale your web presence. \n\nWith deep expertise in WordPress, PHP, JavaScript, and WooCommerce—alongside experience with Shopify and Webflow—I specialize in building high-performing, responsive websites and implementing custom features. Beyond initial development, I focus heavily on proactive speed optimization, clean scalable code, third-party integrations, and quickly resolving technical bugs. \n\nYou can check out some of my recent production work here: https://www.thelifeyoucansave.org/\n\nI’d love to hear more about your brand and what you’re looking to build first. Are you currently on WordPress, or evaluating platforms for this project?",
+    "publishedDateTime": "2026-09-29T10:21:33+0000",
+    "addedAt": "2026-09-29T10:22:43.491Z",
+    "url": "https://www.upwork.com/jobs/~022104879022124893121",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104879022124893121/apply/"
+  },
+  {
     "id": "2104874079236050569",
     "ciphertext": "~022104874079236050569",
     "title": "We are looking for a developer to automate our digital code validation process in WooCommerce",
