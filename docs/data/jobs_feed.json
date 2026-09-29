@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105044116740629486",
+    "ciphertext": "~022105044116740629486",
+    "title": "WordPress Developer for Gutenberg Builds",
+    "description": "We are looking for experienced WordPress developers to build and modify websites using our established starting point themes built with WordPress Gutenberg and Full Site Editing (FSE).\nThis is not an Elementor, Divi, Beaver Builder, or other page builder position. It is also not a Gutenberg extension position.\n\nOur websites are built primarily using native WordPress Gutenberg blocks and Full Site Editing, with heavy use of custom CSS to achieve the required designs and responsive behavior.\nWe do not build our websites around Gutenberg extension suites such as Kadence Blocks, Spectra, GenerateBlocks, Stackable, CoBlocks, or similar tools.\n\nApplicants must be highly comfortable working with native Gutenberg/FSE functionality, writing substantial custom CSS, and building websites with ADA accessibility and usability requirements in mind throughout development.\n\nAccessibility should not be treated as something that is checked only after the website has been completed. Developers are expected to consider accessibility while building templates, components, navigation, forms, content, and responsive layouts.\n\nPlease see full description and requirements here: https://docs.google.com/document/d/1ewH1gn4ectV4Di2gEt2bdbagxcXzpsOT7A3JXE3AfLU/edit?usp=sharing",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "css"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! \n\nI’m an experienced WordPress developer who builds exclusively with native Gutenberg blocks and Full Site Editing (FSE)—no third-party extension suites or page builders like Elementor. \n\nI’m very comfortable writing clean, heavy custom CSS to bring custom designs to life while strictly implementing ADA accessibility standards from the ground up, rather than as an afterthought. Whether it's semantic markup, keyboard navigation, or responsive layouts, accessibility is baked into my workflow for every template and component I build. \n\nYou can check out some of my recent custom builds here: https://www.thelifeyoucansave.org/\n\nAre you working with pre-existing design files (like Figma), and what is your current timeline for rolling out these builds?",
+    "publishedDateTime": "2026-09-29T21:17:28+0000",
+    "addedAt": "2026-09-29T21:18:46.964Z",
+    "url": "https://www.upwork.com/jobs/~022105044116740629486",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105044116740629486/apply/"
+  },
+  {
     "id": "2104987509310392327",
     "ciphertext": "~022104987509310392327",
     "title": "WordPress Help Needed For Existing Site",
