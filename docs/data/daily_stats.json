@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 17,
-  "matchedFilters": 8,
+  "totalScanned": 18,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022104650875307169103",
       "addedAt": "2026-09-28T22:16:48.044Z"
+    },
+    {
+      "title": "Divi/WordPress Developer — Affiliate Marketing Site with High-Converting Blog Post Template",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022104742492807713614",
+      "addedAt": "2026-09-29T01:21:19.695Z"
     },
     {
       "title": "Landing Page with Contact Form",

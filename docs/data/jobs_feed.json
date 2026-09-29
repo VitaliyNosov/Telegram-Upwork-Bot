@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104742492807713614",
+    "ciphertext": "~022104742492807713614",
+    "title": "Divi/WordPress Developer — Affiliate Marketing Site with High-Converting Blog Post Template",
+    "description": "We're looking for an experienced WordPress + Divi developer to build a general affiliate marketing website. It won't be limited to one niche — it will promote a broad range of products/offers sourced from various affiliate networks.\n\n**Scope of work:**\n- Build a clean, modern, fast-loading site in WordPress using Divi\n- Core pages: Home, Blog, About, Contact, Disclaimer (affiliate disclosure), Privacy Policy\n- A **Resources page** displaying current affiliate offers with images/thumbnails (style reference will be shared with the hired freelancer)\n- **A reusable blog post template designed specifically for promoting affiliate offers** — not a standard blog layout. Each post using this template should function like a mini landing page for the offer being promoted (structured for conversions: strong visual hierarchy, clear CTA placement, product image/benefits layout, etc.), so we can publish new offers quickly without redesigning each time.\n- Ability to easily add/update offers and blog posts going forward\n\n**Important — research required before starting:**\nBefore building the blog post template, please find 2-3 examples of high-converting landing pages or affiliate review posts from other sites, and let us know which one you're using as the primary layout reference. We want the template's structure (layout, flow, placement of elements) to closely follow a proven, high-converting example rather than a generic design — please share the reference link(s) with us for approval before you start building.\n\n**Requirements:**\n- Proven experience with Divi (please share 2-3 examples of sites you've built with it)\n- Experience with affiliate marketing sites, landing pages, or conversion-focused design is a strong plus\n- Comfortable doing competitive/layout research as part of the build process\n\n**To apply:** Please include 2-3 links to affiliate or landing-page-style sites you've built with Divi, and briefly describe how you'd approach finding a high-converting layout to model the blog template after. Also include your estimated timeline and rate (fixed price or hourly).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 36,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "divi",
+      "theme-customization",
+      "web-design",
+      "landing-pages"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! I have built numerous Divi sites with a strong focus on conversion-optimized landing pages and affiliate structures. For example, you can review my work at https://www.thelifeyoucansave.org/ and https://www.daysforgirls.org/, both built on WordPress.\n\nTo model your affiliate blog template, my approach to the upfront research would be to analyze top-ranking review sites in competitive spaces like NerdWallet or Wirecutter, focusing on sites that balance high readability with clear, above-the-fold CTA placement and trust signals. I would present 2-3 proven layout references for your approval before building out the reusable Divi template. \n\nThis project typically takes me around 5-7 days to complete from research to final QA. Let's chat about your preferred style references and get started!",
+    "publishedDateTime": "2026-09-29T01:19:25+0000",
+    "addedAt": "2026-09-29T01:21:21.217Z",
+    "url": "https://www.upwork.com/jobs/~022104742492807713614",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104742492807713614/apply/"
+  },
+  {
     "id": "2104740029323941199",
     "ciphertext": "~022104740029323941199",
     "title": "Landing Page with Contact Form",
