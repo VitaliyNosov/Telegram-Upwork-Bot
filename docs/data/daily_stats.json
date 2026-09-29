@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 86,
-  "matchedFilters": 25,
+  "totalScanned": 87,
+  "matchedFilters": 26,
   "byKeyword": {
-    "wordpress developer": 24,
+    "wordpress developer": 25,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 3097,
       "url": "https://www.upwork.com/jobs/~022104705219733311976",
       "addedAt": "2026-09-29T02:22:41.946Z"
+    },
+    {
+      "title": "Add Terms and Conditions to WordPress Site",
+      "budget": "$15-$30/hr",
+      "score": 3097,
+      "url": "https://www.upwork.com/jobs/~022104980275840843837",
+      "addedAt": "2026-09-29T17:04:49.724Z"
     },
     {
       "title": "WordPress Developer for Website Redesign",
