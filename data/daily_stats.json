@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 50,
-  "matchedFilters": 17,
+  "totalScanned": 52,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 18,
     "woocommerce": 1
   },
   "topJobs": [
@@ -98,6 +98,20 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022104886300892965600",
       "addedAt": "2026-09-29T10:56:42.566Z"
+    },
+    {
+      "title": "Website & Landing Page Optimization for Video Production Business",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022104889390659994755",
+      "addedAt": "2026-09-29T11:04:45.409Z"
+    },
+    {
+      "title": "Fashion E-commerce Website Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022104889230404913159",
+      "addedAt": "2026-09-29T11:04:47.545Z"
     },
     {
       "title": "Landing Page with Contact Form",
