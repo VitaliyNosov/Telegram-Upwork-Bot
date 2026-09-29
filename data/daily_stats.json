@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 49,
-  "matchedFilters": 16,
+  "totalScanned": 50,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 15,
+    "wordpress developer": 16,
     "woocommerce": 1
   },
   "topJobs": [
@@ -91,6 +91,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022104886998767100910",
       "addedAt": "2026-09-29T10:54:43.461Z"
+    },
+    {
+      "title": "looking to create a one page site  with card payment and knowledege of Api",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022104886300892965600",
+      "addedAt": "2026-09-29T10:56:42.566Z"
     },
     {
       "title": "Landing Page with Contact Form",
