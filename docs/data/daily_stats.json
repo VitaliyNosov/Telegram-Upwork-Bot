@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 52,
-  "matchedFilters": 19,
+  "totalScanned": 53,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 18,
+    "wordpress developer": 19,
     "woocommerce": 1
   },
   "topJobs": [
@@ -126,6 +126,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022104783776250504240",
       "addedAt": "2026-09-29T04:04:41.119Z"
+    },
+    {
+      "title": "Experienced Elementor/WordPress developer",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022104891705773196419",
+      "addedAt": "2026-09-29T11:12:46.146Z"
     },
     {
       "title": "Web Designer/Developer for Wealth Advisor",
