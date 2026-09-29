@@ -1,5 +1,36 @@
 [
   {
+    "id": "2105023065861456833",
+    "ciphertext": "~022105023065861456833",
+    "title": "Build responsive WordPress site with booking/payment functionality",
+    "description": "Hi,\n\nI’m looking to get a quote for a new website for my graphic design and commercial printing business.\n\nI currently have a website, but I’m looking to have a new site built with a more modern and professional look, with the main focus on commercial printing. My customers include businesses, nonprofit organizations, schools, funeral homes, and individuals.\n\nI already have sample website layouts that show the style and direction I would like for the new site. I can provide those samples for you to review.\n\nThe website would include pages such as:\n\n• Home\n• Commercial Printing\n• Graphic Design\n• Memorial Printing\n• Funeral Home Services\n• About Us\n• Portfolio\n• Request a Quote with file/artwork upload\n• Contact\n\nI would also like the website to be mobile-friendly, easy for me to update, fast-loading, and SEO-friendly.\n\nCould you please let me know your estimated cost, what platform you recommend (WordPress, Wix, etc.), estimated turnaround time, and whether you can build the website closely based on the sample layouts I provide?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "2checkout",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "woocommerce",
+      "html5"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can definitely build a modern, fast, and mobile-friendly WordPress site for your printing business using the sample layouts you provide. Since you need robust page structures, custom inquiry forms with file uploads, and easy ongoing updates, WordPress paired with Advanced Custom Fields (ACF) is the ideal platform. It gives you a clean, professional design without the restrictions of drag-and-drop builders, while keeping the backend intuitive for you to manage.\n\nI specialize in custom WordPress development, speed optimization, and responsive design tailored for service businesses. For instance, I built sites like https://www.daysforgirls.org/, focusing on clean layouts, speed, and great user experience. \n\nCould you share your sample layouts and any specific file upload size requirements so I can provide an accurate cost estimate and turnaround time?",
+    "publishedDateTime": "2026-09-29T22:54:33+0000",
+    "addedAt": "2026-09-29T22:56:40.501Z",
+    "url": "https://www.upwork.com/jobs/~022105023065861456833",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105023065861456833/apply/"
+  },
+  {
     "id": "2105063680181085216",
     "ciphertext": "~022105063680181085216",
     "title": "Dev needed to redisgn 2 website pages",
