@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104740029323941199",
+    "ciphertext": "~022104740029323941199",
+    "title": "Landing Page with Contact Form",
+    "description": "Build a one- to two-page website landing page with a link to submit a “contact me” form. You will develop the visual images based on concepts we provide. The project should be simple, clean, and easy to navigate, with a clear call to action for visitors to reach out. Please include the contact form and ensure the page is mobile-friendly and functional across common browsers.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 65,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "web-programming",
+      "html"
+    ],
+    "score": 99,
+    "coverLetter": "Hi!\n\nI can help you build this clean, mobile-friendly landing page with a working contact form. Having developed numerous custom WordPress sites from design concepts (such as https://waapple.org/), I specialize in turning layouts into fast, responsive, and easy-to-navigate pages that drive action. \n\nI will ensure the site looks sharp across all devices and browsers, integrates a reliable contact form, and provides a clear path for visitors to reach out. \n\nDo you already have the concepts or wireframes ready, or would you like to discuss the layout approach first?",
+    "publishedDateTime": "2026-09-29T01:12:45+0000",
+    "addedAt": "2026-09-29T01:14:43.025Z",
+    "url": "https://www.upwork.com/jobs/~022104740029323941199",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104740029323941199/apply/"
+  },
+  {
     "id": "2104730635156656847",
     "ciphertext": "~022104730635156656847",
     "title": "Web Designer/Developer for Wealth Advisor",

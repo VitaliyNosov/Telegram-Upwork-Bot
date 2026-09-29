@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 16,
-  "matchedFilters": 7,
+  "totalScanned": 17,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022104650875307169103",
       "addedAt": "2026-09-28T22:16:48.044Z"
+    },
+    {
+      "title": "Landing Page with Contact Form",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022104740029323941199",
+      "addedAt": "2026-09-29T01:14:42.003Z"
     },
     {
       "title": "Web Designer/Developer for Wealth Advisor",
