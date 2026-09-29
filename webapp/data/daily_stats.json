@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 28,
-  "matchedFilters": 11,
+  "totalScanned": 29,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022104701388807607631",
       "addedAt": "2026-09-28T22:36:52.179Z"
+    },
+    {
+      "title": "WordPress Website Support Specialist",
+      "budget": "$5-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022104766120197494095",
+      "addedAt": "2026-09-29T05:54:41.957Z"
     },
     {
       "title": "Website Updating-Update my website with text",
