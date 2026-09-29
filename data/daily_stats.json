@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 96,
-  "matchedFilters": 27,
+  "totalScanned": 99,
+  "matchedFilters": 28,
   "byKeyword": {
-    "wordpress developer": 26,
+    "wordpress developer": 27,
     "woocommerce": 1
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 3900,
       "url": "https://www.upwork.com/jobs/~022104681075331962191",
       "addedAt": "2026-09-28T21:16:43.320Z"
+    },
+    {
+      "title": "WordPress Developer Needed for B2B Site",
+      "budget": "$5-$30/hr",
+      "score": 3150,
+      "url": "https://www.upwork.com/jobs/~022105016354738571271",
+      "addedAt": "2026-09-29T19:28:44.268Z"
     },
     {
       "title": "Build Website with Astra and Elementor",

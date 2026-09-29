@@ -1,5 +1,40 @@
 [
   {
+    "id": "2105016354738571271",
+    "ciphertext": "~022105016354738571271",
+    "title": "WordPress Developer Needed for B2B Site",
+    "description": "We’re looking for an experienced WordPress developer to build a professional 6-page website for ergob, with strict European GDPR and privacy compliance.\n\nRequirements:\n\n6-page responsive WordPress website\nGDPR + Google Consent Mode v2\nStrict prior cookie blocking & scan-ready setup\nSecure contact form with zero-database storage\nSMTP with category-based email routing\nIntegration of provided AI chatbot script\nStrong security and clean implementation\n85–90+ PageSpeed target on desktop",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$5 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 65,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "web-design",
+      "php",
+      "html",
+      "graphic-design",
+      "javascript",
+      "css",
+      "landing-pages",
+      "html5"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! \n\nBuilding a clean, high-performing 6-page B2B WordPress site with strict European GDPR compliance—including Google Consent Mode v2, prior cookie blocking, and zero-database storage contact forms—is right in my wheelhouse. \n\nBeyond standard development, I specialize in robust security hardening and high-performance speed optimization, consistently hitting 85–90+ desktop PageSpeed targets through clean code and proper caching configuration. I also routinely handle complex technical implementations like SMTP routing and third-party script integrations. You can view a sample of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nDo you already have a preferred cookie consent plugin in mind (like Cookiebot or Complianz), or would you like a recommendation based on your setup?\n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-09-29T19:28:10+0000",
+    "addedAt": "2026-09-29T19:28:45.652Z",
+    "url": "https://www.upwork.com/jobs/~022105016354738571271",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105016354738571271/apply/"
+  },
+  {
     "id": "2104988014370817155",
     "ciphertext": "~022104988014370817155",
     "title": "Expert WordPress Developer for Research Section",
