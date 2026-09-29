@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 48,
-  "matchedFilters": 15,
+  "totalScanned": 49,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 1
   },
   "topJobs": [
@@ -84,6 +84,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022104742492807713614",
       "addedAt": "2026-09-29T01:21:19.695Z"
+    },
+    {
+      "title": "Figma to Bricks Builder Developer — Pixel-Accurate\nWordPress Build",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022104886998767100910",
+      "addedAt": "2026-09-29T10:54:43.461Z"
     },
     {
       "title": "Landing Page with Contact Form",

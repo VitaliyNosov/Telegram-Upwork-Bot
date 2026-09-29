@@ -1,5 +1,33 @@
 [
   {
+    "id": "2104886998767100910",
+    "ciphertext": "~022104886998767100910",
+    "title": "Figma to Bricks Builder Developer — Pixel-Accurate\nWordPress Build",
+    "description": "We have approved Figma designs and need a Bricks Builder specialist to turn them into a polished, responsive\nWordPress website. The goal is a close visual match—not an approximate recreation. You should be comfortable\ntranslating design details into a clean, maintainable Bricks structure.\nWhat success looks like\nThe finished pages should feel consistent with the Figma source at desktop, tablet, and mobile sizes.\nTypography, spacing, alignment, colors, image treatment, and component behavior should be carefully matched.\nThe site should remain easy for our team to edit after handoff.\nYour build checklist\n• Recreate the supplied Figma layouts in Bricks Builder, including reusable components where appropriate.\n• Match layout dimensions, typography, spacing, colors, borders, and imagery as closely as practical.\n• Build and test responsive behavior for desktop, tablet, and mobile—not just scaled-down desktop layouts.\n• Add the interactions shown in the design and confirm they work across relevant screen sizes.\n• Use sensible class naming and organized structure; avoid unnecessary plugins and bloated code.\n• Check page performance and fix obvious layout or responsiveness issues before delivery.\nPlease apply if you can demonstrate\n• Recent Bricks Builder projects that show strong design accuracy.\n• A practical understanding of CSS, responsive behavior, and Bricks structure.\n• A careful QA process and the ability to communicate when a design detail is ambiguous.\nIn your proposal: Share 2–3 live Bricks websites, identify which parts you built, and tell us how you approach\nmatching Figma across breakpoints. Please also mention your availability and estimated timeline.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 193,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "elementor",
+      "wordpress-theme"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I am ready to translate your Figma designs into a pixel-perfect, high-performance Bricks Builder site. I specialize in building clean, maintainable WordPress structures that prioritize design fidelity and responsive consistency.\n\nMy approach to Figma-to-Bricks involves a \"component-first\" strategy. I map out reusable elements early to ensure the site is easy for your team to manage, while using custom CSS where necessary to match typography, spacing, and interactions across all breakpoints. I prioritize lean code to keep performance high, avoiding the bloat often found in page-builder sites.\n\nYou can see my attention to detail and structural quality at https://www.thelifeyoucansave.org/. I am available to start immediately and can provide a detailed timeline once I review the Figma files. \n\nCould you share the Figma link so I can assess the complexity and provide a firm estimate?",
+    "publishedDateTime": "2026-09-29T10:53:14+0000",
+    "addedAt": "2026-09-29T10:54:58.173Z",
+    "url": "https://www.upwork.com/jobs/~022104886998767100910",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104886998767100910/apply/"
+  },
+  {
     "id": "2104879022124893121",
     "ciphertext": "~022104879022124893121",
     "title": "Website Developer Needed for Dynamic Ongoing Project",
