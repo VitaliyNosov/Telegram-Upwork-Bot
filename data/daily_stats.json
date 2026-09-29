@@ -1,10 +1,10 @@
 {
   "date": "2026-09-30",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 5,
-  "matchedFilters": 2,
+  "totalScanned": 6,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022105044116740629486",
       "addedAt": "2026-09-29T21:18:45.707Z"
+    },
+    {
+      "title": "Dev needed to redisgn 2 website pages",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022105063680181085216",
+      "addedAt": "2026-09-29T22:38:44.567Z"
     }
   ]
 }

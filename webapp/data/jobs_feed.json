@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105063680181085216",
+    "ciphertext": "~022105063680181085216",
+    "title": "Dev needed to redisgn 2 website pages",
+    "description": "We are seeking an expert web developer who is immediately available to redesign/create 2 website pages, completed this week.\n\nMust create that page in format similar to this:  https://betterhealthalaska.com/alaska-back-pain-protocol/\n\nPages must pass CWV with flying colors and be 90+ on PSI. \n\nMust work with us on photos- copy and basic images provided. \n\nGive an estimate on the time needed, and propose a budget.  Im setting this at 400 for now.\n\nThis WILL BE a long term dev hire, provided you perform, as we always have work that is done on an as needed basis. Prev devs were with me for 2 years, and 5 years.\n\nRequirements:\n- Proven track record in advanced PageSpeed optimization, WordPress, HTML/CSS, and JavaScript.\n- Top-tier technical skill assessment scores.\n- Ability to maintain complex tracking infrastructure while optimizing asset delivery.\n- Detail the exact technical steps required to hit a 90+ mobile score without breaking critical tracking or functionality.\n\nThe project is straightforward.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 158,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "frontend-development",
+      "web-programming",
+      "website-redesign",
+      "website"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! To achieve a 90+ mobile PageSpeed score on the new pages while maintaining your tracking infrastructure, I use a targeted approach: deferring non-critical third-party scripts (like GTM/analytics), serving next-gen WebP images, implementing strict CSS/JS minification, and utilizing Gutenberg or clean custom code instead of heavy page builders. \n\nI am immediately available to redesign both pages this week using the layout style you shared. For similar high-performance builds, you can review my work on sites like https://www.thelifeyoucansave.org, which are optimized for strict Core Web Vitals. \n\nBased on your requirements, I estimate this will take about 4 to 6 hours to complete within your $400 budget, and I am looking for a reliable, long-term relationship just like your previous developers. \n\nAre the copy and images fully ready to review so we can get started today?",
+    "publishedDateTime": "2026-09-29T22:36:44+0000",
+    "addedAt": "2026-09-29T22:38:45.866Z",
+    "url": "https://www.upwork.com/jobs/~022105063680181085216",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105063680181085216/apply/"
+  },
+  {
     "id": "2105046298380107837",
     "ciphertext": "~022105046298380107837",
     "title": "WordPress Troubleshooting Specialist Needed — Diagnose CSS/JS Layout Issues on Staging",
