@@ -1,5 +1,40 @@
 [
   {
+    "id": "2104874079236050569",
+    "ciphertext": "~022104874079236050569",
+    "title": "We are looking for a developer to automate our digital code validation process in WooCommerce",
+    "description": "We are looking for a developer to automate our digital code validation process in WooCommerce.\n\nCurrently, after an order is paid, an employee manually takes the code, enters it on an external public balance checker website, verifies that the code works and has the correct balance, and then sends it to the customer.\n\nWe want to automate this entire process.\n\nImportant: we do not have API access to the balance checkers, so the validation will likely need to be done through browser automation. There are multiple public balance checker websites available that can potentially be used.\n\nRequired flow:\n- Paid WooCommerce order\n- Automatically retrieve/reserve the code\n- Check the code on an external balance checker\n- Read and verify the balance/result\n- If valid: complete the order and send the code\n- If invalid: try another code or flag it\n- If an error occurs: send the order to manual review\n\nPreferred experience:\n- WooCommerce / WordPress\n- Playwright or similar browser automation\n- Python or Node.js\n- Browser sessions/proxies\n- Reliable automation, retries and logging\n\nThis is our current idea, but if you have a better, more reliable or more scalable approach, we are open to discussing and implementing your solution.\n\nPlease mention if you have experience building similar automation systems without API access.\n\nRequirements\n- Write high-quality, clean code if necessary\n- At least 5+ years of experience \n- Work as a freelancer or with a small team (No large agencies)\n- Work independently (no project managers or task delegation)\n- Meet deadlines and follow our schedule\n- Honor commitments and communicate clearly about any issues",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$30 - $60/hr",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "node.js",
+      "selenium",
+      "data-extraction",
+      "crawlers",
+      "scripting",
+      "business-process-automation",
+      "automation",
+      "woocommerce",
+      "python",
+      "javascript"
+    ],
+    "score": 6148,
+    "coverLetter": "Hi! \n\nI have built several custom WooCommerce automation workflows that rely on browser automation (using tools like Selenium/Playwright) to interact with external third-party sites when APIs are unavailable. \n\nYour required flow—capturing paid WooCommerce orders, automatically spinning up a browser session to check codes on external balance checkers, and handling validation, retries, and error flagging—is right in my wheelhouse. As a senior developer with deep expertise in both WooCommerce customization and backend scripting (Node.js/Python), I build these systems to be robust, secure, and self-recovering with proper logging. \n\nI work independently, write clean and maintainable code, and ensure edge cases like site downtime or unexpected layout changes on the checker sites are handled gracefully.\n\nWhich external balance checkers are you planning to use for this, or do you have a preferred stack between Node.js and Python for the automation script? Let's discuss the best approach in chat.",
+    "publishedDateTime": "2026-09-29T10:02:34+0000",
+    "addedAt": "2026-09-29T10:04:45.264Z",
+    "url": "https://www.upwork.com/jobs/~022104874079236050569",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104874079236050569/apply/"
+  },
+  {
     "id": "2104869471343944736",
     "ciphertext": "~022104869471343944736",
     "title": "Breakdance - Website Builder Expert Needed",
