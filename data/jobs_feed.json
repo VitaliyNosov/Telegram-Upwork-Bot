@@ -1,5 +1,34 @@
 [
   {
+    "id": "2104982696611144686",
+    "ciphertext": "~022104982696611144686",
+    "title": "Ecommerce Conversion Analyst for WooCommerce Store",
+    "description": "I’m looking for an experienced ecommerce conversion specialist to review an established WooCommerce store and identify the main reasons visitors may not be completing purchases.\n\nThis is a short, one-time project. I need someone who can look beyond visual design and analyze the overall buying journey, available marketing data, customer psychology, messaging, and checkout experience.\n\nThe work will include reviewing:\n\n- Website and mobile purchasing experience\n- Key product and landing pages\n- Cart and checkout\n- Calls to action and purchase friction\n- Product messaging and benefit communication\n- Pricing and perceived value\n- Customer trust and credibility\n- Reviews, testimonials, and other proof\n- Common customer objections\n- Product differentiation\n- WooCommerce sales/order information\n- Historical Meta advertising data\n- Meta Pixel/CAPI information where available\n\nHistorical GA4 data is not available, so you should be comfortable analyzing a project where tracking data is incomplete.\n\nI need someone who can explain which conclusions are supported by actual data and which observations should be treated as hypotheses.\n\nThe final work should provide:\n\n- A clear diagnosis of the major conversion issues\n- Supporting evidence for important findings\n- Recommendations ordered by importance\n- Specific suggested changes\n- Screenshots/annotations where useful\n- Areas that do not currently need attention\n- Suggestions for validating the most important changes\n- A brief summary of what should be addressed first\n\nYou should be comfortable evaluating both UX and marketing/copy rather than focusing on only one side.\n\nExperience with WooCommerce and direct-to-consumer ecommerce is required. Experience with beauty, skincare, wellness, or other higher-consideration consumer products is a plus.\n\nWhen applying, please send:\n\n1. Examples of similar ecommerce conversion work\n2. A short explanation of your analysis process\n3. Your experience with WooCommerce and Meta Ads data\n4. What you can determine when GA4 history is unavailable\n5. An example or description of your usual final report\n6. Your fixed-price quote\n7. Your turnaround time\n\nPlease keep your proposal concise and tell me what information or access you would need to begin.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$20 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "conversion-rate-optimization",
+      "wp-ecommerce",
+      "e-commerce-website",
+      "web-analytics"
+    ],
+    "score": 6050,
+    "coverLetter": "Hi! \n\nTo answer your questions directly: \n\n1. **Similar work:** I regularly audit DTC ecommerce stores to fix checkout drop-offs and improve funnel performance, utilizing WooCommerce backend data and ad metrics.\n2. **Analysis process:** I map the complete buyer journey—from Meta ad creative and landing page messaging to product friction points and the final WooCommerce checkout.\n3. **WooCommerce & Meta Ads experience:** I have deep technical and structural experience with WooCommerce (`https://www.thelifeyoucansave.org/` is an example of my web architecture work) alongside analyzing Meta Pixel/CAPI and ad manager data to spot audience-to-page disconnects.\n4. **Missing GA4:** When analytics are limited, I rely heavily on WooCommerce sales data, Meta attribution, UX heuristic evaluations, and session-based friction analysis to form data-backed conclusions versus hypotheses.\n5. **Final report & quote:** You will receive a prioritized, screenshot-annotated action plan outlining immediate fixes. My fixed-price quote is $[Insert Quote] with a [Insert Number]-day turnaround. \n6. **Access needed:** WooCommerce admin login and Meta Ads Manager view access.\n\nReady to dive in—what is your current store URL?",
+    "publishedDateTime": "2026-09-29T20:14:59+0000",
+    "addedAt": "2026-09-29T20:16:51.752Z",
+    "url": "https://www.upwork.com/jobs/~022104982696611144686",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104982696611144686/apply/"
+  },
+  {
     "id": "2104976208523232193",
     "ciphertext": "~022104976208523232193",
     "title": "WordPress / Elementor Webs Rebuild -Multi-Location Fingerprinting Company (SEO + Perfor. Optimizatio",

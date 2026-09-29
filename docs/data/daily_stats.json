@@ -1,11 +1,11 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 100,
-  "matchedFilters": 29,
+  "totalScanned": 101,
+  "matchedFilters": 30,
   "byKeyword": {
     "wordpress developer": 28,
-    "woocommerce": 1
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -21,6 +21,13 @@
       "score": 6148,
       "url": "https://www.upwork.com/jobs/~022104874079236050569",
       "addedAt": "2026-09-29T10:04:43.839Z"
+    },
+    {
+      "title": "Ecommerce Conversion Analyst for WooCommerce Store",
+      "budget": "$20-$60/hr",
+      "score": 6050,
+      "url": "https://www.upwork.com/jobs/~022104982696611144686",
+      "addedAt": "2026-09-29T20:16:50.127Z"
     },
     {
       "title": "WooCommerce Expert Needed - Dell-Style Guided Purchase Journey / Shopping Workflow",
