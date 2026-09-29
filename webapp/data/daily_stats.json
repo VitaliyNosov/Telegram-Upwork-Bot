@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 57,
-  "matchedFilters": 22,
+  "totalScanned": 58,
+  "matchedFilters": 23,
   "byKeyword": {
-    "wordpress developer": 21,
+    "wordpress developer": 22,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 6148,
       "url": "https://www.upwork.com/jobs/~022104874079236050569",
       "addedAt": "2026-09-29T10:04:43.839Z"
+    },
+    {
+      "title": "WooCommerce Expert Needed - Dell-Style Guided Purchase Journey / Shopping Workflow",
+      "budget": "$20-$40/hr",
+      "score": 4200,
+      "url": "https://www.upwork.com/jobs/~022104914660075800583",
+      "addedAt": "2026-09-29T12:44:44.618Z"
     },
     {
       "title": "WordPress Blog Post Editor",
