@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 89,
-  "matchedFilters": 26,
+  "totalScanned": 91,
+  "matchedFilters": 27,
   "byKeyword": {
-    "wordpress developer": 25,
+    "wordpress developer": 26,
     "woocommerce": 1
   },
   "topJobs": [
@@ -105,6 +105,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022104742492807713614",
       "addedAt": "2026-09-29T01:21:19.695Z"
+    },
+    {
+      "title": "Expert WordPress Developer for Research Section",
+      "budget": "Fixed-price",
+      "score": 146,
+      "url": "https://www.upwork.com/jobs/~022104988014370817155",
+      "addedAt": "2026-09-29T17:36:44.786Z"
     },
     {
       "title": "Figma to Bricks Builder Developer — Pixel-Accurate\nWordPress Build",

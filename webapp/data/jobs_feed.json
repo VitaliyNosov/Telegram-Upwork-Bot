@@ -1,5 +1,40 @@
 [
   {
+    "id": "2104988014370817155",
+    "ciphertext": "~022104988014370817155",
+    "title": "Expert WordPress Developer for Research Section",
+    "description": "We need an expert WordPress developer to build a dedicated research section on our website. The work includes creating the page structure, organizing content, and ensuring the section is easy to navigate and visually consistent with the rest of the site. You should be able to implement a clean layout, support future updates, and deliver a polished final result. Please share relevant examples of similar work and your approach to building structured, user-friendly website sections.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.81,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 238,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "seo",
+      "web-programming",
+      "css",
+      "html",
+      "javascript",
+      "php",
+      "woocommerce",
+      "ux-research",
+      "web-design"
+    ],
+    "score": 146,
+    "coverLetter": "Hi! \n\nBuilding structured, user-friendly content sections like a dedicated research hub is right in my wheelhouse. I specialize in custom WordPress development, using clean layouts and tools like Advanced Custom Fields (ACF) and Gutenberg to ensure the backend is just as easy for your team to update as it is for visitors to navigate. \n\nWhether we need custom post types, organized taxonomies, or a tailored layout that matches your existing design system, I can build a scalable and visually cohesive solution. You can see examples of my clean, content-driven WordPress builds here: https://www.thelifeyoucansave.org/\n\nDo you already have Figma designs or a wireframe for the research section, or should we collaborate on mapping out the structure? Let's chat!",
+    "publishedDateTime": "2026-09-29T17:34:49+0000",
+    "addedAt": "2026-09-29T17:36:46.013Z",
+    "url": "https://www.upwork.com/jobs/~022104988014370817155",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104988014370817155/apply/"
+  },
+  {
     "id": "2104980275840843837",
     "ciphertext": "~022104980275840843837",
     "title": "Add Terms and Conditions to WordPress Site",
