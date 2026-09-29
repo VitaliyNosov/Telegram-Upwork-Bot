@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 82,
-  "matchedFilters": 23,
+  "totalScanned": 83,
+  "matchedFilters": 24,
   "byKeyword": {
-    "wordpress developer": 22,
+    "wordpress developer": 23,
     "woocommerce": 1
   },
   "topJobs": [
@@ -147,6 +147,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022104783776250504240",
       "addedAt": "2026-09-29T04:04:41.119Z"
+    },
+    {
+      "title": "Creative Manager – Designer/Developer - (WordPress / Shopify / Front End)",
+      "budget": "Fixed-price",
+      "score": 91,
+      "url": "https://www.upwork.com/jobs/~022104923994081886269",
+      "addedAt": "2026-09-29T16:22:42.472Z"
     },
     {
       "title": "Experienced Elementor/WordPress developer",
