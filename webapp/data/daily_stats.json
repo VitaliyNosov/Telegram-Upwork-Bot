@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 99,
-  "matchedFilters": 28,
+  "totalScanned": 100,
+  "matchedFilters": 29,
   "byKeyword": {
-    "wordpress developer": 27,
+    "wordpress developer": 28,
     "woocommerce": 1
   },
   "topJobs": [
@@ -119,6 +119,13 @@
       "score": 146,
       "url": "https://www.upwork.com/jobs/~022104988014370817155",
       "addedAt": "2026-09-29T17:36:44.786Z"
+    },
+    {
+      "title": "WordPress / Elementor Webs Rebuild -Multi-Location Fingerprinting Company (SEO + Perfor. Optimizatio",
+      "budget": "Fixed-price",
+      "score": 146,
+      "url": "https://www.upwork.com/jobs/~022104976208523232193",
+      "addedAt": "2026-09-29T19:48:45.470Z"
     },
     {
       "title": "Figma to Bricks Builder Developer — Pixel-Accurate\nWordPress Build",
