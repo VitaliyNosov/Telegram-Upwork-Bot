@@ -1,5 +1,37 @@
 [
   {
+    "id": "2104783776250504240",
+    "ciphertext": "~022104783776250504240",
+    "title": "Elementor Pro designer-developer — Figma-first redesign of Locations page, office template, homepage",
+    "description": "We're a behavioral health practice in Florida with four offices plus telehealth. Our site runs WordPress + Elementor Pro. We need one experienced person who can BOTH design and implement a focused redesign of how our locations are presented. This is not a full site redesign.\n\nSCOPE: THREE SURFACES, ONE SHARED \"OFFICE\" TREATMENT\n\n1. /locations/ overview page. We recently removed embedded maps, and the page was built around them. Today the four offices appear twice with inconsistent treatments — once as a text list grouped by region with directions links but no phone numbers, and again as a photo card grid with phone numbers but a directions button that only links to the office page. A general contact block (mailing address, hours, fax) sits between them, and a \"Virtual\" card shows empty address/phone fields. We want one clear, intentional layout that helps a prospective client quickly see where our offices are, get the address and phone for each, get directions in Google Maps, and choose the right office — with telehealth presented sensibly alongside.\n\n2. Office landing page template. All four office pages are generated from one shared Elementor Theme Builder template using dynamic (ACF) content: office name, hero and intro, location copy, address/phone/hours, a filterable grid of clinicians at that location (~50 clinicians across the four offices), and a photo gallery. The map that used to anchor the contact area is gone, and that area needs to feel complete without it — likely a stronger address/contact treatment with a clear Get directions CTA, but we're open to better ideas. The design must keep working with dynamic office-specific content.\n\n3. Homepage Locations section. A simple teaser: five tiles (four offices + Virtual) with a name and link, plus a \"View Locations\" button. It should reuse the office treatment from the overview page rather than get a separate design. No other homepage changes are in scope.\n\nPROCESS\n\nAgree on the design first, then build:\n\n1. Review the existing pages and content.\n2. Produce 1–2 visual directions, preferably in Figma. Six compositions are enough: overview page, office page, and homepage section — each at desktop and mobile. No standalone design system or pixel-perfect mockups at every breakpoint.\n3. We select a direction; up to two revision rounds.\n4. Build the approved design in Elementor Pro on a staging copy we provide.\n5. Resolve tablet/intermediate responsive behavior during implementation.\n6. Verify across all four office pages and the homepage.\n\nCONSTRAINTS — PLEASE READ BEFORE APPLYING\n\n- WordPress + Elementor / Elementor Pro; use the existing theme and components\n- No new plugins; no PHP or theme-file changes\n- No custom JS or CSS unless we approve it (small, documented CSS for responsive polish is fine to propose)\n- No embedded maps, iframes, external fonts, trackers, widgets, forms, or third-party scripts. Plain outbound links (e.g. Get directions in Google Maps) are fine\n- Office content must stay dynamic — no hard-coding office info into the shared template or the homepage section\n- Existing copy and photography stay unchanged unless we approve a change\n- Must work cleanly at phone, tablet, and desktop widths, with particular attention to 360px\n\nACCESS\n\nYou'll work on a staging copy we provide, never production. We'll reproduce the approved changes in production ourselves, so the quality of the handoff matters.\n\nDELIVERABLES\n\n- Design: 1–2 directions; desktop + mobile of the selected direction for all three surfaces; up to two revision rounds; a Figma view link or editable copy at handoff\n- Implementation: completed build on staging; all four office pages and the homepage reviewed; responsive behavior verified at ~360px, 768px, and 1440px; no horizontal scroll or broken layouts\n- Handoff: before/after screenshots; a concise list of templates, sections, containers, and widgets changed; important breakpoint-specific settings; any new dynamic fields we need to create (e.g. a per-office directions URL)\n\nWHAT WE CARE ABOUT\n\nClear thinking, good information design, restraint, and responsive execution — not animation or flashy effects. Healthcare experience is useful but not required. Please answer the screening questions specifically; we're not interested in generic agency introductions.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "figma",
+      "wordpress",
+      "responsive-design",
+      "web-design",
+      "website-redesign",
+      "uiux"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I’m an experienced WordPress and Elementor Pro developer who specializes in clean, information-first UI/UX design and structural rebuilds without relying on unnecessary plugins or bloated code. \n\nI completely understand your scope: consolidating your locations overview, updating the dynamic ACF office template, and tying in the homepage teaser while keeping everything dynamic and lightweight. I follow a strict \"no extra plugins, no heavy scripts\" philosophy, ensuring fast load times and flawless responsiveness down to 360px. You can see examples of my clean WordPress layouts and responsive work here: https://www.thelifeyoucansave.org/\n\nI'm ready to start with the Figma-first design phase for the three surfaces, refine it based on your feedback, and build it cleanly on your staging environment. \n\nWould you like to share the staging link so I can review the current layout and dynamic fields?",
+    "publishedDateTime": "2026-09-29T04:04:03+0000",
+    "addedAt": "2026-09-29T04:04:42.512Z",
+    "url": "https://www.upwork.com/jobs/~022104783776250504240",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104783776250504240/apply/"
+  },
+  {
     "id": "2104705219733311976",
     "ciphertext": "~022104705219733311976",
     "title": "Website Development upgrade my website",
