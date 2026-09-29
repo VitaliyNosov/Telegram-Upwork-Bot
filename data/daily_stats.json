@@ -1,12 +1,19 @@
 {
   "date": "2026-09-30",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 3,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Troubleshooting Specialist Needed — Diagnose CSS/JS Layout Issues on Staging",
+      "budget": "$15-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022105046298380107837",
+      "addedAt": "2026-09-29T21:31:14.895Z"
+    },
     {
       "title": "WordPress Developer for Gutenberg Builds",
       "budget": "Fixed-price",

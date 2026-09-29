@@ -1,5 +1,36 @@
 [
   {
+    "id": "2105046298380107837",
+    "ciphertext": "~022105046298380107837",
+    "title": "WordPress Troubleshooting Specialist Needed — Diagnose CSS/JS Layout Issues on Staging",
+    "description": "I’m looking for an experienced WordPress troubleshooting/debugging specialist to diagnose and fix a critical front-end issue on my existing website.\n\nThe highest-priority problem is that certain article pages become impossible to scroll, preventing visitors from reading the full article. Some posts are affected while others work normally.\n\nThis is not a redesign project. I need someone who is comfortable identifying the root cause of CSS/JavaScript/plugin/theme conflicts on an established WordPress site.\n\nThe website is running on PHP 8.4 with a child theme because the original theme is no longer maintained.\n\nMain issues:\n\n1. Critical article scrolling issue\n- Certain article pages become impossible to scroll properly.\n- Visitors cannot continue reading beyond a certain point.\n- Some posts are affected while others work normally.\n- The sidebar layout can become compressed or distorted at the same time.\n- Behavior has differed between logged-in and logged-out visitors.\n- LiteSpeed Guest Mode/Guest Optimization and a temporary CSS override have been tested, but no reliable permanent fix has been established.\n- This is the main issue I need diagnosed and fixed first.\n\n2. Popular / Latest / Random sidebar widget\n   - On affected article pages, the widget can collapse or display incorrectly.\n   - Titles can become compressed/cut off.\n   - Please verify all tabs work correctly across multiple posts and screen sizes.\n\n3. eBook sidebar loading delay / layout shift\n   - A Convert Pro eBook signup form loads several seconds after the surrounding page content.\n   - Empty space appears first, then the form loads.\n   - I want the layout stabilized so there is no noticeable shift.\n\n4. Right-side whitespace / container alignment\n   - Some affected article pages have shown excessive blank space on the right-hand side or misaligned sidebar/content widths.\n   - Please identify and correct the underlying CSS/layout issue if present.\n\n5. Mobile verification\n   - Please test affected article pages on mobile and desktop.\n   - Scrolling, sidebar layout and responsive behavior should remain stable.\n\nImportant background:\n\n- The site was previously upgraded from PHP 7.3 to PHP 8.4.\n- The original theme is no longer maintained.\n- A child theme contains compatibility/customization work.\n- LiteSpeed Cache and Convert Pro are in use.\n- I have recent full backups available.\n\nStaging requirement:\n\nAll diagnosis and repair work must be carried out on a staging copy first. You can create staging via cPanel, Softaculous, or another safe method you prefer. Please use a separate staging database and do not make changes directly to the live website without approval.\n\nDiagnostic-first approach:\n\nI would like the first stage limited to approximately 1–2 paid hours of diagnosis.\n\nAfter that, please report:\n\n1. The likely root cause\n2. Whether the issues are related or separate\n3. What changes are required\n4. Your estimated additional hours/cost to complete the fix\n\nPlease do not continue beyond the diagnostic stage without my approval.\n\nIdeal experience:\n\n- Advanced WordPress troubleshooting\n- Chrome DevTools\n- CSS/JavaScript debugging\n- Theme/child-theme conflicts\n- PHP 8.x compatibility\n- LiteSpeed Cache\n- Convert Pro\n- Responsive/mobile debugging\n- Plugin conflict diagnosis\n\nPlease tell me briefly about similar WordPress debugging work you’ve completed and your availability to start.\n\nThanks,\n\nTony",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$15 - $25/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 43,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "wordpress",
+      "web-programming",
+      "javascript",
+      "css",
+      "php"
+    ],
+    "score": 2600,
+    "coverLetter": "Hi Tony! I can jump into your staging environment right away to diagnose why those specific article pages are locking up and shifting layout. \n\nWith deep experience in advanced WordPress debugging, Chrome DevTools, and handling complex CSS/JS conflicts on unmaintained themes running modern PHP (like your move to PHP 8.4), I am well-equipped for this. I'm also very familiar with LiteSpeed Cache configurations and Convert Pro optimization. \n\nAs requested, I will stick strictly to a 1–2 hour diagnostic phase on a safe staging copy first. I'll pinpoint the root cause of the scroll-locking, sidebar collapse, and CLS from the eBook form, then report back with a clear action plan before touching anything else. \n\nFor a look at my past clean-code implementations, you can check out https://www.cchpca.org/. \n\nAre you ready for me to set up the staging copy and kick off the 2-hour audit today?",
+    "publishedDateTime": "2026-09-29T21:28:50+0000",
+    "addedAt": "2026-09-29T21:31:16.293Z",
+    "url": "https://www.upwork.com/jobs/~022105046298380107837",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105046298380107837/apply/"
+  },
+  {
     "id": "2105044116740629486",
     "ciphertext": "~022105044116740629486",
     "title": "WordPress Developer for Gutenberg Builds",
