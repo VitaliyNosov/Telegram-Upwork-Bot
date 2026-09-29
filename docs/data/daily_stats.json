@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 15,
-  "matchedFilters": 6,
+  "totalScanned": 16,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022104650875307169103",
       "addedAt": "2026-09-28T22:16:48.044Z"
+    },
+    {
+      "title": "Web Designer/Developer for Wealth Advisor",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022104730635156656847",
+      "addedAt": "2026-09-29T00:36:47.633Z"
     }
   ]
 }
