@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-28",
-  "totalScanned": 40,
-  "matchedFilters": 12,
+  "totalScanned": 42,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022104766120197494095",
       "addedAt": "2026-09-29T05:54:41.957Z"
+    },
+    {
+      "title": "Breakdance - Website Builder Expert Needed",
+      "budget": "$15-$30/hr",
+      "score": 3099,
+      "url": "https://www.upwork.com/jobs/~022104869471343944736",
+      "addedAt": "2026-09-29T09:44:40.728Z"
     },
     {
       "title": "Website Updating-Update my website with text",

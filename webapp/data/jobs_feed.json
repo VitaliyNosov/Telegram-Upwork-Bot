@@ -1,5 +1,33 @@
 [
   {
+    "id": "2104869471343944736",
+    "ciphertext": "~022104869471343944736",
+    "title": "Breakdance - Website Builder Expert Needed",
+    "description": "I'm seeking a highly skilled Breakdance Website Builder expert to collaborate with us on several upcoming web projects. If you have deep experience building modern, responsive, and high-performing WordPress sites using the Breakdance builder, I'd love to hear from you.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 80,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 3099,
+    "coverLetter": "Hi!\n\nI’m an experienced WordPress developer with deep expertise in modern page builders, custom theme development, and high-performance site architecture. \n\nWhile my core stack spans advanced Gutenberg, ACF, Elementor, and custom PHP/JS builds, I frequently adapt to modern visual builders to deliver sleek, fast-loading, and responsive WordPress sites. I focus on writing clean code, ensuring top-tier Core Web Vitals, and maintaining seamless user experiences from Figma design to launch. You can check out one of my recent custom-built WordPress projects here: https://www.thelifeyoucansave.org/\n\nDo you have specific design files ready for the upcoming projects, or are we building and structuring them from scratch? Let's chat about your workflow and how I can help.",
+    "publishedDateTime": "2026-09-29T09:44:01+0000",
+    "addedAt": "2026-09-29T09:44:42.301Z",
+    "url": "https://www.upwork.com/jobs/~022104869471343944736",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104869471343944736/apply/"
+  },
+  {
     "id": "2104766120197494095",
     "ciphertext": "~022104766120197494095",
     "title": "WordPress Website Support Specialist",
