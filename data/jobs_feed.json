@@ -1,5 +1,33 @@
 [
   {
+    "id": "2104987509310392327",
+    "ciphertext": "~022104987509310392327",
+    "title": "WordPress Help Needed For Existing Site",
+    "description": "Need some updates done to an existing Wordress site using Divi Theme.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "wordpress-plugin",
+      "wordpress-website"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can help you with the updates and maintenance for your existing WordPress site. \n\nI work extensively with the Divi theme, resolving layout issues, performing theme updates, and implementing custom updates without breaking your existing design. Whether you need content changes, plugin configurations, or structural adjustments using the Divi builder, I can get it handled quickly and cleanly. \n\nYou can check out some of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nCould you share a few more details about the specific updates you need done? I'd love to take a look and get started.",
+    "publishedDateTime": "2026-09-29T20:33:13+0000",
+    "addedAt": "2026-09-29T20:34:42.602Z",
+    "url": "https://www.upwork.com/jobs/~022104987509310392327",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022104987509310392327/apply/"
+  },
+  {
     "id": "2105029988021733383",
     "ciphertext": "~022105029988021733383",
     "title": "WordPress Website Design & SEO Setup",

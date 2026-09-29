@@ -1,10 +1,10 @@
 {
   "date": "2026-09-29",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 103,
-  "matchedFilters": 31,
+  "totalScanned": 104,
+  "matchedFilters": 32,
   "byKeyword": {
-    "wordpress developer": 29,
+    "wordpress developer": 30,
     "woocommerce": 2
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022104766120197494095",
       "addedAt": "2026-09-29T05:54:41.957Z"
+    },
+    {
+      "title": "WordPress Help Needed For Existing Site",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022104987509310392327",
+      "addedAt": "2026-09-29T20:34:41.578Z"
     },
     {
       "title": "Breakdance - Website Builder Expert Needed",
