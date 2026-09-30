@@ -1,12 +1,19 @@
 {
   "date": "2026-09-30",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 53,
-  "matchedFilters": 11,
+  "totalScanned": 55,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Developer Needed",
+      "budget": "$20-$80/hr",
+      "score": 8150,
+      "url": "https://www.upwork.com/jobs/~022105320896952829959",
+      "addedAt": "2026-09-30T15:42:50.711Z"
+    },
     {
       "title": "WordPress Site Migration and Security Fix",
       "budget": "$28-$75/hr",

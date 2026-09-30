@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105320896952829959",
+    "ciphertext": "~022105320896952829959",
+    "title": "Senior WordPress Developer Needed",
+    "description": "We need a senior developer to manage both backend and frontend development for a custom WordPress site. The role includes building and maintaining site functionality, improving performance, and ensuring a smooth user experience. You should be comfortable working independently, communicating clearly, and delivering reliable updates on time. Experience with custom WordPress development and full-stack responsibilities is important for this long-term project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 80,
+    "budgetDisplay": "$20 - $80/hr",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 36,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "javascript"
+    ],
+    "score": 8150,
+    "coverLetter": "Hi!\n\nI’d love to help you manage and scale your custom WordPress site as a senior full-stack developer. With deep expertise in custom theme development, PHP, JavaScript, and backend-to-frontend optimization, I specialize in building reliable, high-performance WordPress experiences that stand the test of time. \n\nMy background includes handling everything from complex custom functionality and database optimization to Core Web Vitals performance tuning. For instance, I built and supported robust, high-traffic platforms like https://www.snopud.com/, ensuring seamless user experiences and clean, maintainable code. \n\nI work independently, communicate proactively, and focus on long-term stability. Do you currently have a staging environment set up, or would we need to configure one before diving into the initial backlog?\n\nBest regards,\nWordPress & Full-Stack CMS Expert",
+    "publishedDateTime": "2026-09-30T15:41:32+0000",
+    "addedAt": "2026-09-30T15:42:57.216Z",
+    "url": "https://www.upwork.com/jobs/~022105320896952829959",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105320896952829959/apply/"
+  },
+  {
     "id": "2105306888059125821",
     "ciphertext": "~022105306888059125821",
     "title": "WordPress Troubleshooting Specialist",
