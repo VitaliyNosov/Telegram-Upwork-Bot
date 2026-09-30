@@ -1,5 +1,38 @@
 [
   {
+    "id": "2105402221594650604",
+    "ciphertext": "~022105402221594650604",
+    "title": "Build One-Page Website for Marketing Agency",
+    "description": "Kaveman Digital is a small-business web design and digital marketing company. I’m looking for a developer/designer to take an already-developed website strategy, prototype, production copy, and brand direction and turn them into a polished, responsive live website.\n\nThis is primarily an implementation project, not a strategy or branding engagement.\n\nThe website is a one-page MVP designed to establish credibility and convert visitors into one of two actions:\n- Request a free online presence checkup\n- Book a call\n\nI will provide the website prototype, final production copy, a detailed build brief, the Kaveman Digital brand board, the Meet the Founders brand board, and final brand assets as they are completed.\n\nThe prototype is a directional reference, not something that needs to be copied pixel-for-pixel. I want the finished site to improve the spacing, hierarchy, responsiveness, typography, visual rhythm, and overall polish while staying true to the established direction.\n\nThe site includes a hero, business pain points, services, a featured Free Online Presence Checkup offer, How It Works, Meet the Founders, About, final CTA, and footer.\n\nThe Free Online Presence Checkup will include a lightweight intake form with email notifications, stored submissions, a confirmation state, and a basic confirmation email.\n\nI am open to either WordPress or a lightweight custom/static build. I have some familiarity with WordPress/Divi and traditional HTML/CSS, but I’m hiring for implementation and want the selected contractor to recommend the best approach for this project.\n\nThe finished site should be responsive across desktop, tablet, and mobile; easy for me to make routine content updates; fast and lightweight; built with basic SEO and accessibility best practices; connected to Google Analytics; and structured so Meet the Founders podcast episodes or articles can be added later.\n\nI currently use SiteGround and own the domain. I prefer to use the existing hosting if it makes sense for the recommended stack.\n\nThe Meet the Founders podcast does not require a full podcast archive, RSS integration, or automated episode feed in V1. The section simply needs to be designed so it can expand later without a major rebuild.\n\nDeliverables include:\n- Complete responsive website implementation\n- Free Online Presence Checkup form\n- Book a Call link to an external scheduling platform\n- Basic SEO setup\n- Google Analytics setup\n- Performance and accessibility basics\n- Responsive/browser QA\n- Deployment\n- Full site/admin handoff\n- Short walkthrough showing how to make routine edits\n\nTarget timeline: approximately 2–3 weeks from project start.\n\nPlease start your proposal with “Kaveman Digital” so I know you reviewed the full project.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "html5",
+      "wordpress",
+      "divi",
+      "responsive-design",
+      "css",
+      "landing-pages"
+    ],
+    "score": 100,
+    "coverLetter": "Kaveman Digital! Hi! I’d love to help you bring this one-page MVP to life using your copy, prototype, and brand guidelines. \n\nGiven your requirements for a fast, responsive site that is easy to update and structured for future expansion (like your \"Meet the Founders\" content), I recommend building this on WordPress using a lightweight, clean approach rather than a heavy page builder like Divi. This ensures blazing-fast Core Web Vitals, seamless SiteGround integration, and an intuitive backend for your routine edits. \n\nI have extensive experience translating strategic prototypes into polished, conversion-focused WordPress sites—you can see a similar clean implementation here: https://www.thelifeyoucansave.org/. I’ll handle the custom intake form, analytics setup, responsive QA, and a quick Loom walkthrough at handoff.\n\nAre you available this week to chat through the brief and target timeline?",
+    "publishedDateTime": "2026-09-30T21:04:44+0000",
+    "addedAt": "2026-09-30T21:06:41.558Z",
+    "url": "https://www.upwork.com/jobs/~022105402221594650604",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105402221594650604/apply/"
+  },
+  {
     "id": "2105398558059870313",
     "ciphertext": "~022105398558059870313",
     "title": "WordPress / LMS Developer Needed: Zoom Classroom LTI 1.3 Integration (Divi Theme)",
