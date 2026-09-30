@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105306888059125821",
+    "ciphertext": "~022105306888059125821",
+    "title": "WordPress Troubleshooting Specialist",
+    "description": "I need a WordPress Troubleshooting Specialist who can diagnose and fix plugin errors, update vulnerable software, and secure my site. You will repair broken plugins, update outdated builders, clean up security issues, and stabilize my WordPress installation so it runs reliably going forward.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$18 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html",
+      "web-programming"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nI can help you diagnose, secure, and stabilize your WordPress site right away. \n\nAs a WordPress developer specializing in troubleshooting, I routinely handle plugin errors, secure compromised installations, and safely update outdated themes and builders without breaking site layouts. Whether you're dealing with fatal errors, plugin conflicts, or hidden vulnerabilities, I will clean up the codebase and ensure your site runs reliably moving forward. \n\nYou can check out some of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nWhen is a good time to review your site access so I can run an initial diagnostic?",
+    "publishedDateTime": "2026-09-30T14:45:52+0000",
+    "addedAt": "2026-09-30T14:46:55.525Z",
+    "url": "https://www.upwork.com/jobs/~022105306888059125821",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105306888059125821/apply/"
+  },
+  {
     "id": "2105263032173232189",
     "ciphertext": "~022105263032173232189",
     "title": "Web Developer for Website Rebuild",

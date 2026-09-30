@@ -1,10 +1,10 @@
 {
   "date": "2026-09-30",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 51,
-  "matchedFilters": 10,
+  "totalScanned": 52,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 7600,
       "url": "https://www.upwork.com/jobs/~022105111853656769473",
       "addedAt": "2026-09-30T01:52:43.379Z"
+    },
+    {
+      "title": "WordPress Troubleshooting Specialist",
+      "budget": "$18-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022105306888059125821",
+      "addedAt": "2026-09-30T14:46:52.273Z"
     },
     {
       "title": "Revamp website",
