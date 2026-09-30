@@ -1,5 +1,35 @@
 [
   {
+    "id": "2105256760486898400",
+    "ciphertext": "~022105256760486898400",
+    "title": "Website Developer for a clothing brand e commerce website",
+    "description": "We are seeking a talented website developer to create an engaging and user-friendly website for our upcoming clothing brand. The ideal candidate will have experience in eCommerce and be able to implement design concepts that reflect our brand's identity. Your role will involve building the site from scratch, ensuring it is mobile-responsive, and integrating payment gateways. If you have a passion for fashion and a strong portfolio, we would love to hear from you!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "graphic-design",
+      "shopify",
+      "wordpress"
+    ],
+    "score": 0,
+    "coverLetter": "Hi!\n\nI’d love to help you build an engaging, mobile-responsive e-commerce website for your upcoming clothing brand. \n\nWith extensive experience in both WordPress (WooCommerce) and Shopify, I specialize in bringing apparel brands to life online by translating unique design concepts into high-performing, user-friendly stores. I handle everything from scratch-built layouts and brand-aligned styling to seamless payment gateway integrations, ensuring your customers get a smooth shopping experience on any device. \n\nFor example, I recently built and optimized high-traffic sites like https://about.offerup.com/, focusing on clean code, speed, and conversion. \n\nAre you leaning toward Shopify or WooCommerce for this brand, and do you already have the design concepts ready to go? Let's discuss how we can bring your vision to life.",
+    "publishedDateTime": "2026-09-30T11:22:46+0000",
+    "addedAt": "2026-09-30T11:24:44.560Z",
+    "url": "https://www.upwork.com/jobs/~022105256760486898400",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105256760486898400/apply/"
+  },
+  {
     "id": "2105129783792741088",
     "ciphertext": "~022105129783792741088",
     "title": "Update a WordPress Website",
