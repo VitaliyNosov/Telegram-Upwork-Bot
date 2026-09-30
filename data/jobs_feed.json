@@ -1,5 +1,36 @@
 [
   {
+    "id": "2105159655630023392",
+    "ciphertext": "~022105159655630023392",
+    "title": "WordPress Elementor Website Repair & SEO Audit – Existing Business Website",
+    "description": "I am looking for an experienced WordPress/Elementor specialist to repair and improve an existing website for my painting company in Victoria, BC.\n\nThis is not a new website build and I am not looking for an ongoing SEO contract. The website already has its pages, content, photos, branding, and service information. My priority is to get the existing website working and displaying professionally again.\n\nWebsite work required:\nReview the existing WordPress/Elementor setup before making changes.\n\nDiagnose and correct current layout/alignment problems.\nRepair the global header and footer.\nCheck page/container widths, spacing, and alignment for consistency.\n\nCorrect excessive spacing/white-space issues where needed.\n\nMake sure the website displays properly on desktop, tablet, and mobile.\nPreserve the existing content and overall branding rather than unnecessarily rebuilding the website.\n\nCheck that contact forms, phone links, navigation, and calls-to-action work properly.\n\nSEO review:\nPerform a basic technical and on-page SEO audit.\n\nReview page titles, meta descriptions, headings (H1/H2/H3), indexing and other important on-page SEO items.\n\nReview local SEO setup for a painting contractor serving Victoria and Greater Victoria, BC.\n\nIdentify SEO improvements that can reasonably be made within this project.\nImportant: Before making major changes, I want the freelancer to review the existing site and explain what is wrong and what they recommend fixing. Please do not replace the theme, rebuild the website, install unnecessary plugins, or make major design changes without discussing them with me first.\n\nA backup should be made before work begins, and changes should be checked on desktop, tablet, and mobile before being considered complete.\n\nThis is a one-time fixed-price project with a budget of $350 USD. There is no monthly SEO or maintenance commitment.\nWhen applying, please briefly tell me:\nYour experience repairing existing Elementor websites.\n\nWhether you can handle both Elementor troubleshooting and basic technical/on-page SEO.\n\nWhat you would check first after reviewing my website.\nExamples of similar WordPress/Elementor repair work you have completed.\n\nI am looking for someone who communicates clearly, diagnoses the problem before making changes, and can work carefully with an existing business website.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "web-programming",
+      "seo-audit",
+      "web-design",
+      "on-page-seo"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I specialize in Elementor bug fixes, layout repairs, and technical on-page SEO. I am ready to jump in and get your painting company's website looking and performing professionally without unnecessarily rebuilding it.\n\nTo answer your questions directly:\n1. I have extensive experience repairing broken layouts, fixing global headers/footers, and resolving mobile responsiveness issues on existing Elementor sites. \n2. Yes, I handle both Elementor troubleshooting and basic technical/on-page SEO, including local SEO setups.\n3. First, I would take a full site backup, review the global theme/Elementor settings, and audit container widths, spacing, and mobile breakpoints to pinpoint what's breaking the layout.\n4. You can see a similar WordPress/Elementor repair and optimization project in my portfolio here: https://www.seeintl.org/\n\nMy approach is strictly to diagnose first, recommend fixes, and preserve your existing branding. \n\nShall we start with a quick review of your current site?",
+    "publishedDateTime": "2026-09-30T04:56:39+0000",
+    "addedAt": "2026-09-30T04:58:40.096Z",
+    "url": "https://www.upwork.com/jobs/~022105159655630023392",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105159655630023392/apply/"
+  },
+  {
     "id": "2105111853656769473",
     "ciphertext": "~022105111853656769473",
     "title": "WordPress Site Migration and Security Fix",

@@ -1,10 +1,10 @@
 {
   "date": "2026-09-30",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 22,
-  "matchedFilters": 6,
+  "totalScanned": 23,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022105044116740629486",
       "addedAt": "2026-09-29T21:18:45.707Z"
+    },
+    {
+      "title": "WordPress Elementor Website Repair & SEO Audit – Existing Business Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022105159655630023392",
+      "addedAt": "2026-09-30T04:58:38.719Z"
     },
     {
       "title": "Dev needed to redisgn 2 website pages",
