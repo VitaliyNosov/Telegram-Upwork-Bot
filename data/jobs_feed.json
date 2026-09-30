@@ -1,5 +1,35 @@
 [
   {
+    "id": "2105106603501356163",
+    "ciphertext": "~022105106603501356163",
+    "title": "Revamp website",
+    "description": "I need a freelance website content manager to make minor changes, add content and fix problems, such as when an update causes problems.  I do not regularly update the website, so there are updates that need to be completed and vulnerabilities addressed due to lack of regular maintenance.  The website is already built and published using Wordpress and hosted on Hostinger, so I need someone familiar with these platforms.  If minor fixes are performed well and communication is good, there will likely be future work developing content and developing ads for Facebook, Instagram and/or Google.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website",
+      "website-redesign",
+      "web-programming",
+      "web-design",
+      "wordpress"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! \n\nI can take care of your pending WordPress updates safely, fix any post-update errors or vulnerabilities, and help you keep the site running smoothly on Hostinger. \n\nSince your site hasn't been maintained regularly, my standard approach for this involves creating a staging environment first, running updates safely, resolving any plugin conflicts, and hardening the security. You can see an example of a full-scale WordPress site I've built and maintained here: https://www.thelifeyoucansave.org/.\n\nBeyond fixing the backlog and managing content, I can also assist with future ad development and campaign content for Facebook, Instagram, and Google once the technical foundation is secure.\n\nWhen are you looking to get started on clearing out these pending updates?",
+    "publishedDateTime": "2026-09-30T01:25:48+0000",
+    "addedAt": "2026-09-30T01:26:48.323Z",
+    "url": "https://www.upwork.com/jobs/~022105106603501356163",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105106603501356163/apply/"
+  },
+  {
     "id": "2105023065861456833",
     "ciphertext": "~022105023065861456833",
     "title": "Build responsive WordPress site with booking/payment functionality",

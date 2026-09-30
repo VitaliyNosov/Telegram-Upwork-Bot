@@ -1,12 +1,19 @@
 {
   "date": "2026-09-30",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 15,
-  "matchedFilters": 4,
+  "totalScanned": 16,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Revamp website",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022105106603501356163",
+      "addedAt": "2026-09-30T01:26:46.725Z"
+    },
     {
       "title": "WordPress Troubleshooting Specialist Needed — Diagnose CSS/JS Layout Issues on Staging",
       "budget": "$15-$25/hr",
