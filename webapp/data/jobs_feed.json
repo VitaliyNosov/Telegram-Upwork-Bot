@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105111853656769473",
+    "ciphertext": "~022105111853656769473",
+    "title": "WordPress Site Migration and Security Fix",
+    "description": "Our WordPress site was recently hacked, and the staging site is an older version. We need a freelancer to migrate as much data as possible from the staging site to the live site and help fix the website so it is secure and functioning properly. The work should include restoring content, settings, and other critical data, while also addressing the security issues that led to the hack. Please share relevant experience with WordPress recovery, data migration, and security fixes.",
+    "isHourly": true,
+    "hourlyBudgetMin": 28,
+    "hourlyBudgetMax": 75,
+    "budgetDisplay": "$28 - $75/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 22,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "mysql",
+      "web-programming"
+    ],
+    "score": 7600,
+    "coverLetter": "Hi! I can help you safely migrate your data, recover the live site, and secure it against future vulnerabilities. \n\nRecovering hacked WordPress sites and handling complex data migrations without losing content or settings is a core focus of my work. I specialize in malware removal, database optimization, and WordPress security hardening. I will thoroughly clean the environment, patch the vulnerabilities that led to the compromise, and carefully merge your staging content with the live database so nothing critical is left behind.\n\nYou can view examples of my recent WordPress work here: https://www.seeintl.org/\n\nCould you share the URL of the site and let me know if you currently have a clean backup available? Let's get this sorted out quickly.",
+    "publishedDateTime": "2026-09-30T01:50:53+0000",
+    "addedAt": "2026-09-30T01:52:54.149Z",
+    "url": "https://www.upwork.com/jobs/~022105111853656769473",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105111853656769473/apply/"
+  },
+  {
     "id": "2105106603501356163",
     "ciphertext": "~022105106603501356163",
     "title": "Revamp website",
