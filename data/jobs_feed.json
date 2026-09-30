@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105263032173232189",
+    "ciphertext": "~022105263032173232189",
+    "title": "Web Developer for Website Rebuild",
+    "description": "I need a web developer to help rebuild a simple website for my restaurant.\n\nThe project involves partially copying the existing site and migrating to my domain, also updating the structure to be better and faster, improving functionality, and ensuring the site is clean and user-friendly. \n\nI’m looking for someone who can work efficiently, communicate clearly, and deliver a polished final product. If you have experience with similar projects and can share examples of your work, I’d love to hear from you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 97,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "html",
+      "html5"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can help you rebuild your restaurant's website, migrating it to your domain while drastically improving its speed, structure, and user experience. \n\nFor projects like this, I focus on clean, modern development that ensures fast loading times—crucial for mobile restaurant visitors looking at menus or making reservations. I’ll streamline the layout, fix any existing functional bottlenecks, and deliver a polished, easy-to-manage site. You can view an example of my clean, high-performance web development work here: https://www.seeintl.org/\n\nDo you currently have a preferred platform or CMS in mind for the rebuild, or would you like a recommendation based on your needs? Let's chat about the details!",
+    "publishedDateTime": "2026-09-30T11:51:36+0000",
+    "addedAt": "2026-09-30T11:52:48.387Z",
+    "url": "https://www.upwork.com/jobs/~022105263032173232189",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105263032173232189/apply/"
+  },
+  {
     "id": "2105256760486898400",
     "ciphertext": "~022105256760486898400",
     "title": "Website Developer for a clothing brand e commerce website",
