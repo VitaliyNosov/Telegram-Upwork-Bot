@@ -1,5 +1,37 @@
 [
   {
+    "id": "2105322011984987073",
+    "ciphertext": "~022105322011984987073",
+    "title": "Web Design & Speed Optimization",
+    "description": "I have a website that I need updates made to. \n\nI have a design sheet- there are 4 pages I need designed. \n\n2 of the pages are already existing- the Home Page &  Contact page which I need edits on and updates to\n\n2 additional pages will need to be created exactly as the client wants.\n\nYou will need to copy the design she made in canva into website format in Elementor Pro\n\nThere is also a major speed issue on the site- so I will need help with that. \n\nIt's an easy project. If you do a good job- I would like to hire you for a few more such as for my own 2 websites",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 105,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "wordpress",
+      "web-programming",
+      "html",
+      "css",
+      "web-design",
+      "page-speed-optimization"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you update your existing pages, build the two new ones using Elementor Pro from your Canva designs, and fix your site's speed issues. \n\nAs a WordPress developer with extensive experience in Elementor bug fixes, site rebuilds, and Core Web Vitals optimization, I regularly convert designs into fully responsive, high-performing pages. I also specialize in diagnosing slow site issues, optimizing databases, and configuring caching to ensure fast loading times. You can see an example of my work at https://www.thelifeyoucansave.org/. \n\nI’d love to help you get this site running smoothly and look forward to potentially assisting with your other two websites as well. Could you share the Canva link and your current site URL so I can review the speed bottlenecks?",
+    "publishedDateTime": "2026-09-30T15:45:59+0000",
+    "addedAt": "2026-09-30T15:46:56.785Z",
+    "url": "https://www.upwork.com/jobs/~022105322011984987073",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105322011984987073/apply/"
+  },
+  {
     "id": "2105320896952829959",
     "ciphertext": "~022105320896952829959",
     "title": "Senior WordPress Developer Needed",
