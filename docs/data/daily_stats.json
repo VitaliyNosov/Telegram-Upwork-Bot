@@ -1,12 +1,19 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 5,
-  "matchedFilters": 1,
+  "totalScanned": 6,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress and CloudFlare Optimization Expert",
+      "budget": "$20-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022105411212864664389",
+      "addedAt": "2026-09-30T21:40:58.096Z"
+    },
     {
       "title": "Build One-Page Website for Marketing Agency",
       "budget": "Fixed-price",

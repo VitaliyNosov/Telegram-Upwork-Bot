@@ -1,5 +1,38 @@
 [
   {
+    "id": "2105411212864664389",
+    "ciphertext": "~022105411212864664389",
+    "title": "WordPress and CloudFlare Optimization Expert",
+    "description": "Need an expert to improve the responsiveness and loading speed of two domains, including specific front-end pages. The work includes reviewing existing site structure, identifying performance bottlenecks, and implementing cleanup and optimization changes. The goal is to make the sites faster and more efficient, especially for pages that have become slow over time due to accumulated development work.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$20 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html",
+      "cloudflare",
+      "woocommerce",
+      "javascript",
+      "css",
+      "page-speed-optimization"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nI can help you diagnose the performance bottlenecks on your two domains and streamline your front-end pages for significantly faster load times. \n\nWith deep expertise in WordPress speed optimization, Core Web Vitals, and server-level configuration like CloudFlare, I routinely clean up bloated sites that have slowed down over time due to accumulated development. My approach focuses on practical performance gains—optimizing assets, configuring caching, reviewing database efficiency, and leveraging CloudFlare features to ensure your pages load instantly. \n\nYou can check out my performance work on high-traffic sites like https://www.snopud.com/. \n\nAre these two sites built on standard WordPress, or are you running WooCommerce as well? Let’s get your pages running fast and efficiently.",
+    "publishedDateTime": "2026-09-30T21:40:26+0000",
+    "addedAt": "2026-09-30T21:40:59.318Z",
+    "url": "https://www.upwork.com/jobs/~022105411212864664389",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105411212864664389/apply/"
+  },
+  {
     "id": "2105402221594650604",
     "ciphertext": "~022105402221594650604",
     "title": "Build One-Page Website for Marketing Agency",
