@@ -1,10 +1,10 @@
 {
   "date": "2026-09-30",
   "lastDigestSentDate": "2026-09-29",
-  "totalScanned": 60,
-  "matchedFilters": 13,
+  "totalScanned": 61,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3000,
       "url": "https://www.upwork.com/jobs/~022105106603501356163",
       "addedAt": "2026-09-30T01:26:46.725Z"
+    },
+    {
+      "title": "WordPress Website Rebuild with Elementor Pro",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022105367958749133187",
+      "addedAt": "2026-09-30T18:49:14.697Z"
     },
     {
       "title": "WordPress Troubleshooting Specialist Needed — Diagnose CSS/JS Layout Issues on Staging",

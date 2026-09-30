@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105367958749133187",
+    "ciphertext": "~022105367958749133187",
+    "title": "WordPress Website Rebuild with Elementor Pro",
+    "description": "We’re rebuilding our main website in WordPress with Elementor Pro. The copy is already written, and we have a brand guide plus reference designs for a layout style we call a “Funnel Hub.” We need a builder who can follow clear direction and turn it into a premium-looking site that loads quickly and is easy for us to update. The right freelancer should be able to translate our vision into a polished, functional website that aligns with our brand and supports ongoing maintenance.\n\nWHAT WE NEED FROM YOU\n- Built in Elementor Pro, set up so our team can edit pages and add case studies without a developer\n- Mobile has to be as good as desktop. A lot of our traffic comes from ads.\n- Fast. Compressed images, no plugin bloat, passes Core Web Vitals on mobile.\n- Reusable sections and templates, not one-off pages\n- Redirects from our current URLs and basic on-page SEO (titles, meta descriptions, clean URLs)\n- A short Loom walkthrough at handoff showing how to edit everything\n\nTO APPLY, answer these:\n1. Send 2–3 links to live sites you built in Elementor and tell us what you did on each.\n2. Which site in your portfolio is closest to what we described, and why?\n3. What's your timeline and fixed price for the scope above?\n4. Start your proposal with the word \"Timber\" so we know you read this.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 3000,
+    "coverLetter": "Timber! Hi there, I'd love to help you rebuild your main site into a fast, high-converting Elementor Pro Funnel Hub. \n\n1. Here are two Elementor sites I've built: \n- https://www.seeintl.org/ — Handled custom Elementor Pro template builds, dynamic content, and mobile optimization.\n- https://www.thelifeyoucansave.org/ — Developed structured, reusable sections and optimized performance for core web vitals.\n\n2. The closest match in my portfolio is https://www.seeintl.org/ due to its clean layout structure, mobile responsiveness, and easy-to-manage backend architecture for non-technical teams.\n\n3. I can complete this entire scope within 2 weeks for a fixed price of $[Insert Bid], ensuring zero plugin bloat, proper redirects, and a clear Loom handover walkthrough.\n\n4. Mobile traffic from ads is a huge focus for my builds—I always ensure touch targets, layout shifts, and load speeds are dialed in. \n\nWhen are you looking to kick this off?",
+    "publishedDateTime": "2026-09-30T18:48:32+0000",
+    "addedAt": "2026-09-30T18:49:16.440Z",
+    "url": "https://www.upwork.com/jobs/~022105367958749133187",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105367958749133187/apply/"
+  },
+  {
     "id": "2105322011984987073",
     "ciphertext": "~022105322011984987073",
     "title": "Web Design & Speed Optimization",
