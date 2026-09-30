@@ -1,5 +1,29 @@
 [
   {
+    "id": "2105129783792741088",
+    "ciphertext": "~022105129783792741088",
+    "title": "Update a WordPress Website",
+    "description": "Looking for an experienced WordPress developer/designer to update and modernize an existing website.\n\nThe website is already functional, so this is not a complete rebuild. The main goal is to improve its overall look and feel while also making sure it is fast, responsive, and error-free.\n\nThe work will include:\n\n* Modernizing the website's visual design and overall user experience\n* Improving page layouts, typography, spacing, and other visual elements\n* Ensuring the website looks professional and works well across desktop, tablet, and mobile\n* Improving website speed and performance\n* Identifying and fixing any existing errors, broken elements, or compatibility issues\n* Optimizing WordPress/plugins where necessary without unnecessarily adding heavy plugins or code\n* Maintaining existing website functionality and content while making improvements\n\nPerformance is important. The redesign should not make the website slower. We are looking for someone who understands both WordPress design and performance optimization and can create a modern-looking site while keeping it lightweight and fast.\n\nPlease include examples of WordPress websites you have redesigned or modernized, particularly projects where you also improved website speed/performance.\n\nWhen applying, please briefly explain how you would approach improving both the design and performance of an existing WordPress website.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Singapore",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 97,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 149,
+    "coverLetter": "Hi! To modernize your site while keeping it lightweight and fast, my approach starts with a performance audit of your current setup, database, and asset loading. I then refine the layouts, typography, and mobile responsiveness—using lightweight Gutenberg blocks or clean code rather than heavy page builders that bloat performance. \n\nWith extensive experience in both WordPress design and Core Web Vitals optimization, I specialize in refreshing existing sites without breaking functionality. For instance, I modernized the architecture and performance for projects like https://www.seeintl.org/, ensuring a sleek visual upgrade alongside fast loading speeds. \n\nCould you share the current URL so I can take a quick look at its layout and speed metrics?",
+    "publishedDateTime": "2026-09-30T05:58:20+0000",
+    "addedAt": "2026-09-30T06:01:15.647Z",
+    "url": "https://www.upwork.com/jobs/~022105129783792741088",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105129783792741088/apply/"
+  },
+  {
     "id": "2105159655630023392",
     "ciphertext": "~022105159655630023392",
     "title": "WordPress Elementor Website Repair & SEO Audit – Existing Business Website",
