@@ -1,5 +1,33 @@
 [
   {
+    "id": "2105398558059870313",
+    "ciphertext": "~022105398558059870313",
+    "title": "WordPress / LMS Developer Needed: Zoom Classroom LTI 1.3 Integration (Divi Theme)",
+    "description": "We are looking for an experienced WordPress Developer with deep expertise in e-learning infrastructure, LTI (Learning Tools Interoperability) protocols, and the Divi page builder. \n\nOur goal is to integrate the Zoom Classroom app via an account-level LTI 1.3 connection directly into our WordPress site. We need to keep students engaged natively on our site for optimization and retention purposes, embedding the live sessions cleanly into our custom Divi page layouts.\n\nResponsibilities:\n• Configure and test the LTI 1.3 consumer framework on our WordPress site (using Masteriyo Pro or the ceLTIc LTI Platform plugin).\n• Connect and authenticate the account-level Zoom Classroom app from the Zoom Marketplace using secure OpenID Connect, JSON Web Keys (JWKS), and OAuth 2.0.\n• Ensure the integrated Zoom portal renders flawlessly and responsively within a Divi module wrapper/iframe without breaking layout architecture.\n• Conduct end-to-end testing to verify user identity handshakes and secure access controls.\n\nRequired Skills:\n• Proven experience working with LTI 1.3 integrations (Canvas, Moodle, or custom WordPress LTI setups).\n• Advanced backend WordPress knowledge (PHP, API configurations, security tokens).\n• High proficiency with the Divi Page Builder and custom module embedding.\n• Experience managing configurations within the Zoom Developer Portal / Marketplace.\n\nTo apply, please share a brief example of a past LTI integration or custom backend API project you have executed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$14 - $45/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "api-integration"
+    ],
+    "score": 4650,
+    "coverLetter": "Hi! For our past LTI integration and backend API work, we successfully connected external educational tools and secure platforms using OAuth 2.0, OpenID Connect, and custom PHP endpoints, ensuring smooth identity handshakes and secure access controls.\n\nI have deep experience with advanced WordPress backend development (PHP, API configurations, security tokens) and am highly proficient with the Divi Page Builder. I can seamlessly configure the LTI 1.3 consumer framework using Masteriyo Pro or the ceLTIc LTI Platform plugin, connect the account-level Zoom Classroom app via the Zoom Marketplace, and embed the live sessions responsively inside custom Divi layouts without breaking your site's architecture. \n\nYou can check out some of my custom-built and integrated WordPress sites here: https://www.cchpca.org/\n\nWhen is a good time to review your current setup and map out the Zoom LTI integration?",
+    "publishedDateTime": "2026-09-30T20:50:07+0000",
+    "addedAt": "2026-09-30T20:51:00.565Z",
+    "url": "https://www.upwork.com/jobs/~022105398558059870313",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105398558059870313/apply/"
+  },
+  {
     "id": "2105367958749133187",
     "ciphertext": "~022105367958749133187",
     "title": "WordPress Website Rebuild with Elementor Pro",
