@@ -1,5 +1,35 @@
 [
   {
+    "id": "2105424853586545478",
+    "ciphertext": "~022105424853586545478",
+    "title": "Wordpress site redesign",
+    "description": "Looking for someone to redesign an 8 to 10 page business Wordpress site so that it matches our new logo and branding colors. You must be an expert at designing/developing beautiful clean / minimalist / modern sites that impress views. \n\nPlease send examples of sites you've designed. Preferably before and after.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "css",
+      "web-programming",
+      "mockup"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI would love to help you redesign your 8–10 page business WordPress site to seamlessly match your new logo and modern branding. I specialize in building clean, minimalist, and high-impact WordPress websites that look professional and impress visitors. \n\nWhether we are working with custom Gutenberg blocks, Advanced Custom Fields (ACF), or page builders, I ensure the code remains lightweight, fast, and fully responsive. You can check out a recent minimalist WordPress build I completed here: https://about.offerup.com/\n\nWhen you have a moment, feel free to share your current site URL along with the new logo and brand guidelines so I can take a quick look. \n\nAre you looking to stick with your current theme and restructure it, or build out the new pages from scratch? Let's chat!",
+    "publishedDateTime": "2026-09-30T22:34:38+0000",
+    "addedAt": "2026-09-30T22:36:48.725Z",
+    "url": "https://www.upwork.com/jobs/~022105424853586545478",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105424853586545478/apply/"
+  },
+  {
     "id": "2105411212864664389",
     "ciphertext": "~022105411212864664389",
     "title": "WordPress and CloudFlare Optimization Expert",
