@@ -1,10 +1,11 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 53,
-  "matchedFilters": 15,
+  "totalScanned": 54,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 15,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -69,6 +70,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022105614256362436995",
       "addedAt": "2026-10-01T11:08:42.549Z"
+    },
+    {
+      "title": "proven ecommerce expert to start HVAC equipment sale",
+      "budget": "Fixed-price",
+      "score": 142,
+      "url": "https://www.upwork.com/jobs/~022105684199806014363",
+      "addedAt": "2026-10-01T15:46:53.832Z"
     },
     {
       "title": "Build One-Page Website for Marketing Agency",
