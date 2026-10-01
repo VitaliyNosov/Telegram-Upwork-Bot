@@ -1,12 +1,19 @@
 {
   "date": "2026-10-02",
   "lastDigestSentDate": "2026-10-01",
-  "totalScanned": 14,
-  "matchedFilters": 4,
+  "totalScanned": 15,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Experienced Developer Needed for AI-Powered Multi-Vendor Marketplace",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022105802475698509672",
+      "addedAt": "2026-10-01T23:36:40.810Z"
+    },
     {
       "title": "Educational developer using TutorLMS and Edubin in  Wordpress",
       "budget": "Fixed-price",
