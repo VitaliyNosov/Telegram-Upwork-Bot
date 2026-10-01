@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105719710924883836",
+    "ciphertext": "~022105719710924883836",
+    "title": "WordPress Developer for Website Build",
+    "description": "We’re looking for an experienced WordPress Developer for a 4-week project to build a website based on an existing design. The work includes setting up the site, implementing the provided design, and ensuring the final product is functional and ready for launch. This is a part-time role for someone who can work independently and deliver a polished website within the timeline.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 28,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nI can help you build your new WordPress site from your existing design and have it fully polished and ready for launch within your 4-week timeline. \n\nWith extensive experience in custom WordPress development, I specialize in cleanly translating designs (whether via Gutenberg, ACF, or page builders) into fast, responsive, and fully functional websites. I work completely independently, ensuring clean code, robust setup, and a seamless user experience. \n\nYou can check out one of my recent full WordPress builds here: https://www.thelifeyoucansave.org/\n\nDo you have the design files ready in Figma, and is there a specific date you are aiming for within that 4-week window to launch? Let’s chat!",
+    "publishedDateTime": "2026-10-01T18:06:17+0000",
+    "addedAt": "2026-10-01T18:06:52.820Z",
+    "url": "https://www.upwork.com/jobs/~022105719710924883836",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105719710924883836/apply/"
+  },
+  {
     "id": "2105713984613415296",
     "ciphertext": "~022105713984613415296",
     "title": "Website Down Troubleshooting",
