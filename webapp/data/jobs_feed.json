@@ -1,5 +1,33 @@
 [
   {
+    "id": "2105709483949849347",
+    "ciphertext": "~022105709483949849347",
+    "title": "Do you know MainWP System? | setup help needed",
+    "description": "My team and I are launching a new website system and we want to use MainWP to manage all our client WordPress websites. \n\nLooking for someone who has experience using this system.\n\nIf you a good fit, this will definitely be an ongoing project that you can help us with.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wp-ecommerce",
+      "wordpress-theme"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! I have extensive experience managing multisite environments and have worked with MainWP to centralize updates, backups, and security monitoring for client portfolios.\n\nI understand the complexities of managing multiple WordPress installations and can help you set up your MainWP dashboard to streamline your team's workflow. Given my background in WordPress security hardening and technical troubleshooting, I can ensure your management system is configured for maximum efficiency and site stability. You can see the scale of my work on complex sites like https://www.thelifeyoucansave.org/, and I am confident I can apply that same technical rigor to your new system.\n\nAre you looking to host the MainWP dashboard on a dedicated instance, or do you have a specific server setup in mind for your management node?",
+    "publishedDateTime": "2026-10-01T17:25:39+0000",
+    "addedAt": "2026-10-01T17:26:51.297Z",
+    "url": "https://www.upwork.com/jobs/~022105709483949849347",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105709483949849347/apply/"
+  },
+  {
     "id": "2105696379157536492",
     "ciphertext": "~022105696379157536492",
     "title": "WordPress Exercise Library Pages — Beaver Builder, Vimeo and Rank Math — 100 Pages",

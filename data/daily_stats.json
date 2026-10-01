@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 59,
-  "matchedFilters": 17,
+  "totalScanned": 60,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 17,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022105411212864664389",
       "addedAt": "2026-09-30T21:40:58.096Z"
+    },
+    {
+      "title": "Do you know MainWP System? | setup help needed",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022105709483949849347",
+      "addedAt": "2026-10-01T17:26:48.200Z"
     },
     {
       "title": "WordPress Developer Needed",
