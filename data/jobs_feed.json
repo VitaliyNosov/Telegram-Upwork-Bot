@@ -1,5 +1,39 @@
 [
   {
+    "id": "2105511374745188739",
+    "ciphertext": "~022105511374745188739",
+    "title": "Senior WordPress Developer with PHP — Diagnose and Fix Specific Issues",
+    "description": "We need a developer who can investigate before changing code.\nThis is an existing WordPress website with a limited set of issues. We are not hiring for a redesign or routine page\nbuilding. We need a hands-on WordPress/PHP expert who can trace the cause, make a controlled fix, and verify\nthat existing functionality still works.\nHow the work will run\n• Review the issue descriptions and available access or reproduction steps.\n• Inspect relevant theme, plugin, and custom PHP code to identify the root cause.\n• Explain the proposed fix briefly before making higher-impact changes.\n• Implement the fix with minimal disruption to the existing site.\n• Test the affected flow and check for regressions in related functionality.\n• Provide a concise summary of what changed and any follow-up risks.\nTechnical experience required\n• Strong WordPress and PHP debugging experience—not only page-builder experience.\n• Comfort with hooks, filters, actions, template logic, and custom functions.\n• Experience diagnosing plugin/theme conflicts and working safely in an existing codebase.\n• Ability to use browser developer tools, WordPress logs, and appropriate debugging methods.\n• Good judgment around backups, staging, and avoiding edits that make future maintenance harder.\nNot the right fit if…\nYou mainly install themes, build pages, or solve issues by adding another plugin. This assignment requires\nsomeone who can read and troubleshoot code and explain the cause of a bug in plain language.\nTo apply: Describe one WordPress/PHP bug you personally diagnosed. Include the symptom, how you found the\ncause, and what you changed. Do not send a generic list of services. We will share the specific issues with\nshortlisted applicants.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 26,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "mysql",
+      "web-programming",
+      "woocommerce",
+      "html5",
+      "wordpress",
+      "javascript",
+      "css",
+      "html"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nA recent bug I personally diagnosed involved a WooCommerce checkout failing intermittently with a 500 error after a plugin update. The symptom was customers getting stuck on the payment processing step. By enabling WP_DEBUG and inspecting the error logs, I traced the root cause to a conflict in a custom PHP snippet where a deprecated WooCommerce filter was conflicting with a third-party payment gateway hook. I refactored the function using the updated hook structure, tested the checkout flow in a staging environment, and verified the error was fully resolved without regressions.\n\nI am a senior WordPress and PHP developer who focuses on root-cause analysis—not just installing plugins or building pages. I am very comfortable tracing actions, filters, and custom template logic safely in existing codebases. \n\nYou can view some of my production work here: https://www.cchpca.org/\n\nWhen you have a moment, feel free to share the specific issues and I'll let you know how I plan to investigate them.",
+    "publishedDateTime": "2026-10-01T04:18:29+0000",
+    "addedAt": "2026-10-01T04:20:47.004Z",
+    "url": "https://www.upwork.com/jobs/~022105511374745188739",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105511374745188739/apply/"
+  },
+  {
     "id": "2105497813540156229",
     "ciphertext": "~022105497813540156229",
     "title": "LiteSpeed Cache Expert Needed – Fix Display Issues on Multiple WordPress Sites",
