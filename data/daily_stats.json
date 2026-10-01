@@ -1,8 +1,18 @@
 {
   "date": "2026-10-02",
   "lastDigestSentDate": "2026-10-01",
-  "totalScanned": 0,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 1,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Wordpress Website Developer Needed for Dynamic Ongoing Project",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022105766234672455332",
+      "addedAt": "2026-10-01T21:12:47.047Z"
+    }
+  ]
 }
