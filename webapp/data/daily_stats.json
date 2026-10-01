@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-10-01",
-  "totalScanned": 83,
-  "matchedFilters": 24,
+  "totalScanned": 85,
+  "matchedFilters": 25,
   "byKeyword": {
-    "wordpress developer": 23,
+    "wordpress developer": 24,
     "woocommerce": 1
   },
   "topJobs": [
@@ -147,6 +147,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022105722122984087727",
       "addedAt": "2026-10-01T18:16:45.700Z"
+    },
+    {
+      "title": "Create Website for New Business",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022105760113579878809",
+      "addedAt": "2026-10-01T20:48:45.269Z"
     },
     {
       "title": "Basic WordPress Malware Cleanup and Updates — Fixed Price",

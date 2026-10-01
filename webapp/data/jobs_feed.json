@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105760113579878809",
+    "ciphertext": "~022105760113579878809",
+    "title": "Create Website for New Business",
+    "description": "I need a freelancer to build a professional website. This is the website i need re done MNQ930.COM  The member area have 9 training modules.\nwhen a customer pay they need to make a login to get accesses to the member area.\nNeed option for a discount coupon.\ni already have hosting and email with hostinger.\nNeeds to be built with ready made templets that i will be able to change anything i want at any time without having to ask you for help.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you build your new business website using MNQ930.COM as a reference, complete with a secure customer login, a 9-module training member area, and coupon code functionality. \n\nSince you want full control to edit everything yourself without relying on a developer, I will build this on WordPress using an intuitive, user-friendly page builder paired with a clean membership setup. You’ll be able to easily update text, images, and content whenever you want. I'll also seamlessly connect everything to your existing Hostinger hosting. \n\nFor a similar clean, professional layout and user structure, you can take a look at my work on https://www.thelifeyoucansave.org/. \n\nDo you already have the specific content and training videos ready, or should we start by setting up the template structure first?",
+    "publishedDateTime": "2026-10-01T20:46:56+0000",
+    "addedAt": "2026-10-01T20:48:46.592Z",
+    "url": "https://www.upwork.com/jobs/~022105760113579878809",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105760113579878809/apply/"
+  },
+  {
     "id": "2105736125719463804",
     "ciphertext": "~022105736125719463804",
     "title": "Malware Removal for Website",
