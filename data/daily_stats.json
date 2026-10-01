@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 49,
-  "matchedFilters": 12,
+  "totalScanned": 50,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 2647,
       "url": "https://www.upwork.com/jobs/~022105612482502679023",
       "addedAt": "2026-10-01T11:00:57.763Z"
+    },
+    {
+      "title": "WordPress Developer – WooCommerce, Multi-Site Development",
+      "budget": "Fixed-price",
+      "score": 192,
+      "url": "https://www.upwork.com/jobs/~022105664131650776865",
+      "addedAt": "2026-10-01T14:26:49.272Z"
     },
     {
       "title": "Webmaster & Developer Needed: E-Commerce Landing Page + Ongoing Multi-Site & Hosting Maintenance",

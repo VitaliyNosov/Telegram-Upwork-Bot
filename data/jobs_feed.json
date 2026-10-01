@@ -1,5 +1,33 @@
 [
   {
+    "id": "2105664131650776865",
+    "ciphertext": "~022105664131650776865",
+    "title": "WordPress Developer – WooCommerce, Multi-Site Development",
+    "description": "Website Development Scope Summary as Sent by Kamran\n\nPlease find attached the Scope of Work as discussed.\n\n1. Price & Milestones\n\nFixed price: $200 for the main website and two subsites.\n\nMilestone 1: $100: Main website, WooCommerce, size/color matrix, setup fees, Stripe, Zoho SalesIQ, security, and backups.\n\nMilestone 2: $100: Printful subsite, second brand store, final testing, training, Liquid Web backup to Google Drive, and 2 weeks of post-launch support.\n\nEach milestone will be funded through Upwork before work begins and released to Kamran after work is done on it.\n\n2. Website & Design\n\nExisting WordPress Multisite setup will be retained.\n\nAstra Pro + Elementor Pro will be used from the existing GPL Times account.\n\nDesign will be modern, fast-loading, and inspired by the provided reference website, but not copied.\n\nA design will be submitted for approval before development, with up to 2 revision rounds per site.\n\nThe Sage store will include a header search linking directly to products.digitizedlogos.com, plus a mega menu for Sage categories and brands. A matching header/footer snippet can also be provided for the Sage site.\n\n3. Products & WooCommerce\n\nBarn2 Bulk Variations will be used for the size/color matrix.\n\nBarn2 Product Options will be used for setup fees, applied once per product.\n\nOne sample product will be created for each category/subcategory, along with a tested CSV template. The Digitized Logos team will add the remaining products.\n\nMarriott Subsite will be the Printful store.\nNVR Subsite will be Woocommerce and Stripe Store.\n\n4. Timeline\n\nApproximately 4 weeks for all three sites, beginning once branding, product information, and required access are provided.\n\n5. Access Required\n\nChemiCloud cPanel and WordPress admin\n\nLiquid Web cPanel for archive backup\n\nLogo files in SVG/PNG format or access to them\n\nGPL Times account\n\nStripe access\n\nPrintful and Zoho SalesIQ access, which can be provided before Milestone 2\n\n6. Security, Plugins & Third-Party Costs\n\nGPL with Imunify is acceptable.\n\nWordfence Free will be used instead of the Activator version, with plugins kept minimal and updated.\n\nAny paid licenses, storage, or third-party services required will be purchased by Digitized Logos.\n\n7. Backup & Stripe\n\nStripe can be connected together during a short call.\n\nThe Liquid Web archive backup will be stored in a shared Google Drive folder.\n\n8. Review & Support\n\nEach milestone should be reviewed within 3 business days of submission.\n\nThe 2-week post-launch support covers bugs and issues within the delivered SOW.\n\nNew features, changes outside the SOW, ongoing maintenance, and IT support will be billed through Upwork at $6/hour, or by a fixed quote agreed upon in advance for individual requests.\n\n9. Communication\n\nProgress updates will be provided through Upwork messages.\n\nCalls can be arranged during overlapping Eastern Time business hours as needed.\n\nPlease send the contract when ready. Work will begin once Milestone 1 is funded.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.59,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 183,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress-website",
+      "wp-ecommerce"
+    ],
+    "score": 192,
+    "coverLetter": "Hi Kamran! I'm ready to get started on this WordPress multisite project right away. \n\nI regularly build and configure complex WooCommerce stores using Astra Pro, Elementor Pro, and advanced inventory tools like Barn2 plugins for size/color matrices and custom product options. I am also fully comfortable integrating Stripe, setting up print-on-demand fulfillment with Printful, and configuring automated backups to Google Drive via Liquid Web and ChemiCloud cPanel. \n\nYou can review my work on high-performing WordPress builds like https://www.daysforgirls.org/. \n\nMilestone 1 is clear, and I'm aligned with your 4-week timeline, security setup using Wordfence, and communication preferences. Whenever you're ready, feel free to send over the contract and I'll jump right in once funded.",
+    "publishedDateTime": "2026-10-01T14:25:25+0000",
+    "addedAt": "2026-10-01T14:26:50.905Z",
+    "url": "https://www.upwork.com/jobs/~022105664131650776865",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105664131650776865/apply/"
+  },
+  {
     "id": "2105649433666889708",
     "ciphertext": "~022105649433666889708",
     "title": "Website Clone with Custom Sell Section",
