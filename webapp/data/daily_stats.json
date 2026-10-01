@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 30,
-  "matchedFilters": 7,
+  "totalScanned": 31,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022105545658056182598",
       "addedAt": "2026-10-01T06:36:48.174Z"
+    },
+    {
+      "title": "Website design using my code",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022105569407675413317",
+      "addedAt": "2026-10-01T08:10:56.982Z"
     }
   ]
 }

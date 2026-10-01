@@ -1,5 +1,37 @@
 [
   {
+    "id": "2105569407675413317",
+    "ciphertext": "~022105569407675413317",
+    "title": "Website design using my code",
+    "description": "I have html code that has css and js inside the code. I am not familiar with wordpress only wix. Im looking for someone to just apply it to wordpress for me to end my headache. I need this done asap",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "wordpress",
+      "web-programming",
+      "html",
+      "css",
+      "javascript",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can take your HTML, CSS, and JS code and get it cleanly integrated into WordPress so you can finally stop stressing over Wix and get your site live. \n\nI do this kind of migration and custom setup daily. I’ll ensure your code is properly structured into a WordPress template, fully responsive, and working seamlessly so you can easily manage things moving forward. \n\nFor reference, I recently built and deployed custom sites like https://www.cchpca.org/ with clean, high-performance code structures. \n\nIf you can share the code files, I can jump right in and get this sorted for you ASAP. When are you looking to have it fully live?",
+    "publishedDateTime": "2026-10-01T08:09:03+0000",
+    "addedAt": "2026-10-01T08:10:58.075Z",
+    "url": "https://www.upwork.com/jobs/~022105569407675413317",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105569407675413317/apply/"
+  },
+  {
     "id": "2105545658056182598",
     "ciphertext": "~022105545658056182598",
     "title": "Website Creation for Igal's Wave",
