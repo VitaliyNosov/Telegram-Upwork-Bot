@@ -1,5 +1,35 @@
 [
   {
+    "id": "2105772367480182675",
+    "ciphertext": "~022105772367480182675",
+    "title": "Educational developer using TutorLMS and Edubin in  Wordpress",
+    "description": "I currently have an online course that is approximately 3.5 hours long. It is a mix of videos, questions, and interactive content. It is a educational course requirement for motorcycle training. This is a government licensed course so it does have strict requirements. \n\nRight now the website needs an update and some alterations need to be made. I would also like to make the interactive content more friendly for mobile devices. \n\nThe previous developer I had went MIA and they knew it best. So you will have to work with existing programming. \n\nAccess to the online course can be arranged.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 29,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "wordpress-website",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can step in right away to take over your TutorLMS and Edubin setup, fix the updates, and optimize your motorcycle training course for mobile devices. \n\nSince this is a government-licensed course with strict requirements, I understand how critical it is to handle existing PHP/WordPress code carefully without breaking current functionality. My core background includes deep WordPress debugging, custom theme/plugin work, and resolving complex layout issues—especially making interactive content and videos seamlessly responsive on mobile screens. \n\nYou can review my recent work on platforms like https://www.thelifeyoucansave.org/ to see my standard for clean, responsive delivery. \n\nWhen are you available to share access so I can review the current TutorLMS configuration and outline a fix for the mobile experience?",
+    "publishedDateTime": "2026-10-01T21:35:31+0000",
+    "addedAt": "2026-10-01T21:36:43.274Z",
+    "url": "https://www.upwork.com/jobs/~022105772367480182675",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105772367480182675/apply/"
+  },
+  {
     "id": "2105766234672455332",
     "ciphertext": "~022105766234672455332",
     "title": "Wordpress Website Developer Needed for Dynamic Ongoing Project",

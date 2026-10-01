@@ -1,12 +1,19 @@
 {
   "date": "2026-10-02",
   "lastDigestSentDate": "2026-10-01",
-  "totalScanned": 2,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Educational developer using TutorLMS and Edubin in  Wordpress",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022105772367480182675",
+      "addedAt": "2026-10-01T21:36:41.920Z"
+    },
     {
       "title": "Wordpress Website Developer Needed for Dynamic Ongoing Project",
       "budget": "Fixed-price",
