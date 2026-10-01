@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105649433666889708",
+    "ciphertext": "~022105649433666889708",
+    "title": "Website Clone with Custom Sell Section",
+    "description": "Create a website clone with a new logo and only a “Buy” and “Sell” menu tab. Most of the content will be based on an existing website, but the “Sell” section for virtual goods needs to be custom built. The project is straightforward and should take only 1 or 2 days to complete.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$25 - $45/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 21,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "javascript"
+    ],
+    "score": 4500,
+    "coverLetter": "Hi! \n\nI can quickly build your website clone with the updated branding and set up the custom \"Sell\" section for virtual goods just as you need. Since the project is straightforward and has a tight 1-2 day turnaround, my background in custom PHP development, WordPress site replication, and tailored transactional sections makes this a great fit. \n\nI’ve built numerous custom functional modules and handled complete site setups efficiently—you can check out a sample of my clean development work at https://about.offerup.com/. \n\nCould you share the URL of the existing website to clone and any specific requirements for how the virtual goods \"Sell\" section should process? Let’s get this knocked out quickly.",
+    "publishedDateTime": "2026-10-01T13:27:01+0000",
+    "addedAt": "2026-10-01T13:28:43.201Z",
+    "url": "https://www.upwork.com/jobs/~022105649433666889708",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105649433666889708/apply/"
+  },
+  {
     "id": "2105643043688901856",
     "ciphertext": "~022105643043688901856",
     "title": "Basic WordPress Malware Cleanup and Updates — Fixed Price",

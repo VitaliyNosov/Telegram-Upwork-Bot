@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 46,
-  "matchedFilters": 11,
+  "totalScanned": 47,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 10100,
       "url": "https://www.upwork.com/jobs/~022105497813540156229",
       "addedAt": "2026-10-01T03:26:44.043Z"
+    },
+    {
+      "title": "Website Clone with Custom Sell Section",
+      "budget": "$25-$45/hr",
+      "score": 4500,
+      "url": "https://www.upwork.com/jobs/~022105649433666889708",
+      "addedAt": "2026-10-01T13:28:42.006Z"
     },
     {
       "title": "WordPress and CloudFlare Optimization Expert",
