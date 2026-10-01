@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 52,
-  "matchedFilters": 14,
+  "totalScanned": 53,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -104,6 +104,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022105643043688901856",
       "addedAt": "2026-10-01T13:03:06.287Z"
+    },
+    {
+      "title": "WordPress / Elementor Developer for Custom WooCommerce Implementation from Figma",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022105681142813354121",
+      "addedAt": "2026-10-01T15:34:45.655Z"
     }
   ]
 }
