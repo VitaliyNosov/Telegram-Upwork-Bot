@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 50,
-  "matchedFilters": 13,
+  "totalScanned": 51,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022105411212864664389",
       "addedAt": "2026-09-30T21:40:58.096Z"
+    },
+    {
+      "title": "WordPress Developer Needed",
+      "budget": "$14-$28/hr",
+      "score": 2850,
+      "url": "https://www.upwork.com/jobs/~022105665778539419518",
+      "addedAt": "2026-10-01T14:32:45.975Z"
     },
     {
       "title": "AI-First WordPress Developer — Modern AI-Led Website Build + Ongoing Work",

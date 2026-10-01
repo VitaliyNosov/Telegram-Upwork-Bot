@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105665778539419518",
+    "ciphertext": "~022105665778539419518",
+    "title": "WordPress Developer Needed",
+    "description": "We need a reliable developer to get my website working better.  Lighthouse report indicates that website is slow with performance, accessibility and best practices issues.  SEO is running well.  Have elementor and other kit running which may be slowing it down but would likely mess up the website to delete.  I need someone who understands how to make these changes without affecting the entire website.  More work in the future may be provided based on this job experience.  Would like all pages run optimally!",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "web-programming"
+    ],
+    "score": 2850,
+    "coverLetter": "Hi! \n\nI can help you speed up your site and fix those Lighthouse performance, accessibility, and best practices issues without breaking your Elementor layout or design. \n\nAs a WordPress performance and debugging specialist, I frequently optimize heavy Elementor builds. I know how to properly handle asset loading, script deferral, image optimization, and code bloat safely so your pages run optimally while keeping your front-end intact. For reference, you can check out how I handle complex builds on sites like https://www.thelifeyoucansave.org/. \n\nI'd love to help you get your site running smoothly and potentially partner on future updates. Could you share your website URL so I can take a quick look at the current Lighthouse bottlenecks?",
+    "publishedDateTime": "2026-10-01T14:31:58+0000",
+    "addedAt": "2026-10-01T14:32:47.149Z",
+    "url": "https://www.upwork.com/jobs/~022105665778539419518",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105665778539419518/apply/"
+  },
+  {
     "id": "2105664131650776865",
     "ciphertext": "~022105664131650776865",
     "title": "WordPress Developer – WooCommerce, Multi-Site Development",
