@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 26,
-  "matchedFilters": 6,
+  "totalScanned": 28,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022105424853586545478",
       "addedAt": "2026-09-30T22:36:47.625Z"
+    },
+    {
+      "title": "Website Creation for Igal's Wave",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022105545658056182598",
+      "addedAt": "2026-10-01T06:36:48.174Z"
     }
   ]
 }
