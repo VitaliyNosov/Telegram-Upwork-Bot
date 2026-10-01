@@ -1,5 +1,35 @@
 [
   {
+    "id": "2105643043688901856",
+    "ciphertext": "~022105643043688901856",
+    "title": "Basic WordPress Malware Cleanup and Updates — Fixed Price",
+    "description": "I have several older WordPress websites hosted together in one HostGator account. They have not been updated in some time, and SiteLock recently reported malware on one site, lilianapowell.com.\n\nThese are simple, low-traffic websites. I am not looking for redesigns, extensive security consulting, or ongoing maintenance. I need an affordable basic cleanup to make the sites safe and functional again.\n\nThe job includes:\n\n• Back up the websites and databases before making changes\n• Scan all WordPress sites in the HostGator account for malware\n• Remove detected malware, suspicious files, backdoors, and unknown administrator accounts\n• Update WordPress, plugins, and themes\n• Remove clearly abandoned or unnecessary plugins\n• Fix basic compatibility problems caused by the updates\n• Confirm that each site loads and that its main pages still work\n• Install or configure a reputable free security plugin\n• Provide a short summary of what was found and completed\n\nPlease do not redesign the sites, purchase paid products, or perform additional work without my approval.\n\nThis is a fixed-price project with a budget of $200. Please state how many sites your price covers and whether you have experience cleaning multiple WordPress sites located in the same HostGator or cPanel account.\n\nI will provide the necessary temporary access. All work must be backed up before any files or databases are changed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 365,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-security",
+      "malware-removal",
+      "wordpress-malware-removal",
+      "woocommerce",
+      "cpanel"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! My $200 fixed price covers up to 3 WordPress websites hosted in the same HostGator or cPanel account, and yes, I have extensive experience cleaning and updating multiple sites in shared hosting environments. \n\nAs a WordPress security and maintenance specialist, I handle malware removal, backdoor elimination, and post-update compatibility fixes on a daily basis. My exact workflow matches your requirements: I will take full backups first, thoroughly scan and clean all sites, remove unknown admin accounts and abandoned plugins, safely update core/plugins/themes, and configure a reliable free security plugin—all without any unnecessary upsells or redesigns.\n\nHow many websites are currently hosted in your HostGator account that need to be cleaned and updated? Let’s get these secured.",
+    "publishedDateTime": "2026-10-01T13:01:38+0000",
+    "addedAt": "2026-10-01T13:03:08.334Z",
+    "url": "https://www.upwork.com/jobs/~022105643043688901856",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105643043688901856/apply/"
+  },
+  {
     "id": "2105614256362436995",
     "ciphertext": "~022105614256362436995",
     "title": "Figma to WordPress Developer",

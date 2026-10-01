@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 44,
-  "matchedFilters": 10,
+  "totalScanned": 45,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022105569407675413317",
       "addedAt": "2026-10-01T08:10:56.982Z"
+    },
+    {
+      "title": "Basic WordPress Malware Cleanup and Updates — Fixed Price",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022105643043688901856",
+      "addedAt": "2026-10-01T13:03:06.287Z"
     }
   ]
 }
