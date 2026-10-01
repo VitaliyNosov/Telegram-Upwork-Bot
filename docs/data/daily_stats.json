@@ -1,12 +1,19 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 20,
-  "matchedFilters": 4,
+  "totalScanned": 21,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "LiteSpeed Cache Expert Needed – Fix Display Issues on Multiple WordPress Sites",
+      "budget": "$15-$100/hr",
+      "score": 10100,
+      "url": "https://www.upwork.com/jobs/~022105497813540156229",
+      "addedAt": "2026-10-01T03:26:44.043Z"
+    },
     {
       "title": "WordPress and CloudFlare Optimization Expert",
       "budget": "$20-$35/hr",

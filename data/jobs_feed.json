@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105497813540156229",
+    "ciphertext": "~022105497813540156229",
+    "title": "LiteSpeed Cache Expert Needed – Fix Display Issues on Multiple WordPress Sites",
+    "description": "We're a web design and hosting company running a LiteSpeed web server (WHM/cPanel) that hosts a number of client WordPress sites. We're looking for an experienced LiteSpeed Cache specialist to diagnose and resolve a recurring problem.\n\nSome sites on our server work fine with the LiteSpeed Cache plugin enabled, while others don't display correctly. On the affected sites, elements are mis-aligned. One some, it looks like the style sheet is not loading. Purging the cache doesn't fix it. Disabling the LiteSpeed Cache plugin resolves the problem immediately, and the site displays correctly.\n\nWhat we need:\n\nIdentify the root cause on the affected sites, and explain why some sites are affected while others aren't.\nImplement a fix that keeps LiteSpeed Cache enabled\nDocument the cause, the settings or changes made, and recommended configuration so we can apply it to other sites on our server\n\nIdeal candidate:\n\nDeep, hands-on experience with LiteSpeed Cache settings (page optimization, CSS/JS minify and combine, lazy load, image optimization/WebP, guest mode, ESI, QUIC.cloud)\nStrong WordPress troubleshooting skills, including plugin and theme conflicts\nClear, timely communicator who documents their work\n\nWe'll start with one affected site. If the fix works well, there may be ongoing work applying it across additional sites.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$15 - $100/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 110,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-plugin",
+      "website-optimization",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 10100,
+    "coverLetter": "Hi! \n\nI can help you diagnose and permanently resolve these LiteSpeed Cache styling and layout conflicts while keeping optimization fully enabled. \n\nSince disabling the plugin immediately restores the stylesheets, the issue typically stems from aggressive CSS/JS minification, combination, or Guest Mode settings conflicting with specific theme assets or page builders on those particular sites. Having deep experience troubleshooting WordPress performance and LiteSpeed Cache settings—including page optimization, ESI, and QUIC.cloud configurations on WHM/cPanel environments—I know exactly where to look.\n\nFor one of my recent client builds (https://www.cchpca.org/), I fine-tuned complex caching and optimization rules to achieve top performance without breaking visual elements. \n\nI’ll start with the first affected site, identify the exact root cause, implement a stable fix, and provide clear documentation so you can easily replicate it across your server. \n\nShall we get started on the first site today?",
+    "publishedDateTime": "2026-10-01T03:24:35+0000",
+    "addedAt": "2026-10-01T03:26:45.388Z",
+    "url": "https://www.upwork.com/jobs/~022105497813540156229",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105497813540156229/apply/"
+  },
+  {
     "id": "2105482384818526703",
     "ciphertext": "~022105482384818526703",
     "title": "Webmaster & Developer Needed: E-Commerce Landing Page + Ongoing Multi-Site & Hosting Maintenance",
