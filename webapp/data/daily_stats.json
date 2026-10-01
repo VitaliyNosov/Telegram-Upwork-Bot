@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 68,
-  "matchedFilters": 20,
+  "totalScanned": 70,
+  "matchedFilters": 21,
   "byKeyword": {
-    "wordpress developer": 19,
+    "wordpress developer": 20,
     "woocommerce": 1
   },
   "topJobs": [
@@ -126,6 +126,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022105713984613415296",
       "addedAt": "2026-10-01T17:44:42.905Z"
+    },
+    {
+      "title": "Healthcare Membership Site Experience",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022105722122984087727",
+      "addedAt": "2026-10-01T18:16:45.700Z"
     },
     {
       "title": "Basic WordPress Malware Cleanup and Updates — Fixed Price",

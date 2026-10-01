@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105722122984087727",
+    "ciphertext": "~022105722122984087727",
+    "title": "Healthcare Membership Site Experience",
+    "description": "We are building a healthcare membership site and need a senior expert or small team to create the full digital customer experience. Scope includes a premium responsive website with reusable landing pages, membership offer and pricing, FAQs, enrollment and payment flow, a 2-minute non-diagnostic assessment with personalized results and lead capture, a 30-day onboarding journey, ongoing member retention, CRM and email/SMS automation, integration with external telehealth platforms, analytics and funnel optimization, mobile UX, testing, and documentation. Healthcare/telehealth experience is strongly preferred. The journey includes Discover, Assess, Join, Onboard, Access Care, Engage, Renew, and Refer. To apply, begin with “Your Health. Handled.” and include relevant projects, recommended tech stack, approach, timeline, and milestone-based pricing. We may begin with a paid discovery phase.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "seo"
+    ],
+    "score": 100,
+    "coverLetter": "Your Health. Handled. \n\nHi! I can help you architect and build this complete healthcare membership experience, bringing deep WordPress expertise alongside robust API integrations, custom assessments, and membership/subscription systems. \n\nFor the tech stack, I recommend a high-performance WordPress setup using Advanced Custom Fields (ACF), custom Gutenberg blocks for reusable landing pages, and a secure WooCommerce membership/payment flow. We can seamlessly connect your external telehealth platforms and CRM via REST API to power the 30-day onboarding, email/SMS automation, and analytics funnels. \n\nA great example of my work on a complex health-related and mission-driven platform is [https://www.cchpca.org/](https://www.cchpca.org/), which demonstrates my ability to build clean, responsive, and user-focused digital experiences. \n\nI’d love to start with a paid discovery phase to map out the full journey—from the 2-minute assessment to retention and referrals. Are you available for a quick chat this week to discuss the scope?",
+    "publishedDateTime": "2026-10-01T18:15:52+0000",
+    "addedAt": "2026-10-01T18:16:47.058Z",
+    "url": "https://www.upwork.com/jobs/~022105722122984087727",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105722122984087727/apply/"
+  },
+  {
     "id": "2105719710924883836",
     "ciphertext": "~022105719710924883836",
     "title": "WordPress Developer for Website Build",
