@@ -1,5 +1,35 @@
 [
   {
+    "id": "2105781266044245907",
+    "ciphertext": "~022105781266044245907",
+    "title": "Website Rebuild for Church and Tech Company",
+    "description": "We need a freelancer to rebuild two websites: one for a church and one for a technology company. The church site should be clean, easy to navigate, and include sections for services, events, and community updates. The technology site should be modern, professional, and focused on showcasing products, services, and company information. We’re looking for someone who can deliver polished, user-friendly websites that reflect each brand clearly and support ongoing updates.\n\nThe website must be dynamic, multi-page PHP website and also be able to integrate some internal SharePoint site from the website",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 86,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "web-programming",
+      "web-design",
+      "html",
+      "content-creation"
+    ],
+    "score": 98,
+    "coverLetter": "Hi!\n\nRebuilding two distinct websites—one for a church and one for a tech company—requires balancing two very different brand identities while building on a robust backend. With my strong background in PHP, custom web development, and modern CMS architectures, I can deliver clean, professional, and easily maintainable multi-page sites for both of your organizations. \n\nFurthermore, I have experience handling complex integrations, including connecting external web platforms with internal systems like SharePoint so your workflows remain seamless. Whether it's setting up dynamic community updates for the church or a sleek product showcase for the tech company, I ensure every site is fast, responsive, and ready for ongoing content updates. \n\nFor a look at my past work building polished, user-friendly sites, you can check out https://www.thelifeyoucansave.org/. \n\nWhat are your target timelines for launching both sites, and are there specific SharePoint integration features you need prioritized first?",
+    "publishedDateTime": "2026-10-01T22:10:53+0000",
+    "addedAt": "2026-10-01T22:12:48.353Z",
+    "url": "https://www.upwork.com/jobs/~022105781266044245907",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105781266044245907/apply/"
+  },
+  {
     "id": "2105772367480182675",
     "ciphertext": "~022105772367480182675",
     "title": "Educational developer using TutorLMS and Edubin in  Wordpress",
