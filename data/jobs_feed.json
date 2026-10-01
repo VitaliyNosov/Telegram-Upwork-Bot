@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105722327629911955",
+    "ciphertext": "~022105722327629911955",
+    "title": "AI WordPress Developer Needed",
+    "description": "We need an AI based developer to re-code an existing designed website into a functional WordPress site. The work includes building the homepage, about page, and contact page, plus creating a custom contact form with email notifications. You will also set up the site, install necessary plugins, and ensure everything works correctly. Please share relevant examples of similar projects and your approach to delivering a clean, responsive site on time.\n\nThe most important thing is minimal code bloat, ultra fast loading, minimal wordpress plugins, and high quality code.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 488,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "psd-to-wordpress",
+      "graphic-design"
+    ],
+    "score": 200,
+    "coverLetter": "Hi! To deliver an ultra-fast site with minimal code bloat, I convert designs into clean WordPress builds using native Gutenberg blocks and custom ACF fields—avoiding heavy page builders and bloated plugins entirely.\n\nI can re-code your Homepage, About, and Contact pages to be pixel-perfect, mobile-responsive, and optimized for peak loading speed. For the contact form and email notifications, I will program a lightweight, secure custom handler so it runs seamlessly without adding unnecessary plugin overhead.\n\nYou can check out a clean, high-performance custom WordPress site I developed here: https://about.offerup.com/\n\nDo you have the design files ready in Figma, PSD, or another format? Let’s connect in chat so I can review them and share a quick timeline.",
+    "publishedDateTime": "2026-10-01T18:16:40+0000",
+    "addedAt": "2026-10-01T18:19:15.331Z",
+    "url": "https://www.upwork.com/jobs/~022105722327629911955",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105722327629911955/apply/"
+  },
+  {
     "id": "2105722122984087727",
     "ciphertext": "~022105722122984087727",
     "title": "Healthcare Membership Site Experience",

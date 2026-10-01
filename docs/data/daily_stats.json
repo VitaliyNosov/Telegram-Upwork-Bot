@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 70,
-  "matchedFilters": 21,
+  "totalScanned": 71,
+  "matchedFilters": 22,
   "byKeyword": {
-    "wordpress developer": 20,
+    "wordpress developer": 21,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 2647,
       "url": "https://www.upwork.com/jobs/~022105612482502679023",
       "addedAt": "2026-10-01T11:00:57.763Z"
+    },
+    {
+      "title": "AI WordPress Developer Needed",
+      "budget": "Fixed-price",
+      "score": 200,
+      "url": "https://www.upwork.com/jobs/~022105722327629911955",
+      "addedAt": "2026-10-01T18:18:44.137Z"
     },
     {
       "title": "WordPress Developer – WooCommerce, Multi-Site Development",
