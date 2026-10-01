@@ -1,5 +1,29 @@
 [
   {
+    "id": "2105612482502679023",
+    "ciphertext": "~022105612482502679023",
+    "title": "AI-First WordPress Developer — Modern AI-Led Website Build + Ongoing Work",
+    "description": "AI-First WordPress Developer — Modern AI-Led Website Build + Ongoing Work\n\nWe’re looking for a WordPress developer/designer who is genuinely AI-first in how they build websites.\n\nThis is not simply a WordPress development job.\n\nWe run an established digital agency in Ireland and are currently developing our own new agency website. We want to use this project to establish a modern, AI-led website development workflow that we can then use across future client projects.\n\nI’m particularly interested in hearing from developers who have recent, hands-on experience using AI throughout the website development process — not just using ChatGPT to write some copy or generate a few images.\n\nI want to understand how good AI-native developers are building WordPress websites today.\n\nThat could include AI being used for:\n\n* Turning a business brief/transcripts/source material into site architecture and content\n* UX and conversion planning\n* Wireframing and design\n* Copy and content production\n* Coding and customisation\n* WordPress page/template creation\n* CSS/JS/PHP development\n* SEO/schema/internal linking\n* QA, testing and optimisation\n* Automating repetitive parts of the build process\n\nThe first project will be our own agency website, so we have an ideal environment in which to develop and refine the process.\n\nWordPress is important. We are not looking to move everything to a proprietary AI website builder. The finished websites need to remain robust, maintainable WordPress websites suitable for established businesses.\n\nWho I want to hear from\n\nI’m particularly interested in developers who can say:\n\n“This is how I used to build WordPress sites, this is how AI has changed my workflow, and this is how I build them now.”\n\nYou may be using Claude, ChatGPT, Cursor, GitHub Copilot or other AI development/design tools. I’m less concerned about the particular tools than how deeply AI is integrated into your workflow and what it allows you to do better or faster.\n\nThis is potentially an ongoing position. If we find the right person and develop the right process together, there will be further website work after our own site.\n\nWhen applying\n\nPlease don’t send me a generic WordPress proposal.\n\nInstead, please answer these three questions:\n\n1. Describe your current AI-first workflow for building a WordPress website from initial brief through to launch.\n2. What has changed most in the way you build WordPress websites during the last 12–18 months because of AI?\n3. Show me 2–3 recent WordPress websites where AI played a meaningful role in the build, and explain specifically what AI was used for.\n\nIf you have developed your own prompts, agents, automations or AI-assisted development workflow, I’d particularly like to hear about that.\n\nI’m not necessarily looking for the person with the longest WordPress CV. I’m looking for someone who understands WordPress well but is also actively experimenting with and adopting the best AI-enabled development practices available today.\n\nInitial project: New website for our own digital/AI agency\nPlatform: WordPress\nRelationship: Initial project with strong potential for ongoing work\nLocation: Remote",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$14 - $25/hr",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 157,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 2647,
+    "coverLetter": "Hi! Here are the answers to how I integrate AI into my modern WordPress workflow:\n\n1. **My AI-first workflow:** I start by feeding client transcripts and briefs into Claude/Custom GPTs to generate sitemaps, content architecture, and schema plans. For the build, I use Cursor and GitHub Copilot combined with WP-CLI and ACF/Gutenberg. AI assists in rapidly generating custom block markup, optimized PHP/JS, and writing targeted CSS, followed by automated QA checks.\n\n2. **What changed in 12–18 months:** AI shifted me from manually coding repetitive layouts and boilerplate code to acting as an architect and editor. I now build bespoke Gutenberg blocks and custom integrations in a fraction of the time, letting AI handle the heavy lifting while I focus on performance, UX, and clean code.\n\n3. **Recent examples:** On projects like [waapple.org](https://waapple.org/) and [thelifeyoucansave.org](https://www.thelifeyoucansave.org/), AI played a key role in structuring complex custom post types, generating ACF JSON schemas, and accelerating the custom CSS/PHP development.\n\nLet’s chat about how we can build your agency's new workflow together.",
+    "publishedDateTime": "2026-10-01T11:00:11+0000",
+    "addedAt": "2026-10-01T11:00:59.355Z",
+    "url": "https://www.upwork.com/jobs/~022105612482502679023",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105612482502679023/apply/"
+  },
+  {
     "id": "2105569407675413317",
     "ciphertext": "~022105569407675413317",
     "title": "Website design using my code",
