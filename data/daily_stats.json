@@ -1,10 +1,10 @@
 {
   "date": "2026-10-01",
   "lastDigestSentDate": "2026-09-30",
-  "totalScanned": 56,
-  "matchedFilters": 16,
+  "totalScanned": 58,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 15,
+    "wordpress developer": 16,
     "woocommerce": 1
   },
   "topJobs": [
@@ -112,6 +112,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022105643043688901856",
       "addedAt": "2026-10-01T13:03:06.287Z"
+    },
+    {
+      "title": "WordPress Exercise Library Pages — Beaver Builder, Vimeo and Rank Math — 100 Pages",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022105696379157536492",
+      "addedAt": "2026-10-01T16:34:49.668Z"
     },
     {
       "title": "WordPress / Elementor Developer for Custom WooCommerce Implementation from Figma",
