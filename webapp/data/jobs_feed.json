@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105736125719463804",
+    "ciphertext": "~022105736125719463804",
+    "title": "Malware Removal for Website",
+    "description": "Need a freelancer to identify and remove malware from my website that is blocking Google Ads functionality. The site is currently unable to use Google Ads due to security issues, and I need someone who can resolve the problem quickly. Please have experience handling similar issues and be able to confirm the site is clean and functioning properly after the work is completed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$25 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 62,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "virus-removal",
+      "web-programming"
+    ],
+    "score": 2599,
+    "coverLetter": "Hi! I can quickly clean up your malware-infected site, restore Google Ads compliance, and secure your platform against future attacks. \n\nAs a WordPress and security expert, I routinely handle hacked site recovery, malicious script removal, and database cleanup. Once the malware is fully eradicated, I will run a comprehensive post-cleanup audit to ensure your site passes Google’s safety checks and your ads can start running again immediately. I’ll also apply essential security hardening to prevent reinfection.\n\nWhen did the Google Ads warning first appear, and do you have current backups available? Let's get this resolved today.",
+    "publishedDateTime": "2026-10-01T19:13:36+0000",
+    "addedAt": "2026-10-01T19:14:57.645Z",
+    "url": "https://www.upwork.com/jobs/~022105736125719463804",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105736125719463804/apply/"
+  },
+  {
     "id": "2105723321347676473",
     "ciphertext": "~022105723321347676473",
     "title": "Wordpress site manager",
