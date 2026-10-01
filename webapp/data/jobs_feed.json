@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105614256362436995",
+    "ciphertext": "~022105614256362436995",
+    "title": "Figma to WordPress Developer",
+    "description": "Figma to WordPress Developer — Landing Page + Contact Page — Immediate Start\n\nWe are looking for an experienced WordPress developer to take an existing, completed Figma design and build it as a responsive WordPress website.\n\nThe design is already complete. We need someone who can start immediately and ideally have the site ready to launch tomorrow.\n\nScope\n\nThe website is small and consists of:\n\n1 × Landing page\n\n1 × Contact page\n\nHeader/navigation\n\nFooter\n\nContact form\n\nResponsive desktop, tablet and mobile layouts\n\nAll designs and assets will be supplied in Figma.\n\nBuild Requirements\n\nWe would prefer the site to be built in WordPress using Elementor Pro, although we're open to an alternative approach if you can achieve the design accurately and quickly.\n\nThe finished site should:\n\nClosely match the supplied Figma designs\n\nBe fully responsive\n\nBe straightforward for us to edit in WordPress\n\nUse sensible, clean page structure\n\nHave properly configured global fonts and colours\n\nInclude working contact forms\n\nBe optimised for good page speed\n\nUse appropriately optimised images/SVGs\n\nWork correctly across modern browsers\n\nBe ready for us to connect analytics/Google Tag Manager\n\nWe don't need a complex bespoke WordPress theme or CMS architecture. The priority is a high-quality, accurate build that can be launched quickly.\n\nTiming\n\nImmediate start required.\n\nOur target is to have the website built, tested and ready to launch tomorrow.\n\nPlease only apply if you have availability to work on this immediately.\n\nWhen Applying\n\nPlease send:\n\n2–3 examples of WordPress/Elementor sites you've built from Figma\n\nConfirmation that you can start immediately\n\nYour estimated turnaround time\n\nYour fixed-price quote\n\nConfirmation that you can handle responsive implementation and final QA\n\nPlease start your proposal with the words \"READY TO START\" so we know you've read the brief.\n\nWe can provide the Figma file immediately and are available to answer questions quickly during the build.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 82,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "css"
+    ],
+    "score": 149,
+    "coverLetter": "READY TO START! Hi! I can take your Figma files right now and have your landing page, contact page, header, and footer fully built in Elementor Pro and ready for launch by tomorrow. \n\nWith extensive experience building pixel-perfect, fully responsive WordPress sites directly from Figma designs—utilizing clean structures and properly configured global styles for easy client editing—I am set up for an immediate start. For instance, you can review one of my recent WordPress builds here: https://www.thelifeyoucansave.org/. \n\nI will handle the complete implementation across all devices, contact form integration, performance optimization, and final QA. \n\nCan you share the Figma file and any specific contact form requirements so I can review them and confirm the fixed-price quote and exact turnaround time?",
+    "publishedDateTime": "2026-10-01T11:07:15+0000",
+    "addedAt": "2026-10-01T11:08:43.767Z",
+    "url": "https://www.upwork.com/jobs/~022105614256362436995",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105614256362436995/apply/"
+  },
+  {
     "id": "2105612482502679023",
     "ciphertext": "~022105612482502679023",
     "title": "AI-First WordPress Developer — Modern AI-Led Website Build + Ongoing Work",
