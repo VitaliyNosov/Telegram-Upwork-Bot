@@ -1,5 +1,37 @@
 [
   {
+    "id": "2105482384818526703",
+    "ciphertext": "~022105482384818526703",
+    "title": "Webmaster & Developer Needed: E-Commerce Landing Page + Ongoing Multi-Site & Hosting Maintenance",
+    "description": "Looking for a reliable, long-term Web Developer / Webmaster to help me manage, develop, and maintain my web properties.\n\nThis contract has two main parts:\n\nImmediate Project: Build a high-converting single-product website/landing page with payment gateway integration and custom email order notifications.\n\nOngoing Role: Manage, secure, and maintain multiple existing websites and hosting environments.\n\n1. Immediate Project Requirements (Single-Product Website):\n\nLanding Page Development: Design and develop a clean, modern, and responsive website dedicated to selling a single product.\n\nPayment Gateway Integration: Set up and securely integrate a payment gateway (e.g., Stripe, PayPal, or local processors).\n\nTargeted Email Notifications: Configure order confirmation emails so that sales notifications are strictly routed to 1 or 2 specified email addresses, while filtering out system/generic admin emails from those inboxes.\n\nConversion Optimization: Ensure fast loading speeds, mobile responsiveness, and smooth checkout flow.\n\n2. Ongoing Maintenance & Webmaster Duties:\n\nHosting Management: Oversee and maintain my existing web hosting servers/accounts (cPanel, Cloudflare, VPS, or managed hosting platforms).\n\nMulti-Site Updates & Backups: Regular updates (plugins, themes, security patches, PHP versions) and backup management for my existing websites.\n\nTroubleshooting & Security: Monitor site uptime, fix broken links/bugs, resolve SSL issues, and handle site security.\n\nTechnical Support: Assist with domain/DNS configurations, custom email setup, and general web infrastructure advice.\n\nSkills & Qualifications:\n\nStrong expertise in Web Development (WordPress, WooCommerce, custom HTML/CSS/JS, PHP, or Shopify depending on best fit).\n\nProven experience setting up and testing payment gateways.\n\nServer & Hosting Administration experience (DNS management, cPanel, SSL certificates, email routing/SMTP configuration).\n\nExcellent communication and reliability for ongoing maintenance.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "app-development",
+      "bug-fixes",
+      "custom-ecommerce-platform",
+      "html",
+      "web-design",
+      "landing-pages"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can help you immediately with your high-converting single-product landing page and seamlessly transition into the long-term webmaster role for your portfolio. \n\nFor the immediate project, I regularly build fast, responsive WordPress and WooCommerce setups, integrate secure payment gateways like Stripe and PayPal, and configure targeted SMTP routing so your sales alerts go directly to the right inboxes without inbox clutter. \n\nFor the ongoing role, I bring extensive experience managing multi-site hosting environments (cPanel, Cloudflare, VPS), handling routine core/plugin updates, and performing server-level troubleshooting. You can see examples of my recent work at https://www.thelifeyoucansave.org/.\n\nAre you currently leaning toward WordPress/WooCommerce or Shopify for this single-product build? Let's chat about the best stack for your goals.",
+    "publishedDateTime": "2026-10-01T02:26:37+0000",
+    "addedAt": "2026-10-01T02:28:46.987Z",
+    "url": "https://www.upwork.com/jobs/~022105482384818526703",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105482384818526703/apply/"
+  },
+  {
     "id": "2105424853586545478",
     "ciphertext": "~022105424853586545478",
     "title": "Wordpress site redesign",
