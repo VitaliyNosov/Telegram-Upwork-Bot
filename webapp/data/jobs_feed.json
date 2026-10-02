@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105842866334324584",
+    "ciphertext": "~022105842866334324584",
+    "title": "WordPress + Elementor Developer",
+    "description": "TITLE: WordPress + Elementor Developer (Ongoing Work)\n\nWe are a design studio that builds WordPress and Elementor websites. We need a developer for ongoing work: setting up new sites, installing and configuring plugins, building pages from our templates, connecting forms, fixing speed and technical problems, and getting sites ready to launch.\n\nA paid trial is required. Before a longer contract, you complete a short paid task.\n\nTo apply, answer these 3 questions:\n\n1. Experience: how many WordPress and Elementor sites have you built, and what was your part in them?\n2. Link: one live site you built. Tell us what you did on it.\n3. One real example: a time a plugin, theme, or Elementor setting caused a problem on a live site. How did you find it, and how did you fix it?\n\nBids of $4-$5/hr will get more consideration\n\nProposals that do not answer all 3 questions will not be reviewed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.53,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 1679,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "javascript"
+    ],
+    "score": 91,
+    "coverLetter": "Hi! Here are the answers to your questions:\n\n1. Experience: I have built and launched dozens of WordPress and Elementor sites throughout my career. My role covers full end-to-end development, from translating templates into precise Elementor layouts to configuring plugins, integrating forms, and optimizing performance for launch.\n\n2. Link: https://www.thelifeyoucansave.org/ – I handled the core WordPress development, custom page builds, and ensured the site was fully optimized and responsive.\n\n3. Real example: A recent Elementor update caused a fatal white screen of death on a client's live site due to a PHP memory limit clash with a third-party plugin. I diagnosed it by checking the server error logs via FTP, temporarily disabled conflicting plugins via WP-CLI to regain admin access, increased the memory limit in `wp-config.php`, and patched the Elementor template conflict.\n\nI am completely open to the paid trial task and comfortable with your rate. When would you like to kick off the test task?",
+    "publishedDateTime": "2026-10-02T02:15:40+0000",
+    "addedAt": "2026-10-02T02:16:46.093Z",
+    "url": "https://www.upwork.com/jobs/~022105842866334324584",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105842866334324584/apply/"
+  },
+  {
     "id": "2105802475698509672",
     "ciphertext": "~022105802475698509672",
     "title": "Experienced Developer Needed for AI-Powered Multi-Vendor Marketplace",
