@@ -1,5 +1,38 @@
 [
   {
+    "id": "2105912063194765625",
+    "ciphertext": "~022105912063194765625",
+    "title": "WordPress Performance Expert Needed – Improve Mobile Core Web Vitals / TTFB",
+    "description": "We are looking for an experienced WordPress performance specialist to investigate and improve the performance of our website, with a particular focus on mobile Google PageSpeed / Core Web Vitals. \n\nOur website currently performs very well in GTmetrix:\n- Grade A\n- 96% Performance\n- 99% Structure\n- 1.1s Largest Contentful Paint\n- 119ms Total Blocking Time\n\nHowever, Google PageSpeed Insights shows significantly worse results on mobile:\n- Performance score: approximately 86\n- Accessibility score: approximately 84\n- LCP: approximately 3.0s\n- FCP: approximately 3.2s\n- TTFB: approximately 3.2s\n\nDesktop performance is considerably better, including a TTFB of approximately 0.3s.\n\nCurrent setup\nThe website runs on:\n\n- WordPress\n- DIVI 5\n- Pressable hosting\n- WP Rocket\n- Imagify for image optimization\n\nWe already have a good hosting environment and standard caching/image optimization in place. We therefore need someone who can go beyond installing another optimization plugin and properly investigate. \n\nWhat we need\nThe first priority is a technical investigation of the website to determine exactly what is causing the difference between GTmetrix, desktop PageSpeed, and mobile PageSpeed results.\n\nWe want you to investigate areas such as:\n- Mobile TTFB\n- LCP and FCP\n- Critical rendering path\n- Render-blocking CSS and JavaScript\n- DIVI 5 generated assets\n- WP Rocket configuration\n- Server-side caching and page caching\n- CDN/cache behavior if applicable\n- Fonts\n- Third-party scripts\n- JavaScript execution\n- Unused CSS / JS\n- Above-the-fold content\n- Lazy loading\n- Database or backend bottlenecks\n- WordPress plugins that may affect performance\n- Differences between cached and uncached requests\n- Any other technical issues affecting Core Web Vitals\n\nWe do not want someone who only optimizes the homepage. The solution needs to work properly across the entire website, including internal pages and relevant templates.\n\nWe expect you to:\n1. Audit the current WordPress setup and performance configuration.\n2. Identify the actual causes of the mobile performance issues.\n3. Explain clearly what needs to be changed and why.\n4. Implement the necessary optimizations.\n5. Write clean, high-quality code where custom development is required.\n6. Test changes across multiple page types, not only the homepage.\n7. Verify that optimizations do not break the website, layout, tracking, or functionality.\n8. Re-test the website using Google PageSpeed Insights / Lighthouse and relevant performance tools.\n9. Provide a short summary of what was changed and any recommendations for maintaining performance.\n\nWe are specifically interested in real improvements, not simply increasing a synthetic score through tricks that negatively affect functionality or user experience.\n\nRequirements\n- Minimum 5+ years of relevant WordPress development / performance optimization experience\n- Strong experience with Core Web Vitals, PageSpeed Insights and Lighthouse\n- Strong knowledge of WordPress frontend and backend performance\n- Experience with WP Rocket\n- Experience working with page builders such as DIVI\n- Comfortable debugging TTFB, LCP, FCP, JavaScript, CSS, caching and server-related issues\n- Able to write clean, high-quality code when necessary\n- Work as an independent freelancer or as part of a small technical team\n- No large agencies\n- You must work on the project yourself, no project managers or task delegation\n- Able to work independently\n- Meet agreed deadlines and follow our schedule\n- Honor commitments\n- Communicate clearly and proactively if you encounter problems\n\nPlease do not send a generic agency proposal.\n\nWe are looking for someone who can diagnose the underlying problem first and then implement a technically sound solution across the full website",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$15 - $40/hr",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-optimization",
+      "software-debugging",
+      "adabas",
+      "wordpress",
+      "seo",
+      "web-programming",
+      "php",
+      "javascript"
+    ],
+    "score": 4148,
+    "coverLetter": "Hi! That sharp contrast between your strong GTmetrix/desktop metrics and the sluggish mobile TTFB (3.2s) and LCP points directly to a deeper backend, caching, or Divi asset-handling bottleneck—not a surface-level plugin issue. \n\nWith deep expertise in WordPress performance optimization, Core Web Vitals, and debugging setups using WP Rocket, Pressable hosting, and Divi, I specialize in going beyond basic audits to fix the root cause. I will systematically investigate your critical rendering path, mobile-specific TTFB discrepancies, server-side caching, and third-party script execution across your entire site templates—ensuring real-world user experience improvements without breaking layouts or tracking. You can review my clean-code approach and past work on complex builds like https://www.cchpca.0rg/.\n\nLet’s diagnose what’s causing the mobile penalty. Could you share temporary staging or site access, and I’ll outline my initial diagnostic steps?",
+    "publishedDateTime": "2026-10-02T06:50:39+0000",
+    "addedAt": "2026-10-02T06:52:40.557Z",
+    "url": "https://www.upwork.com/jobs/~022105912063194765625",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105912063194765625/apply/"
+  },
+  {
     "id": "2105842866334324584",
     "ciphertext": "~022105842866334324584",
     "title": "WordPress + Elementor Developer",

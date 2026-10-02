@@ -1,12 +1,19 @@
 {
   "date": "2026-10-02",
   "lastDigestSentDate": "2026-10-01",
-  "totalScanned": 29,
-  "matchedFilters": 6,
+  "totalScanned": 30,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
+    {
+      "title": "WordPress Performance Expert Needed – Improve Mobile Core Web Vitals / TTFB",
+      "budget": "$15-$40/hr",
+      "score": 4148,
+      "url": "https://www.upwork.com/jobs/~022105912063194765625",
+      "addedAt": "2026-10-02T06:52:38.035Z"
+    },
     {
       "title": "Experienced Developer Needed for AI-Powered Multi-Vendor Marketplace",
       "budget": "Fixed-price",
