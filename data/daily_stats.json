@@ -1,67 +1,8 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "lastDigestSentDate": "2026-10-02",
-  "totalScanned": 74,
-  "matchedFilters": 8,
-  "byKeyword": {
-    "wordpress developer": 8
-  },
-  "topJobs": [
-    {
-      "title": "WordPress Performance Expert Needed – Improve Mobile Core Web Vitals / TTFB",
-      "budget": "$15-$40/hr",
-      "score": 4148,
-      "url": "https://www.upwork.com/jobs/~022105912063194765625",
-      "addedAt": "2026-10-02T06:52:38.035Z"
-    },
-    {
-      "title": "Experienced Developer Needed for AI-Powered Multi-Vendor Marketplace",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022105802475698509672",
-      "addedAt": "2026-10-01T23:36:40.810Z"
-    },
-    {
-      "title": "WordPress Developer for Figma Conversion",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022105934696184371091",
-      "addedAt": "2026-10-02T08:24:41.001Z"
-    },
-    {
-      "title": "Educational developer using TutorLMS and Edubin in  Wordpress",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022105772367480182675",
-      "addedAt": "2026-10-01T21:36:41.920Z"
-    },
-    {
-      "title": "Website Rebuild for Church and Tech Company",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022105781266044245907",
-      "addedAt": "2026-10-01T22:12:47.159Z"
-    },
-    {
-      "title": "WordPress + Elementor Developer",
-      "budget": "Fixed-price",
-      "score": 91,
-      "url": "https://www.upwork.com/jobs/~022105842866334324584",
-      "addedAt": "2026-10-02T02:16:44.583Z"
-    },
-    {
-      "title": "Wordpress Website Developer Needed for Dynamic Ongoing Project",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022105766234672455332",
-      "addedAt": "2026-10-01T21:12:47.047Z"
-    },
-    {
-      "title": "Web Designer & Developer Needed For Houston Local Service Website Plus Local Seo",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022105749243265668968",
-      "addedAt": "2026-10-01T23:00:56.632Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
