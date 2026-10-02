@@ -1,10 +1,10 @@
 {
   "date": "2026-10-02",
   "lastDigestSentDate": "2026-10-01",
-  "totalScanned": 32,
-  "matchedFilters": 7,
+  "totalScanned": 33,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022105802475698509672",
       "addedAt": "2026-10-01T23:36:40.810Z"
+    },
+    {
+      "title": "WordPress Developer for Figma Conversion",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022105934696184371091",
+      "addedAt": "2026-10-02T08:24:41.001Z"
     },
     {
       "title": "Educational developer using TutorLMS and Edubin in  Wordpress",

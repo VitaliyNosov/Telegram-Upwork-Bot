@@ -1,5 +1,34 @@
 [
   {
+    "id": "2105934696184371091",
+    "ciphertext": "~022105934696184371091",
+    "title": "WordPress Developer for Figma Conversion",
+    "description": "We need a WordPress developer to convert a new website designed in Figma into a live WordPress site using Elementor Pro. The work includes building the homepage, about page, 4x product pages and contact page, ensuring the final site matches the approved design closely. You should be able to create responsive layouts, implement clean page structure, and deliver a polished, functional website ready for launch. Please share relevant examples of similar Figma-to-WordPress projects and your approach to translating designs into a smooth user experience.\nThe final design will be supplied with chosen developer.\nAll licenses will be added once completed\ncPanel service can be provided to you to develop the site and do testing\nDeveloper must work with our own in-house development team\nDeveloper must use global templates and set up global templates using elementor/Elementor Pro\nAdditional work may be required later on once main project is completed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 52,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "html"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI’d love to help you convert your Figma designs into a pixel-perfect, responsive WordPress site using Elementor Pro. I specialize in exact Figma-to-WordPress conversions, ensuring clean page structures, optimal performance, and strict use of global templates and theme builder settings for easy future management. \n\nWith deep experience in custom WordPress development and Elementor, I know how to translate designs into smooth, functional user experiences. I am also comfortable collaborating directly with in-house development teams via cPanel and staging environments. \n\nFor a look at my clean development standards, you can check out my work on sites like https://www.thelifeyoucansave.org/. \n\nAre you ready to share the Figma files so we can review the page layouts and get started?",
+    "publishedDateTime": "2026-10-02T08:23:09+0000",
+    "addedAt": "2026-10-02T08:24:42.168Z",
+    "url": "https://www.upwork.com/jobs/~022105934696184371091",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022105934696184371091/apply/"
+  },
+  {
     "id": "2105912063194765625",
     "ciphertext": "~022105912063194765625",
     "title": "WordPress Performance Expert Needed – Improve Mobile Core Web Vitals / TTFB",
