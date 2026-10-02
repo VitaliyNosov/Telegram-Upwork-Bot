@@ -1,8 +1,18 @@
 {
   "date": "2026-10-03",
   "lastDigestSentDate": "2026-10-02",
-  "totalScanned": 0,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 1,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Dedicated Website Developer Needed for Ongoing Dynamic Exciting Project",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022106139223327156803",
+      "addedAt": "2026-10-02T21:50:46.051Z"
+    }
+  ]
 }

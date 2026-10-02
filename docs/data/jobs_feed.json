@@ -1,5 +1,40 @@
 [
   {
+    "id": "2106139223327156803",
+    "ciphertext": "~022106139223327156803",
+    "title": "Dedicated Website Developer Needed for Ongoing Dynamic Exciting Project",
+    "description": "We are looking for an experienced WordPress and/or Custom Website Developer to join us for ongoing website development projects.\n\nThe right developer should be comfortable working on both WordPress websites and custom web applications, depending on the project requirements. This is an ongoing opportunity for someone reliable, responsive, detail-oriented, and interested in building a long-term working relationship.\nResponsibilities\n\n    Develop, customize, and maintain WordPress websites\n\n    Build custom websites and web applications when required\n\n    Convert designs/Figma files into responsive, functional websites\n\n    Customize WordPress themes and plugins\n\n    Develop custom WordPress functionality and integrations\n\n    Troubleshoot bugs, performance issues, and technical problems\n\n    Ensure websites are responsive, secure, SEO-friendly, and optimized for speed\n\n    Integrate APIs, payment gateways, forms, third-party services, and other tools\n\n    Maintain and update existing websites\n\n    Communicate clearly regarding project progress, timelines, and requirements\n\nRequirements\n\n    Strong experience with WordPress\n\n    Strong knowledge of PHP, HTML, CSS, JavaScript, and MySQL\n\n    Experience with custom WordPress themes and plugins\n\n    Experience developing responsive websites\n\n    Familiarity with REST APIs and third-party integrations\n\n    Understanding of website security, performance, and optimization\n\n    Ability to work independently and meet deadlines\n\n    Good communication and attention to detail\n\n    Ability to understand requirements and suggest practical technical solutions\n\nNice to Have\n\n    Experience with Elementor, WooCommerce, or other popular WordPress tools\n\n    Experience with React, Laravel, or other modern frameworks\n\n    Experience working with Figma/Adobe XD designs\n\n    Experience with Git/GitHub\n\n    Experience with custom dashboards or web applications\n\nWhat We’re Looking For\n\nWe are not looking for someone for just one small project. We want to establish a long-term relationship with a developer who can handle different types of website projects as they come up.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "css",
+      "javascript",
+      "php",
+      "web-design",
+      "html5",
+      "wordpress",
+      "web-programming",
+      "html",
+      "react-js",
+      "shopify"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nI’d love to team up as your go-to developer for ongoing WordPress and custom web projects. I specialize in clean code, custom theme/plugin development, and turning Figma designs into fast, fully responsive websites using PHP, JavaScript, and MySQL. \n\nBeyond core WordPress development—including WooCommerce, advanced custom fields, and API integrations—I also bring experience with other platforms like Shopify and Webflow when project needs shift. You can see an example of my recent work on high-performing sites here: https://www.cchpca.org/\n\nI’m looking for a reliable, long-term relationship where I can handle everything from new builds to ongoing maintenance and troubleshooting. \n\nDo you have a specific project or task you'd like to start with first?",
+    "publishedDateTime": "2026-10-02T21:48:21+0000",
+    "addedAt": "2026-10-02T21:50:47.182Z",
+    "url": "https://www.upwork.com/jobs/~022106139223327156803",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106139223327156803/apply/"
+  },
+  {
     "id": "2105934696184371091",
     "ciphertext": "~022105934696184371091",
     "title": "WordPress Developer for Figma Conversion",
