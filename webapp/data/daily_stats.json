@@ -1,8 +1,18 @@
 {
   "date": "2026-10-04",
   "lastDigestSentDate": "2026-10-03",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Wordpress website work - Urgent",
+      "budget": "Fixed-price",
+      "score": 96,
+      "url": "https://www.upwork.com/jobs/~022106521972428902221",
+      "addedAt": "2026-10-03T23:10:59.328Z"
+    }
+  ]
 }
