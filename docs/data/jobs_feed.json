@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106247418406261971",
+    "ciphertext": "~022106247418406261971",
+    "title": "Wordpress website work - Urgent",
+    "description": "I have a simple. website and design which i need to convert to new design. Need urgent work who can start right away.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.79,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 56,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-plugin",
+      "wordpress",
+      "wordpress-theme",
+      "wordpress-website"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! I can start right away on converting your WordPress site to the new design. \n\nWith extensive experience in custom WordPress theme development, Gutenberg blocks, and page builders like Elementor and Divi, I frequently handle site redesigns quickly and cleanly. I ensure the new design looks pixel-perfect, loads fast, and remains fully responsive across all devices—all while keeping your existing content intact. \n\nYou can check out a recent full site build like https://www.seeintl.org/ to see the quality of my work. \n\nCould you share the new design files (Figma, XD, or screenshots) and current site URL so we can get started right now?",
+    "publishedDateTime": "2026-10-03T04:58:53+0000",
+    "addedAt": "2026-10-03T05:01:08.953Z",
+    "url": "https://www.upwork.com/jobs/~022106247418406261971",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106247418406261971/apply/"
+  },
+  {
     "id": "2106233331966706112",
     "ciphertext": "~022106233331966706112",
     "title": "Website Update – Add New Practitioner Profile",
