@@ -1,10 +1,10 @@
 {
   "date": "2026-10-03",
   "lastDigestSentDate": "2026-10-03",
-  "totalScanned": 49,
-  "matchedFilters": 11,
+  "totalScanned": 50,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022106228645208959555",
       "addedAt": "2026-10-03T03:44:53.145Z"
+    },
+    {
+      "title": "E-Commerce Plugin Integration and Testing",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022106482695729784864",
+      "addedAt": "2026-10-03T20:34:55.507Z"
     },
     {
       "title": "Website Update – Add New Practitioner Profile",

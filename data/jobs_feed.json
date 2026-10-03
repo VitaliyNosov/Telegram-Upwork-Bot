@@ -1,5 +1,36 @@
 [
   {
+    "id": "2106482695729784864",
+    "ciphertext": "~022106482695729784864",
+    "title": "E-Commerce Plugin Integration and Testing",
+    "description": "E-Commerce Plugin Integration & Acceptance Testing\nScope of Work\n●\tConfigure and test e-commerce plugins \n●\tPerform the required configuration and integration work.\n●\tWork must be performed on the client's subdomain.\nAcceptance Testing\n●\tThe developer must demonstrate successful configuration, integration and operation to the client before approval.\nOwnership\n●\tAll work product produced under this engagement belongs to the client upon turnover and payment.\nSuccessful candidate will submit estimated time to complete job and provide an hourly rate. Client available for zoom call between 9 am - 5 pm EST (USA)",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "payment-gateway-integration",
+      "wordpress-plugin",
+      "wordpress",
+      "web-programming",
+      "web-testing"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you configure and rigorously test your e-commerce and payment plugins on your subdomain, ensuring everything operates seamlessly before sign-off. \n\nWith extensive experience in WordPress and WooCommerce plugin integrations—including setting up complex payment gateways, shipping methods, and custom workflows—I specialize in clean execution and thorough quality assurance. For instance, I recently built and optimized complex WordPress platforms like https://www.cchpca.org/, ensuring stable architecture and smooth user transactions.\n\nTo give you an accurate estimate, could you share which specific e-commerce or payment plugins need to be integrated? \n\nMy hourly rate is $X/hr, and I can complete this work within [X] estimated hours. I am also available for a Zoom call between 9 AM – 5 PM EST to review the setup. \n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-10-03T20:34:19+0000",
+    "addedAt": "2026-10-03T20:34:56.750Z",
+    "url": "https://www.upwork.com/jobs/~022106482695729784864",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106482695729784864/apply/"
+  },
+  {
     "id": "2106465512659488589",
     "ciphertext": "~022106465512659488589",
     "title": "Website Developer Needed for Ongoing Dynamic Project",
