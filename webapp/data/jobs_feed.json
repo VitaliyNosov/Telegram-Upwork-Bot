@@ -1,5 +1,40 @@
 [
   {
+    "id": "2106465512659488589",
+    "ciphertext": "~022106465512659488589",
+    "title": "Website Developer Needed for Ongoing Dynamic Project",
+    "description": "We are looking for an experienced WordPress and/or Custom Website Developer to join us for ongoing website development projects.\n\nThe right developer should be comfortable working on both WordPress websites and custom web applications, depending on the project requirements. This is an ongoing opportunity for someone reliable, responsive, detail-oriented, and interested in building a long-term working relationship.\nResponsibilities\n\n    Develop, customize, and maintain WordPress websites\n\n    Build custom websites and web applications when required\n\n    Convert designs/Figma files into responsive, functional websites\n\n    Customize WordPress themes and plugins\n\n    Develop custom WordPress functionality and integrations\n\n    Troubleshoot bugs, performance issues, and technical problems\n\n    Ensure websites are responsive, secure, SEO-friendly, and optimized for speed\n\n    Integrate APIs, payment gateways, forms, third-party services, and other tools\n\n    Maintain and update existing websites\n\n    Communicate clearly regarding project progress, timelines, and requirements\n\nRequirements\n\n    Strong experience with WordPress\n\n    Strong knowledge of PHP, HTML, CSS, JavaScript, and MySQL\n\n    Experience with custom WordPress themes and plugins\n\n    Experience developing responsive websites\n\n    Familiarity with REST APIs and third-party integrations\n\n    Understanding of website security, performance, and optimization\n\n    Ability to work independently and meet deadlines\n\n    Good communication and attention to detail\n\n    Ability to understand requirements and suggest practical technical solutions\n\nNice to Have\n\n    Experience with Elementor, WooCommerce, or other popular WordPress tools\n\n    Experience with React, Laravel, or other modern frameworks\n\n    Experience working with Figma/Adobe XD designs\n\n    Experience with Git/GitHub\n\n    Experience with custom dashboards or web applications\n\nWhat We’re Looking For\n\nWe are not looking for someone for just one small project. We want to establish a long-term relationship with a developer who can handle different types of website projects as they come up.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "woocommerce",
+      "css",
+      "javascript",
+      "html5",
+      "web-programming",
+      "html",
+      "web-design",
+      "jquery"
+    ],
+    "score": 50,
+    "coverLetter": "Hi!\n\nI read your post looking for a reliable, long-term developer for ongoing WordPress and custom web projects, and this is a great fit for my background. \n\nI am a senior WordPress and PHP developer specializing in custom theme and plugin development, responsive builds from Figma designs, WooCommerce customization, and API integrations. Beyond standard WordPress sites, I focus heavily on writing clean code, performance optimization, and secure site architecture—ensuring everything I build is scalable and easy to maintain. You can view some of my recent client work here: https://www.thelifeyoucansave.org/\n\nI’m looking to build a long-term working relationship and can start immediately on your upcoming tasks. Do you have a specific project or backlog item you’d like to kick off with first?",
+    "publishedDateTime": "2026-10-03T19:25:03+0000",
+    "addedAt": "2026-10-03T19:26:50.466Z",
+    "url": "https://www.upwork.com/jobs/~022106465512659488589",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106465512659488589/apply/"
+  },
+  {
     "id": "2106453490102909947",
     "ciphertext": "~022106453490102909947",
     "title": "WordPress Developer needed , develope AI chatgpt webite to wordpress",
