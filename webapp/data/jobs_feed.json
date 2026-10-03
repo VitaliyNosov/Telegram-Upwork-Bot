@@ -1,5 +1,38 @@
 [
   {
+    "id": "2106212286790533568",
+    "ciphertext": "~022106212286790533568",
+    "title": "Senior WordPress Developer – Complex Build, Clean Development & High-Quality UX",
+    "description": "I’m looking for a highly experienced WordPress developer to take over and complete an existing project that has already had substantial development work completed.\n\nThis is not a basic brochure website. It includes a number of interconnected functions, workflows and customer-facing processes, so I need someone who is genuinely comfortable working with a more complex WordPress build and can first understand what has already been built before making changes.\n\nThe finished product needs to be clean, professional, fast, intuitive and highly functional on both mobile and desktop.\n\nI’m looking for someone with strong hands-on experience in:\n\n• WordPress and Elementor/Elementor Pro\n• PHP, JavaScript, HTML and CSS\n• Existing/custom WordPress functionality and integrations\n• User/customer workflows and forms\n• Responsive UX/UI\n• Performance, security and maintainable development\n• Troubleshooting and improving work created by previous developers\n\nIMPORTANT: I am specifically looking for an experienced developer who personally understands and writes the work they deliver. I do not want AI-generated or AI-dependent development used as a substitute for genuine WordPress development expertise.\n\nThe first stage will be to review the existing website/build, understand how it has been constructed, identify any problems or unnecessary complexity, and give me a clear assessment of what is required to finish it properly.\n\nI value clean solutions over unnecessary complexity. I’m not looking to rebuild everything simply because a new developer prefers a different approach.\n\nIf the relationship works well, I have another significantly larger WordPress project coming up and would like to find one strong developer I can continue working with long term.\n\nWhen applying, please send 2–3 examples of complex WordPress projects YOU personally developed and briefly explain what functionality you were responsible for. Please don’t send a large generic portfolio.\n\nGood communication and the ability to explain technical decisions clearly in plain English are important.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$20 - $50/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "css",
+      "javascript",
+      "html",
+      "php",
+      "html5"
+    ],
+    "score": 5050,
+    "coverLetter": "Hi! \n\nTaking over an existing, complex WordPress build requires auditing what’s already there before touching a line of code. I specialize in diving into pre-existing codebases, cleaning up unnecessary complexity, and building maintainable, high-performance workflows using PHP, JavaScript, CSS, and page builders like Elementor Pro—without relying on AI shortcuts. \n\nMy approach matches yours: I value clean solutions over rebuilding just for the sake of it. For instance, on https://www.thelifeyoucansave.org/, I handled advanced custom integrations and intricate user workflows to ensure a seamless, high-performance user experience across desktop and mobile. \n\nWould you like to share the current staging link so I can review the build and provide an initial assessment of the finish line?",
+    "publishedDateTime": "2026-10-03T02:38:41+0000",
+    "addedAt": "2026-10-03T02:40:58.574Z",
+    "url": "https://www.upwork.com/jobs/~022106212286790533568",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106212286790533568/apply/"
+  },
+  {
     "id": "2106172395071678496",
     "ciphertext": "~022106172395071678496",
     "title": "Ongoing WordPress Developer + Front-End Designer for Membership Website",
