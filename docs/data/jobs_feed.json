@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106396009473766653",
+    "ciphertext": "~022106396009473766653",
+    "title": "Full-Time WordPress Developer &  B2B Growth Specialist (India-Based)",
+    "description": "About the Job\nWe are looking for a highly execution-driven Full-Time WordPress Developer & B2B Growth Specialist (40 hours/week) based in India. \n\nThe core focus of this role (approx. 60%+ of your workload) is designing, building, optimizing, and scaling our WordPress website from scrach, driving organic search visibility (SEO), and positioning our site for AI search engines (GEO / Generative Engine Optimization). The remaining 40% of the work will focus on social media management—covering LinkedIn, Facebook, Instagram, Pinterest, and YouTube—as well as Google Business Profile management and other assigned tasks.\n\nWe represent a curated original design and sourcing hub in Shenzhen, China — connecting luxury furniture, lighting, ceramics, and decor brands with interior designers, hotel buyers, and sourcing agents across the Middle East, India, and Southeast Asia.\n\nThis is a long-term, full-time remote role via Upwork.\n\nCompensation\n* Budget: ~$300 USD / month, flexible depending on your experience technical skills and execution efficiency.\n\nCore Responsibilities\n1. WordPress Development & Technical Setup (Core Focus — 40%)\n- Build and publish our English B2B website on WordPress based on wireframes and visual design assets provided by our team.\n- Architect custom post types (CPT) and category taxonomies for merchant showcase directories and portfolio hubs.\n- Configure themes, page builders, plugins, hosting, DNS, SSL, CDN, speed performance, and core web vitals.\n- Set up a clean site architecture that supports future multi-language expansion (Russian/Arabic).\n- Connect and configure GA4, Google Search Console, and Google Tag Manager.\n- Milestone: Launch a fully functional live website with 30+ merchant directory pages published within Month 1.\n- Ongoing: Continuous website maintenance, performance monitoring, speed optimization, and UX/CRO improvements.\n\n2. On-Page SEO, Technical SEO & GEO Optimization (Core Focus — 20%)\n- Implement schema markup, custom permalinks, XML sitemaps, internal linking, meta tags, and alt text for sourcing-intent keywords.\n- Optimize website structure and content for Generative Engine Optimization (GEO), ensuring AI engines (Perplexity, ChatGPT Search, Gemini) can effectively crawl, index, and surface our merchant catalog.\n- Monitor search performance, crawl errors, and indexing status via Google Search Console and GA4.\n\n3. B2B Content Creation & Copywriting (15%)\n- Write clear, engaging B2B English copy for merchant profiles, website articles, blog posts, and landing pages.\n- Publish 4+ long-form, keyword-optimized B2B sourcing guides and category explainers per month.\n- Develop and schedule 16+ monthly social posts across LinkedIn, Facebook, Instagram, Pinterest, and YouTube.\n\n4. B2B Channel Growth & Community Management (15%)\n- Manage company LinkedIn presence and establish thought-leadership in the design and sourcing niche.\n- Identify and engage qualified decision-makers (procurement leads, interior designers, hotel buyers) in target international markets through organic networking and personalized messaging.\n- Build Pinterest into a traffic acquisition channel using keyword-rich pins pointing back to the website directory.\n- Participate in relevant international interior design and sourcing communities with high-value answers to capture inbound interest.\n- Maintain and update the Google Business Profile.\n\n5. Buyer Communication & Campaign Support (10%)\n- Respond promptly to English buyer inquiries during working hours, qualify lead potential, and route product requests to management.\n- Support marketing campaigns around international trade shows (e.g., Canton Fair, CIFF) with landing pages, promo content, and post-show reporting.\n- Maintain monthly performance reports, content calendars, and asset trackers.\n\n\nRequirements\n- Proven hands-on WordPress development skills. Must provide live links to websites you built yourself from scratch (not just plugins you managed).\n- Strong understanding of Technical SEO, On-Page SEO, and modern GEO principles (structuring data for LLMs/AI search).\n- Ability to set up Custom Post Types (CPT) and Advanced Custom Fields (ACF).\n- Fluent written English for B2B copywriting, content entry, and client communication.\n- Self-motivated, available for 40 hours/week, with high-speed internet and reliable power in India.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 30,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "all-in-one-seo-pack",
+      "wordpress-website",
+      "social-media-management",
+      "technical-seo"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! I am ready to step in as your full-time WordPress Developer to build, structure, and scale your B2B sourcing platform from scratch. \n\nWith extensive hands-on expertise in custom WordPress architecture, I can efficiently set up your custom post types (CPT), category taxonomies, and Advanced Custom Fields (ACF) to handle your merchant directory and portfolio hubs seamlessly. Furthermore, I implement robust technical SEO, proper schema markup, and clean site structures optimized for both traditional search and AI engines (GEO). \n\nYou can view a recent custom-built site from my portfolio here: https://www.snopud.com/. \n\nI am based in India, fully available for 40 hours a week, and ready to launch your live site within the first month while supporting your broader digital growth objectives. \n\nWhen would you like to jump on a quick call to discuss the wireframes and get started?",
+    "publishedDateTime": "2026-10-03T14:49:47+0000",
+    "addedAt": "2026-10-03T14:51:03.321Z",
+    "url": "https://www.upwork.com/jobs/~022106396009473766653",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106396009473766653/apply/"
+  },
+  {
     "id": "2106377060908219387",
     "ciphertext": "~022106377060908219387",
     "title": "Shopify developer to (build or enhance) eCommerce store",

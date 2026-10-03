@@ -1,10 +1,10 @@
 {
   "date": "2026-10-03",
   "lastDigestSentDate": "2026-10-02",
-  "totalScanned": 33,
-  "matchedFilters": 8,
+  "totalScanned": 34,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 195,
       "url": "https://www.upwork.com/jobs/~022106377060908219387",
       "addedAt": "2026-10-03T13:36:52.122Z"
+    },
+    {
+      "title": "Full-Time WordPress Developer &  B2B Growth Specialist (India-Based)",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022106396009473766653",
+      "addedAt": "2026-10-03T14:51:02.111Z"
     },
     {
       "title": "WordPress Website Revamp",
