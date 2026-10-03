@@ -1,10 +1,10 @@
 {
   "date": "2026-10-04",
   "lastDigestSentDate": "2026-10-03",
-  "totalScanned": 3,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 96,
       "url": "https://www.upwork.com/jobs/~022106521972428902221",
       "addedAt": "2026-10-03T23:10:59.328Z"
+    },
+    {
+      "title": "WordPress Designer for Landscaping Website",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022106528529490061344",
+      "addedAt": "2026-10-03T23:36:53.305Z"
     }
   ]
 }
