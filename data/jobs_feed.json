@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106228645208959555",
+    "ciphertext": "~022106228645208959555",
+    "title": "WordPress Website Revamp",
+    "description": "We need a developer to revamp an existing WordPress website and improve its overall performance and user experience. The work includes updating the site structure, refining the layout, and making the site more functional and visually appealing. You should be comfortable working with an existing WordPress setup and able to implement changes that enhance usability and performance. Please share relevant examples of similar website revamp projects you have completed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 63,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nRevamping an existing WordPress site while improving both UX and performance is right in my wheelhouse. I specialize in taking current WordPress setups, cleaning up the structure, refining layouts for a better user experience, and optimizing speed so the site runs fast and smoothly. \n\nFor instance, I recently revamped and optimized WordPress platforms like [https://www.seeintl.org/](https://www.seeintl.org/), focusing on modernizing the layout while ensuring peak performance and usability. Whether it's updating page templates, streamlining navigation, or handling technical cleanup under the hood, I'll ensure your site is both visually engaging and highly functional.\n\nCould you share the current URL and any specific pain points you want fixed first? \n\nBest,\nWordPress Developer",
+    "publishedDateTime": "2026-10-03T03:44:06+0000",
+    "addedAt": "2026-10-03T03:44:54.280Z",
+    "url": "https://www.upwork.com/jobs/~022106228645208959555",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106228645208959555/apply/"
+  },
+  {
     "id": "2106212286790533568",
     "ciphertext": "~022106212286790533568",
     "title": "Senior WordPress Developer – Complex Build, Clean Development & High-Quality UX",
