@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106364411801112397",
+    "ciphertext": "~022106364411801112397",
+    "title": "Website Developer for E-commerce",
+    "description": "We need a developer to build and improve an e-commerce website for a small business. The work includes creating a clean, user-friendly design, setting up product pages, improving site performance, and ensuring the site is easy to manage. You should be comfortable working with an existing project and helping make it more efficient and reliable. This is a part-time role with room for ongoing support as the site grows.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.68,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "web-design",
+      "html",
+      "web-programming"
+    ],
+    "score": 94,
+    "coverLetter": "Hi! \n\nI would love to help you build, improve, and optimize your e-commerce website so it is fast, user-friendly, and easy for your team to manage. \n\nWith extensive experience in WordPress and WooCommerce—as well as other platforms like Shopify—I specialize in taking existing e-commerce projects, fixing performance bottlenecks, setting up seamless product pages, and making the codebase clean and reliable. You can see an example of my recent work with robust site architecture here: https://waapple.org/.\n\nSince you are looking for part-time support with room for growth, I am fully equipped to provide both the immediate buildout and long-term maintenance as your business scales. \n\nCould you share a bit more about the current platform you are using and your main goals for the site's performance? Let's chat!",
+    "publishedDateTime": "2026-10-03T12:43:10+0000",
+    "addedAt": "2026-10-03T12:44:59.360Z",
+    "url": "https://www.upwork.com/jobs/~022106364411801112397",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106364411801112397/apply/"
+  },
+  {
     "id": "2106247418406261971",
     "ciphertext": "~022106247418406261971",
     "title": "Wordpress website work - Urgent",

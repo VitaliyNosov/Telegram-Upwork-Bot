@@ -1,10 +1,10 @@
 {
   "date": "2026-10-03",
   "lastDigestSentDate": "2026-10-02",
-  "totalScanned": 25,
-  "matchedFilters": 6,
+  "totalScanned": 26,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 96,
       "url": "https://www.upwork.com/jobs/~022106247418406261971",
       "addedAt": "2026-10-03T05:01:07.844Z"
+    },
+    {
+      "title": "Website Developer for E-commerce",
+      "budget": "Fixed-price",
+      "score": 94,
+      "url": "https://www.upwork.com/jobs/~022106364411801112397",
+      "addedAt": "2026-10-03T12:44:58.121Z"
     },
     {
       "title": "Dedicated Website Developer Needed for Ongoing Dynamic Exciting Project",
