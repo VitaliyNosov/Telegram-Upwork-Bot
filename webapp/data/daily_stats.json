@@ -1,10 +1,10 @@
 {
   "date": "2026-10-03",
   "lastDigestSentDate": "2026-10-02",
-  "totalScanned": 12,
-  "matchedFilters": 4,
+  "totalScanned": 13,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022106228645208959555",
       "addedAt": "2026-10-03T03:44:53.145Z"
+    },
+    {
+      "title": "Website Update – Add New Practitioner Profile",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022106233331966706112",
+      "addedAt": "2026-10-03T04:04:50.182Z"
     },
     {
       "title": "Dedicated Website Developer Needed for Ongoing Dynamic Exciting Project",
