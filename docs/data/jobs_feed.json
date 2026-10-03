@@ -1,5 +1,38 @@
 [
   {
+    "id": "2106172395071678496",
+    "ciphertext": "~022106172395071678496",
+    "title": "Ongoing WordPress Developer + Front-End Designer for Membership Website",
+    "description": "We're a growing US-based membership rewards and deals website built on WordPress. We're looking for a top-tier, reliable developer we can work with long term on new features, updates and fixes as the site grows.\n\nWhat you'll do\n- Build new pages, sections and features, and modify existing ones\n- Custom code in PHP, HTML, CSS and JavaScript (themes, child themes, plugins, forms, custom post types)\n- Handle front-end design and basic graphics so every change looks clean, on-brand and consistent, on desktop and mobile\n- Fix bugs, plugin conflicts and layout issues\n- Keep WordPress, themes and plugins updated safely, always with a backup or staging copy first\n- Improve page speed and basic on-page SEO\n- Work with membership, checkout and form plugins\n\nWhat we need\n- 5+ years minimum of hands-on WordPress development (top talent only)\n- A good eye for design: the site has to look great after your changes, not just work\n- Experience with membership sites, WooCommerce and form plugins\n- Careful on a live site: staging, backups, rollback\n- Clear communication, honest time estimates before you start, and on-time delivery\n- Quick replies with some overlap with US Central business hours\n\nHow it works\nRemote. We strongly prefer developers based in the USA or Europe. We start with a small paid test task, then ongoing work. Every task is quoted up front as a fixed price before you start, and paid per task. Company name and site details are shared after hire and a signed NDA.\n\nTo apply, put BLUEBIRD in the first line, then send:\n1. Your typical pricing for tasks like a small fix, a new page, and a plugin customization\n2. 2–3 WordPress sites you built or maintain, and what you did on each\n3. Your experience with membership plugins, WooCommerce and page builders\n4. How you safely make changes to a live site\n5. Your weekly availability and time zone",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "woocommerce",
+      "wordpress",
+      "css",
+      "html",
+      "html5-boilerplate",
+      "web-design",
+      "javascript"
+    ],
+    "score": 200,
+    "coverLetter": "BLUEBIRD. Hi! I am a senior WordPress developer with over 8 years of experience building and maintaining complex membership and WooCommerce environments. I specialize in clean, custom PHP/CSS development that ensures your site remains fast, responsive, and on-brand.\n\n1. Pricing: I typically charge $150–$250 for small fixes, $350–$600 for new landing pages, and quote plugin customizations based on scope after a quick review.\n2. Portfolio: I’ve handled extensive development for sites like https://www.daysforgirls.org/, managing their custom post types and donation workflows.\n3. Tech: I have deep experience with Membership systems, WooCommerce payment gateways, and Gutenberg/ACF block development.\n4. Workflow: I always work within a staging environment, testing all changes before pushing to production with a full backup.\n5. Availability: I am based in Europe and have a 4-hour overlap with US Central time.\n\nAre you available for a quick chat to discuss the test task?",
+    "publishedDateTime": "2026-10-03T00:00:14+0000",
+    "addedAt": "2026-10-03T00:01:23.519Z",
+    "url": "https://www.upwork.com/jobs/~022106172395071678496",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106172395071678496/apply/"
+  },
+  {
     "id": "2106139223327156803",
     "ciphertext": "~022106139223327156803",
     "title": "Dedicated Website Developer Needed for Ongoing Dynamic Exciting Project",
