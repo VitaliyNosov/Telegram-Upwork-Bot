@@ -1,10 +1,10 @@
 {
   "date": "2026-10-03",
   "lastDigestSentDate": "2026-10-02",
-  "totalScanned": 30,
-  "matchedFilters": 7,
+  "totalScanned": 31,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022106172395071678496",
       "addedAt": "2026-10-03T00:01:09.927Z"
+    },
+    {
+      "title": "Shopify developer to (build or enhance) eCommerce store",
+      "budget": "Fixed-price",
+      "score": 195,
+      "url": "https://www.upwork.com/jobs/~022106377060908219387",
+      "addedAt": "2026-10-03T13:36:52.122Z"
     },
     {
       "title": "WordPress Website Revamp",

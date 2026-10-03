@@ -1,5 +1,32 @@
 [
   {
+    "id": "2106377060908219387",
+    "ciphertext": "~022106377060908219387",
+    "title": "Shopify developer to (build or enhance) eCommerce store",
+    "description": "Title: WordPress website build (block editor) + optional WooCommerce shop – white-label for agency\n\nI run a small agency in Melbourne and need a reliable WordPress developer to build a website for one of my clients. This is white-label work: you work with me only, not the client. I handle all client contact, content and approvals.\n\nTHE CLIENT\nA truck curtain and signage manufacturer. They want a modern, professional site that their in-house design team can edit after launch.\n\nWHAT NEEDS BUILDING\n- WordPress, built from scratch, using the block editor (Gutenberg, Kadence or similar – no heavy page builders please)\n- Up to 15 pages: Home, About, 5 service pages, Projects/Gallery, Brands & Customers (logo grid), Resources (downloadable PDFs), Contact, Shop/Spare Parts page, Privacy and Terms\n- Enquiry/contact forms\n- Fully responsive (mobile and desktop)\n- Basic SEO setup: titles, meta descriptions, XML sitemap, 301 redirects from old URLs\n- Google Analytics 4 and Search Console setup\n- Fast, secure, easy for non-developers to edit\n- Short how-to videos (Loom is fine) so the client's team can manage it\n\nAll content, logos, photos and PDFs will be supplied. Two rounds of design revisions.\n\nSHOP – PLEASE QUOTE BOTH OPTIONS SEPARATELY\nOption A: Link to their existing BigCommerce shop from the new site (menu links and buttons)\nOption B: New WooCommerce shop inside the site – up to 100 products from a spreadsheet, categories, variations, Stripe and PayPal, shipping zones, GST, order emails\n\nPAYMENT\nFixed price, two milestones: 50% at start, 50% on completion and my sign-off.\n\nIN YOUR PROPOSAL PLEASE INCLUDE\n1. Fixed price for the website only\n2. Price for Option A\n3. Price for Option B\n4. Timeline for each\n5. Theme and plugins you'd use, and any paid licences needed\n6. Links to 2–3 WordPress sites you've built (ideally one with WooCommerce)\n7. Confirm you're happy to work white-label with no client contact\n\nPlease start your proposal with the word \"CURTAIN\" so I know you've read this.proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.76,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "e-commerce-website",
+      "shopify"
+    ],
+    "score": 195,
+    "coverLetter": "CURTAIN – Hi! I'm fully comfortable working strictly white-label behind the scenes with zero client contact. \n\nI specialize in building lightweight, high-performance WordPress sites using the native block editor (Gutenberg) with ACF, ensuring your client's in-house team can easily manage and edit content post-launch without heavy page builders slowing things down. For example, I built a clean, accessible block-based site here: https://www.thelifeyoucansave.org/.\n\nTo help you quote accurately, let's connect in chat so I can share my fixed pricing and timelines for the 15-page build, Option A (BigCommerce linking), and Option B (full WooCommerce setup with Stripe/PayPal and CSV import for up to 100 products). I use native core blocks, ACF Pro, and Kadence/GeneratePress with no unnecessary bloat.\n\nReady to get started—what is your preferred timeline for the first milestone?",
+    "publishedDateTime": "2026-10-03T13:34:52+0000",
+    "addedAt": "2026-10-03T13:36:53.766Z",
+    "url": "https://www.upwork.com/jobs/~022106377060908219387",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106377060908219387/apply/"
+  },
+  {
     "id": "2106364411801112397",
     "ciphertext": "~022106364411801112397",
     "title": "Website Developer for E-commerce",
