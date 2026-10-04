@@ -1,68 +1,8 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 36,
-  "matchedFilters": 8,
-  "byKeyword": {
-    "wordpress developer": 7,
-    "woocommerce": 1
-  },
-  "topJobs": [
-    {
-      "title": "Website re design",
-      "budget": "$18-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022106803201083385888",
-      "addedAt": "2026-10-04T17:48:50.781Z"
-    },
-    {
-      "title": "E-commerce Product Research, Sourcing & WooCommerce Launch Manager",
-      "budget": "Fixed-price",
-      "score": 148,
-      "url": "https://www.upwork.com/jobs/~022106681878817821907",
-      "addedAt": "2026-10-04T09:46:47.717Z"
-    },
-    {
-      "title": "Simple Website for Vehicle Logistics Company",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022106849006695431163",
-      "addedAt": "2026-10-04T20:52:49.019Z"
-    },
-    {
-      "title": "Web Developer — Gated B2B Member Portal & Website",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022106738481098600843",
-      "addedAt": "2026-10-04T13:32:01.632Z"
-    },
-    {
-      "title": "WordPress Website Development",
-      "budget": "Fixed-price",
-      "score": 97,
-      "url": "https://www.upwork.com/jobs/~022106752133736977619",
-      "addedAt": "2026-10-04T14:24:52.584Z"
-    },
-    {
-      "title": "Wordpress website work - Urgent",
-      "budget": "Fixed-price",
-      "score": 96,
-      "url": "https://www.upwork.com/jobs/~022106521972428902221",
-      "addedAt": "2026-10-03T23:10:59.328Z"
-    },
-    {
-      "title": "Website Designer & Developer – SEO Mini Sites",
-      "budget": "Fixed-price",
-      "score": 91,
-      "url": "https://www.upwork.com/jobs/~022106844732326362107",
-      "addedAt": "2026-10-04T20:34:54.708Z"
-    },
-    {
-      "title": "WordPress Designer for Landscaping Website",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022106528529490061344",
-      "addedAt": "2026-10-03T23:36:53.305Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
