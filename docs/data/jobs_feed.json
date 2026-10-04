@@ -1,5 +1,37 @@
 [
   {
+    "id": "2106738481098600843",
+    "ciphertext": "~022106738481098600843",
+    "title": "Web Developer — Gated B2B Member Portal & Website",
+    "description": "Fenesstra is a new luxury window/door dealer-representative business serving architects, designers, and high-end builders. Target go-live: January 1, 2027.\n\nBrand identity (wordmark, color, typography, usage guidelines) is in separate development — final assets land mid-to-late November 2026.\n\nWe need a developer with direct, specific experience building gated B2B content portals — member login, tiered access, document/spec libraries, CRM integration. This is not a generalist marketing-site build. If you haven't built a login-gated, tiered-access site before, please don't apply.\n\nIt's possible we'll want to discuss ongoing hosting and monthly maintenance with the right hire once the initial build is complete — not a requirement to quote now, just worth knowing upfront in case that's something you offer.\n\nAll user-facing copy (site content, verification/confirmation messaging, emails) will be supplied or reviewed by us — you're building the system, not writing the words.\n\nScope — three layers:\n\nPublic marketing site — home, about/positioning, manufacturer partners we represent, contact/inquiry. Mobile-responsive, fast-loading, restrained — our audience is architects and specifiers, not consumers.\n\"Foyer\" (gated trade portal) — self-serve signup/login for verified trade professionals. Behind the gate: CAD/BIM blocks, install details, and spec sheets aggregated across our manufacturer line. Needs a verification mechanism (license lookup, email-domain check, manual approval — open to your recommendation) and a light CRM to track registrants.\n\"few\" (upper loyalty tier) — invitation-only, onboarded manually/offline. For this build, likely just needs a locked/placeholder presence rather than a public signup flow — flag in your proposal if you'd scope it differently.\n\nSite architecture, the Foyer content/data structure, and the verification/CRM build don't depend on the brand identity and can start now. Only the final visual styling pass needs the brand assets in hand.\n\nIn your proposal, tell us:\n\nWorking backward from Jan 1, when would you need to begin, and what can start now vs. what waits on brand assets?\nRecommended platform — fully custom build, Webflow, WordPress, or other — and why, given the gated/tiered access requirements\nFixed-price build quote, broken out by phase if pricing varies\nYour specific experience with gated/tiered member portals — names and links required, not just \"we can do this\"\nRecommended approach to trade verification and the CRM piece\nAre you personally doing this work, or does it go to a team?\nRevision structure for the initial build",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 53,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "api-development",
+      "wordpress",
+      "cms",
+      "user-authentication",
+      "webflow",
+      "web-hosting"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! Working backward from the January 1, 2027 go-live, we can start immediately on site architecture, the Foyer data structure, verification logic, and CRM integration, leaving only the final visual styling pass for when brand assets land in November. \n\nFor a gated B2B portal with tiered access, document libraries (CAD/BIM), and verification workflows, WordPress with Advanced Custom Fields and robust membership/subscription architecture is the ideal platform. It gives us full data ownership, secure user authentication, and seamless CRM integration without the architectural limits of other builders. \n\nI personally handle all development—no agency handoffs. I have built secure membership and tiered access systems (similar to my work on https://www.cchpca.org/). For trade verification, I recommend a hybrid approach: automated domain checks paired with a lightweight admin manual-approval queue connected to your CRM. \n\nAre you available for a quick chat this week to finalize the scope and timeline?",
+    "publishedDateTime": "2026-10-04T13:29:46+0000",
+    "addedAt": "2026-10-04T13:32:03.020Z",
+    "url": "https://www.upwork.com/jobs/~022106738481098600843",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106738481098600843/apply/"
+  },
+  {
     "id": "2106681878817821907",
     "ciphertext": "~022106681878817821907",
     "title": "E-commerce Product Research, Sourcing & WooCommerce Launch Manager",
