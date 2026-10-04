@@ -1,10 +1,10 @@
 {
   "date": "2026-10-04",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 34,
-  "matchedFilters": 7,
+  "totalScanned": 35,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022106681878817821907",
       "addedAt": "2026-10-04T09:46:47.717Z"
+    },
+    {
+      "title": "Simple Website for Vehicle Logistics Company",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022106849006695431163",
+      "addedAt": "2026-10-04T20:52:49.019Z"
     },
     {
       "title": "Web Developer — Gated B2B Member Portal & Website",

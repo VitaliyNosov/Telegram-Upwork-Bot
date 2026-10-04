@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106849006695431163",
+    "ciphertext": "~022106849006695431163",
+    "title": "Simple Website for Vehicle Logistics Company",
+    "description": "We need a developer to build a simple, professional website for GL702.com. The site should be clean, easy to navigate, and designed for a polished online presence. \n\nThe new site should generally copy the look, colors, images, and layout style of our current website: www.guardianbklogistics.com\n\nWe will provide the exact text for the new site. Please do not add references to bankruptcy, debt relief, legal services, creditors, or repossession.\n\nGL702 should be presented simply as a vehicle logistics company providing pickup coordination, transportation, temporary storage, delivery, scheduling, and vehicle status updates.\n\nThe site will have approximately 5–6 pages: Home, Services, How It Works, Partners, Contact, and Messaging Policy\n\nWe will also provide Privacy Policy and Terms & Conditions language.\n\nVery important: the website must be suitable for TCR / A2P 10DLC SMS registration.\n\nThe Contact page should include a basic form plus a separate optional, unchecked SMS consent checkbox using the language we provide. The site should clearly include STOP/HELP instructions, message/data rate language, and the statement that SMS consent is not required to purchase services.\n\nThe site should be: mobile responsive, clean and professional, fast loading, easy to maintain, and similar in appearance to our current site.\n\nWe will provide all page text, PDFs, domain information, and available images.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "html5",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can build a clean, professional, 5–6 page WordPress site for GL702.com that mirrors the look, colors, and layout of guardianbklogistics.com while strictly adhering to your content and logistics focus.\n\nAs a WordPress developer, I routinely build responsive, fast-loading sites with custom contact forms and compliance elements. I can properly implement the required TCR / A2P 10DLC SMS registration features, including the optional unchecked consent checkbox, STOP/HELP instructions, and required messaging disclosures. \n\nYou can review a sample of my clean WordPress development work here: https://www.thelifeyoucansave.org/\n\nDo you already have the specific SMS consent language and legal text ready to go, or would you like to share the domain and hosting details to get started?",
+    "publishedDateTime": "2026-10-04T20:51:21+0000",
+    "addedAt": "2026-10-04T20:52:50.035Z",
+    "url": "https://www.upwork.com/jobs/~022106849006695431163",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106849006695431163/apply/"
+  },
+  {
     "id": "2106844732326362107",
     "ciphertext": "~022106844732326362107",
     "title": "Website Designer & Developer – SEO Mini Sites",
