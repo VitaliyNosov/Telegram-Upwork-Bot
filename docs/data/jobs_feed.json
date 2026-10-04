@@ -1,5 +1,38 @@
 [
   {
+    "id": "2106803201083385888",
+    "ciphertext": "~022106803201083385888",
+    "title": "Website re design",
+    "description": "Need a web designer to re vamp existing website into fresh look up and optimised landing page, proof read edit content where required. Grammatically accurate content is required. Redesign icons and refine pages, Optimise contact page. \n\nwww.elecwatts.com (existing website",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$18 - $40/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "icon-design",
+      "high-fidelity-design",
+      "canva",
+      "graphic-design",
+      "web-design",
+      "visual-design",
+      "web-programming",
+      "wordpress"
+    ],
+    "score": 4100,
+    "coverLetter": "Hi!\n\nI can help you give elecwatts.com a fresh, high-converting redesign while refining the layout, optimizing the contact page, and ensuring all copy is grammatically polished and proofread. \n\nBeyond visual web design, my core expertise is in WordPress development and optimization. This means the new design won't just look modern and clean, but it will also load fast and function seamlessly. I frequently work with custom WordPress builds, ensuring high-fidelity layouts translate perfectly into a fast, user-friendly site. For a look at my recent work with clean layouts and optimized user journeys, you can check out https://www.thelifeyoucansave.org/.\n\nAre you looking to keep the current WordPress backend structure, or would you like to migrate/rebuild it from scratch for this revamp? Let’s chat about your vision.",
+    "publishedDateTime": "2026-10-04T17:46:51+0000",
+    "addedAt": "2026-10-04T17:48:52.205Z",
+    "url": "https://www.upwork.com/jobs/~022106803201083385888",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106803201083385888/apply/"
+  },
+  {
     "id": "2106752133736977619",
     "ciphertext": "~022106752133736977619",
     "title": "WordPress Website Development",
