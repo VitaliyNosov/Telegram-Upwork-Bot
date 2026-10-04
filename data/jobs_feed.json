@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106883617017844947",
+    "ciphertext": "~022106883617017844947",
+    "title": "Website Speed Optimization — Mobile & Desktop",
+    "description": "I’m looking for an experienced developer to improve my website’s loading speed and performance on both mobile and desktop.\n\nThe website must look exactly the same after optimization, with all existing features and functionality working properly.\n\nRequirements:\n\n• Identify and fix issues slowing down the website.\n• Preserve the current design, layout, images, and functionality.\n• Back up the website before making changes.\n• Test thoroughly after optimization.\n\nUpon completion, provide a comprehensive before-and-after report covering mobile and desktop performance scores, loading times, Core Web Vitals, screenshots, and a summary of all changes made.\n\nPlease include relevant experience, your estimated turnaround time, and price.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 95,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "page-speed-optimization",
+      "wordpress",
+      "javascript",
+      "css"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nI can help you significantly improve your website's mobile and desktop loading speeds and Core Web Vitals while ensuring the design, layout, and functionality remain completely untouched. \n\nAs a WordPress performance specialist, I routinely handle deep speed optimizations—from database and asset cleanup to advanced caching configuration and image handling. For example, I recently optimized sites like https://www.thelifeyoucansave.org/ for peak performance without altering their visual presentation. \n\nMy process always begins with a full site backup, followed by targeted performance fixes, and concludes with thorough testing and a comprehensive before-and-after report detailing your new scores, load times, and a summary of all changes made. \n\nI can complete this within [X days] for a fixed price of [$X]. Could you share your current site URL so I can take a quick look at the bottlenecks before we start?",
+    "publishedDateTime": "2026-10-04T23:06:18+0000",
+    "addedAt": "2026-10-04T23:08:50.433Z",
+    "url": "https://www.upwork.com/jobs/~022106883617017844947",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106883617017844947/apply/"
+  },
+  {
     "id": "2106849006695431163",
     "ciphertext": "~022106849006695431163",
     "title": "Simple Website for Vehicle Logistics Company",
