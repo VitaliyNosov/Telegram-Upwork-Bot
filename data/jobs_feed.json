@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106752133736977619",
+    "ciphertext": "~022106752133736977619",
+    "title": "WordPress Website Development",
+    "description": "We need a freelancer to build a custom WordPress website for our business. The project includes setting up the site structure, installing and customizing themes, creating pages, and adding core functionality. You should be able to work independently, communicate clearly, and deliver a polished website that meets our requirements. Experience with WordPress development and related web technologies is important for this role.the site will have 10 or less pages, I will need to be able to make changes easily myself, the site needs to be mobile optimized and seo optimized. You also will need to copy several pictures from my facebook page for 1 of the pages",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 132,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! \n\nI can help you build a clean, custom WordPress website tailored to your business, complete with all core functionality, 10 easy-to-manage pages, and the Facebook picture integration you need. \n\nWith extensive experience in WordPress development, I focus on building sites that are fully mobile-responsive, SEO-optimized, and structured so you can easily update content yourself moving forward. Whether it's setting up intuitive page builders, configuring custom post types, or ensuring fast load times, I deliver polished results independently and efficiently. \n\nYou can review a recent custom WordPress build of mine here: https://www.seeintl.org/\n\nDo you already have a preferred theme or design layout in mind, or would you like recommendations to get started?",
+    "publishedDateTime": "2026-10-04T14:23:59+0000",
+    "addedAt": "2026-10-04T14:24:53.858Z",
+    "url": "https://www.upwork.com/jobs/~022106752133736977619",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106752133736977619/apply/"
+  },
+  {
     "id": "2106738481098600843",
     "ciphertext": "~022106738481098600843",
     "title": "Web Developer — Gated B2B Member Portal & Website",

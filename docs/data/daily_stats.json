@@ -1,10 +1,10 @@
 {
   "date": "2026-10-04",
   "lastDigestSentDate": "2026-10-03",
-  "totalScanned": 20,
-  "matchedFilters": 4,
+  "totalScanned": 21,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 3,
+    "wordpress developer": 4,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022106738481098600843",
       "addedAt": "2026-10-04T13:32:01.632Z"
+    },
+    {
+      "title": "WordPress Website Development",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022106752133736977619",
+      "addedAt": "2026-10-04T14:24:52.584Z"
     },
     {
       "title": "Wordpress website work - Urgent",
