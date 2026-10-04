@@ -1,12 +1,20 @@
 {
   "date": "2026-10-04",
   "lastDigestSentDate": "2026-10-03",
-  "totalScanned": 9,
-  "matchedFilters": 2,
+  "totalScanned": 10,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 2,
+    "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "E-commerce Product Research, Sourcing & WooCommerce Launch Manager",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022106681878817821907",
+      "addedAt": "2026-10-04T09:46:47.717Z"
+    },
     {
       "title": "Wordpress website work - Urgent",
       "budget": "Fixed-price",
