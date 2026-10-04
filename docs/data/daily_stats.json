@@ -1,10 +1,10 @@
 {
   "date": "2026-10-04",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 33,
-  "matchedFilters": 6,
+  "totalScanned": 34,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 96,
       "url": "https://www.upwork.com/jobs/~022106521972428902221",
       "addedAt": "2026-10-03T23:10:59.328Z"
+    },
+    {
+      "title": "Website Designer & Developer – SEO Mini Sites",
+      "budget": "Fixed-price",
+      "score": 91,
+      "url": "https://www.upwork.com/jobs/~022106844732326362107",
+      "addedAt": "2026-10-04T20:34:54.708Z"
     },
     {
       "title": "WordPress Designer for Landscaping Website",
