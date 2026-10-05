@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 22,
-  "matchedFilters": 6,
+  "totalScanned": 23,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022106913092829653024",
       "addedAt": "2026-10-05T01:04:49.309Z"
+    },
+    {
+      "title": "Build a Custom Mega Menu in Elementor Pro (No Paid Plugins)",
+      "budget": "$20-$30/hr",
+      "score": 3098,
+      "url": "https://www.upwork.com/jobs/~022106976714561032013",
+      "addedAt": "2026-10-05T05:16:50.909Z"
     },
     {
       "title": "Website Speed Optimization — Mobile & Desktop",
