@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 46,
-  "matchedFilters": 11,
+  "totalScanned": 48,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022107081922151136251",
       "addedAt": "2026-10-05T12:17:05.775Z"
+    },
+    {
+      "title": "WordPress Developer for Website Redesign",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022107113469265785227",
+      "addedAt": "2026-10-05T14:21:41.174Z"
     },
     {
       "title": "Website Speed Optimization — Mobile & Desktop",
