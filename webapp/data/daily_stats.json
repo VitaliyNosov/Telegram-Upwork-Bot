@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 57,
-  "matchedFilters": 15,
+  "totalScanned": 59,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 4100,
       "url": "https://www.upwork.com/jobs/~022107132534632353613",
       "addedAt": "2026-10-05T15:38:56.415Z"
+    },
+    {
+      "title": "Fix Google APIs on WordPress Site",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022107135493458883837",
+      "addedAt": "2026-10-05T15:48:55.458Z"
     },
     {
       "title": "WordPress Developer for Ongoing SEO Implementation (Ad Hoc, Growing into Regular Work)",

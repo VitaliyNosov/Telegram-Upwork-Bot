@@ -1,5 +1,35 @@
 [
   {
+    "id": "2107135493458883837",
+    "ciphertext": "~022107135493458883837",
+    "title": "Fix Google APIs on WordPress Site",
+    "description": "I need help troubleshooting and restoring Google APIs on a WordPress website that uses WP Store Locator. The current setup is not working properly, and I need someone to identify the issue, fix the integration, and ensure the store locator functions correctly again. Experience with WordPress, plugins, and API troubleshooting is important. Please share relevant examples of similar work and your approach to diagnosing and resolving the problem.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "javascript",
+      "php",
+      "html5",
+      "api-integration"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! I can help you quickly diagnose and restore your Google APIs and WP Store Locator integration. \n\nAPI breaks on WordPress usually stem from restricted API keys, billing or console permission changes, JavaScript console errors, or plugin conflicts. My approach is direct: I will inspect the console errors, verify your Google Cloud Console credentials (Maps JavaScript API, Places API, Geocoding API), check the WP Store Locator settings, and ensure the script is loading cleanly without conflicts. \n\nWith extensive experience debugging WordPress PHP, JavaScript, and third-party API integrations, I'll have your store locator working smoothly in no time. You can review my WordPress development work on complex builds like https://www.snopud.com/. \n\nWhen did the map stop working, and do you have admin/Google Console access ready? Let's get this fixed.",
+    "publishedDateTime": "2026-10-05T15:47:10+0000",
+    "addedAt": "2026-10-05T15:48:57.164Z",
+    "url": "https://www.upwork.com/jobs/~022107135493458883837",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107135493458883837/apply/"
+  },
+  {
     "id": "2107132534632353613",
     "ciphertext": "~022107132534632353613",
     "title": "Ongoing WordPress Maintenance for Nonprofit",
