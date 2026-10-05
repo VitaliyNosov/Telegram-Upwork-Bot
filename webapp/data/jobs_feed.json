@@ -1,5 +1,31 @@
 [
   {
+    "id": "2107045657535599827",
+    "ciphertext": "~022107045657535599827",
+    "title": "Configure Brevo  on a wordpress site  with 3 membership type.",
+    "description": "Install brevo on a wordpress site with 3 different packages.\n\nsubscribe users  go to brevo\n\nFull details provided, i need someone who is available to start now",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.83,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2277,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I am available to start right now and can help you set up Brevo on your WordPress site seamlessly. \n\nI regularly integrate CRM and email marketing platforms—including Brevo—with WordPress websites and membership systems. I can efficiently connect your 3 membership tiers so that when users subscribe, their data and package details are automatically synced to the correct lists or segments in Brevo. \n\nIf you are using a specific membership plugin (like Paid Memberships Pro, MemberPress, or WooCommerce Subscriptions), let me know and I'll make sure the webhook or automation triggers are configured cleanly. \n\nAre you currently using a specific membership plugin on the site?",
+    "publishedDateTime": "2026-10-05T09:52:37+0000",
+    "addedAt": "2026-10-05T09:54:56.107Z",
+    "url": "https://www.upwork.com/jobs/~022107045657535599827",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107045657535599827/apply/"
+  },
+  {
     "id": "2106976714561032013",
     "ciphertext": "~022106976714561032013",
     "title": "Build a Custom Mega Menu in Elementor Pro (No Paid Plugins)",

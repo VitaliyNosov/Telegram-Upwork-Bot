@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 29,
-  "matchedFilters": 7,
+  "totalScanned": 31,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022106938739597767933",
       "addedAt": "2026-10-05T02:50:52.128Z"
+    },
+    {
+      "title": "Configure Brevo  on a wordpress site  with 3 membership type.",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022107045657535599827",
+      "addedAt": "2026-10-05T09:54:54.989Z"
     },
     {
       "title": "Web Designer/Developer for Landscaping Website",
