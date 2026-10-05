@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 88,
-  "matchedFilters": 18,
+  "totalScanned": 92,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 18
+    "wordpress developer": 19
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022106913092829653024",
       "addedAt": "2026-10-05T01:04:49.309Z"
+    },
+    {
+      "title": "WordPress Front Page UX Enhancement",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022107211164081903365",
+      "addedAt": "2026-10-05T20:54:06.833Z"
     },
     {
       "title": "Build a Custom Mega Menu in Elementor Pro (No Paid Plugins)",

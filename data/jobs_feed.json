@@ -1,5 +1,33 @@
 [
   {
+    "id": "2107211164081903365",
+    "ciphertext": "~022107211164081903365",
+    "title": "WordPress Front Page UX Enhancement",
+    "description": "I need help improving the user experience of my WordPress front page. The site is already built with Elementor, and I want a cleaner, more intuitive layout that makes it easier for visitors to navigate and understand the content using both a browser and mobile device The work should focus on refining the homepage structure, improving visual hierarchy, and making the overall experience more user-friendly. I’m looking for someone who can assess the current page, suggest practical improvements, and implement changes that enhance usability without requiring a complete redesign.  The header at the top I am hoping that it will be like a carousel and flip through things that are happening.  The other events down the page do not fall in the right place on mobile",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "elementor"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! I can help you refine your Elementor homepage to improve navigation, visual hierarchy, and mobile responsiveness without starting from scratch. \n\nSince your site is already built with Elementor, I can quickly step in to restructure the layout, fix those mobile alignment issues for your events section, and build a smooth, engaging event carousel for the header. I specialize in Elementor bug fixes, layout repairs, and front-end UX enhancements that look polished across both desktop and mobile devices. \n\nYou can see an example of my clean, responsive WordPress development work here: https://www.thelifeyoucansave.org/\n\nCould you share your current website URL so I can take a quick look at the homepage and mobile layout?",
+    "publishedDateTime": "2026-10-05T20:47:49+0000",
+    "addedAt": "2026-10-05T20:54:07.931Z",
+    "url": "https://www.upwork.com/jobs/~022107211164081903365",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107211164081903365/apply/"
+  },
+  {
     "id": "2107205290997219776",
     "ciphertext": "~022107205290997219776",
     "title": "WordPress Website Specialist for Marketing Backup Co.",
