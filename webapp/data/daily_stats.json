@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 17,
-  "matchedFilters": 4,
+  "totalScanned": 18,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022106923805027543072",
       "addedAt": "2026-10-05T01:48:49.932Z"
+    },
+    {
+      "title": "Design & install Customer & Vendor Dashboards & checkout pages for multi-vendor e-commerce platform.",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022106938739597767933",
+      "addedAt": "2026-10-05T02:50:52.128Z"
     }
   ]
 }

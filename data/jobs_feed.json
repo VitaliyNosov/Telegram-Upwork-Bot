@@ -1,5 +1,36 @@
 [
   {
+    "id": "2106938739597767933",
+    "ciphertext": "~022106938739597767933",
+    "title": "Design & install Customer & Vendor Dashboards & checkout pages for multi-vendor e-commerce platform.",
+    "description": "Create/design/redesign and install a vendor dashboard, customer dashboards, and the check out page for a multi-vendor Dokan e-commerce platform. The expectation is that the project would be completed with 4 to 6 week. Ready to start as soon as a selection is made",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 22,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress",
+      "design-enhancement",
+      "responsive-design",
+      "ecommerce-consulting",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you design, build, and optimize the customer dashboards, vendor dashboards, and checkout pages for your multi-vendor Dokan e-commerce platform. \n\nWith extensive experience in WordPress, WooCommerce store setup, and custom checkout optimization, I specialize in creating seamless, responsive user experiences for both buyers and sellers. I focus on clean code and intuitive UI/UX to ensure your multi-vendor workflows run smoothly from registration to final checkout.\n\nYou can view some of my recent e-commerce and WordPress work here: https://www.thelifeyoucansave.org/\n\nAre you looking to use a specific theme or design system for the Dokan dashboards, or starting fresh from Figma wireframes? Let's chat about your timeline to hit that 4-to-6-week goal.",
+    "publishedDateTime": "2026-10-05T02:49:13+0000",
+    "addedAt": "2026-10-05T02:50:53.408Z",
+    "url": "https://www.upwork.com/jobs/~022106938739597767933",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106938739597767933/apply/"
+  },
+  {
     "id": "2106923805027543072",
     "ciphertext": "~022106923805027543072",
     "title": "Design Project for Directory site: Elementor Pro V4, GeoDirectory, BuddyBuilder, Visual Layer Build",
