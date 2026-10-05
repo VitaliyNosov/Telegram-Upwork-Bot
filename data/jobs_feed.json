@@ -1,5 +1,33 @@
 [
   {
+    "id": "2107076567131623245",
+    "ciphertext": "~022107076567131623245",
+    "title": "WordPress Developer for Ongoing SEO Implementation (Ad Hoc, Growing into Regular Work)",
+    "description": "I run an SEO consultancy with a small number of established clients. I handle strategy, research and page specs. I need someone to handle the build side when a client has no developer of their own.\n\nThe work\n\n→ Building and editing landing pages and service pages from a written spec\n→ Theme and template edits, usually small and surgical rather than redesigns\n→ Implementing on-page changes: headings, schema, internal linking blocks, navigation\n→ Setting up redirects cleanly without breaking existing rankings\n→ Occasional Core Web Vitals and page speed fixes\n→ Working inside existing themes and page builders, sometimes alongside another agency's setup\n\nHow this starts\n\nA paid trial first: one or two small, well-defined tasks so we can see how we work together. If that goes well, expect ad hoc work most months, growing as projects come on. I would rather build one long relationship than rotate through freelancers.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$25 - $30/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 278,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! \n\nAs a WordPress developer who frequently works alongside agencies and handles surgical code edits, speed optimization, and clean technical implementations, I can take the build side of your SEO specs completely off your hands without risking your clients' rankings. \n\nI am very comfortable making precise template adjustments, implementing schema, structuring internal linking blocks, setting up clean redirects, and fixing Core Web Vitals across various themes and page builders (Elementor, Gutenberg, Divi, Bricks, etc.). My focus is always on clean code and preserving existing SEO equity. You can see examples of my recent work on high-performing sites like https://www.cchpca.org/.\n\nI’m ready for the paid trial to knock out a couple of small tasks and prove how we can work together long-term. \n\nSend over the first spec whenever you're ready!",
+    "publishedDateTime": "2026-10-05T11:53:07+0000",
+    "addedAt": "2026-10-05T11:54:54.010Z",
+    "url": "https://www.upwork.com/jobs/~022107076567131623245",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107076567131623245/apply/"
+  },
+  {
     "id": "2107045657535599827",
     "ciphertext": "~022107045657535599827",
     "title": "Configure Brevo  on a wordpress site  with 3 membership type.",

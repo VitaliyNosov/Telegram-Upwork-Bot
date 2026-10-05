@@ -1,12 +1,19 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 37,
-  "matchedFilters": 8,
+  "totalScanned": 38,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
+    {
+      "title": "WordPress Developer for Ongoing SEO Implementation (Ad Hoc, Growing into Regular Work)",
+      "budget": "$25-$30/hr",
+      "score": 3150,
+      "url": "https://www.upwork.com/jobs/~022107076567131623245",
+      "addedAt": "2026-10-05T11:54:52.591Z"
+    },
     {
       "title": "WordPress Blog Post Formatting",
       "budget": "$10-$30/hr",
