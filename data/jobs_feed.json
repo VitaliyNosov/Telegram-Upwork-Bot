@@ -1,5 +1,38 @@
 [
   {
+    "id": "2106923805027543072",
+    "ciphertext": "~022106923805027543072",
+    "title": "Design Project for Directory site: Elementor Pro V4, GeoDirectory, BuddyBuilder, Visual Layer Build",
+    "description": "We need an Elementor Pro V4 / CSS specialist to build the visual design layer for a directory + community site.  Our Stack: WordPress, Elementor Pro V4 (Atomic), GeoDirectory Pro, BuddyBoss + BuddyBuilder, MemberPress.\nWhat we need built:\n\nDesign system CSS (Variables + Global Classes in Elementor V4)\nApprox 10 static pages, including components from the systems mentioned above\n5 reusable card components (practitioner, studio, event, job, member)\n30 Elementor page templates, including components from the systems mentioned above\nCSS override files for plugin markup Elementor can’t control\nFull documentation + export package for our in-house team\nKey requirements:\n\nFluent in Elementor Pro V4 (Components, Theme Builder, Variables, Class Manager, Flexbox Containers — NOT legacy Section/Column)\nExperience with GeoDirectory CPT templates in Elementor Theme Builder\nPrior experience with BuddyBuilder\nComfortable with CSS specificity and overriding third-party plugin markup\nMust deliver documentation a non-developer can follow\nFull spec is available with complete template list, naming conventions, stylesheet architecture, constraints, acceptance criteria.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-customization",
+      "buddypress",
+      "css3",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "css",
+      "elementor"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help you build the visual design layer for your directory and community platform. I am an Elementor Pro specialist with deep experience working with modern Flexbox Containers, Global Classes, and the Class Manager, avoiding legacy sections entirely. \n\nMy background includes building complex WordPress ecosystems utilizing GeoDirectory, BuddyBoss/BuddyBuilder, and custom post types. I am entirely comfortable writing clean CSS architecture, managing specificity to override third-party plugin markup, and setting up design systems with variables in Elementor V4. \n\nYou can review some of my recent WordPress and design work here: https://www.thelifeyoucansave.org/\n\nDo you have the full template list and stylesheet architecture spec ready to share so I can review the scope?\n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-10-05T01:47:05+0000",
+    "addedAt": "2026-10-05T01:48:51.232Z",
+    "url": "https://www.upwork.com/jobs/~022106923805027543072",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106923805027543072/apply/"
+  },
+  {
     "id": "2106913092829653024",
     "ciphertext": "~022106913092829653024",
     "title": "WordPress Blog Post Formatting",
