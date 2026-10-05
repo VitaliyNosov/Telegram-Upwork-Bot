@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106945607237581819",
+    "ciphertext": "~022106945607237581819",
+    "title": "Web Designer/Developer for Landscaping Website",
+    "description": "Sterling Grounds and Landscapes LLC needs a professional web designer/developer to build a modern, mobile-friendly website that strengthens our online presence and supports lead generation. The site should clearly present our services, showcase completed projects with high-quality photos, and include an easy way for customers to request an estimate. We want a clean, polished design that works well on desktop, tablet, and mobile devices, with basic SEO structure for local search. The final site should also be easy for our team to update after launch.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.53,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "php",
+      "html5"
+    ],
+    "score": 91,
+    "coverLetter": "Hi! \n\nI can help Sterling Grounds and Landscapes build a modern, high-converting website that showcases your completed projects and turns local traffic into estimate requests. \n\nAs an experienced WordPress developer, I specialize in clean, mobile-friendly designs using tools like ACF and Gutenberg so your team can easily update content, add new project photos, and manage leads without touching any code. I’ll also ensure the site is optimized for local search out of the box. \n\nYou can check out a recent project with a clean, portfolio-focused layout here: https://www.seeintl.org/\n\nDo you already have branding and project photos ready, or will we be sourcing imagery as well? Let’s chat about your vision!",
+    "publishedDateTime": "2026-10-05T03:12:44+0000",
+    "addedAt": "2026-10-05T03:14:54.011Z",
+    "url": "https://www.upwork.com/jobs/~022106945607237581819",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106945607237581819/apply/"
+  },
+  {
     "id": "2106938739597767933",
     "ciphertext": "~022106938739597767933",
     "title": "Design & install Customer & Vendor Dashboards & checkout pages for multi-vendor e-commerce platform.",
