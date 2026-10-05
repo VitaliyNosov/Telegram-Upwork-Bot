@@ -1,5 +1,32 @@
 [
   {
+    "id": "2107124919571600595",
+    "ciphertext": "~022107124919571600595",
+    "title": "WordPress Developer – AI-Enhanced Development",
+    "description": "We are looking for a skilled *WordPress Developer* with strong core development knowledge and experience using *AI tools to improve development efficiency, debugging, testing, and delivery*.\n\nThe ideal candidate should understand WordPress beyond page builders and be capable of managing a *complete WordPress project from development to deployment*.\n\nResponsibilities\n- Develop complete WordPress websites from requirements to launch.\n- Build and customise themes, plugins, templates, and functionality.\n- Work with PHP, HTML, CSS, JavaScript, MySQL, and WordPress APIs.\n- Develop Elementor, Gutenberg, WooCommerce, and Figma-to-WordPress projects.\n- Integrate third-party APIs and services.\n- Troubleshoot plugin, theme, database, and performance issues.\n- Optimise websites for speed, security, responsiveness, and Core Web Vitals.\n- Manage staging, migrations, deployment, backups, and ongoing maintenance.\n- Use AI tools such as ChatGPT, Claude, Cursor, or GitHub Copilot to improve productivity and code quality.\n\nCore Skills\n- Strong WordPress architecture knowledge\n- PHP, MySQL, HTML, CSS, JavaScript\n- Themes and plugin development\n- Hooks, actions, filters, WP_Query\n- Custom Post Types and ACF\n- WooCommerce\n- REST APIs\n- Git/version control\n- Security and performance optimisation\n- Debugging and troubleshooting\n\nAI Requirement\n\nAI should be used to *enhance development, not replace technical knowledge*.\n\nCandidates must be able to understand, review, test, and troubleshoot any AI-generated code before using it in production.\n\nExperience\n- 3+ years of WordPress development experience preferred.\n- Proven experience completing WordPress projects end-to-end.\n- Strong problem-solving and communication skills.\n- Portfolio demonstrating professional WordPress development work.\n\nWe are looking for someone who combines *strong WordPress fundamentals with modern AI-assisted development practices* to deliver reliable, secure, and high-quality websites efficiently",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 197,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wordpress-theme"
+    ],
+    "score": 200,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-05T15:08:47+0000",
+    "addedAt": "2026-10-05T15:09:18.102Z",
+    "url": "https://www.upwork.com/jobs/~022107124919571600595",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107124919571600595/apply/"
+  },
+  {
     "id": "2107113469265785227",
     "ciphertext": "~022107113469265785227",
     "title": "WordPress Developer for Website Redesign",

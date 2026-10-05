@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 51,
-  "matchedFilters": 12,
+  "totalScanned": 52,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 3098,
       "url": "https://www.upwork.com/jobs/~022106976714561032013",
       "addedAt": "2026-10-05T05:16:50.909Z"
+    },
+    {
+      "title": "WordPress Developer – AI-Enhanced Development",
+      "budget": "Fixed-price",
+      "score": 200,
+      "url": "https://www.upwork.com/jobs/~022107124919571600595",
+      "addedAt": "2026-10-05T15:08:56.913Z"
     },
     {
       "title": "Urgent Shopify → WooCommerce Migration | 3,600 Products | 2–3 Day Deadline",
