@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107132534632353613",
+    "ciphertext": "~022107132534632353613",
+    "title": "Ongoing WordPress Maintenance for Nonprofit",
+    "description": "We're looking for a fullstack developer or dev team to take over ongoing maintenance of a WordPress website, averaging about 10 hours per month. The site operates within a SOC 2 compliant environment, so every change must follow a documented, auditable workflow in Github. This is a long-term, fully remote engagement. We need a reliable partner who knows the site well, works inside our Slack, and can turn requests around quickly.\n\nSCOPE OF WORK\nRoutine upkeep plus on-demand development requests:\n• Monthly updates: WordPress core, theme, and plugin updates, tested on staging before deploying to production, with a short update log each month.\n• Content and page builds: creating new pages and templates, and making layout or content changes requested by our team.\n• Code changes: bug fixes, small feature additions, and front-end or back-end tweaks to the custom theme and plugins.\n• Member app integration: maintaining and troubleshooting the connection between the website and the member app, including API issues.\n• SOC 2 change management: all work done through GitHub (branches, pull requests, code review, approvals) with documentation that supports our SOC 2 audit evidence.\n• Monitoring and security: responding to security advisories, uptime issues, and vulnerable plugins promptly.\n• Communication: Daily communication via our Slack channel.\n\nREQUIREMENTS\n• Extensive WordPress development experience: custom themes, plugin configuration, and safe update practices on production sites\n• Fluency with GitHub: branching, pull requests, code review, and Git-based deployment workflows.\n• Experience working within SOC 2 controls, including change management and producing audit-ready documentation.\n• Experience maintaining third-party integrations and APIs.\n• Fluent written and spoken English.\n• Availability during standard Pacific Time business hours (9am–5pm PT, Mon–Fri).\n• Comfort working day-to-day in Slack.\n• Bonus: experience with Kinsta hosting",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$15 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 41,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 4100,
+    "coverLetter": "Hi! I’d love to help with your ongoing WordPress maintenance and provide the reliable, audit-ready support your nonprofit needs. \n\nAs a senior WordPress developer, I specialize in the exact stack and workflows you're looking for. I handle routine updates via rigorous staging environments, maintain complex custom themes and plugins, and manage third-party API and member app integrations seamlessly. Crucially, I am well-versed in Git-based deployment workflows (branches, PRs, and documentation) to support strict SOC 2 compliance and change management. \n\nYou can review some of my nonprofit and complex WordPress builds here: https://www.thelifeyoucansave.org/\n\nI am fluent in English, comfortable working directly in Slack during PT business hours, and ready to act as a long-term, responsive partner for your team. \n\nWhen are you looking to kick this off, and can we set up a quick chat this week?",
+    "publishedDateTime": "2026-10-05T15:37:50+0000",
+    "addedAt": "2026-10-05T15:38:57.670Z",
+    "url": "https://www.upwork.com/jobs/~022107132534632353613",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107132534632353613/apply/"
+  },
+  {
     "id": "2107127529716339923",
     "ciphertext": "~022107127529716339923",
     "title": "Website Clone with Custom Sell Section",

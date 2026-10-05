@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 56,
-  "matchedFilters": 14,
+  "totalScanned": 57,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4500,
       "url": "https://www.upwork.com/jobs/~022107127529716339923",
       "addedAt": "2026-10-05T15:18:59.246Z"
+    },
+    {
+      "title": "Ongoing WordPress Maintenance for Nonprofit",
+      "budget": "$15-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022107132534632353613",
+      "addedAt": "2026-10-05T15:38:56.415Z"
     },
     {
       "title": "WordPress Developer for Ongoing SEO Implementation (Ad Hoc, Growing into Regular Work)",
