@@ -1,5 +1,35 @@
 [
   {
+    "id": "2106899113107183365",
+    "ciphertext": "~022106899113107183365",
+    "title": "Wordpress, GeoDirectory + Elementor Pro Expert Needed to Fix/Configure Local Events Website",
+    "description": "I am building a site with WordPress, GeoDirectory, Events for GeoDirectory, Location Manager, and Elementor Pro.\n\nI have already completed some(very minimal) of the initial setup, including event categories, custom fields, locations, recurring events, test events, and some Elementor templates. However, I am having trouble getting certain GeoDirectory and Elementor elements/templates to work together correctly on the live site.\n\nFor example, some custom designs display correctly inside Elementor but do not render the same way on the published page, and I need to make sure the correct GeoDirectory templates are being used throughout the site.\n\nI am looking for someone with specific experience with GeoDirectory + Elementor Pro who can review the existing setup, troubleshoot these issues, and configure the site correctly.\n\nScope of work includes:\n- Review my existing GeoDirectory/Elementor setup and identify any incorrect or conflicting template configurations.\n- Correctly configure GD Archive, GD Archive Item, GD Single, and search/results for Events.\n- Make my existing custom event-card design work consistently on the live site.\n- Create/configure one primary event-discovery experience where visitors can browse and filter events.\n- Configure filters for Today, Tomorrow, This Weekend, Free, Under $10, Under $25, Categories, Audience, Setting, and Neighborhood/Area.\n- Allow visitors to combine filters—for example: Tomorrow + Under $10 + Teens + Music & Entertainment.\n- Configure recurring events so they display properly without unnecessarily filling the results with duplicate event cards.\n- Ensure event listings, filtering, and templates work correctly on both desktop and mobile.\n- Keep the structure scalable for future cities such as /lasvegas/, /phoenix/, /newyork/, etc.\n- Use GeoDirectory's native functionality wherever possible and avoid unnecessary plugins, duplicate systems, or fragile workarounds.\nImportant: I am not looking for someone to rebuild the entire website from scratch. Much of the setup and design direction already exists. I need an experienced GeoDirectory developer to troubleshoot the current setup, establish the correct architecture, and get the core event-discovery functionality working properly.\n\nPlease apply only if you have direct experience with GeoDirectory, Events for GeoDirectory, Location Manager, Advanced Search, and Elementor Pro.\n\nPlease include examples of GeoDirectory websites you have worked on and briefly explain your experience integrating GeoDirectory with Elementor.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "web-design",
+      "wordpress-plugin",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I have direct, hands-on experience integrating GeoDirectory (including Events, Location Manager, and Advanced Search) with Elementor Pro to build robust directory and local event platforms. \n\nI understand your exact pain point regarding GeoDirectory templates not rendering properly on live pages versus the Elementor editor, particularly with GD Archive, GD Single, and complex multi-filter search combinations. I can step into your existing setup, fix the template override conflicts, configure your recurring events cleanly, and set up your multi-city scalable structure (/lasvegas/, /phoenix/, etc.) using GeoDirectory’s native architecture rather than fragile workarounds. \n\nWhile I don't have a public GeoDirectory site linked in my general portfolio (as many are client membership/directory sites under NDA), I've successfully built and debugged several map-based directory portals utilizing GeoDirectory and custom Elementor dynamic templates. \n\nAre you available this week for a quick chat to review your current template conflicts?",
+    "publishedDateTime": "2026-10-05T00:07:56+0000",
+    "addedAt": "2026-10-05T00:08:58.991Z",
+    "url": "https://www.upwork.com/jobs/~022106899113107183365",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106899113107183365/apply/"
+  },
+  {
     "id": "2106883617017844947",
     "ciphertext": "~022106883617017844947",
     "title": "Website Speed Optimization — Mobile & Desktop",

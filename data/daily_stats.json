@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 9,
-  "matchedFilters": 1,
+  "totalScanned": 10,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022106883617017844947",
       "addedAt": "2026-10-04T23:08:49.131Z"
+    },
+    {
+      "title": "Wordpress, GeoDirectory + Elementor Pro Expert Needed to Fix/Configure Local Events Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022106899113107183365",
+      "addedAt": "2026-10-05T00:08:48.443Z"
     }
   ]
 }
