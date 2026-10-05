@@ -1,5 +1,33 @@
 [
   {
+    "id": "2107092021994271115",
+    "ciphertext": "~022107092021994271115",
+    "title": "Web Developer Needed for Growing Software Team",
+    "description": "We’re a fast-growing software team, and we’ve recently taken on more CMS projects than our current developers can handle, so we’re looking for another developer to help with the workload. Most of the work will involve building, customizing, fixing, and maintaining websites across platforms like WordPress, Shopify, Wix, Squarespace, and similar CMS platforms. You should be comfortable taking requirements or an existing design and handling the development independently without needing constant supervision. Some projects will be simple, while others may involve custom functionality, integrations, performance improvements, or troubleshooting. We are looking for an individual freelancer only, not an agency or development company. If you are applying as an agency or representing a team, your proposal will be declined. We value clear communication, reliability, and being able to deliver work on time. If things work out well on the first few projects, there will be plenty of ongoing work as our project volume continues to grow.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$20 - $50/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "shopify",
+      "wix"
+    ],
+    "score": 5000,
+    "coverLetter": "Hi! \n\nI’m an individual developer with extensive experience building, customizing, and troubleshooting sites across WordPress, Shopify, and other major CMS platforms. Your need to offload excess project volume to a reliable, independent developer who can hit the ground running without hand-holding is a great match for my background.\n\nWhether it’s custom theme development, complex integrations, performance tuning, or urgent bug fixes, I take raw requirements or designs and handle the full development cycle independently. For instance, I recently built and optimized high-impact sites like https://www.thelifeyoucansave.org/, focusing on clean code, speed, and seamless functionality. \n\nI operate strictly as an individual freelancer, value clear communication, and am looking for a long-term partnership as your workload grows. \n\nWhat is your preferred communication channel for handing off initial project tasks?",
+    "publishedDateTime": "2026-10-05T12:54:26+0000",
+    "addedAt": "2026-10-05T12:54:58.443Z",
+    "url": "https://www.upwork.com/jobs/~022107092021994271115",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107092021994271115/apply/"
+  },
+  {
     "id": "2107081922151136251",
     "ciphertext": "~022107081922151136251",
     "title": "Urgent Shopify → WooCommerce Migration | 3,600 Products | 2–3 Day Deadline",

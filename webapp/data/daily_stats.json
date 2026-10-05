@@ -1,12 +1,19 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 40,
-  "matchedFilters": 10,
+  "totalScanned": 41,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
+    {
+      "title": "Web Developer Needed for Growing Software Team",
+      "budget": "$20-$50/hr",
+      "score": 5000,
+      "url": "https://www.upwork.com/jobs/~022107092021994271115",
+      "addedAt": "2026-10-05T12:54:57.076Z"
+    },
     {
       "title": "WordPress Developer for Ongoing SEO Implementation (Ad Hoc, Growing into Regular Work)",
       "budget": "$25-$30/hr",
