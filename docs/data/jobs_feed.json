@@ -1,5 +1,31 @@
 [
   {
+    "id": "2107193536658485643",
+    "ciphertext": "~022107193536658485643",
+    "title": "WordPress / Kadence Designer Needed to Customize Existing Templates for Wedding Photography Website",
+    "description": "I am looking for an experienced WordPress designer to customize existing Kadence website templates for my wedding photography business, Lessie Blue Photography.\n\nMy current website is built on Showit. I am moving to WordPress and already have the website templates I want to use.\n\nI am not looking for a completely custom website built from scratch. I want someone who can take the templates I already have, customize them to fit my brand, and move the appropriate content from my current Showit website into the new WordPress site.\n\nThe project will include:\n\n• Installing and setting up the Kadence Theme and Kadence Blocks\n\n• Installing and customizing the website templates I already have\n\n• Customizing colors, fonts, layouts, buttons, navigation, and other design elements to fit my brand\n\n• Replacing template images with my photography\n\n• Moving appropriate copy and content from my current Showit website\n\n• Customizing the templates so the finished website feels cohesive and specific to my business, not like a generic template\n\n• Setting up portfolio and gallery pages\n\n• Setting up and improving the blog design, including blog archive pages, categories, featured images, and individual blog post layouts\n\n• Migrating existing blog posts where appropriate\n\n• Making sure the website works well on desktop, tablet, and mobile\n\n• Setting up and testing contact and inquiry forms\n\n• Optimizing images, site speed, and overall performance\n\n• Making sure the completed website is easy for me to update myself\n\nSEO is also important to me.\n\nBecause my current site is already live on Showit, I want someone who understands how to move to WordPress without unnecessarily losing existing SEO value.\n\nThis should include reviewing my current pages and blog posts, preserving important URLs where possible, setting up 301 redirects when needed, and reviewing page titles, meta descriptions, headings, internal links, image alt text, sitemaps, and indexing.\n\nExperience with Google Search Console, on page SEO, technical SEO, and website migrations is strongly preferred.\n\nThe new site should use WordPress, Kadence Theme, Kadence Blocks, and the Gutenberg editor.\n\nI do not want the site rebuilt using Elementor, Divi, or another page builder.\n\nI also want to avoid excessive custom coding that would make the website difficult for me to edit later.\n\nExperience with photography websites, wedding photographers, creative businesses, or Showit to WordPress migrations is a plus.\n\nWhen applying, please include:\n\n1. Two Kadence websites you personally built or customized\n\n2. At least one photography, creative, or service based website you have worked on\n\n3. Any experience you have moving a website from Showit to WordPress\n\n4. An example of a template customization project, if available\n\n5. A short explanation of how you would protect existing SEO during a Showit to WordPress migration\n\n6. Whether you personally complete the work or outsource any part of the project\n\n7. Your estimated project cost\n\nPlease also answer this question:\n\nIf my existing Showit website has pages or blog posts already indexed by Google, how would you handle those URLs when moving the site to WordPress?\n\nPlease begin your proposal with the words LESSIE BLUE so I know you read the full project description.\n\nI am looking for someone who communicates well, pays attention to detail, and is comfortable taking an existing template and customizing it into a polished photography website rather than designing a completely new site from scratch.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 0,
+    "coverLetter": "LESSIE BLUE. Hi! I specialize in WordPress migrations and Kadence development, making me a perfect fit to transition your site from Showit while preserving your SEO authority. I personally handle all development—I do not outsource.\n\nI have extensive experience with Kadence and Gutenberg, ensuring your site remains lightweight and easy for you to manage without bloated page builders. Regarding your SEO, I will map your existing Showit URL structure to the new WordPress permalinks and implement a 301 redirect strategy to ensure Google recognizes the transition without losing ranking power.\n\nYou can view my work at https://www.thelifeyoucansave.org/ and https://www.seeintl.org/, which reflect my focus on high-performance, clean design. I’d love to discuss your template files and migration timeline—are you available for a brief chat this week?",
+    "publishedDateTime": "2026-10-05T19:41:43+0000",
+    "addedAt": "2026-10-05T19:43:21.562Z",
+    "url": "https://www.upwork.com/jobs/~022107193536658485643",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107193536658485643/apply/"
+  },
+  {
     "id": "2107135493458883837",
     "ciphertext": "~022107135493458883837",
     "title": "Fix Google APIs on WordPress Site",

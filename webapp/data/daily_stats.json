@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 82,
-  "matchedFilters": 16,
+  "totalScanned": 84,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 16
+    "wordpress developer": 17
   },
   "topJobs": [
     {
@@ -118,6 +118,13 @@
       "score": 91,
       "url": "https://www.upwork.com/jobs/~022106945607237581819",
       "addedAt": "2026-10-05T03:14:52.764Z"
+    },
+    {
+      "title": "WordPress / Kadence Designer Needed to Customize Existing Templates for Wedding Photography Website",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022107193536658485643",
+      "addedAt": "2026-10-05T19:43:15.346Z"
     }
   ]
 }
