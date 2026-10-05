@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107081922151136251",
+    "ciphertext": "~022107081922151136251",
+    "title": "Urgent Shopify → WooCommerce Migration | 3,600 Products | 2–3 Day Deadline",
+    "description": "Urgent Shopify → WooCommerce Migration | 3,600 Products | 2–3 Day Deadline\n\nWe need an experienced WooCommerce developer to urgently migrate and rebuild an existing fashion ecommerce store from Shopify to WooCommerce.\n\nThe current store has approximately 3,600 products and needs to be fully functional and live within 2–3 days.\n\nThis is an urgent migration. The priority is getting the core store live, stable, fast and ready to process orders. Smaller cosmetic features can be completed after launch.\n\nScope\n\n- Set up WordPress + WooCommerce\n- Configure a premium WooCommerce fashion theme such as Rey\n- Recreate the look and feel of our existing Shopify Prestige-based store\n- Import approximately 3,600 products\n- Import product titles, descriptions, images, prices, compare-at prices, SKUs, variants, sizes, colors, categories/collections and product attributes\n- Preserve existing product URLs where possible\n- Create 301 redirects where URLs change\n- Build/configure homepage, collection/category pages, product pages, search, filters, cart, checkout and customer accounts\n- Integrate our payment solution\n- Configure shipping\n- Set up multilingual functionality\n- Set up Google Analytics / Google Ads tracking\n- Set up Meta Pixel\n- Configure Google Merchant Center / product feed\n- Make the store fully responsive on mobile\n- Configure caching/CDN/performance optimization\n- Test the full customer journey from product page to successful order\n\nImportant\n\nWe are not looking for someone to manually recreate 3,600 products.\n\nYou must have experience with bulk Shopify → WooCommerce migrations and be comfortable working with CSV/XML/API data.\n\nThe store needs to handle thousands of products without becoming slow.\n\nRequired experience\n\n- WooCommerce\n- Shopify → WooCommerce migrations\n- WordPress/PHP\n- JavaScript\n- WooCommerce customization\n- Large product catalogs\n- Product variations\n- Custom payment integrations/API integrations\n- Performance optimization\n- Google Merchant Center\n- Google Ads tracking\n- Meta Pixel\n\nDeadline\n\nYou must be able to start immediately.\n\nOur target is to have the core store production-ready within 2–3 days.\n\nDo not apply if you cannot dedicate significant time to the project immediately.\n\nWhen applying, please answer these 6 questions:\n\n1. Can you start immediately?\n2. Can you deliver a production-ready WooCommerce store within 2–3 days?\n3. Have you migrated a Shopify store with 1,000+ products to WooCommerce before?\n4. Please send 2–3 WooCommerce stores you personally worked on.\n5. How would you migrate 3,600 Shopify products, images and variants efficiently?\n6. What is your fixed-price quote for this project?\n\nPlease begin your proposal with the words:\n\nSTYLEMAHA MIGRATION\n\nThis is so we know you have actually read the job description.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 38,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "bigcommerce",
+      "woocommerce",
+      "html",
+      "shopify"
+    ],
+    "score": 148,
+    "coverLetter": "STYLEMAHA MIGRATION — Yes, I can start immediately and deliver a production-ready store within your 2–3 day deadline. \n\nHi! I specialize in high-performance WooCommerce setups and bulk e-commerce migrations. To handle 3,600 products with complex variants efficiently, I export clean CSV/XML data from Shopify (using automated tools or scripts to map titles, descriptions, prices, SKUs, and attributes), clean the dataset via WP-CLI/database tools, and bulk-import media and products seamlessly without manual entry. \n\nI’ll also configure your Rey theme, set up the Prestige-style layout, implement 301 redirects to preserve SEO, integrate payments/tracking pixels, and optimize the site for speed. Here is a recent WooCommerce store I built: https://www.cchpca.org/\n\n1. Yes, I can start immediately.\n2. Yes, fully production-ready in 2–3 days.\n3. Yes, experienced with large catalog Shopify-to-WooCommerce migrations.\n4. https://www.cchpca.org/, https://waapple.org/\n5. Clean Shopify export via CSV/XML, mapping attributes and variants, and bulk importing via WP-CLI/import tools to ensure data integrity.\n6. [Insert your fixed-price quote here]\n\nLet’s jump into chat so we can get started right away.",
+    "publishedDateTime": "2026-10-05T12:15:37+0000",
+    "addedAt": "2026-10-05T12:17:07.313Z",
+    "url": "https://www.upwork.com/jobs/~022107081922151136251",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107081922151136251/apply/"
+  },
+  {
     "id": "2107076567131623245",
     "ciphertext": "~022107076567131623245",
     "title": "WordPress Developer for Ongoing SEO Implementation (Ad Hoc, Growing into Regular Work)",
