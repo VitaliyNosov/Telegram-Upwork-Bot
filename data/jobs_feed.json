@@ -1,5 +1,34 @@
 [
   {
+    "id": "2106913092829653024",
+    "ciphertext": "~022106913092829653024",
+    "title": "WordPress Blog Post Formatting",
+    "description": "We’re looking for a reliable WordPress contractor to help format ongoing blog posts using an existing template. The work involves duplicating a current post, replacing supplied text and images, updating headings and links, adding image alt text where needed, and checking formatting and spacing. You should be comfortable maintaining the same layout and styling across posts and ensuring each draft displays correctly on desktop and mobile. This is ongoing work for someone who can follow an established format consistently and pay close attention to detail.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 62,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "blog-development",
+      "blog-writing"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI’d love to help you consistently format and publish your ongoing blog posts. I am very comfortable working within existing WordPress layouts, ensuring precise styling, proper spacing, and flawless mobile and desktop responsiveness. \n\nAs a professional WordPress developer, I handle content updates, page builders, and template replication daily with strong attention to detail. I can easily take your supplied text, images, and links to produce clean, perfectly formatted posts every time while following your exact template guidelines. You can see examples of my clean WordPress work on projects like https://waapple.org/.\n\nAre you looking to start with a small test batch this week?",
+    "publishedDateTime": "2026-10-05T01:03:26+0000",
+    "addedAt": "2026-10-05T01:04:50.330Z",
+    "url": "https://www.upwork.com/jobs/~022106913092829653024",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022106913092829653024/apply/"
+  },
+  {
     "id": "2106899113107183365",
     "ciphertext": "~022106899113107183365",
     "title": "Wordpress, GeoDirectory + Elementor Pro Expert Needed to Fix/Configure Local Events Website",
