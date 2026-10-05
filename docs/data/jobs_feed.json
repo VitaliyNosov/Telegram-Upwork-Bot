@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107127529716339923",
+    "ciphertext": "~022107127529716339923",
+    "title": "Website Clone with Custom Sell Section",
+    "description": "Create a website clone with a new logo and only a “Buy” and “Sell” menu tab. Most of the content will be selling a virtual good, a pre-registered ecommerce account with special properties with a simple one page instruction to purchase. The other tab is a sell tab which gives instructions we provide on how to sell your ecommerce account make payment and transfer it. There is a live chat and WhatsApp chat for support in selling. The project is straightforward and should take only 1 or 2 days to complete.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$25 - $45/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "javascript"
+    ],
+    "score": 4500,
+    "coverLetter": "Hi! \n\nI can quickly build your streamlined, two-tab website clone in WordPress (complete with your new logo, clean layout, and the specific \"Buy\" and \"Sell\" purchase/transfer instructions) within your 1-2 day timeline. \n\nWith extensive experience in WordPress, PHP, and custom page setups, I will ensure the site is clean, fast, and fully functional, including the integration of live chat and WhatsApp support widgets for your users. You can check out similar clean, responsive WordPress builds I’ve delivered, such as https://about.offerup.com/.\n\nLet’s chat about the details and get this started right away. What is your preferred theme or design reference for the clone?",
+    "publishedDateTime": "2026-10-05T15:17:52+0000",
+    "addedAt": "2026-10-05T15:19:00.806Z",
+    "url": "https://www.upwork.com/jobs/~022107127529716339923",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107127529716339923/apply/"
+  },
+  {
     "id": "2107124919571600595",
     "ciphertext": "~022107124919571600595",
     "title": "WordPress Developer – AI-Enhanced Development",

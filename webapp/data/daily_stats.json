@@ -1,10 +1,10 @@
 {
   "date": "2026-10-05",
   "lastDigestSentDate": "2026-10-04",
-  "totalScanned": 53,
-  "matchedFilters": 13,
+  "totalScanned": 54,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 5000,
       "url": "https://www.upwork.com/jobs/~022107092021994271115",
       "addedAt": "2026-10-05T12:54:57.076Z"
+    },
+    {
+      "title": "Website Clone with Custom Sell Section",
+      "budget": "$25-$45/hr",
+      "score": 4500,
+      "url": "https://www.upwork.com/jobs/~022107127529716339923",
+      "addedAt": "2026-10-05T15:18:59.246Z"
     },
     {
       "title": "WordPress Developer for Ongoing SEO Implementation (Ad Hoc, Growing into Regular Work)",
