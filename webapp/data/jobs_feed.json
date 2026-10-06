@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107436168440698729",
+    "ciphertext": "~022107436168440698729",
+    "title": "WordPress.com Block Theme Layout Fix",
+    "description": "I need help fixing layout issues on a small WordPress.com Business website. The site is already built. I do not need a redesign, new theme, Elementor, SEO, copywriting, branding, or a rebuild.\n\nThe problem is that some WordPress block theme layout settings have been changed, and the desktop layout no longer looks right. I need someone who understands the WordPress block editor / site editor to help identify and correct the affected settings.\n\nThe main things I need checked are:\n- global content width / wide width settings\n- header/menu width and spacing on desktop\n- page template layout\n- whether specific sections are using normal width, wide width, or full width\n- mobile vs desktop layout behaviour\n\nI would like this done as a live screen-share call. I will control the site and make the changes myself while you guide me through it.\n\nPlease include:\n1. Your experience with WordPress block themes / Full Site Editing.\n2. Whether you are comfortable working by screen-share without login access.\n3. Your hourly rate.\n4. Your availability for a 1-hour call.",
+    "isHourly": true,
+    "hourlyBudgetMin": 40,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$40 - $50/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.72,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 59,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "css",
+      "wordpress",
+      "html",
+      "php"
+    ],
+    "score": 5094,
+    "coverLetter": "Hi! I regularly work with WordPress block themes, Full Site Editing, and global layout settings, and I am completely comfortable guiding you through a live screen-share without needing backend login access. \n\nMy standard hourly rate is $40/hr, and I am available to jump on a 1-hour call today or tomorrow. \n\nWith deep experience in Gutenberg development, custom block themes, and resolving CSS layout discrepancies between desktop and mobile views, I can quickly help you pinpoint what got misconfigured in your global content widths, site templates, and section alignments (normal vs. wide vs. full width). You can see an example of my recent WordPress work at https://waapple.org/.\n\nWhen would you be free for our call?",
+    "publishedDateTime": "2026-10-06T11:41:58+0000",
+    "addedAt": "2026-10-06T11:43:36.162Z",
+    "url": "https://www.upwork.com/jobs/~022107436168440698729",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107436168440698729/apply/"
+  },
+  {
     "id": "2107419710875184980",
     "ciphertext": "~022107419710875184980",
     "title": "WordPress Developer for Client Websites",

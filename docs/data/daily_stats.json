@@ -1,12 +1,19 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 29,
-  "matchedFilters": 5,
+  "totalScanned": 30,
+  "matchedFilters": 6,
   "byKeyword": {
-    "wordpress developer": 5
+    "wordpress developer": 6
   },
   "topJobs": [
+    {
+      "title": "WordPress.com Block Theme Layout Fix",
+      "budget": "$40-$50/hr",
+      "score": 5094,
+      "url": "https://www.upwork.com/jobs/~022107436168440698729",
+      "addedAt": "2026-10-06T11:43:35.050Z"
+    },
     {
       "title": "Website Performance Optimization Specialist",
       "budget": "$15-$30/hr",
