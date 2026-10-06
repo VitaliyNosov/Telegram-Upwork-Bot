@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 14,
-  "matchedFilters": 2,
+  "totalScanned": 15,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 2800,
       "url": "https://www.upwork.com/jobs/~022107315344686657931",
       "addedAt": "2026-10-06T03:42:47.219Z"
+    },
+    {
+      "title": "WordPress & Webflow Designer-Developer for Design 2/2 pages each",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022107322769920703483",
+      "addedAt": "2026-10-06T04:12:49.399Z"
     }
   ]
 }

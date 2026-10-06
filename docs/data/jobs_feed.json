@@ -1,5 +1,40 @@
 [
   {
+    "id": "2107322769920703483",
+    "ciphertext": "~022107322769920703483",
+    "title": "WordPress & Webflow Designer-Developer for Design 2/2 pages each",
+    "description": "We’re looking for an experienced *WordPress & Webflow Designer-Developer* to design and develop *2 pages in WordPress and 2 pages in Webflow*.\n\n*Requirements:*\n\n* Strong WordPress & Webflow experience\n* Elementor/Bricks experience preferred\n* Pixel-perfect, responsive design\n* Good eye for modern UI/UX\n* Experience converting Figma/designs into websites\n\nPlease send your *best WordPress and Webflow examples* when applying.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 32,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "graphic-design",
+      "wordpress",
+      "wire-framing",
+      "html",
+      "mockup",
+      "adobe-photoshop",
+      "web-design",
+      "web-programming",
+      "css",
+      "webflow"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help you design and build your 2 WordPress pages and 2 Webflow pages. With deep expertise in both platforms—along with modern UI/UX principles and pixel-perfect Figma translation—I regularly build clean, responsive pages that look great and convert well. \n\nFor Webflow, I handle custom builds with smooth interactions, and for WordPress, I specialize in clean setups utilizing modern builders like Bricks and Elementor. \n\nYou can see an example of my recent WordPress work here: https://www.seeintl.org/\n\nDo you already have the Figma designs ready, or will we be working on the wireframing/mockup stage first? Let's chat!",
+    "publishedDateTime": "2026-10-06T04:11:17+0000",
+    "addedAt": "2026-10-06T04:12:50.727Z",
+    "url": "https://www.upwork.com/jobs/~022107322769920703483",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107322769920703483/apply/"
+  },
+  {
     "id": "2107315344686657931",
     "ciphertext": "~022107315344686657931",
     "title": "Need help with Wordpress Split Test (A/B) Test",
