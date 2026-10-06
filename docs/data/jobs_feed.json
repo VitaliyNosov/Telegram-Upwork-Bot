@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107480966822580656",
+    "ciphertext": "~022107480966822580656",
+    "title": "Migrate Blog Posts to 10Web",
+    "description": "We need help migrating approximately 225 existing blog posts to a new 10Web site and replacing our current website with the new build. The work should include preserving all existing URLs, setting up proper redirects, and maintaining metadata and SEO rankings throughout the transition. We’re looking for someone who can handle the migration carefully and ensure the site remains functional and search-friendly after launch.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 20,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "blog-writing",
+      "blog-development",
+      "social-media-marketing"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nMigrating 225 blog posts while strictly preserving URLs, metadata, and setting up proper redirects is a critical task to protect your SEO rankings during a platform transition to 10Web. \n\nAs an experienced WordPress developer, I specialize in seamless website migrations, database management, and technical SEO preservation. I ensure that all permalinks, categories, tags, and internal structures map correctly to the new environment so you experience zero drop in traffic or broken links. I also handle post-migration testing to confirm everything—from images to responsive layouts—functions flawlessly before the final DNS switch.\n\nYou can view examples of my recent WordPress work at https://www.cchpca.org/.\n\nWhen are you looking to start this migration, and is the 10Web staging environment already set up? Let’s chat about the details.",
+    "publishedDateTime": "2026-10-06T14:39:59+0000",
+    "addedAt": "2026-10-06T14:41:12.389Z",
+    "url": "https://www.upwork.com/jobs/~022107480966822580656",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107480966822580656/apply/"
+  },
+  {
     "id": "2107450713026978450",
     "ciphertext": "~022107450713026978450",
     "title": "Personal Websites - Design & Development",

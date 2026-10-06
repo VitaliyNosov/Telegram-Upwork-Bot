@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 44,
-  "matchedFilters": 7,
+  "totalScanned": 45,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022107450713026978450",
       "addedAt": "2026-10-06T12:41:15.798Z"
+    },
+    {
+      "title": "Migrate Blog Posts to 10Web",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022107480966822580656",
+      "addedAt": "2026-10-06T14:41:11.040Z"
     }
   ]
 }
