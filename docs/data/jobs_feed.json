@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107419710875184980",
+    "ciphertext": "~022107419710875184980",
+    "title": "WordPress Developer for Client Websites",
+    "description": "We need experienced WordPress developers to support multiple client websites across ongoing projects. You will help maintain, update, and improve site functionality while working closely with our team. This is a long-term opportunity for reliable freelancers who can handle recurring tasks and contribute consistently. Only invited freelancers should apply.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 21,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "web-programming"
+    ],
+    "score": 148,
+    "coverLetter": "Hi!\n\nI’d love to support your team as a reliable, long-term WordPress developer for your client websites. Managing multiple sites smoothly requires clean code, proactive maintenance, and the ability to troubleshoot updates or plugin conflicts quickly without breaking functionality—which is my daily focus.\n\nWith deep experience in custom WordPress development, PHP, and performance optimization, I regularly handle everything from recurring feature updates to complex debugging and site improvements. For instance, I built and supported sites like https://www.snopud.com/, ensuring long-term stability and clean, scalable code. \n\nI'm comfortable working closely with internal teams and ready to step in consistently for your ongoing client projects. \n\nAre these existing client sites, or will you also need help building new ones from scratch?",
+    "publishedDateTime": "2026-10-06T10:37:19+0000",
+    "addedAt": "2026-10-06T10:38:48.193Z",
+    "url": "https://www.upwork.com/jobs/~022107419710875184980",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107419710875184980/apply/"
+  },
+  {
     "id": "2107357016005968320",
     "ciphertext": "~022107357016005968320",
     "title": "AI Website Creation for HVAC Services",

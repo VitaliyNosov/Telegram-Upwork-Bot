@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 28,
-  "matchedFilters": 4,
+  "totalScanned": 29,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 2800,
       "url": "https://www.upwork.com/jobs/~022107315344686657931",
       "addedAt": "2026-10-06T03:42:47.219Z"
+    },
+    {
+      "title": "WordPress Developer for Client Websites",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022107419710875184980",
+      "addedAt": "2026-10-06T10:38:46.818Z"
     },
     {
       "title": "WordPress & Webflow Designer-Developer for Design 2/2 pages each",
