@@ -1,10 +1,10 @@
 {
   "date": "2026-10-07",
   "lastDigestSentDate": "2026-10-06",
-  "totalScanned": 9,
-  "matchedFilters": 1,
+  "totalScanned": 10,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3599,
       "url": "https://www.upwork.com/jobs/~022107600276832595796",
       "addedAt": "2026-10-06T22:34:49.132Z"
+    },
+    {
+      "title": "WordPress + Elementor Pro Developer — 27-Page Website from Completed Design, Copy & Front-End System",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022107619277450857172",
+      "addedAt": "2026-10-06T23:50:51.107Z"
     }
   ]
 }
