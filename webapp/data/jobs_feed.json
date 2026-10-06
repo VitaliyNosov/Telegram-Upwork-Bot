@@ -1,5 +1,38 @@
 [
   {
+    "id": "2107538332655386969",
+    "ciphertext": "~022107538332655386969",
+    "title": "Web Designer — Claude Code",
+    "description": "We are looking for a long-term freelance web designer who designs directly with AI — Claude / Claude Code. You will create modern, clean website designs and deliver them as ready HTML/CSS pages, which our team then integrates into our system (WordPress). \n\nWhat You'll Do\n- Design landing pages, website sections and page templates for our human-rights expert services\n- Build your designs as clean, responsive HTML/CSS using Claude / Claude Code — no Figma-to-developer handoff needed\n- Redesign and improve existing pages with a strong UX sense (clarity, trust, conversion)\n- Work closely with our WordPress / SEO specialist so pages are fast and SEO-friendly\n\nConditions\n- Hours and workload agreed individually\n- Ongoing, long-term collaboration (not a one-off project)\n- Individual freelancer only — no agencies\n\nSelection Criteria & Skills\n- Portfolio required — live pages or HTML designs you made (links, not only Figma screenshots)\n- Hands-on experience designing with Claude / Claude Code (vibe design / vibe coding)\n- Basic understanding of HTML/CSS and responsive design (you don't need to be a developer)\n- English — fluent written communication",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.61,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 157,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "landing-pages",
+      "ui-design",
+      "uiux",
+      "responsive-design",
+      "figma",
+      "web-design",
+      "html",
+      "css"
+    ],
+    "score": 92,
+    "coverLetter": "Hi!\n\nI love the approach of using Claude / Claude Code for rapid vibe design and instant HTML/CSS output, and I’m ready for a long-term collaboration. \n\nWhile my core background is in WordPress development and custom CMS builds, I routinely bridge the gap between design and clean frontend code—often building custom sites from scratch and ensuring everything is fast, responsive, and SEO-friendly. For instance, you can check out my work on clean, high-conversion layouts here: https://www.thelifeyoucansave.org/. \n\nBecause your team integrates these pages directly into WordPress, my deep technical understanding of the platform means the HTML/CSS I deliver will be fully optimized for your backend and SEO requirements from day one. \n\nAre you currently using Claude Code for prototyping, or already generating production-ready HTML/CSS directly through it? Let’s chat about how we can streamline your workflow.",
+    "publishedDateTime": "2026-10-06T18:29:14+0000",
+    "addedAt": "2026-10-06T18:31:18.647Z",
+    "url": "https://www.upwork.com/jobs/~022107538332655386969",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107538332655386969/apply/"
+  },
+  {
     "id": "2107515230993985364",
     "ciphertext": "~022107515230993985364",
     "title": "Monthly WordPress Maintenance & Security for Medical Practice Website",

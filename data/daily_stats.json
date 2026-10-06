@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 62,
-  "matchedFilters": 10,
+  "totalScanned": 63,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022107480966822580656",
       "addedAt": "2026-10-06T14:41:11.040Z"
+    },
+    {
+      "title": "Web Designer — Claude Code",
+      "budget": "Fixed-price",
+      "score": 92,
+      "url": "https://www.upwork.com/jobs/~022107538332655386969",
+      "addedAt": "2026-10-06T18:31:17.233Z"
     }
   ]
 }
