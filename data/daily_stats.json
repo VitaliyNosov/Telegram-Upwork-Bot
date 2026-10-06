@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 65,
-  "matchedFilters": 11,
+  "totalScanned": 66,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022107227544069476173",
       "addedAt": "2026-10-05T21:54:49.149Z"
+    },
+    {
+      "title": "WordPress Website Completion Designer",
+      "budget": "$5-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022107544833363927698",
+      "addedAt": "2026-10-06T18:56:56.044Z"
     },
     {
       "title": "AI Website Creation for HVAC Services",
