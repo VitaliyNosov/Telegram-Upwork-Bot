@@ -1,5 +1,33 @@
 [
   {
+    "id": "2107450713026978450",
+    "ciphertext": "~022107450713026978450",
+    "title": "Personal Websites - Design & Development",
+    "description": "I have three personal websites that I would like to re-design and give an updated look to. I am looking for a designer/ developer that can look at what I currently have and give my brand a new, fresh look.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI would love to help you give your three personal websites a fresh, modern redesign and updated look. \n\nWith extensive experience in WordPress design and development, I specialize in transforming outdated sites into clean, high-performing, and visually compelling platforms. Whether you need a cohesive brand refresh across all three sites or distinct looks for each, I can take your current setup and elevate it from concept to launch. You can view some of my recent WordPress work here: https://about.offerup.com/\n\nLet's chat about your vision and what kind of aesthetic you're aiming for. What are the current URLs, and do you have any reference sites in mind for the new look?",
+    "publishedDateTime": "2026-10-06T12:39:41+0000",
+    "addedAt": "2026-10-06T12:41:16.919Z",
+    "url": "https://www.upwork.com/jobs/~022107450713026978450",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107450713026978450/apply/"
+  },
+  {
     "id": "2107436168440698729",
     "ciphertext": "~022107436168440698729",
     "title": "WordPress.com Block Theme Layout Fix",

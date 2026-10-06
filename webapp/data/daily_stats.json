@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 34,
-  "matchedFilters": 6,
+  "totalScanned": 36,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022107322769920703483",
       "addedAt": "2026-10-06T04:12:49.399Z"
+    },
+    {
+      "title": "Personal Websites - Design & Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022107450713026978450",
+      "addedAt": "2026-10-06T12:41:15.798Z"
     }
   ]
 }
