@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 48,
-  "matchedFilters": 8,
+  "totalScanned": 50,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 2800,
       "url": "https://www.upwork.com/jobs/~022107315344686657931",
       "addedAt": "2026-10-06T03:42:47.219Z"
+    },
+    {
+      "title": "WordPress Developer for GA4 and Marketing Setup",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022107492871221496097",
+      "addedAt": "2026-10-06T15:28:57.450Z"
     },
     {
       "title": "WordPress Developer for Client Websites",
