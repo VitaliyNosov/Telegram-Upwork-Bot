@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 13,
-  "matchedFilters": 1,
+  "totalScanned": 14,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022107227544069476173",
       "addedAt": "2026-10-05T21:54:49.149Z"
+    },
+    {
+      "title": "Need help with Wordpress Split Test (A/B) Test",
+      "budget": "$12-$27/hr",
+      "score": 2800,
+      "url": "https://www.upwork.com/jobs/~022107315344686657931",
+      "addedAt": "2026-10-06T03:42:47.219Z"
     }
   ]
 }
