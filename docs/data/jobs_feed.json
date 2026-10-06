@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107515230993985364",
+    "ciphertext": "~022107515230993985364",
+    "title": "Monthly WordPress Maintenance & Security for Medical Practice Website",
+    "description": "Total Mental Wellness is an outpatient psychiatry practice in Florida. We're looking for a reliable WordPress developer for a light monthly maintenance retainer on our website, totalmentalwellnessfl.com.\nIncluded in the monthly retainer\n\nCore, theme, and plugin updates, tested so updates don't break the site\nRegular backups with verified restores\nSecurity monitoring and management of security plugins\nPeriodic performance checks and cache management\nA small allotment of time for minor fixes and improvements, such as technical SEO fixes, schema updates, or Google Search Console issues\nA brief monthly report of the work completed\n\nOccasional projects (quoted separately)\nLarger work, such as new landing pages or accessibility improvements, will be scoped and quoted as separate projects when needed.\n\nRequirements\n\nProven experience maintaining WordPress websites\nWorking knowledge of technical SEO\nExperience with healthcare or other regulated-industry websites is a plus\nWillingness to sign a Business Associate Agreement (BAA) if required\nStrong written English and clear communication\nReachable during U.S. Eastern business hours for urgent site issues\n\nTo apply, please include:\n\nLinks to 2–3 live websites you currently maintain (no file attachments, please)\nWhat your monthly retainer would include and what you would charge for it\nYour hourly rate for additional projects",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "mysql",
+      "website-optimization",
+      "wordpress",
+      "website-security"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I’d love to help provide reliable, proactive monthly maintenance and security for Total Mental Wellness. \n\nAs a WordPress developer with extensive experience managing core/plugin updates, security hardening, backups, and performance optimization, I ensure sites stay secure, fast, and breakage-free. I also handle technical SEO and schema updates smoothly. While my primary focus is technical reliability, I am completely comfortable working within regulated spaces and am happy to sign a BAA if required. \n\nHere are 2 live WordPress sites I currently maintain and support:\n- https://www.thelifeyoucansave.org/\n- https://www.cchpca.org/\n\nMy monthly retainer fee is $___, which includes weekly updates (tested in staging), automated backups with verified restores, 24/7 security monitoring, cache management, a monthly report, and 1 hour of ad-hoc improvements/technical SEO fixes. My hourly rate for larger scoped projects (like new landing pages or accessibility updates) is $___/hr. \n\nI am based in the U.S. and fully available during Eastern business hours for urgent support. Let’s connect in chat to discuss your site's needs!",
+    "publishedDateTime": "2026-10-06T16:56:09+0000",
+    "addedAt": "2026-10-06T16:57:01.013Z",
+    "url": "https://www.upwork.com/jobs/~022107515230993985364",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107515230993985364/apply/"
+  },
+  {
     "id": "2107492871221496097",
     "ciphertext": "~022107492871221496097",
     "title": "WordPress Developer for GA4 and Marketing Setup",

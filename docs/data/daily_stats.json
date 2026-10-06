@@ -1,10 +1,10 @@
 {
   "date": "2026-10-06",
   "lastDigestSentDate": "2026-10-05",
-  "totalScanned": 56,
-  "matchedFilters": 9,
+  "totalScanned": 57,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022107492871221496097",
       "addedAt": "2026-10-06T15:28:57.450Z"
+    },
+    {
+      "title": "Monthly WordPress Maintenance & Security for Medical Practice Website",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022107515230993985364",
+      "addedAt": "2026-10-06T16:56:59.564Z"
     },
     {
       "title": "WordPress Developer for Client Websites",
