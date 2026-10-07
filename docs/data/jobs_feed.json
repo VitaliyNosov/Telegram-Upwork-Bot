@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107789656700178864",
+    "ciphertext": "~022107789656700178864",
+    "title": "WordPress Developer for Website Build",
+    "description": "We are looking for an experienced full‑stack developer to build a new client-facing portal. The system will replace our current onboarding forms, emails and spreadsheets, and introduce a modern, structured workflow for clients and internal teams.\n\nProject Scope\nThe portal will include:\n\nConfigurable language and terminology settings. \n\nClient onboarding workflow with branded graphics, service selection, notifications, and editable Terms & Conditions.\n\nClient Documents Module including structured onboarding fields, drag‑and‑drop bulk uploads, email‑to‑portal ingestion, CSV crew import, and document expiry tracking.\n\nSchedule inputter for clients to submit. \n\nAccounts area for invoice viewing and downloads.\n\nClient meetings section with change‑request workflow.\n\nInternal Client data input and view. \n\nGeneral Requirements\n\nClean, modern UI with smooth transitions and intuitive workflows. Strong backend configuration options (lists, terminology, recipients, providers, document types). Audit logging across key areas.\nSecure access control and privacy enforcement. Built for future expansion.\n\nPlease provide your proposed approach and estimated timeline and cost. Further details can be provided at a later date, so an accurate quote can be produced.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "html5",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nBuilding a secure, structured client-facing portal to replace spreadsheets and legacy onboarding is right in my wheelhouse. I am a full-stack WordPress and PHP developer with extensive experience building custom workflows, dynamic user areas, and complex database-driven systems.\n\nFor this project, I will leverage clean, modular PHP, custom post types, and secure access control to build out your onboarding workflows, document management, scheduling inputs, and accounts area. I focus heavily on writing clean, scalable code that ensures your portal is intuitive for clients and robust for internal teams, while being fully optimized for future expansion. You can review some of my enterprise-grade builds like https://about.offerup.com/ or https://www.snopud.com/ to see the quality of my execution.\n\nTo give you an accurate quote and timeline, I'd love to quickly discuss a few details: do you have wireframes or specific user-role hierarchies already mapped out, or would you like me to help structure the database architecture? Let's chat!",
+    "publishedDateTime": "2026-10-07T11:06:41+0000",
+    "addedAt": "2026-10-07T11:08:57.911Z",
+    "url": "https://www.upwork.com/jobs/~022107789656700178864",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107789656700178864/apply/"
+  },
+  {
     "id": "2107703175379900649",
     "ciphertext": "~022107703175379900649",
     "title": "Fix Lazy Loading, Aw Snap, Broken Page, iPhone Compatibility, All browsers accepted.",
