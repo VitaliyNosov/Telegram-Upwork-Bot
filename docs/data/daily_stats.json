@@ -1,10 +1,10 @@
 {
   "date": "2026-10-07",
   "lastDigestSentDate": "2026-10-06",
-  "totalScanned": 46,
-  "matchedFilters": 8,
+  "totalScanned": 49,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022107789656700178864",
       "addedAt": "2026-10-07T11:08:56.496Z"
+    },
+    {
+      "title": "WordPress Developer Needed – Clean Rebuild of Compromised Site + Meta/GA4 Tracking",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022107852190943627988",
+      "addedAt": "2026-10-07T15:18:15.482Z"
     },
     {
       "title": "WordPress Pay-Per-View Video Catalog",

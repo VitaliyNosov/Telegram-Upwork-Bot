@@ -1,5 +1,38 @@
 [
   {
+    "id": "2107852190943627988",
+    "ciphertext": "~022107852190943627988",
+    "title": "WordPress Developer Needed – Clean Rebuild of Compromised Site + Meta/GA4 Tracking",
+    "description": "We are looking for an experienced WordPress developer with strong technical knowledge in website security, tracking and lead-generation setup.\nOur current WordPress site has been compromised and is temporarily offline. We want to keep our existing domain, londoncalling.academy, but rebuild the website cleanly on new hosting rather than reuse the compromised installation.\nThis is a lean Phase 1 build for market validation, not a large corporate website. The priority is to have a secure, reliable and advertising-ready site that we can use for Meta campaigns.\nThe scope should include:\n- Clean WordPress rebuild on new hosting\n- Keep the existing domain if no domain-level issues are found\n- Retire the compromised WordPress installation\n- Check Google Search Console for manual actions/security issues\n- Clean up or correctly remove spam/casino URLs\n- Set up a clean sitemap and basic indexing\n- Fix domain email authentication if needed, including SPF/DMARC\n- Build two professional conversion-focused landing pages\n- Set up reliable enquiry/application forms\n- Ensure form submissions are delivered correctly by email and stored safely\n- Set up Google Tag Manager\n- Set up GA4\n- Set up Meta Pixel\n- Configure and test lead/form conversion events\n- Meta domain verification\n- UTM tracking\n- Mobile testing and basic performance optimisation\n- Simple Stripe payment-link workflow\nThe two initial landing pages are for:\n1. Global Business Communication Intensive – live online professional training programme\n2. Career & Interview Accelerator – personalised 1-to-1 career and interview coaching\nWe already have the brand identity, programme content and general website brief.\nImportant: we are not looking for someone who only designs WordPress pages. You should be comfortable with compromised WordPress environments, Search Console, DNS/email authentication, GA4, GTM and Meta Pixel.\nPlease include in your proposal:\n- 2–3 examples of WordPress projects you personally built\n- An example where you implemented GA4/GTM/Meta Pixel\n- Any experience rebuilding or cleaning a compromised WordPress site\n- How you would approach keeping the current domain while replacing the compromised installation\n- Your fixed-price quote\n- Your estimated delivery time\nWe prefer a fixed-price project with milestones, and all accounts, hosting, analytics and tracking assets must remain under our ownership.\nTarget delivery: ideally within 2 weeks.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design",
+      "website-security",
+      "google-tag-manager",
+      "google-analytics",
+      "malware-removal"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can help you cleanly rebuild londoncalling.academy on secure new hosting, resolve the security issues, and set up your tracking and landing pages within your 2-week timeline. \n\nTo approach keeping your current domain safely, I will secure fresh hosting, deploy a clean WordPress installation from scratch (abandoning the compromised files entirely), configure robust security hardening, and set up your DNS, SPF, and DMARC authentication. I’ll then build your two conversion-focused landing pages, integrate reliable forms with secure database storage and email delivery, and configure GTM, GA4, Meta Pixel, domain verification, and Stripe payment links.\n\nHere is a recent WordPress build from my portfolio: https://www.thelifeyoucansave.org/\n\nFor compromised site cleanups, I routinely handle malware removal, Google Search Console index recovery (clearing spam/casino URLs), and secure migrations. I have implemented GA4, GTM, and Meta Pixel setups with custom conversion event tracking on numerous projects.\n\nMy fixed-price quote is $[Insert Amount] with an estimated delivery time of 2 weeks across structured milestones. All assets will remain 100% under your ownership. \n\nWould you like to hop into a quick chat to finalize the details?",
+    "publishedDateTime": "2026-10-07T15:16:02+0000",
+    "addedAt": "2026-10-07T15:18:17.378Z",
+    "url": "https://www.upwork.com/jobs/~022107852190943627988",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107852190943627988/apply/"
+  },
+  {
     "id": "2107816136173902057",
     "ciphertext": "~022107816136173902057",
     "title": "WordPress Pay-Per-View Video Catalog",
