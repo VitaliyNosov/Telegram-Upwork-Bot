@@ -1,5 +1,32 @@
 [
   {
+    "id": "2107900314947396728",
+    "ciphertext": "~022107900314947396728",
+    "title": "Amendments to Wordpress website webshop",
+    "description": "Hi, I require the following changes and improvements to be implemented on my webshop: atelierchristian. \n\n1. Product Filtering System\nThe webshop needs a user-friendly filtering system. See for example ‘https://www.bol.com/nl/nl/l/heren-sieraden/47120/’ or ‘https://juweelwinkel.nl/sieraden/’\n\n1.1 This needs to be a widget, so that I can place it on the left-hand side of the webshop/category pages or wherever else I want to place it (in an adjusted form). Of course, it needs to work on desktop and should also work properly on mobile devices.\n\n1.2 I need to be able to make any filter system that I want based on the tags already present on the website. This product page has several tags, such as “Tags: 18 karaat, Christian fine ring, Dames, Dames ring, Diamant, Geel Goud, Geel gouden ring”. Thus, the filter system needs to align with this. \n\n1.3 I need to be able to choose within the filter system whether I want it to be a check-box, a plain text or an image that I can upload. I must also be able to put there a separate link if I want to (e.g. a webpage that is not a tag), other than a tag. \n\n1.4 There needs to be a ‘see more’ function, in other to prevent the filter system being too long. I need to be able to add, remove, rename etc. new filter options. The filter system should therefore be expandable in the future.\n\n1.5 Needless to say, there must a price filter. Going from € 0,- to the highest price at the time. The filter system must automatically align with the products already available on the website. I want the option to exclude automatically all sold products from the list of products that the filter system shows – or, when I change my mind, to include them.\n\n1.6 Of course, combinations of filters must be possible. E.g., men, yellow gold, ring, with diamond etc. The product results should update immediately without unnecessarily reloading the entire page.\n\n1.7 There should also be a clear “Reset/Clear Filters” option.\n\n2. Permanent Search Bar\nThe current search icon/magnifying glass should be improved. \n\nI want a complete search bar that is permanently visible in the website header.\n \n\n\nThe search function should search through the webshop product information, as it does now. Including:\n•\tProduct names\n•\tProduct categories\n•\tProduct descriptions\n•\tMaterials\n•\tGemstones\n•\tRelevant product information/SKU where applicable\nIf possible, use live search/autocomplete so customers can already see relevant products while typing.\n\n\n3. Sold-Out Products – Remove Add to Cart\nWhen a product is out of stock, the green “Add to Cart” button must automatically disappear or become unavailable. This should happen automatically based on the product's stock status. A customer must never be able to accidentally order a product that is marked as unavailable unless that specific product is intentionally configured as a backorder product.\n\n4. Sold-Out Products – Restock / Product Request\nWhen a product is sold out, replace the normal purchasing option with a clear button such as: “Product aanvragen”. When clicking the button, the customer must submit: \n•\tName\n•\tTelephone number\n•\tEmail address\nThe request must be linked to the specific product. info @ atelierchristian . nl should then receive the request by email and preferably also be able to see the request in the website backend.\nThe request should clearly show:\n•\tCustomer name\n•\tTelephone number\n•\tEmail address\n•\tProduct name\n•\tProduct/SKU\n•\tDate of request\nIf possible, the system should also allow an automatic email notification to the customer when the product becomes available again.\n\n6. General Requirements\nAll new functionality must:\n•\tWork properly on desktop\n•\tWork properly on mobile phones\n•\tWork properly on tablets\n•\tBe easy and clear for customers to use\n•\tMatch the existing Atelier Christian website design\n•\tNot unnecessarily slow down the website\n•\tWork correctly with existing products and product pages\n•\tBe SEO-friendly where relevant\n•\tBe expandable in the future\nBefore final implementation, please make sure that the filtering, search and stock request functions are properly tested.\n\n7. Remove fake users\n\nA lot of fake user accounts have been made on my website. Can you please remove these, whilst keeping the actual accounts of the real users? And prevent that this happens again?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you implement all these improvements for your WooCommerce webshop, Atelier Christian, ensuring a seamless experience on both desktop and mobile.\n\nTo address your requirements:\n1. **Advanced Filtering & Search:** I will set up a flexible, AJAX-powered sidebar filter matching your exact tag structure, including custom image/text options, price ranges, sold-out toggles, and instant multi-filter results without page reloads. I'll also upgrade your header with a live autocomplete search bar.\n2. **Stock & Restock Management:** I'll configure the out-of-stock logic to remove the \"Add to Cart\" button and replace it with a custom \"Product aanvragen\" inquiry form that logs requests directly to your backend and emails info@atelierchristian.nl.\n3. **Security:** I'll clean out the spam user accounts and implement robust security hardening to prevent future fake registrations.\n\nYou can see examples of my recent WordPress and WooCommerce work here: https://www.thelifeyoucansave.org/. \n\nWhen would you like to get started?",
+    "publishedDateTime": "2026-10-07T18:26:21+0000",
+    "addedAt": "2026-10-07T18:27:15.493Z",
+    "url": "https://www.upwork.com/jobs/~022107900314947396728",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107900314947396728/apply/"
+  },
+  {
     "id": "2107896210133259101",
     "ciphertext": "~022107896210133259101",
     "title": "WordPress Theme Update and 502 Error Fix",
