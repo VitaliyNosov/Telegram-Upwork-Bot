@@ -1,5 +1,36 @@
 [
   {
+    "id": "2107867503049001249",
+    "ciphertext": "~022107867503049001249",
+    "title": "WordPress/Elementor Mobile Speed Optimization (WP Engine) — Fixed Price",
+    "description": "My site's mobile performance isn't where I need it to be, and it's raising what I pay for Google Ads. I need page speed improved across my main pages, and fixed properly so it stays fast.\n\nSite: mrcastlesmagic.com\n\nCurrent mobile results (Google PageSpeed Insights):\n- Homepage: Performance 61, LCP 7.7s\n- /corporate-events/: Performance 70, LCP 7.5s\n- /weddings/: Performance 53, LCP ~19s\n- /parties/: Performance 64, LCP 13.6s\n\nAlso in scope (city pages):\n- /orlando-magician/ (priority, ad landing page)\n- /tampa-magician/ (priority, ad landing page)\n- /miami-magician/\n- /jacksonville-magician/\n- /the-villages-magician/\n\nWHAT I NEED\n- Mobile LCP under 2.5s on every page listed above\n- CLS at or below 0.1 (most pages are currently 0 and must not get worse)\n- Total Blocking Time at or below 200ms\n- Images served at the right size, including on a custom image carousel built with hardcoded img tags\n- The fix should hold when I add new photos in the future\n\nSTACK\n- WordPress on WP Engine (managed hosting with its own server-level caching)\n- Elementor + Elementor Pro\n- Formidable Forms (quote form)\n- All in One SEO, Trustindex reviews widget, Imagify\n\nALREADY DONE (please don't quote for these)\n- Hero video re-encoded to 1080p\n- Full-screen preloader removed\n- Poster images added\n- Several photos converted and compressed\n\nREQUIREMENTS\n- My quote form must keep working. Please test it after every change.\n- Must be compatible with WP Engine's caching.\n- No visual or design changes. The carousel, video, and reviews widget stay.\n- Elementor and Elementor Pro stay on matched versions.\n\nFixed price. Please quote your own price and timeline.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "website-optimization",
+      "wordpress",
+      "page-speed-optimization",
+      "css",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can get your mobile LCP under 2.5s and fix those high load times across your main and ad landing pages on WP Engine, without breaking your Formidable Forms or altering your design. \n\nWith deep expertise in WordPress, Elementor performance, and Core Web Vitals optimization, I know how to properly handle heavy elements like custom carousels with hardcoded images, third-party widgets like Trustindex, and Imagify setups. I'll ensure proper image sizing, script execution, and seamless compatibility with WP Engine's server-level caching so the performance holds up long-term when you add new photos. \n\nI’ve optimized high-traffic WordPress sites like https://www.cchpca.org/ for speed and Core Web Vitals. \n\nLet's discuss a fixed price and timeline in chat—when would you like to get started?",
+    "publishedDateTime": "2026-10-07T16:15:52+0000",
+    "addedAt": "2026-10-07T16:16:58.014Z",
+    "url": "https://www.upwork.com/jobs/~022107867503049001249",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107867503049001249/apply/"
+  },
+  {
     "id": "2107852190943627988",
     "ciphertext": "~022107852190943627988",
     "title": "WordPress Developer Needed – Clean Rebuild of Compromised Site + Meta/GA4 Tracking",

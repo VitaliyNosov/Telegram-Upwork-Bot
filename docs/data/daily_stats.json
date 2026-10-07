@@ -1,10 +1,10 @@
 {
   "date": "2026-10-07",
   "lastDigestSentDate": "2026-10-06",
-  "totalScanned": 52,
-  "matchedFilters": 9,
+  "totalScanned": 53,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022107619277450857172",
       "addedAt": "2026-10-06T23:50:51.107Z"
+    },
+    {
+      "title": "WordPress/Elementor Mobile Speed Optimization (WP Engine) — Fixed Price",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022107867503049001249",
+      "addedAt": "2026-10-07T16:16:56.723Z"
     },
     {
       "title": "E-commerce Website for Peptides",
