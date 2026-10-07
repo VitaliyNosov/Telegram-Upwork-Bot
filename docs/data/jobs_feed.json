@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107896210133259101",
+    "ciphertext": "~022107896210133259101",
+    "title": "WordPress Theme Update and 502 Error Fix",
+    "description": "Need help updating my WordPress site from an outdated Ithemems builder theme to a modern theme while preserving my wishlist member database, post protections, and page protections. \n\nThe site currently showing a 502 Bad Gateway error through cloudfare, and I need someone who can diagnose and resolve this issue. \n\nI have an Ionos VPS, so experience working with that environment is important. \n\nPlease share relevant experience with WordPress theme migrations, database integrity, and server troubleshooting.\n\nMore work similar to this with other wordpress sites is possbile depending on how this experience goes.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "wordpress-plugin"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I can quickly resolve your 502 Bad Gateway error and safely migrate your site away from the outdated iThemes builder without losing any Wishlist Member data, post protections, or user permissions. \n\nI have extensive experience troubleshooting server-level issues on Ionos VPS environments, diagnosing Cloudflare configuration conflicts, and executing complex theme migrations while maintaining strict database integrity. I also handle general server performance tuning and fix memory or gateway errors regularly. You can see examples of my live WordPress work here: https://www.thelifeyoucansave.org/\n\nIf this goes well, I would be glad to help you with your other WordPress sites as well. \n\nAre you currently able to access your Ionos server backend and Cloudflare dashboard, or should we start by checking the PHP-FPM and Nginx/Apache error logs?",
+    "publishedDateTime": "2026-10-07T18:10:18+0000",
+    "addedAt": "2026-10-07T18:11:21.291Z",
+    "url": "https://www.upwork.com/jobs/~022107896210133259101",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107896210133259101/apply/"
+  },
+  {
     "id": "2107873410609439378",
     "ciphertext": "~022107873410609439378",
     "title": "IDX Website Setup and Training for Realtor",

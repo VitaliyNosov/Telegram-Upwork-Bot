@@ -1,10 +1,10 @@
 {
   "date": "2026-10-07",
   "lastDigestSentDate": "2026-10-06",
-  "totalScanned": 61,
-  "matchedFilters": 11,
+  "totalScanned": 62,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022107867503049001249",
       "addedAt": "2026-10-07T16:16:56.723Z"
+    },
+    {
+      "title": "WordPress Theme Update and 502 Error Fix",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022107896210133259101",
+      "addedAt": "2026-10-07T18:11:20.039Z"
     },
     {
       "title": "E-commerce Website for Peptides",
