@@ -1,5 +1,67 @@
 [
   {
+    "id": "2107811239418520210",
+    "ciphertext": "~022107811239418520210",
+    "title": "Shopify E-commerce Developer & Website Redesign – Long-Term",
+    "description": "I'm looking ONLY for TOP-RATED freelancers or agencies only with a good work history on Upwork.\n\n\nOur store is already live. We are looking for someone who can take it to a much higher standard in terms of **design, functionality, customer experience and conversion**.\n\nAll requirements attached, Please reply in your proposal with \"100% SEEN\" to understand that you checked the attached requirements and fully aware of the project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$30 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "shopify",
+      "ecommerce-consulting",
+      "woocommerce"
+    ],
+    "score": 6000,
+    "coverLetter": "100% SEEN. Hi! \n\nI’d love to help you elevate your live Shopify store to a much higher standard of design, UX, and conversion. Beyond my core WordPress and WooCommerce expertise, I have extensive hands-on experience with Shopify store setups, theme customization, and conversion-focused redesigns. \n\nMy focus is on writing clean, scalable code that not only looks exceptional but drives measurable sales performance and smooth customer journeys. For a quick look at my work quality with complex layout builds, you can check out https://about.offerup.com/.\n\nAre the attached requirements focused more heavily on custom theme styling, or improving core checkout and app functionalities first? Let’s chat about your vision.",
+    "publishedDateTime": "2026-10-07T12:33:15+0000",
+    "addedAt": "2026-10-07T12:34:54.435Z",
+    "url": "https://www.upwork.com/jobs/~022107811239418520210",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107811239418520210/apply/"
+  },
+  {
+    "id": "2107811716835004848",
+    "ciphertext": "~022107811716835004848",
+    "title": "WordPress/WooCommerce + QuickBooks Developer with AI Automation Skills (Hourly, Start ASAP)",
+    "description": "We need a fast, available WordPress/WooCommerce developer to manage our e-commerce site. Hourly contract, starting immediately.\n\nWhat you'll do:\n\n- Install and configure plugins of any kind. First up: a payment-matching plugin (Stripe, PayPal, etc. ↔ QuickBooks invoices) and an abandoned cart email recovery plugin\n- Set up and verify pixels and tracking so our paid ads data is accurate, working with our Ads Manager\n- custom code on our theme when needed\n- automate as many back-office and operations workflows as possible using AI agents\n\nMust-haves:\n\n- Solid experience with WordPress, WooCommerce and QuickBooks\nCoding skills\n- Experience building AI agents and workflow automations\n- Real availability and fast turnaround. Please don't apply if you're already overloaded.\n\nLong-term role for the right person. \nWe'll choose based on the best combination of experience, availability and hourly rate.\n\nTo apply, tell us:\n\n- Your WordPress, WooCommerce and QuickBooks integration experience\n- Your experience with AI agents and workflow automation\n- Your hourly rate\n- When you can start",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$10 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 21,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress-plugin",
+      "php",
+      "api-integration",
+      "wp-ecommerce",
+      "quick-books-online",
+      "quick-books-online-api",
+      "google-tag-manager",
+      "automation"
+    ],
+    "score": 4150,
+    "coverLetter": "Hi! \n\nI am available to start immediately and have the exact WordPress, WooCommerce, and custom coding stack you need for this ongoing role. \n\nWhile my core expertise is deep in WordPress, WooCommerce, and API integrations (such as Stripe, PayPal, and CRM connections), I also build backend workflows and process automations. I can quickly set up your payment-matching infrastructure, configure your abandoned cart sequences, and ensure your tracking pixels and Google Tag Manager setups are airtight with your Ads Manager. \n\nMy hourly rate is $[Insert Rate], and I have immediate availability to jump in today. \n\nTo help you evaluate my fit: what specific QuickBooks integration or plugin do you currently prefer for the Stripe/PayPal matching, or are you open to recommendations? \n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-10-07T12:34:13+0000",
+    "addedAt": "2026-10-07T12:34:51.655Z",
+    "url": "https://www.upwork.com/jobs/~022107811716835004848",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107811716835004848/apply/"
+  },
+  {
     "id": "2107789656700178864",
     "ciphertext": "~022107789656700178864",
     "title": "WordPress Developer for Website Build",
