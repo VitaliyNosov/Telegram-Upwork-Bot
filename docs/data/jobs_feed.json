@@ -1,5 +1,38 @@
 [
   {
+    "id": "2107703175379900649",
+    "ciphertext": "~022107703175379900649",
+    "title": "Fix Lazy Loading, Aw Snap, Broken Page, iPhone Compatibility, All browsers accepted.",
+    "description": "I need a tech savvy, trustworthy, always act on specidied details. Ask questions if necessary.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 53,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "frontend-development",
+      "ajax",
+      "aws-amplify-platform",
+      "php",
+      "wordpress",
+      "html5",
+      "css",
+      "web-programming"
+    ],
+    "score": 3098,
+    "coverLetter": "Hi! I can certainly tackle those performance and compatibility issues. I specialize in diagnosing technical breakages and site instability, whether it’s \"Aw Snap\" memory crashes, broken layouts, or cross-browser rendering issues on mobile.\n\nI have extensive experience resolving complex WordPress conflicts and optimizing high-traffic sites for Core Web Vitals, which is likely where your lazy loading and browser compatibility issues stem from. I focus on clean code and performance, ensuring your site functions reliably across all devices, including iPhones. You can see an example of my work on complex, high-traffic sites at https://www.thelifeyoucansave.org/.\n\nAre you seeing these errors on specific pages, or is it happening site-wide? Let’s jump into a quick chat so I can identify the root cause and get this fixed for you.",
+    "publishedDateTime": "2026-10-07T05:22:53+0000",
+    "addedAt": "2026-10-07T05:24:56.520Z",
+    "url": "https://www.upwork.com/jobs/~022107703175379900649",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107703175379900649/apply/"
+  },
+  {
     "id": "2107602296071119506",
     "ciphertext": "~022107602296071119506",
     "title": "E-commerce Website for Peptides",
