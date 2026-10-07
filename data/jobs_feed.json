@@ -1,5 +1,38 @@
 [
   {
+    "id": "2107978418755900253",
+    "ciphertext": "~022107978418755900253",
+    "title": "To check my website and make major improvement",
+    "description": "Need someone to check on make improvement to my website.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "all-in-one-seo-pack",
+      "javascript",
+      "web-design",
+      "wordpress",
+      "html",
+      "css",
+      "php",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI would love to help you audit and make major improvements to your website. With extensive experience in WordPress, PHP, JavaScript, and SEO configurations (like All in One SEO), I specialize in diagnosing technical bottlenecks, upgrading design elements, and optimizing site performance. \n\nWhether your site needs speed optimization, structural clean-up, or design enhancements, I can quickly identify what’s holding it back and implement high-impact solutions. You can review a recent project build of mine here: https://www.thelifeyoucansave.org/\n\nCould you share your website URL and a few specific goals or pain points you want to address first? \n\nBest regards,\nWordPress & Web Development Expert",
+    "publishedDateTime": "2026-10-07T23:36:45+0000",
+    "addedAt": "2026-10-07T23:38:58.567Z",
+    "url": "https://www.upwork.com/jobs/~022107978418755900253",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107978418755900253/apply/"
+  },
+  {
     "id": "2107948483287569448",
     "ciphertext": "~022107948483287569448",
     "title": "Web Designer for Nonprofit Website Refresh",
