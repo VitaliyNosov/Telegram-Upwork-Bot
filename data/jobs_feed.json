@@ -1,5 +1,38 @@
 [
   {
+    "id": "2107900483202831400",
+    "ciphertext": "~022107900483202831400",
+    "title": "Full-Stack Developer Needed for Furniture E-commerce Website",
+    "description": "We are looking for an experienced **Full-Stack Developer / WordPress + WooCommerce Expert** to build a professional, modern and premium **furniture e-commerce website** for a UK-based business.\n\nWe will provide a reference website privately. The new website should have a similar level of **design, structure, functionality and user experience**, but with completely different branding, products and content.\n\n## Project Scope\n\nThe developer will be responsible for:\n\n- Complete WordPress + WooCommerce website development\n- Premium and modern furniture-store design\n- Fully responsive desktop, tablet and mobile design\n- Homepage with banners, collections and featured products\n- Product categories and collection pages\n- Detailed product pages with images, prices, dimensions, materials and specifications\n- Product search, filtering and sorting\n- Shopping cart and optimized checkout\n- Payment gateway integration\n- Customer registration/login and My Account\n- Order management and email notifications\n- Discount/coupon functionality\n- Shipping and delivery configuration\n- About Us, FAQ, Contact, Returns, Privacy Policy and Terms pages\n- Customer assistance/contact feature\n- Easy-to-manage admin panel\n- Speed and performance optimization\n- Basic technical SEO\n- Security configuration\n- Complete testing and bug fixing before launch\n\n## Technical Requirements\n\nStrong experience with:\n\n- WordPress\n- WooCommerce\n- PHP\n- HTML/CSS\n- JavaScript\n- MySQL\n- Responsive design\n- WooCommerce customization\n- Payment integrations\n- Website speed optimization\n- Technical SEO\n\nExperience with **furniture, home decor or premium e-commerce websites** is a strong advantage.\n\n**Please do not apply if you only install themes or make basic Elementor edits.** We need someone who can handle both frontend and backend development.\n\n## Budget & Timeline\n\n**Project Type:** Fixed Price  \n**Budget:** **$500 USD are Fixed**  \n**Expected Timeline:** **2 or 3 weeks**\n\nThe $500 budget covers the complete scope described above, including development, responsive optimization, testing and bug fixing.\n\n## To Apply\n\nPlease send:\n\n1. 3â€“5 best e-commerce websites you have built\n2. At least one WooCommerce project\n3. Any furniture/home decor projects\n4. Your estimated completion time\n5. Confirmation that you can complete the project within the **$500 fixed budget**\n6. A brief explanation of how you would approach this project\n\nWe are looking for a reliable developer who can deliver a **high-quality, production-ready website** and potentially work with us on future projects.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 377,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "web-design",
+      "html",
+      "javascript",
+      "php",
+      "css",
+      "woocommerce"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can build your modern furniture e-commerce website on WordPress and WooCommerce, completely tailored to your UK-based brand within the $500 fixed budget and a 2-3 week timeline. \n\nAs a full-stack WordPress developer, I specialize in custom WooCommerce architecture, advanced filtering, optimized checkouts, and seamless payment gateway integrations rather than just basic theme setups. I build fast, fully responsive, and easily manageable stores from the ground up using PHP, JavaScript, and MySQL.\n\nHere are a few relevant e-commerce and high-performance WordPress projects from my portfolio:\n- https://waapple.org/\n- https://about.offerup.com/\n\n**My approach:** I will start by mapping out the site structure and product categories based on your reference site, set up the backend WooCommerce configuration with custom shipping and checkout, develop the responsive frontend, and finalize with speed optimization and security hardening.\n\nI confirm I can complete this within your $500 budget. Could you share the link to the reference website so we can get started?",
+    "publishedDateTime": "2026-10-07T18:26:58+0000",
+    "addedAt": "2026-10-07T18:28:57.974Z",
+    "url": "https://www.upwork.com/jobs/~022107900483202831400",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107900483202831400/apply/"
+  },
+  {
     "id": "2107900314947396728",
     "ciphertext": "~022107900314947396728",
     "title": "Amendments to Wordpress website webshop",

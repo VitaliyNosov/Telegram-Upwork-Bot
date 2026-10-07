@@ -1,10 +1,10 @@
 {
   "date": "2026-10-07",
   "lastDigestSentDate": "2026-10-06",
-  "totalScanned": 63,
-  "matchedFilters": 13,
+  "totalScanned": 64,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022107852190943627988",
       "addedAt": "2026-10-07T15:18:15.482Z"
+    },
+    {
+      "title": "Full-Stack Developer Needed for Furniture E-commerce Website",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022107900483202831400",
+      "addedAt": "2026-10-07T18:28:56.699Z"
     },
     {
       "title": "WordPress Pay-Per-View Video Catalog",
