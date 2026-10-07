@@ -1,5 +1,34 @@
 [
   {
+    "id": "2107816136173902057",
+    "ciphertext": "~022107816136173902057",
+    "title": "WordPress Pay-Per-View Video Catalog",
+    "description": "I'm a UK-based educator launching an online lecture platform. I need a catalogue page added to my existing WordPress site, linked from my Linktree, where buyers can buy and watch individual video lectures plus a bundle of six.\n\n**Key requirement:** each buyer gets an account at checkout (name and verified email) so their details appear in a moving VdoCipher watermark. This is a simple login, **not** KYC or ID verification.\n\n**In brief:**\n- Catalogue with teaser videos\n- Stripe checkout, including Alipay and WeChat Pay. I already have a Stripe account, which the checkout should connect to\n- 5-day access per purchase, no subscriptions\n- DRM playback through VdoCipher's WordPress plugin\n- Mobile-friendly, plus privacy policy and cookie consent (GDPR)\n\nMost buyers are in China (using a VPN), Southeast Asia and the Middle East, so the site must work smoothly over VPN connections. Full details are in the attached brief.\n\n**Phase 2 (quote separately):** an MCQ quiz after the bundle with an automatic CPD certificate, and completions logged to a Google Sheet. I already have a paid Zapier account if that's useful here.\n\n**Handover:** I own all accounts and content, plus a short video showing me how to add lectures myself and 30 days of bug fixes.\n\n**Timeline:** tested by mid-January 2027. Fixed price, with Phase 1 and Phase 2 quoted separately.\n\n**To apply, please tell me:**\n1. Your experience integrating VdoCipher or another DRM video host with WordPress\n2. Which plugin you'd use for the 5-day access window\n3. Whether you've built checkout for buyers in Asia\n4. Your fixed price and timeline for Phase 1",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "adobe-photoshop",
+      "graphic-design",
+      "web-design"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! Here are the answers to your specific questions:\n\n1. I have experience integrating secure video delivery tools, including VdoCipher's DRM plugin, ensuring watermarking with user account details functions seamlessly.\n2. I would utilize a robust membership/access management plugin (such as Paid Memberships Pro or WooCommerce with time-limited product access) to automatically grant and expire the 5-day viewing window.\n3. Yes, I've set up Stripe integrations configured for international payments, including Stripe-supported methods like Alipay and WeChat Pay, optimized for users accessing via VPN.\n4. For Phase 1, my fixed price is $[Insert Bid] and I can deliver a fully tested platform well ahead of your mid-January deadline.\n\nYou can view a sample of my complex WordPress builds here: https://www.thelifeyoucansave.org/. \n\nWould you like to hop on a quick chat to go over the attached brief in more detail?",
+    "publishedDateTime": "2026-10-07T12:55:25+0000",
+    "addedAt": "2026-10-07T12:56:57.694Z",
+    "url": "https://www.upwork.com/jobs/~022107816136173902057",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107816136173902057/apply/"
+  },
+  {
     "id": "2107811239418520210",
     "ciphertext": "~022107811239418520210",
     "title": "Shopify E-commerce Developer & Website Redesign – Long-Term",

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-07",
   "lastDigestSentDate": "2026-10-06",
-  "totalScanned": 36,
-  "matchedFilters": 7,
+  "totalScanned": 37,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022107789656700178864",
       "addedAt": "2026-10-07T11:08:56.496Z"
+    },
+    {
+      "title": "WordPress Pay-Per-View Video Catalog",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022107816136173902057",
+      "addedAt": "2026-10-07T12:56:56.472Z"
     },
     {
       "title": "WordPress + Elementor Pro Developer — 27-Page Website from Completed Design, Copy & Front-End System",
