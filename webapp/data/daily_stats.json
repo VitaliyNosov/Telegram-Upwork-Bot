@@ -1,11 +1,11 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 55,
-  "matchedFilters": 16,
+  "totalScanned": 57,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 15,
-    "woocommerce": 1
+    "wordpress developer": 16,
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -84,6 +84,20 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108226537573783829",
       "addedAt": "2026-10-08T16:05:03.837Z"
+    },
+    {
+      "title": "WordPress Affiliate Website Developer & Manager – SEO, CRO & Lasso Experience Required",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022108243758861719829",
+      "addedAt": "2026-10-08T17:14:59.290Z"
+    },
+    {
+      "title": "Ecommerce Website Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022108243976877447445",
+      "addedAt": "2026-10-08T17:15:37.958Z"
     },
     {
       "title": "Looking for Webmaster / Admin for Word Press Sites",
