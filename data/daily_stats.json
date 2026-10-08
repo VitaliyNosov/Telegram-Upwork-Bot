@@ -1,10 +1,10 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 44,
-  "matchedFilters": 12,
+  "totalScanned": 45,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 2800,
       "url": "https://www.upwork.com/jobs/~022108169298080239413",
       "addedAt": "2026-10-08T12:16:59.294Z"
+    },
+    {
+      "title": "WordPress Custom Plugin: Employer Compliance Dashboard, CSV Import, PDF Export + Emails",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022108209910648084757",
+      "addedAt": "2026-10-08T14:58:56.696Z"
     },
     {
       "title": "web dev for my WP website - just tweaks",

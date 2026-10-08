@@ -1,5 +1,33 @@
 [
   {
+    "id": "2108209910648084757",
+    "ciphertext": "~022108209910648084757",
+    "title": "WordPress Custom Plugin: Employer Compliance Dashboard, CSV Import, PDF Export + Emails",
+    "description": "Context: We sell accredited food safety certs via WooCommerce (WordPress). Existing fulfillment system provisions courses and returns card PDFs. Email authenticated via Postmark 9.5/10. For V1 MVP we will do manual fulfillment — no API automation needed yet, but build it so API can be added later without rebuild.\n\nV1 MVP Deliverables:\n\nPlugin: tfss-compliance-manager, shortcode [tfss_compliance], no Elementor\nData Model: Employees linked to Employer WP User. Fields: first_name, last_name, email, course_type, status (Not Started / In Progress / Passed / Expired), date_completed, expiration_date, cert_number, cert_pdf_url, order_id, source (manual_v1 / api_v2)\nCritical Architecture — provider_adapter(): All status changes, card PDF ingestion, and expiration setting MUST go through a single function tfss_provider_adapter( $employee_id, $payload ). For V1, payload comes from Admin manual action. For V2, same function will be called by webhook. Do NOT scatter status updates across admin — centralize them. This is required so V2 is 3-4 hours, not a rebuild.\nAdmin UI: WP Admin - Compliance — CSV import (name,email,course), bulk assign, edit via provider_adapter(), upload PDF, set expiration, filter by employer/status\nEmployer Frontend: /my-compliance — table with 🟢 Current / 🟡 30d / 🔴 Expired / ⚪ Not Started, search/filter, view PDF\nExport: One-click PDF + CSV compliance report — company name, report date, % compliant, roster with cert #, expiration — licensing-ready\nWooCommerce: Order for 10x product creates 10 employee slots for buyer\nAuto-Emails via Action Scheduler + wp_mail:\nImmediate: On import/slot creation → enroll email to employee + CC employer. On provider_adapter() marking Passed → send cert PDF + \"compliant\" email\nScheduled: When provider_adapter() sets expiration_date, schedule single actions: 60/30/7 days before + expiration day. On date change, unschedule old actions. Emails to employee + employer with 1-click renew link.\nTech: WP + Woo, PHP 8+, custom plugin, DataTables or WP_List_Table, Action Scheduler (not vanilla WP-Cron)\n\nAcceptance Criteria:\n\n15-person CSV import works, enroll emails fire\nAdmin marks 5 Passed via adapter, uploads PDFs, dashboard updates + Passed emails fire + renewal actions scheduled in Action Scheduler queue\nEmployer /my-compliance shows correct badges\nPDF/CSV export correct\nChange expiration = tomorrow, old scheduled actions removed, new ones created, test email fires\nWoo order creates slots\nAll status changes go through provider_adapter() — verified in code review\nMilestones: M1 25% DB + Admin + adapter, M2 30% Frontend, M3 25% Export, M4 20% Auto-Emails + Woo + QA\n\nTo Bid: Fixed price + timeline + 1 similar dashboard you built + confirm you will centralize via provider_adapter()\n\nSupplier details NDA'd in private chat.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-plugin",
+      "woocommerce",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I confirm that I will strictly centralize all status changes, card PDF ingestion, and expirations through a single `tfss_provider_adapter()` function to ensure your V2 API transition is seamless. \n\nI am a senior WordPress and PHP developer with deep experience building custom plugins, WooCommerce integrations, and complex admin/frontend dashboards. I completely understand your architecture requirements—using Action Scheduler for reliable background emails, DataTables for the UI, and cleanly structuring the data model so V1 manual fulfillment scales effortlessly into V2 automation.\n\nFixed Price: [Insert Bid]\nTimeline: [Insert Days]\nSimilar Dashboard: https://www.cchpca.org/ (features complex user data management and custom reporting interfaces).\n\nLet's chat about getting M1 started.",
+    "publishedDateTime": "2026-10-08T14:56:40+0000",
+    "addedAt": "2026-10-08T14:58:57.966Z",
+    "url": "https://www.upwork.com/jobs/~022108209910648084757",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108209910648084757/apply/"
+  },
+  {
     "id": "2108190061823946265",
     "ciphertext": "~022108190061823946265",
     "title": "E-commerce pagamentos   online",
