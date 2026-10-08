@@ -1,5 +1,37 @@
 [
   {
+    "id": "2108169298080239413",
+    "ciphertext": "~022108169298080239413",
+    "title": "WordPress & Shopify Web Developer",
+    "description": "We’re seeking a web developer to support an agency with custom website updates and technical fixes. The work includes improving existing WordPress and Shopify sites, implementing client-requested changes, troubleshooting issues, and helping maintain site performance. You should be comfortable handling front-end and back-end tasks, collaborating with agency teams, and delivering reliable updates on time. This is a part-time, ongoing role for someone who can support multiple projects and communicate clearly throughout the development process.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 34,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "css",
+      "web-design",
+      "web-programming",
+      "shopify",
+      "wordpress",
+      "e-commerce-website"
+    ],
+    "score": 2800,
+    "coverLetter": "Hi!\n\nI’d love to support your agency as a reliable, ongoing developer for your WordPress and Shopify client projects. \n\nWith deep expertise in both platforms—ranging from front-end styling and custom theme updates to back-end troubleshooting, database optimization, and e-commerce configurations—I regularly handle the exact mix of tasks you’re looking for. I'm very comfortable collaborating with agency teams, keeping communication clear, and turning around clean, dependable updates on tight deadlines. \n\nFor a sense of my WordPress work quality, you can take a look at https://www.thelifeyoucansave.org/. \n\nWhat types of technical updates or fixes are sitting on your agency’s desk right now that we could tackle first? Let's chat!",
+    "publishedDateTime": "2026-10-08T12:15:06+0000",
+    "addedAt": "2026-10-08T12:17:00.415Z",
+    "url": "https://www.upwork.com/jobs/~022108169298080239413",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108169298080239413/apply/"
+  },
+  {
     "id": "2108122139909280808",
     "ciphertext": "~022108122139909280808",
     "title": "Website Clone with Custom Sell Section",

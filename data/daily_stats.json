@@ -1,10 +1,10 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 36,
-  "matchedFilters": 9,
+  "totalScanned": 37,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3150,
       "url": "https://www.upwork.com/jobs/~022108076687743061813",
       "addedAt": "2026-10-08T06:08:54.460Z"
+    },
+    {
+      "title": "WordPress & Shopify Web Developer",
+      "budget": "$12-$27/hr",
+      "score": 2800,
+      "url": "https://www.upwork.com/jobs/~022108169298080239413",
+      "addedAt": "2026-10-08T12:16:59.294Z"
     },
     {
       "title": "web dev for my WP website - just tweaks",
