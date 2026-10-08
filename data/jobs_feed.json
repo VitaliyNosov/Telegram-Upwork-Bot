@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108122139909280808",
+    "ciphertext": "~022108122139909280808",
+    "title": "Website Clone with Custom Sell Section",
+    "description": "Create a website clone with a new logo and only a “Buy” and “Sell” menu tab. Most of the content will be based on an existing website, but the “Sell” section for virtual goods needs to be custom built. The project is straightforward and should take only 1 or 2 days to complete.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$25 - $45/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 29,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "javascript"
+    ],
+    "score": 4500,
+    "coverLetter": "Hi!\n\nI can help you clone your reference site with the new branding and build that custom \"Sell\" section for virtual goods right away. Since this is a straightforward project, I can have it fully wrapped up for you within your 1-2 day timeframe.\n\nI’m a senior WordPress and PHP developer with extensive experience building custom sections, user workflows, and database-driven features from scratch—just like your virtual goods \"Sell\" module. I've delivered numerous custom web projects, such as https://about.offerup.com/, ensuring clean code and seamless functionality. \n\nCould you share the URL of the website you'd like to clone and any specific requirements you have in mind for the virtual goods submission process? We can get started right away.",
+    "publishedDateTime": "2026-10-08T12:07:44+0000",
+    "addedAt": "2026-10-08T12:09:07.231Z",
+    "url": "https://www.upwork.com/jobs/~022108122139909280808",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108122139909280808/apply/"
+  },
+  {
     "id": "2108166448327495477",
     "ciphertext": "~022108166448327495477",
     "title": "Website Redesign and Development",

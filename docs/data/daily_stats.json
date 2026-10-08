@@ -1,12 +1,19 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 35,
-  "matchedFilters": 8,
+  "totalScanned": 36,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
+    {
+      "title": "Website Clone with Custom Sell Section",
+      "budget": "$25-$45/hr",
+      "score": 4500,
+      "url": "https://www.upwork.com/jobs/~022108122139909280808",
+      "addedAt": "2026-10-08T12:08:56.601Z"
+    },
     {
       "title": "WooCommerce Fraud & Security Specialist",
       "budget": "$10-$30/hr",
