@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108226537573783829",
+    "ciphertext": "~022108226537573783829",
+    "title": "Nonprofit Website Redesign",
+    "description": "Social Accountability International (SAI), a nonprofit advancing human rights at work, is redesigning its WordPress website and looking for a designer to partner with us on UX, visual design, and WordPress development. The project includes a new visual design system, templates for various page types, a custom interactive page, content migration. The launch is targeted for the end of January 2027. \n\nPlease see the attached document for project details. We'd like to finalize the deliverables, timeline, and payment structure collaboratively with the designer we select. Our process includes reviewing work samples, an interview, and a short test exercise. In your proposal, please include 2-3 relevant WordPress work samples, your availability through January, and your proposed rate or fee structure.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I have full availability through January 2027 and am ready to help Social Accountability International redesign and launch your new WordPress platform. \n\nFor nonprofit website redesigns, I bring deep experience building clean, custom WordPress sites that balance compelling visual design with robust functionality like custom page templates, interactive elements, and seamless content migration. My work includes delivering structured, user-friendly sites for mission-driven organizations—you can view a relevant example of my work at https://www.thelifeyoucansave.org/. \n\nI am comfortable working collaboratively to finalize deliverables and timelines, and I am happy to participate in your interview process and short test exercise. My standard rate is $45/hr, though I am open to discussing a fixed-fee structure once we review the project details together.\n\nWould you like to schedule a brief chat this week to discuss the project scope and the test exercise?",
+    "publishedDateTime": "2026-10-08T16:03:52+0000",
+    "addedAt": "2026-10-08T16:05:05.033Z",
+    "url": "https://www.upwork.com/jobs/~022108226537573783829",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108226537573783829/apply/"
+  },
+  {
     "id": "2108209910648084757",
     "ciphertext": "~022108209910648084757",
     "title": "WordPress Custom Plugin: Employer Compliance Dashboard, CSV Import, PDF Export + Emails",
