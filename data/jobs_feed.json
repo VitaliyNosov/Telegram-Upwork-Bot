@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108234688629931081",
+    "ciphertext": "~022108234688629931081",
+    "title": "WordPress Designer Needed for Modern Irish Accounting Website",
+    "description": "We are looking for a talented WordPress designer and developer to create a polished, modern website for an established accounting firm in Ireland.\n\nThis is not intended to be a generic accounting website. We want a professional and trustworthy design that also feels warm, contemporary and visually engaging.\n\n### Creative direction\n\nThe website should combine:\n\n- A visually impactful homepage with a video hero section\n- A clean, organised structure\n- Strong service presentation using elegant content boxes\n- Excellent usability on mobile devices\n- A professional but approachable Irish business identity\n- Clear calls to action that encourage potential clients to make contact\n\nThe opening video has already been selected. Professional website copy is being prepared separately and will be supplied.\n\nDetailed visual references will be shared with shortlisted applicants.\n\n### Proposed website structure\n\n- Homepage\n- About\n- Services overview\n- Individual service pages\n- Frequently Asked Questions\n- Contact and enquiry form\n- Privacy and cookie pages\n- Space for a future client-login link\n\nThe initial website will provide information and generate enquiries. A client portal is not part of this phase.\n\n### Project requirements\n\nThe successful applicant will be responsible for:\n\n- Designing and developing the website in WordPress\n- Creating a strong video hero section\n- Building a fully responsive mobile experience\n- Presenting services through clean, attractive sections\n- Integrating the supplied copy and visual assets\n- Creating the contact and enquiry forms\n- Applying basic on-page SEO structure\n- Optimising performance and image loading\n- Implementing appropriate cookie controls\n- Testing the website across desktop, tablet and mobile\n- Launching the website on the firm’s `.ie` domain\n- Redirecting the existing `.com` domain where technically appropriate\n- Providing a simple handover after launch\n\nThe domain is registered with Blacknight. Hosting arrangements are currently being confirmed.\n\nOnly properly licensed themes and plugins may be used. No nulled or unauthorised software will be accepted.\n\n### Budget and timeframe\n\n- Fixed-price budget: approximately €500\n- Desired completion: within two to three weeks of receiving all content\n- Payment can be divided into agreed project milestones\n- Reasonable design revisions should be included\n\nWe are ready to begin once the right designer is selected and the final copy is available.\n\n### What to include in your proposal\n\nPlease provide:\n\n1. Three live WordPress websites that best represent your work.\n2. A clear explanation of what you personally designed or developed on each website.\n3. The theme, framework or page builder you recommend for this project.\n4. Your estimated delivery time.\n5. The number of revision rounds included.\n6. Confirmation that you can provide support during testing and launch.\n\nPlease do not submit general lists of major brands or team projects without explaining and verifying your personal contribution. We value honesty, attention to detail and clear communication more than impressive but unsupported claims.\n\nWe are hoping to find a reliable designer with whom we can work again on future client projects.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "mockup"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can certainly help you build a professional, modern, and warm website for your Irish accounting firm that balances trust with visual engagement.\n\nRegarding your requirements:\n1. Examples: \n- https://www.thelifeyoucansave.org/ (Custom theme development and layout)\n- https://www.cchpca.org/ (Performance optimization and responsive design)\n- https://waapple.org/ (Full site build and UI implementation)\n2. I recommend using Bricks or a clean Gutenberg-based setup for this project; they offer superior performance and a lightweight codebase compared to bloated builders.\n3. Delivery time: 2.5 weeks.\n4. Revisions: Three rounds included.\n5. I confirm full support during testing and launch, including domain redirects and Blacknight hosting configuration.\n\nMy expertise in custom WordPress development and high-performance site architecture ensures your site will be fast, secure, and mobile-responsive. Are you available for a brief chat to discuss your visual references?",
+    "publishedDateTime": "2026-10-08T16:35:16+0000",
+    "addedAt": "2026-10-08T16:37:10.172Z",
+    "url": "https://www.upwork.com/jobs/~022108234688629931081",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108234688629931081/apply/"
+  },
+  {
     "id": "2108226537573783829",
     "ciphertext": "~022108226537573783829",
     "title": "Nonprofit Website Redesign",
