@@ -1,10 +1,10 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 62,
-  "matchedFilters": 19,
+  "totalScanned": 63,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 17,
+    "wordpress developer": 18,
     "woocommerce": 2
   },
   "topJobs": [
@@ -112,6 +112,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022108006648989246414",
       "addedAt": "2026-10-08T01:31:09.074Z"
+    },
+    {
+      "title": "web developer (adobe XD to live website)",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022108260183891896985",
+      "addedAt": "2026-10-08T18:20:59.758Z"
     },
     {
       "title": "Expert Website Conversion Strategist Needed Full Website Overhaul, SEO, GHL & Lead Generation",
