@@ -1,10 +1,10 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 37,
-  "matchedFilters": 10,
+  "totalScanned": 38,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3150,
       "url": "https://www.upwork.com/jobs/~022108076687743061813",
       "addedAt": "2026-10-08T06:08:54.460Z"
+    },
+    {
+      "title": "WordPress Academy LMS Setup",
+      "budget": "$10-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022108173632640711194",
+      "addedAt": "2026-10-08T12:33:00.644Z"
     },
     {
       "title": "WordPress & Shopify Web Developer",

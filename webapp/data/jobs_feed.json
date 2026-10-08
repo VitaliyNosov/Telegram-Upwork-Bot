@@ -1,5 +1,36 @@
 [
   {
+    "id": "2108173632640711194",
+    "ciphertext": "~022108173632640711194",
+    "title": "WordPress Academy LMS Setup",
+    "description": "Need help setting up a WordPress site for paid course sales. The work includes installing and configuring WordPress, Elementor, and Academy LMS, creating a clean course sales page, and ensuring the checkout and payment flow works smoothly. You should be able to guide the setup process, recommend best practices, and help deliver a reliable system for selling courses online.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "elementor",
+      "wordpress-plugin",
+      "paypal-integration"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi!\n\nSetting up a seamless LMS and payment flow for selling courses online is right in my wheelhouse. I frequently configure WordPress platforms with Elementor, LMS plugins, and secure checkout systems, ensuring everything runs reliably from day one. \n\nFor your project, I can install and configure Academy LMS, build a high-converting course sales page using Elementor, and integrate your payment gateway (such as PayPal) with end-to-end testing to prevent any checkout drop-offs. I'll also guide you through best practices for managing your digital catalog and user enrollments. \n\nYou can check out some of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nWhen are you looking to have this fully set up and ready for students? Let's chat about the details.",
+    "publishedDateTime": "2026-10-08T12:32:19+0000",
+    "addedAt": "2026-10-08T12:33:01.759Z",
+    "url": "https://www.upwork.com/jobs/~022108173632640711194",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108173632640711194/apply/"
+  },
+  {
     "id": "2108169298080239413",
     "ciphertext": "~022108169298080239413",
     "title": "WordPress & Shopify Web Developer",
