@@ -1,10 +1,10 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 24,
-  "matchedFilters": 6,
+  "totalScanned": 26,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022108006648989246414",
       "addedAt": "2026-10-08T01:31:09.074Z"
+    },
+    {
+      "title": "B2B Ordering Platform for Food Wholesale Business (WooCommerce/WordPress)",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022108125330606026265",
+      "addedAt": "2026-10-08T09:22:47.884Z"
     }
   ]
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2108125330606026265",
+    "ciphertext": "~022108125330606026265",
+    "title": "B2B Ordering Platform for Food Wholesale Business (WooCommerce/WordPress)",
+    "description": "Overview:\nWe are a food wholesale company (supplying smashburger and fast-food items to horeca/restaurant businesses in the Netherlands) currently taking orders via WhatsApp. We want to move to a professional online B2B ordering platform for our ~25 existing business customers, built to scale as we grow.\n\nWhat we need:\n\nA WordPress + WooCommerce website with a public-facing company page and a secure customer login portal\nB2B functionality: each customer logs in and sees their own individually negotiated prices/discounts (via a B2B plugin such as B2BKing or Wholesale Suite)\nProduct catalog setup: fast-food items (burgers, sauces, packaging) with appropriate units (pieces, boxes, kg)\nCustom checkout logic: customers choose between (a) pay immediately (iDEAL/card) and receive a 5% discount, or (b) order on invoice/account with a 14-day payment term at full price\nIntegration with Dutch accounting software (Moneybird or e-Boekhouden.nl) so orders automatically generate invoices with the correct pricing/discount and payment terms applied\nAutomatic packing slip (pakbon) generation for each order, for warehouse fulfillment\nClean, professional design; mobile-friendly\n\nScope of work / phases:\n\nWordPress + WooCommerce base site setup\nE-mail addresses for three partners\nB2B plugin configuration with individual customer pricing (25 accounts to set up)\nCustom checkout logic for the prepay-discount vs. invoice-on-account flow\nAccounting software integration (auto-invoicing)\nPacking slip automation\nTesting and go-live support (migrating customers from WhatsApp to the portal)\n\nNice to have:\n\nExperience with Dutch VAT/invoicing requirements\nExperience with food/wholesale/distribution businesses\n\nTimeline: Looking to launch within 2 weeks.\n\nBudget: Open to fixed-price or hourly proposals — please quote based on the scope above.\n\nTo apply, please include:\n\nRelevant past projects (especially WooCommerce B2B or wholesale ordering platforms)\nYour estimated timeline and cost breakdown by phase\nYour experience with Moneybird or e-Boekhouden.nl integrations, if any",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "custom-ecommerce-platform",
+      "custom-cms",
+      "ecommerce-consulting",
+      "h-and-s-web-solutions-inventory-management-system",
+      "e-commerce-website"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! Moving your fast-food wholesale operations smoothly from WhatsApp to a dedicated WordPress and WooCommerce B2B portal is right in my wheelhouse. \n\nI regularly build secure, high-performance WooCommerce B2B platforms featuring tiered/individual customer pricing, advanced checkout conditional logic (like applying a 5% discount for iDEAL prepayments versus net-14 invoices), and automated packing slip generation. For Dutch market requirements, I am well-versed in configuring local payment gateways, VAT rules, and ERP/accounting integrations like Moneybird and e-Boekhouden.nl to ensure your orders seamlessly trigger automated invoicing. You can review a sample of my complex WordPress and WooCommerce implementations here: https://www.thelifeyoucansave.org/\n\nI can easily meet your 2-week launch timeline. Let's chat about your ~25 accounts and kick this off—are you currently leaning toward Moneybird or e-Boekhouden.nl for your accounting sync?",
+    "publishedDateTime": "2026-10-08T09:20:52+0000",
+    "addedAt": "2026-10-08T09:22:49.093Z",
+    "url": "https://www.upwork.com/jobs/~022108125330606026265",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108125330606026265/apply/"
+  },
+  {
     "id": "2108076687743061813",
     "ciphertext": "~022108076687743061813",
     "title": "WooCommerce Fraud & Security Specialist",
