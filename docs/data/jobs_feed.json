@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108303997311027451",
+    "ciphertext": "~022108303997311027451",
+    "title": "WordPress Website Redesign & Consolidation",
+    "description": "CONFIDENTIAL RFP — Proposals due Wednesday, October 14, 2026\n\nAtmark Design is seeking an experienced WordPress designer/developer, on behalf of an undisclosed U.S.-based advisory firm, to redesign and consolidate two existing WordPress websites into one modern, mobile-responsive site.\n\nKey work includes about 25 core pages, 30 team profiles, content migration, SEO-preserving redirects, and reusable templates so nontechnical staff can add industries, services and articles without coding.\n\nPlease review the attached RFP for full scope, pricing assumptions and proposal requirements. Submit one fixed project price with your timeline, payment milestones and relevant portfolio examples.\n\nAll communication goes through Atmark Design. Shortlisted vendors may be asked to sign a confidentiality and non-circumvention agreement.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nConsolidating two WordPress sites into a single, high-performing platform while preserving SEO and building user-friendly, reusable templates is right in my wheelhouse. \n\nWith extensive experience in custom WordPress development, Gutenberg block creation, and Advanced Custom Fields (ACF), I specialize in building flexible backends that empower non-technical teams to effortlessly manage team profiles, services, and articles without touching a line of code. I also handle complex content migrations and SEO-preserving redirects to ensure zero traffic loss during site consolidation.\n\nYou can view my work on enterprise-level WordPress builds like https://www.thelifeyoucansave.org/ and https://www.cchpca.org/. \n\nCould you share the RFP details or outline the current hosting setup so I can put together a precise fixed-price proposal and timeline for you?",
+    "publishedDateTime": "2026-10-08T21:11:20+0000",
+    "addedAt": "2026-10-08T21:12:52.068Z",
+    "url": "https://www.upwork.com/jobs/~022108303997311027451",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108303997311027451/apply/"
+  },
+  {
     "id": "2108284862388567259",
     "ciphertext": "~022108284862388567259",
     "title": "Web Designer Needed: Steakhouse Website Design & Launch",
