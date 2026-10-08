@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108166448327495477",
+    "ciphertext": "~022108166448327495477",
+    "title": "Website Redesign and Development",
+    "description": "The current website is basic and feels unorganized, so we need a freelancer to improve the overall experience and make it cleaner and easier for customers. The project will start with research into the business and customer journey, followed by mockups for key pages like the homepage and product page. Once approved, development will begin, including backend setup. Custom functionality is not included in this scope. The total budget is around $1,000–$1,200 USD, with payment split into 30% upfront, 40% at 50% completion, and 30% at final delivery.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "html5",
+      "css"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help transform your basic, unorganized site into a clean, intuitive experience that guides customers smoothly from the homepage to checkout. \n\nWith extensive experience in WordPress, Webflow, and custom theme development, I focus heavily on structured layouts and user journeys rather than just slapping templates together. I can guide this project seamlessly through the phases you outlined: starting with clean design mockups for your core pages, followed by a robust, standard build without unnecessary custom functionality bloat. \n\nYou can check out one of my recent clean site builds here: https://www.thelifeyoucansave.org/. \n\nAre you currently leaning toward a specific platform like WordPress or Webflow for the redesign, or would you like a recommendation based on your product setup?",
+    "publishedDateTime": "2026-10-08T12:05:48+0000",
+    "addedAt": "2026-10-08T12:07:02.760Z",
+    "url": "https://www.upwork.com/jobs/~022108166448327495477",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108166448327495477/apply/"
+  },
+  {
     "id": "2108125330606026265",
     "ciphertext": "~022108125330606026265",
     "title": "B2B Ordering Platform for Food Wholesale Business (WooCommerce/WordPress)",

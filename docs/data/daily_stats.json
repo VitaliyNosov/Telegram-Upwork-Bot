@@ -1,10 +1,10 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 34,
-  "matchedFilters": 7,
+  "totalScanned": 35,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022107999457923984921",
       "addedAt": "2026-10-08T01:01:15.836Z"
+    },
+    {
+      "title": "Website Redesign and Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022108166448327495477",
+      "addedAt": "2026-10-08T12:06:52.225Z"
     },
     {
       "title": "Looking for Webmaster / Admin for Word Press Sites",
