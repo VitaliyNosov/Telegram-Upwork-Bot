@@ -1,10 +1,10 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-08",
-  "totalScanned": 72,
-  "matchedFilters": 21,
+  "totalScanned": 75,
+  "matchedFilters": 22,
   "byKeyword": {
-    "wordpress developer": 19,
+    "wordpress developer": 20,
     "woocommerce": 2
   },
   "topJobs": [
@@ -112,6 +112,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108243976877447445",
       "addedAt": "2026-10-08T17:15:37.958Z"
+    },
+    {
+      "title": "Web Designer Needed: Steakhouse Website Design & Launch",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022108284862388567259",
+      "addedAt": "2026-10-08T19:56:56.869Z"
     },
     {
       "title": "Looking for Webmaster / Admin for Word Press Sites",

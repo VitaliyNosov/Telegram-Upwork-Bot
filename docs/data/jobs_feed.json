@@ -1,5 +1,35 @@
 [
   {
+    "id": "2108284862388567259",
+    "ciphertext": "~022108284862388567259",
+    "title": "Web Designer Needed: Steakhouse Website Design & Launch",
+    "description": "We are seeking a senior WordPress designer to create a website for a steakhouse in Florida, from initial discovery through design and launch. \n\nAs the project begins without existing designs, you will define the visual direction and guide the brand's online presence. The objective is a polished, inviting site that reflects the restaurant's quality and encourages guests to visit. \n\nScope of Work\nDiscovery call with the owner to understand the brand, menu, and guests\nDesign concepts for the homepage and key pages\nWordPress build based on the approved design\nMenu, about, and contact pages\nMobile-friendly layout and basic speed optimization\nHandoff with a short walkthrough so the team can update content\n\nRequired Skills & Experience\n\nSenior-level WordPress design and development\n\nA portfolio that includes restaurant or hospitality sites\n\nStrong visual sense, especially food photography and typography\n\nComfortable running discovery and presenting design decisions\n\nPlease send a link to your strongest restaurant or hospitality project, along with a brief outline of how you would approach the menu page. \n\nWe look forward to reviewing your application.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 76,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "landing-pages",
+      "wordpress",
+      "webflow",
+      "shopify",
+      "uiux"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I’d love to help bring your steakhouse to life with a high-end, appetite-inducing digital presence. To answer your request: for the menu page, I prioritize a clean, mobile-first design that uses high-resolution photography and typography hierarchy to guide the guest's eye, while ensuring the menu content is easily editable for your team via custom fields (ACF) so you can update pricing or seasonal specials in seconds.\n\nI have extensive experience building polished, high-performance sites like https://www.thelifeyoucansave.org/, focusing on visual storytelling and seamless user journeys. My background as a senior developer means I don’t just design; I build robust, fast-loading WordPress sites that are easy for your staff to manage post-launch.\n\nAre you available for a brief discovery call this week to discuss your brand vision?",
+    "publishedDateTime": "2026-10-08T19:54:23+0000",
+    "addedAt": "2026-10-08T19:57:19.501Z",
+    "url": "https://www.upwork.com/jobs/~022108284862388567259",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108284862388567259/apply/"
+  },
+  {
     "id": "2108266047960349769",
     "ciphertext": "~022108266047960349769",
     "title": "Elementor Pro developer with WooCommerce, Gravity Forms and Yoast SEO: start now",
