@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108076687743061813",
+    "ciphertext": "~022108076687743061813",
+    "title": "WooCommerce Fraud & Security Specialist",
+    "description": "We're hiring an experienced WooCommerce fraud and security specialist to stop an ongoing automated card-testing attack on our store.\n\nFor several weeks, bots have been submitting waves of checkout attempts, mostly on low-priced products. Most were declined, but some recent ones went through, creating real financial and chargeback risk. Our existing defenses are being bypassed.\n\nScope of work:\n\nInvestigate how fraudulent transactions got through and close the gap without disrupting legitimate customers.\nAudit our checkout, payment gateway, Cloudflare/WAF, and WordPress security settings, and explain what's working and what isn't.\nImplement a durable, proven long-term solution to prevent recurrence.\nDeliver documentation of the root cause and changes made, plus a runbook for future attacks.\n\nRequirements:\n\nDirect experience resolving WooCommerce card-testing attacks\nStrong knowledge of WooCommerce, payment gateway fraud controls, Cloudflare, and WordPress security\nComfortable with SSH, WP-CLI, and log analysis, and careful with changes to a live production site\nAble to start immediately and be available during US business hours\n\nTo apply: Please briefly describe a past WooCommerce card-testing or payment-fraud case you handled, including the cause and how you resolved it.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 46,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "authorize.net",
+      "cloudflare",
+      "payment-processing"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! To answer your question: on a recent WooCommerce project experiencing an automated card-testing attack, bots were exploiting a lack of rate limiting and missing CAPTCHA on guest checkouts, bypassing basic gateway rules. I resolved it by implementing advanced Cloudflare WAF custom firewall rules (challenging suspicious JA3 fingerprints and ASN patterns), integrating reCAPTCHA v3 invisibly into the WooCommerce checkout flow, and adding strict IP rate-limiting via server-level configurations. This completely stopped the fraudulent volume within hours without impacting legitimate customer conversions.\n\nI am an experienced WordPress and WooCommerce security specialist comfortable with SSH, WP-CLI, and deep log analysis to safely audit your live production site. I can immediately investigate your gateway, Cloudflare, and WP security layers to close the vulnerability gap and provide the requested runbook.\n\nAre you available for a quick chat today to get started on stopping these attacks?",
+    "publishedDateTime": "2026-10-08T06:07:18+0000",
+    "addedAt": "2026-10-08T06:08:55.876Z",
+    "url": "https://www.upwork.com/jobs/~022108076687743061813",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108076687743061813/apply/"
+  },
+  {
     "id": "2108026415571430937",
     "ciphertext": "~022108026415571430937",
     "title": "web dev for my WP website - just tweaks",
