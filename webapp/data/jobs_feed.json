@@ -1,5 +1,35 @@
 [
   {
+    "id": "2107999457923984921",
+    "ciphertext": "~022107999457923984921",
+    "title": "Wordpress Website Designer Needed for Replicating website",
+    "description": "Hi, i am looking for someone to take a website that i own (and made myself with AI) and pretty much re-create it on wordpress in a way that i will be able to edit the blocks and pages myself without editing the code.\n\nPlease send a proposal and i will send our website.\n\nAfter checking it you will tell me the quote to recreate it fully, and recreate it in a way that if i need to make changes i can just go to my wordpress site editor and edit the blocks/pages.\n\nThank you",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "css",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can definitely help you rebuild your AI-generated site in WordPress using a clean, easy-to-manage block setup so you can update pages and content effortlessly without touching a line of code.\n\nAs a WordPress developer, I specialize in building custom, client-friendly sites using Gutenberg blocks and tools like ACF, ensuring your layout is pixel-perfect yet fully editable on the backend. For example, you can check out https://www.seeintl.org/ to see the kind of clean, structured WordPress builds I deliver.\n\nSend me the link to your current website, and I will review it right away to provide you with an accurate quote and timeline for the recreation. \n\nLooking forward to getting started!",
+    "publishedDateTime": "2026-10-08T01:00:16+0000",
+    "addedAt": "2026-10-08T01:01:20.509Z",
+    "url": "https://www.upwork.com/jobs/~022107999457923984921",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022107999457923984921/apply/"
+  },
+  {
     "id": "2107978418755900253",
     "ciphertext": "~022107978418755900253",
     "title": "To check my website and make major improvement",
