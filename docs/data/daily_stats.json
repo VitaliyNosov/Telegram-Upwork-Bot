@@ -1,10 +1,10 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 58,
-  "matchedFilters": 18,
+  "totalScanned": 60,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 17,
     "woocommerce": 2
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 3150,
       "url": "https://www.upwork.com/jobs/~022108076687743061813",
       "addedAt": "2026-10-08T06:08:54.460Z"
+    },
+    {
+      "title": "Website Projects Support",
+      "budget": "$15-$30/hr",
+      "score": 3149,
+      "url": "https://www.upwork.com/jobs/~022108253173641706715",
+      "addedAt": "2026-10-08T17:51:36.065Z"
     },
     {
       "title": "WordPress Academy LMS Setup",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2108253173641706715",
+    "ciphertext": "~022108253173641706715",
+    "title": "Website Projects Support",
+    "description": "We are looking for a WordPress developer to help us on an ongoing basis. The majority of our builds start with a premium Envato theme and are customized with Elementor. You would be working on new site builds, redesigns (usually fresh website builds with new styles but same content), and ongoing maintenance.\n \nWhat you would be doing:\nInstalling and configuring Envato themes\nBuilding out pages with Elementor\nAdding security to WordPress installs\nSetting up contact forms\nConfiguring SEO plugins (Rank Math, or Yoast, etc.)\nPerformance tuning (optimizing for page speed insights)\nPlugin updates and backups\nWe are looking for:\nStrong WordPress experience and a portfolio of previously made sites\nStrong Elementor skills and experience with responsive design\nExperience with cPanel and managed WordPress hosting",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 190,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "php",
+      "html",
+      "elementor",
+      "css",
+      "javascript",
+      "all-in-one-seo-pack",
+      "yoast-seo",
+      "cpanel",
+      "performance-monitoring"
+    ],
+    "score": 3149,
+    "coverLetter": "Hi! I’ve been working with WordPress for years, and I’m very comfortable with the Envato theme ecosystem and Elementor-heavy workflows. I can jump right into your current projects to handle everything from initial theme setup and responsive page building to ongoing maintenance and performance tuning.\n\nI specialize in the exact stack you’re using, including deep experience with SEO plugin configuration (Yoast/Rank Math), security hardening, and optimizing Core Web Vitals to ensure your builds perform as well as they look. You can see examples of my clean, professional development work at https://www.seeintl.org/. I am also fully proficient with cPanel and managing hosting environments to keep sites running smoothly.\n\nAre you looking for someone to start on a specific project this week, or would you like to discuss your typical monthly maintenance volume?",
+    "publishedDateTime": "2026-10-08T17:49:34+0000",
+    "addedAt": "2026-10-08T17:51:49.326Z",
+    "url": "https://www.upwork.com/jobs/~022108253173641706715",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108253173641706715/apply/"
+  },
+  {
     "id": "2108243976877447445",
     "ciphertext": "~022108243976877447445",
     "title": "Ecommerce Website Development",
