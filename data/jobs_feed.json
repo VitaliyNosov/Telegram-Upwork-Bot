@@ -1,5 +1,36 @@
 [
   {
+    "id": "2108266047960349769",
+    "ciphertext": "~022108266047960349769",
+    "title": "Elementor Pro developer with WooCommerce, Gravity Forms and Yoast SEO: start now",
+    "description": "Skills required\n\n- Elementor Pro, including Theme Builder, and rebuilding sections made with third-party add-ons (Element Pack, Essential Addons, ElementsKit, Premium Addons, The Plus) using Elementor Pro widgets only, matched on desktop and mobile\n- WooCommerce\n- Gravity Forms, including feeds to a CRM (HubSpot)\n- Yoast SEO Premium, including the redirect manager\n- Accessibility fixes to WCAG 2.2 AA in templates and code, with no overlay plugins\n- Building pages and sections from Figma and Photoshop designs\n- Experience working on sites built by someone else\n- Clear written English and clear updates on progress and blockers\n- UK or European working hours\n\nUseful: WordPress user roles and protected file downloads.\n\nThe work\n\nA WordPress and Elementor site built by another agency, launching on 3 November 2026. Seven Elementor add-on packs have been switched off for speed, and every section that used them needs rebuilding in Elementor Pro. The rest of the list: headers and footers in Theme Builder, global colours and buttons that pass contrast, WooCommerce clean-up with Stripe as the only gateway, every Gravity Forms form tested end to end including the HubSpot feed, around 460 redirects imported and tested in Yoast SEO Premium, page titles and H1s, partner logins with pages and files restricted to logged-in partners, and image optimisation. Most of it must be finished by 24 October, so you need to start now. You'll work alongside our lead developer. After launch there is ongoing work on this site and others.\n\nHow we hire\nA short paid task first: rebuild one add-on section using Elementor Pro only. If that goes well, you start on the project.\n\nIndividuals only. We don't work with agencies. Apply through Upwork only. We won't respond to approaches by email, phone, LinkedIn or WhatsApp. Anyone contacting outside Upwork will be reported. So don't wast your time, we wont respond.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 448,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "bug-fixes",
+      "e-commerce-website",
+      "gravity-forms",
+      "woocommerce",
+      "elementor",
+      "wordpress-website"
+    ],
+    "score": 147,
+    "coverLetter": "Hi! I can start the paid test task immediately and am fully available for UK/European working hours to meet your October 24th deadline.\n\nI have extensive experience refactoring sites built by other agencies, specifically stripping out bloated third-party add-ons and rebuilding layouts using native Elementor Pro widgets for better performance and maintainability. I am also well-versed in the specific technical requirements you listed, including Gravity Forms-to-HubSpot CRM feeds, Yoast SEO redirect management, and implementing WCAG 2.2 AA accessibility standards without relying on overlays.\n\nYou can see examples of my clean-code approach on sites like https://www.thelifeyoucansave.org/, where I handled complex structural requirements. I am comfortable working alongside your lead developer to ensure a smooth launch by November 3rd.\n\nAre you ready to send over the first section for the test build?",
+    "publishedDateTime": "2026-10-08T18:41:11+0000",
+    "addedAt": "2026-10-08T18:43:12.384Z",
+    "url": "https://www.upwork.com/jobs/~022108266047960349769",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108266047960349769/apply/"
+  },
+  {
     "id": "2108260183891896985",
     "ciphertext": "~022108260183891896985",
     "title": "web developer (adobe XD to live website)",
