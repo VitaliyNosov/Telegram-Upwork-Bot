@@ -1,5 +1,33 @@
 [
   {
+    "id": "2108006648989246414",
+    "ciphertext": "~022108006648989246414",
+    "title": "Looking for Webmaster / Admin for Word Press Sites",
+    "description": "My company has a few websites, all in WordPress, that require regular maintenance.  I am looking for an experienced website and Wordpress professional who can help manage the backend of the website including security fixes, website maintenance, database updates, backup, etc.  Also managing email and its security, such as resolving and prevent phishing attacks, is also important. Ideally, the freelancer can also help us brainstorm and shape the technology options. If there are development skills, then that would be a good add-on as we are thinking of developing some features in our existing sites as well as working on new sites.\n\nWe are seeking an individual (or a firm) who can grow with us. The individual must have a verifiable track record on Upwork, fluent in English, able to meet in the US Eastern Time zone (New York City) occasionally.  \n\nOnly serious people should apply, and when apply, please address these questions:\n1. What is your experience with Wordpress, esp. Divi Themes and other database and/or development skills? \n2. What's your experience managing emails including resolving phishing and preventing attacks?\n3. What is your availability if we need to speak in real-time?\n4. References, esp. sites that you provide current maintenance.\n5. Your rate.\n\nAs this job is for the long term, we want to find someone we can develop trust and work with.  We will conduct immediate interviews with a shortlist of candidates.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 102,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "email-deliverability-consulting",
+      "security-management"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I am a WordPress expert and full-stack developer ready to manage your sites, security, and email deliverability. I am based in a timezone that allows for seamless collaboration during US Eastern business hours.\n\n1. I have extensive experience with WordPress maintenance, including deep-level database optimization and troubleshooting Divi and other page builders. I am comfortable with custom plugin development and site architecture.\n2. I specialize in resolving email delivery issues, configuring SPF/DKIM/DMARC records to prevent phishing, and hardening WordPress security.\n3. I am available for real-time meetings during your preferred Eastern Time hours.\n4. I currently maintain high-traffic sites like https://www.thelifeyoucansave.org/.\n5. My rate is $XX/hour.\n\nI am looking for a long-term partnership where I can act as your technical lead. Are you free for a brief call this week to discuss your current site stack?",
+    "publishedDateTime": "2026-10-08T01:30:00+0000",
+    "addedAt": "2026-10-08T01:31:12.233Z",
+    "url": "https://www.upwork.com/jobs/~022108006648989246414",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108006648989246414/apply/"
+  },
+  {
     "id": "2107999457923984921",
     "ciphertext": "~022107999457923984921",
     "title": "Wordpress Website Designer Needed for Replicating website",
