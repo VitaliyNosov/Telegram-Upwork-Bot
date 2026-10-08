@@ -1,12 +1,19 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 14,
-  "matchedFilters": 4,
+  "totalScanned": 15,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "web dev for my WP website - just tweaks",
+      "budget": "Fixed-price",
+      "score": 144,
+      "url": "https://www.upwork.com/jobs/~022108026415571430937",
+      "addedAt": "2026-10-08T02:48:48.778Z"
+    },
     {
       "title": "Web Designer for Nonprofit Website Refresh",
       "budget": "Fixed-price",
