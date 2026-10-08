@@ -1,5 +1,32 @@
 [
   {
+    "id": "2108190061823946265",
+    "ciphertext": "~022108190061823946265",
+    "title": "E-commerce pagamentos   online",
+    "description": "Configuração de E-commerce WordPress + Integração de Pagamentos\n\nEstou procurando um profissional com experiência em WordPress e WooCommerce para atualizar ou desenvolver uma página do zero ou editar a página existente e implementar um sistema completo de e-commerce.\n\nTrabalho necessário\nInstalar e configurar E-Commerce\nConfigurar loja, carrinho e checkout\nIntegrar os principais métodos de pagamento no Brasil:\nPIX\nCartão de crédito\nCartão de débito\nBoleto bancário\nConfigurar um gateway de pagamento confiável, como Mercado Pago, PagBank ou outra solução recomendada\nConfigurar confirmação automática dos pagamentos e atualização dos pedidos\nFazer algumas melhorias no design e na organização da página atual\nGarantir boa experiência no celular e computador\nDeixar o processo de compra simples, profissional e seguro\nRealizar testes completos antes da entrega\n\nO site já está pronto e funcionando. Não é necessário criar uma página do zero. O objetivo principal é atualizar o site existente e deixá-lo totalmente preparado para vendas online no Brasil.\n\nProcuro alguém que já tenha experiência como WooCommerce, PIX e gateways de pagamento brasileiros.\n\nExperiência com projetos semelhantes\nExemplos de lojas  E-Commerce já desenvolvidas\nQual gateway de pagamento você recomenda\n\nExiste possibilidade de continuarmos trabalhando juntos em futuras atualizações e melhorias do site.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wp-ecommerce",
+      "e-commerce-website"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! I have extensive experience setting up WooCommerce stores and integrating Brazilian payment gateways like Mercado Pago and PagBank for PIX, credit/debit cards, and Boleto.\n\nSince your site is already built, I can quickly step in to optimize your cart and checkout flow, configure the payment processing with instant confirmation, and refine the layout for a seamless mobile and desktop experience. I regularly handle these setups to ensure a smooth, secure checkout process for Brazilian customers. \n\nFor your store, I typically recommend Mercado Pago or PagBank depending on your transaction volume, as both offer reliable PIX and Boleto automation directly within WooCommerce. You can see examples of my recent work at https://www.thelifeyoucansave.org/.\n\nWhen would you like to get started on configuring the checkout?",
+    "publishedDateTime": "2026-10-08T13:37:57+0000",
+    "addedAt": "2026-10-08T13:39:01.432Z",
+    "url": "https://www.upwork.com/jobs/~022108190061823946265",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108190061823946265/apply/"
+  },
+  {
     "id": "2108173632640711194",
     "ciphertext": "~022108173632640711194",
     "title": "WordPress Academy LMS Setup",

@@ -1,10 +1,11 @@
 {
   "date": "2026-10-08",
   "lastDigestSentDate": "2026-10-07",
-  "totalScanned": 40,
-  "matchedFilters": 11,
+  "totalScanned": 41,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 11,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -83,6 +84,13 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022108125330606026265",
       "addedAt": "2026-10-08T09:22:47.884Z"
+    },
+    {
+      "title": "E-commerce pagamentos   online",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022108190061823946265",
+      "addedAt": "2026-10-08T13:38:59.906Z"
     }
   ]
 }
