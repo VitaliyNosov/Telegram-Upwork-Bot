@@ -1,12 +1,19 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-08",
-  "totalScanned": 39,
-  "matchedFilters": 8,
+  "totalScanned": 40,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
+    {
+      "title": "WordPress + Elementor Developer for Technical SEO and Speed Cleanup",
+      "budget": "$20-$100/hr",
+      "score": 10150,
+      "url": "https://www.upwork.com/jobs/~022108553792512493819",
+      "addedAt": "2026-10-09T13:47:24.743Z"
+    },
     {
       "title": "Connect Lovable Website to Go Daddy",
       "budget": "$30-$50/hr",

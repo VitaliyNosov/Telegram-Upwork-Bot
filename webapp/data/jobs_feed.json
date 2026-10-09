@@ -1,5 +1,37 @@
 [
   {
+    "id": "2108553792512493819",
+    "ciphertext": "~022108553792512493819",
+    "title": "WordPress + Elementor Developer for Technical SEO and Speed Cleanup",
+    "description": "We are a B2B technology consulting firm. Our marketing site runs on WordPress with Elementor Pro and a ThemeForest theme, behind Cloudflare, with about 450 real pages. \n\nWe need a full website audit. We need an experienced WordPress developer to work through that list on staging, deploy it safely, and prove each fix with before-and-after measurements.\n\nThis is cleanup and development work. The site should look the same when you finish.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$20 - $100/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 35,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo-based-website",
+      "wordpress",
+      "html",
+      "css",
+      "elementor",
+      "web-programming",
+      "wordpress-website"
+    ],
+    "score": 10150,
+    "coverLetter": "Hi! \n\nI specialize in WordPress performance optimization and technical cleanup, and I can help you audit, clean up, and speed up your 450-page Elementor Pro site without altering its visual design. \n\nYour setup—WordPress, Elementor, a ThemeForest theme, and Cloudflare—requires a careful, methodical approach to resolve bloat, database overhead, and technical SEO roadblocks on a staging environment before safely deploying to production. I regularly handle Core Web Vitals optimization, database queries, and plugin conflicts, always backing up my work with verifiable before-and-after performance metrics. You can see examples of my recent work on high-performing sites like https://www.thelifeyoucansave.org/.\n\nWould you like to share the initial audit list so we can discuss the best way to tackle the staging rollout?",
+    "publishedDateTime": "2026-10-09T13:45:58+0000",
+    "addedAt": "2026-10-09T13:47:25.949Z",
+    "url": "https://www.upwork.com/jobs/~022108553792512493819",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108553792512493819/apply/"
+  },
+  {
     "id": "2108540776068880320",
     "ciphertext": "~022108540776068880320",
     "title": "WordPress & Elementor Expert for HVAC & Plumbing Website Updates",
