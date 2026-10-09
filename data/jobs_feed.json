@@ -1,5 +1,35 @@
 [
   {
+    "id": "2108529756925532437",
+    "ciphertext": "~022108529756925532437",
+    "title": "WordPress Elementor Developer for Mobile Fixes and Speed Optimization",
+    "description": "Improve the mobile experience and loading performance of an existing WordPress website built with Elementor. This is a focused improvement project covering three agreed pages: the homepage, one service page, and the contact page.\nStart with a backup and staging copy. Review the selected pages on mobile and desktop, identify the most important issues, and agree on a short fix list before implementation.\nScope:\n- Correct mobile navigation, overlapping elements, inconsistent spacing, and horizontal scrolling.\n- Improve image sizing, compression, and loading behavior.\n- Review caching and unnecessary page assets without disrupting essential scripts.\n- Address visible layout shifts where the cause is within the website.\n- Check the contact form’s validation, submission, and notification delivery.\n- Preserve the existing design, tracking, content, and functionality.\nCompletion requirements: Deliver the approved fixes, a short before-and-after report using consistent testing conditions, and a change log. Confirm that navigation and form submissions still work. Identify hosting and third-party limitations separately; a particular performance score is not guaranteed.\nExclusions: Full redesign, malware recovery, hosting migration, and paid licenses.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 210,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "css",
+      "responsive-design",
+      "wordpress-website"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you clean up the mobile responsiveness and speed up those three specific pages on your Elementor site. \n\nAs a WordPress developer with extensive experience in Elementor bug fixes, mobile layout repair, and Core Web Vitals optimization, I regularly handle tasks like fixing overlapping elements, horizontal scrolling, and shifting layouts without breaking existing designs. I'll also audit your contact form delivery and streamline your asset loading safely. \n\nYou can check out my work on projects like https://www.thelifeyoucansave.org/ to see the level of clean, responsive execution I deliver. \n\nI always start with a staging copy, and I'll wrap up the project with a clear before-and-after report and change log as requested. \n\nShall we get started? Send over the URL, and I can take a quick initial look.",
+    "publishedDateTime": "2026-10-09T12:07:32+0000",
+    "addedAt": "2026-10-09T12:09:02.780Z",
+    "url": "https://www.upwork.com/jobs/~022108529756925532437",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108529756925532437/apply/"
+  },
+  {
     "id": "2108523856672266517",
     "ciphertext": "~022108523856672266517",
     "title": "Connect Lovable Website to Go Daddy",
