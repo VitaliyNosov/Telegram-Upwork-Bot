@@ -1,12 +1,19 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-08",
-  "totalScanned": 8,
-  "matchedFilters": 1,
+  "totalScanned": 9,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Website for Travel Brand",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022108362497776701062",
+      "addedAt": "2026-10-09T01:04:50.397Z"
+    },
     {
       "title": "WordPress Website Redesign & Consolidation",
       "budget": "Fixed-price",
