@@ -1,10 +1,10 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 63,
-  "matchedFilters": 17,
+  "totalScanned": 64,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 17
+    "wordpress developer": 18
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022108559433817819387",
       "addedAt": "2026-10-09T14:07:07.443Z"
+    },
+    {
+      "title": "WordPress Developer Needed to Improve B2B IT Services Website",
+      "budget": "Fixed-price",
+      "score": 146,
+      "url": "https://www.upwork.com/jobs/~022108656649813621872",
+      "addedAt": "2026-10-09T20:33:12.204Z"
     },
     {
       "title": "Web Designer and Developer",
