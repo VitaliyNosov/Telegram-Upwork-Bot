@@ -1,5 +1,36 @@
 [
   {
+    "id": "2108535763405114748",
+    "ciphertext": "~022108535763405114748",
+    "title": "WordPress/Elementor developer: conversion fixes for Dutch service site",
+    "description": "I need an experienced WordPress/Elementor developer to improve an existing Dutch website for a home ventilation (WTW / heat recovery) maintenance company: wtwonderhoudspecialist.nl\n\nGoal: more quote requests and phone calls from paid search traffic, most of which is mobile.\n\nThe attached brief lists every task, numbered per section (A1, B1, and so on). Please read it before you apply.\n\nSummary of the work:\nA. Mobile header with tap-to-call and quote button, plus a sticky bar\nB. One landing page layout applied to 7 service pages (H1, price, short form, call button and review score in the first screen)\nC. Homepage hero with headline, buttons and review score\nD. Contact Form 7 forms: shorter form, thank-you page, spam protection\nE. One phone number site-wide, correct call and WhatsApp links, opening hours, service area\nF. Cleanup of theme demo content, English login popup and a broken footer link\nG. SEO basics: H1s, titles, meta descriptions, sitemap, structured data\nH. Speed: caching and image optimisation, with before and after PageSpeed results\nI. Cookie consent banner with Consent Mode v2 and a fix to the form conversion trigger in Google Tag Manager (can be quoted separately)\n\nStack: WordPress, Elementor, Contact Form 7, Trustindex reviews widget, Google Tag Manager.\n\nImportant:\n- All visible text stays in Dutch. I supply the Dutch texts, prices and photos. You do not need to speak Dutch.\n- Existing service page URLs must stay the same.\n- Work on a staging copy or take a full backup first.\n\nIn your proposal, please include:\n1. A fixed price per section (A to I)\n2. Two or three Elementor sites where you improved landing pages or mobile conversion\n3. How you would build the reusable service page layout in Elementor\n4. Any questions about the brief",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "contact-form-7",
+      "responsive-design",
+      "wordpress",
+      "elementor",
+      "page-speed-optimization",
+      "on-page-seo"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can help you turn your paid traffic into more quote requests and phone calls for wtwonderhoudspecialist.nl. \n\nHere is my approach to building your reusable service page layout in Elementor: I will create a master template using Elementor Flexbox containers and Dynamic Tags so you can easily deploy the above-the-fold structure (H1, price, short form, call button, and Trustindex review score) across all 7 pages while maintaining lightning-fast mobile responsiveness. \n\nFor sections A through I, I propose a total fixed price of €[Insert Amount] (or we can break it down per section in chat). Here is one of my recent Elementor landing page and mobile optimization projects: https://waapple.org/. \n\nMy quick question: Do you already have the Google Tag Manager conversion triggers and Consent Mode v2 mapping defined, or should I configure those from scratch?",
+    "publishedDateTime": "2026-10-09T12:31:22+0000",
+    "addedAt": "2026-10-09T12:33:27.252Z",
+    "url": "https://www.upwork.com/jobs/~022108535763405114748",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108535763405114748/apply/"
+  },
+  {
     "id": "2108529756925532437",
     "ciphertext": "~022108529756925532437",
     "title": "WordPress Elementor Developer for Mobile Fixes and Speed Optimization",

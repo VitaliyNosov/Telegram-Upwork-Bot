@@ -1,10 +1,10 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-08",
-  "totalScanned": 33,
-  "matchedFilters": 6,
+  "totalScanned": 34,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108529756925532437",
       "addedAt": "2026-10-09T12:09:01.406Z"
+    },
+    {
+      "title": "WordPress/Elementor developer: conversion fixes for Dutch service site",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022108535763405114748",
+      "addedAt": "2026-10-09T12:33:21.212Z"
     }
   ]
 }
