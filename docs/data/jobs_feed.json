@@ -1,5 +1,40 @@
 [
   {
+    "id": "2108590397327167110",
+    "ciphertext": "~022108590397327167110",
+    "title": "Looking for an Ecommerce Developer to Bring Our Online Store to Life",
+    "description": "We have an Ecommerce project in the pipeline, and we're looking for the right developer to help us turn the concept into a fully functional online store.\n\nWe're looking for someone who understands more than just website design. We need a developer who can build a reliable shopping experience, connect the necessary systems, and make sure the entire store works smoothly from the first product visit to the final checkout.\n\nIf you build Ecommerce websites that look professional and perform well, we'd love to hear from you.\n\n🛍️ THE PROJECT\n\nThe goal is to develop a modern online store with a clean interface, intuitive navigation, and a seamless purchasing experience.\n\nThe website should include:\n\nA professionally structured homepage\nProduct catalog and category pages\nDetailed product pages with images and variations\nProduct search, filtering, and sorting\nShopping cart and streamlined checkout\nSecure payment gateway integration\nCustomer accounts and order history\nShipping configuration and order management\nDiscount codes and promotional functionality\nContact forms and essential business pages\n\nThe final scope will depend on the selected platform and project requirements.\n\n💻 WHAT YOU'LL BE WORKING ON\n\n1. Store Development\n\nBuild and configure the storefront, organize the product catalog, implement the required functionality, and ensure the backend is easy for the business team to manage.\n\n2. Ecommerce Functionality\n\nConfigure product variations, inventory, pricing, discounts, cart behavior, checkout, and order processing.\n\n3. Payment & Shipping\n\nIntegrate suitable payment providers and configure shipping rules. Payment status, order creation, and customer notifications should work reliably.\n\n4. Design & User Experience\n\nCreate a polished, consistent storefront with clear navigation, attractive product presentation, and a straightforward buying process.\n\n5. Performance & Technical SEO\n\nOptimize loading speed, mobile usability, page structure, metadata, URLs, and other important technical elements.\n\n6. Integrations\n\nConnect third-party services where needed, including analytics, marketing tools, shipping services, and external APIs.\n\n📱 OUR EXPECTATIONS\n\nWe want a website that works properly across mobile devices, tablets, and desktop computers.\n\nThe developer should pay attention to:\n\nResponsive layouts\nFast-loading product pages\nConsistent design throughout the store\nSecure configuration\nClean and maintainable implementation\nBrowser compatibility\nReliable checkout functionality\nProper testing before launch\n\nWe value practical solutions over unnecessary complexity.\n\n🧰 WHICH PLATFORM SHOULD YOU USE?\n\nWe're open to recommendations based on the project's requirements.\n\nExperience with any of the following is welcome:\n\nShopify\nWooCommerce\nWordPress\nCustom Ecommerce development\n\nIf you have experience with custom themes, storefront customization, payment integrations, or API-driven functionality, please highlight it in your application.\n\nWe want someone who can explain the advantages and limitations of their recommended approach rather than simply choosing their favorite technology.\n\n👨‍💻 WHO WOULD BE A GOOD FIT?\n\nWe're looking for a developer who:\n\n✓ Has a portfolio of completed Ecommerce projects\n✓ Can independently handle development tasks\n✓ Understands customer shopping behavior\n✓ Has experience with checkout and payment integrations\n✓ Can troubleshoot technical issues\n✓ Communicates clearly about progress and challenges\n✓ Can estimate project timelines realistically\n✓ Takes responsibility for quality and testing\n\nProfessional communication and dependable delivery are just as important as technical skills.\n\n📂 SHOW US WHAT YOU'VE BUILT\n\nWhen applying, please share 2–5 relevant Ecommerce websites you've worked on.\n\nFor each project, briefly explain:\n\nWhat type of store it was\nWhich platform you used\nWhat you personally developed\nAny custom features or integrations you implemented\n\nLive website links are preferred. If you have a portfolio or GitHub profile, feel free to include it.\n\n💰 BUDGET & PROJECT TIMELINE\n\nPlease include your preferred pricing model:\n\nHourly rate\nFixed-price project\n\nAlso share your estimated timeline, earliest start date, and current availability.\n\nFor a fixed-price proposal, please outline the major deliverables included in your quote so we can understand the proposed scope.\n\nWe're open to discussing the details with a developer whose experience matches the project.\n\n🤝 POTENTIAL FOR ONGOING WORK\n\nWe're also interested in establishing a working relationship beyond the initial launch.\n\nDepending on the project's success, future tasks may include new features, storefront improvements, integrations, maintenance, performance optimization, and additional Ecommerce development.\n\nWe value developers who can become dependable technical partners over time.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "shopify",
+      "web-programming",
+      "wordpress",
+      "woocommerce",
+      "web-design",
+      "html",
+      "ecommerce-consulting",
+      "php",
+      "css",
+      "seo"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nI’d love to help you build a high-performing online store that converts visitors into buyers. Having built numerous e-commerce platforms using both WooCommerce and Shopify, I understand that a successful store requires more than just good design—it demands a bulletproof checkout, intuitive navigation, and reliable payment and shipping integrations.\n\nFor a project like this, I often recommend WooCommerce for maximum flexibility and ownership, or Shopify for a streamlined, low-maintenance setup. Depending on your catalog size and future growth, I can help you weigh the pros and cons of each. A great example of my work is https://waapple.org/, where I developed a clean, responsive storefront optimized for speed and seamless purchasing. \n\nI handle end-to-end development, performance optimization, and rigorous testing before launch. I'm available to start immediately and prefer a fixed-price model for well-defined scopes, backed by clear milestone deliverables. \n\nWould you like to discuss whether Shopify or WooCommerce makes the most sense for your catalog and business goals?",
+    "publishedDateTime": "2026-10-09T16:08:57+0000",
+    "addedAt": "2026-10-09T16:10:52.412Z",
+    "url": "https://www.upwork.com/jobs/~022108590397327167110",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108590397327167110/apply/"
+  },
+  {
     "id": "2108570421576723097",
     "ciphertext": "~022108570421576723097",
     "title": "Website Project wordpress updates",

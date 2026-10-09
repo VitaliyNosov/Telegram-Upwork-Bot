@@ -1,10 +1,10 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-08",
-  "totalScanned": 49,
-  "matchedFilters": 12,
+  "totalScanned": 50,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -83,6 +83,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108570421576723097",
       "addedAt": "2026-10-09T14:50:56.700Z"
+    },
+    {
+      "title": "Looking for an Ecommerce Developer to Bring Our Online Store to Life",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022108590397327167110",
+      "addedAt": "2026-10-09T16:10:51.187Z"
     },
     {
       "title": "WordPress/Elementor developer: conversion fixes for Dutch service site",
