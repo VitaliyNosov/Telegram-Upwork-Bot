@@ -1,5 +1,29 @@
 [
   {
+    "id": "2108570421576723097",
+    "ciphertext": "~022108570421576723097",
+    "title": "Website Project wordpress updates",
+    "description": "WordPress project: \n\n1. Website Hosting Migration\n\n2. Create a dedicated Dental Services Page\n\n3. Homepage Banner\n- Update the homepage with a new banner highlighting Dental Equipment Services.\n\n4. Update plugins & fix any missing items on the site",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 102,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you knock out all four items on your WordPress to-do list efficiently. \n\nWebsite migrations, plugin updates with conflict resolution, and custom page/banner builds are core parts of my daily work. I regularly handle seamless hosting transfers with zero downtime, design custom pages using your preferred editor (whether Gutenberg, Elementor, or ACF), and ensure all updates run smoothly without breaking existing site layouts. For instance, I recently migrated and optimized sites like https://www.snopud.com/, ensuring fast load times and flawless performance throughout the transition.\n\nLet's get these updates sorted out. What hosting provider are we migrating from and to, and do you already have the design assets ready for the new Dental Services banner?",
+    "publishedDateTime": "2026-10-09T14:49:12+0000",
+    "addedAt": "2026-10-09T14:50:57.924Z",
+    "url": "https://www.upwork.com/jobs/~022108570421576723097",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108570421576723097/apply/"
+  },
+  {
     "id": "2108562451216486022",
     "ciphertext": "~022108562451216486022",
     "title": "Web Dev",
