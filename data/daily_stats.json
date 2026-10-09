@@ -1,12 +1,19 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-08",
-  "totalScanned": 28,
-  "matchedFilters": 4,
+  "totalScanned": 29,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Connect Lovable Website to Go Daddy",
+      "budget": "$30-$50/hr",
+      "score": 5100,
+      "url": "https://www.upwork.com/jobs/~022108523856672266517",
+      "addedAt": "2026-10-09T11:45:03.479Z"
+    },
     {
       "title": "WordPress Website for Travel Brand",
       "budget": "$15-$35/hr",
