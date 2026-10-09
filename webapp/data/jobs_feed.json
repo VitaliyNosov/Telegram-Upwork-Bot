@@ -1,5 +1,32 @@
 [
   {
+    "id": "2108604563524680816",
+    "ciphertext": "~022108604563524680816",
+    "title": "Make prices work on new domain created with weglot",
+    "description": "Please go though the attached file. \n\nWe use translation plugin weglot and need prices on the domain created by weglot (point to tomorrowsdesign.nl though cname) to be different fields in backend that control pricing on .nl domain. \n\nFilter, shipping, b2b costum plugin prices email and so on needs to be another field conrolling prices.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Denmark",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 52,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "web-programming"
+    ],
+    "score": 95,
+    "coverLetter": "Hi!\n\nI can help you set up independent pricing fields in WooCommerce for your Weglot-created .nl domain (`tomorrowsdesign.nl`), ensuring that your filters, shipping rules, custom B2B plugins, emails, and backend controls all pull the correct localized prices instead of relying on simple currency conversion. \n\nWith deep experience in WooCommerce architecture, custom plugin development, and multilingual setups (including WPML and translation plugins like Weglot), I frequently build custom pricing logic for multi-domain and multi-currency stores. I can hook directly into the WooCommerce data stores to ensure your .nl domain uses its own dedicated pricing meta fields seamlessly.\n\nLet's hop on a quick chat to go over your attached file and map out the exact backend fields you need.",
+    "publishedDateTime": "2026-10-09T17:04:48+0000",
+    "addedAt": "2026-10-09T17:07:02.889Z",
+    "url": "https://www.upwork.com/jobs/~022108604563524680816",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108604563524680816/apply/"
+  },
+  {
     "id": "2108590397327167110",
     "ciphertext": "~022108590397327167110",
     "title": "Looking for an Ecommerce Developer to Bring Our Online Store to Life",

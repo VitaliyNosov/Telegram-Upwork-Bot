@@ -1,10 +1,10 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-08",
-  "totalScanned": 52,
-  "matchedFilters": 13,
+  "totalScanned": 53,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -83,6 +83,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108570421576723097",
       "addedAt": "2026-10-09T14:50:56.700Z"
+    },
+    {
+      "title": "Make prices work on new domain created with weglot",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022108604563524680816",
+      "addedAt": "2026-10-09T17:06:58.088Z"
     },
     {
       "title": "Looking for an Ecommerce Developer to Bring Our Online Store to Life",
