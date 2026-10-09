@@ -1,10 +1,10 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-08",
-  "totalScanned": 35,
-  "matchedFilters": 7,
+  "totalScanned": 36,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 5100,
       "url": "https://www.upwork.com/jobs/~022108523856672266517",
       "addedAt": "2026-10-09T11:45:03.479Z"
+    },
+    {
+      "title": "WordPress & Elementor Expert for HVAC & Plumbing Website Updates",
+      "budget": "$7-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022108540776068880320",
+      "addedAt": "2026-10-09T12:54:59.762Z"
     },
     {
       "title": "WordPress Website for Travel Brand",
