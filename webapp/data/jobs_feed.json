@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108634122688587197",
+    "ciphertext": "~022108634122688587197",
+    "title": "Experienced Website Developer Required",
+    "description": "# Experienced Website Developer Required – Insurance Savings Guide / Pay-to-Download Website\n\n**Project Type:** Fixed-price contract  \n**Budget:** Under $500 USD (all-inclusive)  \n**Delivery Timeline:** Ideally 3–7 working days  \n**Experience Required:** Must have previously built and launched websites selling downloadable digital products.\n\n## Project Overview\n\nWe are looking for an experienced website developer, freelancer or small agency to build a professional, high-converting website selling a downloadable **car insurance savings guide** to UK customers.\n\nThe website will operate on a simple model:\n\n**Customer visits website → Selects guide → Pays online → Receives instant PDF download and email confirmation.**\n\nWe want a proven, cost-effective solution that can be launched quickly, rather than an expensive custom-built platform.\n\n### Example of a Similar Website\n\nhttps://www.myinsurancehack.com/products/the-car-insurance-hacker\n\nWe want similar core functionality, including a compelling product landing page, straightforward checkout, automated digital delivery and the ability to sell additional guides.\n\nThe website must have its own original branding and design.\n\n## Required Website Functionality\n\n### 1. Website Design and Landing Page\n- Professional, modern, mobile-responsive website.\n- Conversion-focused landing page with clear calls to action.\n- Product descriptions, PDF previews and benefits.\n- Pricing, FAQs and genuine customer reviews where available.\n- Fast-loading mobile and desktop experience.\n- Basic search engine optimisation (SEO).\n- Ability to add additional products and landing pages.\n\n### 2. Payment Processing\n- Stripe and/or PayPal integration.\n- Secure credit and debit card payments.\n- Apple Pay and Google Pay where supported.\n- GBP payments for UK customers.\n- Automated payment confirmations and receipts.\n- Discount codes and promotional offers.\n- Failed-payment and refund handling.\n\n### 3. Automated Digital Download Delivery\n- Instant PDF download following successful payment.\n- Automatic customer email with secure download link.\n- Expiring or download-limited links where supported.\n- Ability to resend customer download links.\n- Easy administration of PDF files and product updates.\n- Basic protection against unauthorised downloading.\n\n### 4. Customer Management and Reporting\n- Simple administration dashboard showing orders, customers and revenue.\n- Customer email capture with appropriate consent.\n- Google Analytics 4 integration.\n- Meta Pixel integration.\n- Basic conversion tracking.\n- Ability to export customer and sales data.\n\n### 5. Marketing and Sales Features\n- Discount codes and special offers.\n- Unique influencer or affiliate tracking links.\n- Ability to track",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 4.8,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 1918,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! I can build your car insurance savings guide website and automated digital download system within your 3-7 day timeline and budget. \n\nHaving developed numerous WooCommerce and WordPress sites with secure payment gateways (Stripe, PayPal, Apple/Google Pay) and automated digital delivery, I know how to set this up quickly and reliably. The platform will include a high-converting landing page, instant PDF delivery via secure links, customer management dashboards, discount code functionality, and full GA4/Meta Pixel tracking just like the example you shared. \n\nYou can see a similar clean, high-performance build I worked on here: https://www.thelifeyoucansave.org/\n\nWhen do you ideally want to kick this off?",
+    "publishedDateTime": "2026-10-09T19:05:39+0000",
+    "addedAt": "2026-10-09T19:06:54.537Z",
+    "url": "https://www.upwork.com/jobs/~022108634122688587197",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108634122688587197/apply/"
+  },
+  {
     "id": "2108604563524680816",
     "ciphertext": "~022108604563524680816",
     "title": "Make prices work on new domain created with weglot",
