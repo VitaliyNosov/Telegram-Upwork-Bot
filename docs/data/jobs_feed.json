@@ -1,5 +1,38 @@
 [
   {
+    "id": "2108654929751903540",
+    "ciphertext": "~022108654929751903540",
+    "title": "WordPress Developer for Calendar Pages",
+    "description": "Mar Vista Voice, a grassroots organization on LA’s Westside, seeks a WordPress developer to update two pages at marvistavoice.org. Wireframes and copy are ready. The Calendar page should replace the Events page with a searchable calendar supporting List/Month/Day views, date navigation, and event-type filtering. It should combine three categories: working-group meetings from one Google Calendar, other MVV events from a second Google Calendar, and outside events added manually in WordPress. Google Calendar updates and cancellations must sync without duplicates, and events with a Luma registration URL should show a Register button. The Working Groups page should replace the Allies page with four editable group cards, including names, descriptions, schedules, and Zoom links, with the ability to add or remove groups. Navigation updates, testing, launch, and handoff are also needed. Please include work samples, approach, fixed-price quote with each page priced separately, timeline, recurring plugin costs, and revision/bug-support terms.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "html5",
+      "elementor",
+      "web-design",
+      "web-programming",
+      "website"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can help you update marvistavoice.org with the exact functionality you need for your Calendar and Working Groups pages. \n\nFor the Calendar page, I have extensive experience integrating Google Calendars and configuring robust event plugins (like The Events Calendar or similar tools) to support List, Month, and Day views, advanced filtering, and Luma registration buttons while avoiding duplicate entries. For the Working Groups page, I will build clean, easily editable cards for your meeting details and Zoom links, plus handle the required navigation updates and mobile responsiveness. \n\nFor example, I built and maintained complex community-focused platforms like https://www.snopud.com/ and https://www.waapple.org/. \n\nCould we jump into a quick chat so I can review your wireframes and provide a detailed fixed-price quote, timeline, and recurring plugin cost breakdown?",
+    "publishedDateTime": "2026-10-09T20:24:53+0000",
+    "addedAt": "2026-10-09T20:26:57.844Z",
+    "url": "https://www.upwork.com/jobs/~022108654929751903540",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108654929751903540/apply/"
+  },
+  {
     "id": "2108648423315782742",
     "ciphertext": "~022108648423315782742",
     "title": "Travel Business Website Development",

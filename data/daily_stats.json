@@ -1,10 +1,10 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 62,
-  "matchedFilters": 16,
+  "totalScanned": 63,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 16
+    "wordpress developer": 17
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022108362497776701062",
       "addedAt": "2026-10-09T01:04:50.397Z"
+    },
+    {
+      "title": "WordPress Developer for Calendar Pages",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022108654929751903540",
+      "addedAt": "2026-10-09T20:26:56.630Z"
     },
     {
       "title": "WordPress / Elementor Developer Needed to Build High-Performance Location Page Template",
