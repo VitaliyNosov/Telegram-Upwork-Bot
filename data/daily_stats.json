@@ -1,10 +1,10 @@
 {
   "date": "2026-10-09",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 60,
-  "matchedFilters": 15,
+  "totalScanned": 61,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -83,6 +83,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108570421576723097",
       "addedAt": "2026-10-09T14:50:56.700Z"
+    },
+    {
+      "title": "Travel Business Website Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022108648423315782742",
+      "addedAt": "2026-10-09T20:01:29.883Z"
     },
     {
       "title": "Experienced Website Developer Required",
