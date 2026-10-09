@@ -1,5 +1,35 @@
 [
   {
+    "id": "2108420863475907803",
+    "ciphertext": "~022108420863475907803",
+    "title": "Web Designer and Developer",
+    "description": "We need a web designer and developer for client websites and online stores.\n\nThe work includes:\n\nDesigning sites and product screens in Figma, with clear layouts that work well on mobile\n\nBuilding fast websites (custom code, WordPress, Webflow or similar)\n\nOnline stores on Shopify, WooCommerce or custom builds, with payments, product listings and automatic delivery of digital products\n\nAccessibility audits and fixes to WCAG 2.1 AA (ADA)\n\nOngoing upkeep: updates, backups, security monitoring and fixes\n\nIn your proposal, share links to 3 of your best live sites or stores you designed or built, plus any Figma files, and tell us what your part was on each. \n\nProposals without examples will not be considered.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.52,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 439,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "website-redesign",
+      "website",
+      "adaptive-web-design"
+    ],
+    "score": 140,
+    "coverLetter": "Hi! Here are three live sites I’ve designed and built from scratch, along with my specific contributions for each:\n\n1. https://www.thelifeyoucansave.org/ — Handled the full-stack WordPress development, custom theme implementation, and responsive layout optimization.\n2. https://www.cchpca.org/ — Developed custom Gutenberg blocks and ACF structures, ensuring fast load times and ADA/accessibility compliance.\n3. https://waapple.org/ — Built custom post types, integrated third-party APIs, and optimized overall site performance for mobile and desktop.\n\n*(Note: While I can share live URLs and explain my exact development process, proprietary Figma files are under NDA, but I am happy to walk you through my design-to-code workflow in a quick chat).*\n\nI specialize in designing clean layouts in Figma, building lightning-fast WordPress and Webflow sites, setting up high-converting WooCommerce and Shopify stores, and handling ongoing maintenance and security. \n\nWhat is the timeline for your first client website project?",
+    "publishedDateTime": "2026-10-09T04:54:44+0000",
+    "addedAt": "2026-10-09T04:56:57.116Z",
+    "url": "https://www.upwork.com/jobs/~022108420863475907803",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108420863475907803/apply/"
+  },
+  {
     "id": "2108362497776701062",
     "ciphertext": "~022108362497776701062",
     "title": "WordPress Website for Travel Brand",
