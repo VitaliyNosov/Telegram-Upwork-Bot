@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108766483019255870",
+    "ciphertext": "~022108766483019255870",
+    "title": "Wordpress Website Customization",
+    "description": "We need a freelancer to customize an existing WordPress website to match our branding and improve the user experience. The work includes updating the homepage, refining the layout, improving navigation, and making the site more visually consistent. You should be comfortable working with existing WordPress themes, implementing design changes, and ensuring the site remains functional after updates. Please share relevant examples of similar website customization projects you have completed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you customize your WordPress website to align perfectly with your branding, refine the layout, and enhance both navigation and user experience. \n\nWith extensive experience in WordPress theme customization, PHP, and front-end development, I specialize in taking existing sites and making them visually consistent and functionally robust without breaking core updates. Whether it's revamping the homepage or polishing UI details, I ensure seamless execution.\n\nYou can view a recent customization and design implementation project I worked on here: https://about.offerup.com/\n\nWhen would be a good time to connect on chat to discuss your brand guidelines and the specific layout changes you need?",
+    "publishedDateTime": "2026-10-10T03:48:05+0000",
+    "addedAt": "2026-10-10T03:48:48.376Z",
+    "url": "https://www.upwork.com/jobs/~022108766483019255870",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108766483019255870/apply/"
+  },
+  {
     "id": "2108656649813621872",
     "ciphertext": "~022108656649813621872",
     "title": "WordPress Developer Needed to Improve B2B IT Services Website",
