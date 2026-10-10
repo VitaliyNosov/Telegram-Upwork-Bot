@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 18,
-  "matchedFilters": 4,
+  "totalScanned": 19,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 3,
+    "wordpress developer": 4,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 2850,
       "url": "https://www.upwork.com/jobs/~022108839172445597528",
       "addedAt": "2026-10-10T08:38:50.299Z"
+    },
+    {
+      "title": "Wix or Squarespace Website designer Needed for Website Redesigns, & Wordpress Developer",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022108860265954540656",
+      "addedAt": "2026-10-10T10:01:16.122Z"
     },
     {
       "title": "Wordpress Website Customization",
