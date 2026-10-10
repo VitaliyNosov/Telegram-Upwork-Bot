@@ -1,5 +1,32 @@
 [
   {
+    "id": "2108845620886521808",
+    "ciphertext": "~022108845620886521808",
+    "title": "Eetcafe.nu",
+    "description": "I am looking for a developer to help me build a website focused on Dutch restaurants using Lovable.\nThe goal is to create a community platform specifically for finding the best \"eetcafés\" (informal, cozy Dutch bistro-style restaurants) per city or town in the Netherlands. It should feature an easy-to-use search and filter system so users can quickly discover top-rated local spots.\nAre you experienced with Lovable and interested in helping me bring this concept to life? Let's connect!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nWhile my core expertise is in building robust platforms with WordPress and modern web technologies, I love jumping into innovative projects and am fully capable of working with the Lovable stack to bring your Dutch eetcafé community platform to life. \n\nCreating a seamless directory with fast, intuitive search and filtering is crucial for a localized platform like Eetcafe.nu. I have extensive experience building community-focused websites, custom taxonomies, and high-performance search interfaces that make discovering local spots effortless for users. \n\nYou can check out some of my previous community and directory platform builds here: https://waapple.org/\n\nAre you using Lovable to generate the frontend/backend entirely, or do you already have wireframes and specific API requirements mapped out? Let’s connect and discuss how to get this rolling!",
+    "publishedDateTime": "2026-10-10T09:02:36+0000",
+    "addedAt": "2026-10-10T09:04:03.799Z",
+    "url": "https://www.upwork.com/jobs/~022108845620886521808",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108845620886521808/apply/"
+  },
+  {
     "id": "2108839172445597528",
     "ciphertext": "~022108839172445597528",
     "title": "Looking for Someone to Transfer My Store from WooCommerce to Shopify",

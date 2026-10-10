@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 17,
-  "matchedFilters": 3,
+  "totalScanned": 18,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 2,
+    "wordpress developer": 3,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108831645713057744",
       "addedAt": "2026-10-10T08:09:03.348Z"
+    },
+    {
+      "title": "Eetcafe.nu",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022108845620886521808",
+      "addedAt": "2026-10-10T09:04:02.580Z"
     }
   ]
 }
