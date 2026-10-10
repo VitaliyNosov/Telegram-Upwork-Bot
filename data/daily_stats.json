@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 25,
-  "matchedFilters": 7,
+  "totalScanned": 27,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108845620886521808",
       "addedAt": "2026-10-10T09:04:02.580Z"
+    },
+    {
+      "title": "Website Migration from BlueHost to DreamHost",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022108908210322455638",
+      "addedAt": "2026-10-10T13:15:05.822Z"
     },
     {
       "title": "WordPress Expert for Website Pages",

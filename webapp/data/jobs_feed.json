@@ -1,5 +1,36 @@
 [
   {
+    "id": "2108908210322455638",
+    "ciphertext": "~022108908210322455638",
+    "title": "Website Migration from BlueHost to DreamHost",
+    "description": "I am changing my website hosting company from BlueHost.com to DreamHost.com.\n\nThera are 3 static websites - just brochure type of whebsite without any transactions.\n* www.NABAStech.com\n* www.NaiasSolutions.com\n* www.WaterZim.com\n\nPer BlueHost, 2 website have malware\n* www.NaiasSolutions.com\n* www.WaterZim.com\nBlueHost wants to charge me high cost to get rid of the malware.  This is NOT the first time BlueHost nickel-and-dime services which is not the first time.  Ever since private equity firm acquired BlueHost.com in recent time, finding ways to charge its customers.  Basically I have had enough with BlueHost and decided to move my website (as a side note, I will keep my e-mail there for now).\n\nAnother reason for moving is that there will be significant change to NaiasSolutions.com website along with WaterZim.com .  So want to start fresh from a new hosting company... and WordPress recommends DreamHost as its preferred hosting company.\n\nAfter moving the website from BlueHost.com to DreamHost.com, change \"A Record.\"  \n\n-----------------------\nI will provide access to both BlueHost and DreamHost but requires 3rd party verification - so I need to be on standby as you gain access to both hosting companies.\n\n1) Estimated Cost - just an estimate\n2) When you can do this as I would like this done today and/or tomorrow, if all possible.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 42,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "godaddy",
+      "cpanel",
+      "web-hosting"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can start on this migration immediately today and have all three sites moved over to DreamHost smoothly. \n\nI completely understand your frustration with BlueHost's upselling, and since two of the sites (NaiasSolutions.com and WaterZim.com) have been flagged for malware, I will clean up the infected files during the migration process so you are starting fresh on DreamHost without carrying over security vulnerabilities. I handle website migrations and malware removal regularly (you can see examples of my recent client work at https://www.seeintl.org/). \n\nI am available to work in real-time on standby for any 2-3 factor authentication needed with BlueHost and DreamHost, and I can update the A records for you as well. \n\nAre you available right now to share the access credentials so we can knock this out today?",
+    "publishedDateTime": "2026-10-10T13:12:50+0000",
+    "addedAt": "2026-10-10T13:15:07.212Z",
+    "url": "https://www.upwork.com/jobs/~022108908210322455638",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108908210322455638/apply/"
+  },
+  {
     "id": "2108847053197872436",
     "ciphertext": "~022108847053197872436",
     "title": "WordPress / WooCommerce Developer Needed – WestCoast Labs",
