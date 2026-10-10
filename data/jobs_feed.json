@@ -1,5 +1,33 @@
 [
   {
+    "id": "2108831645713057744",
+    "ciphertext": "~022108831645713057744",
+    "title": "WordPress & Web Developer (SEO Implementation, Shopify & HTML)",
+    "description": "Job Description\n\nWe’re looking for a skilled and detail-oriented Web Developer to assist our current developer with website improvements, technical SEO implementation, and ongoing web development tasks.\n\nThe immediate priority is implementing SEO recommendations on our existing WordPress website. We’re looking for someone who can work collaboratively with our current developer, follow technical recommendations, and help ensure that website updates are implemented correctly.\n\nIdeally, the candidate should also have experience working with Shopify and static HTML websites to assist with other web development projects as needed.\n\nKey Responsibilities\n\nAssist our current web developer with ongoing website development and maintenance.\n\nImplement technical SEO recommendations on our WordPress website.\n\nMake website updates and improvements based on SEO audits and recommendations.\n\nOptimize website structure, page speed, metadata, headings, internal links, and other on-page technical elements as required.\n\nTroubleshoot website issues and ensure functionality across devices and browsers.\n\nAssist with website updates, bug fixes, and performance improvements across WordPress, Shopify, and static HTML websites.\n\nCollaborate with the existing developer to ensure tasks are completed accurately and efficiently.\n\nRequirements\n\nProven experience in web development, particularly with WordPress.\n\nPractical experience implementing technical and on-page SEO recommendations.\n\nFamiliarity with HTML, CSS, JavaScript, and website troubleshooting.\n\nExperience working with Shopify websites and static HTML websites is highly preferred.\n\nAbility to follow technical instructions, work independently, and collaborate with an existing developer.\n\nStrong attention to detail and problem-solving skills.\n\nPreferred Qualifications\n\nExperience with website speed optimization and Core Web Vitals.\n\nFamiliarity with SEO tools such as Google Search Console, Google Analytics 4, and SEO plugins.\n\nExperience with website migrations, integrations, and technical maintenance.\n\nHow to Apply\n\nPlease include the following in your proposal:\n\nA brief overview of your web development experience, particularly with WordPress.\n\nExamples of websites you have worked on using WordPress, Shopify, or static HTML.\n\nYour experience implementing technical SEO recommendations and website optimization.\n\nYour availability and hourly rate.\n\nWe’re looking for someone practical, reliable, and comfortable supporting an existing developer on an ongoing basis, with the potential to assist with other website projects as needed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 44,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "seo-based-website",
+      "ecommerce-consulting"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help your team implement technical SEO recommendations and support your current developer with ongoing WordPress, Shopify, and HTML updates. \n\nWith extensive experience in WordPress development, I regularly handle technical SEO tasks including optimizing site structure, metadata, headings, internal links, and page speed (Core Web Vitals). In addition to WordPress, my background includes Shopify store customization, HTML/CSS/JavaScript troubleshooting, and database/performance optimization. For instance, I recently worked on the development and performance tuning for sites like https://www.thelifeyoucansave.org/ and https://waapple.org/. \n\nI am reliable, detail-oriented, and comfortable collaborating alongside an existing developer. My current availability is open, and my hourly rate is $XX/hr. \n\nWhen are you looking to kick off the SEO implementation phase?",
+    "publishedDateTime": "2026-10-10T08:07:11+0000",
+    "addedAt": "2026-10-10T08:09:04.639Z",
+    "url": "https://www.upwork.com/jobs/~022108831645713057744",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108831645713057744/apply/"
+  },
+  {
     "id": "2108766483019255870",
     "ciphertext": "~022108766483019255870",
     "title": "Wordpress Website Customization",

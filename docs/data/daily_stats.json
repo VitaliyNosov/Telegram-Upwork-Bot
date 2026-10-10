@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 15,
-  "matchedFilters": 1,
+  "totalScanned": 16,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108766483019255870",
       "addedAt": "2026-10-10T03:48:47.279Z"
+    },
+    {
+      "title": "WordPress & Web Developer (SEO Implementation, Shopify & HTML)",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022108831645713057744",
+      "addedAt": "2026-10-10T08:09:03.348Z"
     }
   ]
 }
