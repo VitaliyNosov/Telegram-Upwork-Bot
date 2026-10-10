@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 22,
-  "matchedFilters": 6,
+  "totalScanned": 23,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022108860265954540656",
       "addedAt": "2026-10-10T10:01:16.122Z"
+    },
+    {
+      "title": "WordPress / WooCommerce Developer Needed – WestCoast Labs",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022108847053197872436",
+      "addedAt": "2026-10-10T12:11:25.210Z"
     },
     {
       "title": "Wordpress Website Customization",
