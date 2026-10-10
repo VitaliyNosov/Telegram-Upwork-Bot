@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 31,
-  "matchedFilters": 9,
+  "totalScanned": 32,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022108886925542472790",
       "addedAt": "2026-10-10T11:51:10.584Z"
+    },
+    {
+      "title": "Multilingual Website Design & SEO for Luggage Storage Business",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022108942327308166760",
+      "addedAt": "2026-10-10T15:29:05.556Z"
     }
   ]
 }

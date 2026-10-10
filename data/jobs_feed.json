@@ -1,5 +1,38 @@
 [
   {
+    "id": "2108942327308166760",
+    "ciphertext": "~022108942327308166760",
+    "title": "Multilingual Website Design & SEO for Luggage Storage Business",
+    "description": "Hello,\n\nI’m looking for an experienced website designer/developer to create a modern, professional website for a new automated luggage storage business in Playa del Inglés, Gran Canaria, Spain.\n\nThe website must be available in five languages: English, Spanish, German, French and Portuguese.\n\nReference website:\n⁠Lock & Go\n\nWe would like a similar level of professionalism, simplicity and user experience, but with our own branding and original design.\n\nImportant: The booking system is already provided by our locker supplier, Kuik. No API integration or custom booking development is required. The website only needs prominent booking buttons linking to Kuik’s external reservation page.\n\nThe project should include:\n\n* Modern, responsive website design, optimized primarily for mobile users.\n* Five-language implementation with SEO-friendly URLs and hreflang tags.\n* Homepage, Locker Sizes & Prices, How It Works, Location, FAQs, Contact and legal pages.\n* Prominent booking buttons linking to our existing Kuik reservation page.\n* Initial SEO optimization for searches related to luggage storage in Playa del Inglés, Maspalomas and Gran Canaria.\n* Keyword research and optimized metadata in all five languages.\n* Google Business Profile creation and initial optimization.\n* Google Maps integration.\n* Original graphics showing suitcases, locker sizes, dimensions and how the service works.\n* Google Analytics 4 and Google Search Console configuration.\n* Cookie consent implementation, SSL and basic website security.\n* Fast loading speeds and good mobile performance.\n* Full administrative access and ownership of the website, hosting, domain and design assets.\n* An easy-to-use content management system, preferably WordPress or another suitable platform.\n* Website testing, deployment and a short training session.\n\nWe can provide the technical dimensions of the lockers, the Kuik booking URL and the business information.\n\nPlease include examples of similar websites, your proposed technology, total fixed price, estimated delivery time, and any ongoing costs.\n\nWe are looking for someone who can deliver a complete, polished website ready for launch.\n\nThank you!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "canva",
+      "seo",
+      "wordpress",
+      "seo-keyword-research",
+      "web-programming",
+      "seo-writing",
+      "web-design",
+      "content-writing"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can build a fast, mobile-optimized WordPress website for your luggage storage business in Playa del Inglés, complete with 5-language support via WPML, SEO-friendly architecture, and seamless integration with your Kuik booking links. \n\nHaving built responsive, high-converting sites like https://www.seeintl.org/, I specialize in delivering clean designs with optimized Core Web Vitals. For your project, I will handle the multi-language setup (English, Spanish, German, French, Portuguese) with proper hreflang tags, local keyword research, Google Maps/Analytics configuration, and secure SSL setup, giving you full administrative ownership upon launch.\n\nTo answer your requests:\n- Technology: WordPress + WPML + lightweight responsive theme.\n- Fixed Price: [Insert Price]\n- Delivery Time: [Insert Timeline]\n- Ongoing Costs: Standard hosting/domain renewal only.\n\nWould you like to review a quick layout concept in chat?",
+    "publishedDateTime": "2026-10-10T15:27:03+0000",
+    "addedAt": "2026-10-10T15:29:06.758Z",
+    "url": "https://www.upwork.com/jobs/~022108942327308166760",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108942327308166760/apply/"
+  },
+  {
     "id": "2108925289332280628",
     "ciphertext": "~022108925289332280628",
     "title": "Web Designer for Website Redesign",
