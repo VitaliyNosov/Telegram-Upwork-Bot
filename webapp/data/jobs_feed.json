@@ -1,5 +1,35 @@
 [
   {
+    "id": "2109003790483787060",
+    "ciphertext": "~022109003790483787060",
+    "title": "Fix Wordpress Mobile Header (GeneratePress/GenerateBlocks)",
+    "description": "We are looking for an experienced WordPress developer who knows GeneratePress Premium and GenerateBlocks (specifically Overlay Panels / Elements) inside and out.\n\nWhile this initial troubleshooting task should be a quick project, we are actively looking for a reliable developer we can build a long-term relationship with. \n\nThere's a real potential for future work and want a go-to partner for ongoing maintenance and site enhancements.\n\nThe Current Issues:\nWe built a custom site header using Elements. We are experiencing two issues on mobile viewports:\n1. Overlay Won't Close via Native Controls: The mobile menu overlay opens fine, but it will not close when clicking the close button or clicking outside the container.\n2. Anchor Link Navigation Issue: When a user clicks a Call-to-Action (CTA) button inside the mobile menu, it successfully scrolls/routes to the correct anchor section on the page, but it does not automatically close the full overlay menu, leaving the screen blocked.\n\nWhat We Need Right Now:\n• Diagnose why the GenerateBlocks overlay / close trigger handler is failing on mobile.\n• Implement a solution (via built-in settings or a custom JavaScript snippet) that automatically closes the overlay when an anchor link/CTA inside the menu is clicked. (prefer native over code)\n• Fix the native close button configuration so the overlay closes smoothly and reliably.\n\nRequirements:\n• Proven experience with WordPress, GeneratePress, and GenerateBlocks (specifically overlay panels, interactive elements, or hooks).\n• Strong debugging skills (handling click events on mobile menus).\n• Location Preference: Developers based in Latin America are strongly preferred for timezone alignment.\n• Please share an example of a GeneratePress/GenerateBlocks project you’ve worked on in your proposal so we know you actually read this.\n• Project Type: Quick fix with potential for ongoing, long-term work",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$15 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.73,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 59,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "wordpress-website",
+      "css",
+      "html",
+      "javascript"
+    ],
+    "score": 4145,
+    "coverLetter": "Hi! \n\nI know my way around GeneratePress Premium and GenerateBlocks inside and out, including setting up dynamic elements, off-canvas panels, and handling custom JS event listeners for tricky mobile overlays. \n\nI can quickly diagnose why your overlay isn't responding to the native close trigger and wire up the smooth click-to-close behavior for your anchor links—using native settings or a lightweight, clean JS snippet if needed. \n\nA recent project where I built and optimized custom WordPress layouts is https://www.cchpca.org/. \n\nI’m looking for a reliable, long-term working relationship and would love to jump in right away to get this mobile menu sorted out for you. Are you available for a quick chat today to review the site?",
+    "publishedDateTime": "2026-10-10T19:32:25+0000",
+    "addedAt": "2026-10-10T19:33:13.626Z",
+    "url": "https://www.upwork.com/jobs/~022109003790483787060",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109003790483787060/apply/"
+  },
+  {
     "id": "2108991159058354238",
     "ciphertext": "~022108991159058354238",
     "title": "WordPress Designer for Website Development",

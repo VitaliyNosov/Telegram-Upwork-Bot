@@ -1,13 +1,20 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-10",
-  "totalScanned": 48,
-  "matchedFilters": 11,
+  "totalScanned": 49,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Fix Wordpress Mobile Header (GeneratePress/GenerateBlocks)",
+      "budget": "$15-$40/hr",
+      "score": 4145,
+      "url": "https://www.upwork.com/jobs/~022109003790483787060",
+      "addedAt": "2026-10-10T19:33:12.605Z"
+    },
     {
       "title": "Looking for Someone to Transfer My Store from WooCommerce to Shopify",
       "budget": "$12-$27/hr",
