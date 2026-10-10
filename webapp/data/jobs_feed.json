@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108925289332280628",
+    "ciphertext": "~022108925289332280628",
+    "title": "Web Designer for Website Redesign",
+    "description": "I'm the new Managing Director of Villa Carlotta, a residential hospitality brand offering furnished apartments in Los Angeles. I'm looking to redesign and revamp the website to better reflect the brand and improve the overall user experience. I'd like to understand how you typically approach client projects, what the expected timeline might be, and what the budget could look like. I'm happy to discuss the project in more detail at your convenience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nRevamping a hospitality brand website like Villa Carlotta requires balancing sophisticated visual storytelling with a seamless user experience that drives bookings and inquiries. As a WordPress developer with extensive experience translating designs (from Figma or custom builds) into high-performing, user-friendly sites, I can help bring your vision for the brand to life. \n\nFor projects like this, I typically start with a discovery phase to map out the user journey, followed by clean, scalable development focusing on speed and responsiveness. Depending on the exact scope and content requirements, a redesign usually takes around 4 to 6 weeks, with a budget tailored to the specific features needed. You can view examples of my clean, modern web builds here: https://about.offerup.com/\n\nAre you currently working with pre-designed Figma layouts, or would you need design support as part of the redesign? Let's connect to discuss the details.",
+    "publishedDateTime": "2026-10-10T14:19:09+0000",
+    "addedAt": "2026-10-10T14:21:24.006Z",
+    "url": "https://www.upwork.com/jobs/~022108925289332280628",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108925289332280628/apply/"
+  },
+  {
     "id": "2108908210322455638",
     "ciphertext": "~022108908210322455638",
     "title": "Website Migration from BlueHost to DreamHost",

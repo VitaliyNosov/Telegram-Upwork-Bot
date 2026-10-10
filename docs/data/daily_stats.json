@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 27,
-  "matchedFilters": 8,
+  "totalScanned": 28,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022108845620886521808",
       "addedAt": "2026-10-10T09:04:02.580Z"
+    },
+    {
+      "title": "Web Designer for Website Redesign",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022108925289332280628",
+      "addedAt": "2026-10-10T14:21:22.483Z"
     },
     {
       "title": "Website Migration from BlueHost to DreamHost",
