@@ -1,10 +1,10 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-10",
-  "totalScanned": 55,
-  "matchedFilters": 12,
+  "totalScanned": 56,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -91,6 +91,13 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022108942327308166760",
       "addedAt": "2026-10-10T15:29:05.556Z"
+    },
+    {
+      "title": "Wordpress Website changes and upload to host",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022109021971419537941",
+      "addedAt": "2026-10-10T20:44:49.544Z"
     }
   ]
 }

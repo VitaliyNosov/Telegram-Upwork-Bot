@@ -1,5 +1,33 @@
 [
   {
+    "id": "2109021971419537941",
+    "ciphertext": "~022109021971419537941",
+    "title": "Wordpress Website changes and upload to host",
+    "description": "I have a backup of a WordPress website and database that I want slightly modified plus submitted and published on a host (Siteground)",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can help you modify your WordPress backup, set up your SiteGround hosting, and get your site successfully published and live. \n\nHandling website migrations, database restores, and custom modifications is a routine part of my daily work. Whether you need content tweaks, layout adjustments, or troubleshooting after the restore, I'll ensure everything runs smoothly and securely on your SiteGround server. You can see examples of full WordPress sites I've built and managed here: https://www.thelifeyoucansave.org/\n\nWhen would you like to get started? Send over the backup files and details on the changes you need, and we can knock this out quickly.",
+    "publishedDateTime": "2026-10-10T20:43:27+0000",
+    "addedAt": "2026-10-10T20:44:50.534Z",
+    "url": "https://www.upwork.com/jobs/~022109021971419537941",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109021971419537941/apply/"
+  },
+  {
     "id": "2109003790483787060",
     "ciphertext": "~022109003790483787060",
     "title": "Fix Wordpress Mobile Header (GeneratePress/GenerateBlocks)",
