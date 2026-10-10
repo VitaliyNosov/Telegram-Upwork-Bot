@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108886925542472790",
+    "ciphertext": "~022108886925542472790",
+    "title": "WordPress Expert for Website Pages",
+    "description": "Hello, I need a WordPress expert to help create and build website pages for our project. I have already created the pages from Claude. You just need to create new pages on wordpress and make sure the everything is working properly",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 120,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "php",
+      "web-programming"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! \n\nI can help you quickly build and publish your new WordPress pages based on your Claude designs, ensuring they look great, function properly, and match your site's existing structure. \n\nWith extensive experience in custom WordPress development, Gutenberg blocks, and page builders like Elementor, I regularly translate layouts and content drafts into fully responsive, live pages. For a quick reference of my recent work, you can check out https://waapple.org/.\n\nAre you using a specific page builder or the native block editor for these pages? Send over the content and details, and I can get started right away.",
+    "publishedDateTime": "2026-10-10T11:49:11+0000",
+    "addedAt": "2026-10-10T11:51:11.700Z",
+    "url": "https://www.upwork.com/jobs/~022108886925542472790",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108886925542472790/apply/"
+  },
+  {
     "id": "2108860265954540656",
     "ciphertext": "~022108860265954540656",
     "title": "Wix or Squarespace Website designer Needed for Website Redesigns, & Wordpress Developer",
