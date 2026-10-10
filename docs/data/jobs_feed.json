@@ -1,5 +1,34 @@
 [
   {
+    "id": "2108839172445597528",
+    "ciphertext": "~022108839172445597528",
+    "title": "Looking for Someone to Transfer My Store from WooCommerce to Shopify",
+    "description": "I’m looking for an experienced freelancer to migrate my store from WooCommerce to Shopify. The work includes transferring product titles, descriptions, images, prices, SKUs, and variants, while organizing products into the correct categories and Shopify collections. You should also verify product details, pricing, and inventory after migration, identify missing data or duplicate products, and resolve import errors. Please share examples of similar migration projects, your relevant experience, and your estimated completion time. Strong attention to detail, reliable communication, and the ability to troubleshoot issues independently are important. I’m open to long-term collaboration if the initial project goes well.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "bigcommerce",
+      "woocommerce",
+      "html",
+      "shopify"
+    ],
+    "score": 2850,
+    "coverLetter": "Hi! \n\nMigrating a store seamlessly from WooCommerce to Shopify requires meticulous attention to detail so that no products, variants, or inventory counts are left behind. Having deep expertise in both platforms, I routinely handle data migrations, structure products into correct Shopify collections, and troubleshoot import errors to ensure data integrity. \n\nI understand the importance of verifying prices, SKUs, and descriptions post-migration to keep your storefront accurate and fully functional from day one. While my primary focus is custom development, my multi-CMS background allows me to execute smooth, error-free platform transitions. You can review some of my recent work here: https://about.offerup.com/\n\nCould you share how many products and variants your store currently has, and if you are using any custom metafields that need to be carried over?",
+    "publishedDateTime": "2026-10-10T08:36:56+0000",
+    "addedAt": "2026-10-10T08:38:51.387Z",
+    "url": "https://www.upwork.com/jobs/~022108839172445597528",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022108839172445597528/apply/"
+  },
+  {
     "id": "2108831645713057744",
     "ciphertext": "~022108831645713057744",
     "title": "WordPress & Web Developer (SEO Implementation, Shopify & HTML)",

@@ -1,12 +1,20 @@
 {
   "date": "2026-10-10",
   "lastDigestSentDate": "2026-10-09",
-  "totalScanned": 16,
-  "matchedFilters": 2,
+  "totalScanned": 17,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 2,
+    "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Looking for Someone to Transfer My Store from WooCommerce to Shopify",
+      "budget": "$12-$27/hr",
+      "score": 2850,
+      "url": "https://www.upwork.com/jobs/~022108839172445597528",
+      "addedAt": "2026-10-10T08:38:50.299Z"
+    },
     {
       "title": "Wordpress Website Customization",
       "budget": "Fixed-price",
