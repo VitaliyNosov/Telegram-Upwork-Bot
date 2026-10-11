@@ -1,5 +1,36 @@
 [
   {
+    "id": "2109209654382587736",
+    "ciphertext": "~022109209654382587736",
+    "title": "Website Development",
+    "description": "Job Description:\nWe are seeking a skilled and reliable website developer to create a professional, responsive, and SEO-friendly website for our business. The ideal candidate will have experience in building user-friendly websites that are clean, fast, mobile-optimized, and easy to maintain.\n\nThis project will require front-end and back-end development skills, including integrating essential features and ensuring scalability and functionality.\n\nKey Responsibilities:\nDesign and develop a modern, responsive website (approximately [5–10] pages)\nImplement clean, user-friendly navigation and layout\nOptimize site performance (load speed, responsiveness)\nEnsure mobile and cross-browser compatibility\nSet up basic SEO structure (meta tags, alt text, clean URLs)\nIntegrate contact forms, social media links, Google Maps, and any necessary third-party tools\nEnsure backend is organized and editable (WordPress or custom CMS preferred)\nProvide basic training or documentation on how to update the site\nPreferred Skills & Experience:\nProficiency in HTML, CSS, JavaScript, PHP, and/or React\nExperience with WordPress, Webflow, or other CMS platforms\nStrong design sense or ability to work with design files (Figma, Adobe XD, etc.)\nSEO and performance optimization knowledge\nExperience with API integrations (optional but a plus)\nGood communication and timely delivery\nDeliverables:\nFully functional, live website on our hosting/domain\nAdmin dashboard or CMS setup for easy editing\nDocumentation or training for content updates\n(Optional) One-month post-launch support for bug fixes or minor adjustments\nTo Apply, Please Include:\nA brief proposal with your approach to this project\nPortfolio links to similar websites you’ve built\nEstimated timeline and cost\nYour preferred platform (e.g. WordPress, Webflow) and why\nProject Timeline:\nStart ASAP.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.78,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 1394,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "html",
+      "css",
+      "php"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! \n\nI’d love to help you build a professional, fast, and SEO-friendly website for your business. For a project of this scope (5–10 pages), I recommend **WordPress** paired with clean custom development or a flexible page builder setup using ACF. This ensures the site is fully responsive, lightning-fast, and extremely easy for your team to update without touching code. \n\nWith strong proficiency in PHP, HTML, CSS, JavaScript, and WordPress core optimization, I build sites that are both visually polished and technically robust. You can see examples of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nMy approach covers everything from responsive frontend styling and third-party integrations (forms, maps) to backend organization and a basic hand-off guide for your team. I can typically deliver a site like this within [Insert Timeline] with an estimated cost of [Insert Cost].\n\nWhen are you looking to kick this off? I'd be happy to discuss your design assets and get started right away.",
+    "publishedDateTime": "2026-10-11T09:09:05+0000",
+    "addedAt": "2026-10-11T09:11:17.456Z",
+    "url": "https://www.upwork.com/jobs/~022109209654382587736",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109209654382587736/apply/"
+  },
+  {
     "id": "2109156570192219444",
     "ciphertext": "~022109156570192219444",
     "title": "Website design and development",
