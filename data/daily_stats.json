@@ -1,74 +1,8 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 38,
-  "matchedFilters": 9,
-  "byKeyword": {
-    "wordpress developer": 9
-  },
-  "topJobs": [
-    {
-      "title": "Web & Funnel Developer",
-      "budget": "$20-$40/hr",
-      "score": 4148,
-      "url": "https://www.upwork.com/jobs/~022109216901999927829",
-      "addedAt": "2026-10-11T09:38:55.628Z"
-    },
-    {
-      "title": "WordPress Website Design, Development & Customization Expert",
-      "budget": "$18-$40/hr",
-      "score": 4100,
-      "url": "https://www.upwork.com/jobs/~022109355838066708542",
-      "addedAt": "2026-10-11T18:51:07.353Z"
-    },
-    {
-      "title": "Web Developer for Website Updates",
-      "budget": "$15-$30/hr",
-      "score": 3099,
-      "url": "https://www.upwork.com/jobs/~022109315589452139828",
-      "addedAt": "2026-10-11T16:11:15.474Z"
-    },
-    {
-      "title": "WordPress Web Designer / Developer — Electronic Music Label Website",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022109365167525221710",
-      "addedAt": "2026-10-11T19:28:54.602Z"
-    },
-    {
-      "title": "WordPress Website Redesign – Cleaning Company",
-      "budget": "Fixed-price",
-      "score": 148,
-      "url": "https://www.upwork.com/jobs/~022109372051358535742",
-      "addedAt": "2026-10-11T19:54:55.299Z"
-    },
-    {
-      "title": "Website design and development",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022109156570192219444",
-      "addedAt": "2026-10-11T05:40:55.584Z"
-    },
-    {
-      "title": "Interactive Search Engine Website Developer",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022109298655402724660",
-      "addedAt": "2026-10-11T15:03:44.564Z"
-    },
-    {
-      "title": "Experienced and Professional WP developer",
-      "budget": "Fixed-price",
-      "score": 97,
-      "url": "https://www.upwork.com/jobs/~022109289150076992598",
-      "addedAt": "2026-10-11T14:26:51.625Z"
-    },
-    {
-      "title": "Website Development",
-      "budget": "Fixed-price",
-      "score": 96,
-      "url": "https://www.upwork.com/jobs/~022109209654382587736",
-      "addedAt": "2026-10-11T09:11:16.047Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
