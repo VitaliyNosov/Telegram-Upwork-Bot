@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109315589452139828",
+    "ciphertext": "~022109315589452139828",
+    "title": "Web Developer for Website Updates",
+    "description": "Need a developer to update my website. 1) fix image on home page (desktop version), 2) convert html content to wordpress editor, and 3) review the site for any other issues and make needed fixes. This is a small, part-time project for someone who can complete the work efficiently and communicate clearly.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 49,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 3099,
+    "coverLetter": "Hi! \n\nI can quickly knock out these updates for you today. Fixing desktop image layouts, converting raw HTML content cleanly into the native WordPress editor, and doing a quick health audit of the site to catch any hidden issues are right in my wheelhouse. \n\nI'm a senior WordPress developer with deep experience handling theme fixes, layout repairs, and content migrations. You can check out some of my recent client work here: https://www.thelifeyoucansave.org/. \n\nI focus on clean code, fast turnaround, and clear communication. If you'd like to get started, feel free to drop the URL and I'll take a quick look right now.",
+    "publishedDateTime": "2026-10-11T16:10:02+0000",
+    "addedAt": "2026-10-11T16:11:16.375Z",
+    "url": "https://www.upwork.com/jobs/~022109315589452139828",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109315589452139828/apply/"
+  },
+  {
     "id": "2109298655402724660",
     "ciphertext": "~022109298655402724660",
     "title": "Interactive Search Engine Website Developer",
