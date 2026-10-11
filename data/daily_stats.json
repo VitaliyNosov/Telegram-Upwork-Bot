@@ -1,10 +1,10 @@
 {
   "date": "2026-10-11",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 32,
-  "matchedFilters": 7,
+  "totalScanned": 33,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3099,
       "url": "https://www.upwork.com/jobs/~022109315589452139828",
       "addedAt": "2026-10-11T16:11:15.474Z"
+    },
+    {
+      "title": "WordPress Web Designer / Developer — Electronic Music Label Website",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022109365167525221710",
+      "addedAt": "2026-10-11T19:28:54.602Z"
     },
     {
       "title": "Website design and development",
