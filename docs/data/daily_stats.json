@@ -1,8 +1,18 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 3,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 4,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Simple Product Website - Shopify/wordpress",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022109411635773624382",
+      "addedAt": "2026-10-11T22:32:49.289Z"
+    }
+  ]
 }
