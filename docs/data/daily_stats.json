@@ -1,12 +1,19 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "EXCEPTIONAL ELEMENTOR PRO page designer/developer wanted",
+      "budget": "Fixed-price",
+      "score": 91,
+      "url": "https://www.upwork.com/jobs/~022109415625711179086",
+      "addedAt": "2026-10-11T22:48:49.022Z"
+    },
     {
       "title": "Simple Product Website - Shopify/wordpress",
       "budget": "Fixed-price",
