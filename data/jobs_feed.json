@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109156570192219444",
+    "ciphertext": "~022109156570192219444",
+    "title": "Website design and development",
+    "description": "Hello\nWe need to develop a website for the Australia Cares Foundation. (ACF).\nThe organisation is a nonprofit operating in Australia. It will enable other nonprofits to establish an account and receive donations through ACF.\nACF will keep 4% of the donations it receives and pass the rest to the organisations. Donors will be able to select the organisations they want to support.\nThe website will operate in exactly the same way as the Australian Sports Foundation (https://asf.org.au/ )and our website must have the same  functionality.\nWe need someone to design and develop the website from beginning to end.\nIn your proposal please provide details of what you will create, a timeframe and a full project price. We will not accept bids based on hourly rates",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 278,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "web-design",
+      "graphic-design"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! Building a donation and multi-org platform like the Australian Sports Foundation requires a robust WordPress setup with advanced user roles, secure payment splits, and a clean, trustworthy design. \n\nI can handle the end-to-end design and development for the Australia Cares Foundation. My approach will utilize custom WordPress development paired with Advanced Custom Fields (ACF) and WooCommerce/donation plugins to securely manage multi-organization accounts, donor selections, and the automated 4% platform fee deduction. You can see examples of my recent nonprofit work on platforms like https://www.thelifeyoucansave.org/.\n\nFor a project of this scale, I propose a fixed price of $[Insert Price] delivered over a timeframe of [Insert Timeframe] weeks, covering UI/UX design, payment gateway integration, testing, and launch. \n\nWould you be open to a quick chat to discuss the specific donation workflows and gateway integrations you prefer?",
+    "publishedDateTime": "2026-10-11T05:38:30+0000",
+    "addedAt": "2026-10-11T05:41:03.163Z",
+    "url": "https://www.upwork.com/jobs/~022109156570192219444",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109156570192219444/apply/"
+  },
+  {
     "id": "2109021971419537941",
     "ciphertext": "~022109021971419537941",
     "title": "Wordpress Website changes and upload to host",

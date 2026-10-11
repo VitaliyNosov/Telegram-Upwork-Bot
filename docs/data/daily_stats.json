@@ -1,8 +1,18 @@
 {
   "date": "2026-10-11",
   "lastDigestSentDate": "2026-10-10",
-  "totalScanned": 9,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 10,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Website design and development",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022109156570192219444",
+      "addedAt": "2026-10-11T05:40:55.584Z"
+    }
+  ]
 }
