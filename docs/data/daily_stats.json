@@ -1,10 +1,10 @@
 {
   "date": "2026-10-11",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 35,
-  "matchedFilters": 8,
+  "totalScanned": 36,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022109365167525221710",
       "addedAt": "2026-10-11T19:28:54.602Z"
+    },
+    {
+      "title": "WordPress Website Redesign – Cleaning Company",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022109372051358535742",
+      "addedAt": "2026-10-11T19:54:55.299Z"
     },
     {
       "title": "Website design and development",

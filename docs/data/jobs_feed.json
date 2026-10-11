@@ -1,5 +1,33 @@
 [
   {
+    "id": "2109372051358535742",
+    "ciphertext": "~022109372051358535742",
+    "title": "WordPress Website Redesign – Cleaning Company",
+    "description": "WordPress Website Redesign – Cleaning Company\n\nWe are looking for a WordPress developer to redesign our existing cleaning company website.\n\nDesign inspiration:  https://helloclean.se/\n\nWe already have a working website. We want a more modern, clean, fast, and professional design.\n\nImportant Requirements\n\n1. **Keep existing forms:** Our forms are connected to GoHighLevel (GHL), where we collect all leads. All forms and integrations must continue working.\n2. **Keep our chatbot:** We already have a chatbot installed. Do not remove, change, or break it.\n3. **Protect SEO:** Keep our existing URLs, page content, SEO settings, titles, and meta descriptions wherever possible. Use 301 redirects if any URLs must change. We don't want to lose our Google rankings or organic traffic.\n4. **Improve website speed:** The new website should load faster, especially on mobile.\n5. **Keep the current website live:** Build and test the new design on a staging site. Only replace the current website when everything is finished, tested, and approved.\n6. **Mobile-friendly:** The website must look great and work properly on desktop, tablet, and mobile.\n\n### Before Launch\n\nPlease test:\n- All forms and confirm that leads arrive in GHL.\n- The existing chatbot.\n- Website speed and mobile responsiveness.\n- SEO settings, URLs, and redirects.\n- All buttons and links.\n\n**Please include in your application:**\n- Examples of WordPress websites you've built.\n- Your fixed price for the project.\n- Estimated delivery time.\n\nWe are looking for someone reliable who can complete the redesign without breaking our existing systems.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Sweden",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 150,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "html"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! I can give your cleaning company website the modern, fast, and professional redesign of helloclean.se while strictly protecting your current SEO rankings, URLs, GoHighLevel form integrations, and chatbot. \n\nWith extensive experience in WordPress development, performance optimization, and safe staging-to-live migrations, I ensure zero downtime and uninterrupted lead flow. For a similar clean, high-performing WordPress build, you can check out https://www.thelifeyoucansave.org/. \n\nFixed Price: $[Insert Amount]\nEstimated Delivery Time: [Insert Number] days\n\nTo ensure everything is seamless, I will build and test the entire redesign on a staging environment, carefully mapping 301 redirects and verifying GHL lead capture before launch. \n\nAre you currently using a specific page builder like Elementor or Gutenberg for the existing site? Let's discuss the details!",
+    "publishedDateTime": "2026-10-11T19:54:25+0000",
+    "addedAt": "2026-10-11T19:54:56.606Z",
+    "url": "https://www.upwork.com/jobs/~022109372051358535742",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109372051358535742/apply/"
+  },
+  {
     "id": "2109365167525221710",
     "ciphertext": "~022109365167525221710",
     "title": "WordPress Web Designer / Developer — Electronic Music Label Website",
