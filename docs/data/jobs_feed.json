@@ -1,5 +1,35 @@
 [
   {
+    "id": "2109289150076992598",
+    "ciphertext": "~022109289150076992598",
+    "title": "Experienced and Professional WP developer",
+    "description": "Need Updating and fixing an abandoned website with digital products. It is up and running but I received a botched website from unprofessional developer, and need someone else to finish it.\n \n1. Some Design Changes, and new images\n2.Fixing of error in directory\n3.Digital products not being sent\n4. Assistance in how to add bundles\n5. Assistance with payment option\n6. Need to remove former developer's info from website. \n7. Make sure and testing everything is working",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Denmark",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! \n\nI can take over this abandoned site, clean up the previous developer's botched work, and get your digital product store fully operational. \n\nFixing broken WooCommerce setups—like failed digital product delivery, payment gateway issues, and directory errors—is a core part of my daily work. I will handle the design updates, properly configure your product bundles, remove all legacy developer info, and run thorough end-to-end testing so you can launch with confidence. \n\nFor reference, I recently built and optimized sites like https://www.thelifeyoucansave.org/ and handle ongoing WooCommerce troubleshooting. \n\nCould you share temporary admin access so I can quickly audit the current errors and give you a solid timeline?",
+    "publishedDateTime": "2026-10-11T14:25:53+0000",
+    "addedAt": "2026-10-11T14:26:52.846Z",
+    "url": "https://www.upwork.com/jobs/~022109289150076992598",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109289150076992598/apply/"
+  },
+  {
     "id": "2109216901999927829",
     "ciphertext": "~022109216901999927829",
     "title": "Web & Funnel Developer",
