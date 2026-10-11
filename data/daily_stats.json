@@ -1,10 +1,10 @@
 {
   "date": "2026-10-11",
   "lastDigestSentDate": "2026-10-10",
-  "totalScanned": 21,
-  "matchedFilters": 4,
+  "totalScanned": 22,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022109156570192219444",
       "addedAt": "2026-10-11T05:40:55.584Z"
+    },
+    {
+      "title": "Interactive Search Engine Website Developer",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022109298655402724660",
+      "addedAt": "2026-10-11T15:03:44.564Z"
     },
     {
       "title": "Experienced and Professional WP developer",

@@ -1,5 +1,40 @@
 [
   {
+    "id": "2109298655402724660",
+    "ciphertext": "~022109298655402724660",
+    "title": "Interactive Search Engine Website Developer",
+    "description": "I’m looking for an experienced web developer who can take an existing prototype created in Claude and turn it into a fully functional website.\n\nThe concept is relatively straightforward: the website will search a database of pre-built travel itineraries and recommend the most suitable options based on the customer’s preferences, such as budget, destination, travel duration, accommodation level, and other criteria.\n\nThe selected itineraries will then be displayed through a simple, clean, and user-friendly interface.\n\nThe prototype and overall concept are already developed. I’m looking for someone who can build the database/search functionality, recommendation logic, and front-end experience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 176,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "javascript",
+      "wordpress",
+      "css",
+      "php",
+      "html5",
+      "web-design",
+      "prototype",
+      "api",
+      "html"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! \n\nTurning a Claude prototype into a fully functional, interactive web application is right in my wheelhouse. I frequently build custom database search filters, recommendation logic, and clean front-end interfaces using JavaScript, PHP, and WordPress. \n\nFor a project like this, I can efficiently structure your travel itinerary data (using custom post types and taxonomies or a dedicated database table), build a fast, dynamic search and filtering engine, and connect it to a clean user interface. You can see examples of my custom web development work on projects like https://about.offerup.com/, where we handled complex frontend interactions and robust data presentation.\n\nCould you share the Claude prototype or a quick overview of the specific criteria filters you want users to search by? I'd love to review it and outline the best tech stack for the build.",
+    "publishedDateTime": "2026-10-11T15:02:50+0000",
+    "addedAt": "2026-10-11T15:03:46.090Z",
+    "url": "https://www.upwork.com/jobs/~022109298655402724660",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109298655402724660/apply/"
+  },
+  {
     "id": "2109289150076992598",
     "ciphertext": "~022109289150076992598",
     "title": "Experienced and Professional WP developer",
