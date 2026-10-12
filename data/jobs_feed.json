@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109447484574530672",
+    "ciphertext": "~022109447484574530672",
+    "title": "Experienced WooCommerce Developer – Build E-Commerce Store from Scratch",
+    "description": "Project Overview\n\nWe are looking for an experienced WooCommerce / WordPress Developer to build a clean, modern, and high-performing e-commerce website from the ground up.\n\nWe need a developer who can handle the initial setup, theme configuration, payment/shipping integrations, and ensure the site is optimized for performance, security, and mobile responsiveness before launch.\n\n Key Responsibilities\n\nFull Site Setup: Set up WordPress, WooCommerce, and core essential plugins on our hosting environment.\nTheme Installation & Design: Install, configure, and customize a responsive, fast-loading WooCommerce theme to match our brand.\nStore Configuration: Set up product catalogs, categories, tax settings, shipping zones, and payment gateways (e.g., Stripe, PayPal).\nCore Page Building: Build out key pages including Home, Shop, Product Detail, Cart, Checkout, About, and Contact pages.\nSpeed & Security: Optimize site performance, configure caching, and implement essential security best practices.\nTesting & Handoff: Test cart/checkout workflows, verify responsiveness across all devices, and provide a basic handoff/walkthrough.\n\nRequired Qualifications\n\n3+ years of proven hands-on experience building WordPress and WooCommerce sites from scratch.\nStrong proficiency in PHP, HTML5, CSS3, JavaScript, and MySQL\nExperience with major WordPress themes and builders (e.g., Astra, Kadence, Elementor, Gutenberg).\nProven track record of configuring payment gateways, shipping rules, and security protocols.\nStrong focus on mobile responsiveness, site speed, and clean code.\nClear communication, responsiveness, and ability to meet agreed project deadlines.\n\nHow to Apply\n\nWhen submitting your proposal, please include:\n\n1. A brief overview of your experience building WooCommerce stores from scratch.\n2. Links to 2–3 completed WooCommerce websites  you have built recently.\n3. Your estimated timeline and recommended tech stack (theme, page builder, plugins) for a new build.\n4. Start your proposal with the word \n\nCategory: Web Development E-Commerce Development\nSkills/Tags: WooCommerce`, `WordPress`, `PHP`, `CSS`, `Website Build`, `E-Commerce`\nProject Type: One-time project\nExperience Level: Intermediate to Expert",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "ecommerce-consulting",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 200,
+    "coverLetter": "Hi! Ready, I have extensive experience building high-performing WooCommerce stores from scratch with clean, optimized code. \n\nFor a new build, my recommended tech stack typically relies on a lightweight theme like Kadence or Astra combined with Gutenberg or Elementor, paired with robust caching and secure payment setups (Stripe/PayPal) to guarantee fast loading speeds and smooth checkout workflows. \n\nHere are a couple of recent WooCommerce and WordPress sites from my portfolio:\n- https://www.snopud.com/\n- https://www.seeintl.org/\n\nI can typically complete a full setup from scratch within 2 to 3 weeks depending on the exact page count and design assets. \n\nWhen are you looking to kick this project off, and do you already have design files ready?",
+    "publishedDateTime": "2026-10-12T00:54:13+0000",
+    "addedAt": "2026-10-12T00:54:51.365Z",
+    "url": "https://www.upwork.com/jobs/~022109447484574530672",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109447484574530672/apply/"
+  },
+  {
     "id": "2109415625711179086",
     "ciphertext": "~022109415625711179086",
     "title": "EXCEPTIONAL ELEMENTOR PRO page designer/developer wanted",
