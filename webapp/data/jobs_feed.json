@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109665699368293710",
+    "ciphertext": "~022109665699368293710",
+    "title": "WordPress Website Redesign",
+    "description": "Job Title: WordPress Website Redesign for Tampa Bay Sports Medicine Society\n\nWe are seeking an experienced web designer/developer to redesign the website for the Tampa Bay Sports Medicine Society, a forming regional nonprofit focused on sports medicine education, professional collaboration, and athlete safety.\n\nCurrent website: https://tampabaysportsmed.org/\n\nThe current website is a basic template with starter content. We need a polished, professional, user-friendly website that clearly communicates our mission and makes it easy for visitors to get involved. Our audience includes physicians, athletic trainers, physical therapists, coaches, schools, sports organizations, parents, athletes, and potential sponsors.\n\nProject scope\nCreate a cohesive visual design with strong typography, appropriate imagery, and clear page layouts.\nImprove navigation so visitors can easily find membership information, educational programs, resources, and partnership opportunities.\nRedesign the existing pages, including Home, About, Programs & Education, Membership, Mission/Vision/Governance, Partnerships & Sponsorships, Resources, FAQ, Contact, and Privacy Policy.\nOrganize the existing educational articles into an attractive, easy-to-browse resource section.\nReplace placeholder content and nonfunctional form areas with working contact, membership interest, and education/partnership inquiry forms.\nCreate clear calls to action throughout the site.\nEnsure excellent usability on desktop, tablet, and mobile.\nImplement basic on-page SEO, accessibility best practices, spam protection, and performance optimization.\nBuild reusable layouts that allow us to add future articles, events, programs, and leadership profiles.\nProvide a straightforward editing experience so our team can maintain the site without a developer.\n\nPlatform and design expectations\n\nThe site currently uses WordPress, and we prefer to retain it. Please recommend the theme, page builder, or development approach you believe best fits the project.\nWe want a modern, welcoming design that reflects both medical professionalism and community sports involvement. We welcome thoughtful recommendations about page organization, content presentation, and the overall visitor experience.\n\nDeliverables\n\nProposed sitemap and homepage design for review before full development.\nCompleted website with existing content migrated and formatted.\nWorking forms with verified email delivery.\nTesting across common browsers and screen sizes.\nLaunch support, preservation of existing URLs where practical, and redirects for any changed URLs.\nBrief documentation or a recorded walkthrough showing how to update the site.\nA defined period of support for correcting issues after launch.\nTwo contact pages: one for membership, one for sponsorship\nPlease avoid any paid themes, plugins, stock images, or recurring costs. All website accounts, licenses, and final assets should be under our ownership.\n\nIdeal candidate\n\nDemonstrated experience designing and developing WordPress websites.\nStrong visual design and user experience skills.\nExperience with healthcare, professional societies, nonprofits, or membership organizations is a plus.\nClear communication and an organized review process.\nAbility to deliver a site that is easy to maintain.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help the Tampa Bay Sports Medicine Society transform your current starter site into a polished, professional hub that clearly engages physicians, trainers, and sponsors. \n\nAs a WordPress developer with extensive experience building membership and nonprofit websites (such as https://www.thelifeyoucansave.org/ and https://www.cchpca.org/), I specialize in creating clean, modern layouts with intuitive navigation and robust resource sections. My approach avoids recurring costs, bloated themes, or unnecessary paid plugins—relying instead on a lightweight, maintainable setup (using ACF or a clean builder approach) tailored precisely to your needs. \n\nI’ll ensure seamless mobile responsiveness, working contact/membership forms with verified email delivery, and a straightforward editing experience so your team can easily manage future events and articles. \n\nWould you be open to a quick chat about your preferred sitemap and timeline?\n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-10-12T15:23:11+0000",
+    "addedAt": "2026-10-12T15:24:33.749Z",
+    "url": "https://www.upwork.com/jobs/~022109665699368293710",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109665699368293710/apply/"
+  },
+  {
     "id": "2109662205232587285",
     "ciphertext": "~022109662205232587285",
     "title": "WordPress Website for Travel Brand",
