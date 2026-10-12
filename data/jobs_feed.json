@@ -1,5 +1,33 @@
 [
   {
+    "id": "2109593519880191062",
+    "ciphertext": "~022109593519880191062",
+    "title": "Experienced Wordpress specialist required to rocover hacked website",
+    "description": "I have a simple wordpress 'book author' website that has been hacked and is no longer accessible. I want the site to be recovred and made secure from future hacks.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "vulnerability-assessment"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you recover your hacked author website, restore full access, and implement robust security hardening to prevent future attacks. \n\nAs a WordPress developer specializing in emergency site recovery and malware removal, I routinely handle hacked sites, database cleanups, and security patching. I will thoroughly scan your files and database, remove any malicious injections, restore your site safely, and lock down vulnerabilities (such as outdated plugins, weak auth, or file permission issues) so it stays secure moving forward.\n\nYou can view examples of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nCould you share the current error message you're seeing or your hosting provider? I'm ready to dive in and get your site back online.",
+    "publishedDateTime": "2026-10-12T10:35:18+0000",
+    "addedAt": "2026-10-12T10:36:43.634Z",
+    "url": "https://www.upwork.com/jobs/~022109593519880191062",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109593519880191062/apply/"
+  },
+  {
     "id": "2109486733760183382",
     "ciphertext": "~022109486733760183382",
     "title": "Landing Page Development",
