@@ -1,5 +1,35 @@
 [
   {
+    "id": "2109659952065061397",
+    "ciphertext": "~022109659952065061397",
+    "title": "WordPress Developer Needed to Build 8–10 Page Site from Provided Design",
+    "description": "We’re looking for an experienced WordPress developer to translate a professionally created website design into a polished, fully responsive WordPress site.\n\nThe complete design will be provided in PDF or a similar format. Your role will be to faithfully implement that design within WordPress using the Salient theme framework (https://themenectar.com/salient/), which we will provide.\n\nProject Scope\n\nApproximately 8–10 pages\nBuild from a completed third-party design\nWordPress using the Salient theme\nFully responsive across desktop, tablet, and mobile\nApproximately 1–2 week turnaround\nStaging/development environment provided by us\nAll necessary Salient theme files provided\nImportant Development Requirement\n\nWe want the site built primarily using Salient’s native functionality, components, page builder, and styling options.\n\nWe specifically do not want a heavily customized WordPress build or large amounts of custom CSS, JavaScript, PHP, or other code layered on top of Salient.\n\nSome minor custom CSS may be appropriate where necessary to accurately reproduce the design, but the underlying build should remain clean, maintainable, and firmly within the Salient framework.\n\nQuality Expectations\n\nWe are very detail-oriented and expect a high level of precision. The finished website should closely match the supplied designs, including typography, spacing, sizing, alignment, imagery, and other visual details.\n\nMobile implementation is equally important. The site should not simply \"work\" on mobile. It should be thoughtfully adapted and polished across common screen sizes.\n\nWe are looking for someone who:\n\nHas extensive experience building WordPress websites\nHas specific experience with the Salient theme\nCan accurately translate finished designs into WordPress\nHas a strong eye for typography, spacing, and visual details\nBuilds cleanly without unnecessary custom code\nIs comfortable working within an existing staging environment\nCan complete an 8–10 page build within approximately 1–2 weeks\nCommunicates clearly and can turn around revisions promptly\n\nWhen applying, please include examples of WordPress sites you have built using Salient specifically. Please also briefly describe your approach to recreating a supplied design while keeping the build primarily within Salient's native functionality.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 40,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "css",
+      "html"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nTo answer your request about my approach: I always prioritize leveraging native theme components and built-in styling options before writing a single line of custom code. By relying strictly on Salient’s native page builder, global settings, and grid structure, I ensure the site remains lightweight, fast-loading, and exceptionally easy for your team to manage long-term, utilizing minimal custom CSS only for fine-tuning edge details.\n\nWith extensive experience translating third-party PDF and Figma designs into pixel-perfect WordPress builds, I specialize in the exact typography, spacing, and responsive precision you are looking for. I am fully comfortable working within your staging environment and can comfortably hit your 1–2 week turnaround. \n\nYou can review a sample of my recent work here: https://www.seeintl.org/\n\nWhen do you plan to have the designs and staging environment ready to kick off?\n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-10-12T14:58:29+0000",
+    "addedAt": "2026-10-12T15:00:42.679Z",
+    "url": "https://www.upwork.com/jobs/~022109659952065061397",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109659952065061397/apply/"
+  },
+  {
     "id": "2109612955100016472",
     "ciphertext": "~022109612955100016472",
     "title": "Fix Elementor Pro Slider Script Issue",

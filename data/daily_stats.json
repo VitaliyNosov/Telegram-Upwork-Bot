@@ -1,10 +1,10 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 40,
-  "matchedFilters": 7,
+  "totalScanned": 41,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022109447484574530672",
       "addedAt": "2026-10-12T00:54:49.776Z"
+    },
+    {
+      "title": "WordPress Developer Needed to Build 8–10 Page Site from Provided Design",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022109659952065061397",
+      "addedAt": "2026-10-12T15:00:41.334Z"
     },
     {
       "title": "Experienced Wordpress specialist required to rocover hacked website",
