@@ -1,10 +1,10 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 63,
-  "matchedFilters": 15,
+  "totalScanned": 65,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -83,6 +83,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022109675893741632598",
       "addedAt": "2026-10-12T16:03:12.162Z"
+    },
+    {
+      "title": "Website Redesign and Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022109732413314501940",
+      "addedAt": "2026-10-12T19:46:58.697Z"
     },
     {
       "title": "WordPress Website – Font Updates (20 Pages) & Full UI/UX Redesign (1 Page)",

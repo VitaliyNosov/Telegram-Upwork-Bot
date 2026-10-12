@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109732413314501940",
+    "ciphertext": "~022109732413314501940",
+    "title": "Website Redesign and Development",
+    "description": "I’m looking for a freelancer to redesign and rebuild my existing website within a budgeted cost. The project includes improving the overall look, functionality, and user experience while keeping the site clean, modern, and easy to navigate. I need someone who can assess the current site, recommend updates, and deliver a polished final product that meets my expectations. Please share relevant examples of similar work and your approach to staying within the agreed budget.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "seo",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help you redesign and modernize your website while keeping the project strictly within your budget. \n\nMy approach to staying on budget and on track is simple: we first audit your existing content and structure to map out clear, efficient steps before any development begins—preventing scope creep. Using WordPress, clean code, and modern page builders or Gutenberg blocks, I will deliver a fast, user-friendly, and visually polished site that improves your overall user experience. \n\nFor example, I recently rebuilt and redesigned sites like https://www.seeintl.org/, focusing on modern navigation, clean aesthetics, and performance. \n\nWhat is your target timeline for this redesign, and do you already have a general budget range in mind? Let’s chat!",
+    "publishedDateTime": "2026-10-12T19:46:25+0000",
+    "addedAt": "2026-10-12T19:46:59.883Z",
+    "url": "https://www.upwork.com/jobs/~022109732413314501940",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109732413314501940/apply/"
+  },
+  {
     "id": "2109694352080501872",
     "ciphertext": "~022109694352080501872",
     "title": "Senior Full-Stack WordPress Developer Needed for AI-Powered Auto-Blogging Business Magazine",
