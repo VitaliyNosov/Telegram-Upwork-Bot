@@ -1,5 +1,33 @@
 [
   {
+    "id": "2109674704080785470",
+    "ciphertext": "~022109674704080785470",
+    "title": "Wordpress Storage website",
+    "description": "I’m currently looking for a developer to build a new website for Masterclass Storidge Concierge, a storage and concierge service on the Costa Blanca.\nI’ve attached a website plan outlining the concept, required pages, functionality and design direction. An important part of the website will be an interactive storage package configurator, where customers can select the number of pallets and additional services and immediately see the monthly price. The prices and options should be easy for us to change from the backend without programming. Masterclass Storidge Websitepla…\nThe website should be mobile-first, available in Dutch and English, include WhatsApp integration and have a professional, premium look matching the branding shown in the document. Masterclass Storidge Websitepla…\nCould you please review the attached plan and send me your proposal, including your fixed price, estimated delivery time, platform/CMS you would recommend, and what is included in the price?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 100,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I would love to help you build the website for Masterclass Storidge Concierge on the Costa Blanca. \n\nFor a project like this requiring dynamic pricing, backend manageability, and multilingual support, I highly recommend WordPress paired with Advanced Custom Fields (ACF). I can build a custom, mobile-first theme with a tailored interactive storage package configurator. Your team will be able to easily update pallets, services, and pricing directly from the WordPress backend without touching any code. \n\nThe build will include Dutch and English translation setups (using WPML), WhatsApp integration, and a premium design matching your branding. For a similar clean, professional layout, you can check out https://www.seeintl.org/ from my portfolio.\n\nTo give you an exact fixed price and timeline, could you share the website plan document in chat? I'm ready to dive in whenever you are.",
+    "publishedDateTime": "2026-10-12T15:57:04+0000",
+    "addedAt": "2026-10-12T15:58:34.619Z",
+    "url": "https://www.upwork.com/jobs/~022109674704080785470",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109674704080785470/apply/"
+  },
+  {
     "id": "2109671019684629812",
     "ciphertext": "~022109671019684629812",
     "title": "Airbnb Calendar and Payment Integration",
