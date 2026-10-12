@@ -1,5 +1,44 @@
 [
   {
+    "id": "2109694352080501872",
+    "ciphertext": "~022109694352080501872",
+    "title": "Senior Full-Stack WordPress Developer Needed for AI-Powered Auto-Blogging Business Magazine",
+    "description": "We're building a bilingual, Arabic and English, AI powered business magazine focused on startups, technology, business, investment, and entrepreneurship across the MENA region.\n\nWe're looking for a highly experienced Full Stack WordPress Developer who can build a modern, scalable, and high performance publishing platform with advanced AI automation and workflow integrations.\n\nResponsibilities\n\n- Develop and customize a professional WordPress magazine website.\n- Customize a premium WordPress theme \"themeforest theme\" to match the project requirements.\n- Build responsive pages and custom layouts with excellent user experience.\n- Integrate AI services and APIs to automate content publishing workflows.\n- Configure automation platforms such as n8n, Make, or Zapier.\n- Implement user registration with email and mobile phone verification using one time passcodes.\n- Install, configure, and customize WordPress plugins and widgets.\n- Set up WooCommerce/eStore and Stripe for memberships and online payments.\n- Configure a complete advertising management system for banner placements and sponsored content/guest posting.\n- Building business user role where business account can join, pay, and publish their news automatically after subscription.\n- Optimize the website for speed, SEO, scalability, and security \"Rank Math\".\n- Install and configure analytics tools like GA4, Google Search Console, Hotjar, etc.\n- Build newsletter and email marketing automation using platforms such as beehiiv, Kit, Substack, or Ghost.\nEnsure the website supports both English and Arabic, including full RTL compatibility.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "html5",
+      "woocommerce",
+      "wordpress-seo-plugins",
+      "wordpress-theme",
+      "jquery",
+      "wordpress",
+      "web-programming",
+      "api",
+      "api-integration",
+      "restful-api",
+      "stripe",
+      "mysql"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nYour bilingual, AI-powered MENA business magazine project is a great fit for my background as a Senior WordPress Developer. I specialize in building high-performance publishing platforms, complex custom workflows, and advanced API integrations. \n\nI can expertly handle your full stack requirements: setting up the ThemeForest theme with full English/Arabic RTL compatibility, integrating AI and automation tools (n8n/Make/Zapier), configuring Stripe/WooCommerce memberships for automated business publishing, and implementing secure OTP user verification. I also have deep experience with SEO optimization (Rank Math), speed tuning, and building scalable publication architectures—similar to my work on high-traffic sites like https://www.cchpca.org/.\n\nWould you like to discuss the specific AI workflows and automation tools you have in mind for the content pipeline?",
+    "publishedDateTime": "2026-10-12T17:15:41+0000",
+    "addedAt": "2026-10-12T17:16:55.818Z",
+    "url": "https://www.upwork.com/jobs/~022109694352080501872",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109694352080501872/apply/"
+  },
+  {
     "id": "2109675893741632598",
     "ciphertext": "~022109675893741632598",
     "title": "Build responsive WordPress site with payment functionality",

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 55,
-  "matchedFilters": 14,
+  "totalScanned": 56,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022109659952065061397",
       "addedAt": "2026-10-12T15:00:41.334Z"
+    },
+    {
+      "title": "Senior Full-Stack WordPress Developer Needed for AI-Powered Auto-Blogging Business Magazine",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022109694352080501872",
+      "addedAt": "2026-10-12T17:16:54.555Z"
     },
     {
       "title": "Experienced Wordpress specialist required to rocover hacked website",
