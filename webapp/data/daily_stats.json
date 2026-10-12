@@ -1,10 +1,10 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 48,
-  "matchedFilters": 12,
+  "totalScanned": 50,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022109601362001817432",
       "addedAt": "2026-10-12T11:08:29.979Z"
+    },
+    {
+      "title": "Website Homepage and Product Page Update",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022109675094378566990",
+      "addedAt": "2026-10-12T16:00:36.600Z"
     },
     {
       "title": "EXCEPTIONAL ELEMENTOR PRO page designer/developer wanted",
