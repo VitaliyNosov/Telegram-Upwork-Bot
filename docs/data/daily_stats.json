@@ -1,12 +1,19 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 29,
-  "matchedFilters": 6,
+  "totalScanned": 30,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
+    {
+      "title": "Fix Elementor Pro Slider Script Issue",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022109612955100016472",
+      "addedAt": "2026-10-12T11:52:30.960Z"
+    },
     {
       "title": "Landing Page Development",
       "budget": "$15-$30/hr",

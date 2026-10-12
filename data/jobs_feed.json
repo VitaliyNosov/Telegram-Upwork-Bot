@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109612955100016472",
+    "ciphertext": "~022109612955100016472",
+    "title": "Fix Elementor Pro Slider Script Issue",
+    "description": "I need help fixing a slider issue on my website after a recent update. The slider is opening and closing with one click because the script on the page is duplicated. I’m looking for someone to identify the duplicate code, remove it, and ensure the slider behaves correctly so it opens or closes with a single click. Experience troubleshooting Elementor Pro and WordPress issues is important for this short-term project. The FAQ section on this page shows the issue: https://ffinetwork.org/what-is-food-fortification-and-enrichment/",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "javascript"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can quickly fix that Elementor Pro slider script issue for you. Based on your description, it sounds like a classic plugin or theme conflict causing a duplicated JavaScript handler to bind twice on the FAQ accordion/slider, resulting in the double-toggle behavior. \n\nWith extensive experience debugging WordPress, Elementor Pro, PHP, and JavaScript conflicts, I can dive into that specific page (`https://ffinetwork.org/what-is-food-fortification-and-enrichment/`), trace the script queue, remove the duplicate code safely, and ensure your FAQ slider responds properly to a single click. \n\nAre you available right now to share temporary WP admin access so I can get this sorted out for you today?",
+    "publishedDateTime": "2026-10-12T11:51:44+0000",
+    "addedAt": "2026-10-12T11:52:32.229Z",
+    "url": "https://www.upwork.com/jobs/~022109612955100016472",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109612955100016472/apply/"
+  },
+  {
     "id": "2109601362001817432",
     "ciphertext": "~022109601362001817432",
     "title": "WordPress Website – Font Updates (20 Pages) & Full UI/UX Redesign (1 Page)",
