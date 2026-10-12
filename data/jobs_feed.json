@@ -1,5 +1,33 @@
 [
   {
+    "id": "2109662205232587285",
+    "ciphertext": "~022109662205232587285",
+    "title": "WordPress Website for Travel Brand",
+    "description": "I’m looking for a WordPress freelancer to help build the first version of The Travel Edit, a travel content brand focused on destination guides and digital travel products. I already have my branding, content direction, and product ready. I need help setting up a clean, editorial inspired travel WordPress website with a blog structure, email freebie signup, and product page connected to Etsy.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "seo"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nBuilding an editorial-inspired travel site like *The Travel Edit* requires a clean, fast-loading design that puts your content and digital products front and center. I can help you bring this vision to life. \n\nWith deep experience in custom WordPress development, I specialize in setting up sophisticated blog architectures, integrating lead magnets for email signups, and seamlessly connecting external platforms like Etsy for digital product fulfillment. I also ensure every site is optimized for SEO and Core Web Vitals right out of the box. \n\nFor a similar clean, content-focused layout, you can check out my work on https://www.thelifeyoucansave.org/. \n\nDo you already have a preferred theme or page builder in mind (like Gutenberg or Elementor), or would you like me to recommend a lightweight, high-performance setup? Let's chat!",
+    "publishedDateTime": "2026-10-12T15:07:20+0000",
+    "addedAt": "2026-10-12T15:08:34.594Z",
+    "url": "https://www.upwork.com/jobs/~022109662205232587285",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109662205232587285/apply/"
+  },
+  {
     "id": "2109659952065061397",
     "ciphertext": "~022109659952065061397",
     "title": "WordPress Developer Needed to Build 8–10 Page Site from Provided Design",
