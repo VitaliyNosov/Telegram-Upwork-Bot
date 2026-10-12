@@ -1,12 +1,19 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 46,
-  "matchedFilters": 10,
+  "totalScanned": 47,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
+    {
+      "title": "Airbnb Calendar and Payment Integration",
+      "budget": "$15-$35/hr",
+      "score": 3599,
+      "url": "https://www.upwork.com/jobs/~022109671019684629812",
+      "addedAt": "2026-10-12T15:44:32.577Z"
+    },
     {
       "title": "Fix Elementor Pro Slider Script Issue",
       "budget": "$15-$30/hr",
