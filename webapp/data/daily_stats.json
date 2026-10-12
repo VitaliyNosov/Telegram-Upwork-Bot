@@ -1,10 +1,10 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-11",
-  "totalScanned": 50,
-  "matchedFilters": 13,
+  "totalScanned": 51,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -69,6 +69,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022109674704080785470",
       "addedAt": "2026-10-12T15:58:33.310Z"
+    },
+    {
+      "title": "Build responsive WordPress site with payment functionality",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022109675893741632598",
+      "addedAt": "2026-10-12T16:03:12.162Z"
     },
     {
       "title": "WordPress Website – Font Updates (20 Pages) & Full UI/UX Redesign (1 Page)",

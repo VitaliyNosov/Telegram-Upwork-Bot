@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109675893741632598",
+    "ciphertext": "~022109675893741632598",
+    "title": "Build responsive WordPress site with payment functionality",
+    "description": "Project Overview\nWe are seeking an experienced, reliable, and detail-oriented WordPress website developer to design and build a professional, modern, and fully functional website for a small business.\n\nThe ideal candidate will have a proven track record of successfully completed WordPress projects, a strong portfolio of live websites, excellent communication skills, and the ability to manage a project from initial consultation through final launch.\nWe are looking for a professional who combines technical expertise, creative design, problem-solving abilities, and a commitment to delivering quality work on time and within budget.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can certainly help you build a professional, responsive WordPress site with seamless payment functionality.\n\nI specialize in custom WordPress and WooCommerce development, ensuring that your site is not only visually modern but also technically robust. I have extensive experience setting up secure payment gateways and optimizing checkout flows, which is critical for a smooth user experience. You can see an example of my work on a complex, high-traffic build here: https://www.thelifeyoucansave.org/.\n\nMy approach focuses on clean, maintainable code that scales with your business needs. I’m comfortable managing the entire project lifecycle, from initial design concepts to the final deployment, ensuring we hit your goals on time.\n\nAre you available for a brief chat this week to discuss your specific design requirements and the payment systems you're considering?",
+    "publishedDateTime": "2026-10-12T16:01:52+0000",
+    "addedAt": "2026-10-12T16:03:26.167Z",
+    "url": "https://www.upwork.com/jobs/~022109675893741632598",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109675893741632598/apply/"
+  },
+  {
     "id": "2109675094378566990",
     "ciphertext": "~022109675094378566990",
     "title": "Website Homepage and Product Page Update",
