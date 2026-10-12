@@ -1,5 +1,35 @@
 [
   {
+    "id": "2109733942836645950",
+    "ciphertext": "~022109733942836645950",
+    "title": "E‑commerce Strategist + WordPress/Ecwid Developer for Bakery Website Rebuild",
+    "description": "Please read before applying: \nWe want to hear from a real person who thinks for themselves. Proposals written fully gpt after passing this job posting through it will be ignored.\n\nAbout us\nWe’re an established, licensed custom cake studio in a growing US metro area.\n\nWe have three distinct lines of business on one site:\n\nCustom Cakes: fully custom designs, our core business today\nSignature Cakes: designed cakes customers buy online with a few days’ notice. This is our growth priority.\nWeddings and Events: a second growth area\n\nThe problem\nOur site doesn’t tell one clear story. Visitors have to work too hard to figure out which path is right for them, our product pages and ordering flow create friction, and our value props aren’t landing. We want all three verticals clearly represented with their own path, not one buried under another.\n\nWhat we need\nOne person or small team who can do both the strategy and the rebuild. We are not web designers, so we need you to bring the “how,” not just execute a list.\n\n- Homepage that tells a clear story and routes visitors to the right vertical in seconds\n- Dedicated landing pages for each vertical (also used as ad landing pages)\n- Better Signature product pages and a simpler ordering flow, especially on mobile\n- A store structure that supports both simple themed cakes (few options) and more configurable build‑your‑own cakes\n- Clear, specific value propositions throughout\n- Inquiry forms that are effortless to start and filter out poor‑fit requests\n\nTechnical requirements (non‑negotiable)\n\n- Build on our existing stack: WordPress, Elementor Pro, Ecwid (with existing customizations sustained where application). No platform migration unless you can prove a real limitation we can't work around.\n\n- Every Signature product must have a clean, indexable product URL on our domain, usable as a final URL in Google Ads\n\n- Product structured data and a working Google Merchant Center feed so products are approved for Google Shopping and free listings, with local pickup/delivery set up correctly for made‑to‑order items\n\n- On‑page and local SEO foundations, plus a redirect map so we don’t lose existing rankings\n- Existing analytics, ad conversion tracking, and CRM form integrations must keep working. These are launch acceptance criteria.\n\n- Build on staging; the live site and store stay up until the new version passes testing\n\n- We own all designs, code, and customizations, with documentation at handoff.\n\nWe have reference sites for flow and UX. We don’t want a copy, we want that level of clarity applied to our business.\n\nHow we’d like to work\n\n- Phase 1 (paid): Audit of our current site and store, proposed sitemap, and a clickable prototype of the homepage, one store category page, and one product page\n\n- Phase 2: Full build on staging\n\n- Phase 3: QA, launch, and a short post‑launch review against baseline metrics\n\nFixed price per phase, with any Ecwid custom development quoted as a separate line once the audit shows what’s needed.\n\nBudget: Open to proposals\n\nTo apply, include:\n\n- A live Ecwid or WooCommerce store you built or reworked where products are approved and showing in Google Shopping. Link to it.\n\n- How you’d approach a site that has to serve three different buyer types without favoring one. \n\n- We’ll share our site link with shortlisted applicants for a specific critique.\n\n- How you’d handle two product types (simple themed cakes vs. configurable build‑your‑own) inside Ecwid. What’s native, what needs custom code or an app?\n\n- Your price and timeline for Phase 1.\n\n- What you’d exclude from scope (copywriting, photography, catalog cleanup, etc.).\n\nA note on AI‑written proposals\nWe’ve already run this project through AI tools ourselves. We don’t need another AI summary of our own brief, and we won’t pay for one. We’re hiring a human who can think critically about our business and tell us something we don’t already know.\n\nProposals that read like AI output (generic best practices, restating this post back to us, polished but empty) will be skipped without a reply. Write to us like you’d talk to us on a call: plain, specific, and in your own voice. Short and real beats long and polished.\n\nTo show you read this far, start your proposal with your favorite cake flavor!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "ecwid-platform",
+      "elementor",
+      "wordpress",
+      "wp-ecommerce",
+      "performance-monitoring"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! My favorite cake flavor is classic dark chocolate with salted caramel filling. \n\nTo solve your three-vertical routing problem without favoring one, I’d use an editorial hero section on the homepage with three distinct, visually driven entry points (Custom, Signature, Weddings) so users self-segment in seconds. For Ecwid, simple themed cakes use native options, while configurable \"build-your-own\" cakes rely on Ecwid's advanced product options or a custom input field app, depending on how complex the conditional logic gets. I build clean, indexable product URLs and set up Google Merchant Center feeds regularly—for example, on [https://www.snopud.com/](https://www.snopud.com/), I focus heavily on structured data and streamlined user journeys.\n\nFor Phase 1 (audit, sitemap, and clickable prototype in Elementor Pro), my fixed price is $650, delivered within 5 business days. \n\nFor Phase 1, I would exclude final product copywriting, custom photography, and bulk catalog data entry. \n\nWhen are you looking to kick off the audit?",
+    "publishedDateTime": "2026-10-12T19:52:29+0000",
+    "addedAt": "2026-10-12T19:54:32.416Z",
+    "url": "https://www.upwork.com/jobs/~022109733942836645950",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109733942836645950/apply/"
+  },
+  {
     "id": "2109732413314501940",
     "ciphertext": "~022109732413314501940",
     "title": "Website Redesign and Development",

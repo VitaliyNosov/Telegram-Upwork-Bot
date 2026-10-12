@@ -1,10 +1,10 @@
 {
   "date": "2026-10-12",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 65,
-  "matchedFilters": 16,
+  "totalScanned": 66,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 16
+    "wordpress developer": 17
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022109694352080501872",
       "addedAt": "2026-10-12T17:16:54.555Z"
+    },
+    {
+      "title": "E‑commerce Strategist + WordPress/Ecwid Developer for Bakery Website Rebuild",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022109733942836645950",
+      "addedAt": "2026-10-12T19:54:31.066Z"
     },
     {
       "title": "Experienced Wordpress specialist required to rocover hacked website",
