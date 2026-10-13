@@ -1,5 +1,32 @@
 [
   {
+    "id": "2110047856935582338",
+    "ciphertext": "~022110047856935582338",
+    "title": "Looking to create 100 websites every week another website",
+    "description": "I want someone to create 20 to 100 websites in the next year 1 website a week \nit should be created with template that the sites gets odne quickly \n\nsomeone that can make nice site \nsites that are great with seo\n\nsomeone that has mass page generator tool experience",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$5 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 28,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design"
+    ],
+    "score": 4099,
+    "coverLetter": "Hi! Scaling to 100 websites a year requires a streamlined, automated workflow, and I have the technical stack to build that foundation for you. I specialize in rapid WordPress deployments using custom Gutenberg blocks and templated architectures that ensure consistency, speed, and high SEO performance across every site.\n\nI have extensive experience with mass-deployment strategies, including using WP-CLI for automated site provisioning and database optimization. I can set up a \"master template\" system that allows us to spin up high-quality, lightweight sites in hours rather than days, ensuring they are fully optimized for Core Web Vitals from day one. You can see examples of my high-performance work at https://www.thelifeyoucansave.org/.\n\nAre you looking to use a specific page builder or a headless approach for these sites, and what is your preferred hosting environment for this volume?",
+    "publishedDateTime": "2026-10-13T16:40:33+0000",
+    "addedAt": "2026-10-13T16:43:23.197Z",
+    "url": "https://www.upwork.com/jobs/~022110047856935582338",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110047856935582338/apply/"
+  },
+  {
     "id": "2110033757614712801",
     "ciphertext": "~022110033757614712801",
     "title": "Web Designer and Developer",

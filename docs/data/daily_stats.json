@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 54,
-  "matchedFilters": 10,
+  "totalScanned": 55,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 5000,
       "url": "https://www.upwork.com/jobs/~022109803856423342142",
       "addedAt": "2026-10-13T00:32:29.395Z"
+    },
+    {
+      "title": "Looking to create 100 websites every week another website",
+      "budget": "$5-$40/hr",
+      "score": 4099,
+      "url": "https://www.upwork.com/jobs/~022110047856935582338",
+      "addedAt": "2026-10-13T16:43:01.060Z"
     },
     {
       "title": "Web Designer and Developer",
