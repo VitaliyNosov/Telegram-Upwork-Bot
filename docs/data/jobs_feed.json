@@ -1,5 +1,39 @@
 [
   {
+    "id": "2109829437889212248",
+    "ciphertext": "~022109829437889212248",
+    "title": "Web Developer for Multifamily Real Estate Websites (Ongoing)",
+    "description": "We are a real estate marketing agency focusing on multifamily properties. We're looking for a web developer to build and support property websites, starting with an upcoming new development-multifamily building in Brooklyn, with more projects to follow!\n\nScope may include:\n\nWebsite development: Building sites from approved designs, setting up content management systems, testing and launch\nTeaser sites: Pre-launch teaser sites, registration pages and campaign landing pages\nIntegrations: Availability feeds, interactive floor plans, tour scheduling and lead capture\nMaintenance & updates: Content updates, technical maintenance and ongoing site support\n\nWhat we're looking for:\n\nExperience building from designer files\nStrong CMS experience (Webflow, WordPress or similar)\nExperience with third-party integrations and APIs\nResponsive, fast-loading builds with basic SEO setup\nClear communication and reliable timelines\nReal estate or property website experience is a plus, but other strong work is welcome too\n\nPlease include in your proposal:\n\n2–3 live website links and your role on each (real estate preferred, other relevant work welcome)\n\nWhich CMS platforms you work in most\n\nAny integrations you've built (availability feeds, floor plans, scheduling, CRM or lead forms)\n\nYour pricing structure (per project, hourly, or monthly retainer for maintenance)\n\nTypical timeline for a teaser site and for a full property website\n\nYour availability over the next 1-2 months\n\nWe're hoping to build a long-term relationship with the right developer.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "webflow",
+      "responsive-design",
+      "landing-pages",
+      "figma",
+      "web-programming",
+      "wordpress",
+      "cms",
+      "frontend-development",
+      "api-integration"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! I’d love to help your agency build and support high-converting property websites, starting with the upcoming Brooklyn development. \n\nHere are the details you requested:\n- Portfolio examples: [About OfferUp](https://about.offerup.com/) (Lead Developer) and [WA Apple](https://waapple.org/) (Custom CMS build and responsive design).\n- CMS platforms: I primarily work in Webflow and WordPress, ensuring fast, mobile-responsive builds optimized for SEO.\n- Integrations: I have experience integrating third-party APIs, lead capture forms, CRM systems, and custom UI components like interactive floor plans and scheduling tools.\n- Pricing: Flexible with per-project rates or an ongoing monthly retainer for maintenance.\n- Timeline: Typically 1–2 weeks for teaser/landing pages and 3–5 weeks for a full property website.\n- Availability: Fully available over the next 1–2 months for this project and ongoing support.\n\nLet’s chat about the Brooklyn site and how we can kick this off!",
+    "publishedDateTime": "2026-10-13T02:11:55+0000",
+    "addedAt": "2026-10-13T02:12:33.527Z",
+    "url": "https://www.upwork.com/jobs/~022109829437889212248",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109829437889212248/apply/"
+  },
+  {
     "id": "2109812745744720405",
     "ciphertext": "~022109812745744720405",
     "title": "WordPress Developer with AI Integration",
