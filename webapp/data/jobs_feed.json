@@ -1,5 +1,40 @@
 [
   {
+    "id": "2109935449121017918",
+    "ciphertext": "~022109935449121017918",
+    "title": "Hiring: Ecommerce Website Developer for a New Online Store",
+    "description": "We’re looking for a skilled Ecommerce Web Developer to help build a modern, reliable, and conversion-focused online store for a growing brand.\n\nThis is a project-based opportunity for someone who understands both the technical side of ecommerce and the importance of creating a smooth shopping experience for customers.\n\nProject Scope\n\nBuild and configure a professional ecommerce website.\n\nCreate a clean homepage, product pages, category pages, and navigation.\n\nImplement product variations, inventory management, search, and filtering.\n\nSet up a secure checkout and payment gateway integration.\n\nConfigure shipping options, taxes, discount codes, and order notifications.\n\nEnsure the website works seamlessly across mobile, tablet, and desktop.\n\nOptimize page speed, usability, and basic technical SEO.\n\nTest the complete purchase process before launch.\n\nWhat We’re Looking For\n\nProven experience developing ecommerce websites.\n\nStrong knowledge of Shopify, WooCommerce, or a suitable ecommerce platform.\n\nA good understanding of responsive design and ecommerce UX.\n\nAbility to troubleshoot issues and recommend practical solutions.\n\nClear communication and the ability to meet agreed deadlines.\n\nTo Apply\n\nPlease send us:\n\nYour portfolio with at least 2–3 relevant ecommerce projects.\n\nYour recommended platform for this project and why.\n\nYour estimated project cost and delivery timeline.\n\nA brief explanation of how you would approach the development.\n\nWe’re interested in working with someone who values quality, communicates professionally, and can deliver a store that’s ready for real customers.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "shopify",
+      "wordpress",
+      "magento",
+      "html",
+      "javascript",
+      "woocommerce",
+      "ecommerce-consulting",
+      "php"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! I can certainly help you build a conversion-focused store that is secure, fast, and ready for launch.\n\nFor a new brand, I recommend WooCommerce if you want full control over your design and no monthly platform fees, or Shopify if you prefer a streamlined, low-maintenance ecosystem. Given your requirements, I have extensive experience setting up WooCommerce stores with complex product variations, secure payment gateways, and optimized checkout flows. You can see a high-traffic example of my work at https://waapple.org/.\n\nMy approach starts with a clean architecture for your product catalog, followed by mobile-first styling and rigorous testing of the purchase funnel. I estimate this project will take [Insert Timeline] with a budget of [Insert Amount]. \n\nAre you leaning toward a specific platform yet, or would you like to discuss which fits your inventory needs best?",
+    "publishedDateTime": "2026-10-13T09:13:28+0000",
+    "addedAt": "2026-10-13T09:14:38.559Z",
+    "url": "https://www.upwork.com/jobs/~022109935449121017918",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109935449121017918/apply/"
+  },
+  {
     "id": "2109930882418392150",
     "ciphertext": "~022109930882418392150",
     "title": "Edit my Website",
