@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 50,
-  "matchedFilters": 9,
+  "totalScanned": 51,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 5000,
       "url": "https://www.upwork.com/jobs/~022109803856423342142",
       "addedAt": "2026-10-13T00:32:29.395Z"
+    },
+    {
+      "title": "Web Designer and Developer",
+      "budget": "$30-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022110033757614712801",
+      "addedAt": "2026-10-13T15:44:30.434Z"
     },
     {
       "title": "Web Developer for Multifamily Real Estate Websites (Ongoing)",

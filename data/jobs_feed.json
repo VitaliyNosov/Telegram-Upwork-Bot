@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110033757614712801",
+    "ciphertext": "~022110033757614712801",
+    "title": "Web Designer and Developer",
+    "description": "We are seeking a skilled web developer to make updates to our existing company website. The ideal candidate will have experience in building responsive websites, optimizing performance, and implementing user-friendly interfaces.  Clean, modern UX/UI aligned with our updated brand identity • Strong emphasis on clarity, storytelling, and executive-level positioning • Mobile responsiveness and performance optimization",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$30 - $35/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-customization",
+      "web-design",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! I can certainly help you refresh your website to better reflect your updated brand identity while ensuring the performance and mobile responsiveness required for an executive-level presence.\n\nI specialize in WordPress development with a focus on clean, modern UI/UX and performance optimization. I frequently handle site rebuilds and layout refinements for organizations that need to balance high-end storytelling with technical speed. For example, you can see how I approached a clean, professional site architecture for https://www.thelifeyoucansave.org/. \n\nI’ll ensure your site is not only visually aligned with your new branding but also optimized for Core Web Vitals to maintain a fast, seamless experience for your visitors. \n\nAre you available for a brief chat this week to walk me through the specific design changes you have in mind?",
+    "publishedDateTime": "2026-10-13T15:43:48+0000",
+    "addedAt": "2026-10-13T15:44:46.851Z",
+    "url": "https://www.upwork.com/jobs/~022110033757614712801",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110033757614712801/apply/"
+  },
+  {
     "id": "2110030800185997954",
     "ciphertext": "~022110030800185997954",
     "title": "FTC Training Center Website Redesign, Development and SEO",
