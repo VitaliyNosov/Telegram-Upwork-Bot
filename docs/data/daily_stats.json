@@ -1,12 +1,19 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 57,
-  "matchedFilters": 11,
+  "totalScanned": 58,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
+    {
+      "title": "WordPress.com Block Theme Visual Cleanup",
+      "budget": "$30-$50/hr",
+      "score": 5094,
+      "url": "https://www.upwork.com/jobs/~022110054668110246382",
+      "addedAt": "2026-10-13T17:08:31.326Z"
+    },
     {
       "title": "Website Design and Optimization Specialist",
       "budget": "$25-$50/hr",
