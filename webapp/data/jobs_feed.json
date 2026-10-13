@@ -1,5 +1,35 @@
 [
   {
+    "id": "2110104245210492181",
+    "ciphertext": "~022110104245210492181",
+    "title": "WordPress/WCFM Dev: Fixed Quote for Reference Directory & Product Mapping Feature",
+    "description": "Project Overview\nBuild a searchable \"Fig Library\" on a WordPress/WooCommerce site using WCFM Marketplace. The library functions as a reference directory linking directly to Facebook group \"Fig of the Day\" posts, and must be integrated into the WCFM vendor product submission workflow so vendors can link their products to specific fig varieties.\nCore Requirements\n1. Fig Library (Custom Post Type)\n * Custom Post Type (CPT): Create a CPT named Fig Variety (slug: fig-library).\n * Custom Fields (via ACF):\n   * Variety Name (Post Title)\n   * Variety Image\n   * Facebook Post URL (Direct link to the specific \"Fig of the Day\" post in the Facebook group)\n2. WCFM Marketplace Vendor Integration\n * Vendor Product Field: Add a custom selector field to the WCFM backend/frontend product add and edit form.\n * Mandatory/Optional Association: When a vendor creates or edits a fig product, they must select the corresponding Fig Variety from the Fig Library.\n * Data Storage: Save this association securely to the product (via post meta or custom taxonomy) so the product is officially tied to that fig library entry.\n3. Frontend Search & Display\n * Searchable Library Page: Build a clean directory page with a live search bar (using a table or grid layout) allowing users to search for a variety (e.g., \"Black Mission\") and filter results instantly.\n * Facebook Link Action: Clicking a library entry or its button opens the corresponding Facebook \"Fig of the Day\" post in a new tab.\n * Product Page Integration: Display a dynamic button on single WooCommerce product pages that links customers to the Fig Library entry or the Facebook discussion for that specific variety.\nDeliverables Needed for Quote\n * Functional Custom Post Type and custom fields setup.\n * Customized WCFM vendor submission form supporting the fig variety dropdown/selector.\n * Searchable front-end directory layout.\n * Single product page integration.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "woocommerce",
+      "wordpress-plugin"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI can help you build this searchable \"Fig Library\" and seamlessly integrate it with WCFM Marketplace so your vendors can easily map their products to specific fig varieties. \n\nWith deep experience in custom WordPress development, Advanced Custom Fields (ACF), and WooCommerce/WCFM customization, I regularly build complex directory structures and custom vendor workflows. \n\nHere is how I will approach your core requirements:\n- Set up the **Fig Variety** Custom Post Type with ACF fields for the title, image, and Facebook post URL.\n- Modify the WCFM backend/frontend product submission forms to include a searchable selector field, securely saving the association to the product meta.\n- Build a clean, fast frontend directory page with live search, along with dynamic linking on single product pages.\n\nYou can view some of my recent custom WordPress builds in my portfolio, such as https://www.thelifeyoucansave.org/. \n\nAre you looking to kick this off immediately, and do you have a preferred UI framework (like Select2) for the WCFM dropdown selector? Let's chat!",
+    "publishedDateTime": "2026-10-13T20:26:38+0000",
+    "addedAt": "2026-10-13T20:26:58.226Z",
+    "url": "https://www.upwork.com/jobs/~022110104245210492181",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110104245210492181/apply/"
+  },
+  {
     "id": "2110062908998213533",
     "ciphertext": "~022110062908998213533",
     "title": "WordPress Web Developer | Elementor & Divi",

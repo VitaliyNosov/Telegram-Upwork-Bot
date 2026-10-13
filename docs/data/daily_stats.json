@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 71,
-  "matchedFilters": 15,
+  "totalScanned": 72,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022109812745744720405",
       "addedAt": "2026-10-13T01:08:31.814Z"
+    },
+    {
+      "title": "WordPress/WCFM Dev: Fixed Quote for Reference Directory & Product Mapping Feature",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022110104245210492181",
+      "addedAt": "2026-10-13T20:26:56.907Z"
     },
     {
       "title": "Website Developer & Branding Specialist for Event Website",
