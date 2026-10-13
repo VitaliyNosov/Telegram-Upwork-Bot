@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 64,
-  "matchedFilters": 14,
+  "totalScanned": 65,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 3000,
       "url": "https://www.upwork.com/jobs/~022109829437889212248",
       "addedAt": "2026-10-13T02:12:32.153Z"
+    },
+    {
+      "title": "WordPress Web Developer | Elementor & Divi",
+      "budget": "$20-$25/hr",
+      "score": 2650,
+      "url": "https://www.upwork.com/jobs/~022110062908998213533",
+      "addedAt": "2026-10-13T17:44:42.216Z"
     },
     {
       "title": "WordPress Developer with AI Integration",

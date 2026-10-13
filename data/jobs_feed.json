@@ -1,5 +1,46 @@
 [
   {
+    "id": "2110062908998213533",
+    "ciphertext": "~022110062908998213533",
+    "title": "WordPress Web Developer | Elementor & Divi",
+    "description": "We’re looking for an experienced WordPress Web Developer to support ongoing website projects for our business and digital marketing clients.\n\nThe ideal freelancer should be comfortable working independently on both new WordPress pages and existing websites. You should have strong hands-on experience with Elementor, Divi, HTML/CSS, responsive design, and WordPress troubleshooting, with an eye for clean layouts and attention to detail.\n\nThis is a good opportunity for someone who can take a set of requirements, understand the intended outcome, and make sensible development and design decisions without needing every detail specified.\n\nResponsibilities\nBuild and update WordPress pages using Elementor and Divi\nDevelop clean, responsive layouts using HTML and CSS\nCreate reusable sections, templates, and global website components\nMaintain consistent styling and design systems across websites\nMake websites responsive across desktop, tablet, and mobile\nTroubleshoot WordPress, theme, plugin, layout, and responsive issues\nImprove website structure, usability, and overall presentation\nImplement basic on-page SEO best practices, including proper heading structure\nReview existing pages and make improvements where needed\nWork independently while following project requirements and established website standards\nPerform quality checks to ensure pages are polished and function correctly\n\nRequirements\nStrong hands-on experience with WordPress\nExcellent experience with Elementor\nExperience working with Divi\nGood knowledge of HTML & CSS\nStrong understanding of responsive web design\nExperience troubleshooting WordPress websites\nUnderstanding of reusable/global WordPress components\nGood eye for spacing, typography, alignment, and overall visual consistency\nBasic understanding of on-page SEO\nAbility to work independently and make reasonable design/development decisions\nStrong attention to detail and communication skills\n\nNice to Have\nExperience with custom WordPress themes or plugins\nPHP knowledge\nExperience with WooCommerce\nExperience working with Figma or other design files\nExperience optimizing WordPress website performance",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$20 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 282,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "google-firestore",
+      "dynamodb",
+      "firebase-realtime-database",
+      "cms-development",
+      "bug-fixes",
+      "e-commerce-website",
+      "web-programming",
+      "wordpress-website",
+      "web-design",
+      "elementor",
+      "website",
+      "javascript",
+      "css"
+    ],
+    "score": 2650,
+    "coverLetter": "Hi! I am an expert WordPress developer specializing in Elementor and Divi, and I am ready to jump in and support your agency’s ongoing client projects.\n\nI have extensive experience building and maintaining responsive, pixel-perfect layouts using both Elementor and Divi. Whether you need to build new pages from scratch, create global reusable components, or troubleshoot complex layout issues, I can work independently to deliver polished, high-quality results that match your design standards. My background includes deep technical knowledge of PHP, HTML, and CSS, allowing me to handle custom tweaks that go beyond standard page builders. You can see examples of my work at https://www.thelifeyoucansave.org/.\n\nI am comfortable taking minimal requirements and turning them into functional, SEO-friendly websites. Are you available for a quick chat this week to discuss your current project pipeline?",
+    "publishedDateTime": "2026-10-13T17:43:06+0000",
+    "addedAt": "2026-10-13T17:45:04.032Z",
+    "url": "https://www.upwork.com/jobs/~022110062908998213533",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110062908998213533/apply/"
+  },
+  {
     "id": "2110060995275697429",
     "ciphertext": "~022110060995275697429",
     "title": "Website Homepage and Product Page Update",
