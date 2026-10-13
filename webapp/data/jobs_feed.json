@@ -1,5 +1,40 @@
 [
   {
+    "id": "2109802819962053141",
+    "ciphertext": "~022109802819962053141",
+    "title": "Website Developer & Branding Specialist for Event Website",
+    "description": "Two asks... 1. Help redesign / improve a existing website. The website is similar to \"https://www.visitmilwaukee.org/\". I will show the selected actual site to all top candidates to help finalize the estimate. The bulk of the work will be the main page. Most of the other pages are similar / can be duplicated. Based on the website link above, you can do your estimate but keep in mind my version is not as complex. The twist is I do not want this in wordpress or anything. Just old school html, css and js. I manage all the event data in a database. New data is automatically placed into html code to be added to the website. Point is, a simple but nice admin portal that can take a master excel file and push it into the code would be great!\n2. I would like someone to improve the logo I designed, define my brand colors, etc.\nPlease provide a link to your portfolio and estimated budget along with the estimated project timeline. Candidates without the mentioned information will be ignored. Work can start right away. \n\nIf all goes well, this will become a long-term engagement with work monthly. I am looking to turn this into a major business (already have tons of busineses interested). I designed and coded the existing website myself. Looking for someone who has a sharp eye for beautiful visuals and creating a smooth user experience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 45,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "graphic-design",
+      "html5",
+      "css",
+      "web-programming",
+      "website",
+      "html",
+      "adobe-photoshop",
+      "logo-design",
+      "brand-identity"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you polish your event website and brand identity, delivering this as clean, lightweight HTML, CSS, and JavaScript—no heavy CMS required. As requested, my estimated budget for the initial redesign and branding package is [Insert Budget], with a timeline of [Insert Timeline] days to completion. Work can start right away.\n\nWith a strong foundation in modern frontend development and a sharp eye for visual design and UX, I can easily match the polished feel of reference sites like visitmilwaukee.org. Additionally, I can help refine your logo and establish a cohesive brand color palette, while building a streamlined way to handle your database-driven event updates.\n\nYou can view some of my previous web work here: https://about.offerup.com/\n\nLet’s chat about the specific site and your branding goals so we can get started!",
+    "publishedDateTime": "2026-10-13T00:27:57+0000",
+    "addedAt": "2026-10-13T00:28:32.809Z",
+    "url": "https://www.upwork.com/jobs/~022109802819962053141",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109802819962053141/apply/"
+  },
+  {
     "id": "2109739618668922832",
     "ciphertext": "~022109739618668922832",
     "title": "Website Developer Needed for an Exciting Ongoing Project",
