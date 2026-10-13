@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109930882418392150",
+    "ciphertext": "~022109930882418392150",
+    "title": "Edit my Website",
+    "description": "My website:\nhttps://arabrit.com\n\nWhat I need:\n1. I have already developed a website, but i need some quick improvements (such as fixing some images, and text) - Please read document attached for exact edits\n2. I need this website to have an Arabic language option (for Arab users)\n3, I need it to be mobile friendly too\n\nOffer:\n- This is a simple job, shouldnt take more than 1-2 months\n- I can offer 200-400$ in total for the job",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "html"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can help you quickly wrap up your website edits, make it fully mobile-friendly, and set up a seamless Arabic language option for your users. \n\nAs a WordPress developer, I frequently handle content updates, responsive design fixes, and multilingual implementations (using tools like WPML). I recently built and optimized multilingual platforms like https://www.seeintl.org/, so I can ensure your site switches effortlessly between English and Arabic while maintaining a clean, professional layout on all devices. \n\nIf you can share the attached document detailing the exact text and image edits, I can review it and get started right away. Could you drop it in the chat?",
+    "publishedDateTime": "2026-10-13T08:58:40+0000",
+    "addedAt": "2026-10-13T09:00:38.110Z",
+    "url": "https://www.upwork.com/jobs/~022109930882418392150",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109930882418392150/apply/"
+  },
+  {
     "id": "2109928929323646064",
     "ciphertext": "~022109928929323646064",
     "title": "Website Designer & Elementor Builder | Official Elementor MCP + Codex / Claude",
