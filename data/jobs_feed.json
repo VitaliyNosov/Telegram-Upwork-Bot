@@ -1,5 +1,32 @@
 [
   {
+    "id": "2110116855746319905",
+    "ciphertext": "~022110116855746319905",
+    "title": "WordPress Site Cleanup/Malware/Migration",
+    "description": "Moving away from HostGator to new host as they abandoned their Softaculous installation and then left unmanaged plugins vulnerable and resulted in infected sites.  Ready to move to a new host and move content to a new host that won't do this.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 62,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-malware-removal",
+      "wordpress"
+    ],
+    "score": 2898,
+    "coverLetter": "Hi! \n\nI can help you migrate your sites away from HostGator, thoroughly clean up the malware resulting from the unmanaged plugins, and set you up securely on your new host. \n\nI specialize in WordPress malware removal, hacked site recovery, and seamless website migrations. I'll ensure all infected files and database vulnerabilities are completely scrubbed before the transfer, and harden your security so you don't run into these hosting issues again. You can see examples of my recent work at https://www.thelifeyoucansave.org/.\n\nWhich new hosting provider are you moving to, and how many sites need to be migrated and cleaned? Let's get this sorted out securely.",
+    "publishedDateTime": "2026-10-13T21:14:00+0000",
+    "addedAt": "2026-10-13T21:14:31.654Z",
+    "url": "https://www.upwork.com/jobs/~022110116855746319905",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110116855746319905/apply/"
+  },
+  {
     "id": "2110104245210492181",
     "ciphertext": "~022110104245210492181",
     "title": "WordPress/WCFM Dev: Fixed Quote for Reference Directory & Product Mapping Feature",

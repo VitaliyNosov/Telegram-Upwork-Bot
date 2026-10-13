@@ -1,8 +1,18 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress Site Cleanup/Malware/Migration",
+      "budget": "$14-$28/hr",
+      "score": 2898,
+      "url": "https://www.upwork.com/jobs/~022110116855746319905",
+      "addedAt": "2026-10-13T21:14:30.564Z"
+    }
+  ]
 }
