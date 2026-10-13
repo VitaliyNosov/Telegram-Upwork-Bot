@@ -1,5 +1,35 @@
 [
   {
+    "id": "2109928929323646064",
+    "ciphertext": "~022109928929323646064",
+    "title": "Website Designer & Elementor Builder | Official Elementor MCP + Codex / Claude",
+    "description": "Freelancers and agencies are welcome.\n\nWe’re looking for a strong website designer who can build polished WordPress sites using the official Elementor MCP with Codex or Claude.\n\nYou should have a good eye for layout, typography and mobile design. We need someone who can take a site from approved mockup through a finished, editable Elementor build.\n\nWhat you’ll do:\n- Follow our SEO manager’s site plan and approved copy, headings and section order\n- Create a mockup for approval before building\n- Customize suitable templates to fit each client’s brand\n- Check Elementor, template and plugin compatibility before starting\n- Build on staging using the official Elementor MCP with Codex or Claude for supported tasks\n- Handle manual adjustments and check the AI-generated work\n- Test desktop, tablet and mobile layouts, forms, links, accessibility and page speed\n- Deliver editable Elementor pages and a short handoff walkthrough\n\nImportant: The official MCP currently supports editing V4 Atomic layouts. Explain how you’ll handle any older templates or unsupported elements before starting.\n\nTo apply, please send:\n1. Two or three relevant websites and what you or your team designed and built\n2. A short recording showing the official Elementor MCP working with Codex or Claude, including the editable result in Elementor\n3. Who will handle the design, build and final quality checks\n4. Your proposed price, availability and estimated timeline\n\nStrong design matters just as much as knowing the tools. We want clean, thoughtful work that looks good and works well.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.64,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "graphic-design"
+    ],
+    "score": 93,
+    "coverLetter": "Hi! Regarding your questions, I personally handle the design, Elementor build, and rigorous QA testing from start to finish. For older templates or unsupported elements not covered by the official Elementor MCP, I rely on clean manual layout construction and precise custom CSS/ACF adjustments to ensure seamless compatibility before finalizing the build.\n\nI have a strong eye for typography, mobile responsiveness, and conversion-focused layouts. As a WordPress and Elementor specialist, I regularly take approved mockups and site plans and turn them into polished, easily editable client sites. A great example of my clean web development work is https://www.seeintl.org/, where I focused on flawless responsiveness, speed, and design integrity.\n\nLet’s chat about your current pipeline—when is your next client site ready for kickoff?",
+    "publishedDateTime": "2026-10-13T08:47:16+0000",
+    "addedAt": "2026-10-13T08:48:31.959Z",
+    "url": "https://www.upwork.com/jobs/~022109928929323646064",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109928929323646064/apply/"
+  },
+  {
     "id": "2109829437889212248",
     "ciphertext": "~022109829437889212248",
     "title": "Web Developer for Multifamily Real Estate Websites (Ongoing)",

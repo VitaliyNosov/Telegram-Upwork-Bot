@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 28,
-  "matchedFilters": 4,
+  "totalScanned": 29,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022109802819962053141",
       "addedAt": "2026-10-13T00:28:31.590Z"
+    },
+    {
+      "title": "Website Designer & Elementor Builder | Official Elementor MCP + Codex / Claude",
+      "budget": "Fixed-price",
+      "score": 93,
+      "url": "https://www.upwork.com/jobs/~022109928929323646064",
+      "addedAt": "2026-10-13T08:48:30.801Z"
     }
   ]
 }
