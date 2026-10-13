@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110120266080376353",
+    "ciphertext": "~022110120266080376353",
+    "title": "Redesign Website and WHMCS Integration",
+    "description": "We need a freelancer to work on a redesign project of our main website and integrate it with a WHMCS billing system. \nThe work includes improving the overall look and user experience, updating key pages, look and feel of the site will not change massively compared to current but we want it all to look more cleaner and better expand our pages to include as much information as possible to the customers. \nThe main website uses wordpress currently but we would look to adapt this to a newer framework such as astro or react. \nThe site should intergrate well to our WHMCS excisting feel/look and theme. \nThe site should be SEO optimised and be responsive for users across any platform who wish to access the site. \nIt will be built on a developmental server which will be transfered across to the live domain when completed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "web-programming",
+      "html5",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you cleanly redesign your WordPress site while seamlessly integrating it with your WHMCS billing system. While your current site is on WordPress, I have strong experience working with modern component-driven architectures (like React/Headless integrations alongside my core PHP/WordPress stack), ensuring we can hit your goals for performance, responsiveness, and deep WHMCS thematic consistency. \n\nBeyond the frontend redesign, I focus heavily on clean code, SEO optimization, and proper staging-to-live deployments. For instance, I recently developed complex, responsive builds like https://www.snopud.com/ and handle full-stack custom integrations regularly. \n\nAre you looking to migrate completely to a headless React/Astro setup with a REST API connection to WordPress, or would you prefer a different approach for the backend? Let’s discuss the best architecture for your workflow.",
+    "publishedDateTime": "2026-10-13T21:27:37+0000",
+    "addedAt": "2026-10-13T21:28:33.035Z",
+    "url": "https://www.upwork.com/jobs/~022110120266080376353",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110120266080376353/apply/"
+  },
+  {
     "id": "2110116855746319905",
     "ciphertext": "~022110116855746319905",
     "title": "WordPress Site Cleanup/Malware/Migration",

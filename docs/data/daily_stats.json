@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 3,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 2898,
       "url": "https://www.upwork.com/jobs/~022110116855746319905",
       "addedAt": "2026-10-13T21:14:30.564Z"
+    },
+    {
+      "title": "Redesign Website and WHMCS Integration",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110120266080376353",
+      "addedAt": "2026-10-13T21:28:31.854Z"
     }
   ]
 }
