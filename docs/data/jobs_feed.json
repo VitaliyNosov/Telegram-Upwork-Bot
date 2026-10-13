@@ -1,5 +1,39 @@
 [
   {
+    "id": "2109803856423342142",
+    "ciphertext": "~022109803856423342142",
+    "title": "Website Design and Optimization Specialist",
+    "description": "We are seeking an experienced website design and optimization specialist to improve the functionality, visual consistency, navigation, and overall user experience of our existing websites. Our organizations work in the health, well-being, and professional development space, and we want to ensure our websites remain clear, professional, easy to navigate, and effective in communicating who we are and what we offer. This is not a complete rebuild. We need someone who can assess our current sites, recommend practical improvements, and help implement those changes. Experience with CSS, HTML, and Webflow is required.\n\nWhat we're looking for:\n\nWebsite assessment: Evaluate our current sites for usability, visual consistency, navigation, organization, and opportunities for improvement.\n\nUser experience: Make it easier for visitors to find information, understand our offerings, and navigate between related programs and services.\n\nDesign improvements: Refine page layouts, typography, spacing, visual hierarchy, and mobile responsiveness while maintaining our existing brand identities.\n\nContent presentation: Help organize and present information more effectively, especially on pages with substantial content or multiple calls to action.\n\nWebsite functionality: Identify and address issues affecting performance, links, forms, responsiveness, or other existing features.\n\nOptimization: Recommend improvements related to accessibility, basic SEO, page speed, and overall website effectiveness.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$25 - $50/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html",
+      "webflow",
+      "graphic-design",
+      "seo-keyword-research",
+      "css",
+      "seo"
+    ],
+    "score": 5000,
+    "coverLetter": "Hi! I’d love to help you audit and refine your websites to improve user experience, visual consistency, and overall performance without doing a full rebuild. \n\nWith deep expertise in both WordPress and Webflow—alongside a strong command of HTML, CSS, and UI/UX best practices—I frequently help organizations in health and professional services streamline their navigation, fix layout inconsistencies, and optimize page speed and mobile responsiveness. For instance, I recently enhanced performance, layout structure, and user flow on sites like https://www.cchpca.org/ and https://www.seeintl.org/.\n\nMy approach focuses on practical, high-impact assessments followed by clean implementation to ensure your visitors can easily find what they need and engage with your programs.\n\nWould you like to share the URLs of the sites so I can take a quick initial look and outline a few quick wins?",
+    "publishedDateTime": "2026-10-13T00:30:15+0000",
+    "addedAt": "2026-10-13T00:32:30.550Z",
+    "url": "https://www.upwork.com/jobs/~022109803856423342142",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109803856423342142/apply/"
+  },
+  {
     "id": "2109802819962053141",
     "ciphertext": "~022109802819962053141",
     "title": "Website Developer & Branding Specialist for Event Website",

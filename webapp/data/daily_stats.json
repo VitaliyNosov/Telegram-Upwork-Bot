@@ -1,12 +1,19 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 9,
-  "matchedFilters": 1,
+  "totalScanned": 10,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Website Design and Optimization Specialist",
+      "budget": "$25-$50/hr",
+      "score": 5000,
+      "url": "https://www.upwork.com/jobs/~022109803856423342142",
+      "addedAt": "2026-10-13T00:32:29.395Z"
+    },
     {
       "title": "Website Developer & Branding Specialist for Event Website",
       "budget": "Fixed-price",
