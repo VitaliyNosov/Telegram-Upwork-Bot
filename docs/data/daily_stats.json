@@ -1,10 +1,11 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 4,
-  "matchedFilters": 2,
+  "totalScanned": 5,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 2,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -13,6 +14,13 @@
       "score": 2898,
       "url": "https://www.upwork.com/jobs/~022110116855746319905",
       "addedAt": "2026-10-13T21:14:30.564Z"
+    },
+    {
+      "title": "Art Subscription Box Funnel Creation + Meta Ads",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022110144097367173089",
+      "addedAt": "2026-10-13T23:04:43.915Z"
     },
     {
       "title": "Redesign Website and WHMCS Integration",
