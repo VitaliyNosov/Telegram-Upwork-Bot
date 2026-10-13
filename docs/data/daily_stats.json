@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 10,
-  "matchedFilters": 2,
+  "totalScanned": 11,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 5000,
       "url": "https://www.upwork.com/jobs/~022109803856423342142",
       "addedAt": "2026-10-13T00:32:29.395Z"
+    },
+    {
+      "title": "WordPress Developer with AI Integration",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022109812745744720405",
+      "addedAt": "2026-10-13T01:08:31.814Z"
     },
     {
       "title": "Website Developer & Branding Specialist for Event Website",

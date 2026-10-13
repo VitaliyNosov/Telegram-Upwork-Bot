@@ -1,5 +1,34 @@
 [
   {
+    "id": "2109812745744720405",
+    "ciphertext": "~022109812745744720405",
+    "title": "WordPress Developer with AI Integration",
+    "description": "I own The SLP Curriculum, a WordPress membership website with 950+ interactive speech therapy lessons. I need an experienced developer to redesign and improve the platform with custom functionality and AI integration. Key features include advanced search with sidebar filters, an AI lesson finder that recommends lessons based on selected goals, AI lesson planning for brief or detailed lesson plans, member favorites for saved activities, and a modern, user-friendly dashboard redesign. Current tools include WordPress, Divi, MemberPress, and FunnelKit. Please share relevant work, estimated costs, and a phased approach.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "psd-to-wordpress",
+      "html5"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! The SLP Curriculum sounds like a fantastic platform, and I would love to help you modernize it with advanced search, member features, and custom AI lesson-planning tools. \n\nAs a WordPress developer with extensive experience building membership sites, custom post types, and API integrations, I regularly tackle projects involving MemberPress and complex user workflows. For instance, I recently built high-traffic platforms like [https://www.cchpca.org/](https://www.cchpca.org/) with robust search and filtering capabilities. I can seamlessly integrate OpenAI for your lesson finder and planning features while redesigning your Divi-based dashboard for a sleek, user-friendly experience.\n\nTo give you an accurate estimate, I'd love to know if you already have API keys and UI/UX wireframes ready for the AI features. Let's chat about your phased approach!",
+    "publishedDateTime": "2026-10-13T01:07:33+0000",
+    "addedAt": "2026-10-13T01:08:33.140Z",
+    "url": "https://www.upwork.com/jobs/~022109812745744720405",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022109812745744720405/apply/"
+  },
+  {
     "id": "2109803856423342142",
     "ciphertext": "~022109803856423342142",
     "title": "Website Design and Optimization Specialist",
