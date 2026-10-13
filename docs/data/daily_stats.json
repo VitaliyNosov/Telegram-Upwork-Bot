@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 48,
-  "matchedFilters": 8,
+  "totalScanned": 49,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022109802819962053141",
       "addedAt": "2026-10-13T00:28:31.590Z"
+    },
+    {
+      "title": "FTC Training Center Website Redesign, Development and SEO",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110030800185997954",
+      "addedAt": "2026-10-13T15:33:24.172Z"
     },
     {
       "title": "WordPress Cloudflare Malware Removal Expert Needed",

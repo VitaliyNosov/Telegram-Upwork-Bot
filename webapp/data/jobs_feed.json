@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110030800185997954",
+    "ciphertext": "~022110030800185997954",
+    "title": "FTC Training Center Website Redesign, Development and SEO",
+    "description": "This project covers the design, development, corrections, testing and launch of the FTC Training Center website using the approved designs, content and instructions provided.\n\nThe website must be professional, easy to navigate and work properly on phones, tablets and computers. Visitors should easily find our healthcare programs, view prices, register, make payments and contact the school.\n\nScope of Work\n\nComplete all agreed website pages, including Home, About FTC, Programs, CNA Exam Preparation, HHA, CPR/BLS/First Aid, Medication Technician, Phlebotomy, Online CEUs, Student Success, Student Resources, Healthcare eBooks, Blog and Contact.\n\nApply all requested page corrections and approved wording. Remove the “Meet Our Director” section and update program headings, descriptions, schedules and prices.\n\nUse the original FTC logo and supplied school, instructor and student photographs. Maintain consistent colors, fonts, spacing and readable text throughout the website.\n\nClearly distinguish class tuition, exam fees and eBook prices. Display digital books, printed books and bundles with accurate labels and pricing.\n\nConnect and test registration forms, payment links, course links, student login links, contact forms, phone buttons and WhatsApp buttons. Confirm that each button opens the correct destination.\n\nComplete SEO for every page, including page titles, meta descriptions, heading structure and internal links. Add natural local wording for North Lauderdale, Fort Lauderdale, Lauderdale Lakes, Tamarac, Broward County and statewide Florida services.\n\nGive every image a descriptive SEO filename and accurate ALT text. Compress images for faster loading.\n\nComplete the sitemap, appropriate structured data, Google Search Console and analytics setup.\n\nTest every page on mobile and desktop. Correct broken links, layout problems, spelling errors and form issues before launch.\n\nFinal Deliverables\n\nCompleted website with all agreed pages and corrections.\n\nWorking registration, payment and contact features.\n\nCompleted SEO and image optimization.\n\nWebsite published on the agreed domain.\n\nFull administrator access, website files and brief instructions for making updates.\n\nPayment Structure\n\nFixed-price project with agreed milestones:\n\nCompletion and approval of page designs, content and corrections.\n\nCompletion of development, mobile formatting, integrations and SEO.\n\nFinal testing, approval, launch and handover.\n\nEach milestone must include completed work available for review before payment is released. The total price and delivery dates will be agreed through Upwork.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I have extensive experience building professional educational websites and can handle the full redesign, integration, and SEO optimization of the FTC Training Center site.\n\nI specialize in WordPress development that prioritizes clean navigation and mobile responsiveness. For this project, I will ensure your registration forms, payment gateways, and course links are fully tested and functional. I am also highly proficient in local SEO; I will optimize your site structure, meta tags, and image metadata to target North Lauderdale and the broader Broward County area, ensuring your healthcare programs are easily discoverable. You can see an example of my work on professional, content-heavy sites like https://www.daysforgirls.org/.\n\nI am ready to start immediately on the page corrections and content updates. Are you available for a quick chat to discuss your preferred timeline for the launch?",
+    "publishedDateTime": "2026-10-13T15:32:09+0000",
+    "addedAt": "2026-10-13T15:33:39.831Z",
+    "url": "https://www.upwork.com/jobs/~022110030800185997954",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110030800185997954/apply/"
+  },
+  {
     "id": "2110013133412444129",
     "ciphertext": "~022110013133412444129",
     "title": "WordPress Cloudflare Malware Removal Expert Needed",
