@@ -1,5 +1,38 @@
 [
   {
+    "id": "2110058749247730158",
+    "ciphertext": "~022110058749247730158",
+    "title": "Existing WordPress magazine website — New World Renegades",
+    "description": "I have an existing WordPress/Elementor site which has already been structurally developed. I need an experienced Elementor/Elementor Pro developer to audit the existing build, preserve the existing design and functionality, and complete it rather than rebuilding from scratch.\nThe wordpress template comes from Envato and is an online functioning online magazine/content platform. The whole home screen are not just static articles, they are actually all article loop grids - So when you publish a new article it will automatically get published on the homepage depending on it´s category.\nRespective categories for now are; Reality: Current Affairs: Health: Social disease: Power & Unity. This is an Alternative media/ Activist magazine and will require alot of content- the static content for the pages, text and images and say 20 articles. I have 5-6 articles ready to utilise, for now the rest of the space will need to be filled with gibberish..\n\nThe site has already been partially designed and built in WordPress using Elementor Pro and the Hello theme. The existing design/layout should be preserved where practical rather than rebuilt from scratch.\n\nThe previous developer completed substantial structural/template work but ceased communication before the site was populated and fully commissioned.\n\nExisting components include: Home, About, Explore, Contact, Submit Article, Subscribe, Header, Footer, Blog and Post templates, Elementor styling and form sections.\n\nOutstanding work: populate/rework the content, establish the article/category system, ensure articles dynamically feed the appropriate homepage/explore sections, complete navigation/footer links, configure forms, mobile responsiveness, SEO, security, privacy/cookie requirements, and test the site end-to-end.\n\nPlease audit the existing Elementor build and determine what dynamic article functionality is already implemented before making any structural changes\n\nCurrent Project position:\n\n🟢 Built / substantially established\nWordPress installation\nElementor environment\nElementor Pro\nHello theme\nGlobal design styling\nSite header\nSite footer\nHomepage\nAbout page\nExplore page\nContact page\nBlog/article structure\nPost structure\nArticle submission page\nSubscription page\nContact form\nArticle submission form\nSubscription form\n🟠 Needs investigation\nHomepage article loop/grid functionality\nArticle categories\nIndividual article template\nNavigation links\nFooter links\nSubscription mechanism\nArticle submission mechanism\nContact form destination\nMobile/tablet presentation\nSEO\nSecurity\nPrivacy/cookie compliance\nEmail delivery from forms\n🔴 Clearly unfinished\nActual editorial content\nImages\nArticles\nCategories/content taxonomy\nSome footer links\nPotentially some menu destinations\nFinal page copy",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "all-in-one-seo-pack",
+      "ui-design",
+      "elementor",
+      "web-programming",
+      "contact-form-7",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can certainly take over your New World Renegades build, audit the existing Elementor/Hello theme structure, and get the site fully commissioned without a full rebuild.\n\nI specialize in troubleshooting and completing stalled WordPress projects, specifically those relying on complex dynamic content loops and Elementor Pro templates. I’ve handled similar magazine-style setups where category-based grids need to feed automatically from new posts. I will prioritize verifying your existing taxonomy and query settings to ensure your homepage grids function as intended before populating the remaining editorial content and finalizing the forms and mobile responsiveness.\n\nYou can see an example of my work with professional, content-heavy layouts at https://www.thelifeyoucansave.org/. \n\nAre you available for a brief chat to grant me staging access so I can begin the audit?",
+    "publishedDateTime": "2026-10-13T17:27:02+0000",
+    "addedAt": "2026-10-13T17:28:49.809Z",
+    "url": "https://www.upwork.com/jobs/~022110058749247730158",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110058749247730158/apply/"
+  },
+  {
     "id": "2110054668110246382",
     "ciphertext": "~022110054668110246382",
     "title": "WordPress.com Block Theme Visual Cleanup",

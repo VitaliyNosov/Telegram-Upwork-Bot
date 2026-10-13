@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 60,
-  "matchedFilters": 12,
+  "totalScanned": 61,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022110030800185997954",
       "addedAt": "2026-10-13T15:33:24.172Z"
+    },
+    {
+      "title": "Existing WordPress magazine website — New World Renegades",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110058749247730158",
+      "addedAt": "2026-10-13T17:28:37.074Z"
     },
     {
       "title": "WordPress Cloudflare Malware Removal Expert Needed",
