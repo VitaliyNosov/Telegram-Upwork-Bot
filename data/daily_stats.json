@@ -1,10 +1,10 @@
 {
   "date": "2026-10-13",
   "lastDigestSentDate": "2026-10-12",
-  "totalScanned": 61,
-  "matchedFilters": 13,
+  "totalScanned": 62,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022110013133412444129",
       "addedAt": "2026-10-13T14:22:47.118Z"
+    },
+    {
+      "title": "Website Homepage and Product Page Update",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022110060995275697429",
+      "addedAt": "2026-10-13T17:35:09.540Z"
     },
     {
       "title": "Website Designer & Elementor Builder | Official Elementor MCP + Codex / Claude",
