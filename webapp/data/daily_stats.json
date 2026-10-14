@@ -1,13 +1,20 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 56,
-  "matchedFilters": 15,
+  "totalScanned": 57,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "WP specialist-  WP Engine and Genesis Magazine Pro specialist",
+      "budget": "$20-$40/hr",
+      "score": 4093,
+      "url": "https://www.upwork.com/jobs/~022110456045605372799",
+      "addedAt": "2026-10-14T19:42:52.366Z"
+    },
     {
       "title": "WordPress Site Cleanup/Malware/Migration",
       "budget": "$14-$28/hr",

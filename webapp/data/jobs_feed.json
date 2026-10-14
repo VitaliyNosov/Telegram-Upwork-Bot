@@ -1,5 +1,36 @@
 [
   {
+    "id": "2110456045605372799",
+    "ciphertext": "~022110456045605372799",
+    "title": "WP specialist-  WP Engine and Genesis Magazine Pro specialist",
+    "description": "* Evaluate the overall condition of the website.\n* Review WordPress, PHP, Genesis theme, and plugin compatibility.\n* Identify outdated software, potential conflicts, and security vulnerabilities.\n* Review the website’s performance and loading speed.\n* Check database health and hosting configuration.\n* Identify issues affecting the WordPress editing interface.\n\n Technical Audit & Repair Estimate.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.65,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 40,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "yoast-seo",
+      "wordpress-plugin",
+      "html"
+    ],
+    "score": 4093,
+    "coverLetter": "Hi! \n\nI can help you run a comprehensive technical audit of your site and provide a clear repair estimate. Working extensively with WordPress, PHP, and performance optimization, I regularly diagnose backend health, plugin/theme conflicts, and database issues. \n\nGiven that your site runs on WP Engine and the Genesis Framework (like the Magazine Pro theme), I’ll specifically evaluate PHP and Genesis compatibility, hosting configuration, database health, and any bottlenecks affecting the WordPress editing interface or Core Web Vitals. You can see examples of my recent WordPress architecture and development work here: https://www.thelifeyoucansave.org/\n\nWhen is the best time for you to share the site URL so I can take a preliminary look?",
+    "publishedDateTime": "2026-10-14T19:41:57+0000",
+    "addedAt": "2026-10-14T19:42:53.451Z",
+    "url": "https://www.upwork.com/jobs/~022110456045605372799",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110456045605372799/apply/"
+  },
+  {
     "id": "2110446620149044423",
     "ciphertext": "~022110446620149044423",
     "title": "Convert HTML Design to WordPress (Elementor) for Construction Company, Hosted in GoHighLevel",
