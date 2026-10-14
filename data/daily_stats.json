@@ -1,12 +1,19 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 5,
-  "matchedFilters": 1,
+  "totalScanned": 6,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Logis Real Estate Platform",
+      "budget": "$18-$40/hr",
+      "score": 4000,
+      "url": "https://www.upwork.com/jobs/~022110501745244787911",
+      "addedAt": "2026-10-14T22:47:53.400Z"
+    },
     {
       "title": "Experienced Web Designer & Developer Needed Directory Website",
       "budget": "Fixed-price",

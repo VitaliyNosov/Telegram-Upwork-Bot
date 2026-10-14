@@ -1,5 +1,32 @@
 [
   {
+    "id": "2110501745244787911",
+    "ciphertext": "~022110501745244787911",
+    "title": "Logis Real Estate Platform",
+    "description": "Project title: Website for a real estate platform in Conakry, Guinea (rental, sales and land valuation)\n\nAbout the project\n\nLogis (working name, may change) is a new real estate platform for Conakry, Guinea. It is inspired by the Moroccan company Yakeey and aims to make renting, buying, selling and valuing property simpler and more transparent. We need a developer or small team to design and build the website.\n\nWhat the platform does\n\nRentals: Owners and agents list properties for rent. Visitors search and contact the owner or our team.\nBuying and selling: Properties and land for sale, with the same search and contact flow.\nLand and property valuation: Visitors submit details about a plot or property (location, size, type, photos) and request a value estimate from our team. An automated estimate tool may come later.\n\nRequired features\n\nMobile-first, fast-loading design. Most users will be on phones, often with slow or unstable connections.\nWebsite in French (primary language), built so other languages can be added later.\nProperty listings with photos, price, location, size, type and description.\nSearch and filters: rent or sale, city and neighborhood, price range, property type, number of rooms.\nIndividual property pages with a contact form and a WhatsApp button.\nA “List your property” form for owners and agents.\nA “Request a valuation” form.\nAdmin dashboard so our team can add, edit, approve and remove listings and view incoming requests without technical help.\nBasic SEO, Google Maps integration and analytics.\nContact page, About page and simple legal pages.\n\nNice to have (optional, can be a later phase)\n\nUser accounts with saved favorites and alerts.\nMobile money payment integration (e.g. Orange Money) for fees or deposits.\nVerified-listing badges.\nAutomated valuation tool.\n\nDesign\n\nClean, modern and trustworthy. We will provide the logo, colors and brand identity [or: we need help with the brand identity too].\nEasy enough for first-time internet users to navigate.\n\nDeliverables\n\nFully working, deployed website with admin dashboard.\nSource code and full access to hosting, domain and accounts.\nShort documentation or video training on managing the site.\n[X weeks] of post-launch support for bug fixes.\n\nIdeal candidate\n\nProven experience building marketplace, listing or real estate websites.\nExperience with mobile-first, low-bandwidth optimization.\nComfortable working in French, or willing to work with French content.\nFamiliarity with African markets and local payment or messaging habits is a plus.\nClear communication and regular progress updates.\n\nBudget and timeline\n\nBudget: [your range]\nDesired launch date: [date]\nPreferred technology: open to your recommendation (e.g. WordPress, custom build), but it must be easy to maintain and affordable to host.\n\nTo apply, please send\n\nLinks to 2-3 similar projects you’ve built.\nYour recommended approach and technology.\nEstimated cost and timeline.\nYour availability to start.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$18 - $40/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress"
+    ],
+    "score": 4000,
+    "coverLetter": "Hi! \n\nTo build the Logis real estate platform, I recommend WordPress paired with a custom theme and advanced search/filtering plugins. This ensures a fast, mobile-first experience on unstable connections, keeps hosting affordable, and provides the intuitive admin dashboard your team needs to manage listings without technical help. \n\nWith extensive experience developing custom WordPress sites and high-traffic portals—such as https://www.cchpca.org/—I specialize in clean, lightweight code optimized for Core Web Vitals and low-bandwidth users. I can seamlessly integrate Google Maps, WhatsApp contact flows, multilingual setup (French primary), and custom submission forms for valuations and property listings.\n\nI am ready to deliver a fully deployed site with source code, documentation, and post-launch support. I can start immediately. \n\nWhat is your target launch date for the platform?\n\nBest regards,\nWordPress & CMS Expert",
+    "publishedDateTime": "2026-10-14T22:47:21+0000",
+    "addedAt": "2026-10-14T22:47:54.654Z",
+    "url": "https://www.upwork.com/jobs/~022110501745244787911",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110501745244787911/apply/"
+  },
+  {
     "id": "2110485245318888167",
     "ciphertext": "~022110485245318888167",
     "title": "Experienced Web Designer & Developer Needed Directory Website",
