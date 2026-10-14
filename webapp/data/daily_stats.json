@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 16,
-  "matchedFilters": 8,
+  "totalScanned": 17,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -56,6 +56,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022110202095911495650",
       "addedAt": "2026-10-14T02:54:45.174Z"
+    },
+    {
+      "title": "Build SEO optimized WordPress website for: Music Artist: Producer, Composer,  Mixing & Mastering",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022110236060263196641",
+      "addedAt": "2026-10-14T05:08:42.037Z"
     },
     {
       "title": "Quick Wordpress theme migration (existing website) - $125-150 Fixed rate- Immediate Start",
