@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 59,
-  "matchedFilters": 16,
+  "totalScanned": 61,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 15,
+    "wordpress developer": 16,
     "woocommerce": 1
   },
   "topJobs": [
@@ -105,6 +105,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022110236060263196641",
       "addedAt": "2026-10-14T05:08:42.037Z"
+    },
+    {
+      "title": "Website Redesign & Duplication",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022110462442987521365",
+      "addedAt": "2026-10-14T20:10:57.804Z"
     },
     {
       "title": "Quick Wordpress theme migration (existing website) - $125-150 Fixed rate- Immediate Start",
