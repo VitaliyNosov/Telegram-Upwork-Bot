@@ -1,5 +1,35 @@
 [
   {
+    "id": "2110367354745903777",
+    "ciphertext": "~022110367354745903777",
+    "title": "UI/UX Designer & WordPress Developer Needed (Figma + Elementor)",
+    "description": "We’re looking for a creative UI/UX designer and WordPress developer to help us redesign and develop our website. The project will begin with UI/UX design in Figma, followed by development in WordPress using Elementor Pro.\n\nWe want someone who can handle both design and development, ensuring the final website looks modern, professional, and works smoothly across desktop, tablet, and mobile devices.\n\nThis is a one-month project with the possibility of ongoing work if everything goes well.\n\nResponsibilities\n\n* Design website pages and layouts in Figma.\n* Create clean, modern, user-friendly UI/UX designs.\n* Develop approved designs using WordPress and Elementor Pro.\n* Build responsive layouts for desktop, tablet, and mobile.\n* Configure global styles, reusable templates, headers, and footers.\n* Add animations and interactive elements where appropriate.\n* Optimize website speed and overall performance.\n* Test the website and fix layout issues before delivery.\n\nRequirements\n\n* Strong experience in WordPress development.\n* Expertise in Elementor and Elementor Pro.\n* Good UI/UX design skills and experience with Figma.\n* Solid knowledge of HTML and CSS.\n* Understanding of responsive design and website performance.\n* Good communication and ability to provide regular progress updates.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$15 - $25/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "figma",
+      "responsive-design",
+      "user-flows"
+    ],
+    "score": 2650,
+    "coverLetter": "Hi!\n\nI can help you handle both the UI/UX design in Figma and the Elementor Pro development for your redesign. \n\nWith extensive experience building custom sites from Figma designs specifically using Elementor, I ensure clean, modern, and fully responsive layouts for desktop, tablet, and mobile. My background as a WordPress developer also means I build with performance and core web vitals in mind from the start, rather than just focusing on visuals. You can see an example of my clean execution and responsive builds in projects like https://waapple.org/. \n\nI’d love to take this on as a one-month project with the flexibility for ongoing support. \n\nAre you looking to start with a specific number of pages, or do you already have a sitemap ready to review?",
+    "publishedDateTime": "2026-10-14T13:51:52+0000",
+    "addedAt": "2026-10-14T13:52:47.387Z",
+    "url": "https://www.upwork.com/jobs/~022110367354745903777",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110367354745903777/apply/"
+  },
+  {
     "id": "2110236060263196641",
     "ciphertext": "~022110236060263196641",
     "title": "Build SEO optimized WordPress website for: Music Artist: Producer, Composer,  Mixing & Mastering",

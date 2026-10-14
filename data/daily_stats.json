@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 26,
-  "matchedFilters": 9,
+  "totalScanned": 27,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 2847,
       "url": "https://www.upwork.com/jobs/~022110207552772036129",
       "addedAt": "2026-10-14T03:16:46.364Z"
+    },
+    {
+      "title": "UI/UX Designer & WordPress Developer Needed (Figma + Elementor)",
+      "budget": "$15-$25/hr",
+      "score": 2650,
+      "url": "https://www.upwork.com/jobs/~022110367354745903777",
+      "addedAt": "2026-10-14T13:52:46.432Z"
     },
     {
       "title": "Art Subscription Box Funnel Creation + Meta Ads",
