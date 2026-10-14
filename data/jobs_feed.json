@@ -1,5 +1,33 @@
 [
   {
+    "id": "2110485245318888167",
+    "ciphertext": "~022110485245318888167",
+    "title": "Experienced Web Designer & Developer Needed Directory Website",
+    "description": "Quote end price not per hour\n\nExperienced Web Designer & Developer Required – Directory Website\n\nWe are looking for an experienced and creative web designer/developer to build a modern, professional and scalable directory website for a new UK-based online business.\n\nThe website needs to be visually impressive, easy to navigate, fast-loading and designed with an excellent user experience.\n\nWe want a developer who has previous experience building directory or listing-based websites and understands how to create a platform that can grow over time.\n\nThe specific industry and full business concept will be disclosed to shortlisted candidates.\n\nWebsite Design Requirements\n\n- Modern, clean and professional design\n- Fully responsive across mobile, tablet and desktop\n- Attractive homepage with prominent search functionality\n- Easy-to-use navigation and filtering\n- Professional individual listing/profile pages\n- Excellent mobile user experience\n- Fast-loading pages and optimised performance\n- Unique, high-quality design rather than a basic template appearance\n\nDirectory Functionality\n\n- Advanced search and filtering capabilities\n- Individual directory listing pages\n- Category and location-based browsing\n- User registration and login\n- Ability for users to submit and manage listings\n- Free and premium listing options\n- Featured listings\n- Contact and enquiry forms\n- Reviews and ratings functionality\n- Admin approval and moderation of listings\n- Secure and easy-to-use administration dashboard\n\nSEO & Website Performance\n\nSearch engine optimisation will be an important part of the project.\n\nThe website must include:\n\n- SEO-friendly URLs and website structure\n- Optimised category and location landing pages\n- Editable meta titles and descriptions\n- Appropriate schema markup\n- XML sitemap\n- Google Search Console and Analytics integration\n- Fast loading speeds and Core Web Vitals optimisation\n- Architecture designed to support future growth and additional locations\n\nAdministration & Management\n\nWe need to be able to manage the website ourselves without requiring extensive technical knowledge.\n\nThis includes:\n\n- Adding, editing and removing listings\n- Managing users and registrations\n- Managing categories and locations\n- Approving submitted listings\n- Managing featured and premium listings\n- Updating website content and images\n- Managing enquiries and reviews\n\nTechnology\n\nWe are open to recommendations regarding the most suitable platform, including WordPress or a custom-developed solution.\n\nThe website must be secure, scalable, cost-effective to maintain and easy to update.\n\nWe would like developers to explain their recommended technology and any ongoing licensing, hosting or maintenance costs.\n\nIdeal Freelancer\n\nWe are looking for someone who:\n\n- Has proven experience developing directory websites\n- Can provide examples of similar completed projects\n- Has strong web design and UI/UX skills\n- Understands technical SEO\n- Has experience with databases, search functionality and user accounts\n- Communicates clearly and provides regular progress updates\n- Can offer ongoing support if required\n\nWhen Applying\n\nPlease provide:\n\n1. Examples of directory websites you have previously developed.\n2. Your recommended development platform and why.\n3. Your estimated cost and completion timeframe.\n4. Whether you will use an existing directory framework or custom development.\n5. Details of any ongoing software, hosting or maintenance costs.\n6. Confirmation that we will have full ownership of the completed website and any custom-developed code.\n\nPlease begin your application with the words \"Directory Project\" so we know you have read the full description.\n\nConfidentiality\n\nThe specific industry, target audience and commercial business model will be shared with shortlisted developers only.\n\nWe may require a non-disclosure agreement before providing the full project specification.\n\nWe are looking for a reliable developer who can deliver a high-quality initial website and potentially work with us on future development as the platform expands.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.75,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 179,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 95,
+    "coverLetter": "Directory Project - Hi! \n\nI would love to help you build your new UK-based directory platform. I am a professional WordPress developer with extensive experience building scalable directory and listing-based websites featuring advanced search, user registration, multi-tier listings (free/premium/featured), and review systems.\n\nFor this project, I recommend **WordPress** paired with custom post types, Advanced Custom Fields (ACF), and optimized search architecture. WordPress is cost-effective, highly scalable, and gives you an intuitive admin dashboard to easily manage listings, categories, and approvals without technical knowledge. It also allows us to implement robust technical SEO, schema markup, and Core Web Vitals speed optimization right out of the box. \n\nYou will have 100% full ownership of the website and all custom code upon completion. \n\nTo give you an idea of my work, you can review some of my recent client builds here: https://waapple.org/\n\n**Proposed Approach & Est. Costs:**\n- **Technology:** WordPress + Custom Theme/ACF + Advanced Filtering Plugins\n- **Development Approach:** Custom-developed hybrid (leveraging secure, proven plugins for user management and payments to keep costs down, styled with a completely unique UI/UX).\n- **Fixed Quote & Timeline:** I will provide a precise end-price quote and timeline once we discuss the exact scope in chat. \n- **Ongoing Costs:** Standard hosting and domain (no recurring proprietary framework license fees).\n\nLet's connect in chat to discuss the specifics and sign an NDA if required!",
+    "publishedDateTime": "2026-10-14T21:37:56+0000",
+    "addedAt": "2026-10-14T21:38:46.716Z",
+    "url": "https://www.upwork.com/jobs/~022110485245318888167",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110485245318888167/apply/"
+  },
+  {
     "id": "2110462442987521365",
     "ciphertext": "~022110462442987521365",
     "title": "Website Redesign & Duplication",

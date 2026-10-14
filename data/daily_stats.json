@@ -1,8 +1,18 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 0,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 1,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Experienced Web Designer & Developer Needed Directory Website",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022110485245318888167",
+      "addedAt": "2026-10-14T21:38:45.042Z"
+    }
+  ]
 }
