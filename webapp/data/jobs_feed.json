@@ -1,5 +1,36 @@
 [
   {
+    "id": "2110193156255569441",
+    "ciphertext": "~022110193156255569441",
+    "title": "WordPress Website Design and Layout Changes",
+    "description": "I'm handling the design, layout, and structural changes for a website using WordPress. I'm looking for someone with WordPress experience to support these updates and ensure the site looks polished and functions smoothly. The work includes making design adjustments, improving page layout, and updating the overall structure where needed. If you have experience with WordPress and can help refine the site's appearance and usability, I'd love to hear from you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php",
+      "css",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can certainly help you polish your WordPress site’s layout and structure. Whether you are working with Elementor, Gutenberg, or a custom theme, I have the technical expertise to translate your design adjustments into clean, functional code.\n\nI specialize in structural refinements and UI improvements, ensuring that layout changes remain responsive and performance-optimized. For example, I recently managed complex structural updates for thelifeyoucansave.org, ensuring their design vision was perfectly executed without compromising site speed or usability. I am comfortable jumping into existing codebases to fix layout inconsistencies or implement new structural elements that align with your current design goals.\n\nAre you using a specific page builder for these changes, or are you looking for custom PHP/CSS modifications? Let’s chat about your specific design requirements and get started.",
+    "publishedDateTime": "2026-10-14T02:17:51+0000",
+    "addedAt": "2026-10-14T02:19:03.935Z",
+    "url": "https://www.upwork.com/jobs/~022110193156255569441",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110193156255569441/apply/"
+  },
+  {
     "id": "2110183272605397486",
     "ciphertext": "~022110183272605397486",
     "title": "Quick Wordpress theme migration (existing website) - $125-150 Fixed rate- Immediate Start",

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 9,
-  "matchedFilters": 4,
+  "totalScanned": 11,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 3,
+    "wordpress developer": 4,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022110120266080376353",
       "addedAt": "2026-10-13T21:28:31.854Z"
+    },
+    {
+      "title": "WordPress Website Design and Layout Changes",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110193156255569441",
+      "addedAt": "2026-10-14T02:18:41.955Z"
     },
     {
       "title": "Quick Wordpress theme migration (existing website) - $125-150 Fixed rate- Immediate Start",
