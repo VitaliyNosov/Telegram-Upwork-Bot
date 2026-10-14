@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110200128858773119",
+    "ciphertext": "~022110200128858773119",
+    "title": "Customize Oxwall Swipe Plugin for Dating Site",
+    "description": "I need an expert to customize an existing Oxwall swipe plugin for a Skadate dating website. The current feature swipes single photos, but I want it updated to swipe full user profile pages instead.\n\n The work includes adapting the existing swipe card to display and navigate between user profiles, adding ready-made buttons that link to specific pages on the site, and ensuring the feature works correctly on the select user type dial, which is already functional on the sister website. \n\nYou will need to apply the user profile page, customize the plugin, and develop the feature so it supports profile-based swiping and integrates smoothly with the existing site.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "wordpress",
+      "html5"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nCustomizing a dating site plugin to switch from single-photo swiping to full profile-page swiping requires a strong grasp of PHP, JavaScript, and custom plugin architecture. \n\nWith extensive experience in custom plugin development, PHP, and JavaScript, I can cleanly adapt your Oxwall/Skadate swipe feature. I will restructure the swipe cards to render full user profile pages, integrate the action buttons, and ensure the select user type dial filters and functions just like your sister site. \n\nWhen would be a good time to chat about the codebase access and specifics of the current plugin?",
+    "publishedDateTime": "2026-10-14T02:44:55+0000",
+    "addedAt": "2026-10-14T02:46:45.378Z",
+    "url": "https://www.upwork.com/jobs/~022110200128858773119",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110200128858773119/apply/"
+  },
+  {
     "id": "2110193156255569441",
     "ciphertext": "~022110193156255569441",
     "title": "WordPress Website Design and Layout Changes",
