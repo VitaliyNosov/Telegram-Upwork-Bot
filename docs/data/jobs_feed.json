@@ -1,5 +1,67 @@
 [
   {
+    "id": "2110446620149044423",
+    "ciphertext": "~022110446620149044423",
+    "title": "Convert HTML Design to WordPress (Elementor) for Construction Company, Hosted in GoHighLevel",
+    "description": "J.M. Lee Construction Co. is a licensed general contractor based in Atlanta, GA. We’re rebuilding jmleeconstruction.com as a WordPress site hosted on GoHighLevel’s WordPress hosting. It’s standard WordPress, just hosted inside our GHL account. The design is already done as an HTML prototype, so this job is converting it to WordPress, not designing from scratch.\n\nWhat we provide upfront:\n\nThe finished HTML design file (navy and white, Schibsted Grotesk and Inter fonts)\nAll page copy, SEO titles, and meta descriptions\nProject photos and videos\nWordPress admin access, GHL access, and domain access\n\nWhat you’ll build:\n\nHome page converted from our HTML design in Elementor (or a similar builder), matching it closely on desktop and mobile\nServices, Financing, Projects/Gallery, and Contact pages in the same style\nFinancing page with our Momnt financing widget embedded\nPhoto gallery and video embeds, with images compressed and served as WebP for fast loading\nGHL form and calendar embedded on the Contact page so leads flow into our GHL pipeline\nSEO setup with Yoast or Rank Math: titles, meta descriptions, alt text (we supply these), plus an XML sitemap\nDomain connected, SSL active, and the site launched\n\nMilestones (fixed $250):\n\n$100: Home page complete and matching the design\n$100: Remaining pages built\n$50: GHL forms and calendar, SEO plugin setup, domain, and launch\n\nRequirements:\n\nStrong WordPress and Elementor experience with HTML-to-WordPress conversions. Please share 2–3 examples.\nExperience with GHL WordPress hosting or embedding GHL forms is a plus.\nStrong attention to detail on spacing, fonts, and mobile layout\nClear communication and progress updates\n\nTimeline: 1–2 weeks",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "html5",
+      "elementor",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can convert your HTML prototype for J.M. Lee Construction into a pixel-perfect, fast-loading WordPress site on your GoHighLevel hosting. \n\nWith extensive experience building and rebuilding sites using Elementor—including complex layouts, custom styling, and embedding third-party widgets like Momnt, calendars, and GHL lead forms—I will ensure your desktop and mobile versions match your design down to the exact spacing and fonts (Schibsted Grotesk and Inter). I'll also handle the WebP image compression, SEO setup with Rank Math/Yoast, and smooth deployment on GHL.\n\nYou can check out a similar clean, responsive WordPress build I’ve done here: https://www.daysforgirls.org/\n\nWhen do you want to share the HTML files and get started on the homepage milestone?",
+    "publishedDateTime": "2026-10-14T19:04:51+0000",
+    "addedAt": "2026-10-14T19:06:51.205Z",
+    "url": "https://www.upwork.com/jobs/~022110446620149044423",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110446620149044423/apply/"
+  },
+  {
+    "id": "2110446136247599999",
+    "ciphertext": "~022110446136247599999",
+    "title": "Website Design and Publishishing",
+    "description": "I need a website designed for my cream charger business. I will give you the design features it needs and what Id like to base the idea on and get the website up and going immediately",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-development",
+      "chatbot-software",
+      "e-commerce-website",
+      "payment-gateway-integration",
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can help you design and launch your cream charger e-commerce website immediately based on your ideas and feature requirements. \n\nAs a WordPress and WooCommerce expert, I specialize in building high-converting online stores with custom design elements, seamless payment gateway integrations, and smooth checkout flows. Whether you need specific product variations, age-verification popups, or secure payment setups for your niche, I’ll get everything up and running cleanly and efficiently. \n\nFor reference, here is a link to one of my recent e-commerce and functional builds: https://waapple.org/\n\nDo you already have brand assets and design inspirations ready to share, or would you like to discuss the layout structure first? Let’s get this launched.",
+    "publishedDateTime": "2026-10-14T19:06:15+0000",
+    "addedAt": "2026-10-14T19:06:49.715Z",
+    "url": "https://www.upwork.com/jobs/~022110446136247599999",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110446136247599999/apply/"
+  },
+  {
     "id": "2110405175944936685",
     "ciphertext": "~022110405175944936685",
     "title": "Build a functional wellness website: email signup, online shop, event registration",

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 54,
-  "matchedFilters": 13,
+  "totalScanned": 56,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 14,
     "woocommerce": 1
   },
   "topJobs": [
@@ -86,6 +86,13 @@
       "addedAt": "2026-10-14T14:38:46.406Z"
     },
     {
+      "title": "Convert HTML Design to WordPress (Elementor) for Construction Company, Hosted in GoHighLevel",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110446620149044423",
+      "addedAt": "2026-10-14T19:06:50.157Z"
+    },
+    {
       "title": "Build SEO optimized WordPress website for: Music Artist: Producer, Composer,  Mixing & Mastering",
       "budget": "Fixed-price",
       "score": 99,
@@ -98,6 +105,13 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022110183272605397486",
       "addedAt": "2026-10-14T01:40:48.322Z"
+    },
+    {
+      "title": "Website Design and Publishishing",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022110446136247599999",
+      "addedAt": "2026-10-14T19:06:48.443Z"
     }
   ]
 }
