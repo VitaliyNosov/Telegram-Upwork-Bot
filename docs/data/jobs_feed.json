@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110518444140549319",
+    "ciphertext": "~022110518444140549319",
+    "title": "Senior WooCommerce Developer | Azure, CI/CD & Docker",
+    "description": "We're looking for an experienced WordPress/WooCommerce developer to help maintain and improve an existing e-commerce website.\n\nThe primary focus is ongoing maintenance, troubleshooting, performance, and reliability. We're also looking for someone comfortable working with Microsoft Azure, CI/CD pipelines, and Docker as we continue improving our development and deployment processes.\n\nThis is a long-term opportunity for someone who can work independently, communicate clearly, and take ownership of technical tasks.\n\nResponsibilities\n\nMaintain, troubleshoot, and improve an existing WooCommerce website.\nHandle WordPress updates, plugin conflicts, bug fixes, and performance issues.\nSupport and troubleshoot applications hosted on Microsoft Azure.\nWork with Azure DevOps and CI/CD pipelines.\nAssist with Docker-based deployments and infrastructure improvements.\nFollow established development workflows, including Git, testing, and code reviews.\nKeep technical work, progress, and changes properly documented.\n\nRequirements\n\nStrong experience with WordPress, WooCommerce, PHP, and MySQL.\nHands-on experience with Microsoft Azure and Azure DevOps.\nExperience with CI/CD pipelines and Docker.\nSolid troubleshooting and debugging skills.\nFamiliarity with Git and production deployment practices.\nStrong communication, documentation, and problem-solving skills.\nAbility to work independently and deliver reliable, well-tested code.\n\nProject Details\n\nOngoing, part-time work.\nExisting production website.\nRemote collaboration.\nPotential for a long-term working relationship.\n\nWe'll start with a small paid task to assess technical fit before moving into ongoing work.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$10 - $27/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "php",
+      "wp-ecommerce"
+    ],
+    "score": 2750,
+    "coverLetter": "Hi!\n\nI’m a Senior WordPress and WooCommerce developer with strong expertise in the exact modern deployment stack you use—including Docker, Git, and CI/CD workflows. \n\nBeyond core PHP, MySQL, and deep WooCommerce troubleshooting, I regularly work with containerized environments and modern infrastructure, making it seamless for me to support and improve your Azure-hosted setup. I focus heavily on writing reliable code, keeping performance tight, and maintaining clean documentation. You can see examples of my recent WordPress work at https://www.thelifeyoucansave.org/.\n\nI'm ready to dive into your initial paid task right away to demonstrate my technical fit and help build out a reliable, long-term working relationship. \n\nWhen would you like to kick off the test task?",
+    "publishedDateTime": "2026-10-14T23:49:46+0000",
+    "addedAt": "2026-10-14T23:50:44.141Z",
+    "url": "https://www.upwork.com/jobs/~022110518444140549319",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110518444140549319/apply/"
+  },
+  {
     "id": "2110501745244787911",
     "ciphertext": "~022110501745244787911",
     "title": "Logis Real Estate Platform",
