@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110405175944936685",
+    "ciphertext": "~022110405175944936685",
+    "title": "Build a functional wellness website: email signup, online shop, event registration",
+    "description": "I have an existing website, for my  wellness business. Wellness experiences, functional\nproducts, community events. The site was built with Base44 and currently has placeholder content - it looks fine but is not\nfunctional: visitors cannot subscribe to emails, order products, or sign up for events.\n\nI need a freelancer to make it fully functional:\n\n1. Email subscription - working newsletter signup with a stored subscriber list I can export.\n2. Online ordering - a simple shop for wellness products: product pages, cart, secure checkout (Stripe or equivalent), order notifications to me.\n3. Event signup and registration - event listings (workshops, classes)\nwith online registration and payment/RSVP. Events are paid and free\n\nI am non-technical, familiar with Wordpress and will manage the site myself after handover, so I need a standard, maintainable setup with clear documentation. Mobile-friendly, and bilingual (English/French - Montreal\nmarket).\n\nI would like ideally have landing page with events by the end of this of next week, since we have activity coming up next weekend\n\nIn your proposal, please include:\n1. Your recommended approach: extend/fix the existing Base44 site, or\nrebuild on a standard platform (Shopify, WordPress/WooCommerce,\nWebflow, etc.) - and why.\n2. Your fixed-price quote for the full scope.\n3. Timeline.\n4. 2-3 examples of similar sites you have built (shop + email + events).\n\nI am reviewing proposals next week and will follow up shortly.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "css"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nGiven that you are already familiar with WordPress and need a maintainable, bilingual (English/French) setup for email signups, e-commerce, and event registration, I strongly recommend migrating your current Base44 placeholder site to **WordPress with WooCommerce and WPML**. Extending Base44 is rarely practical for long-term client management, whereas a standard WordPress setup gives you full ownership, easy content updates, and a robust ecosystem for Stripe payments and event ticketing. \n\nAs a WordPress expert, I routinely build sites combining these exact features, including multilingual setups and secure checkouts. For example, you can explore a similar mission-driven organization site I built at https://www.daysforgirls.org/, which features clean design and robust structure.\n\n**Approach & Timeline:**\n1. **Platform:** WordPress + WooCommerce (shop/payments) + WPML (Bilingual EN/FR) + Event ticketing plugin.\n2. **Timeline:** I can prioritize the landing page and events functionality by next week to meet your upcoming deadline, followed by the shop and email integration.\n3. **Fixed-Price Quote:** Let's discuss your exact design assets and product volume in chat to finalize a fair, fixed-price quote.\n\nAre you available for a quick chat today to map out the urgent event landing page?",
+    "publishedDateTime": "2026-10-14T16:20:00+0000",
+    "addedAt": "2026-10-14T16:21:01.765Z",
+    "url": "https://www.upwork.com/jobs/~022110405175944936685",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110405175944936685/apply/"
+  },
+  {
     "id": "2110379367781222860",
     "ciphertext": "~022110379367781222860",
     "title": "WordPress Migration + SEO + CRM/Tracking Developer (Long-Term Partner)",

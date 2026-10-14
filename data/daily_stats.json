@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 44,
-  "matchedFilters": 12,
+  "totalScanned": 46,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022110144097367173089",
       "addedAt": "2026-10-13T23:04:43.915Z"
+    },
+    {
+      "title": "Build a functional wellness website: email signup, online shop, event registration",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022110405175944936685",
+      "addedAt": "2026-10-14T16:20:59.911Z"
     },
     {
       "title": "Redesign Website and WHMCS Integration",
