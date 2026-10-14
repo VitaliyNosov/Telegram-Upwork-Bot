@@ -1,5 +1,33 @@
 [
   {
+    "id": "2110370953952872908",
+    "ciphertext": "~022110370953952872908",
+    "title": "Experienced Developer Needed to Restore and Maintain Live Website",
+    "description": "I need an experienced developer to restore my live website that is currently experiencing errors and then provide ongoing maintenance.The website was previously working fine but has gone down or is showing errors. I need someone who can diagnose the issue, fix it, get the site back online, and then handle regular maintenance going forward.What I need:Diagnose and fix the current error so the website is fully restored and functional\nEnsure the site is stable and secure\nSet up or improve backups if needed\nOngoing maintenance (updates, monitoring, minor fixes, and support)\n\nRequirements:Proven experience restoring and maintaining live websites\nStrong troubleshooting and debugging skills\nClear communication and ability to explain issues in simple terms\nMust have strong Upwork reviews (preferably 5-star or high job success score)\nAbility to start quickly",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "database-development",
+      "wordpress",
+      "woocommerce"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-14T14:03:39+0000",
+    "addedAt": "2026-10-14T14:05:24.457Z",
+    "url": "https://www.upwork.com/jobs/~022110370953952872908",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110370953952872908/apply/"
+  },
+  {
     "id": "2110367354745903777",
     "ciphertext": "~022110367354745903777",
     "title": "UI/UX Designer & WordPress Developer Needed (Figma + Elementor)",

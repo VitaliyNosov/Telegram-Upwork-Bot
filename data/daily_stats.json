@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 29,
-  "matchedFilters": 10,
+  "totalScanned": 30,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 9,
+    "wordpress developer": 10,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022110202095911495650",
       "addedAt": "2026-10-14T02:54:45.174Z"
+    },
+    {
+      "title": "Experienced Developer Needed to Restore and Maintain Live Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110370953952872908",
+      "addedAt": "2026-10-14T14:04:43.996Z"
     },
     {
       "title": "Build SEO optimized WordPress website for: Music Artist: Producer, Composer,  Mixing & Mastering",
