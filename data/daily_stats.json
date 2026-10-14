@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 15,
-  "matchedFilters": 7,
+  "totalScanned": 16,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 2898,
       "url": "https://www.upwork.com/jobs/~022110116855746319905",
       "addedAt": "2026-10-13T21:14:30.564Z"
+    },
+    {
+      "title": "WordPress / WooCommerce Website Specialist – Ongoing Work",
+      "budget": "$12-$27/hr",
+      "score": 2847,
+      "url": "https://www.upwork.com/jobs/~022110207552772036129",
+      "addedAt": "2026-10-14T03:16:46.364Z"
     },
     {
       "title": "Art Subscription Box Funnel Creation + Meta Ads",
