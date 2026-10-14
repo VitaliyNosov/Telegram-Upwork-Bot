@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 32,
-  "matchedFilters": 11,
+  "totalScanned": 33,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022110370953952872908",
       "addedAt": "2026-10-14T14:04:43.996Z"
+    },
+    {
+      "title": "WordPress Migration + SEO + CRM/Tracking Developer (Long-Term Partner)",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110379367781222860",
+      "addedAt": "2026-10-14T14:38:46.406Z"
     },
     {
       "title": "Build SEO optimized WordPress website for: Music Artist: Producer, Composer,  Mixing & Mastering",

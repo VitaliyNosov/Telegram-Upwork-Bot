@@ -1,5 +1,33 @@
 [
   {
+    "id": "2110379367781222860",
+    "ciphertext": "~022110379367781222860",
+    "title": "WordPress Migration + SEO + CRM/Tracking Developer (Long-Term Partner)",
+    "description": "About us\nUkie Painting is a residential painting company in Charlotte, NC, with 500+ Google reviews. We’re leaving our marketing agency and need a developer to migrate our website and then stay on as our long-term web partner. This is not a one-time gig. ukiepainting.com\n\nThe situation\nOur site runs on WordPress (Avada theme) and is hosted on the agency’s server. The agency will give us the site files and a database export, but no admin logins and no post-migration support. Their full offboarding process is here:\n👉 https://www.basecoatmarketing.com/offboarding\n\nRead it before applying.\n\nWhat you’ll do\n\nMigrate with zero downtime: set up hosting we own, SSL, and DNS, rebuild from the files and database export, and test on staging before going live.\nKeep 100% of our SEO: benchmark the site before migration, keep the URL structure, set up 301 redirects, handle Search Console, and keep NAP consistent with our Google Business Profile.\nRebuild lead capture: rebuild forms and booking, and replace or remove the chat, review, social feed, and pop-up widgets.\nConnect to our CRM: send every lead to JobNimbus with accurate source and campaign data.\nSet up tracking: GA4, GTM, a new Ukie-owned Meta Pixel with CAPI, and Google Ads conversion tracking. Everything must be tested and documented.\nImprove UX/UI: mobile speed, Core Web Vitals, and higher conversion rate.\nMaintain the site ongoing: updates, backups, security, and SEO and web best-practice guidance.\n\nWho we’re looking for\n\nYou’re 100% confident you can do this migration without downtime or ranking loss.\nYou have proven experience with WordPress migrations (ideally from files and a database, without the old admin access), technical SEO, GTM, GA4, Meta CAPI, and CRM integrations.\nYou want a long-term partnership, not a single project.\n\nHow to apply (required)\nAnswer all 5 questions:\n\nLinks to 2 or 3 WordPress migrations you’ve completed, and how you protected their SEO.\nYour step-by-step plan for this migration.\nHow you’d connect our forms to JobNimbus and set up Meta CAPI.\nYour fixed price for the migration and your monthly rate for ongoing maintenance.\nYour hosting recommendation and why.\n\n⚠️ Applications that don’t answer all 5 questions will not get a response. Generic proposals, templates, and “let’s chat first” messages will be ignored.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "seo"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I’ve reviewed Basecoat Marketing’s offboarding terms and am fully equipped to handle this migration, SEO preservation, and your long-term site partnership for Ukie Painting.\n\nHere are the answers to your required questions:\n\n1. Migrations & SEO Protection: I handle migrations regularly without downtime or ranking loss, protecting URL structures and implementing strict 301 redirection maps. You can review my work and migration capabilities on sites like https://www.seeintl.org/ and https://www.cchpca.org/.\n2. Migration Plan: Set up a new independent host, spin up a staging environment using your database export and file backup, rigorously test functionality, execute DNS cutover with zero downtime, and handle post-launch verification.\n3. Forms & CAPI: I connect WordPress forms directly to CRMs via REST API/webhooks (such as JobNimbus) and implement robust Meta CAPI alongside GTM/GA4 and Google Ads tracking to ensure 100% conversion attribution.\n4. Pricing: I charge a fixed price of $1,200 for the complete migration, setup, and tracking implementation, and $250/month for ongoing maintenance, updates, backups, and security.\n5. Hosting Recommendation: Kinsta or Cloudways (AWS/DigitalOcean infrastructure), because they provide unmatched speed, staging environments, reliable backups, and rock-solid security specifically optimized for WordPress.\n\nReady to get started? Let’s chat about your hosting setup.",
+    "publishedDateTime": "2026-10-14T14:37:48+0000",
+    "addedAt": "2026-10-14T14:38:48.033Z",
+    "url": "https://www.upwork.com/jobs/~022110379367781222860",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110379367781222860/apply/"
+  },
+  {
     "id": "2110370953952872908",
     "ciphertext": "~022110370953952872908",
     "title": "Experienced Developer Needed to Restore and Maintain Live Website",
