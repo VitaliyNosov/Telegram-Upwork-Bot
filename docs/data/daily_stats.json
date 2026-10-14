@@ -1,10 +1,10 @@
 {
   "date": "2026-10-14",
   "lastDigestSentDate": "2026-10-13",
-  "totalScanned": 7,
-  "matchedFilters": 3,
+  "totalScanned": 8,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 2,
+    "wordpress developer": 3,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022110120266080376353",
       "addedAt": "2026-10-13T21:28:31.854Z"
+    },
+    {
+      "title": "Quick Wordpress theme migration (existing website) - $125-150 Fixed rate- Immediate Start",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022110183272605397486",
+      "addedAt": "2026-10-14T01:40:48.322Z"
     }
   ]
 }
