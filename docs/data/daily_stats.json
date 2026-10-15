@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 50,
-  "matchedFilters": 13,
+  "totalScanned": 51,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022110766884053200693",
       "addedAt": "2026-10-15T16:18:48.001Z"
+    },
+    {
+      "title": "Ecommerce Website Buildout",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022110780515280429097",
+      "addedAt": "2026-10-15T17:12:48.316Z"
     },
     {
       "title": "WordPress Developer — Wix to WordPress Migration",
