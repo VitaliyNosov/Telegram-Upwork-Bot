@@ -1,12 +1,19 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 40,
-  "matchedFilters": 9,
+  "totalScanned": 41,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
+    {
+      "title": "White-Label Figma Designer & Elementor Specialist (Canada) - Agency Partner",
+      "budget": "$35-$65/hr",
+      "score": 6646,
+      "url": "https://www.upwork.com/jobs/~022110746894129635369",
+      "addedAt": "2026-10-15T15:01:04.060Z"
+    },
     {
       "title": "Logis Real Estate Platform",
       "budget": "$18-$40/hr",

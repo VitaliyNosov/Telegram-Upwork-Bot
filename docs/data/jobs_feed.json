@@ -1,5 +1,33 @@
 [
   {
+    "id": "2110746894129635369",
+    "ciphertext": "~022110746894129635369",
+    "title": "White-Label Figma Designer & Elementor Specialist (Canada) - Agency Partner",
+    "description": "We are a growing marketing agency looking for an experienced, highly detail-oriented WordPress Developer & UI/UX Designer based in Canada to partner with us on custom website builds.\n\nIn this role, you will design in Figma and build core templates in WordPress using Elementor. Beyond delivering flawless execution, you will work directly inside our project management platform (Teamwork) and collaborate with our Junior Front-End Developer, answering questions and assisting during the handover, QA, and maintenance phases.\n\nThe Workflow:\n\nTeamwork Integration: Work directly within our Teamwork project management system to manage deliverables, track task milestones, log billable time, and update project status.\n\nFigma UI/UX Design: Create interactive, component-based designs in Figma for a Custom Homepage + 2 Subpage templates using approved client copy.\n\nElementor Development: Build out the approved Figma designs into a clean, mobile-responsive WordPress staging site using Elementor.\n\nTemplate Perfection & Hand-Off: Deliver immaculate styling, clean global design tokens (fonts, colors, spacing), and pixel-perfect Elementor templates. The initial build must be flawless so our Junior Front-End Developer can duplicate templates and populate content without running into inefficiencies or structural bugs.\n\nHelp & Guidance: Guide our junior developer on how global styles and components work, answer technical questions, and offer constructive tips as he builds secondary pages.\n\nQA & Security Protocols: Maintain strict cybersecurity standards across staging environments (secure login management, application hardening, and safe file handoffs). Help resolve technical/CSS tickets submitted via BugHerd during internal and client review rounds.\n\nRequirements:\n\nBased in Canada (for time zone alignment and smooth communication).\nTeamwork: Comfortable managing tasks, sub-lists, and time logs inside Teamwork.\nElementor Mastery: Deep expertise in Elementor (including Theme Builder, global widgets, custom CSS, and responsive styling optimization).\nHigh Cybersecurity Standards: Proven experience implementing WordPress security best practices (enforcing strict credential hygiene via 1Password/Bitwarden, applying least-privilege access, disabling XML-RPC, preventing brute-force vulnerabilities, and maintaining secure staging environments).\nObsessive Attention to Detail: High standard for design accuracy, clean code structures, and template organization.\n\nTeam Mindset: Patient, collaborative, and communicative attitude; comfortable answering questions from a junior developer.",
+    "isHourly": true,
+    "hourlyBudgetMin": 35,
+    "hourlyBudgetMax": 65,
+    "budgetDisplay": "$35 - $65/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.79,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 118,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "figma",
+      "wordpress-website",
+      "elementor"
+    ],
+    "score": 6646,
+    "coverLetter": "Hi! As a Canada-based WordPress and Elementor specialist with a strong UI/UX background, I’d love to partner with your agency as your go-to white-label developer. \n\nI bring deep expertise in translating Figma designs into pixel-perfect, responsive Elementor templates using clean global design tokens that your junior front-end developer can easily scale. You can review my clean build execution on projects like https://www.seeintl.org/. Beyond development, I prioritize strict cybersecurity standards across staging environments and am fully comfortable managing tasks, time logs, and deliverables directly within Teamwork. \n\nI also genuinely enjoy mentoring junior developers and will be right by your side to answer questions, guide the handover process, and resolve BugHerd tickets smoothly. \n\nAre you currently interviewing for this role, and when are you looking to kick off our first client build?",
+    "publishedDateTime": "2026-10-15T14:58:32+0000",
+    "addedAt": "2026-10-15T15:01:06.283Z",
+    "url": "https://www.upwork.com/jobs/~022110746894129635369",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110746894129635369/apply/"
+  },
+  {
     "id": "2110746798819605223",
     "ciphertext": "~022110746798819605223",
     "title": "Update website homepage",
