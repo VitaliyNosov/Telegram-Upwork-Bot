@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110766884053200693",
+    "ciphertext": "~022110766884053200693",
+    "title": "Build Arabic RTL WordPress Website for Ramadan Media Platform",
+    "description": "We are developing a new Arabic-first Ramadan digital media and commercial platform, with initial content focused on Arabic-speaking audiences and future expansion to additional markets and languages, including English.\nWe are looking for an experienced WordPress developer with strong Arabic RTL experience to design and build the first version of the website.\nThis is a well-defined MVP project, not a complex custom software application. The goal is to launch a polished, fast, mobile-first website that can be easily managed by a nontechnical content editor.\nMain deliverables\nThe website should include:\n- Professional Arabic RTL design\n- Mobile-first responsive layout\n- Modern homepage\n- Restaurant / Iftar directory\n- Ramadan offers and promotions section\n- Events section\n- Articles and guides\n- Individual business/listing pages\n- Search and filtering by category and/or location\n- “Advertise With Us” form\n- “Submit Your Business” form\n- Contact form\n- SEO-friendly website structure\n- Google Analytics and Search Console setup\n- Security and backup configuration\n- Good site speed and performance\n- Multilingual-ready architecture, with Arabic as the initial language and the ability to add English and other languages later\n- Simple WordPress backend so a nontechnical editor can easily add restaurants, offers, events, businesses, and articles without developer assistance\nWe are open to using established WordPress themes, plugins, and tools such as Advanced Custom Fields (ACF) where appropriate. We prefer a reliable, maintainable, and scalable solution rather than unnecessary custom development.\nNot required for the first version\nThe initial website does not require:\n- Mobile apps\n- Customer accounts\n- Merchant dashboards\n- Online ordering\n- Payment processing\n- Restaurant booking functionality\n- Complex custom software development\nThese features may be considered in later phases if the project is successful.\nImportant qualifications\nStrong experience with Arabic RTL WordPress websites is important.\nArabic-speaking developers are preferred.\nPlease include the following in your proposal:\n1. Links to at least 3 live Arabic RTL websites you personally worked on.\n2. A short explanation of your role in each project.\n3. Whether you are a native or fluent Arabic speaker.\n4. Your proposed WordPress theme/plugin/development approach.\n5. Any paid themes, plugins, or recurring licensing costs you recommend.\n6. Your estimated timeline for completion.\n7. Your fixed-price proposal.\n8. A brief explanation of how you would structure restaurant, business, offer, and event listings so our editor can manage them easily without developer assistance.\nLocation\nWe are open to developers worldwide.\nDevelopers based in Jordan and other Arabic-speaking countries are especially encouraged to apply, although selection will be based primarily on portfolio quality, Arabic RTL experience, communication, reliability, and proposed approach.\nOwnership and access\nThe project is being developed for a U.S.-based company.\nAll custom code, design work, graphics, configurations, and other project deliverables created specifically for this project must be transferred to the company upon payment.\nThe domain, hosting account, WordPress administrator account, analytics accounts, and other core accounts will remain under our ownership and control. The selected developer will receive the access necessary to complete the project.\nWorking relationship\nWe value:\n- Clear communication\n- Meeting agreed deadlines\n- Attention to Arabic RTL and mobile design\n- Clean and maintainable WordPress implementation\n- Good documentation and project handoff\n- Ability to explain technical decisions clearly\n- Responsiveness during the development period\nThe project will be fixed-price and milestone-based.\nOur target is to complete the initial website in approximately 4 weeks, although we are open to a reasonable timeline proposed by an experienced developer.\nIf the initial project goes well, there may be opportunities for future maintenance, improvements, multilingual expansion, and additional functionality.\nPlease begin your proposal with the word “RAMADAN” so we know you have read the complete description.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cms-development",
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "RAMADAN! Hi there! As a native Arabic speaker with extensive experience building RTL WordPress platforms and directories, I’d love to help you launch this Ramadan media platform smoothly. \n\nFor the tech stack, I recommend using a lightweight, performance-optimized starter theme paired with Advanced Custom Fields (ACF) Pro and a robust filtering plugin. To make the backend completely foolproof for nontechnical editors, I will set up dedicated Custom Post Types (Restaurants, Offers, Events, Businesses) with intuitive field layouts using ACF. This ensures your team can easily manage and update content without touching any code.\n\nI have built numerous Arabic RTL websites focusing on clean typography, mobile-first design, and speed optimization. My estimated timeline for this MVP is 4 weeks, and I will ensure full ownership transfer upon completion. \n\nWould you like to hop on a quick chat to discuss the specific categories and initial design references?",
+    "publishedDateTime": "2026-10-15T16:17:00+0000",
+    "addedAt": "2026-10-15T16:18:52.751Z",
+    "url": "https://www.upwork.com/jobs/~022110766884053200693",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110766884053200693/apply/"
+  },
+  {
     "id": "2110754966715422893",
     "ciphertext": "~022110754966715422893",
     "title": "Designer for Mental Health Websites and Landing Pages (I don't like AI design)",

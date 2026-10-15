@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 46,
-  "matchedFilters": 11,
+  "totalScanned": 47,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022110691737017877770",
       "addedAt": "2026-10-15T11:21:06.226Z"
+    },
+    {
+      "title": "Build Arabic RTL WordPress Website for Ramadan Media Platform",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022110766884053200693",
+      "addedAt": "2026-10-15T16:18:48.001Z"
     },
     {
       "title": "Designer for Mental Health Websites and Landing Pages (I don't like AI design)",
