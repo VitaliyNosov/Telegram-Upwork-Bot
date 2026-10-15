@@ -1,5 +1,33 @@
 [
   {
+    "id": "2110746798819605223",
+    "ciphertext": "~022110746798819605223",
+    "title": "Update website homepage",
+    "description": "I need you to modify my homepage and update the product listing. \n\nAdditionally, you will add a tab and one page on the website",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.63,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 176,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "html"
+    ],
+    "score": 93,
+    "coverLetter": "Hi! I can help you update your homepage, reorganize your product listings, and seamlessly add the new tab and page to your WordPress site. \n\nWith extensive experience in WordPress development, theme customization, and structural updates, I make sure changes match your existing design and don't break your site's layout or functionality. For instance, I recently built and optimized custom WordPress layouts for projects like https://waapple.org/, ensuring a clean user experience across all devices.\n\nCould you share a link to your website and the details or wireframe for the new page and product updates so we can get started?",
+    "publishedDateTime": "2026-10-15T14:57:10+0000",
+    "addedAt": "2026-10-15T14:58:41.823Z",
+    "url": "https://www.upwork.com/jobs/~022110746798819605223",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110746798819605223/apply/"
+  },
+  {
     "id": "2110734390776059079",
     "ciphertext": "~022110734390776059079",
     "title": "Update Website und Lösung Probleme Mail",
