@@ -1,5 +1,36 @@
 [
   {
+    "id": "2110800871516472661",
+    "ciphertext": "~022110800871516472661",
+    "title": "WordPress Website Refresh for Real Estate Investment Firm",
+    "description": "About us\nAtlis Real Estate Partners is a private real estate investment firm in Philadelphia. We run a value-add multifamily fund and a private lending fund, and we’re launching an in-house property management company. Our site www.atlisrealestate.com is on WordPress and needs a refresh so it reflects where the business is today.\n\nWhat we need\n\n1. Revamp the Offerings page\n\nRestructure the page so each fund has its own clean card or section with key terms, current status, and one clear call to action.\nRemove the content that’s repeated from other pages..the lending description and investment guide each appear twice right now.\nGive the page a proper H1 and a cleaner flow: Overview - Funds - Strategy - Track Record - CTA.\nMake sure it looks great on mobile.\n\n2. Build a Track Record section\n\nDesign a reusable stats block (for example: capital deployed, units, loans funded, distributions paid) that we can update ourselves without a developer.\nUse it on the Homepage, Offerings, and the two fund pages, replacing the empty “Our Track Record” and “By the Numbers” sections.\nBuild a clean, consistent template for deal case studies (photos, before/after, key metrics) and load our existing and new case studies into it.\n\n3. Build a new Property Management landing page\n\nDesign and build a standalone landing page for our property management business, styled to match the main site.\nSuggested sections: Hero - Services - Our Approach - Properties We Manage (photo gallery) - Why Atlis - Contact / Inquiry Form.\nAdd a contact or inquiry form that goes to our email (and can connect to our CRM later).\nAdd the page to the main navigation.\nDo basic on-page SEO for local search (title, meta description, headings).\n\n4. Add new images site-wide\n\nAdd the new property, team, and project photos we provide across the Homepage, Offerings, fund pages, Team, and the new PM page.\nOptimize every image for web (compressed, correctly sized, lazy-loaded) so the site stays fast.\nAdd descriptive alt text to all images.\nReplace the blank team headshots.\n\n5. Refresh data and clean up the site\n\nUpdate numbers, fund details, and case study results on the Homepage, Offerings, Equity Fund, and Lending Fund pages, using copy and figures we’ll provide.\nRemove the leftover template elements on every page: the blog comment forms, “Loading Comments...”, and dead “#” links.\nFix typos and update the footer copyright.\n\nWhat we provide\nFinal copy, numbers, case study data, photos, and logins. You handle design, build, and image optimization. We are not looking for copywriting or financial content.\n\nDeliverables\n\nAll updated pages live on the site\nNew Property Management landing page live, with a working inquiry form\nAn editable stats block and case study template\nA short Loom video showing us how to update stats, add case studies, and swap images\n\nIdeal freelancer\n\nStrong WordPress experience (tell us which page builders you’ve used)\nHas built sites for real estate, property management, finance, or investment firms\nClean, professional design sense with a good eye for presenting data and photography\nClear communication and on-time delivery",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 43,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "website-customization",
+      "seo",
+      "wordpress",
+      "web-design",
+      "real-estate-industry"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help you refresh the Atlis Real Estate Partners website so it accurately reflects your current funds, track record, and new property management arm. \n\nI’m a senior WordPress developer with extensive experience building clean, professional sites for finance, corporate, and real estate-adjacent firms. I regularly structure data-heavy pages, build reusable custom stats blocks (using ACF/Gutenberg so you can easily update them yourself without touching code), and optimize heavy photography for fast loading and strong Core Web Vitals. You can see examples of my clean, responsive enterprise WordPress builds here: https://www.thelifeyoucansave.org/\n\nFor your project, I will cleanly restructure the Offerings page, build your reusable track record and case study templates, launch the new property management landing page with a secure inquiry form, handle all image compression/alt text, and clear out those lingering template bugs like comment forms and dead links. I'll also record a brief Loom walkthrough showing your team how to manage updates effortlessly.\n\nDo you have a target launch date in mind for the refreshed site and new property management page? Let's chat!",
+    "publishedDateTime": "2026-10-15T18:32:06+0000",
+    "addedAt": "2026-10-15T18:32:51.043Z",
+    "url": "https://www.upwork.com/jobs/~022110800871516472661",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110800871516472661/apply/"
+  },
+  {
     "id": "2110799339270112597",
     "ciphertext": "~022110799339270112597",
     "title": "WordPress Enfold Developer for Ongoing Maintenance Across Agency Client Sites",

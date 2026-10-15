@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 56,
-  "matchedFilters": 16,
+  "totalScanned": 57,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 16
+    "wordpress developer": 17
   },
   "topJobs": [
     {
@@ -90,6 +90,13 @@
       "score": 147,
       "url": "https://www.upwork.com/jobs/~022110767387965412551",
       "addedAt": "2026-10-15T16:20:50.912Z"
+    },
+    {
+      "title": "WordPress Website Refresh for Real Estate Investment Firm",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110800871516472661",
+      "addedAt": "2026-10-15T18:32:49.420Z"
     },
     {
       "title": "Designer for Mental Health Websites and Landing Pages (I don't like AI design)",
