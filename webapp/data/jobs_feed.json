@@ -1,5 +1,35 @@
 [
   {
+    "id": "2110683683379578122",
+    "ciphertext": "~022110683683379578122",
+    "title": "WordPress Developer Needed for HTML to WordPress/Elementor Conversion",
+    "description": "I am looking for an experienced WordPress + Elementor developer to rebuild a construction company website from an existing HTML prototype.\nThe design is already completed, so this is not a design-from-scratch project. You’ll convert the provided HTML design into a clean, responsive WordPress website hosted on GoHighLevel’s WordPress hosting.\nWhat We’ll Provide\nFinished HTML design prototype\nComplete page copy, SEO titles & meta descriptions\nProject photos and videos\nWordPress, GHL and domain access\nBrand fonts: Schibsted Grotesk & Inter\nWhat You’ll Build\nHome page in Elementor, closely matching the provided design\nServices, Financing, Projects/Gallery and Contact pages\nResponsive desktop, tablet and mobile layouts\nMomnt financing widget integration\nOptimized photo gallery and video embeds\nImage compression and WebP delivery\nGHL forms and calendar integrated with the Contact page\nYoast or Rank Math SEO setup\nXML sitemap, meta data and image alt text\nDomain connection, SSL and final launch\nRequirements\nStrong WordPress + Elementor experience\nExperience converting HTML designs into WordPress\nExcellent attention to spacing, typography and responsive layouts\nExperience with GHL forms/embeds is a plus\nClear communication and regular progress updates\nAbility to complete the project within 1 week\nBudget & Timeline\nFixed Budget: $350\nTimeline: 1 week\nTo Apply\nPlease share 2–3 relevant WordPress/Elementor projects, especially examples where you converted an existing design into a responsive WordPress website.\nWe’re looking for someone who can follow the existing design precisely, move quickly, and deliver a polished production-ready website.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 44,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "css",
+      "html",
+      "wordpress-website",
+      "javascript"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can convert your HTML prototype into a pixel-perfect, responsive WordPress and Elementor site within your 1-week timeline. \n\nI specialize in converting static designs into clean, high-performing WordPress websites with exact attention to typography (Schibsted Grotesk & Inter), spacing, and responsive mobile layouts. I will also handle the Momnt financing widget integration, GHL form and calendar embeds, image compression to WebP, and full SEO setup via Rank Math or Yoast.\n\nFor relevant work, you can review https://www.thelifeyoucansave.org/ or https://www.cchpca.org/, both built with a strong focus on precise design translation and performance. \n\nAre you ready to share the HTML prototype and GHL access so we can kick this off today?",
+    "publishedDateTime": "2026-10-15T10:47:41+0000",
+    "addedAt": "2026-10-15T10:48:43.876Z",
+    "url": "https://www.upwork.com/jobs/~022110683683379578122",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110683683379578122/apply/"
+  },
+  {
     "id": "2110576871830396969",
     "ciphertext": "~022110576871830396969",
     "title": "WordPress Developer Needed",
