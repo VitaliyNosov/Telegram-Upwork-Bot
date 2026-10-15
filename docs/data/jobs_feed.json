@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110576871830396969",
+    "ciphertext": "~022110576871830396969",
+    "title": "WordPress Developer Needed",
+    "description": "We need a developer to build and maintain a WordPress website for a small business. The work includes setting up the site, customizing the theme, adding pages and content, and ensuring the site is functional and easy to use. You should be comfortable handling updates, troubleshooting issues, and supporting ongoing improvements. This is a part-time project with room for long-term collaboration if the work goes well.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "web-programming"
+    ],
+    "score": 2949,
+    "coverLetter": "Hi! \n\nI would love to help you build, customize, and maintain your small business WordPress website. With extensive experience in custom WordPress development, theme setup, and ongoing site optimization, I ensure sites are fast, fully functional, and easy for teams to manage. \n\nBeyond the initial build, I focus on clean code and long-term project support, handling updates, troubleshooting, and continuous improvements smoothly. For instance, you can check out one of my recent custom builds here: https://www.snopud.com/. \n\nI’m looking for a part-time, ongoing collaboration and would be glad to discuss your vision for the site. Are there any specific design preferences or plugins you already know you'll need?",
+    "publishedDateTime": "2026-10-15T03:41:56+0000",
+    "addedAt": "2026-10-15T03:42:44.617Z",
+    "url": "https://www.upwork.com/jobs/~022110576871830396969",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110576871830396969/apply/"
+  },
+  {
     "id": "2110556604433843071",
     "ciphertext": "~022110556604433843071",
     "title": "Update Recreate & Launch Course Site on Teachable with QR Tracking & Custom Billing Gate",
