@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 35,
-  "matchedFilters": 7,
+  "totalScanned": 36,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 2750,
       "url": "https://www.upwork.com/jobs/~022110518444140549319",
       "addedAt": "2026-10-14T23:50:42.673Z"
+    },
+    {
+      "title": "Update Website und Lösung Probleme Mail",
+      "budget": "$15-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022110734390776059079",
+      "addedAt": "2026-10-15T14:12:43.006Z"
     },
     {
       "title": "WordPress Developer Needed for HTML to WordPress/Elementor Conversion",

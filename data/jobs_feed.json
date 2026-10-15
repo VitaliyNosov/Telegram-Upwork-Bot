@@ -1,5 +1,31 @@
 [
   {
+    "id": "2110734390776059079",
+    "ciphertext": "~022110734390776059079",
+    "title": "Update Website und Lösung Probleme Mail",
+    "description": "Guten Tag\n\nWir benötigen jemand um einige Fehler auf unserer WordPress-Website zu beheben und unser Mailsystem wieder zum laufen bringt. \n\nWir denken der Zeitaufwand ist ca. 3 Stunden.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$15 - $25/hr",
+    "client": {
+      "country": "Switzerland",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 2600,
+    "coverLetter": "Hi! I can certainly help you resolve those technical errors and get your email system back up and running.\n\nI specialize in troubleshooting WordPress infrastructure and have extensive experience resolving email delivery issues, including SMTP configuration, server-side mail problems, and authentication errors (SPF/DKIM/DMARC). Whether it’s a conflict after an update or a database-related error, I can quickly diagnose the root cause and implement a fix to ensure your site is stable and your communication is restored. You can see examples of my technical work on sites like https://www.thelifeyoucansave.org/ where I manage complex backend integrations.\n\nI am available to start immediately and am confident I can handle these tasks within your 3-hour window. Are you available for a quick chat to share the site URL and the specific error logs you are seeing?",
+    "publishedDateTime": "2026-10-15T14:11:48+0000",
+    "addedAt": "2026-10-15T14:12:56.335Z",
+    "url": "https://www.upwork.com/jobs/~022110734390776059079",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110734390776059079/apply/"
+  },
+  {
     "id": "2110691737017877770",
     "ciphertext": "~022110691737017877770",
     "title": "WordPress / Tutor LMS Developer Needed",
