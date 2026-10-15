@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 44,
-  "matchedFilters": 10,
+  "totalScanned": 45,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022110691737017877770",
       "addedAt": "2026-10-15T11:21:06.226Z"
+    },
+    {
+      "title": "Designer for Mental Health Websites and Landing Pages (I don't like AI design)",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022110754966715422893",
+      "addedAt": "2026-10-15T15:31:12.118Z"
     },
     {
       "title": "Update Recreate & Launch Course Site on Teachable with QR Tracking & Custom Billing Gate",
