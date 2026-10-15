@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 47,
-  "matchedFilters": 12,
+  "totalScanned": 48,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022110766884053200693",
       "addedAt": "2026-10-15T16:18:48.001Z"
+    },
+    {
+      "title": "WordPress Developer — Wix to WordPress Migration",
+      "budget": "Fixed-price",
+      "score": 147,
+      "url": "https://www.upwork.com/jobs/~022110767387965412551",
+      "addedAt": "2026-10-15T16:20:50.912Z"
     },
     {
       "title": "Designer for Mental Health Websites and Landing Pages (I don't like AI design)",
