@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 29,
-  "matchedFilters": 6,
+  "totalScanned": 30,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022110683683379578122",
       "addedAt": "2026-10-15T10:48:42.777Z"
+    },
+    {
+      "title": "WordPress / Tutor LMS Developer Needed",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022110691737017877770",
+      "addedAt": "2026-10-15T11:21:06.226Z"
     },
     {
       "title": "Update Recreate & Launch Course Site on Teachable with QR Tracking & Custom Billing Gate",

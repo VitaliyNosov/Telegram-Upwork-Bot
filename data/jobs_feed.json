@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110691737017877770",
+    "ciphertext": "~022110691737017877770",
+    "title": "WordPress / Tutor LMS Developer Needed",
+    "description": "We are looking for an experienced WordPress developer to improve our existing Travel Spanish Academy website, which uses Tutor LMS and Stripe.\n\nThe website is already built, and our payment system is working. We need someone who can make improvements without disrupting existing courses, URLs, or checkout functionality.\n\n**Project responsibilities:**\n\n- Restore our bootcamp price from $1 (temporary test price) to $299 without changing the course URL.\n- Configure automated welcome emails, purchase confirmations, and student enrollment notifications using Tutor LMS and our existing MailerLite setup where appropriate.\n- Set up an affiliate tracking system that generates unique referral links for influencers and tracks completed purchases with a 30% commission structure.\n- Recommend a compatible affiliate plugin and explain any additional licensing costs.\n- Test the complete checkout, enrollment, email, and affiliate tracking processes.\n- Provide short video tutorials showing us how to manage these features independently.\n\n**Qualifications:**\n\nMust have demonstrated experience with WordPress, Tutor LMS, Stripe, and affiliate integrations. Experience with AffiliateWP, Solid Affiliate, or similar plugins is preferred.\n\nPlease share examples of similar projects you've completed and explain your experience integrating affiliate tracking with online course payments.\n\n**Budget:** $200–$250 fixed price.\n\n**Timeline:** Ideally 5–10 days.\n\nWe are a growing online Spanish language school looking for a reliable developer who communicates clearly and can potentially assist with future website improvements.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "mysql",
+      "javascript"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can help you update your Travel Spanish Academy pricing, emails, and affiliate system without disrupting your active courses or checkout. \n\nWith deep experience in WordPress, Tutor LMS, Stripe, and MailerLite, I regularly handle tasks like updating course products safely, configuring automated student notifications, and integrating tracking platforms. For your affiliate setup, I recommend using AffiliateWP—it integrates seamlessly with Tutor LMS and Stripe, ensuring reliable 30% commission tracking for your influencers (I can handle the setup and provide the licensing breakdown). I'll also record clear video tutorials so you can easily manage everything moving forward. \n\nYou can see examples of my recent WordPress and platform work here: https://www.thelifeyoucansave.org/\n\nLet's get this wrapped up within your timeline. When would you like to get started?",
+    "publishedDateTime": "2026-10-15T11:18:23+0000",
+    "addedAt": "2026-10-15T11:21:07.511Z",
+    "url": "https://www.upwork.com/jobs/~022110691737017877770",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110691737017877770/apply/"
+  },
+  {
     "id": "2110683683379578122",
     "ciphertext": "~022110683683379578122",
     "title": "WordPress Developer Needed for HTML to WordPress/Elementor Conversion",
