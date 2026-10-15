@@ -1,10 +1,10 @@
 {
   "date": "2026-10-15",
   "lastDigestSentDate": "2026-10-14",
-  "totalScanned": 54,
-  "matchedFilters": 15,
+  "totalScanned": 56,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 2600,
       "url": "https://www.upwork.com/jobs/~022110734390776059079",
       "addedAt": "2026-10-15T14:12:43.006Z"
+    },
+    {
+      "title": "WordPress Enfold Developer for Ongoing Maintenance Across Agency Client Sites",
+      "budget": "$20-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022110799339270112597",
+      "addedAt": "2026-10-15T18:28:42.155Z"
     },
     {
       "title": "Digital Marketing Agency Website Development",

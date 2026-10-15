@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110799339270112597",
+    "ciphertext": "~022110799339270112597",
+    "title": "WordPress Enfold Developer for Ongoing Maintenance Across Agency Client Sites",
+    "description": "We are a digital marketing agency serving clients in technology, healthcare, education, financial services, energy and publishing. Every client site runs on WordPress with the Enfold theme by Kriesi. We need a reliable developer to own day-to-day maintenance across the portfolio. Larger strategic builds stay with our existing developer; this role keeps every site healthy, current and secure.\n\nWhat you’ll handle\n*WordPress core, Enfold theme and plugin updates\n*Bug fixes, broken links and layout issues\n*New pages and content updates built in the Avia Layout Builder from our copy\n*Speed, uptime and security monitoring\n*Backups and restores\n\nWhat we’re looking for\n*3+ years of hands-on WordPress experience\n*Proven Enfold experience, including the Avia Layout *Builder, theme options, child themes and safe theme updates\n*Comfort with multiple hosting environments\n*Clear written English\n*Responsiveness during at least part of US Eastern business hours\n*Experience maintaining live sites, beyond new builds\n*Prior agency work preferred\n\nEngagement: Ongoing, hourly. Roughly 10-20 hours per month to start, with room to grow.\n\nTo apply\n*Share up to three WordPress sites you currently maintain and note which of those sites run on Enfold\n*Describe your process for updating Enfold and plugins on a live site without breaking anything",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$20 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 21,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "wordpress-plugin",
+      "php"
+    ],
+    "score": 2600,
+    "coverLetter": "Hi! Here are three WordPress sites I currently maintain, including https://www.snopud.com/ (built with the Enfold theme and Avia Layout Builder):\n1. https://www.snopud.com/ (Enfold)\n2. https://waapple.org/\n3. https://www.thelifeyoucansave.org/\n\nMy process for updating Enfold and plugins safely on live sites starts with deploying updates to a staging environment or taking a full database and file backup (plus setting a restore point with the host). I test core, Enfold, and plugin updates there first to check for any layout breaks or PHP conflicts in the Avia Layout Builder. Once verified, I push the updates to the live site during low-traffic windows and immediately test critical paths.\n\nWith extensive experience handling ongoing maintenance, debugging, and multi-site management for agency clients, I can seamlessly step in to keep your portfolio secure, updated, and healthy. I’m comfortable working across diverse hosting environments and available during US Eastern hours. \n\nLet’s chat about how I can support your agency's client sites.",
+    "publishedDateTime": "2026-10-15T18:27:19+0000",
+    "addedAt": "2026-10-15T18:28:45.360Z",
+    "url": "https://www.upwork.com/jobs/~022110799339270112597",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110799339270112597/apply/"
+  },
+  {
     "id": "2110782418151736661",
     "ciphertext": "~022110782418151736661",
     "title": "Digital Marketing Agency Website Development",
