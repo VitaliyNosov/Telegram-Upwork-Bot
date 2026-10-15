@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110556604433843071",
+    "ciphertext": "~022110556604433843071",
+    "title": "Update Recreate & Launch Course Site on Teachable with QR Tracking & Custom Billing Gate",
+    "description": "Recreate & Launch Course Site on Teachable with QR Tracking & Custom Billing Gate (All Layouts & Text Ready)\n\nProject Overview:\n\nI am looking for an efficient, reliable web developer to immediately recreate and launch a 12-module subscription learning and real estate pipeline website for my brand, The Parrish Wealth Institute.\nThe previous agency went completely unresponsive, but they left a fully built frontend prototype on a temporary hosting link. All branding, framework text, curriculum structures, and pricing models are 100% finalized and viewable. I also have the raw curriculum text and copyright documents safely backed up on my computer. I am behind schedule and need this built on a secure Teachable platform that I completely own, with my custom domain connected.\n\nCurrent Reference Materials Provided Upon Hire:\n•\tStaging/Preview Link: Live Preview Link (Note to developer: Please scrape and back up this content immediately upon contract start, as this temporary link could go offline).\n•\tA full walk-through screen-recording video navigating every landing page and dropdown menu.\n•\tMaster Copy File: Clean text files of the 12-Module curriculum and program descriptions.\n•\tWorksheet Assets: Raw downloadable PDF assets for student modules.\n\nKey Scope of Work:\n1.\tPlatform Replay/Migration (Teachable): Recreate the core marketing pages (Home, About, The Book, Partnerships) and build out the 12-module course architecture on Teachable using my clean copyright text files.\n\n2.\tAffiliate QR Code Tracking: Configure Teachable's native affiliate system to assign unique tracking parameters to our internal staff and Preferred Realtors. We will use a dynamic QR code generator so that when a realtor's unique QR code is scanned, the student is permanently attributed to that specific realtor in our system.\n\n3.\tTiered Access Paywalls: Set up two public subscription tiers:\n•\tBasic Tier ($27/mo or $270/yr): Automatically grants access to Modules 1–8.\n•\tPro Tier ($47/mo or $470/yr): Automatically grants full access to Modules 1–12.\n•\tAffiliate Split: Configure Teachable's native system to automatically route a 35% commission split to our affiliates for any Basic Tier sales they generate.\n\n4.\tPrivate Lender Billing Gate (Critical Step): Create a private, hidden $50 checkout product inside Teachable reserved exclusively for our Preferred Lenders.\n\n5.\tZapier Automation: Configure a Zapier loop: The moment a student registers via a realtor's tracked link, an automated email must be triggered to our Preferred Lender prompting them to pay the hidden $50 fee. The completion of this $50 payment by the lender must be the trigger that automatically upgrades the student from \"Pending\" to \"Active,\" unlocking Module 1 (\"Know Your Now\").\n\n6.\tDomain Connection: Securely point my independently owned custom domain name to the finalized Teachable platform.\n\nTimeline & Budget:\n•\tTimeline: Fast turnaround within 10 to 14 days since all content, layouts, and copy are provided.\n•\tBudget: Fixed-price (Please submit your competitive bid based on cloning an existing visual prototype).\n\nFreelancer Requirements:\n•\tProven experience setting up membership access gates and custom checkout logic inside \n\nTeachable.\n•\tExpertise with Zapier automations, custom email triggers, and URL/affiliate tracking parameters.\n•\tExcellent communication skills with daily status updates so we can hit this launch window.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "graphic-design"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! \n\nI can help you get The Parrish Wealth Institute's course site fully recreated, secured, and launched on Teachable within your 10 to 14-day timeline. \n\nWhile my core expertise is in WordPress and CMS development, I frequently handle complex platform migrations, advanced membership paywalls, and API-driven automation setups. Your project requires a precise sequence—recreating the 12-module structure from your staging link and copy files, configuring native affiliate QR tracking, and building that multi-tier subscription logic. \n\nMore importantly, I have strong experience setting up complex webhook and Zapier loops (like connecting custom checkout triggers to tiered access upgrades and automated email notifications for your Preferred Lenders). I'm ready to scrape your prototype immediately upon start and ensure your custom domain is seamlessly connected.\n\nWhen would be a good time to review the staging link and kick this off?",
+    "publishedDateTime": "2026-10-15T02:23:24+0000",
+    "addedAt": "2026-10-15T02:24:42.650Z",
+    "url": "https://www.upwork.com/jobs/~022110556604433843071",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110556604433843071/apply/"
+  },
+  {
     "id": "2110518444140549319",
     "ciphertext": "~022110518444140549319",
     "title": "Senior WooCommerce Developer | Azure, CI/CD & Docker",
