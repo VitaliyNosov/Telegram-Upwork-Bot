@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111132640086649801",
+    "ciphertext": "~022111132640086649801",
+    "title": "Web Development for Real Estate Company",
+    "description": "We need a developer to build a website for a real estate company. The project includes creating a clean, modern site, setting up a contact form, and ensuring the site is easy to use and mobile-friendly. You should be able to work independently, communicate clearly, and deliver a polished final product. Experience with similar projects is important.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 49,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "web-design",
+      "lead-generation"
+    ],
+    "score": 99,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-16T16:32:34+0000",
+    "addedAt": "2026-10-16T16:33:07.161Z",
+    "url": "https://www.upwork.com/jobs/~022111132640086649801",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111132640086649801/apply/"
+  },
+  {
     "id": "2111121338700620347",
     "ciphertext": "~022111121338700620347",
     "title": "UX/UI Designer and WordPress Developer",
