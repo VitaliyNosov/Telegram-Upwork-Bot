@@ -1,10 +1,10 @@
 {
   "date": "2026-10-16",
   "lastDigestSentDate": "2026-10-15",
-  "totalScanned": 56,
-  "matchedFilters": 12,
+  "totalScanned": 57,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022111044113076868525",
       "addedAt": "2026-10-16T10:41:15.515Z"
+    },
+    {
+      "title": "Integrate BATS Form into Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022111155989933114478",
+      "addedAt": "2026-10-16T18:09:02.430Z"
     },
     {
       "title": "WordPress Website Security Recovery & Maintenance",

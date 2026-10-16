@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111155989933114478",
+    "ciphertext": "~022111155989933114478",
+    "title": "Integrate BATS Form into Website",
+    "description": "We need the lead form on nationwideautocarriers.com to run both the existing email notification and an embedded BATS form that sends submissions directly to the BATS account. The setup should use an iframe on an SSL-served website, with the required ref parameter set to the authorization key for the configured lead source. Optional parameters should support customizing the button and form colors and passing Google Ads attribution values, including gclid, gbraid, wbraid, UTM fields, and landingPageUrl. Do not contact me outside of Upwork.  Send a price to complete this task. Thank you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 50,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "javascript",
+      "php",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nTo complete this task, my fixed price is $120, and I can have the BATS lead form fully integrated into nationwideautocarriers.com today. \n\nI work extensively with WordPress, PHP, and JavaScript, meaning I can cleanly hook into your existing form submission process to trigger both your current email notification and the embedded BATS iframe simultaneously. I'll ensure the `ref` parameter uses your authorization key properly, while mapping all required Google Ads attribution values (`gclid`, `gbraid`, `wbraid`, UTMs, and `landingPageUrl`) alongside custom button and form styling to match your brand seamlessly. \n\nFor a look at my past custom web development work, you can check out https://www.cchpca.org/. \n\nCould you share your BATS account documentation or specific authorization key details so we can get started right away?",
+    "publishedDateTime": "2026-10-16T18:07:05+0000",
+    "addedAt": "2026-10-16T18:09:07.931Z",
+    "url": "https://www.upwork.com/jobs/~022111155989933114478",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111155989933114478/apply/"
+  },
+  {
     "id": "2111134247860631153",
     "ciphertext": "~022111134247860631153",
     "title": "Wordpress & Elementor Developer",
