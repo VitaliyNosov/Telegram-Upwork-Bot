@@ -1,12 +1,19 @@
 {
   "date": "2026-10-16",
   "lastDigestSentDate": "2026-10-15",
-  "totalScanned": 13,
-  "matchedFilters": 1,
+  "totalScanned": 14,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Elementor Designer and Developer (30 Page Website, Ongoing Agency Work)",
+      "budget": "$18-$40/hr",
+      "score": 4096,
+      "url": "https://www.upwork.com/jobs/~022110915631976113436",
+      "addedAt": "2026-10-16T02:08:40.574Z"
+    },
     {
       "title": "Website Developer to update, maintain and improve our existing website",
       "budget": "Fixed-price",
