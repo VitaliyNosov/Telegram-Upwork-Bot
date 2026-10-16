@@ -1,5 +1,37 @@
 [
   {
+    "id": "2111019116848598115",
+    "ciphertext": "~022111019116848598115",
+    "title": "WordPress Website for Calendar App",
+    "description": "I need a developer to build a responsive, mobile-friendly website for a calendar app relaunch. The site should include a homepage, about page, features page, pricing page, and contact page, with a clean, modern design. You will also set up a contact form and ensure the site is easy to navigate. The project should be completed in under 15 days, with clear communication and timely updates throughout the development process.\n\nThe current website is sparkcal.com\n\nNothing on the current site will be used other than the text/content.  Logos, screenshots and colors for the relaunch are completely different than what is there now.  Do not send me mockups using the old website design and logos.  I have attached the branding pdf for the redesign to give you an idea of how different it will be.\n\nI have logo files in several different colors and orientations.  Screenshots of the new app will be provided as the design progresses.\n\nProposals with figma mockups will go to the front of the line.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 40,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "html5",
+      "web-programming",
+      "avada-theme-customization",
+      "web-design",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI would love to help you build the responsive, modern website for Sparkcal’s app relaunch. With your new branding PDF and copy ready, I can turn your vision into a clean, high-performing WordPress site within your 15-day timeline. \n\nWhile I don't use the outdated site as a reference, my background includes building custom, responsive WordPress sites tailored specifically for software and app products. I focus heavily on seamless navigation, Gutenberg/page builder execution, and converting brand guidelines (logos, new app screenshots, and color palettes) into polished home, about, features, pricing, and contact pages. \n\nTo give your proposal priority, I'd be happy to spin up a quick Figma mockup layout for the homepage using your new branding before we officially kick off. \n\nAre you currently set up with a preferred hosting environment, or would you like me to provision a staging site for this build?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-10-16T08:59:19+0000",
+    "addedAt": "2026-10-16T09:01:29.265Z",
+    "url": "https://www.upwork.com/jobs/~022111019116848598115",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111019116848598115/apply/"
+  },
+  {
     "id": "2110987018507933101",
     "ciphertext": "~022110987018507933101",
     "title": "WordPress/Elementor Expert Needed to Convert HTML Website Into Modular, Reusable WordPress Site",
