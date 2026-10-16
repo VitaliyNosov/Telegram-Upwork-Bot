@@ -1,10 +1,10 @@
 {
   "date": "2026-10-16",
   "lastDigestSentDate": "2026-10-16",
-  "totalScanned": 64,
-  "matchedFilters": 14,
+  "totalScanned": 65,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022111134247860631153",
       "addedAt": "2026-10-16T16:43:04.205Z"
+    },
+    {
+      "title": "WordPress Developer for Law Firm Migration",
+      "budget": "$14-$28/hr",
+      "score": 2850,
+      "url": "https://www.upwork.com/jobs/~022111186142448418457",
+      "addedAt": "2026-10-16T20:07:05.785Z"
     },
     {
       "title": "WordPress Website for Mexican Restaurant",

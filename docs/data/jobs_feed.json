@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111186142448418457",
+    "ciphertext": "~022111186142448418457",
+    "title": "WordPress Developer for Law Firm Migration",
+    "description": "We need a WordPress developer to migrate an existing law firm website to a new platform and support legal tech integrations. The work includes rebuilding the site, preserving key functionality, and connecting tools like Docketwise and RingCentral. You should be comfortable handling website migration, custom development, and ensuring the final site is clean, functional, and ready for launch.\n\nJob Title: WordPress Developer Needed for Law Firm Site Migration & Legal Tech Integrations (Docketwise, RingCentral)\nJob Description:\nWe are a modern immigration law firm (The Danquah Law Group, LLC) migrating our current website over to WordPress. The basic pages and text copy are ready, but we need an experienced WordPress developer to handle the technical setup, hosting migration, and integrations with our legal software stack.\nKey Responsibilities:\n1. Domain & Migration Setup: Safely point our domain (danquahlaw.com) to our new WordPress hosting environment without interrupting our active Microsoft 365 firm emails.\n2. Software Integrations:\n\t• Embed the Docketwise Lead Intake Widget onto our contact and consultation pages.\n\t• Install and configure the RingCentral live click-to-text/chat widget on the site.\n\t• Connect our \"Schedule Consultation\" buttons to our Microsoft 365 Bookings calendar.\n3. Multi-Language Infrastructure: Install and configure a reliable translation plugin (like WPML, Polylang, or ConveyThis) so we can host English, Spanish, and French versions of our core pages. (We will provide the translated text).\n4. Responsive Design: Ensure the contact buttons and widgets are highly visible, fast, and optimized for mobile users.\nRequirements:\n• Proven experience building websites for professional services (legal or medical preferred).\n• Experience with API embeds and third-party communication widgets.\n• Fast communicator who can complete this project within [Insert your timeline, e.g., 1–2 weeks].\nPlease share 2–3 examples of WordPress sites you have built that feature multi-language setups or custom third-party form integrations.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 2850,
+    "coverLetter": "Hi The Danquah Law Group team! I can seamlessly handle your migration to WordPress and set up your legal tech stack without disrupting your Microsoft 365 emails. \n\nWith extensive experience in WordPress migrations, third-party widget integration, and multi-language setups using WPML, I will ensure your Docketwise lead intake, RingCentral click-to-text, and Microsoft 365 Bookings calendar are smoothly integrated and fully optimized for mobile. I also prioritize clean design and fast performance—crucial for legal service sites. \n\nFor a look at my work with complex functionality and multi-language capabilities, you can review https://www.seeintl.org/ from my portfolio. \n\nI can complete this migration within 1–2 weeks. Are you ready to get started, or would you like to discuss the hosting setup first?",
+    "publishedDateTime": "2026-10-16T20:05:44+0000",
+    "addedAt": "2026-10-16T20:07:09.195Z",
+    "url": "https://www.upwork.com/jobs/~022111186142448418457",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111186142448418457/apply/"
+  },
+  {
     "id": "2111159907710282643",
     "ciphertext": "~022111159907710282643",
     "title": "WordPress Website for Mexican Restaurant",
