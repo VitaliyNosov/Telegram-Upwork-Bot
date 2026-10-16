@@ -1,5 +1,40 @@
 [
   {
+    "id": "2111134247860631153",
+    "ciphertext": "~022111134247860631153",
+    "title": "Wordpress & Elementor Developer",
+    "description": "We’re looking for an experienced WordPress and Elementor developer to diagnose and fix several ongoing backend problems on our website. Right now the site is very slow, several plugins seem to be causing issues, and we’re unable to edit our pages using Elementor even though we recently moved the site over to it.\n\nWe need someone who can dig into the backend, find root causes, and leave us with a fast, stable website.\n\nPlease see the document for full details.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 37,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "bug-fixes",
+      "wordpress-plugin",
+      "wordpress",
+      "elementor",
+      "wordpress-website",
+      "web-programming",
+      "php",
+      "html",
+      "javascript",
+      "css"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can help you clean up the backend issues, resolve the plugin conflicts, and get your Elementor editor running smoothly again. \n\nI am a WordPress developer specializing in troubleshooting complex backend issues, plugin conflicts, and performance bottlenecks. Beyond fixing the immediate Elementor loading errors and fatal errors, I will perform a deep site audit to clean up unnecessary database bloat, optimize your Core Web Vitals, and ensure your site loads fast and stable following your recent migration. \n\nYou can check out some of my recent WordPress work here: https://www.seeintl.org/\n\nCould you share the document with the full details so I can take a quick look at the specific errors you're facing?",
+    "publishedDateTime": "2026-10-16T16:40:41+0000",
+    "addedAt": "2026-10-16T16:43:11.138Z",
+    "url": "https://www.upwork.com/jobs/~022111134247860631153",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111134247860631153/apply/"
+  },
+  {
     "id": "2111132640086649801",
     "ciphertext": "~022111132640086649801",
     "title": "Web Development for Real Estate Company",
