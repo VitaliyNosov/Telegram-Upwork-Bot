@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110958313402229307",
+    "ciphertext": "~022110958313402229307",
+    "title": "WordPress Website Security Recovery & Maintenance",
+    "description": "I own a legitimate handyman business website hosted on HostGator and am seeking an experienced WordPress specialist for authorized security remediation and website maintenance.\n\nThe website has experienced recurring security issues. Previous cleanup attempts temporarily resolved the problems, but suspicious PHP files and unauthorized blog posts have subsequently been detected.\nScope of Work:\n\nInspect WordPress files, plugins, themes, and database for unauthorized modifications.\n\nIdentify the likely source of recurring security issues.\n\nRemove unauthorized code, suspicious content, and unwanted WordPress posts while preserving legitimate business content.\n\nReview administrator accounts, file permissions, and relevant security configurations.\n\nApply appropriate WordPress security updates and hardening.\n\nRestore normal website functionality.\n\nProvide a brief report explaining the findings, corrective actions, and recommendations to prevent recurrence.\n\nThe WordPress administration dashboard is currently inaccessible. The specialist must be comfortable performing the initial investigation and recovery through HostGator cPanel, File Manager, phpMyAdmin, and secure server access.\n\nThe goal is to restore WordPress access, investigate the recurring security issues, remove unauthorized content and malicious code, and secure the website against further compromise.\n\nAll work is authorized by the website owner and is strictly limited to defensive maintenance and recovery.\nPreferred Experience: WordPress security remediation, PHP, malware cleanup, database inspection, and HostGator/cPanel hosting.\n\nPlease describe your experience resolving recurring WordPress security incidents and how you would approach this project.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "internet-security",
+      "php",
+      "virus-removal"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can help you permanently clean up your handyman business site, regain admin access via cPanel/phpMyAdmin, and stop these recurring hacks. \n\nWhen malware keeps returning, it usually means the root vulnerability—like an unpatched plugin, compromised database entry, or vulnerable file permission on the server—wasn't fully patched in previous cleanups. My approach is to audit the file system and database via cPanel and phpMyAdmin, scrub all malicious PHP scripts and spam posts, review admin accounts and server permissions, and harden your security against reinfection. I've successfully handled malware removal and hacked site recoveries for numerous WordPress platforms, ensuring legitimate content remains intact.\n\nOnce stabilized, I will provide a clear report on the root cause and recommendations to keep your HostGator environment secure. \n\nCould you share the URL of your site so I can take a quick look before we get started?",
+    "publishedDateTime": "2026-10-16T04:58:39+0000",
+    "addedAt": "2026-10-16T04:59:02.038Z",
+    "url": "https://www.upwork.com/jobs/~022110958313402229307",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110958313402229307/apply/"
+  },
+  {
     "id": "2110954206102838250",
     "ciphertext": "~022110954206102838250",
     "title": "WordPress Site Development for Pages and Application",
