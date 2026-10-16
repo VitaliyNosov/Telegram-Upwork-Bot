@@ -1,5 +1,47 @@
 [
   {
+    "id": "2111159907710282643",
+    "ciphertext": "~022111159907710282643",
+    "title": "WordPress Website for Mexican Restaurant",
+    "description": "We are looking for an experienced WordPress developer to create a professional, modern, mobile-friendly website for a Mexican restaurant. The site should include menu pages, online ordering integration, local SEO optimization, and fast loading speeds. The final website must be fully functional, secure, easy to manage, and optimized for Google search.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php",
+      "elementor",
+      "responsive-design",
+      "seo",
+      "html",
+      "css",
+      "mockup",
+      "landing-pages",
+      "website-optimization",
+      "google-analytics",
+      "google-search-console",
+      "graphic-design",
+      "adobe-illustrator",
+      "adobe-photoshop"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can build a fast, mobile-friendly WordPress website for your Mexican restaurant, tailored to showcase your menu and convert hungry visitors into online orders.\n\nI specialize in custom WordPress and Elementor builds with a heavy focus on speed optimization, local SEO setup, and intuitive user experiences. I can seamlessly integrate your preferred online ordering system—whether that's WooCommerce or a third-party platform like ChowNow or Toast—while making sure the backend is simple for your team to manage. Here is an example of my live WordPress work: https://waapple.org/\n\nI'll also handle security hardening, fast caching, and Google Search Console/Analytics setup from day one. Do you already have a preferred online ordering platform in mind, or are you looking for recommendations?",
+    "publishedDateTime": "2026-10-16T18:18:49+0000",
+    "addedAt": "2026-10-16T18:21:27.573Z",
+    "url": "https://www.upwork.com/jobs/~022111159907710282643",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111159907710282643/apply/"
+  },
+  {
     "id": "2111155989933114478",
     "ciphertext": "~022111155989933114478",
     "title": "Integrate BATS Form into Website",

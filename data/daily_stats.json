@@ -1,10 +1,10 @@
 {
   "date": "2026-10-16",
   "lastDigestSentDate": "2026-10-15",
-  "totalScanned": 57,
-  "matchedFilters": 13,
+  "totalScanned": 59,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022111134247860631153",
       "addedAt": "2026-10-16T16:43:04.205Z"
+    },
+    {
+      "title": "WordPress Website for Mexican Restaurant",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022111159907710282643",
+      "addedAt": "2026-10-16T18:21:11.733Z"
     },
     {
       "title": "UX/UI Designer and WordPress Developer",
