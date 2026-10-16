@@ -1,5 +1,37 @@
 [
   {
+    "id": "2111121338700620347",
+    "ciphertext": "~022111121338700620347",
+    "title": "UX/UI Designer and WordPress Developer",
+    "description": "Looking for someone strong in both UX/UI design and WordPress development to redesign and rebuild an established content and affiliate website\n\nThe full brand direction is already in place, including the visual identity, logos, colors, fonts and other brand assets. The right person should be able to take that direction, translate it into a beautiful website, and build it in WordPress.\n\nThe current site is built with Elementor, and part of the job is to move it off Elementor while preserving current URLs, SEO history, published content, affiliate links and anything already working.\n\nThe role includes both the visual design and the actual WordPress build, including reusable page templates and mobile.\n\nIf you only do design/Figma or only development, please don’t apply.\n\nTo apply, please include links to two WordPress sites you designed and built, and your price.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "elementor",
+      "seo-based-website",
+      "web-design",
+      "ui-design",
+      "user-experience-design",
+      "graphic-design"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! Here are two WordPress sites I both designed and built, moving them away from heavy page builders:\n- https://www.seeintl.org/\n- https://www.cchpca.org/\n\nMy rate for this project is $45/hour (or we can discuss a fixed price once we map out the exact page count). \n\nI specialize in both UX/UI execution and clean WordPress development. Since your brand guidelines are already locked in, I can translate them into sleek, high-performing page templates without relying on Elementor. My builds focus heavily on speed, mobile responsiveness, and SEO preservation—ensuring your existing URLs, content, and affiliate links migrate seamlessly with zero downtime or ranking loss. \n\nAre you looking to use Gutenberg with ACF for the new build, or do you have a preferred lightweight setup in mind? Let's chat!",
+    "publishedDateTime": "2026-10-16T15:45:29+0000",
+    "addedAt": "2026-10-16T15:47:16.814Z",
+    "url": "https://www.upwork.com/jobs/~022111121338700620347",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111121338700620347/apply/"
+  },
+  {
     "id": "2111081703414979562",
     "ciphertext": "~022111081703414979562",
     "title": "Website Design and Development",
