@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111081703414979562",
+    "ciphertext": "~022111081703414979562",
+    "title": "Website Design and Development",
+    "description": "Website Design and Development:\nBenchmark website, functionality and desgin https://www.kaufmanlawnyc.com/\nDynamic website in Spanish, English, and German with provided content. Design based on customer requirements, with unlimited revisions until fully satisfied. Free support for 6 months after launch, with hosting choice left to the customer. Training provided to help the customer edit and manage the site. The website must be fully responsive across desktop, smartphone, and tablet. Google Analytics integration is required.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "Switzerland",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "html5",
+      "php"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi!\n\nI can help you build a dynamic, multilingual website (English, Spanish, and German) modeled after your benchmark site, complete with full responsiveness, Google Analytics integration, and user training so you can easily manage your content. \n\nWith extensive experience in WordPress development, custom multilingual setups (using WPML), and responsive design, I ensure clean code and seamless navigation across all devices. For multilingual projects, I carefully structure content architecture so managing translations and localized updates is completely straightforward for your team.\n\nYou can view a sample of my work on multilingual and high-impact websites here: https://www.thelifeyoucansave.org/\n\nI also provide 6 months of free post-launch support and unlimited design revisions to ensure you are 100% satisfied with the final result. \n\nWhen are you looking to kick this off? Let’s chat about your design requirements and timeline.",
+    "publishedDateTime": "2026-10-16T13:10:06+0000",
+    "addedAt": "2026-10-16T13:11:17.840Z",
+    "url": "https://www.upwork.com/jobs/~022111081703414979562",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111081703414979562/apply/"
+  },
+  {
     "id": "2111044113076868525",
     "ciphertext": "~022111044113076868525",
     "title": "WordPress Website for Calendar App",
