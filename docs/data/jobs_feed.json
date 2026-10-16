@@ -1,5 +1,34 @@
 [
   {
+    "id": "2110954206102838250",
+    "ciphertext": "~022110954206102838250",
+    "title": "WordPress Site Development for Pages and Application",
+    "description": "I need a developer to build a WordPress site with a home page, about page, services page, insights page for blog and podcast videos, and an application page with a detailed form. The project should include clean page layouts, smooth navigation, and a user-friendly experience across devices. I’m looking for someone who can create a polished site structure and ensure the application process is easy to complete and submit.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you build a clean, high-performing WordPress site that features the exact structure you need, including the home, about, services, insights blog/podcast hub, and a user-friendly multi-step application form. \n\nWith extensive experience in custom WordPress development, I focus on building intuitive page layouts, smooth navigation, and fully responsive designs optimized for performance and conversion. I frequently build sites using Advanced Custom Fields (ACF) and Gutenberg/page builders to ensure the backend is just as easy for you to manage as the frontend is for your users to navigate. You can see an example of my recent work at https://www.thelifeyoucansave.org/.\n\nAre you planning to use a specific plugin or CRM for the detailed application form submissions, or would you like a recommendation? Let’s chat to go over the details.",
+    "publishedDateTime": "2026-10-16T04:41:19+0000",
+    "addedAt": "2026-10-16T04:43:04.944Z",
+    "url": "https://www.upwork.com/jobs/~022110954206102838250",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110954206102838250/apply/"
+  },
+  {
     "id": "2110915631976113436",
     "ciphertext": "~022110915631976113436",
     "title": "Senior WordPress Elementor Designer and Developer (30 Page Website, Ongoing Agency Work)",
