@@ -1,10 +1,10 @@
 {
   "date": "2026-10-16",
   "lastDigestSentDate": "2026-10-15",
-  "totalScanned": 34,
-  "matchedFilters": 6,
+  "totalScanned": 36,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -41,6 +41,20 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022111019116848598115",
       "addedAt": "2026-10-16T09:01:23.571Z"
+    },
+    {
+      "title": "Website ecomerce polish or redesing",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022111044408168654228",
+      "addedAt": "2026-10-16T10:41:10.857Z"
+    },
+    {
+      "title": "WordPress Website for Calendar App",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022111044113076868525",
+      "addedAt": "2026-10-16T10:41:15.515Z"
     },
     {
       "title": "WordPress Website Security Recovery & Maintenance",

@@ -1,5 +1,68 @@
 [
   {
+    "id": "2111044113076868525",
+    "ciphertext": "~022111044113076868525",
+    "title": "WordPress Website for Calendar App",
+    "description": "I need a developer to build a responsive, mobile-friendly Wordpress website for a calendar app relaunch. The site should include a homepage, about page, features page, pricing page, contact page, and blog page with a clean, modern design. You will also set up a contact form and ensure the site is easy to navigate. The project should be completed in under 15 days, with clear communication and timely updates throughout the development process.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 40,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "html5",
+      "web-programming",
+      "avada-theme-customization",
+      "web-design",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can certainly help you build a clean, modern, and mobile-responsive website for your calendar app relaunch within your 15-day timeline.\n\nMy expertise lies in developing custom WordPress sites that prioritize both aesthetics and performance. I am highly comfortable working with various page builders and themes, including Avada, to ensure the site is easy for you to manage while looking professional. I’ve previously built high-impact sites like https://www.thelifeyoucansave.org/ and have a strong background in implementing functional contact forms, pricing tables, and blog layouts that convert.\n\nI focus on clean code and clear communication, so you’ll receive regular updates throughout the development process to ensure we meet your launch deadline. Do you already have the designs ready, or would you like me to suggest a layout?",
+    "publishedDateTime": "2026-10-16T10:39:34+0000",
+    "addedAt": "2026-10-16T10:41:26.294Z",
+    "url": "https://www.upwork.com/jobs/~022111044113076868525",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111044113076868525/apply/"
+  },
+  {
+    "id": "2111044408168654228",
+    "ciphertext": "~022111044408168654228",
+    "title": "Website ecomerce polish or redesing",
+    "description": "I have an e-commerce website hosted on Hostinger that is about 95% complete; I designed it myself to meet specific logistical requirements for my brand. However, I’d really like to polish it, give it a professional look, and ensure it functions perfectly. We could continue working on the current platform provided. if can handle my requirements or move it to a different platform like WordPress or Shopify. We are a new company, so this project is subject to a somewhat limited budget. Englis and Spanish Native speaker. prefer.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "custom-ecommerce-platform",
+      "stripe",
+      "paypal",
+      "web-programming",
+      "web-design",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "¡Hola! I’d love to help you polish your e-commerce site on Hostinger or transition it to WordPress/Shopify, depending on what makes the most sense for your logistical needs and budget. As a bilingual (English/Spanish) WordPress and WooCommerce expert, I regularly help brands take their 95% finished sites across the finish line with a professional design and flawless checkout functionality. \n\nSince you built it yourself to meet specific requirements, we can definitely stick with your current setup and refine the UI, speed, and Stripe/PayPal integrations, or move it to a robust platform like WooCommerce. You can see an example of my work with complex layouts and e-commerce functionality here: https://waapple.org/\n\nWhat specific logistical features or checkout elements are currently giving you trouble? Let’s jump on a quick chat to discuss how we can get your store ready for launch within your budget.",
+    "publishedDateTime": "2026-10-16T10:40:29+0000",
+    "addedAt": "2026-10-16T10:41:15.083Z",
+    "url": "https://www.upwork.com/jobs/~022111044408168654228",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111044408168654228/apply/"
+  },
+  {
     "id": "2111019116848598115",
     "ciphertext": "~022111019116848598115",
     "title": "WordPress Website for Calendar App",
