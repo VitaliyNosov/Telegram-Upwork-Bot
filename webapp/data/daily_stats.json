@@ -1,8 +1,18 @@
 {
   "date": "2026-10-17",
   "lastDigestSentDate": "2026-10-16",
-  "totalScanned": 3,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 4,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Modern Sleek Website Development",
+      "budget": "$6-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022111210784209656598",
+      "addedAt": "2026-10-16T21:43:02.156Z"
+    }
+  ]
 }

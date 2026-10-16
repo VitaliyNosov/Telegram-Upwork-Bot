@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111210784209656598",
+    "ciphertext": "~022111210784209656598",
+    "title": "Modern Sleek Website Development",
+    "description": "We’re looking for a developer to build a modern, sleek website for a new business. The project includes creating a clean homepage, a services page, a contact page, and a blog section. The site should be responsive, easy to navigate, and optimized for fast performance. You’ll also help set up the site for future updates and ensure it looks polished across desktop and mobile. Please share examples of similar projects and your approach to delivering a professional, user-friendly website.",
+    "isHourly": true,
+    "hourlyBudgetMin": 6,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$6 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 66,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "html5",
+      "wordpress"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi!\n\nI’d love to help you build a modern, sleek, and high-performing website for your new business. \n\nI specialize in custom WordPress development focused on clean code, responsive layouts, and fast loading speeds—ensuring your homepage, services page, contact page, and blog look polished and run smoothly on both desktop and mobile. I also build with future-proofing in mind, setting up intuitive content management so you can easily handle updates down the road. \n\nFor a look at my recent work with clean layouts and great performance, you can check out https://www.seeintl.org/. \n\nWhat is your preferred design tool (Figma, XD, or a page builder), or do you already have designs ready to go?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-10-16T21:40:55+0000",
+    "addedAt": "2026-10-16T21:43:03.965Z",
+    "url": "https://www.upwork.com/jobs/~022111210784209656598",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111210784209656598/apply/"
+  },
+  {
     "id": "2111186142448418457",
     "ciphertext": "~022111186142448418457",
     "title": "WordPress Developer for Law Firm Migration",
