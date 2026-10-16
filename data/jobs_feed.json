@@ -1,5 +1,37 @@
 [
   {
+    "id": "2110987018507933101",
+    "ciphertext": "~022110987018507933101",
+    "title": "WordPress/Elementor Expert Needed to Convert HTML Website Into Modular, Reusable WordPress Site",
+    "description": "We're looking for an experienced WordPress and Elementor developer to convert an existing, fully designed HTML website into a professional, responsive, and easily manageable WordPress website.\n\nThe website has already been designed and generated using AI tools. We will provide the existing source files, including the HTML, CSS, JavaScript, and available design assets.\n\nWe do not need a new design. We need an experienced developer who can accurately reproduce the existing website in WordPress while building a clean, modular system that makes future updates and landing page creation easy.\n\nScope of Work\n\n1. HTML to WordPress Conversion\n\nConvert the supplied HTML/CSS/JavaScript website into WordPress using Elementor.\n\nMaintain the visual design, typography, spacing, layout, animations, and interactive elements.\n\nEnsure the website works beautifully across desktop, tablet, and mobile.\n\nPreserve the intended user experience and functionality.\n\n2. Modular and Reusable Architecture\n\nThis is one of our most important requirements.\n\nWe want a website built with reusable Elementor components so our internal team can easily create new pages without requiring custom development.\n\nThis includes:\n\nReusable sections and blocks for landing pages.\n\nGlobal design settings for typography, colors, buttons, and other shared elements.\n\nReusable headers, footers, CTAs, forms, and content sections.\n\nPage templates for commonly used layouts.\n\nA structured component library within Elementor.\n\nConsistent styling and design standards across pages.\n\nFor example, we should be able to create a new landing page by combining existing hero sections, content blocks, testimonials, CTAs, and forms without rebuilding them from scratch.\n\n3. Performance and Technical Quality\n\nOptimize the site for loading speed and mobile performance.\n\nUse clean, maintainable code and avoid unnecessary plugins.\n\nEnsure proper responsive behavior across common devices and browsers.\n\nImplement basic technical SEO best practices.\n\nMaintain accessibility best practices.\n\nEnsure animations and interactive components perform smoothly.\n\n4. CMS and Content Management\n\nMake website text, images, buttons, and standard page sections editable through Elementor.\n\nSet up appropriate templates and content structures.\n\nEnsure our team can add, remove, duplicate, and rearrange sections easily.\n\nMinimize reliance on custom code for everyday content changes.\n\n5. Testing and Handoff\n\nBuild and test the site in a staging environment.\n\nPerform desktop, tablet, and mobile QA.\n\nResolve bugs and visual inconsistencies before launch.\n\nProvide a short walkthrough or recorded tutorial showing how to use the reusable components and build new landing pages.\n\nDeliver the completed WordPress website, templates, and any custom code with full administrative access.\n\nIdeal Candidate\n\nWe're looking for someone who:\n\nHas extensive experience with WordPress and Elementor / Elementor Pro.\n\nHas successfully converted custom HTML websites into Elementor.\n\nUnderstands modular web development and reusable component systems.\n\nHas a strong eye for design and can reproduce an existing website accurately.\n\nCan work with custom CSS, JavaScript, and animations when needed.\n\nPrioritizes clean architecture, website performance, and long-term maintainability.\n\nCommunicates clearly and works independently.\n\nWhat We'll Provide\n\nExisting website source files.\n\nAll available design assets.\n\nVisual references of the approved website.\n\nAccess to our WordPress hosting or staging environment.\n\nFeedback and guidance during development.\n\nDeliverables\n\nFully functional WordPress website built with Elementor.\n\nAccurate reproduction of the provided website design.\n\nReusable Elementor section and page templates.\n\nGlobal design settings and reusable components.\n\nFully responsive layouts.\n\nOptimized website performance.\n\nCompleted QA and bug fixes.\n\nDocumentation or video walkthrough for our team.\n\nHow to Apply\n\nPlease include:\n\nExamples of at least two custom Elementor websites you've developed. We'd especially like to see examples where you converted an existing design or HTML website into WordPress.\n\nA brief explanation of how you would approach building reusable sections and templates.\n\nYour experience working with custom HTML, CSS, JavaScript, and animations in Elementor.\n\nYour estimated timeline and fixed-price quote.\n\nWhether you'll be completing the development yourself or working with a team.\n\nImportant: We are not looking for someone who will simply embed entire HTML pages into WordPress using custom HTML widgets. The finished website must be genuinely editable, modular, and manageable through Elementor.\n\nWe have additional website projects coming up and would love to establish an ongoing relationship with a reliable developer.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 219,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "css",
+      "elementor",
+      "php",
+      "html",
+      "html5"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can certainly convert your HTML design into a high-performance, modular Elementor system that empowers your team to build pages without touching code.\n\nI specialize in building custom Elementor architectures, ensuring that global styles, typography, and reusable blocks are perfectly synced. Instead of embedding static HTML, I map your design assets directly into Elementor’s theme builder, creating a truly dynamic component library. For instance, I recently developed a complex, high-traffic site at https://www.thelifeyoucansave.org/ using this exact modular approach to ensure long-term maintainability.\n\nI am a solo developer, which ensures consistent communication and code quality throughout the project. I’m comfortable handling the custom CSS and JavaScript required to mirror your animations exactly.\n\nCould you share the HTML files or a link to the current design so I can provide an accurate timeline and quote?",
+    "publishedDateTime": "2026-10-16T06:51:49+0000",
+    "addedAt": "2026-10-16T06:53:03.711Z",
+    "url": "https://www.upwork.com/jobs/~022110987018507933101",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022110987018507933101/apply/"
+  },
+  {
     "id": "2110958313402229307",
     "ciphertext": "~022110958313402229307",
     "title": "WordPress Website Security Recovery & Maintenance",

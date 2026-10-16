@@ -1,10 +1,10 @@
 {
   "date": "2026-10-16",
   "lastDigestSentDate": "2026-10-15",
-  "totalScanned": 24,
-  "matchedFilters": 4,
+  "totalScanned": 25,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022110954206102838250",
       "addedAt": "2026-10-16T04:43:03.750Z"
+    },
+    {
+      "title": "WordPress/Elementor Expert Needed to Convert HTML Website Into Modular, Reusable WordPress Site",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022110987018507933101",
+      "addedAt": "2026-10-16T06:53:02.356Z"
     },
     {
       "title": "WordPress Website Security Recovery & Maintenance",
