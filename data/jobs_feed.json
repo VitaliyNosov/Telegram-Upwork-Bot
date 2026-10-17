@@ -1,5 +1,33 @@
 [
   {
+    "id": "2111489183877205601",
+    "ciphertext": "~022111489183877205601",
+    "title": "WordPress Elementor Website Support and Maintenance",
+    "description": "WordPress & Elementor Website Cleanup and Maintenance\n\nWe are looking for a WordPress specialist to clean up malware and audit, optimize, and update our website’s plugins.\n\nMilestone 1 — Malware Cleanup ($500)\n- Remove malware and verify the cleanup.\n- Investigate and fix the entry point.\n- Update vulnerable components as needed.\n- Provide security recommendations and follow-up checks.\n- Include 30 days of free remediation if the same infection returns due to the original compromise or an unresolved cleanup issue. New, unrelated infections are excluded.\n\nMilestone 2 — Plugin Audit, Optimization, and Updates ($200)\n- Audit, optimize, and update website plugins.\n\nTotal fixed budget: $700.\n\nPlease provide progress updates. Any paid software or subscriptions require prior approval.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you secure your Elementor site, clean up the malware, and safely audit your plugins without breaking your layouts. \n\nAs a WordPress security and maintenance specialist, I handle malware removal, vulnerability patching, and entry-point investigations daily. For Milestone 1, I will completely remove the infection, close the backdoor, and provide the 30-day guarantee you requested. For Milestone 2, I’ll audit your plugins to remove bloat, resolve any conflicts, and run safe updates. \n\nYou can check out one of my recent WordPress builds here: https://www.seeintl.org/\n\nCould you share temporary admin and hosting access so I can run an initial scan and get started?",
+    "publishedDateTime": "2026-10-17T16:12:06+0000",
+    "addedAt": "2026-10-17T16:13:00.579Z",
+    "url": "https://www.upwork.com/jobs/~022111489183877205601",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111489183877205601/apply/"
+  },
+  {
     "id": "2111477230915218773",
     "ciphertext": "~022111477230915218773",
     "title": "Website Optimization and Functionality Update",

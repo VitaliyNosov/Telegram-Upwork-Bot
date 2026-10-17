@@ -1,10 +1,10 @@
 {
   "date": "2026-10-17",
   "lastDigestSentDate": "2026-10-16",
-  "totalScanned": 31,
-  "matchedFilters": 4,
+  "totalScanned": 32,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022111302374622124822",
       "addedAt": "2026-10-17T03:46:59.450Z"
+    },
+    {
+      "title": "WordPress Elementor Website Support and Maintenance",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022111489183877205601",
+      "addedAt": "2026-10-17T16:12:59.230Z"
     },
     {
       "title": "Website Optimization and Functionality Update",
