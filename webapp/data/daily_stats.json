@@ -1,10 +1,10 @@
 {
   "date": "2026-10-17",
   "lastDigestSentDate": "2026-10-16",
-  "totalScanned": 11,
-  "matchedFilters": 1,
+  "totalScanned": 12,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022111210784209656598",
       "addedAt": "2026-10-16T21:43:02.156Z"
+    },
+    {
+      "title": "Web Developer for Website Redesign",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022111290225610648917",
+      "addedAt": "2026-10-17T02:59:01.227Z"
     }
   ]
 }

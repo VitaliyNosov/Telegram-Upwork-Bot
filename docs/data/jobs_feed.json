@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111290225610648917",
+    "ciphertext": "~022111290225610648917",
+    "title": "Web Developer for Website Redesign",
+    "description": "Looking for a web developer available now to redesign our website and clearly showcase the services we provide. The project includes setting up multiple service pages and adding an online payment option for customers. We need someone who can work quickly, communicate clearly, and deliver a polished, user-friendly website that reflects our business offerings.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! \n\nI can help you redesign your website to clearly showcase your services and set up a seamless online payment option for your customers. \n\nAs a WordPress developer with extensive experience building custom sites, Gutenberg blocks, and WooCommerce checkout integrations, I specialize in creating polished, conversion-focused websites that clearly communicate a business's core offerings. For example, I recently developed the site for [The Life You Can Save](https://www.thelifeyoucansave.org/), focusing on clean user experience and clear content layout.\n\nI am available to start immediately, work quickly, and ensure clear communication throughout the project. \n\nWhat payment gateway (e.g., Stripe, PayPal) are you planning to integrate for your online payments? Let's chat about your vision and get started!",
+    "publishedDateTime": "2026-10-17T02:56:38+0000",
+    "addedAt": "2026-10-17T02:59:02.063Z",
+    "url": "https://www.upwork.com/jobs/~022111290225610648917",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111290225610648917/apply/"
+  },
+  {
     "id": "2111210784209656598",
     "ciphertext": "~022111210784209656598",
     "title": "Modern Sleek Website Development",
