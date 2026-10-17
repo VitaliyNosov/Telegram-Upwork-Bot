@@ -1,5 +1,33 @@
 [
   {
+    "id": "2111566117416030955",
+    "ciphertext": "~022111566117416030955",
+    "title": "Fix a simple WooCommerce  Webstore",
+    "description": "I have our Free Library webstore.  https://caregiverscommunity.ca/web-store/ The product edit page displays only the full description and the detailed description. The product data is visible in the quick edit function, but not in the edit function.  I need help fixing this.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$10 - $27/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 45,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 2848,
+    "coverLetter": "Hi!\n\nI can help you fix the product editing issue on your WooCommerce store right away. This kind of backend screen glitch—where product data vanishes in the full editor while remaining visible in quick edit—is usually caused by a plugin conflict, a recent update error, or a missing metabox configuration. \n\nWith extensive experience debugging WordPress and WooCommerce backend issues, I know exactly where to look to resolve this quickly without disrupting your store. You can see examples of my recent WordPress work at https://www.thelifeyoucansave.org/.\n\nAre you available to chat briefly so I can take a quick look under the hood and get this fixed for you today?",
+    "publishedDateTime": "2026-10-17T21:12:53+0000",
+    "addedAt": "2026-10-17T21:15:02.158Z",
+    "url": "https://www.upwork.com/jobs/~022111566117416030955",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111566117416030955/apply/"
+  },
+  {
     "id": "2111540242540695137",
     "ciphertext": "~022111540242540695137",
     "title": "Build IDX Website in Lofty",

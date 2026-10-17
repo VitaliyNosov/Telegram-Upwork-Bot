@@ -1,8 +1,18 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Fix a simple WooCommerce  Webstore",
+      "budget": "$10-$27/hr",
+      "score": 2848,
+      "url": "https://www.upwork.com/jobs/~022111566117416030955",
+      "addedAt": "2026-10-17T21:15:00.635Z"
+    }
+  ]
 }
