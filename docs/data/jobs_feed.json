@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111302374622124822",
+    "ciphertext": "~022111302374622124822",
+    "title": "WooCommerce Consultant – Merchant Payment Integration Consulting",
+    "description": "Seeking an experienced WooCommerce consultant who works with multiple ecommerce merchants, particularly in specialized sectors such as peptides, supplements, and CBD.\n\nWe are looking for a paid consultation covering merchant checkout needs, payment integration challenges, and potential implementation opportunities for an existing WooCommerce payment solution.\n\nExperience managing multiple WooCommerce client websites is strongly preferred. No software development is required for the initial engagement.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "php",
+      "wp-ecommerce"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nI’ve managed numerous WooCommerce client sites and regularly consult on merchant checkout workflows and complex payment gateway integrations—including high-risk or specialized sectors like supplements where standard processors often present hurdles. \n\nMy background covers deep troubleshooting of WooCommerce payment and shipping issues, API setups (like Stripe and PayPal), and optimizing checkout funnels for multi-merchant environments. I understand the specific compliance, gateway, and transaction hurdles these sectors face.\n\nSince this initial engagement focuses purely on strategy and consulting without requiring code changes, I can help you immediately audit your current setup and map out the right integration path.\n\nWhen are you looking to schedule the initial consultation?",
+    "publishedDateTime": "2026-10-17T03:45:50+0000",
+    "addedAt": "2026-10-17T03:47:00.429Z",
+    "url": "https://www.upwork.com/jobs/~022111302374622124822",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111302374622124822/apply/"
+  },
+  {
     "id": "2111290225610648917",
     "ciphertext": "~022111290225610648917",
     "title": "Web Developer for Website Redesign",
