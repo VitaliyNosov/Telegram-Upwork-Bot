@@ -1,5 +1,40 @@
 [
   {
+    "id": "2111522194731601505",
+    "ciphertext": "~022111522194731601505",
+    "title": "Dedicated WordPress Website Developer Needed for Ongoing Project",
+    "description": "We are looking for a skilled and reliable WordPress Website Developer to help us develop, maintain, and improve our website on an ongoing basis. The ideal candidate should have strong WordPress development skills, an eye for detail, and the ability to deliver high-quality work on time.\n\nThis is a long-term opportunity for someone who is proactive, communicates well, and can work with us as our website and business continue to grow.\nResponsibilities\n\n    Develop, customize, and maintain WordPress websites.\n    Customize WordPress themes and plugins based on project requirements.\n    Create responsive, mobile-friendly, and user-friendly website pages.\n    Fix bugs, troubleshoot technical issues, and improve website performance.\n    Optimize website speed, security, and SEO fundamentals.\n    Integrate third-party tools, APIs, and plugins when needed.\n    Ensure cross-browser compatibility and a consistent user experience.\n    Provide ongoing updates, improvements, and technical support.\n\nRequirements\n\n    Proven experience with WordPress website development.\n    Strong knowledge of PHP, HTML, CSS, and JavaScript.\n    Experience with popular page builders such as Elementor, Divi, or Gutenberg.\n    Familiarity with WordPress themes, plugins, and database management.\n    Understanding of responsive design, website speed optimization, and basic SEO.\n    Ability to troubleshoot issues and find effective solutions independently.\n    Strong attention to detail and commitment to quality.\n    Good communication skills and the ability to meet deadlines.\n\nNice to Have\n\n    Experience with WooCommerce.\n    Knowledge of custom post types and advanced custom fields (ACF).\n    Experience with website migrations, backups, and security improvements.\n    Familiarity with Git, staging environments, and website hosting platforms.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "html",
+      "woocommerce",
+      "web-programming",
+      "php",
+      "css",
+      "javascript",
+      "html5",
+      "mysql"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nI’m a professional WordPress developer with strong expertise in PHP, JavaScript, MySQL, and custom theme/plugin development—making me a great fit for your ongoing website needs. \n\nOver the years, I’ve helped numerous organizations build, maintain, and scale their WordPress platforms with a strong focus on clean code, speed optimization, and responsive design. For instance, I developed and maintained robust WordPress sites like https://www.snopud.com/ and https://waapple.org/, ensuring high performance and seamless user experiences. \n\nWhether you need ongoing feature development, custom Gutenberg or page builder layouts, performance tuning, or proactive bug fixing, I work reliably and communicate clearly to keep your site running at its best. \n\nAre you looking for help with a specific set of updates to start with, or would you like to discuss how we can structure our long-term collaboration?",
+    "publishedDateTime": "2026-10-17T21:18:17+0000",
+    "addedAt": "2026-10-17T21:18:59.824Z",
+    "url": "https://www.upwork.com/jobs/~022111522194731601505",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111522194731601505/apply/"
+  },
+  {
     "id": "2111566117416030955",
     "ciphertext": "~022111566117416030955",
     "title": "Fix a simple WooCommerce  Webstore",
