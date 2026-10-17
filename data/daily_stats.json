@@ -1,10 +1,10 @@
 {
   "date": "2026-10-17",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 34,
-  "matchedFilters": 6,
+  "totalScanned": 35,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022111523095794515609",
       "addedAt": "2026-10-17T18:23:00.673Z"
+    },
+    {
+      "title": "Build IDX Website in Lofty",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022111540242540695137",
+      "addedAt": "2026-10-17T19:33:02.258Z"
     },
     {
       "title": "Website Optimization and Functionality Update",
