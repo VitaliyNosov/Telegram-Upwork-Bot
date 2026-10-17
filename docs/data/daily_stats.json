@@ -1,60 +1,8 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 36,
-  "matchedFilters": 7,
-  "byKeyword": {
-    "wordpress developer": 7
-  },
-  "topJobs": [
-    {
-      "title": "Modern Sleek Website Development",
-      "budget": "$6-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022111210784209656598",
-      "addedAt": "2026-10-16T21:43:02.156Z"
-    },
-    {
-      "title": "Web Developer for Website Redesign",
-      "budget": "$15-$30/hr",
-      "score": 3000,
-      "url": "https://www.upwork.com/jobs/~022111290225610648917",
-      "addedAt": "2026-10-17T02:59:01.227Z"
-    },
-    {
-      "title": "WooCommerce Consultant – Merchant Payment Integration Consulting",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022111302374622124822",
-      "addedAt": "2026-10-17T03:46:59.450Z"
-    },
-    {
-      "title": "WordPress Elementor Website Support and Maintenance",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022111489183877205601",
-      "addedAt": "2026-10-17T16:12:59.230Z"
-    },
-    {
-      "title": "Professional Website & Blog Designer",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022111523095794515609",
-      "addedAt": "2026-10-17T18:23:00.673Z"
-    },
-    {
-      "title": "Build IDX Website in Lofty",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022111540242540695137",
-      "addedAt": "2026-10-17T19:33:02.258Z"
-    },
-    {
-      "title": "Website Optimization and Functionality Update",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022111477230915218773",
-      "addedAt": "2026-10-17T15:21:00.453Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
