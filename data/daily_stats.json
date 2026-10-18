@@ -1,10 +1,10 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 45,
-  "matchedFilters": 12,
+  "totalScanned": 46,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022111864637100856412",
       "addedAt": "2026-10-18T17:01:03.347Z"
+    },
+    {
+      "title": "WordPress/WooCommerce Developer for Ongoing Retainer – Start with Paid Speed/LCP Fix",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022111891557189726089",
+      "addedAt": "2026-10-18T18:46:58.529Z"
     },
     {
       "title": "WordPress & SEO Specialist for Event Staffing Agency — Ongoing Opportunity",

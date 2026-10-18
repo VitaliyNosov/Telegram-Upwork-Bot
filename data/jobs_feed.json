@@ -1,5 +1,29 @@
 [
   {
+    "id": "2111891557189726089",
+    "ciphertext": "~022111891557189726089",
+    "title": "WordPress/WooCommerce Developer for Ongoing Retainer – Start with Paid Speed/LCP Fix",
+    "description": "We're a marketing agency looking for a WordPress + WooCommerce developer (solo or small team) to handle ongoing technical work on an established eCommerce site for a food brand. The site sells products through WooCommerce and has a large recipes section that drives a lot of organic traffic.\n\nHOW THIS STARTS\nA paid trial task. If it goes well, we move to a monthly retainer of up to $500/month for ongoing development, speed, and maintenance work. The budget shown is our monthly retainer cap; please quote your own fixed price for the trial task.\n\nTRIAL TASK: Improve page load speed and LCP on the recipes section\nRecipe pages and the recipe archive load slowly and have poor Largest Contentful Paint, especially on mobile. The site runs WordPress + WooCommerce with a page builder and caching/optimization plugins already in place.\n\nWhat we want from you:\n1. A short written diagnosis of what's causing the slow LCP (hero images, render-blocking CSS/JS, fonts, plugin bloat, server response time, etc.).\n2. The fixes, done on staging first, then pushed live with our sign-off.\n3. Before/after PageSpeed Insights / Lighthouse numbers (mobile and desktop) on a few representative recipe URLs.\n\nDefinition of done for the trial:\n- Written diagnosis delivered and reviewed with us\n- Fixes deployed to staging, approved, then deployed live\n- Measurable LCP improvement on the agreed recipe URLs, aiming for a passing or near-passing Core Web Vitals result on mobile\n- No broken layouts, recipe schema, cart/checkout, or other store functionality\n- A short summary of every change made (plugins, settings, code) so we can maintain it\n\nONGOING RETAINER (after the trial)\n- Speed and Core Web Vitals upkeep across the site\n- Plugin, theme, and WooCommerce updates and conflict fixes\n- Small template and page builds, layout fixes\n- Technical SEO support (redirects, schema, indexing issues)\n- A few hours a month of responsive, reliable dev help\n\nWHAT WE'RE LOOKING FOR\n- Proven WordPress + WooCommerce experience (Elementor a plus)\n- Real Core Web Vitals work you can point to, ideally with before/after scores\n- You work on staging and never make risky changes to a live store without telling us\n- Clear communication and good judgment about what's worth fixing and what isn't\n\nTO APPLY\nPlease answer the screening questions, including your fixed price for the trial task and how many hours you expect it to take.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 90,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 149,
+    "coverLetter": "Hi! I’d love to tackle your trial task and help you lock down that ongoing retainer. Fixing slow LCP on high-traffic recipe archives and WooCommerce stores is right in my wheelhouse. \n\nFor the trial task, my fixed price is $150, and I expect it to take about 3 to 4 hours. \n\nWith deep experience in WordPress speed optimization, Core Web Vitals, and WooCommerce, I frequently diagnose and resolve mobile LCP bottlenecks caused by hero images, heavy page builders, and render-blocking assets. I always work strictly on a staging environment, run thorough before/after Lighthouse audits, and preserve all critical schema and checkout functionality. You can see examples of my performance and development work on complex sites like https://waapple.org/.\n\nReady to get started? Let’s connect in chat to discuss the staging access and timeline.",
+    "publishedDateTime": "2026-10-18T18:46:04+0000",
+    "addedAt": "2026-10-18T18:46:59.867Z",
+    "url": "https://www.upwork.com/jobs/~022111891557189726089",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111891557189726089/apply/"
+  },
+  {
     "id": "2111888943267682895",
     "ciphertext": "~022111888943267682895",
     "title": "WordPress Developer for Navigation & Ad Fixes",
