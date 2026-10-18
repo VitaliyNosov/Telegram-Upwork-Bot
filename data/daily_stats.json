@@ -1,10 +1,10 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 42,
-  "matchedFilters": 10,
+  "totalScanned": 43,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 2848,
       "url": "https://www.upwork.com/jobs/~022111566117416030955",
       "addedAt": "2026-10-17T21:15:00.635Z"
+    },
+    {
+      "title": "Custom WordPress Theme from HTML",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022111864637100856412",
+      "addedAt": "2026-10-18T17:01:03.347Z"
     },
     {
       "title": "WordPress & SEO Specialist for Event Staffing Agency — Ongoing Opportunity",

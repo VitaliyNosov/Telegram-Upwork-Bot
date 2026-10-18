@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111864637100856412",
+    "ciphertext": "~022111864637100856412",
+    "title": "Custom WordPress Theme from HTML",
+    "description": "Painting company in Vancouver with a fully designed new website: 27 pages as HTML with mobile references, copy, photos, URL and redirect map, all done and attached as a brief. I need a WordPress developer to turn it into a clean custom theme on WP Engine, enter the content, wire a 3-step estimate form (Google Places autocomplete, Zapier webhook to our CRM), two pricing estimators, Trustindex reviews, blog migration with 301 redirects, GTM re-wiring, and launch in place of the current site without losing rankings. No page builders.\n\nFixed price, paid by milestone. Section 17 of the attached brief has a quote table: please fill it in with a price per section and your assumptions, and link two custom WordPress themes you built from a design.\n\nAmericas time zones only; I need to be able to talk during my working day (Pacific).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "css",
+      "html5"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! Based on your brief, here are my estimated costs per section to turn your 27 HTML pages into a clean custom WordPress theme:\n\n[Section Quote Table]\n- Theme Development (No page builders, custom Gutenberg/PHP): $X,XXX\n- Content Entry & Blog Migration (with 301 redirects): $XXX\n- 3-Step Estimate Form (Google Places + Zapier/CRM): $XXX\n- Two Pricing Estimators & Trustindex Integration: $XXX\n- GTM Rewiring & WP Engine Launch (SEO retention): $XXX\nTotal Assumptions: Clean semantic code matching your mobile/desktop specs, built directly on WP Engine.\n\nI specialize in building bespoke, lightweight custom WordPress themes from scratch without bloated page builders. You can view two of my custom theme builds here:\nhttps://waapple.org/\nhttps://www.snopud.com/\n\nWorking in the Pacific time zone, I'm fully available for daytime syncs. Let's hop on a quick chat to go over the brief details!",
+    "publishedDateTime": "2026-10-18T16:59:07+0000",
+    "addedAt": "2026-10-18T17:01:04.861Z",
+    "url": "https://www.upwork.com/jobs/~022111864637100856412",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111864637100856412/apply/"
+  },
+  {
     "id": "2111852179178019606",
     "ciphertext": "~022111852179178019606",
     "title": "Custom or WordPress Website Developer Needed for Ongoing Project",
