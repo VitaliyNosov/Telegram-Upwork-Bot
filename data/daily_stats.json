@@ -1,10 +1,10 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 32,
-  "matchedFilters": 7,
+  "totalScanned": 33,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022111743760956605615",
       "addedAt": "2026-10-18T09:01:02.115Z"
+    },
+    {
+      "title": "WordPress IT Specialist / Developer for Ongoing Site Maintenance & Custom Plugin Fixes",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022111820050826541387",
+      "addedAt": "2026-10-18T14:03:02.290Z"
     },
     {
       "title": "Full-Stack Developer & SEO/SEM Automation Specialist — Long-Term",

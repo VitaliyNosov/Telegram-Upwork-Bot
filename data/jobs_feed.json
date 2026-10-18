@@ -1,5 +1,36 @@
 [
   {
+    "id": "2111820050826541387",
+    "ciphertext": "~022111820050826541387",
+    "title": "WordPress IT Specialist / Developer for Ongoing Site Maintenance & Custom Plugin Fixes",
+    "description": "We are looking for a reliable and experienced WordPress IT Specialist / Developer for long-term, ongoing support on an as-needed basis.\n\nOur website occasionally experiences issues after updates or encounters compatibility errors with active plugins and themes. We need a knowledgeable professional we can reach out to whenever technical issues arise.\n\nKey Responsibilities:\n\nSafely perform and verify routine WordPress core, theme, and plugin updates.\n\nTroubleshoot, debug, and fix plugin conflicts or layout issues caused by updates.\n\nPerform custom tweaks/adjustments to plugins or code when standard features break or conflict.\n\nMaintain site backups and ensure smooth restoration when needed.\n\nRequirements:\n\nProven experience with WordPress troubleshooting, PHP, CSS, JavaScript, and MySQL.\n\nExperience with backup, restoration, and caching solutions (e.g., UpdraftPlus).\n\nAbility to respond promptly to occasional critical site issues.\n\nGood communication skills in English.\n\nIf you are looking for a long-term contract with flexible, as-needed hours, please apply with examples of your previous WordPress work!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 36,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "css",
+      "javascript",
+      "html",
+      "wordpress-plugin",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I’d love to be your go-to WordPress IT specialist for ongoing maintenance, safe updates, and quick debugging whenever plugin conflicts or breaking errors pop up. \n\nI specialize in diagnosing and resolving technical issues, handling safe core/theme/plugin updates, and performing custom PHP, JavaScript, and CSS tweaks when standard features fail. You can count on me for prompt communication, reliable backups, and fast turnarounds on critical fixes. \n\nFor a look at my recent WordPress work, here is one of the sites I've developed: https://www.thelifeyoucansave.org/. \n\nDo you currently use a specific staging environment and backup tool like UpdraftPlus, or would you like me to set those up? Let’s chat about how we can set up a smooth workflow for your ongoing support needs.",
+    "publishedDateTime": "2026-10-18T14:02:01+0000",
+    "addedAt": "2026-10-18T14:03:03.495Z",
+    "url": "https://www.upwork.com/jobs/~022111820050826541387",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111820050826541387/apply/"
+  },
+  {
     "id": "2111780690305527689",
     "ciphertext": "~022111780690305527689",
     "title": "Website Maintenance and Rebuild",
