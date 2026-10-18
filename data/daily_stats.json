@@ -1,10 +1,10 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 46,
-  "matchedFilters": 13,
+  "totalScanned": 47,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 13
+    "wordpress developer": 14
   },
   "topJobs": [
     {
@@ -97,6 +97,13 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022111888943267682895",
       "addedAt": "2026-10-18T18:37:07.513Z"
+    },
+    {
+      "title": "Website Redesign for PARADIS Management",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022111893586698990585",
+      "addedAt": "2026-10-18T18:55:02.988Z"
     }
   ]
 }
