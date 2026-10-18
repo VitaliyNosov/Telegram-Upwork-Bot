@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111888943267682895",
+    "ciphertext": "~022111888943267682895",
+    "title": "WordPress Developer for Navigation & Ad Fixes",
+    "description": "PARADIS Media Group needs an experienced WordPress developer to fix navigation issues and improve ad placement on an existing website. Tasks include restoring the hamburger menu so it displays and functions correctly on desktop and mobile, resolving overlapping category and tag labels so they no longer interfere with photos and text, and assessing whether a right-side ad can be added to the expanded photo gallery/lightbox with a mobile-friendly layout. Ads currently disappear as readers scroll into new articles, so you should diagnose the issue and ensure placements remain visible throughout the reading experience. Please back up the site before changes, preserve existing design and content, and test across desktop and mobile. Include a brief handover explaining what was changed and how ad management should be handled.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "javascript"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! I can quickly resolve your navigation and ad placement issues on WordPress.\n\nWith extensive experience debugging PHP, JavaScript, and complex WordPress layouts, I will fix the desktop/mobile hamburger menu, resolve the overlapping category and tag labels on photos and text, and ensure your ads remain sticky and visible as readers scroll into new articles. I'll also properly assess and integrate the right-side ad layout for your expanded photo gallery/lightbox. \n\nAs standard practice, I always create a full site backup before touching any code, test thoroughly across all devices, and provide a clear, concise handover guide for your future ad management. \n\nYou can review my recent WordPress work on live production sites like https://www.snopud.com/. \n\nWhen would you like me to take a look at the site?",
+    "publishedDateTime": "2026-10-18T18:35:41+0000",
+    "addedAt": "2026-10-18T18:37:08.625Z",
+    "url": "https://www.upwork.com/jobs/~022111888943267682895",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111888943267682895/apply/"
+  },
+  {
     "id": "2111864637100856412",
     "ciphertext": "~022111864637100856412",
     "title": "Custom WordPress Theme from HTML",
