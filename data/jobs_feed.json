@@ -1,5 +1,35 @@
 [
   {
+    "id": "2111749788141662089",
+    "ciphertext": "~022111749788141662089",
+    "title": "Full-Stack Developer & SEO/SEM Automation Specialist — Long-Term",
+    "description": "We’re a Singapore digital agency seeking an experienced freelancer or small team to take over our existing marketing SaaS and ongoing client operations.\n\nOur application supports SEO, Google/Meta Ads, content, social media, analytics and automation. We need someone who understands both software development and how agencies deliver these services.\n\nResponsibilities\n- Maintain, troubleshoot and improve our existing SaaS and integrations.\n- Manage technical SEO, keyword research, content planning, legitimate backlink outreach and client reporting.\n- Understand SEM campaign workflows, conversion tracking, social media planning and platform-specific content.\n- Maintain article creation → review → approval → website publishing, preserving correct formatting.\n- Support client websites, CMS connections, VPS hosting, email systems and scheduled operations.\n- Maintain documentation, secure backups, version control and recovery procedures.\n- Deliver working, tested outcomes—not just audits, setup or recommendations.\nRequired experience\n- React, TypeScript, Supabase/PostgreSQL and Edge Functions.\n- WordPress, Shopify integrations, APIs, Git/GitHub and Linux VPS administration.\n- SEO, Google Ads, Meta Ads, GA4, Search Console and social media operations.\n- Strong AI-assisted “vibe coding” skills: able to inspect, debug, test and maintain generated code—not simply generate it.\n- Experience using Claude 5.5 Opus and/or Codex 6.1/6.0; specify the models and tools you’ve actually used.\n\nWorking standards\nPreserve existing work, protect credentials and client data, test before release, and obtain approval before destructive changes, production-impacting operations or additional spending. No spam backlinks or fabricated completion claims.\n\nTo apply\nSend relevant development projects, marketing case studies, your first-two-week takeover approach, availability and rate. Clearly state which areas you personally cover and whether you work alone or with a team.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Singapore",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 307,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "javascript",
+      "web-programming",
+      "wordpress",
+      "crm"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nI operate as an independent WordPress developer and full-stack technical generalist with strong agency execution experience. While my core profile is deeply anchored in WordPress, PHP, MySQL, API integrations, and Linux VPS administration, I also regularly handle CMS connections, hosting infrastructure, and automated content publishing workflows like the ones powering your marketing SaaS. \n\nRegarding your required tool stack and AI-assisted workflows: I actively use Claude and modern LLM tooling for rapid code inspection, debugging, and maintaining generated code rather than relying purely on blind generation. I work entirely solo, ensuring direct communication and accountability. \n\nMy first two weeks would focus on auditing your existing SaaS integrations, securing current backups and version control pipelines, mapping out the article publishing automation, and establishing a stable baseline for ongoing client operations. \n\nYou can review my production work here: https://waapple.org/\n\nAre you available for a quick chat this week to discuss your current tech stack and immediate priorities?",
+    "publishedDateTime": "2026-10-18T09:24:36+0000",
+    "addedAt": "2026-10-18T09:26:59.748Z",
+    "url": "https://www.upwork.com/jobs/~022111749788141662089",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111749788141662089/apply/"
+  },
+  {
     "id": "2111743760956605615",
     "ciphertext": "~022111743760956605615",
     "title": "Freelance Project Wordpress Websited Design & Copywrite",
