@@ -1,10 +1,10 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 23,
-  "matchedFilters": 4,
+  "totalScanned": 24,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022111598098478313353",
       "addedAt": "2026-10-17T23:21:00.021Z"
+    },
+    {
+      "title": "Freelance Project Wordpress Websited Design & Copywrite",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022111743760956605615",
+      "addedAt": "2026-10-18T09:01:02.115Z"
     },
     {
       "title": "Wordpress Website For Non Profit",
