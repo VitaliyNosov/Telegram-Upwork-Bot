@@ -1,10 +1,10 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 37,
-  "matchedFilters": 9,
+  "totalScanned": 38,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -69,6 +69,13 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022111522194731601505",
       "addedAt": "2026-10-17T21:18:58.596Z"
+    },
+    {
+      "title": "Custom or WordPress Website Developer Needed for Ongoing Project",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022111852179178019606",
+      "addedAt": "2026-10-18T16:13:01.963Z"
     }
   ]
 }

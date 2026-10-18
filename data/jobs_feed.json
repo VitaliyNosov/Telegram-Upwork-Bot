@@ -1,5 +1,40 @@
 [
   {
+    "id": "2111852179178019606",
+    "ciphertext": "~022111852179178019606",
+    "title": "Custom or WordPress Website Developer Needed for Ongoing Project",
+    "description": "We are looking for a skilled and reliable WordPress Website Developer to help us develop, maintain, and improve our website on an ongoing basis. The ideal candidate should have strong WordPress development skills, an eye for detail, and the ability to deliver high-quality work on time.\n\nThis is a long-term opportunity for someone who is proactive, communicates well, and can work with us as our website and business continue to grow.\nResponsibilities\n\n    Develop, customize, and maintain WordPress websites.\n    Customize WordPress themes and plugins based on project requirements.\n    Create responsive, mobile-friendly, and user-friendly website pages.\n    Fix bugs, troubleshoot technical issues, and improve website performance.\n    Optimize website speed, security, and SEO fundamentals.\n    Integrate third-party tools, APIs, and plugins when needed.\n    Ensure cross-browser compatibility and a consistent user experience.\n    Provide ongoing updates, improvements, and technical support.\n\nRequirements\n\n    Proven experience with WordPress website development.\n    Strong knowledge of PHP, HTML, CSS, and JavaScript.\n    Experience with popular page builders such as Elementor, Divi, or Gutenberg.\n    Familiarity with WordPress themes, plugins, and database management.\n    Understanding of responsive design, website speed optimization, and basic SEO.\n    Ability to troubleshoot issues and find effective solutions independently.\n    Strong attention to detail and commitment to quality.\n    Good communication skills and the ability to meet deadlines.\n\nNice to Have\n\n    Experience with WooCommerce.\n    Knowledge of custom post types and advanced custom fields (ACF).\n    Experience with website migrations, backups, and security improvements.\n    Familiarity with Git, staging environments, and website hosting platforms.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "javascript",
+      "mysql",
+      "html",
+      "wordpress",
+      "html5",
+      "web-programming",
+      "css",
+      "php",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nI’d love to partner with you as your go-to WordPress developer for ongoing site development, maintenance, and performance improvements. \n\nWith deep expertise in PHP, JavaScript, MySQL, and custom WordPress development (including Gutenberg, Advanced Custom Fields, and page builders like Elementor), I focus on writing clean code that keeps sites fast, secure, and fully responsive. Whether you need custom theme modifications, third-party API integrations, or proactive bug fixing, I handle it all with an eye for detail. For example, I recently built and optimized sites like https://www.seeintl.org/, ensuring high performance and seamless user experiences. \n\nI’m looking for a long-term collaboration where I can help your web presence grow reliably over time. \n\nAre there any immediate updates or fixes you'd like to tackle first? Let's chat!",
+    "publishedDateTime": "2026-10-18T16:10:57+0000",
+    "addedAt": "2026-10-18T16:13:03.294Z",
+    "url": "https://www.upwork.com/jobs/~022111852179178019606",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111852179178019606/apply/"
+  },
+  {
     "id": "2111835374694931023",
     "ciphertext": "~022111835374694931023",
     "title": "WordPress Specialist for Page Updates",
