@@ -1,10 +1,10 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-17",
-  "totalScanned": 12,
-  "matchedFilters": 3,
+  "totalScanned": 13,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 3
+    "wordpress developer": 4
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022111598098478313353",
       "addedAt": "2026-10-17T23:21:00.021Z"
+    },
+    {
+      "title": "Wordpress Website For Non Profit",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022111646455296995209",
+      "addedAt": "2026-10-18T02:32:58.864Z"
     },
     {
       "title": "Dedicated WordPress Website Developer Needed for Ongoing Project",
