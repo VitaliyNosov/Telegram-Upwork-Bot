@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111923674049902158",
+    "ciphertext": "~022111923674049902158",
+    "title": "Website Maintenance and Bug Fixing",
+    "description": "I need a reliable freelancer to maintain my website on an ongoing basis. The work includes updating plugins when needed and resolving bugs or issues that arise from time to time. I’m looking for someone who can keep the site running smoothly, communicate clearly, and handle small fixes efficiently. This is a part-time role for someone who can provide consistent support and respond promptly when problems occur.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "mysql",
+      "wordpress"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi!\n\nI can help keep your website running smoothly and handle any bugs or update conflicts that pop up. \n\nAs an experienced WordPress developer, I specialize in ongoing maintenance, troubleshooting, and fast bug resolution. Whether it's safely updating plugins, fixing layout issues, or resolving database and PHP errors, I ensure your site stays secure, fast, and fully functional. I pride myself on clear communication and quick turnaround times when urgent issues arise. \n\nYou can check out some of my recent WordPress work here: https://waapple.org/\n\nLet’s connect to discuss your site and how I can provide reliable, ongoing support. What is the current tech stack or theme your site is built on?",
+    "publishedDateTime": "2026-10-18T20:53:52+0000",
+    "addedAt": "2026-10-18T20:55:01.796Z",
+    "url": "https://www.upwork.com/jobs/~022111923674049902158",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111923674049902158/apply/"
+  },
+  {
     "id": "2111893586698990585",
     "ciphertext": "~022111893586698990585",
     "title": "Website Redesign for PARADIS Management",

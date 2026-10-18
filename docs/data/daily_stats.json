@@ -1,12 +1,19 @@
 {
   "date": "2026-10-18",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 54,
-  "matchedFilters": 14,
+  "totalScanned": 55,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
+    {
+      "title": "Website Maintenance and Bug Fixing",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022111923674049902158",
+      "addedAt": "2026-10-18T20:55:00.560Z"
+    },
     {
       "title": "Fix a simple WooCommerce  Webstore",
       "budget": "$10-$27/hr",
