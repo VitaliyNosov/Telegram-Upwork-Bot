@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111835374694931023",
+    "ciphertext": "~022111835374694931023",
+    "title": "WordPress Specialist for Page Updates",
+    "description": "We need a WordPress specialist to update and improve several existing pages on our website. The work includes making layout and content changes, ensuring pages look clean and professional, and helping improve the overall user experience. You should be comfortable working on live pages, troubleshooting issues, and delivering polished results quickly. If you have experience with WordPress page edits and can communicate clearly, we’d like to hear from you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2898,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "web-programming"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nI can help you update and polish your WordPress pages to ensure a clean layout and a seamless user experience. \n\nWith extensive experience handling WordPress page edits, layout refinements, and troubleshooting on live sites, I deliver polished results quickly without disrupting your traffic. Whether it's adjusting content, fixing styling issues, or optimizing user flow, I make sure everything looks professional and functions perfectly. You can see examples of my recent work on live client sites like https://www.thelifeyoucansave.org/.\n\nLet me know which specific pages you'd like to start with, and we can dive right in!",
+    "publishedDateTime": "2026-10-18T15:02:48+0000",
+    "addedAt": "2026-10-18T15:05:03.374Z",
+    "url": "https://www.upwork.com/jobs/~022111835374694931023",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111835374694931023/apply/"
+  },
+  {
     "id": "2111820050826541387",
     "ciphertext": "~022111820050826541387",
     "title": "WordPress IT Specialist / Developer for Ongoing Site Maintenance & Custom Plugin Fixes",
