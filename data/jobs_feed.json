@@ -1,5 +1,34 @@
 [
   {
+    "id": "2111780690305527689",
+    "ciphertext": "~022111780690305527689",
+    "title": "Website Maintenance and Rebuild",
+    "description": "We need a freelancer to maintain and possibly rebuild our government contracting website.  The website is currently down and need to be brought back up and to stay consistently up.  Other work includes fixing current issues, improving performance, and updating the site to ensure it runs smoothly. You may also be involved in rebuilding the site if needed, depending on the scope. We’re looking for someone who can assess the current state, recommend improvements, and help keep the website functional and up to date.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.89,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 232,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "web-design",
+      "html5"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! \n\nI can help get your government contracting website back online immediately, diagnose what caused the outage, and secure it to ensure it stays consistently up. \n\nWith extensive experience in WordPress maintenance, emergency debugging, and site rebuilds, I specialize in fixing fatal errors, resolving server/database issues, and optimizing performance so sites run smoothly and reliably. If we determine a full rebuild is the best path forward, I can execute that seamlessly as well—drawing on similar complex builds like my work on https://www.snopud.com/.\n\nCould you share temporary hosting or admin access so I can jump in right away, assess the current damage, and bring the site back up?\n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-10-18T11:27:17+0000",
+    "addedAt": "2026-10-18T11:29:10.230Z",
+    "url": "https://www.upwork.com/jobs/~022111780690305527689",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022111780690305527689/apply/"
+  },
+  {
     "id": "2111749788141662089",
     "ciphertext": "~022111749788141662089",
     "title": "Full-Stack Developer & SEO/SEM Automation Specialist — Long-Term",
