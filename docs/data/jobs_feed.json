@@ -1,5 +1,37 @@
 [
   {
+    "id": "2112139468202409083",
+    "ciphertext": "~022112139468202409083",
+    "title": "IMI Website Rebuild + Artemis Integration Foundation",
+    "description": "We are looking for an experienced developer to deliver a new digital platform for the Irish Management Institute (IMI).\n\nThe project will rebuild the existing IMI website with a modern React frontend while retaining WordPress for content management and WooCommerce for programme catalogue and transaction workflows. It would be a headless WordPress app.\n\nThe preferred scope is the Digital Platform + Artemis Foundation option.\n\nThe project includes the full website rebuild together with the foundations required for IMI’s wider digital transformation.\n\nKey areas of delivery include:\n- Modern responsive React frontend based on supplied designs\n- Integration with the existing WordPress publishing environment\n- Integration with the existing WooCommerce programme catalogue and checkout\n- Programme search and guided programme discovery\n- WordPress-managed content including Insights, faculty and programme information\n- Dynamics 365 membership validation and access control\n- Website-side Artemis integration layer\n- Canonical data model for agreed customer, membership, programme and transaction data\n- WooCommerce order / booking handoff to agreed Artemis / Dynamics interfaces\n- Logging, retries and reconciliation for integration flows\n- One agreed end-to-end Artemis journey\n- Documented integration interfaces and extension points for future SIS and Moodle integration\n- Structured IMI knowledge layer covering programme, Insights and faculty content\n- Machine-readable APIs / structured outputs suitable for future AI services\n- Guided Programme Finder using the structured programme knowledge layer\n- Technical SEO, analytics and performance optimisation\n- Campaign/load/resilience testing\n- A/B testing and conversion optimisation\n- Deployment, documentation, source-code handover\nThe Artemis work is intended to establish the website-side integration foundation and initial agreed flows, rather than replace or rebuild the wider Artemis programme.\n\nThe AI-related scope is focused on creating a governed, AI-ready knowledge foundation for future search, assistants, recommendations and automation.\n\nThe existing project designs and detailed scope document will be supplied to the selected developer.\nDeliverables\nThe successful developer should provide:\n- Completed production-ready website\n- React frontend implementation\n- WordPress and WooCommerce integrations\n- Artemis/Dynamics integration foundation\n- Initial agreed integration flows\n- Structured knowledge layer\n- Guided programme discovery functionality\n- Testing and optimisation\n- Deployment and handover\n- Technical documentation\n- Source code",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Ireland",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "react-js",
+      "api-development",
+      "api-integration",
+      "cloudflare",
+      "web-programming",
+      "wordpress",
+      "javascript"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nThis IMI digital platform rebuild is a great fit for my background. I specialize in headless WordPress architectures, connecting a modern React frontend to a WordPress and WooCommerce backend while ensuring seamless API integrations and robust data flows. \n\nMy core expertise includes building performant React apps powered by WordPress REST APIs, handling complex WooCommerce transactions, and setting up structured data models. I also have deep experience with API integration, cloud services, and building scalable, AI-ready knowledge layers—matching your exact requirements for the Artemis and Dynamics 365 foundations. \n\nYou can review a sample of my large-scale WordPress web builds here: https://about.offerup.com/\n\nCould you share the detailed scope document and designs so I can review the specific React frontend requirements and proposed Artemis integration points?\n\nBest regards,\nWordPress & CMS Expert",
+    "publishedDateTime": "2026-10-19T11:11:48+0000",
+    "addedAt": "2026-10-19T11:12:49.017Z",
+    "url": "https://www.upwork.com/jobs/~022112139468202409083",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112139468202409083/apply/"
+  },
+  {
     "id": "2112093616635686793",
     "ciphertext": "~022112093616635686793",
     "title": "WooCommerce Developer for Existing WordPress Site",

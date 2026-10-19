@@ -1,10 +1,11 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 26,
-  "matchedFilters": 6,
+  "totalScanned": 27,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 6,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -41,6 +42,13 @@
       "score": 196,
       "url": "https://www.upwork.com/jobs/~022112093616635686793",
       "addedAt": "2026-10-19T08:10:45.643Z"
+    },
+    {
+      "title": "IMI Website Rebuild + Artemis Integration Foundation",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022112139468202409083",
+      "addedAt": "2026-10-19T11:12:47.873Z"
     },
     {
       "title": "Professional Website & Blog Designer",
