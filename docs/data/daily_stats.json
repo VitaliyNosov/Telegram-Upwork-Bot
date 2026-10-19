@@ -1,8 +1,18 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 4,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 5,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Professional Website & Blog Designer",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022111981501462508537",
+      "addedAt": "2026-10-19T00:44:59.444Z"
+    }
+  ]
 }
