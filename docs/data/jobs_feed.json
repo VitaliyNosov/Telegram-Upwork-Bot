@@ -1,5 +1,33 @@
 [
   {
+    "id": "2112205652557931524",
+    "ciphertext": "~022112205652557931524",
+    "title": "Website fixes, AI readiness and Tracking",
+    "description": "We will respond only through UpWork. No phone calls or reaching out via LinkedIn please. \n\nScope of work\n1. Website fixes (WordPress, Beaver Builder, WP Engine)\n■\tPage by page 301 redirects from the former .net to the current .com URL with traffic or links, and a Search Console Change of Address.\n■\tFix noindex pages, redirect errors, broken pages, and www and http versions of the site.\n■\tStructured data: Organization, Professional Service with service area, FAQ, and reviews.\n■\tMobile page load (LCP) under 2.5 seconds and fix recurring React hydration errors.\n■\tSome pages may need to be rebuilt or copied over from the .net to the current .com site. \n\n2. AI search readiness\n■\trobots.txt, CDN, and firewall settings that let AI search crawlers in (OAI-SearchBot, ChatGPT-User, Claude-SearchBot, PerplexityBot, Bingbot, Googlebot).\n■\tKey content readable without JavaScript; Bing Webmaster Tools with IndexNow; llms.txt; a Wikidata entry.\n\n3. Tracking\n■\tGoogle Analytics 4 and Tag Manager key events for forms, bookings, and calls.\n■\tGoogle Ads conversions: one primary action per lead type. Internal traffic filtered.\n■\tAudit our existing HubSpot forms, add the missing ones, and add source, service interest, industry, and city fields.\n\n4. New Content (client approves all copy; our Brand Guide sets the voice)\n■\t8 location pages referencing our location/Cities/County, each with real local proof.\n■\t3 missing industry pages and rebuild other pages to maximize SEO/AEO/GEO\n■\tOnsite managed IT support page\n■\t3 client stories.\n■\tFAQs written as direct answers for search and AI answers, and an About page facts block.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.86,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 60,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "seo-based-website",
+      "cms-development"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I can help you knock out these WordPress fixes, technical SEO items, tracking setups, and AI search readiness updates efficiently. \n\nYour stack is right in my wheelhouse. I regularly handle complex technical tasks like mapping bulk 301 redirects, fixing React hydration errors, configuring Beaver Builder on WP Engine, and optimizing mobile LCP to hit sub-2.5s scores. I also know how to configure firewalls, CDN rules, and `robots.txt` to properly let AI search crawlers in while maintaining security, alongside implementing structured data like Organization, FAQ, and Local/Professional Service schemas. \n\nOn the analytics and tracking side, I can clean up your GA4, GTM key events, Google Ads conversions, and HubSpot form fields so your attribution is airtight. You can check out my recent work on high-performing WordPress sites like https://www.cchpca.org/.\n\nWhen would you like to review the current site audit and map out the priority list?",
+    "publishedDateTime": "2026-10-19T18:34:07+0000",
+    "addedAt": "2026-10-19T18:36:49.760Z",
+    "url": "https://www.upwork.com/jobs/~022112205652557931524",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112205652557931524/apply/"
+  },
+  {
     "id": "2112242664140730134",
     "ciphertext": "~022112242664140730134",
     "title": "Experienced WordPress Developer Needed for Custom Website Rebuild (Designs Provided)",

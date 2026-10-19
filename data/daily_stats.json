@@ -1,10 +1,10 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 55,
-  "matchedFilters": 14,
+  "totalScanned": 56,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "woocommerce": 1
   },
   "topJobs": [
@@ -98,6 +98,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022112168642100491257",
       "addedAt": "2026-10-19T13:08:44.028Z"
+    },
+    {
+      "title": "Website fixes, AI readiness and Tracking",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022112205652557931524",
+      "addedAt": "2026-10-19T18:36:48.394Z"
     },
     {
       "title": "B2B Customer Portal for Scientific Services Company",
