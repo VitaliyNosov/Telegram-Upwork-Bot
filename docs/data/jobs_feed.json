@@ -1,5 +1,40 @@
 [
   {
+    "id": "2112208400036687638",
+    "ciphertext": "~022112208400036687638",
+    "title": "Update wordpress PHP to 8.4",
+    "description": "Updating website to PHP 8.4 from 7.4 . Have custom PHP files that need to be updated so site doesn't crash. Also want to clean up any custom PHP files that may have security vulnerabilties. Using cPanel/Go Daddy. Need some one ready to start immediately.\nwww.bmwrepairguide.com",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 47,
+    "budgetDisplay": "$25 - $47/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "mysql",
+      "javascript",
+      "custom-php",
+      "web-programming",
+      "web-design",
+      "html5",
+      "html",
+      "css"
+    ],
+    "score": 4800,
+    "coverLetter": "Hi! I can start immediately on updating bmwrepairguide.com from PHP 7.4 to 8.4 safely, ensuring your custom PHP files are fully compatible and won't cause the site to crash. \n\nUpgrading across four major PHP versions requires a careful audit of deprecated functions, syntax changes, and potential conflicts with your plugins and theme. Beyond ensuring a smooth version upgrade, I will thoroughly review your custom scripts to patch security vulnerabilities, clean up legacy code, and harden the site against exploits while working directly within your cPanel/GoDaddy environment. \n\nI handle complex PHP debugging and database optimization regularly. Let's get your site updated and secured today—are you currently using a staging environment, or should we set one up via cPanel before running the update?",
+    "publishedDateTime": "2026-10-19T15:45:04+0000",
+    "addedAt": "2026-10-19T15:48:51.686Z",
+    "url": "https://www.upwork.com/jobs/~022112208400036687638",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112208400036687638/apply/"
+  },
+  {
     "id": "2112189272336999428",
     "ciphertext": "~022112189272336999428",
     "title": "WordPress Website Refresh + Brand Finalization + Canva/Office Templates for M&A Advisory Firm",
