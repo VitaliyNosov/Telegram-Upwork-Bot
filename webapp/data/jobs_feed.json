@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112168642100491257",
+    "ciphertext": "~022112168642100491257",
+    "title": "WordPress Elementor Expert Needed",
+    "description": "We need a WordPress Elementor expert to fix broken CSS issues that occurred after a recent update. The work includes identifying the root cause, restoring layout and styling, and ensuring the site looks correct across key pages. You should be able to troubleshoot quickly, communicate clearly, and deliver a stable fix within a short timeframe. This is a small, urgent project for someone who can work independently and resolve issues efficiently.\nyhe website can be seen here builtory.com",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.83,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 116,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "css",
+      "html",
+      "wordpress",
+      "css3"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I can help you quickly clean up those broken CSS issues on builtory.com and restore your layouts across all key pages. \n\nPost-update conflicts are something I troubleshoot and resolve on a daily basis. With my strong background in WordPress, HTML, and CSS, I'll dive straight into the code, identify the root cause of the styling breakage caused by the recent update, and implement a clean, stable fix so your site looks flawless again immediately. \n\nSince this is an urgent task, I am ready to jump in right away. Could you share temporary access so I can review the Elementor and CSS setup?",
+    "publishedDateTime": "2026-10-19T13:07:05+0000",
+    "addedAt": "2026-10-19T13:08:45.305Z",
+    "url": "https://www.upwork.com/jobs/~022112168642100491257",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112168642100491257/apply/"
+  },
+  {
     "id": "2112154384292478075",
     "ciphertext": "~022112154384292478075",
     "title": "Fintech Website Optimization Developer - marketcensus.io",

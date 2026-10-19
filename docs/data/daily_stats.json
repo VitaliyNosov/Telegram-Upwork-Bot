@@ -1,10 +1,10 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 35,
-  "matchedFilters": 8,
+  "totalScanned": 36,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022111981501462508537",
       "addedAt": "2026-10-19T00:44:59.444Z"
+    },
+    {
+      "title": "WordPress Elementor Expert Needed",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022112168642100491257",
+      "addedAt": "2026-10-19T13:08:44.028Z"
     }
   ]
 }
