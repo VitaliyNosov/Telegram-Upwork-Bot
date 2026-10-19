@@ -1,12 +1,19 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 10,
-  "matchedFilters": 1,
+  "totalScanned": 11,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Expert Ecommerce Taxes Plugin Implementation",
+      "budget": "$20-$40/hr",
+      "score": 4098,
+      "url": "https://www.upwork.com/jobs/~022112044367468010063",
+      "addedAt": "2026-10-19T04:54:41.530Z"
+    },
     {
       "title": "Professional Website & Blog Designer",
       "budget": "Fixed-price",
