@@ -1,5 +1,35 @@
 [
   {
+    "id": "2112093616635686793",
+    "ciphertext": "~022112093616635686793",
+    "title": "WooCommerce Developer for Existing WordPress Site",
+    "description": "Looking for an experienced WooCommerce / WordPress developer for ongoing ecommerce work on an existing WordPress site.\n\nThis is a new contract focused specifically on WooCommerce-related tasks (separate from our general WordPress maintenance work).\n\nScope may include:  \n- WooCommerce setup/configuration and store improvements  \n- Product, category, cart, checkout, and shipping-related fixes  \n- Payment gateway / checkout troubleshooting  \n- Theme/template and plugin customization related to WooCommerce  \n- Performance, bug fixes, and compatibility issues with WooCommerce plugins  \n- Small custom WooCommerce features as needed\n\nRequirements:  \n- Strong WooCommerce and WordPress experience  \n- Clean, maintainable code  \n- Careful work on a live/production-related environment  \n- Clear communication and reliable availability\n\nEngagement:  \n- Ongoing hourly work  \n- Tasks will be assigned as needed  \n- Looking for a developer already familiar with our stack and workflow\n\nPlease apply only if you have solid WooCommerce experience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.8,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "payment-gateway-integration",
+      "woocommerce",
+      "wordpress-website",
+      "wordpress-plugin",
+      "wordpress-theme"
+    ],
+    "score": 196,
+    "coverLetter": "Hi! I specialize in WooCommerce development and can help you with ongoing store improvements, checkout troubleshooting, and custom plugin or theme tweaks for your live site. \n\nMy core focus includes resolving complex payment and shipping issues, fixing cart and checkout bugs, and ensuring clean, maintainable code on production environments without disrupting live traffic. You can see examples of my recent WordPress and WooCommerce work here: https://www.thelifeyoucansave.org/\n\nI have reliable availability for ongoing hourly work and can start right away. What are the top 1-2 WooCommerce tasks you need help with first?",
+    "publishedDateTime": "2026-10-19T08:08:54+0000",
+    "addedAt": "2026-10-19T08:10:46.684Z",
+    "url": "https://www.upwork.com/jobs/~022112093616635686793",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112093616635686793/apply/"
+  },
+  {
     "id": "2112066558137965135",
     "ciphertext": "~022112066558137965135",
     "title": "Server + Website Support",
