@@ -1,5 +1,35 @@
 [
   {
+    "id": "2112047550961523279",
+    "ciphertext": "~022112047550961523279",
+    "title": "Website Re Design",
+    "description": "Hello, \n\nI am looking for someone who can re design my current website and make it more clearer for my customers.\n\nI am looking for a static homepage something easy with the clear messaging on the front and categories/menu selections in the middle of the home screen and images to appear as you scroll over the sections. \n\nI am looking for someone with a creative brain to help me show all the info I want in a minimal way whilst still complying to my brand guidelines. \n\nThank you",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$20 - $45/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "graphic-design",
+      "web-programming",
+      "mockup"
+    ],
+    "score": 4600,
+    "coverLetter": "Hi!\n\nI can help you redesign your WordPress website to feature a clean, minimalist static homepage with clear messaging, intuitive menu categories, and engaging hover-effect imagery that stays true to your brand guidelines. \n\nTranslating a lot of information into a simple, clutter-free user journey is a strong focus of mine. I frequently build and redesign WordPress sites—like https://about.offerup.com/ and https://www.thelifeyoucansave.org/—ensuring the design is not only visually creative and streamlined, but also easy for your customers to navigate. \n\nCould you share your current website and any brand guidelines you have so I can take a quick look? Let’s talk about how we can bring this vision to life.",
+    "publishedDateTime": "2026-10-19T05:05:58+0000",
+    "addedAt": "2026-10-19T05:06:46.466Z",
+    "url": "https://www.upwork.com/jobs/~022112047550961523279",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112047550961523279/apply/"
+  },
+  {
     "id": "2112045753590027356",
     "ciphertext": "~022112045753590027356",
     "title": "Mega Menu Implementation for Headless Ecommerce",
