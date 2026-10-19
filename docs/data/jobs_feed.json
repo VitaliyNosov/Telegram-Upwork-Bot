@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112291951285410344",
+    "ciphertext": "~022112291951285410344",
+    "title": "Finish Website Homepage and Launch",
+    "description": "We run a performance training and physical therapy studio in Carlsbad, CA. We recently updated our current website with a new homepage design that is already substantially built and sitting on staging. We need a production-minded developer to complete the final production pass, apply stakeholder edits, QA the page, preserve tracking, and launch it safely. The homepage is currently hand-written HTML/CSS inside a WordPress page using the Elementor Canvas template. The staging version is already built, and we need someone to clean it up, finalize the page, and ensure a smooth launch.\n\nPlease reach out if you confidently feel this is  in your wheelhouse. Here is the current project. \n\nhttps://staging2.nakoafit.com/v2/?v=16\n\nThank  you,\nBianca",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can certainly help you finalize the Nakoa Fit homepage and ensure a smooth, error-free launch.\n\nI have extensive experience working with Elementor and cleaning up custom HTML/CSS implementations within WordPress. I understand the importance of a production-minded approach, especially when it comes to preserving tracking pixels, optimizing performance, and performing thorough QA before going live. My background includes managing similar transitions for high-traffic sites like https://about.offerup.com/, so I am very comfortable handling the technical requirements for a staging-to-live migration.\n\nI’ve taken a quick look at your staging link and am confident I can handle the final polish and stakeholder edits quickly. Are you available for a brief chat to discuss the specific edits needed and your timeline for the launch?",
+    "publishedDateTime": "2026-10-19T21:18:54+0000",
+    "addedAt": "2026-10-19T21:20:49.936Z",
+    "url": "https://www.upwork.com/jobs/~022112291951285410344",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112291951285410344/apply/"
+  },
+  {
     "id": "2112275009623401476",
     "ciphertext": "~022112275009623401476",
     "title": "Website Update and Redesign",
