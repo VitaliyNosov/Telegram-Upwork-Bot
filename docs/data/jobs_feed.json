@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112242664140730134",
+    "ciphertext": "~022112242664140730134",
+    "title": "Experienced WordPress Developer Needed for Custom Website Rebuild (Designs Provided)",
+    "description": "I'm looking for an experienced WordPress developer to rebuild an editorial website currently hosted on BigScoots.\n\nThe website has already been fully designed, with a comprehensive developer handoff package containing page template designs, design tokens, typography, spacing specifications and assets.\n\nThis is a development project, not a design project.\n\nFollowing a recent security assessment, we've decided to rebuild the website on a fresh WordPress installation rather than continue using the existing theme.\n\nProject Scope\n\nSet up a fresh WordPress installation on BigScoots staging.\n\nBuild a lightweight custom child theme using GeneratePress, following our supplied designs. No page builders.\n\nMake homepage sections, newsletter content, navigation and affiliate disclosures editable through WordPress admin.\n\nSecurely migrate approximately 100 articles, 1,240 images, categories, tags, affiliate links and other verified content.\n\nAvoid transferring potentially compromised plugins, theme files, settings or custom code.\n\nPreserve existing URLs, Rank Math SEO metadata, redirects and affiliate links.\n\nIntegrate Beehiiv, including migrating existing subscribers from Mailchimp.\n\nOptimise performance, responsiveness and Core Web Vitals.\n\nImplement appropriate WordPress security measures, including 2FA and secure access controls.\n\nMaintain all custom code in a private GitHub repository owned by us.\n\nTest the completed website thoroughly before launch.\n\nExperience Required\n\nStrong experience with custom WordPress theme development, ideally GeneratePress.\n\nExperience with secure WordPress migrations and website security.\n\nExperience building editorial, magazine or content-heavy websites.\n\nProficiency with ACF, PHP, CSS, JavaScript and Git.\n\nStrong attention to detail and design accuracy.\n\nTo Apply\n\nPlease include:\n\nTwo examples of WordPress websites you've developed, ideally editorial or magazine websites.\n\nHow you'd approach migrating content safely from an existing WordPress installation with a history of security issues.\n\nYour estimated timeline and fixed project price.\n\nThe full design handoff package and technical assessment will be shared with shortlisted candidates.\n\nI'm looking for someone reliable who can potentially support ongoing website development and maintenance after launch.\n\nStrong attention to detail and design accuracy.\n\nExcellent communication, reliability and a proven ability to meet agreed deadlines.\n\nAbility to work to a clear project schedule, provide regular progress updates and flag potential delays early.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 95,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "web-programming"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! \n\nTo handle the secure migration from a compromised site, my approach is to extract *only* the raw database content (posts, categories, tags) and media library files, thoroughly sanitizing them before importing into the fresh BigScoots installation. I strictly avoid importing old database options, settings, or custom code that could harbor vulnerabilities.\n\nWith extensive experience building content-heavy and editorial sites using lightweight setups—including ACF, custom PHP, and GeneratePress without heavy page builders—I can seamlessly translate your design tokens into a pixel-perfect, lightning-fast custom child theme. For instance, you can review an editorial/content site I developed here: https://about.offerup.com/\n\nI work cleanly with Git, ensure zero SEO/URL disruption, and handle integrations like Beehiiv smoothly. My estimated timeline is 3-4 weeks, and I'd love to discuss a fixed price once we review the handoff package. \n\nAre you available for a quick chat this week to go over the design files?",
+    "publishedDateTime": "2026-10-19T18:01:21+0000",
+    "addedAt": "2026-10-19T18:04:53.355Z",
+    "url": "https://www.upwork.com/jobs/~022112242664140730134",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112242664140730134/apply/"
+  },
+  {
     "id": "2112234704865959172",
     "ciphertext": "~022112234704865959172",
     "title": "Convert WordPress site from Beaver Builder to the block editor",
