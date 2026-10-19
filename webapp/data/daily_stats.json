@@ -1,10 +1,10 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 39,
-  "matchedFilters": 9,
+  "totalScanned": 40,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022111981501462508537",
       "addedAt": "2026-10-19T00:44:59.444Z"
+    },
+    {
+      "title": "WordPress Website Refresh + Brand Finalization + Canva/Office Templates for M&A Advisory Firm",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022112189272336999428",
+      "addedAt": "2026-10-19T14:32:44.935Z"
     },
     {
       "title": "WordPress Elementor Expert Needed",
