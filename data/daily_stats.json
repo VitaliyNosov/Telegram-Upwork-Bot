@@ -1,10 +1,10 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 46,
-  "matchedFilters": 11,
+  "totalScanned": 48,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -84,6 +84,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022112168642100491257",
       "addedAt": "2026-10-19T13:08:44.028Z"
+    },
+    {
+      "title": "B2B Customer Portal for Scientific Services Company",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022112221764135681056",
+      "addedAt": "2026-10-19T16:44:50.681Z"
     }
   ]
 }
