@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112154384292478075",
+    "ciphertext": "~022112154384292478075",
+    "title": "Fintech Website Optimization Developer - marketcensus.io",
+    "description": "We’re looking for an experienced developer with strong UI/UX skills to improve our fintech SaaS website’s design, performance, and overall customer experience.\n\nThe role involves reviewing and refining the customer journey, from initial visits and sign-up through to login, dashboard navigation, and interpreting financial scorecards. We want a platform that feels intuitive, responsive, polished, and professional, with clear navigation and information customers can understand at a glance.\n\nKey areas of focus include:\n\nImproving the website’s visual design, layout, and consistency.\n\nStreamlining sign-up, login, onboarding, and navigation.\n\nRefining dashboards, scorecards, and data displays so customers can quickly understand key information.\n\nImproving page speed, responsiveness, and usability across desktop and mobile.\n\nIdentifying and resolving friction throughout the customer journey.\n\nThe ideal candidate has experience building or improving fintech or data-driven SaaS platforms and combines front-end development expertise with sound design judgment. You should understand how to present complex financial information clearly and accurately, prioritise what matters to customers, and turn your recommendations into practical improvements.\n\nPlease share relevant examples of your work, highlighting improvements you’ve made to user experience, data presentation, or website performance.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "web-programming",
+      "web-design",
+      "wordpress"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! I’d love to help you optimize marketcensus.io for a seamless, high-converting customer journey. \n\nBalancing complex fintech data with an intuitive, polished user experience requires a sharp eye for both front-end development and UI/UX design. Drawing on my expertise in custom WordPress development, modern UI implementation, and Core Web Vitals speed optimization, I specialize in transforming data-heavy SaaS platforms into fast, responsive, and user-friendly interfaces. I can help streamline your sign-up flow, refine your dashboards and financial scorecards for instant clarity, and eliminate any friction points from the initial visit through to the app experience. \n\nYou can check out some of my recent web development and performance work here: https://about.offerup.com/\n\nAre there specific friction points in your current onboarding or dashboard flow that you'd like to tackle first? Let's discuss how we can elevate your platform.",
+    "publishedDateTime": "2026-10-19T12:10:47+0000",
+    "addedAt": "2026-10-19T12:12:44.193Z",
+    "url": "https://www.upwork.com/jobs/~022112154384292478075",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112154384292478075/apply/"
+  },
+  {
     "id": "2112139468202409083",
     "ciphertext": "~022112139468202409083",
     "title": "IMI Website Rebuild + Artemis Integration Foundation",
