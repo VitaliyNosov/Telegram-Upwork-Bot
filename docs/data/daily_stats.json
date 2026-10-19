@@ -1,10 +1,10 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 51,
-  "matchedFilters": 12,
+  "totalScanned": 52,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 4098,
       "url": "https://www.upwork.com/jobs/~022112045753590027356",
       "addedAt": "2026-10-19T05:00:47.554Z"
+    },
+    {
+      "title": "Convert WordPress site from Beaver Builder to the block editor",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022112234704865959172",
+      "addedAt": "2026-10-19T17:34:44.103Z"
     },
     {
       "title": "Fintech Website Optimization Developer - marketcensus.io",

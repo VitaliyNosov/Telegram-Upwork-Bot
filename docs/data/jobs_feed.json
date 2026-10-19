@@ -1,5 +1,33 @@
 [
   {
+    "id": "2112234704865959172",
+    "ciphertext": "~022112234704865959172",
+    "title": "Convert WordPress site from Beaver Builder to the block editor",
+    "description": "We’re a boutique Pilates/Fitness studio. Our site runs on WordPress with GoDaddy hosting and was built with Beaver Builder, by GoDaddy. I’m very comfortable in WordPress but find Beaver Builder slow and frustrating to edit, and I want to manage the site myself going forward. I’ll share the site link with shortlisted candidates.\n\nWhat I need:\n\nConvert all 7 pages off Beaver Builder using the native WordPress block editor and a lightweight block theme (Kadence, GeneratePress, or similar). No Elementor, Divi, or other page builders. Remove Beaver Builder afterward with no lost content.\n\nClean up the user experience: simpler navigation, clear “Book a class” calls to action, mobile-first, fast loading. Keep our current branding.\n\nPlace our booking widgets. I’ll provide the embed codes for our schedule widget (already in use) and pricing widget. They need to display cleanly on mobile and in Instagram’s in-app browser.\n\nRefresh the home page: cleaner layout, stronger first impression, and more photos of our studio and classes. I’ll provide the photos.\n\nWhat I need from your proposal:   How long you'd expect this to take and at what rate, so we can budget accordingly.   I can share the URL so you can view the site.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 27,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 3100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-19T17:32:42+0000",
+    "addedAt": "2026-10-19T17:34:58.362Z",
+    "url": "https://www.upwork.com/jobs/~022112234704865959172",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112234704865959172/apply/"
+  },
+  {
     "id": "2112221764135681056",
     "ciphertext": "~022112221764135681056",
     "title": "B2B Customer Portal for Scientific Services Company",
