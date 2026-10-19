@@ -1,5 +1,39 @@
 [
   {
+    "id": "2112066558137965135",
+    "ciphertext": "~022112066558137965135",
+    "title": "Server + Website Support",
+    "description": "I am looking for a company that is trusting that can support our business with our web server, websites, zapier, claude development and IT needs. \n\nYou will have a team available as required to deal with hosting, server issues, website performance, and all facets of this part of IT. \n\nOperating in Australian Time, with a team to support our business where and as required.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$20 - $50/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 341,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "web-programming",
+      "mysql",
+      "javascript",
+      "system-administration",
+      "network-administration",
+      "html",
+      "dns"
+    ],
+    "score": 5099,
+    "coverLetter": "Hi! \n\nI’d love to help support your web servers, WordPress websites, and broader IT infrastructure. Operating with a reliable, long-term approach is exactly how I partner with my clients. \n\nWith deep expertise in WordPress, PHP, MySQL, JavaScript, and system administration, I routinely handle complex server issues, hosting troubleshooting, database optimization, and performance tuning (like Core Web Vitals). Beyond WordPress, I have extensive experience integrating APIs and automation tools like Zapier to keep business systems running smoothly. You can see examples of my recent work on high-performing sites like https://www.snopud.com/.\n\nWhile based on flexible scheduling, I am fully equipped to coordinate with your needs and operate closely around Australian time requirements. \n\nCould you share a bit more about your current server environment and the types of IT or website support tasks you need help with first?",
+    "publishedDateTime": "2026-10-19T06:21:26+0000",
+    "addedAt": "2026-10-19T06:22:43.430Z",
+    "url": "https://www.upwork.com/jobs/~022112066558137965135",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112066558137965135/apply/"
+  },
+  {
     "id": "2112047550961523279",
     "ciphertext": "~022112047550961523279",
     "title": "Website Re Design",

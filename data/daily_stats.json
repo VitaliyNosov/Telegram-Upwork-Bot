@@ -1,12 +1,19 @@
 {
   "date": "2026-10-19",
   "lastDigestSentDate": "2026-10-18",
-  "totalScanned": 16,
-  "matchedFilters": 4,
+  "totalScanned": 17,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Server + Website Support",
+      "budget": "$20-$50/hr",
+      "score": 5099,
+      "url": "https://www.upwork.com/jobs/~022112066558137965135",
+      "addedAt": "2026-10-19T06:22:42.115Z"
+    },
     {
       "title": "Website Re Design",
       "budget": "$20-$45/hr",
