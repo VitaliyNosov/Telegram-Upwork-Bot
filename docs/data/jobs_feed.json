@@ -1,5 +1,33 @@
 [
   {
+    "id": "2112322214236294379",
+    "ciphertext": "~022112322214236294379",
+    "title": "WordPress Real Estate Developer Needed — Fast HousingFeed Launch + Long-Term Houzez Platform",
+    "description": "**WordPress Real Estate Developer Needed — Fast HousingFeed Launch + Long-Term Houzez Platform**\n\nOur Financial Health (OFH) is seeking an experienced WordPress developer to launch a housing listings website quickly, then continue developing our larger platform.\n\nWe help renters, working families, voucher holders, and first-time buyers access housing and build financial readiness through our Pathway to Homeownership program.\n\n**This project has two phases. Please quote each separately.**\n\n**PHASE 1: Immediate Housing Listings Launch**\n\nOur existing main website is on Mixo. We want a simple WordPress listings site at **homes.ofhinitiative.com**, initially serving **Baltimore and Atlanta**.\n\nOur target is a working first version within **48 hours of receiving the required access, licenses, and usable feed data**. Please explain whether you can meet that target.\n\nDeliverables:\n\n- Set up WordPress, hosting connection, subdomain, and SSL.\n- Use a lightweight property theme or directory plugin.\n- Import HousingFeed listings using WP All Import or a suitable alternative.\n- Map photos, addresses, cities, ZIP codes, rent, bedrooms, bathrooms, descriptions, and amenities.\n- Use HousingFeed’s unique listing ID to prevent duplicates and support updates.\n- Configure scheduled imports and removal of unavailable listings, with safeguards against deleting inventory when an import fails.\n- Build a listing grid, individual property pages, and city, bedroom, and maximum-rent filters.\n- Add clearly labeled **“Get OFH Housing Help”** call buttons and lead forms.\n- Include source attribution, source listing links, and inquiry routing required by our HousingFeed agreement.\n- Test mobile display, search, imports, and lead delivery.\n- Provide instructions so our team can manage the site.\n\n**PHASE 2: Long-Term Housing Platform**\n\nAfter the initial launch, we want to expand into approximately **15 major U.S. markets**, targeting **45,000+ listings**, with room for further growth.\n\nLong-term work will include:\n\n- Houzez implementation or another architecture you can justify.\n- Automated feed synchronization and inventory management.\n- Advanced search, maps, saved properties, and user accounts.\n- City landing pages and technical SEO.\n- Integration with OFH’s Pathway program, intake forms, and Zoho CRM.\n- Performance optimization, backups, security, and ongoing maintenance.\n- A migration plan that preserves listing data and URLs when moving beyond the initial version.\n\n**REQUIRED EXPERIENCE**\n\nYou must have practical experience with:\n\n- WordPress real estate or directory websites.\n- Houzez.\n- WP All Import, custom fields, and scheduled imports.\n- CSV/JSON feeds and API integrations.\n- Large listing databases and WordPress performance.\n- Hosting, DNS, subdomains, and SSL.\n- Mobile layouts and lead-generation forms.\n\nHousingFeed and Zoho experience are strong advantages.\n\n**TO APPLY, PLEASE INCLUDE:**\n\n1. Two or three relevant websites you built, explaining your role.\n2. Your experience with Houzez, WP All Import, and housing feeds.\n3. Your proposed approach and realistic delivery time for Phase 1.\n4. Your separate cost estimates for Phase 1 and Phase 2.\n5. Required hosting, plugin licenses, and recurring costs.\n6. How you would handle updates, duplicates, unavailable listings, and failed imports.\n7. Your availability to start and provide ongoing support.\n\n**We need someone who can deliver the immediate launch and has the experience to build the larger platform afterward.**\n\nStart your application with **“OFH Housing Launch”** so we know you reviewed the full project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 47,
+    "budgetDisplay": "$25 - $47/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "javascript",
+      "api",
+      "api-integration"
+    ],
+    "score": 4750,
+    "coverLetter": "OFH Housing Launch! Hi there, \n\nI can definitely meet your 48-hour target for the Phase 1 launch on homes.ofhinitiative.com and scale up to your 15-market platform using Houzez afterward. \n\nI specialize in complex WordPress data integrations, custom real estate themes, and heavy-duty automated imports. For Phase 1, I will configure WP All Import to map your HousingFeed data securely, utilizing unique listing IDs to prevent duplicates. To protect your inventory against failed imports, I’ll implement dry-run error logging and staging safeguards so old data is never wiped out accidentally. I also have deep experience with API and CRM integrations (like Zoho) for seamless lead routing. \n\nFor relevant work, you can review https://www.cchpca.org/ which showcases my clean builds and performance optimization. \n\nCan you share the HousingFeed data structure (CSV/JSON/API) so I can verify the exact mapping requirements before we kick off?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-10-19T23:17:26+0000",
+    "addedAt": "2026-10-19T23:20:49.441Z",
+    "url": "https://www.upwork.com/jobs/~022112322214236294379",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112322214236294379/apply/"
+  },
+  {
     "id": "2112291951285410344",
     "ciphertext": "~022112291951285410344",
     "title": "Finish Website Homepage and Launch",
