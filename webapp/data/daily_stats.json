@@ -1,10 +1,10 @@
 {
   "date": "2026-10-20",
   "lastDigestSentDate": "2026-10-19",
-  "totalScanned": 7,
-  "matchedFilters": 4,
+  "totalScanned": 8,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022112332805218097447",
       "addedAt": "2026-10-20T00:02:43.076Z"
+    },
+    {
+      "title": "Build a Simple WordPress Site",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022112350447343970886",
+      "addedAt": "2026-10-20T01:12:41.286Z"
     }
   ]
 }

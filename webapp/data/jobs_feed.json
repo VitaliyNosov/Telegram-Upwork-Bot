@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112350447343970886",
+    "ciphertext": "~022112350447343970886",
+    "title": "Build a Simple WordPress Site",
+    "description": "I need a freelancer to build a simple WordPress websites for me. The site should be clean, easy to navigate, and set up for basic content management. Each site will include a homepage, a few key pages, and a contact form. I’m looking for someone who can complete the work efficiently and deliver functional websites that are ready to use right away. Please share examples of similar projects and your availability for this short-term project.\n\nContents and images will be provided",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 27,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nI can help you build a clean, easy-to-navigate WordPress site that is fully set up for hassle-free content management and ready to use right away. Since you already have the content and images ready, I can focus entirely on delivering a well-structured homepage, key pages, and a secure contact form efficiently. \n\nWith extensive experience in custom WordPress development, I build lightweight, responsive sites using clean code without unnecessary bloat. You can check out a recent project of mine here: https://www.seeintl.org/. \n\nI have open availability and can get started immediately. Are there any specific design references or preferred page builders you'd like me to use? Let's chat!",
+    "publishedDateTime": "2026-10-20T01:11:00+0000",
+    "addedAt": "2026-10-20T01:12:43.974Z",
+    "url": "https://www.upwork.com/jobs/~022112350447343970886",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112350447343970886/apply/"
+  },
+  {
     "id": "2112339163684306446",
     "ciphertext": "~022112339163684306446",
     "title": "Website Development & Maintenance",
