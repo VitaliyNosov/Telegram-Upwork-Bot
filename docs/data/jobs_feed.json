@@ -1,5 +1,31 @@
 [
   {
+    "id": "2112332805218097447",
+    "ciphertext": "~022112332805218097447",
+    "title": "Update hosting environment and PHP files",
+    "description": "Update my websites hosting environment and PHP files",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you seamlessly update your hosting environment and PHP files while ensuring your WordPress websites remain fully stable and secure throughout the process. \n\nWith extensive experience managing server environments, database optimization, and PHP configurations using tools like WP-CLI and Git, I regularly handle hosting migrations, environment upgrades, and troubleshooting PHP conflicts (such as memory limits and error 500s) without downtime. For instance, I recently managed the complex technical migration and ongoing performance support for sites like https://www.snopud.com/.\n\nLet’s get your hosting environment and PHP version updated smoothly. Are you moving to a new host, or simply upgrading your current server's PHP version?",
+    "publishedDateTime": "2026-10-19T23:59:24+0000",
+    "addedAt": "2026-10-20T00:02:45.920Z",
+    "url": "https://www.upwork.com/jobs/~022112332805218097447",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112332805218097447/apply/"
+  },
+  {
     "id": "2112322214236294379",
     "ciphertext": "~022112322214236294379",
     "title": "WordPress Real Estate Developer Needed — Fast HousingFeed Launch + Long-Term Houzez Platform",
