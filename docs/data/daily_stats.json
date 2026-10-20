@@ -1,11 +1,11 @@
 {
   "date": "2026-10-20",
   "lastDigestSentDate": "2026-10-19",
-  "totalScanned": 18,
-  "matchedFilters": 6,
+  "totalScanned": 19,
+  "matchedFilters": 7,
   "byKeyword": {
     "wordpress developer": 5,
-    "woocommerce": 1
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -49,6 +49,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022112350447343970886",
       "addedAt": "2026-10-20T01:12:41.286Z"
+    },
+    {
+      "title": "E-Commerce Agency Needed: Shopify Store, Product Personalization & API Integrations",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022112499040212872616",
+      "addedAt": "2026-10-20T11:02:44.485Z"
     }
   ]
 }
