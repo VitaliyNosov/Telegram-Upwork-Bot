@@ -1,11 +1,11 @@
 {
   "date": "2026-10-20",
   "lastDigestSentDate": "2026-10-19",
-  "totalScanned": 38,
-  "matchedFilters": 10,
+  "totalScanned": 41,
+  "matchedFilters": 11,
   "byKeyword": {
     "wordpress developer": 8,
-    "woocommerce": 2
+    "woocommerce": 3
   },
   "topJobs": [
     {
@@ -14,6 +14,13 @@
       "score": 4750,
       "url": "https://www.upwork.com/jobs/~022112322214236294379",
       "addedAt": "2026-10-19T23:20:47.894Z"
+    },
+    {
+      "title": "Website & SAP Business One Integration Specialist",
+      "budget": "$20-$40/hr",
+      "score": 4150,
+      "url": "https://www.upwork.com/jobs/~022112590908625351479",
+      "addedAt": "2026-10-20T17:08:48.017Z"
     },
     {
       "title": "Website Development & Maintenance",

@@ -1,5 +1,39 @@
 [
   {
+    "id": "2112590908625351479",
+    "ciphertext": "~022112590908625351479",
+    "title": "Website & SAP Business One Integration Specialist",
+    "description": "Job Title\nWebsite & SAP Business One Integration Specialist\n\nResponsibilities\nMigrate existing website to a modern, scalable platform (e.g., Shopify, WooCommerce, or custom).\nIntegrate the website with e-commerce functionality (product catalog, payment gateways, etc.).\nLink the e-commerce solution and website data to SAP Business One (for inventory, CRM, or order management).\nRequirements\nProven experience in website development and migration (preferably with platforms like Shopify, WooCommerce, or custom builds).\nExperience integrating websites or e-commerce systems with SAP Business One (API or middleware experience is a plus).\nStrong background in web technologies (e.g., JavaScript, APIs, relevant CMS or frameworks).\nLocation\nPreferably aligned with AST (Dominican Republic).",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$20 - $40/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "shopify",
+      "woocommerce",
+      "paypal",
+      "stripe",
+      "sap",
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 4150,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-20T17:05:13+0000",
+    "addedAt": "2026-10-20T17:09:23.136Z",
+    "url": "https://www.upwork.com/jobs/~022112590908625351479",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112590908625351479/apply/"
+  },
+  {
     "id": "2112574565640144333",
     "ciphertext": "~022112574565640144333",
     "title": "WordPress Website Update for Marketing Site",
