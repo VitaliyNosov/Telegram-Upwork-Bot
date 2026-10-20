@@ -1,5 +1,32 @@
 [
   {
+    "id": "2112442075804719399",
+    "ciphertext": "~022112442075804719399",
+    "title": "Payment set up for Peptide E Commerce",
+    "description": "We are a US LLC running an e-commerce site that sells research peptides (RUO / for research use only — not for human consumption). We need to accept payments from customers in Colombia, primarily Nequi, and ideally also PSE, local cards, and other common Colombian methods. Funds must settle in USD to our US bank account.\nImportant context:\ndLocal already denied our application. We understand research peptides are a high-risk / restricted category for most processors due to regulatory status in both the US and Colombia. We need someone with real experience navigating underwriting and integrations in this space (or similar high-risk categories such as research chemicals, nutraceuticals, or supplements).\nScope of work:\n•  Research and recommend realistic payment options that support Nequi (and other Colombian local methods) with settlement to a US bank in USD. This may include cross-border PSPs (EBANX, Kushki, Nuvei, TransFi, or others) or a local Colombian entity + gateway route (Wompi, ePayco, Bold, etc.) followed by international transfer.\n•  Help prepare merchant account applications and underwriting packages tailored for our product category.\n•  Perform the technical integration into our existing store (Shopify, WooCommerce, or custom — please confirm what you have experience with).\n•  Set up testing, webhooks / order status sync, and support go-live.\n•  Provide clear documentation on fees, FX, settlement timing, chargebacks, and any compliance considerations.\n•  Advise on realistic approval odds, timeline, and backup strategies if primary options are declined.\nWhat we are looking for:\n•  Proven experience integrating Nequi, PSE, or other Colombian local payment methods for international merchants.\n•  Track record with high-risk or restricted product categories (peptides, research chemicals, supplements, etc.).\n•  Familiarity with both local Colombian gateways and cross-border providers that settle to the US.\n•  Strong technical skills with Shopify, WooCommerce, or custom API integrations.\n•  Clear, realistic communication about underwriting challenges, costs, and timelines (no overpromising).\nPlease include in your proposal:\n•  Specific examples of Nequi or Colombian payment integrations you have completed (especially for non-Colombian or high-risk merchants).\n•  Your recommended approach given that dLocal has already denied us.\n•  Estimated timeline and high-level pricing.\n•  Any questions about our platform, product labeling, or current setup.\nWe are looking for a practical, experienced partner who understands the constraints of this category and can help Colombian customers pay with Nequi while funds land in the US. Proposals that show relevant prior work will be prioritized.\nScreening questions (optional but recommended):\n1.  Have you successfully integrated Nequi or PSE for a merchant based outside Colombia? Please describe one example.\n2.  Have you worked with high-risk or restricted product categories (peptides, research chemicals, supplements, etc.)? What was the outcome?\n3.  What platform(s) do you have the most experience integrating payments into (Shopify, WooCommerce, custom, etc.)?\nSkills to add:\nNequi, Payment Gateway Integration, Shopify, WooCommerce, API Integration, E-commerce, Cross-border Payments, High-Risk Merchant Accounts, Latin America Payments, PSE\n\nCopy the sections above into the corresponding fields when you post on Upwork. Adjust the budget and project length based on your preference. If you want a shorter version or any tweaks (e.g., emphasize Shopify only, add a budget range, or remove specific processor names), just say the word.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "ecommerce-consulting",
+      "woocommerce"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nNavigating high-risk underwriting for research peptides while trying to route Colombian local methods like Nequi and PSE to a US bank account requires the right alternative cross-border mix—especially after a dLocal denial. \n\nWhile major global processors often blanket-reject this category, I specialize in complex e-commerce payment integrations and high-risk setups across WooCommerce and Shopify. My approach avoids standard routes that trigger automated declines, instead targeting cross-border aggregators or specialized regional partners with realistic risk appetites for restricted goods, while ensuring seamless API/webhook order syncing to your store.\n\nTo give you the most accurate roadmap: are you currently running this store on WooCommerce or Shopify, and do your supplier COAs or product labeling explicitly state \"Research Use Only\"? \n\nLet's discuss realistic approval odds and the best gateway route for your setup.",
+    "publishedDateTime": "2026-10-20T10:15:44+0000",
+    "addedAt": "2026-10-20T10:18:44.129Z",
+    "url": "https://www.upwork.com/jobs/~022112442075804719399",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112442075804719399/apply/"
+  },
+  {
     "id": "2112350447343970886",
     "ciphertext": "~022112350447343970886",
     "title": "Build a Simple WordPress Site",
