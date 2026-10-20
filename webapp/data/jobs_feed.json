@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112339163684306446",
+    "ciphertext": "~022112339163684306446",
+    "title": "Website Development & Maintenance",
+    "description": "We need a reliable freelancer to build and maintain a website for our business. The work includes improving website functionality. You should be comfortable handling updates, troubleshooting issues, and supporting ongoing improvements. This is a long-term opportunity for someone who can communicate clearly and deliver dependable results.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "html5",
+      "web-design"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nI’d love to help you build, maintain, and continuously improve your business website. With extensive experience in PHP, web programming, and ongoing site maintenance, I specialize in keeping platforms fast, secure, and fully functional while implementing new features as your business grows. \n\nMy approach focuses on clean code and reliable, long-term support so you never have to worry about broken updates or technical roadblocks. You can see an example of my recent development and maintenance work on complex sites like https://www.snopud.com/. \n\nAre there any specific functionality improvements or updates you'd like to prioritize first? Let’s chat about how I can support your goals.",
+    "publishedDateTime": "2026-10-20T00:25:44+0000",
+    "addedAt": "2026-10-20T00:28:44.693Z",
+    "url": "https://www.upwork.com/jobs/~022112339163684306446",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112339163684306446/apply/"
+  },
+  {
     "id": "2112332805218097447",
     "ciphertext": "~022112332805218097447",
     "title": "Update hosting environment and PHP files",
