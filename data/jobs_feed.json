@@ -1,5 +1,35 @@
 [
   {
+    "id": "2112595637174629175",
+    "ciphertext": "~022112595637174629175",
+    "title": "Experienced Web Developer Needed for a Membership Directory Website",
+    "description": "Seeking an experienced developer to build a professional membership directory website with search, user accounts, recurring subscriptions, and an admin dashboard.\n\nThe website must be mobile-friendly, easy to manage, and built with future growth in mind.\n\nPlease include in your proposal:\n\nTwo similar websites you have built and your role.\nYour recommended technology.\nEstimated timeline and fixed-price range.\nOngoing software and maintenance costs.\nYour testing, documentation, and handover process.\nI must own and control the website, accounts, source code, and data.\n\nBusiness details, branding, and full requirements will be shared privately after candidate selection and a confidentiality agreement. The posted budget is preliminary; the final scope and price will be agreed before development begins.\n\nPlease begin your proposal with “DIRECTORY” and briefly explain your experience with membership websites and recurring billing.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "payment-gateway-integration",
+      "responsive-design",
+      "web-programming",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "DIRECTORY: I specialize in building scalable WordPress membership portals with custom searchable directories and automated recurring billing via Stripe and WooCommerce Subscriptions.\n\nFor tech, I recommend custom WordPress paired with ACF and FacetWP for high-performance search/filtering. This gives you 100% site ownership, source code control, and scalable user dashboards. As Lead Developer, I built complex directory and data-driven platforms like https://www.cchpca.org/ and https://waapple.org/.\n\n* Timeline & Budget: 3 to 5 weeks, estimated at $1,800–$3,500 depending on final scope.\n* Ongoing Costs: Standard hosting (~$30/mo) + plugin renewals (~$150/yr).\n* Handover: Rigorous cross-device testing, staging environment setup, recorded video documentation, and a complete admin account/data transfer.\n\nCould you share what custom fields members will need in their profiles so I can refine the project structure?",
+    "publishedDateTime": "2026-10-20T17:25:40+0000",
+    "addedAt": "2026-10-20T17:29:12.366Z",
+    "url": "https://www.upwork.com/jobs/~022112595637174629175",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112595637174629175/apply/"
+  },
+  {
     "id": "2112590908625351479",
     "ciphertext": "~022112590908625351479",
     "title": "Website & SAP Business One Integration Specialist",

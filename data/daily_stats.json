@@ -1,10 +1,10 @@
 {
   "date": "2026-10-20",
   "lastDigestSentDate": "2026-10-19",
-  "totalScanned": 41,
-  "matchedFilters": 11,
+  "totalScanned": 43,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 3
   },
   "topJobs": [
@@ -84,6 +84,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022112574565640144333",
       "addedAt": "2026-10-20T16:02:43.695Z"
+    },
+    {
+      "title": "Experienced Web Developer Needed for a Membership Directory Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022112595637174629175",
+      "addedAt": "2026-10-20T17:28:50.193Z"
     }
   ]
 }
