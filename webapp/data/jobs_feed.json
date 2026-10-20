@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112574565640144333",
+    "ciphertext": "~022112574565640144333",
+    "title": "WordPress Website Update for Marketing Site",
+    "description": "Need a freelancer to update an existing WordPress website to match the look and feel of 2-3 competitor sites. The goal is to create a user-friendly marketing website for Sells Design and Produce that makes it easy for visitors to connect with me quickly. The work should include improving the overall design, refining the layout, and adding simple, fillable contact or messaging options. The site should feel modern, clean, and easy to navigate while supporting the brand’s marketing goals.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can update your WordPress site for Sells Design and Produce to give it a clean, modern look aligned with your top competitors while keeping visitor conversion front and center.\n\nI specialize in custom WordPress layout refinements, Gutenberg/ACF development, and building intuitive marketing sites. I will clean up your visual hierarchy, modernize the user experience, and set up simple, fast-loading contact forms so potential clients can reach you in just a couple of clicks. You can see an example of a modern, clean WordPress site I’ve worked on here: https://about.offerup.com/\n\nDo you already have the competitor URLs ready to share, or would you like to jump on a quick chat to review them together?",
+    "publishedDateTime": "2026-10-20T16:00:47+0000",
+    "addedAt": "2026-10-20T16:03:14.831Z",
+    "url": "https://www.upwork.com/jobs/~022112574565640144333",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112574565640144333/apply/"
+  },
+  {
     "id": "2112558452841848009",
     "ciphertext": "~022112558452841848009",
     "title": "WordPress Website Developer Needed —",
