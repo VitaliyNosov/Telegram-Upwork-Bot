@@ -1,5 +1,37 @@
 [
   {
+    "id": "2112628706529635752",
+    "ciphertext": "~022112628706529635752",
+    "title": "E-commerce Website Rework",
+    "description": "We are looking to rework our existing e-commerce website using a working template we already have. The project involves updating (or starting from scratch) the site to improve functionality, user experience, and overall performance. We need someone who can work efficiently, communicate clearly, and help bring the site up to modern standards while maintaining its core structure and purpose.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "php",
+      "web-programming",
+      "shopify",
+      "woocommerce",
+      "ecommerce-consulting"
+    ],
+    "score": 2800,
+    "coverLetter": "Hi! I have extensive experience reworking e-commerce platforms and can help you modernize your site while maintaining its core functionality. Whether we optimize your existing setup or rebuild using your template, I will ensure the final result is fast, secure, and user-friendly.\n\nI specialize in both WooCommerce and Shopify, so I can handle the specific technical requirements of your store, from checkout flow optimization to custom template integration. You can see an example of my work on complex, high-traffic sites like https://www.daysforgirls.org/, where I focused on performance and layout stability. My goal is to streamline your development process so we can launch a professional, high-converting site without unnecessary downtime.\n\nAre you planning to stick with your current platform, or are you looking for a migration as part of this rework?",
+    "publishedDateTime": "2026-10-20T19:35:16+0000",
+    "addedAt": "2026-10-20T19:39:03.025Z",
+    "url": "https://www.upwork.com/jobs/~022112628706529635752",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112628706529635752/apply/"
+  },
+  {
     "id": "2112607598466505929",
     "ciphertext": "~022112607598466505929",
     "title": "Website Developer for a Modeling Agency",
