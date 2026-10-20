@@ -1,5 +1,37 @@
 [
   {
+    "id": "2112607598466505929",
+    "ciphertext": "~022112607598466505929",
+    "title": "Website Developer for a Modeling Agency",
+    "description": "We are looking for an experienced website developer/designer to revamp and enhance our existing website for Mode Bridge USA, a NYC-based modeling education platform.\n\nThe website is already built, but we need someone to improve its overall design, functionality, and user experience. We want a modern, sophisticated, visually appealing website that reflects the international fashion and modeling industry.\n\nThe project includes improving the layout, navigation, mobile responsiveness, loading speed, SEO, and integrating course registrations, payment options, and inquiry forms.\n\nWe are looking for someone with a strong design sense who can make our website look professional, premium, and engaging while ensuring it is easy to navigate and optimized for conversions.\n\nPlease share your portfolio, estimated cost, and timeline for completion. Experience with fashion, modeling, or educational websites is a plus.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "javascript",
+      "html",
+      "php",
+      "css",
+      "wordpress"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! Revamping Mode Bridge USA into a sophisticated, high-converting platform that matches the elegance of the fashion industry sounds like a fantastic project. \n\nWith extensive experience in WordPress development, custom design implementation, and performance optimization, I specialize in transforming existing sites into sleek, modern experiences. For this project, I can elevate your visual layout, ensure seamless mobile responsiveness, and cleanly integrate your course registrations, payment gateways, and inquiry forms—all while optimizing speed and SEO. \n\nYou can view a recent project with a clean, professional aesthetic here: https://www.thelifeyoucansave.org/. \n\nTo give you an accurate estimate, could you share a bit more about the current platform structure and your target launch timeline? Let's connect in chat to discuss the details.",
+    "publishedDateTime": "2026-10-20T18:11:46+0000",
+    "addedAt": "2026-10-20T18:14:51.178Z",
+    "url": "https://www.upwork.com/jobs/~022112607598466505929",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112607598466505929/apply/"
+  },
+  {
     "id": "2112606312471060505",
     "ciphertext": "~022112606312471060505",
     "title": "Web Developer for Website Redesign",
