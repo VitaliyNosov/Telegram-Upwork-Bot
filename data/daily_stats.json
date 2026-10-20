@@ -1,10 +1,10 @@
 {
   "date": "2026-10-20",
   "lastDigestSentDate": "2026-10-19",
-  "totalScanned": 25,
-  "matchedFilters": 7,
+  "totalScanned": 28,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 7,
     "woocommerce": 2
   },
   "topJobs": [
@@ -23,11 +23,25 @@
       "addedAt": "2026-10-20T00:28:43.412Z"
     },
     {
+      "title": "WordPress Website Rebuild and Editing Assistance",
+      "budget": "$20-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022112558441148128457",
+      "addedAt": "2026-10-20T14:58:49.531Z"
+    },
+    {
       "title": "Payment set up for Peptide E Commerce",
       "budget": "Fixed-price",
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022112442075804719399",
       "addedAt": "2026-10-20T10:18:42.681Z"
+    },
+    {
+      "title": "WordPress Website Developer Needed —",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022112558452841848009",
+      "addedAt": "2026-10-20T14:59:17.552Z"
     },
     {
       "title": "Finish Website Homepage and Launch",

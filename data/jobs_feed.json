@@ -1,5 +1,68 @@
 [
   {
+    "id": "2112558452841848009",
+    "ciphertext": "~022112558452841848009",
+    "title": "WordPress Website Developer Needed —",
+    "description": "WordPress Developer Needed — Convert Finished HTML to SEO-Optimized Website (3 pages plus bridge page)\n\nDescription:\n\nI have three professionally designed, fully coded HTML pages ready to go. This is not a design job. The design, layout, colors, fonts, and content are already done. I need a WordPress developer to convert them accurately into a fast, clean, SEO-optimized WordPress site.\n\nWhat you will build:\n\nPage 1: Personal brand hub (main landing page)\nPage 2: Insurance services site on a separate domain\nPage 3: Financial advisory standalone page\nPage 4: Bridge page linking to an external calculator tool\n\nAll HTML files provided at project start. No design decisions needed from you.\n\nTechnical requirements:\n\nWordPress self-hosted, Elementor Pro preferred\nRank Math or Yoast SEO fully configured\nCore Web Vitals passing score on Google PageSpeed\nContact forms connected to a provided email or webhook\nSSL, GA4, Google Search Console, schema markup\nMobile responsive, matching the existing HTML layouts exactly\n\nTimeline: 14 days\nBudget: Fixed price only, no hourly\n\nTo apply, include:\n\nTwo or three examples of WordPress sites built from custom HTML or designer mockups\nYour preferred page builder and why\nYour fixed-price quote and timeline",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php",
+      "html",
+      "website",
+      "javascript",
+      "html5"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can convert your HTML files into a high-performance WordPress site that maintains pixel-perfect accuracy while ensuring top-tier SEO and Core Web Vitals scores.\n\nI specialize in custom theme development and converting existing designs into functional, fast-loading WordPress environments. For this project, I recommend using Elementor Pro because it offers the best balance of design fidelity and ease of management for your landing pages. I have extensive experience building from custom mockups, such as my work on https://www.thelifeyoucansave.org/, where design integrity was paramount.\n\nMy fixed-price quote for this 4-page scope is $XXX, and I can have this completed and optimized within 10 days. Would you like to share the HTML files so I can review the code structure and provide a final confirmation on the timeline?",
+    "publishedDateTime": "2026-10-20T14:56:10+0000",
+    "addedAt": "2026-10-20T14:59:34.151Z",
+    "url": "https://www.upwork.com/jobs/~022112558452841848009",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112558452841848009/apply/"
+  },
+  {
+    "id": "2112558441148128457",
+    "ciphertext": "~022112558441148128457",
+    "title": "WordPress Website Rebuild and Editing Assistance",
+    "description": "I am seeking a skilled freelancer to assist in rebuilding and editing my website using WordPress. The ideal candidate should have experience with WordPress themes, plugins, and general website optimization. Your role will include updating content, enhancing the visual design, and ensuring the website is user-friendly and responsive. A strong understanding of SEO principles will be a plus. If you are passionate about creating engaging websites and have a keen eye for detail, I would love to see your portfolio and discuss this project further.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$20 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "css",
+      "html"
+    ],
+    "score": 3100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-20T14:56:01+0000",
+    "addedAt": "2026-10-20T14:59:17.164Z",
+    "url": "https://www.upwork.com/jobs/~022112558441148128457",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112558441148128457/apply/"
+  },
+  {
     "id": "2112499040212872616",
     "ciphertext": "~022112499040212872616",
     "title": "E-Commerce Agency Needed: Shopify Store, Product Personalization & API Integrations",
