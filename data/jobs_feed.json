@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112606312471060505",
+    "ciphertext": "~022112606312471060505",
+    "title": "Web Developer for Website Redesign",
+    "description": "We need a web developer to redesign our website to make it more competitive against our top 3 competitors and better motivate custom home customers. The project includes improving the overall look, user experience, and conversion-focused messaging. After the redesign, we also need ongoing support for lower-cost hosting services. Please share examples of similar website redesigns and your approach to improving competitiveness and customer engagement. Preferably experience creating sites for home builders.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! To redesign your site for better conversion and competitive positioning, I focus on UX-driven architecture and high-performance development rather than just aesthetics.\n\nMy approach involves auditing your top 3 competitors to identify their conversion gaps and implementing a modern, Gutenberg-based layout that prioritizes clear calls-to-action for custom home leads. I have extensive experience building high-conversion sites, such as https://www.thelifeyoucansave.org/, where user engagement and clear messaging were the primary drivers. Beyond the redesign, I provide reliable, cost-effective hosting management and ongoing maintenance to keep your site secure and fast.\n\nDo you have a link to your current site or a list of your top 3 competitors so I can share a few initial thoughts on your site's UX?",
+    "publishedDateTime": "2026-10-20T18:06:27+0000",
+    "addedAt": "2026-10-20T18:09:04.827Z",
+    "url": "https://www.upwork.com/jobs/~022112606312471060505",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112606312471060505/apply/"
+  },
+  {
     "id": "2112595637174629175",
     "ciphertext": "~022112595637174629175",
     "title": "Experienced Web Developer Needed for a Membership Directory Website",
