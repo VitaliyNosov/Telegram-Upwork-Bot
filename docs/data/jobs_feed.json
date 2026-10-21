@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113047204998643848",
+    "ciphertext": "~022113047204998643848",
+    "title": "Animal Classified Website Development",
+    "description": "I need a developer to build a large animal classified website for advertising dog and cat breeds. The site should support many listings, organized categories, and a clear user experience for buyers and sellers. I’m looking for someone who can create a functional, scalable platform and help turn this idea into a working site. Please share relevant examples of similar projects and your approach to building a large-scale classified site. The site needs to be mobile an AI friendly,You can build it with AI and a example of my idea is petclassifieds.com  or puppies.com",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 133,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "data-entry",
+      "web-design",
+      "graphic-design",
+      "wordpress"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! \n\nBuilding a large-scale, high-performance animal classified site like puppies.com requires robust taxonomy management, clean user workflows for buyers and sellers, and scalable architecture to handle a high volume of listings. \n\nWith extensive experience building custom WordPress and directory platforms, I can create a fast, mobile-friendly, and SEO-optimized classifieds site tailored to your exact vision. I am comfortable leveraging modern AI tools to accelerate development while ensuring clean, maintainable code under the hood. \n\nFor a similar high-traffic, content-rich build, you can check out my work on https://waapple.org/. \n\nHow would you like to handle user registration and listing submissions for sellers? Let’s hop on a quick chat to map out the best approach.",
+    "publishedDateTime": "2026-10-21T23:18:48+0000",
+    "addedAt": "2026-10-21T23:22:44.311Z",
+    "url": "https://www.upwork.com/jobs/~022113047204998643848",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113047204998643848/apply/"
+  },
+  {
     "id": "2113031642168628022",
     "ciphertext": "~022113031642168628022",
     "title": "WordPress Website Redesign for Sober Living Home — Design, SEO & Lead Generation",
