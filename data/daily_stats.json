@@ -1,74 +1,8 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 62,
-  "matchedFilters": 9,
-  "byKeyword": {
-    "wordpress developer": 9
-  },
-  "topJobs": [
-    {
-      "title": "WordPress Developer Needed for Custom Website Development",
-      "budget": "$30-$45/hr",
-      "score": 4650,
-      "url": "https://www.upwork.com/jobs/~022112881680827152080",
-      "addedAt": "2026-10-21T12:24:43.315Z"
-    },
-    {
-      "title": "Content Repurposing and Website Maintenance",
-      "budget": "$12-$38/hr",
-      "score": 3800,
-      "url": "https://www.upwork.com/jobs/~022113003120103516258",
-      "addedAt": "2026-10-21T20:26:45.050Z"
-    },
-    {
-      "title": "Ecommerce Website Update and Correction",
-      "budget": "$12-$27/hr",
-      "score": 2800,
-      "url": "https://www.upwork.com/jobs/~022112992424385437721",
-      "addedAt": "2026-10-21T19:42:44.289Z"
-    },
-    {
-      "title": "Long-Term Senior WordPress Developer – EUROPE ONLY | WooCommerce, WPML, Brevo & SEO",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022112899848576562896",
-      "addedAt": "2026-10-21T13:36:44.613Z"
-    },
-    {
-      "title": "WordPress Developer Wanted — Build The Underdog Website from Existing Designs",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022112909060687851014",
-      "addedAt": "2026-10-21T14:12:45.323Z"
-    },
-    {
-      "title": "Build a Simple 7-Page Business Website",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022112942962028516150",
-      "addedAt": "2026-10-21T16:28:42.240Z"
-    },
-    {
-      "title": "Shut Down Old Web Server",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022112979096775554768",
-      "addedAt": "2026-10-21T18:50:44.594Z"
-    },
-    {
-      "title": "Website Development for Construction Business",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022113004009548013593",
-      "addedAt": "2026-10-21T20:30:46.365Z"
-    },
-    {
-      "title": "Cloudflare Website Migration Specialist",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022112966401733524452",
-      "addedAt": "2026-10-21T18:00:47.898Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
