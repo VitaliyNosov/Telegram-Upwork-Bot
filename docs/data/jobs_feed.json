@@ -1,5 +1,40 @@
 [
   {
+    "id": "2112881680827152080",
+    "ciphertext": "~022112881680827152080",
+    "title": "WordPress Developer Needed for Custom Website Development",
+    "description": "Job Description\n\nWe’re looking for an experienced WordPress Developer to build a professional, responsive, and user-friendly website. The ideal candidate should have strong experience with WordPress development, website customization, and performance optimization.\n\n\nScope of Work\n\n- Design and develop a custom WordPress website.\n- Create responsive layouts for desktop, tablet, and mobile.\n- Customize WordPress themes and plugins as required.\n- Build custom pages using Elementor, Bricks, Oxygen, Breakdance, or Gutenberg.\n- Ensure fast loading speed and follow Core Web Vitals best practices.\n- Implement contact forms, third-party integrations, and other required functionality.\n- Perform cross-browser testing, troubleshoot issues, and ensure website quality.\n- Follow SEO-friendly development practices.\n\n\nRequirements\n\n- Proven experience in WordPress website development.\n- Strong knowledge of HTML, CSS, JavaScript, and PHP.\n- Experience with custom post types, ACF, and dynamic content is a plus.\n- Understanding of responsive design, website security, and performance optimization.\n- Ability to follow Figma designs and convert them into accurate WordPress pages.\n- Good communication skills and the ability to meet deadlines.\n\n\nTo Apply\nPlease share:\n\n- Three to five WordPress websites you have developed.\n- Your preferred WordPress page builder.\n- Your estimated timeline and budget for this project.\n- A brief explanation of how you approach website speed and responsive design.\n\nWe’re looking for someone reliable who can deliver clean, high-quality work and potentially collaborate with us on future projects.",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$30 - $45/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website",
+      "frontend-development",
+      "blog",
+      "wordpress",
+      "web-programming",
+      "css",
+      "web-design",
+      "html",
+      "javascript",
+      "php"
+    ],
+    "score": 4650,
+    "coverLetter": "Hi! I’d love to help you build a high-performing, custom WordPress website tailored to your exact specifications. \n\nFor page building, I primarily work with Gutenberg and Advanced Custom Fields (ACF) for clean, lightweight code, but I am also fully experienced with Elementor and Bricks depending on your preference. When it comes to speed and responsiveness, I approach performance by optimizing Core Web Vitals, leveraging proper caching, and ensuring mobile-first CSS builds that scale seamlessly across all devices. \n\nHere are three custom WordPress sites I’ve recently developed:\n- https://www.seeintl.org/\n- https://www.thelifeyoucansave.org/\n- https://www.daysforgirls.org/\n\nTimeline and budget depend on the exact page count and design complexity, but I can provide a precise estimate once I review your Figma files. \n\nWould you like to share the designs or a quick outline so we can discuss the scope?",
+    "publishedDateTime": "2026-10-21T12:21:55+0000",
+    "addedAt": "2026-10-21T12:24:53.874Z",
+    "url": "https://www.upwork.com/jobs/~022112881680827152080",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112881680827152080/apply/"
+  },
+  {
     "id": "2112645462703990882",
     "ciphertext": "~022112645462703990882",
     "title": "WordPress Website Developer Needed for Ongoing Project",

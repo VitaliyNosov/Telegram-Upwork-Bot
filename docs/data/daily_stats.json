@@ -1,8 +1,18 @@
 {
   "date": "2026-10-21",
   "lastDigestSentDate": "2026-10-20",
-  "totalScanned": 24,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 25,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress Developer Needed for Custom Website Development",
+      "budget": "$30-$45/hr",
+      "score": 4650,
+      "url": "https://www.upwork.com/jobs/~022112881680827152080",
+      "addedAt": "2026-10-21T12:24:43.315Z"
+    }
+  ]
 }
