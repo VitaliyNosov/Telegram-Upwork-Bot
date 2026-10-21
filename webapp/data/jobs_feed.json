@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112992424385437721",
+    "ciphertext": "~022112992424385437721",
+    "title": "Ecommerce Website Update and Correction",
+    "description": "We need a freelancer to update and correct our ecommerce website. The work includes fixing existing issues, improving functionality, and making sure the site runs smoothly for customers. You should be comfortable reviewing the current setup, identifying problems, and implementing reliable fixes. Experience with ecommerce platforms and website maintenance is important. Please share relevant examples of similar work and your approach to troubleshooting and improving website performance.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$12 - $27/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "data-entry",
+      "web-programming"
+    ],
+    "score": 2800,
+    "coverLetter": "Hi! \n\nI regularly help businesses clean up, optimize, and stabilize their WordPress ecommerce platforms. When a store has functionality issues or broken paths, a methodical approach is essential to ensure customers experience a smooth checkout and journey.\n\nMy troubleshooting process starts with a thorough audit of your current setup—reviewing error logs, plugin conflicts, database queries, and frontend performance. Once the bottlenecks and bugs are identified, I implement clean, reliable fixes using PHP, MySQL, and robust WooCommerce best practices to secure the site and improve performance. \n\nFor a look at some of my recent client work, you can review this ecommerce-related build from my portfolio: https://www.thelifeyoucansave.org/\n\nCould you share a few specifics about the current issues or updates your store needs? Let's get it running smoothly.",
+    "publishedDateTime": "2026-10-21T19:41:18+0000",
+    "addedAt": "2026-10-21T19:42:45.676Z",
+    "url": "https://www.upwork.com/jobs/~022112992424385437721",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112992424385437721/apply/"
+  },
+  {
     "id": "2112979096775554768",
     "ciphertext": "~022112979096775554768",
     "title": "Shut Down Old Web Server",
