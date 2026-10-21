@@ -1,10 +1,10 @@
 {
   "date": "2026-10-21",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 61,
-  "matchedFilters": 8,
+  "totalScanned": 62,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022112979096775554768",
       "addedAt": "2026-10-21T18:50:44.594Z"
+    },
+    {
+      "title": "Website Development for Construction Business",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022113004009548013593",
+      "addedAt": "2026-10-21T20:30:46.365Z"
     },
     {
       "title": "Cloudflare Website Migration Specialist",

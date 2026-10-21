@@ -1,5 +1,35 @@
 [
   {
+    "id": "2113004009548013593",
+    "ciphertext": "~022113004009548013593",
+    "title": "Website Development for Construction Business",
+    "description": "We are seeking a skilled web developer to create a professional website for our construction business. The ideal candidate will have experience in designing user-friendly websites that effectively showcase services, projects, and customer testimonials. The website should be mobile-responsive and optimized for search engines. Strong communication skills and the ability to meet deadlines are essential. If you have a portfolio of previous work, please share it with your application.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "web-programming",
+      "graphic-design",
+      "lead-generation"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help you build a professional, lead-generating website for your construction business. \n\nWith extensive experience in custom WordPress development, I specialize in creating fast, mobile-responsive sites that effectively showcase services, past projects, and customer testimonials to turn visitors into clients. Every site I build is clean-coded and SEO-optimized from the ground up to ensure strong local search visibility. \n\nYou can view a sample of my recent work here: https://www.cchpca.org/\n\nDo you already have branding and a sitemap ready, or should we map out the structure together? Let's chat about your vision.",
+    "publishedDateTime": "2026-10-21T20:26:32+0000",
+    "addedAt": "2026-10-21T20:30:47.365Z",
+    "url": "https://www.upwork.com/jobs/~022113004009548013593",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113004009548013593/apply/"
+  },
+  {
     "id": "2113003120103516258",
     "ciphertext": "~022113003120103516258",
     "title": "Content Repurposing and Website Maintenance",
