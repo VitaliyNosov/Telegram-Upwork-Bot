@@ -1,10 +1,10 @@
 {
   "date": "2026-10-21",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 60,
-  "matchedFilters": 7,
+  "totalScanned": 61,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 4650,
       "url": "https://www.upwork.com/jobs/~022112881680827152080",
       "addedAt": "2026-10-21T12:24:43.315Z"
+    },
+    {
+      "title": "Content Repurposing and Website Maintenance",
+      "budget": "$12-$38/hr",
+      "score": 3800,
+      "url": "https://www.upwork.com/jobs/~022113003120103516258",
+      "addedAt": "2026-10-21T20:26:45.050Z"
     },
     {
       "title": "Ecommerce Website Update and Correction",
