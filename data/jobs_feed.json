@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112942962028516150",
+    "ciphertext": "~022112942962028516150",
+    "title": "Build a Simple 7-Page Business Website",
+    "description": "I’m looking for a web developer to build a straightforward, professional website for my business. It will be an informational and services website—nothing overly complex or fancy.\n\nProject scope\n\nBuild a responsive website with 7 pages\nPresent business information and services clearly\nEnsure the site works well on desktop and mobile\nInclude a simple, easy-to-use navigation menu\nAdd contact information and a contact form\nSet up basic SEO essentials, such as page titles and meta descriptions\nWhat I’ll provide\n\nBusiness details and service information\nAny available branding, images, and website copy\nDeliverables\n\nCompleted, tested website\nWebsite files and access to the finished site\nBasic instructions for making simple content updates\nTimeline\n\nPlease complete the project within 1 week of starting.\nWhen you apply, please share examples of similar websites you’ve built, your recommended platform, and your estimated cost.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "html5"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI recommend building your 7-page business website on WordPress using a clean, lightweight setup (or Gutenberg/ACF) so it’s lightning-fast, fully responsive, and exceptionally easy for you to manage. I can easily deliver this within your 1-week timeline.\n\nFor a similar informational and services site, you can take a look at https://www.seeintl.org/ from my portfolio—it features a clear layout, responsive mobile design, easy navigation, and built-in contact functionality. \n\nMy estimated cost for this project is [Insert Cost], which includes the full build, mobile optimization, basic SEO setup, and a brief walkthrough on how to make your own text and image updates.\n\nDo you already have branding assets and copy ready to go, or are we starting from scratch? Let's chat!",
+    "publishedDateTime": "2026-10-21T16:23:57+0000",
+    "addedAt": "2026-10-21T16:28:43.512Z",
+    "url": "https://www.upwork.com/jobs/~022112942962028516150",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112942962028516150/apply/"
+  },
+  {
     "id": "2112909060687851014",
     "ciphertext": "~022112909060687851014",
     "title": "WordPress Developer Wanted — Build The Underdog Website from Existing Designs",
