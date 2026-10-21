@@ -1,5 +1,39 @@
 [
   {
+    "id": "2112909060687851014",
+    "ciphertext": "~022112909060687851014",
+    "title": "WordPress Developer Wanted — Build The Underdog Website from Existing Designs",
+    "description": "**WordPress Developer Wanted — Build The Underdog Website from Existing Designs**\n\nI’m looking for an experienced WordPress developer to build a website for **The Underdog**, a charitable business supporting people across the UK facing disabilities, mental health challenges and other barriers.\n\nWe have already created the page designs and prepared a developer handover containing Word documents, images, character artwork, icons, backgrounds and colour references.\n\nThe visual identity matters to us. We want someone who can carefully follow the supplied designs, including the purple, pink and orange colours, handwritten headings, brushstroke details and official characters.\n\n**What the project includes**\n\nThere are approximately 14 page packages covering 18 screens, including:\n\n- Homepage, Our Story and Lauren’s My Story.\n- Get Involved, Business Partnerships and Supporters.\n- Donations and a donation thank-you page.\n- Video Gallery, FAQ and Contact.\n- WooCommerce shop, product details, basket, checkout and order confirmation.\n- Terms and Conditions.\n\nSome photographs, final social media links and business details are still being prepared. We plan to use a fulfilment company for shop orders, but haven’t selected one yet. Please explain how this would affect your proposed build and quote.\n\n**What we need you to do**\n\n- Build the supplied designs accurately in WordPress.\n- Make the website work well on desktop, tablet and mobile.\n- Set up WooCommerce and the agreed payment and donation arrangements.\n- Connect enquiry forms and provide clear confirmation and error messages.\n- Set up video links, social links and useful navigation.\n- Include accessible controls, readable text, keyboard navigation and appropriate image descriptions.\n- Optimise loading speed and complete basic technical SEO setup.\n- Give us an easy way to update text, images, videos and products ourselves.\n- Test the website before launch and provide a handover explaining how to manage it.\n\nPlease use the supplied approved artwork and characters. Changes to the designs or replacement artwork should be discussed with us first.\n\nThe website should be built on a private staging site for review and only made public after our approval. We will need full administrator access and ownership of the completed website and any custom work.\n\n**Please include in your proposal**\n\n1. Two or three relevant websites you have built, explaining your role.\n2. Your experience building WordPress sites from supplied visual designs.\n3. Your experience with WooCommerce, donations and fulfilment integrations.\n4. Your recommended approach and the tools or page builder you would use.\n5. An estimated fixed price, timeline and suggested milestones, subject to reviewing the handover.\n6. What your quote includes, how revisions are handled and any ongoing hosting or plugin costs.\n7. What you would need from us before starting.\n\nWe value attention to detail, clear communication and honest advice about anything missing from the supplied materials. Please begin your proposal with **“The Underdog”** so we know you have read the brief.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "payment",
+      "woocommerce",
+      "wordpress",
+      "web-programming",
+      "html",
+      "javascript",
+      "web-design",
+      "css",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-21T14:09:40+0000",
+    "addedAt": "2026-10-21T14:13:28.891Z",
+    "url": "https://www.upwork.com/jobs/~022112909060687851014",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112909060687851014/apply/"
+  },
+  {
     "id": "2112899848576562896",
     "ciphertext": "~022112899848576562896",
     "title": "Long-Term Senior WordPress Developer – EUROPE ONLY | WooCommerce, WPML, Brevo & SEO",
