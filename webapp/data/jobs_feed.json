@@ -1,5 +1,34 @@
 [
   {
+    "id": "2112979096775554768",
+    "ciphertext": "~022112979096775554768",
+    "title": "Shut Down Old Web Server",
+    "description": "We need to shut down an old server that was set up years ago by another agency. If the content can be preserved, that is good, but not the primary goal. The public hosting of the site needs to be stopped immediately. As well, given how old it is, we need to determine where it is hosted to be able to complete the task, so we need someone who is good at investigating such details that are not obvious. Once we have the necessary information , we here will help contact the hosting company to work on cancelation.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 47,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "english",
+      "php",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nI can help you track down where this legacy server is hosted, stop the public hosting immediately, and map out the environment. Even though documentation is missing, I regularly handle server migrations, website shutdowns, and technical audits for older WordPress builds where details aren't obvious. \n\nUsing tools like DNS lookups, historical IP records, and server fingerprinting, I will quickly identify the hosting provider so you can proceed with the cancellation safely. Once we locate it, we can also evaluate whether any valuable content or data needs to be archived before pulling the plug.\n\nDo you have any current access (like domain registrar logins or old DNS settings) that we can use as a starting point for the investigation?",
+    "publishedDateTime": "2026-10-21T18:49:46+0000",
+    "addedAt": "2026-10-21T18:50:45.817Z",
+    "url": "https://www.upwork.com/jobs/~022112979096775554768",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022112979096775554768/apply/"
+  },
+  {
     "id": "2112966401733524452",
     "ciphertext": "~022112966401733524452",
     "title": "Cloudflare Website Migration Specialist",
