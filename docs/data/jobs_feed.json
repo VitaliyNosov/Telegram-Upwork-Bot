@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113015454145545677",
+    "ciphertext": "~022113015454145545677",
+    "title": "Back-End Systems for Webinar and Ads",
+    "description": "I need help setting up the back-end systems to run a free webinar, manage paid Meta and Google ads, create landing pages, and send lead magnets when people sign up or purchase my program. The work includes building the technical foundation so campaigns can run smoothly, tracking conversions, and ensuring leads are captured and delivered correctly. I’m looking for someone who can handle the setup, test the flow, and make sure everything works reliably from registration through follow-up.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "html5",
+      "wordpress"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nSetting up a reliable technical foundation for your webinar funnel and ad tracking is crucial to ensure zero lead leakage. I can help you build and test the entire back-end workflow—from landing page lead capture and CRM/email delivery to Meta and Google Ads conversion tracking.\n\nWith deep expertise in WordPress, PHP, and JavaScript, I frequently build custom registration flows and integrate marketing systems, APIs, and payment gateways. I'll make sure your registration, lead magnet delivery, and post-purchase sequences communicate seamlessly and reliably. You can view some of my recent custom web builds here: https://www.thelifeyoucansave.org/\n\nLet's jump into a quick chat to discuss your preferred email/CRM tools and get this funnel up and running smoothly.",
+    "publishedDateTime": "2026-10-21T21:13:11+0000",
+    "addedAt": "2026-10-21T21:14:46.705Z",
+    "url": "https://www.upwork.com/jobs/~022113015454145545677",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113015454145545677/apply/"
+  },
+  {
     "id": "2113014881803365894",
     "ciphertext": "~022113014881803365894",
     "title": "Website Developer Needed for 7 page Website SEO Optimization and Launce",

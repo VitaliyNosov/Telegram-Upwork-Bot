@@ -1,12 +1,19 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 2,
-  "matchedFilters": 1,
+  "totalScanned": 3,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Back-End Systems for Webinar and Ads",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022113015454145545677",
+      "addedAt": "2026-10-21T21:14:45.584Z"
+    },
     {
       "title": "Website Developer Needed for 7 page Website SEO Optimization and Launce",
       "budget": "Fixed-price",
