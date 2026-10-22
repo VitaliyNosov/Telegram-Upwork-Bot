@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 9,
-  "matchedFilters": 4,
+  "totalScanned": 10,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022113047204998643848",
       "addedAt": "2026-10-21T23:22:43.007Z"
+    },
+    {
+      "title": "WordPress Website Troubleshooting",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022113058245482317346",
+      "addedAt": "2026-10-22T00:04:45.054Z"
     }
   ]
 }
