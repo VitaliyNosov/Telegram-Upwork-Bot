@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 43,
-  "matchedFilters": 11,
+  "totalScanned": 44,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022113015454145545677",
       "addedAt": "2026-10-21T21:14:45.584Z"
+    },
+    {
+      "title": "Quick updates to existing staffing firm website (content ready)",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022113278927455879304",
+      "addedAt": "2026-10-22T14:42:44.372Z"
     },
     {
       "title": "WordPress Website Redesign for Sober Living Home — Design, SEO & Lead Generation",
