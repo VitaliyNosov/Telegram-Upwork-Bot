@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 41,
-  "matchedFilters": 10,
+  "totalScanned": 42,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022113014881803365894",
       "addedAt": "2026-10-21T21:12:43.216Z"
+    },
+    {
+      "title": "Website Developer for Two Branded News Publications",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022113268973296050486",
+      "addedAt": "2026-10-22T14:04:45.940Z"
     },
     {
       "title": "Website Redesign for Cleaning Company",
