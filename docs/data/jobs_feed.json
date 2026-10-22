@@ -1,5 +1,37 @@
 [
   {
+    "id": "2113080999002703394",
+    "ciphertext": "~022113080999002703394",
+    "title": "Develop a Reusable Finance Enquiry Popup — Design Supplied",
+    "description": "We’re looking for an experienced web developer to build a responsive finance enquiry popup for a lending company.\n\nThe first installation will be on an equipment dealer’s website. The form should be reusable so it can be added to other dealer websites in future.\n\nCustomers submit their details, and the lending company contacts them with a quote.\n\n**How it should work**\n\n1. A visitor clicks “Request a Finance Quote” on a machinery product page.\n2. A popup opens, automatically identifying the selected machine.\n3. The visitor enters their finance requirements and contact details.\n4. The enquiry is emailed to the lending company.\n5. A confirmation message explains that someone will contact them.\n\n**Form fields**\n\n- Finance amount.\n- Preferred loan term.\n- Purchasing for a business: yes/no.\n- First and last name.\n- Phone number.\n- Postcode.\n- Email address.\n- Privacy and contact consent, using supplied wording.\n\nThe submission should also include the dealer name, machine name and product page URL. Where a product price is available, use it to prefill the finance amount and allow the visitor to change it.\n\n**Development requirements**\n\n- Accurately implement the supplied desktop and mobile design.\n- Build a responsive popup with accessible controls and keyboard navigation.\n- Add field validation and clear error, loading and success messages.\n- Implement secure form processing and spam protection.\n- Deliver enquiries reliably to one nominated email address.\n- Keep private credentials on the server.\n- Avoid conflicts with the dealer website’s existing styling and scripts.\n\n**Reusable installation**\n\nWe would prefer a centrally maintained form that can be embedded on dealer websites using a short code snippet.\n\nEach installation should identify the dealer and accept product information from the website. Please recommend a suitable approach and explain any hosting requirements.\n\n**Deliverables**\n\n- Working popup form matching the supplied design.\n- First dealer website installation, coordinated with its website developer.\n- Testing on desktop and mobile, including successful enquiry delivery.\n- Full source code.\n- Setup and installation documentation.\n- Instructions for adding future dealer websites.\n- 30 days of fixes for defects within the agreed scope.\n\n**Please include in your proposal**\n\n- Examples of similar popup forms or embeddable widgets.\n- Your recommended technical approach.\n- Estimated hours, hourly rate and a fixed-price option.\n- Estimated delivery time.\n- Required website access and information.\n- Any ongoing hosting or service costs.\n- The expected cost of adding another dealer website.\n\nPlease separate the reusable form development cost from the first website installation cost.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$18 - $40/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 64,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "css",
+      "javascript",
+      "php",
+      "api-integration",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 4098,
+    "coverLetter": "Hi! I can build a clean, responsive, and secure finance enquiry popup that meets all your specifications and can be easily embedded across multiple dealer websites via a lightweight script or shortcode.\n\n**Technical Approach:**\nI recommend developing the popup as a vanilla JavaScript/PHP widget hosted centrally (or packaged as a lightweight custom WordPress plugin/embed script). It will fetch the product price, name, and dealer ID dynamically via the DOM or data attributes, pass the submission securely through a backend PHP handler with built-in spam protection (like honeypot/nonce), and dispatch the email reliably. \n\n**Cost & Timeline:**\n- **Reusable Form Development:** 15 hours ($50/hr = $750)\n- **First Dealer Installation & Testing:** 3 hours ($50/hr = $150)\n- **Total Fixed-Price Option:** $900\n- **Estimated Delivery:** 4 business days\n\nFor hosting the central script, standard shared hosting or a basic server is sufficient (no ongoing third-party service costs). Adding future dealer sites will take roughly 1 hour each. \n\nHere is an example of a recent responsive site build from my portfolio: https://www.cchpca.org/\n\nWould you like to share the design mockups so I can review them?",
+    "publishedDateTime": "2026-10-22T01:32:39+0000",
+    "addedAt": "2026-10-22T01:34:46.092Z",
+    "url": "https://www.upwork.com/jobs/~022113080999002703394",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113080999002703394/apply/"
+  },
+  {
     "id": "2113058245482317346",
     "ciphertext": "~022113058245482317346",
     "title": "WordPress Website Troubleshooting",
