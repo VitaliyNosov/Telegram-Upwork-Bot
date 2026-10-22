@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113353509835050619",
+    "ciphertext": "~022113353509835050619",
+    "title": "Senior Website Designer / Developer — Provalis Gates and Perimeter Solutions",
+    "description": "Project Type: Fixed-price project\nBudget: $7,500\nExperience Level: Expert\nAbout Our Company\nProvalis Gates and Perimeter Solutions is a growing Los Angeles-based company specializing in gates, fencing, railings, enclosures, custom fabrication, and related exterior improvements.\nOur approach is different from companies that simply sell and install predetermined products. We help customers evaluate their needs and determine the most appropriate solution, whether that involves custom fabrication, manufactured systems, restoration, modification, or a combination of approaches.\nWe serve homeowners, general contractors, designers, and other professionals seeking quality workmanship, practical expertise, and personalized service.\nThe Project\nWe are looking for an exceptional freelance website designer/developer to create a sophisticated, professional website that will represent our company for the next several years.\nOur current website is a temporary landing page. We are looking to replace it with a complete, professionally designed website.\nWe want a website that establishes immediate credibility, showcases our capabilities and completed projects, and supports both relationship-driven business development and organic Google search visibility.\nWe are not looking for a generic contractor website or a modified off-the-shelf template.\nWhat We're Looking For\n•\tExceptional design skills and a portfolio of sophisticated, professional websites.\n•\tExperience designing websites for construction, architecture, design, custom fabrication, or premium home-service businesses.\n•\tThe ability to understand our business and translate our positioning into effective website messaging and presentation.\n•\tStrong knowledge of website architecture, technical SEO, on-page SEO, and local search optimization.\n•\tExcellent mobile design, performance, and usability.\n•\tExperience creating project portfolios, galleries, and service pages.\n•\tA content management system that allows our team to add projects, photographs, and updates independently.\n•\tClear communication, sound judgment, and a collaborative working style.\nWe are open to WordPress, Webflow, or another appropriate platform. We expect the developer to recommend the best solution for our needs.\nScope\nWe anticipate a multi-page website including a homepage, service and capability pages, project portfolio, company information, and contact/inquiry functionality.\nThe final structure will be developed collaboratively.\nThe project should include design, development, mobile optimization, foundational SEO implementation, analytics setup, testing, and launch support.\nWe have an existing company description and positioning document to provide as a starting point.\nSEO Requirements\nOrganic search visibility is an important objective.\nWe expect the website to be developed with proper site architecture, search-friendly service pages, metadata, internal linking, performance optimization, and appropriate technical SEO.\nPlease distinguish between the SEO work included in your website development proposal and any ongoing SEO services you might recommend.\nTo Apply\nPlease provide:\n1.\tLinks to three websites you personally designed and developed, preferably for businesses comparable to ours.\n2.\tA brief explanation of your role in those projects.\n3.\tYour recommended website platform and why.\n4.\tYour experience implementing SEO for local service businesses.\n5.\tYour general approach to developing website messaging and structure from an existing company brief.\n6.\tYour estimated project timeline and preliminary budget within the stated range.\nPlease do not send a generic agency presentation or a long list of unrelated websites. We are primarily interested in reviewing your actual work and understanding how you approach projects.\nWe are looking for someone we can work with directly, who takes pride in the quality of their work and can become a trusted resource as our company grows.\nImportant Application Instruction\nTo confirm that you have read this posting, please begin your proposal with the word \"Provalis.\" Proposals that do not begin with this word will not be considered.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "web-design",
+      "web-programming",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Provalis—Hi! I’d love to help you build a sophisticated, high-credibility website for Provalis Gates and Perimeter Solutions that moves far beyond generic contractor templates.\n\nFor a project like this, I recommend WordPress (leveraging custom post types and ACF or a clean Gutenberg/page builder setup) because it gives your team an intuitive backend to easily manage projects and photos independently, while providing the robust technical SEO architecture needed to dominate local search. My work on sites like https://www.snopud.com and other complex builds focuses heavily on clean code, blazing-fast Core Web Vitals, and conversion-focused UX. \n\nRegarding technical SEO, my builds always include proper site hierarchy, schema markup for local businesses, clean metadata, and optimized asset delivery out-of-the-box (which is included in development). Ongoing SEO would involve continuous content expansion and link-building. \n\nI can comfortably deliver this within your $7,500 budget in about 4–6 weeks. When can we chat about your positioning document?",
+    "publishedDateTime": "2026-10-22T19:35:42+0000",
+    "addedAt": "2026-10-22T19:38:47.374Z",
+    "url": "https://www.upwork.com/jobs/~022113353509835050619",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113353509835050619/apply/"
+  },
+  {
     "id": "2113341518504692848",
     "ciphertext": "~022113341518504692848",
     "title": "Wordpress Developer for Technical Fixes",

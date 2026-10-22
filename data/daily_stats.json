@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 67,
-  "matchedFilters": 16,
+  "totalScanned": 68,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 16
+    "wordpress developer": 17
   },
   "topJobs": [
     {
@@ -83,6 +83,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022113297465570721928",
       "addedAt": "2026-10-22T15:55:00.378Z"
+    },
+    {
+      "title": "Senior Website Designer / Developer — Provalis Gates and Perimeter Solutions",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022113353509835050619",
+      "addedAt": "2026-10-22T19:38:45.912Z"
     },
     {
       "title": "Website Redesign for Cleaning Company",
