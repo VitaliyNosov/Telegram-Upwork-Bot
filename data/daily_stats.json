@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3149,
       "url": "https://www.upwork.com/jobs/~022113380647356742649",
       "addedAt": "2026-10-22T21:24:42.680Z"
+    },
+    {
+      "title": "WooCommerce Breakdance Performance Optimization",
+      "budget": "Fixed-price",
+      "score": 144,
+      "url": "https://www.upwork.com/jobs/~022113397165699009648",
+      "addedAt": "2026-10-22T22:30:44.977Z"
     }
   ]
 }

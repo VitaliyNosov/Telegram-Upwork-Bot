@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113397165699009648",
+    "ciphertext": "~022113397165699009648",
+    "title": "WooCommerce Breakdance Performance Optimization",
+    "description": "I have a WooCommerce store with thousands of products in it that has slow page loads and doesn't pass Google's Page Speed test. I need to figure out whether the issues are with my host, with my theme, or somewhere else.\n\nI need a freelancer to improve the performance of my WooCommerce store, which is built on the Breakdance theme. The work should focus on identifying performance issues, implementing fixes, and improving overall site speed and reliability. Please share relevant experience with WooCommerce stores and similar performance optimization projects. I’m looking for someone who can assess the current setup, recommend practical improvements, and help deliver a faster, more responsive shopping experience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.71,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress",
+      "php",
+      "wp-ecommerce"
+    ],
+    "score": 144,
+    "coverLetter": "Hi! A WooCommerce store with thousands of products requires a very specific approach to database optimization, query efficiency, and server-level caching to pass Core Web Vitals. \n\nAs a WordPress and WooCommerce performance expert, I specialize in diagnosing large-catalog stores just like yours. I will run a deep audit to pinpoint whether your bottlenecks stem from database bloat, unoptimized product queries, server constraints, or your Breakdance setup. From there, I'll implement targeted fixes—such as optimizing MySQL queries, refining transient caches, and streamlining asset loading—to drastically improve your load times and PageSpeed scores.\n\nFor a look at my recent work with high-performing WordPress builds, you can check out https://www.snopud.com/. \n\nWhat hosting provider are you currently using for the store? Let's connect and get your site running fast and reliably.",
+    "publishedDateTime": "2026-10-22T22:29:15+0000",
+    "addedAt": "2026-10-22T22:30:46.171Z",
+    "url": "https://www.upwork.com/jobs/~022113397165699009648",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113397165699009648/apply/"
+  },
+  {
     "id": "2113380647356742649",
     "ciphertext": "~022113380647356742649",
     "title": "Junior Wordpress Developer",
