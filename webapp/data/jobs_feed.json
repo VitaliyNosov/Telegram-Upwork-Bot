@@ -1,5 +1,38 @@
 [
   {
+    "id": "2113196475137286454",
+    "ciphertext": "~022113196475137286454",
+    "title": "WordPress PHP Upgrade & Compatibility Check for Blog",
+    "description": "Hi,\n\nI’m looking for an experienced WordPress developer to help me safely upgrade the PHP version of my website.\n\nI run an established WordPress travel blog hosted with Webempresa. The site uses Elementor and is currently running PHP 8.1 or earlier. My hosting provider has asked me to upgrade to a currently supported PHP version.\n\nJust for context, this is a personal travel blog that I run as a hobby and it does not generate income, rather than a commercial website or business. I’m therefore looking for a practical, proportionate solution and would appreciate this being taken into account when quoting for the work.\n\nChanging the PHP version itself appears relatively straightforward, but I want to make sure the upgrade doesn’t break anything on the site.\n\nI’m looking for someone who can:\n\n- Check my current WordPress, theme, Elementor and active plugins for compatibility and recommend the appropriate PHP version to upgrade to.\n- Make sure there is a full backup/rollback option before making changes.\n- Ideally test the PHP upgrade on a staging version first.\n- Carry out any updates that are **necessary for PHP compatibility**, rather than automatically updating or changing everything on the site.\n- Test the site after the upgrade, particularly Elementor pages/templates, blog posts, navigation, forms, mobile/desktop display, SEO functionality, analytics/tracking and caching.\n- Check for PHP errors, warnings or other compatibility issues.\n- Apply the upgrade to the live site once everything has been tested.\n- Carry out a final check and confirm everything is working correctly.\n\nIf you discover a plugin, theme component or custom code that requires significant additional work, I would like this to be flagged and quoted separately before any additional work is carried out.\n\nI’m not looking for a redesign, optimisation project or general WordPress overhaul. The priority is simply to **upgrade PHP safely and make sure the existing website continues to work as it should**.\n\nCould you let me know:\n\n- Whether this is something you can help with\n- Your estimated cost, ideally as a fixed price\n- Approximately how many hours you expect the work to take\n- Your estimated turnaround time\n- What access you would need from me\n- Whether you would test the upgrade on staging before changing the live site\n\nI’m happy to provide more information about the website and hosting setup if needed before you quote.\n\nThanks,",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "php",
+      "web-programming",
+      "css",
+      "html",
+      "web-design",
+      "wordpress-plugin"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can safely handle your PHP upgrade on Webempresa and ensure your Elementor blog and plugins remain fully compatible without pushing any unnecessary updates.\n\nTo answer your questions:\n- **Can I help?** Yes, I regularly perform safe PHP upgrades, compatibility audits, and bug fixes for Elementor sites.\n- **Cost & Hours:** I can complete this as a fixed-price task taking about 2 to 3 hours. \n- **Turnaround:** 24 hours from when we start.\n- **Access needed:** WordPress admin and Webempresa cPanel/hosting access.\n- **Staging:** Yes, I will create a staging environment via your host to test the PHP upgrade and check for errors before touching the live site.\n\nFor a recent example of my WordPress work, you can check https://www.thelifeyoucansave.org/. \n\nCould you share your current PHP version and a list of your active plugins so I can review them?",
+    "publishedDateTime": "2026-10-22T09:11:53+0000",
+    "addedAt": "2026-10-22T09:14:42.391Z",
+    "url": "https://www.upwork.com/jobs/~022113196475137286454",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113196475137286454/apply/"
+  },
+  {
     "id": "2113125258107860742",
     "ciphertext": "~022113125258107860742",
     "title": "Senior Full-Stack Developer for WordPress Migration",
