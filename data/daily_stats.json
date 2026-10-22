@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 28,
-  "matchedFilters": 7,
+  "totalScanned": 29,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022113058245482317346",
       "addedAt": "2026-10-22T00:04:45.054Z"
+    },
+    {
+      "title": "Senior Full-Stack Developer for WordPress Migration",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022113125258107860742",
+      "addedAt": "2026-10-22T07:30:45.193Z"
     }
   ]
 }
