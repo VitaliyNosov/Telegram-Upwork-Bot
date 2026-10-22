@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113110712712921224",
+    "ciphertext": "~022113110712712921224",
+    "title": "Website Redesign for Cleaning Company",
+    "description": "I am looking for an experienced website designer and developer to redesign and improve my existing website for ProCommercial Cleaning Services, a commercial cleaning company serving Hamilton and the Greater Toronto Area (GTA), Ontario, Canada. The goal is to create a modern, professional website that builds trust with potential commercial clients and generates more business inquiries and quote requests. The work includes redesigning the site with a clean layout, improving navigation and user experience, ensuring responsiveness across devices, and creating a strong first impression for business owners, property managers, medical clinics, dental offices, golf clubs, and other commercial clients.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 27,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nProCommercial Cleaning Services needs a modern, trustworthy website that clearly appeals to property managers and business owners across the GTA to drive quote requests. I can help you redesign and elevate your online presence with a clean, high-converting layout.\n\nWith extensive experience in custom WordPress development, I build fast, fully responsive websites focused on user experience and lead generation. I ensure sites look professional on every device and are optimized to turn local traffic into business inquiries. You can view a sample of my work here: https://www.thelifeyoucansave.org/\n\nWhen looking at the redesign for your commercial cleaning services, do you already have a brand style guide or specific design references in mind, or would you like recommendations based on top-performing industry sites? Let's discuss how we can get started.",
+    "publishedDateTime": "2026-10-22T03:30:31+0000",
+    "addedAt": "2026-10-22T03:32:43.892Z",
+    "url": "https://www.upwork.com/jobs/~022113110712712921224",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113110712712921224/apply/"
+  },
+  {
     "id": "2113080999002703394",
     "ciphertext": "~022113080999002703394",
     "title": "Develop a Reusable Finance Enquiry Popup — Design Supplied",
