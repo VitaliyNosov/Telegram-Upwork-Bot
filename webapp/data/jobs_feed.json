@@ -1,5 +1,33 @@
 [
   {
+    "id": "2113207897230228136",
+    "ciphertext": "~022113207897230228136",
+    "title": "Wordpress developer/designer - ideally for a community site",
+    "description": "I am looking for a wordpress developer/designer - for a site that has two stages - first a simple website - then a community website \nsome notes\n\n1) we need access - but we are not WP developers \n2) you mush showcase  your work (ideally live links) in your application\n3)  This is an Educational venture.we do not need veryrich design it has to be subtle and dignified\n4)  IF you want to use existing WP Templates /adapt thats ok but we have to confim first\n5) stock images are fine\n6) this could be ongoung changes and stages\n7)  By 'community' I mean some kind of forum where people can log in post and share. not much more than that",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 200,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! Here are a few live sites I've built and maintained, including https://www.thelifeyoucansave.org/ and https://waapple.org/. \n\nI’d love to help you build your educational platform in two stages—starting with a subtle, dignified website and later scaling into a community space with secure user login, posting, and sharing features (using clean, approved themes or custom builds as you prefer). As non-developers, you'll have full admin access while I handle the technical heavy lifting, debugging, and ongoing updates smoothly behind the scenes. \n\nI focus on clean code and long-term project support, meaning I'm here for the long haul as your community grows. \n\nWhen are you looking to kick off the first stage, and do you already have a preferred direction for the membership/forum setup?",
+    "publishedDateTime": "2026-10-22T09:56:45+0000",
+    "addedAt": "2026-10-22T10:00:44.116Z",
+    "url": "https://www.upwork.com/jobs/~022113207897230228136",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113207897230228136/apply/"
+  },
+  {
     "id": "2113196475137286454",
     "ciphertext": "~022113196475137286454",
     "title": "WordPress PHP Upgrade & Compatibility Check for Blog",
