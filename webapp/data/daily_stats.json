@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 52,
-  "matchedFilters": 12,
+  "totalScanned": 53,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022113268973296050486",
       "addedAt": "2026-10-22T14:04:45.940Z"
+    },
+    {
+      "title": "Website Designer / Developer Needed for SEO-Optimised Construction/ Home Renovation Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022113297465570721928",
+      "addedAt": "2026-10-22T15:55:00.378Z"
     },
     {
       "title": "Website Redesign for Cleaning Company",
