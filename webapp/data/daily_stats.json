@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 68,
-  "matchedFilters": 17,
+  "totalScanned": 69,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 17
+    "wordpress developer": 18
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 2600,
       "url": "https://www.upwork.com/jobs/~022113031642168628022",
       "addedAt": "2026-10-21T22:18:43.836Z"
+    },
+    {
+      "title": "Website Developer Needed for Minor Website Updates & Content Changes",
+      "budget": "$12-$25/hr",
+      "score": 2500,
+      "url": "https://www.upwork.com/jobs/~022113355314955388166",
+      "addedAt": "2026-10-22T19:46:43.527Z"
     },
     {
       "title": "WordPress PHP Upgrade & Compatibility Check for Blog",
