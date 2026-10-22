@@ -1,5 +1,33 @@
 [
   {
+    "id": "2113321426991973175",
+    "ciphertext": "~022113321426991973175",
+    "title": "Contact Form 7/reCAPTCHA v3 Issue",
+    "description": "I have a couple of small items that I need some fairly quick assistance with.  First, after implementing reCAPTCHA v3 in Contact Form 7 on my website, it appears the messages are being blocked by reCAPTCHA when they shouldn't be.  Second, I had also implemented javascript code via WPCode to display the filename of uploaded files, but for some reason, that's not working now either.  I don't really have the time to dig into it right now so I'm looking for someone that might be able to jump in quickly, hopefully today, and get these two items resolved for me so I can get the site working correctly again.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 70,
+    "budgetDisplay": "$15 - $70/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "javascript",
+      "contact-form-7"
+    ],
+    "score": 7100,
+    "coverLetter": "Hi! I can jump in today and fix both of these issues for you right away. \n\nContact Form 7 reCAPTCHA v3 blocking legitimate submissions is usually a matter of adjusting the score threshold or checking for script conflicts, and I can quickly diagnose why your WPCode JavaScript snippet for the uploaded filenames isn't firing. Debugging plugin conflicts, form issues, and custom JavaScript integration are daily tasks for me. \n\nYou can see my clean code approach on sites like https://waapple.org/. \n\nLet's get this sorted out today—are you available to share temporary access so I can take a look?",
+    "publishedDateTime": "2026-10-22T17:27:50+0000",
+    "addedAt": "2026-10-22T17:32:47.320Z",
+    "url": "https://www.upwork.com/jobs/~022113321426991973175",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113321426991973175/apply/"
+  },
+  {
     "id": "2113267502353790726",
     "ciphertext": "~022113267502353790726",
     "title": "Update Sofa Landing Pages",

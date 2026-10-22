@@ -1,12 +1,19 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 56,
-  "matchedFilters": 14,
+  "totalScanned": 57,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
+    {
+      "title": "Contact Form 7/reCAPTCHA v3 Issue",
+      "budget": "$15-$70/hr",
+      "score": 7100,
+      "url": "https://www.upwork.com/jobs/~022113321426991973175",
+      "addedAt": "2026-10-22T17:32:42.721Z"
+    },
     {
       "title": "Develop a Reusable Finance Enquiry Popup — Design Supplied",
       "budget": "$18-$40/hr",
