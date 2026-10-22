@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 6,
-  "matchedFilters": 2,
+  "totalScanned": 7,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 144,
       "url": "https://www.upwork.com/jobs/~022113397165699009648",
       "addedAt": "2026-10-22T22:30:44.977Z"
+    },
+    {
+      "title": "Web Development: Rebuild ~30-Page Company Website from Wayback Machine Archive (Same Look, Clean New Build)",
+      "budget": "Fixed-price",
+      "score": 94,
+      "url": "https://www.upwork.com/jobs/~022113404684723528811",
+      "addedAt": "2026-10-22T23:02:41.498Z"
     }
   ]
 }

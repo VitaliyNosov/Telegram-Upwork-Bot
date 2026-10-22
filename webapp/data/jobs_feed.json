@@ -1,5 +1,29 @@
 [
   {
+    "id": "2113404684723528811",
+    "ciphertext": "~022113404684723528811",
+    "title": "Web Development: Rebuild ~30-Page Company Website from Wayback Machine Archive (Same Look, Clean New Build)",
+    "description": "Our company website (jhelmyandco.com) went down after a hosting issue, and we need it rebuilt on a fresh, clean build. A full copy of the old site is available on the Wayback Machine, so most of the copy, layout, and styling can be pulled directly from there.\n\nSCOPE\n- Rebuild approximately 30 pages (reduced from the original ~50; we will provide the final page list)\n- Keep the same aesthetic as the archived site: colors, fonts, layout style, and branding\n- Pull existing copy from the Wayback Machine (minor cleanup is fine; no new copywriting needed)\n- Working navigation, including the Capabilities dropdown menu\n- Replace any images missing from the archive with suitable stock or placeholder images (we will supply what we have)\n- Mobile responsive and fast-loading\n- Working contact form\n- Basic on-page SEO (page titles, meta descriptions) and 301 redirects from old URLs where pages were consolidated\n- Ready to deploy on our new hosting, with automatic backups configured\n\nDEFINITION OF DONE\n- All ~30 pages on the final page list are built and live on a staging link for review\n- Each page's copy matches the archived version (or our approved edits)\n- Navigation and the Capabilities dropdown work on desktop and mobile\n- Contact form delivers submissions to our email\n- Site passes a basic mobile and speed check\n- 301 redirects in place for old URLs\n- Full site files and admin access handed over, plus automatic backups set up on the new host\n\nTIMELINE: 2 to 4 weeks\nBUDGET: $300 fixed price\n\nTO APPLY, PLEASE INCLUDE:\n- Links to 2 to 3 similar sites you have built or rebuilt\n- Which platform you would use and why (WordPress or similar preferred)\n- Confirmation you can complete the work within the timeline",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.72,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 263,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 94,
+    "coverLetter": "Hi! I can easily rebuild your ~30-page company website using WordPress, ensuring it matches your original archived look while running on a clean, fast, and secure new foundation. \n\nFor a project like this, I would use WordPress with a lightweight custom setup or flexible page builder to accurately replicate your layouts, colors, fonts, and the Capabilities dropdown menu from the Wayback Machine. I handle everything from pulling the archived copy and configuring the contact form to setting up 301 redirects, basic on-page SEO, and automated backups on your new host. \n\nI can fully complete this within your 2-to-4-week timeline. As an example of my work rebuilding and structuring corporate sites, you can check out https://www.cchpca.org/.\n\nI confirm I can complete this work within your timeline. When would you like to share the final page list so we can get started?",
+    "publishedDateTime": "2026-10-22T22:58:41+0000",
+    "addedAt": "2026-10-22T23:02:42.715Z",
+    "url": "https://www.upwork.com/jobs/~022113404684723528811",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113404684723528811/apply/"
+  },
+  {
     "id": "2113397165699009648",
     "ciphertext": "~022113397165699009648",
     "title": "WooCommerce Breakdance Performance Optimization",
