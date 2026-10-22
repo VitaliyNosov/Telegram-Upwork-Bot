@@ -1,5 +1,41 @@
 [
   {
+    "id": "2113380647356742649",
+    "ciphertext": "~022113380647356742649",
+    "title": "Junior Wordpress Developer",
+    "description": "Junior Wordpress SEO Developer\n\nAbout Us:\nWe are a digital marketing agency specializing in SEO for Lawyers. We are a fast pace company with more than 200+ clients and we are growing fast! We're looking for skilled WordPress developers with great attention to detail who can deliver fully functional projects.\n\nPosition: WordPress Developer\nType: Contractor (part-time & full-time positions available)\nRate: $20-$30 per hour (DOE)\n\nQualifications:\n- Must be fluent in english\n- Must be able to work Monday through Friday, PST (UTC-8).\n- 3+ years of WordPress experience\n- Strong knowledge of Node.js and ACF:Pro\n- Strong knowledge of Github\n- Strong knowledge of responsive design and ADA compliance\n- Capable of adapting to our WordPress framework",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$20 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 583,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "technical-seo",
+      "google-analytics",
+      "on-page-seo",
+      "off-page-seo",
+      "wordpress",
+      "npm",
+      "node.js",
+      "figma",
+      "css",
+      "html",
+      "javascript"
+    ],
+    "score": 3149,
+    "coverLetter": "Hi! I’m a senior WordPress developer with deep experience in ACF Pro, Git/GitHub, and modern responsive design, and I work comfortably within PST hours. \n\nWorking with digital agencies and managing 200+ clients requires clean, scalable code and a strong eye for detail—especially when handling on-page technical implementations and framework adaptations. In my portfolio, projects like https://www.cchpca.org/ showcase my ability to deliver robust, high-performing WordPress sites built for optimal performance and strict design standards. \n\nI’m fluent in English, proficient with Node.js and modern tooling, and ready to jump into your framework right away. Are you looking to fill this role on a part-time or full-time basis?",
+    "publishedDateTime": "2026-10-22T21:23:09+0000",
+    "addedAt": "2026-10-22T21:24:44.085Z",
+    "url": "https://www.upwork.com/jobs/~022113380647356742649",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113380647356742649/apply/"
+  },
+  {
     "id": "2113355314955388166",
     "ciphertext": "~022113355314955388166",
     "title": "Website Developer Needed for Minor Website Updates & Content Changes",
