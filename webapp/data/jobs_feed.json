@@ -1,5 +1,38 @@
 [
   {
+    "id": "2113413245396480412",
+    "ciphertext": "~022113413245396480412",
+    "title": "WordPress Developer for Kadence",
+    "description": "Looking for an experienced WordPress developer to build templates and a homepage on an existing site. Kadence, Kadence Blocks, ACF, ThirstyAffiliates, and Rank Math are already installed on SiteGround, and the site structure is in place. The work includes custom post templates with ACF repeatable fields, affiliate link management, dynamic content pages using Kadence Blocks, and a clean mobile-first homepage. The finished site should be easy for a non-developer to update. Full scope is shared after NDA. Timeline is about 1 week from kickoff.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "css",
+      "responsive-design",
+      "pixel-setup-and-optimization",
+      "web-design",
+      "affiliate-marketing"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI have extensive experience working with Kadence, Kadence Blocks, and Advanced Custom Fields (ACF), and I can easily help you build out your templates and mobile-first homepage on SiteGround within your 1-week timeline. \n\nI regularly build dynamic content pages and custom post templates utilizing ACF repeatable fields, ensuring everything remains fully editable and intuitive for non-developers to manage. I'm also very familiar with configuring tools like ThirstyAffiliates and Rank Math to keep your SEO and affiliate marketing setup clean and optimized. \n\nYou can review my recent WordPress work on similar clean, responsive builds like https://www.seeintl.org/. \n\nAre you available for a quick chat to go over the specific template requirements under NDA?",
+    "publishedDateTime": "2026-10-22T23:32:39+0000",
+    "addedAt": "2026-10-22T23:36:47.073Z",
+    "url": "https://www.upwork.com/jobs/~022113413245396480412",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113413245396480412/apply/"
+  },
+  {
     "id": "2113404684723528811",
     "ciphertext": "~022113404684723528811",
     "title": "Web Development: Rebuild ~30-Page Company Website from Wayback Machine Archive (Same Look, Clean New Build)",
