@@ -1,10 +1,10 @@
 {
   "date": "2026-10-22",
   "lastDigestSentDate": "2026-10-21",
-  "totalScanned": 65,
-  "matchedFilters": 15,
+  "totalScanned": 66,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 15
+    "wordpress developer": 16
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022113207897230228136",
       "addedAt": "2026-10-22T10:00:42.937Z"
+    },
+    {
+      "title": "Wordpress Developer for Technical Fixes",
+      "budget": "Fixed-price",
+      "score": 145,
+      "url": "https://www.upwork.com/jobs/~022113341518504692848",
+      "addedAt": "2026-10-22T18:50:43.818Z"
     },
     {
       "title": "Website Developer Needed for 7 page Website SEO Optimization and Launce",

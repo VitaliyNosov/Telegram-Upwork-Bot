@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113341518504692848",
+    "ciphertext": "~022113341518504692848",
+    "title": "Wordpress Developer for Technical Fixes",
+    "description": "Seeking Wordpress developer to assist with some technical and content-related fixes to one or more of our websites. Looking for someone who's responsive, reliable, and can start right away. \n\nIf you apply, please send me links to some of the websites you have designed or updated, along with what pagebuilders you're most comfortable with.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.75,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 87,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "css",
+      "php"
+    ],
+    "score": 145,
+    "coverLetter": "Hi! I can start right away on your technical and content-related WordPress fixes. \n\nI work extensively with Elementor (alongside Gutenberg, ACF, Divi, and custom code) to resolve layout issues, plugin conflicts, and backend errors quickly and cleanly. You can see examples of my recent WordPress work here: https://www.thelifeyoucansave.org/. \n\nI pride myself on fast turnaround times and reliable communication. Could you share a quick list of the specific fixes or updates you need handled first so I can dive in?",
+    "publishedDateTime": "2026-10-22T18:49:06+0000",
+    "addedAt": "2026-10-22T18:50:49.220Z",
+    "url": "https://www.upwork.com/jobs/~022113341518504692848",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113341518504692848/apply/"
+  },
+  {
     "id": "2113321426991973175",
     "ciphertext": "~022113321426991973175",
     "title": "Contact Form 7/reCAPTCHA v3 Issue",
