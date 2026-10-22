@@ -1,12 +1,19 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 8,
-  "matchedFilters": 4,
+  "totalScanned": 9,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Back-end developer to fix a Wordpress site error",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022113416157676012806",
+      "addedAt": "2026-10-22T23:46:43.023Z"
+    },
     {
       "title": "Junior Wordpress Developer",
       "budget": "$20-$30/hr",

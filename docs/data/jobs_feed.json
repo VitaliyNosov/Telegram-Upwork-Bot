@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113416157676012806",
+    "ciphertext": "~022113416157676012806",
+    "title": "Back-end developer to fix a Wordpress site error",
+    "description": "My website has an issue where it will not run scripts from a certain source, which is leading to page elements not functioning properly. I need someone to debug and fix this issue. We have tried several fixes already with no success, and need a professional with experience in this area who can resolve it.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 44,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "scripting",
+      "php",
+      "web-programming"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nI can help you debug and resolve this script execution issue on your WordPress site. Since you've already tried several quick fixes without success, you need someone who can dive deep into the PHP backend, check error logs, and trace network requests or blocked script calls at the server level. \n\nWith extensive experience in WordPress backend development, PHP, and debugging complex plugin/script conflicts, I regularly troubleshoot these exact kinds of rendering and execution blocks. Whether it's a restrictive Content Security Policy (CSP), a server-side restriction, or a script dependency conflict, I can quickly isolate the root cause and get your page elements working properly.\n\nCould you share the URL of your site and the source of the scripts that are being blocked? Let's get this fixed for you.",
+    "publishedDateTime": "2026-10-22T23:44:16+0000",
+    "addedAt": "2026-10-22T23:46:44.245Z",
+    "url": "https://www.upwork.com/jobs/~022113416157676012806",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113416157676012806/apply/"
+  },
+  {
     "id": "2113413245396480412",
     "ciphertext": "~022113413245396480412",
     "title": "WordPress Developer for Kadence",
