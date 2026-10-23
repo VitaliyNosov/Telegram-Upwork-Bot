@@ -1,5 +1,33 @@
 [
   {
+    "id": "2113565723892321915",
+    "ciphertext": "~022113565723892321915",
+    "title": "WordPress Redesign for a Volunteer-Run Nonprofit Tool Library (borrowtools.org)",
+    "description": "We need a designer to redesign and rebuild borrowtools.org. Hourly contract.\n\nABOUT US\nSonoma County Tool Library is a small, volunteer-run 501(c)(3) in Santa Rosa, CA, inside the coLAB building at 427 Mendocino Ave. Members borrow from over 1,000 tools for home repair, gardening, woodworking and more. We're open Wednesdays 5 to 7pm and Saturdays 9am to 2pm.\n\nTHE PROJECT\nThe current site runs on WordPress, with WooCommerce for memberships. It has the right basic content but needs a clean, modern, trustworthy design and a clear path for each visitor.\n\nKnown issues:\n- Impact counters show 0\n- Testimonial and benefit sections are duplicated\n- Tool category tiles are empty\n- Calls to action are buried\n\nGOALS\nMake it obvious how to:\n- Become a member\n- Browse and reserve tools in our catalog (we use MyTurn for the tool catalog and reservations, so link or embed it cleanly)\n- Donate\n- Volunteer\n\nThe site also needs:\n- Hours, location and directions\n- How borrowing works\n- FAQ and policies (loan period is one week, renew online, by text or phone)\n- Simple news and events\n- About and board\n\nIt should be mobile first, fast, accessible, with basic SEO, and easy for volunteers with no technical background to update.\n\nOPTIMIZE AND IMPROVE\nWe also want the site optimized, not just reskinned:\n- Faster page loads and better mobile performance\n- Stronger SEO so people searching for tools in Sonoma County find us\n- A smoother donation flow, including easy recurring gifts\n- A clearer volunteer path with a simple signup form, not just an email address\n- Address, hours and contact info that are easy to find on every page\n\nDELIVERABLES\n- Sitemap and wireframes\n- Design for review (Figma or staging)\n- Full build on staging\n- Content migration\n- Donation and membership integration\n- Launch with redirects and analytics\n- A recorded walkthrough plus a short edit guide for our team\n- 30 days of post-launch fixes\n\nPLATFORM\nWe can stay on WordPress or move platforms if you make a good case. Tell us what you recommend and why, including any ongoing costs.\n\nTIMELINE\n- Hourly contract\n- Roughly 6 to 8 weeks\n\nHOW WE WORK\nMartin, our Executive Director, makes the hire. Rayne, a core volunteer, will be your day-to-day contact for feedback and content.\n\nTO APPLY, PLEASE INCLUDE\n- 2 or 3 nonprofit or community sites you designed and built yourself (live links)\n- Your recommended platform and why\n- A rough timeline by milestone\n- Your hourly rate and an estimate of total hours by milestone\n- How you hand off a site so non-technical volunteers can keep it updated\n\nProposals that clearly looked at borrowtools.org go to the top of the pile.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 20,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 149,
+    "coverLetter": "Hi Martin,\n\nAs a fellow local WordPress developer, I’d love to help the Sonoma County Tool Library modernize borrowtools.org and fix those broken impact counters and duplicate sections. \n\nI recommend staying on WordPress. Since you already use WooCommerce for memberships and manage inventory via MyTurn, WordPress gives you a lightweight, cost-effective setup without locking you into expensive proprietary subscriptions. More importantly, we can build it using an intuitive block structure (or clean custom fields) so your volunteers can easily update hours, events, and news without touching code. \n\nFor your nonprofit portfolio requirement, you can check out my work on https://www.thelifeyoucansave.org/ and https://www.daysforgirls.org/. \n\nHere is a quick milestone outline over 6–8 weeks:\n1. Wireframes & Figma design (1-2 weeks)\n2. Staging build, MyTurn integration, & mobile optimization (3-4 weeks)\n3. Content migration & donation flow setup (1 week)\n4. Launch, recorded walkthrough video, + 30 days of support (1 week)\n\nWould you be open to a quick chat this week to review the current site and discuss the hourly estimate?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-10-23T09:38:41+0000",
+    "addedAt": "2026-10-23T09:40:44.368Z",
+    "url": "https://www.upwork.com/jobs/~022113565723892321915",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113565723892321915/apply/"
+  },
+  {
     "id": "2113501091102362736",
     "ciphertext": "~022113501091102362736",
     "title": "WordPress & WooCommerce Developer Needed for Premium Wall Art Store – Gelato Integration",
