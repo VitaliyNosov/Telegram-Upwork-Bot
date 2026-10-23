@@ -1,12 +1,19 @@
 {
   "date": "2026-10-24",
   "lastDigestSentDate": "2026-10-23",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Migration + Domain Transfer + Google Workspace Handover (Time-Sensitive)",
+      "budget": "$35-$75/hr",
+      "score": 7500,
+      "url": "https://www.upwork.com/jobs/~022113766987179920496",
+      "addedAt": "2026-10-23T23:01:18.654Z"
+    },
     {
       "title": "WordPress Technical Expert Needed for Website Optimization",
       "budget": "Fixed-price",
