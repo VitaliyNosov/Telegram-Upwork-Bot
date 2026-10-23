@@ -1,5 +1,37 @@
 [
   {
+    "id": "2113749871454585655",
+    "ciphertext": "~022113749871454585655",
+    "title": "WordPress Technical Expert Needed for Website Optimization",
+    "description": "We are seeking a WordPress technical expert to enhance our website’s performance, focusing on optimizing loading times and creating effective landing pages. The ideal candidate will have a strong background in WordPress performance optimization and experience in designing engaging landing pages that convert. Your expertise will help improve user experience and overall site efficiency, ensuring quick access for visitors. Please provide examples of previous work and any relevant certifications.   We have many ongoing projects after the initial project is complete.\n\nThe expert must have experience with the following:\n- Optimizing Wordpress plugs\n- Optimizing/removing unnecessary javascript files\n- Landing page design implementation\n- Wordpress templates\n- Finding / fixing Wordpress customization errors.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 80,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "html",
+      "css",
+      "javascript",
+      "web-design"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! \n\nI can help you optimize your WordPress site's loading speeds and implement high-converting landing pages. I specialize in Core Web Vitals optimization—specifically cleaning up bloated plugins, streamlining and deferring unnecessary JavaScript, and resolving customization errors under the hood. \n\nIn addition to speed optimization, I regularly build and refine custom WordPress templates and landing pages that balance strong visual design with clean, lightweight code. For instance, you can check out my performance work and template implementation on projects like https://www.thelifeyoucansave.org/. \n\nSince you mentioned having many ongoing projects after this initial phase, I’m fully available for long-term technical support and iterative improvements. \n\nWhat is your current mobile/desktop PageSpeed score, and do you have specific designs ready for the new landing pages?",
+    "publishedDateTime": "2026-10-23T21:50:51+0000",
+    "addedAt": "2026-10-23T21:53:19.437Z",
+    "url": "https://www.upwork.com/jobs/~022113749871454585655",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113749871454585655/apply/"
+  },
+  {
     "id": "2113722133782098332",
     "ciphertext": "~022113722133782098332",
     "title": "Head of Product — WordPress, PHP & JavaScript",

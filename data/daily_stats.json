@@ -1,8 +1,18 @@
 {
   "date": "2026-10-24",
   "lastDigestSentDate": "2026-10-23",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress Technical Expert Needed for Website Optimization",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022113749871454585655",
+      "addedAt": "2026-10-23T21:53:18.240Z"
+    }
+  ]
 }
