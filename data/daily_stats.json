@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 23,
-  "matchedFilters": 10,
+  "totalScanned": 24,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022113413245396480412",
       "addedAt": "2026-10-22T23:36:40.931Z"
+    },
+    {
+      "title": "WordPress & WooCommerce Developer Needed for Premium Wall Art Store – Gelato Integration",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022113501091102362736",
+      "addedAt": "2026-10-23T05:24:41.247Z"
     },
     {
       "title": "WooCommerce Breakdance Performance Optimization",

@@ -1,5 +1,36 @@
 [
   {
+    "id": "2113501091102362736",
+    "ciphertext": "~022113501091102362736",
+    "title": "WordPress & WooCommerce Developer Needed for Premium Wall Art Store – Gelato Integration",
+    "description": "I am looking for an experienced WordPress and WooCommerce developer to build a professional, modern, and elegant e-commerce website for my wall art brand,.\n\nWe currently sell wall art on Etsy and want to launch our own independent online store using WordPress, WooCommerce, and Gelato for print-on-demand fulfillment.\n\nThe website should have a premium, gallery-inspired design that showcases our artwork beautifully and is optimized to attract customers and generate sales.\n\nKey Requirements\n\n* Premium Website Design: Modern, elegant, visually appealing, and fully mobile-responsive.\n* WooCommerce Setup: Complete online store with secure checkout, payment gateways, shipping, and customer accounts.\n* Gelato Integration: Connect WooCommerce with Gelato for automated order fulfillment and product synchronization.\n* Product Variations: Support unframed prints, framed prints, stretched canvas, framed canvas, multiple sizes, and frame colors.\n* Product Catalog: Support hundreds of artwork listings with organized categories, search, and filtering.\n* SEO Optimization: SEO-friendly structure, fast loading speeds, and Google Analytics integration.\n* Marketing Integration: Pinterest, social media, and email marketing compatibility.\n* Easy Management: Ability to upload products, manage orders, update prices, and maintain the website independently.\n* Testing: Fully test checkout, product variations, and Gelato order fulfillment before launch.\n\nIdeal Freelancer\n\n* Proven experience with WordPress and WooCommerce.\n* Experience integrating Gelato or similar print-on-demand platforms.\n* Strong e-commerce website design and development skills.\n* Experience with wall art, home decor, or premium online stores is a plus.\n\nTo Apply\n\nPlease provide:\n\n1. Examples of WooCommerce websites you have developed.\n2. Your experience with Gelato integration.\n3. Your recommended approach for this project.\n4. Your estimated timeline and total fixed-price quote.\n\nI am looking for a reliable developer who can deliver a beautiful, professional, fast, and conversion-focused website.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "web-programming",
+      "woocommerce",
+      "web-design",
+      "graphic-design"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! Building a premium, gallery-inspired wall art store with complex WooCommerce variations and automated Gelato print-on-demand fulfillment is right in my wheelhouse. \n\nAs a WordPress and WooCommerce specialist, I routinely build high-converting e-commerce stores with advanced product variation setups (sizes, frames, materials) and seamless POD API integrations. I ensure every site is lightning-fast, mobile-responsive, and optimized for SEO and marketing channels like Pinterest and email. A great example of my WooCommerce work is https://waapple.org/, which showcases my clean design and robust store architecture.\n\nTo tackle your project efficiently, my approach is:\n1. Setup the core WooCommerce infrastructure and responsive gallery design.\n2. Configure complex variable products and integrate Gelato for automated fulfillment.\n3. Rigorously test checkouts and API sync before a smooth launch.\n\nEstimated timeline: 3-4 weeks. I'd love to share a fixed-price quote once we briefly discuss your exact catalog size. Are you available for a quick chat this week?",
+    "publishedDateTime": "2026-10-23T05:21:54+0000",
+    "addedAt": "2026-10-23T05:24:42.561Z",
+    "url": "https://www.upwork.com/jobs/~022113501091102362736",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113501091102362736/apply/"
+  },
+  {
     "id": "2113469452837916283",
     "ciphertext": "~022113469452837916283",
     "title": "Experienced Wordpress expert needed for an e-commerce website development and maintenance",
