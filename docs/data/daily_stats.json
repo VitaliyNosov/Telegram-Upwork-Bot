@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 58,
-  "matchedFilters": 17,
+  "totalScanned": 59,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 17,
     "woocommerce": 1
   },
   "topJobs": [
@@ -77,6 +77,13 @@
       "score": 3098,
       "url": "https://www.upwork.com/jobs/~022113467321045767058",
       "addedAt": "2026-10-23T03:10:45.062Z"
+    },
+    {
+      "title": "WordPress PHP Developer for Custom Functionality & Plugin Integration",
+      "budget": "$10-$25/hr",
+      "score": 2648,
+      "url": "https://www.upwork.com/jobs/~022113698865231892091",
+      "addedAt": "2026-10-23T18:32:43.569Z"
     },
     {
       "title": "WordPress Developer for Kadence",

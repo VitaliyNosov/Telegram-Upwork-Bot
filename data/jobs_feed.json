@@ -1,5 +1,38 @@
 [
   {
+    "id": "2113698865231892091",
+    "ciphertext": "~022113698865231892091",
+    "title": "WordPress PHP Developer for Custom Functionality & Plugin Integration",
+    "description": "We’re looking for a WordPress developer with strong PHP and JavaScript skills to improve an existing website and resolve issues across custom functionality and third-party plugins.\n\nYou should be comfortable reading existing code, diagnosing bugs, and making reliable changes without disrupting other features. Experience with user permissions, forms, and frontend interactions is important.\n\nRate: $15/hour.\nAre you available for real-time communication between 9:00 AM and 6:00 PM U.S. Eastern Time?",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$10 - $25/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 53,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "wordpress-plugin",
+      "javascript",
+      "css",
+      "plugin-development",
+      "web-programming",
+      "api"
+    ],
+    "score": 2648,
+    "coverLetter": "Yes, I am available for real-time communication between 9:00 AM and 6:00 PM U.S. Eastern Time. \n\nHi! I can help you debug your existing custom functionality, fix plugin conflicts, and cleanly integrate third-party APIs without breaking your site. With strong proficiency in PHP, JavaScript, and custom WordPress plugin development, I am very comfortable reading, auditing, and extending existing codebases while managing user permissions and frontend interactions smoothly. \n\nClean code and long-term stability are my primary focus areas. For instance, I recently built and optimized complex WordPress platforms like https://www.cchpca.org/, ensuring robust backend logic and seamless frontend performance. \n\nCould you share a few details about the specific plugins or custom functions that are currently causing issues? Let's get this resolved.",
+    "publishedDateTime": "2026-10-23T18:29:00+0000",
+    "addedAt": "2026-10-23T18:32:44.925Z",
+    "url": "https://www.upwork.com/jobs/~022113698865231892091",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113698865231892091/apply/"
+  },
+  {
     "id": "2113681547345169520",
     "ciphertext": "~022113681547345169520",
     "title": "WordPress Gravity Forms Expert Needed – Recover Submissions, Fix Emails & PDF Forms",
