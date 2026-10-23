@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-23",
-  "totalScanned": 66,
-  "matchedFilters": 19,
+  "totalScanned": 67,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 18,
+    "wordpress developer": 19,
     "woocommerce": 1
   },
   "topJobs": [
@@ -126,6 +126,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022113701584066474396",
       "addedAt": "2026-10-23T18:40:46.375Z"
+    },
+    {
+      "title": "Head of Product — WordPress, PHP & JavaScript",
+      "budget": "Fixed-price",
+      "score": 96,
+      "url": "https://www.upwork.com/jobs/~022113722133782098332",
+      "addedAt": "2026-10-23T20:02:45.132Z"
     },
     {
       "title": "Web Development: Rebuild ~30-Page Company Website from Wayback Machine Archive (Same Look, Clean New Build)",
