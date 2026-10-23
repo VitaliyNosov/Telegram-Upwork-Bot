@@ -1,12 +1,19 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 11,
-  "matchedFilters": 6,
+  "totalScanned": 13,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
+    {
+      "title": "Implement an Existing Finance Enquiry Widget — Code and Design Supplied",
+      "budget": "$25-$47/hr",
+      "score": 4798,
+      "url": "https://www.upwork.com/jobs/~022113442367431970427",
+      "addedAt": "2026-10-23T01:30:40.873Z"
+    },
     {
       "title": "Back-end developer to fix a Wordpress site error",
       "budget": "$15-$35/hr",

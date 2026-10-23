@@ -1,5 +1,37 @@
 [
   {
+    "id": "2113442367431970427",
+    "ciphertext": "~022113442367431970427",
+    "title": "Implement an Existing Finance Enquiry Widget — Code and Design Supplied",
+    "description": "I’m looking for an experienced developer to review and implement a finance enquiry widget on an equipment dealer’s website.\n\nI created the initial design and code using ChatGPT. A working demonstration and source package are available. I need someone to review the implementation, make any necessary fixes and manage deployment.\n\nYou will liaise with the website’s existing developer to arrange installation, or implement it yourself if suitable access is provided.\n\nAbout the widget\n\nVisitors click “Request a Finance Quote” on a product page, complete a popup form and submit an enquiry to a lending company.\n\nThe form collects contact details, finance amount and preferred term. It also includes the dealer name, equipment name and product URL.\n\nThere is no repayment calculator or instant pricing.\n\nAssets supplied\n\nResponsive HTML/CSS/JavaScript design.\n\nPopup and embeddable widget code.\n\nNode.js backend for form processing.\n\nEmail integration using Resend.\n\nCloudflare Turnstile integration for spam protection.\n\nConfiguration examples, installation documentation and automated backend tests.\n\nThe code has been tested locally, but live email delivery and integration with the dealer’s website still need to be completed.\n\nYour responsibilities\n\nReview the ChatGPT-generated code for functionality, security and suitability for deployment.\n\nConfirm the website platform and hosting requirements.\n\nRecommend whether to deploy the existing Node.js backend or adapt it to the available hosting.\n\nCoordinate with the website developer and provide clear installation instructions, or carry out the installation.\n\nConnect the product name, URL and price where available.\n\nConfigure hosting, email delivery and spam protection.\n\nApply supplied final privacy and consent wording.\n\nTest submissions, error handling and popup behaviour on desktop and mobile.\n\nProvide a brief handover and an agreed period of support for implementation defects.\n\nThe widget should remain reusable for installation on other dealer websites.\n\nRequired experience\n\nHTML, CSS, JavaScript, backend development, form/email integrations and website deployment. Node.js experience is preferred; WordPress/PHP experience would be useful if adaptation is required.\n\nPlease include in your proposal\n\nRelevant examples of similar work.\n\nYour approach to reviewing and deploying existing ChatGPT-generated code.\n\nYour estimated hours, hourly rate and a fixed-price option following code review.\n\nExpected turnaround time.\n\nAny hosting or ongoing service costs.\n\nWhat access or information you need from the website owner.\n\nPlease separate the code review/setup cost from the website installation cost. The existing assets will be supplied for review before the implementation scope is finalised.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 47,
+    "budgetDisplay": "$25 - $47/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 65,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "node.js",
+      "wordpress",
+      "javascript",
+      "html",
+      "css",
+      "web-programming",
+      "php"
+    ],
+    "score": 4798,
+    "coverLetter": "Hi! \n\nI can help you review your ChatGPT-generated finance widget code, assess your WordPress/hosting environment, and securely deploy the Node.js backend with Resend and Cloudflare Turnstile integration. \n\nMy approach to AI-generated code is to audit it thoroughly for security vulnerabilities, edge cases, error handling, and cross-browser responsiveness before touching production. Given the dealer’s site runs on WordPress (matching my core stack alongside JavaScript/PHP/Node.js), I can seamlessly handle both the backend deployment and the product data extraction (name, URL, price) or coordinate smoothly with your existing developer.\n\n**Estimates & Breakdown:**\n- **Code Review & Setup (Backend/Resend/Turnstile):** [Insert Hours / Fixed Cost]\n- **Website Installation & Testing:** [Insert Hours / Fixed Cost]\n- **Turnaround Time:** [Insert Days]\n\nTo finalize the scope, I will need access to the source package, the website's staging/live environment details, and current hosting specs. \n\nWhat is your preferred timeline to share the code for review?",
+    "publishedDateTime": "2026-10-23T01:28:32+0000",
+    "addedAt": "2026-10-23T01:30:42.410Z",
+    "url": "https://www.upwork.com/jobs/~022113442367431970427",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113442367431970427/apply/"
+  },
+  {
     "id": "2113429301639658489",
     "ciphertext": "~022113429301639658489",
     "title": "Relaunch HTML Site with CMS",
