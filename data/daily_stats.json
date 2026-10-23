@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 36,
-  "matchedFilters": 14,
+  "totalScanned": 37,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022113416157676012806",
       "addedAt": "2026-10-22T23:46:43.023Z"
+    },
+    {
+      "title": "WordPress Web Designer & Developer | Elementor Pro Expert | Multiple Website Redesign Projects",
+      "budget": "$10-$35/hr",
+      "score": 3500,
+      "url": "https://www.upwork.com/jobs/~022113642265948863481",
+      "addedAt": "2026-10-23T14:46:43.125Z"
     },
     {
       "title": "Junior Wordpress Developer",
