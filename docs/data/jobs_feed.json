@@ -1,5 +1,35 @@
 [
   {
+    "id": "2113681547345169520",
+    "ciphertext": "~022113681547345169520",
+    "title": "WordPress Gravity Forms Expert Needed – Recover Submissions, Fix Emails & PDF Forms",
+    "description": "## URGENT – WordPress / Gravity Forms Expert Needed\n\nWe are an established insurance agency with a professionally designed WordPress website. We need an experienced developer to fix critical issues with our online insurance applications and contact forms.\n\n**Our biggest concern is that prospective clients are submitting applications through our website, receiving confirmation that they submitted successfully, but our office never receives their applications or emails.** We recently learned that a prospective client submitted an application and never heard back from us.\n\nWe recently migrated our email from GoDaddy to Microsoft 365, which may be contributing to the problem.\n\nWe need someone who can start immediately and handle the following three priorities.\n\n### Priority 1 – Recover Missing Applications (URGENT)\n\n- Investigate all existing Gravity Forms entries and submission records.\n- Identify applications and contact inquiries submitted but never delivered to our office.\n- Recover all available applications, including answers, signatures, and uploaded documents.\n- Provide a report identifying recovered submissions and their dates.\n- Back up and preserve all existing entries before making any changes.\n\n### Priority 2 – Fix ALL Contact Forms and Application Submissions\n\nOur website is https://proiexp.com.\n\nExamples of affected pages include:\n\n- https://proiexp.com/contact/\n- https://proiexp.com/apply-now/\n- https://proiexp.com/medical-spa-application/\n- https://proiexp.com/architects-engineers-application/\n\nWe need someone to audit ALL forms and application links across the entire website, not just these examples.\n\nRequirements:\n\n- Ensure every contact inquiry and insurance application reaches our designated Microsoft 365 email addresses.\n- Troubleshoot and repair SMTP, email authentication, and notification settings.\n- Verify that all forms actually save submissions.\n- Configure reliable applicant confirmation emails.\n- Set up email logging and failure alerts.\n- Test every form and provide proof that submissions are received successfully.\n\n### Priority 3 – Revise Existing Insurance Applications and Generate PDFs\n\nWe have several online insurance applications that need improvements.\n\nOur Architects & Engineers application is the first priority. We have a detailed 7-page document explaining the required revisions.\n\nWe need the developer to:\n\n- Update questions, fields, sections, and conditional logic.\n- Improve usability without redesigning the entire website.\n- Ensure clients can complete and sign applications online.\n- Automatically generate a professional PDF containing all completed answers and signatures.\n- Ensure the completed PDF reaches our office.\n- Send applicants confirmation emails with their completed application PDFs.\n- Verify that uploads and signatures work properly.\n- Review and improve our other online insurance applications as needed.\n\n### Required Experience\n\nYou MUST have proven experience with:\n\n- WordPress and Gravity Forms\n- Gravity PDF or equivalent PDF generation\n- Microsoft 365 email integration\n- SMTP, SPF, DKIM, and DMARC troubleshooting\n- Complex online forms, conditional logic, signatures, and file uploads\n- Recovering missing or undelivered form submissions\n\nWe are NOT looking for a general website designer. Our website already looks good. We need a technical specialist who can make the forms work reliably.\n\n### Please Answer These Questions\n\n1. Have you recovered Gravity Forms submissions that were saved but never emailed?\n2. Have you fixed WordPress email delivery after a migration to Microsoft 365?\n3. Can you generate completed PDFs containing all application answers and signatures?\n4. How soon can you start?\n5. How many hours would you estimate for the initial investigation and recovery?\n\n**We want someone reliable, detail-oriented, and available immediately.**\n\nThe work will be divided into phases, with recovering missing applications and fixing email delivery taking priority over application revisions.\n\nAll client application data must be handled confidentially. Access must be secure and limited, and no existing entries should be deleted.\n\nWe are interested in establishing a long-term relationship with the right developer for future website maintenance and application improvements.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$25 - $50/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "gravity-forms",
+      "php",
+      "smtp",
+      "email-deliverability-consulting"
+    ],
+    "score": 5100,
+    "coverLetter": "Hi! I can start immediately and have extensive experience resolving exactly these types of Gravity Forms and email deliverability issues.\n\nI have frequently recovered \"lost\" submissions by digging into the WordPress database when SMTP settings failed. I am well-versed in configuring Microsoft 365 integrations, including the necessary SPF, DKIM, and DMARC records to ensure your insurance applications land in your inbox, not the junk folder. I also specialize in Gravity PDF and complex conditional logic for professional document generation.\n\n1. Yes, I have successfully recovered and restored numerous missing form entries.\n2. I have resolved countless M365 migration email issues.\n3. Yes, I build and maintain automated PDF generation workflows regularly.\n4. I am available to begin right now.\n5. I estimate 2–4 hours for the initial audit and recovery.\n\nAre you free for a quick call to grant me temporary access so I can begin the recovery process?",
+    "publishedDateTime": "2026-10-23T17:18:51+0000",
+    "addedAt": "2026-10-23T17:20:48.543Z",
+    "url": "https://www.upwork.com/jobs/~022113681547345169520",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113681547345169520/apply/"
+  },
+  {
     "id": "2113650239394745979",
     "ciphertext": "~022113650239394745979",
     "title": "Website Audit, Corrections, SEO Optimization & Development Scope of Work",
