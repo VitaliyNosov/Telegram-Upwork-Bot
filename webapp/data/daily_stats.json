@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 19,
-  "matchedFilters": 9,
+  "totalScanned": 20,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4798,
       "url": "https://www.upwork.com/jobs/~022113442367431970427",
       "addedAt": "2026-10-23T01:30:40.873Z"
+    },
+    {
+      "title": "Experienced Wordpress expert needed for an e-commerce website development and maintenance",
+      "budget": "$20-$40/hr",
+      "score": 4097,
+      "url": "https://www.upwork.com/jobs/~022113469452837916283",
+      "addedAt": "2026-10-23T03:18:42.933Z"
     },
     {
       "title": "Back-end developer to fix a Wordpress site error",
