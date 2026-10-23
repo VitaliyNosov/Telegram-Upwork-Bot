@@ -1,5 +1,35 @@
 [
   {
+    "id": "2113701584066474396",
+    "ciphertext": "~022113701584066474396",
+    "title": "Experienced and Professional WP developer",
+    "description": "Need Updating and fixing an abandoned website with digital products. It is up and running but I received a botched website from unprofessional developer, and need someone else to finish it.\n \n1. Some Design Changes, and new images\n2.Fixing of error in directory\n3.Digital products not being sent\n4. Assistance in how to add bundles\n5. Assistance with payment option\n6. Need to remove former developer's info from website. \n7. Make sure and testing everything is working",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Denmark",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I can step in immediately to clean up your abandoned site, fix the botched development work, and get your digital products and checkout running smoothly. \n\nI frequently rescue and repair WordPress and WooCommerce sites left in rough shape by previous developers. Here is how I will tackle your checklist:\n- Fix the directory errors and remove all traces of the former developer's info.\n- Resolve the digital product delivery and payment gateway issues.\n- Set up product bundles correctly and apply your new design changes and images.\n- Conduct a complete end-to-end checkout and system test to ensure everything is 100% stable.\n\nYou can see an example of my clean execution on complex sites like https://www.thelifeyoucansave.org/. \n\nCould you share temporary admin access so I can quickly audit the current errors and get this finished for you?",
+    "publishedDateTime": "2026-10-23T18:38:31+0000",
+    "addedAt": "2026-10-23T18:40:47.561Z",
+    "url": "https://www.upwork.com/jobs/~022113701584066474396",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113701584066474396/apply/"
+  },
+  {
     "id": "2113698865231892091",
     "ciphertext": "~022113698865231892091",
     "title": "WordPress PHP Developer for Custom Functionality & Plugin Integration",
