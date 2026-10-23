@@ -1,12 +1,19 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 13,
-  "matchedFilters": 7,
+  "totalScanned": 14,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Recovery & Modernization Engineer (AI-Augmented / Full-Stack PHP)",
+      "budget": "$15-$50/hr",
+      "score": 5099,
+      "url": "https://www.upwork.com/jobs/~022113449160756064668",
+      "addedAt": "2026-10-23T01:58:41.081Z"
+    },
     {
       "title": "Implement an Existing Finance Enquiry Widget — Code and Design Supplied",
       "budget": "$25-$47/hr",
