@@ -1,5 +1,35 @@
 [
   {
+    "id": "2113467321045767058",
+    "ciphertext": "~022113467321045767058",
+    "title": "Bricks Builder (Wordpress) mega menu development",
+    "description": "We have a website built in Wordpress that uses the Bricks Builder page designer.  We want a Bricks expert to help design a new mega menu that includes an additional menu layer that changes based on the link chosen (sort of like a sub-menu).\n\nWe will provide you Wordpress admin access to a staging site to work on that you will we able to edit as necessary. Once it's ready we would like the template to be able to be exported to upload onto the main production site. We would prefer the work to be done in Bricks Builder and not provide hosting/FTP/PhpMyAdmin access (the client has security concerns).",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 254,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "graphic-design",
+      "css",
+      "html"
+    ],
+    "score": 3098,
+    "coverLetter": "Hi! \n\nI build dynamic, responsive layouts in Bricks Builder daily and can help you design and develop a clean mega menu with interactive sub-layers tailored to your exact specifications. \n\nWorking safely within your staging environment is no problem at all, and I will ensure the final mega menu is packaged cleanly as a reusable template so you can easily export and import it into your production site without needing FTP or database access. \n\nTo give you a quick idea of my WordPress development standards, you can view one of my recent client builds here: https://www.seeintl.org/\n\nCould you share a quick wireframe or sketch of how you want the dynamic sub-menu layer to behave when different links are hovered or clicked?",
+    "publishedDateTime": "2026-10-23T03:07:33+0000",
+    "addedAt": "2026-10-23T03:10:46.216Z",
+    "url": "https://www.upwork.com/jobs/~022113467321045767058",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113467321045767058/apply/"
+  },
+  {
     "id": "2113449160756064668",
     "ciphertext": "~022113449160756064668",
     "title": "Senior WordPress Recovery & Modernization Engineer (AI-Augmented / Full-Stack PHP)",
