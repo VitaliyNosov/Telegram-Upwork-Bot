@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113429301639658489",
+    "ciphertext": "~022113429301639658489",
+    "title": "Relaunch HTML Site with CMS",
+    "description": "We need to relaunch an existing HTML website using a CMS so the client can update content easily. The project includes rebuilding the site structure, migrating current content, and setting up a user-friendly editing experience. AI can be used to help convert and organize the content during the transition. The ideal freelancer should be able to handle the technical rebuild, ensure the site functions smoothly, and make it easy for the client to manage pages and updates on their own.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "html5",
+      "css",
+      "css3"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nMigrating a static HTML site to a flexible CMS while ensuring a seamless editing experience for the client is right in my wheelhouse. I frequently rebuild existing sites into clean, manageable WordPress environments using tools like Advanced Custom Fields (ACF) and Gutenberg, allowing clients to update text, images, and pages effortlessly without touching code. \n\nFor projects like this, I ensure the structural integrity and design of the original site are preserved while optimizing the backend for intuitive content management. You can see an example of my recent work here: https://www.seeintl.org/. \n\nAre you looking to stick with WordPress for this relaunch, or are you open to other platforms like Webflow based on the current structure? Let’s chat about the best approach.",
+    "publishedDateTime": "2026-10-23T00:36:28+0000",
+    "addedAt": "2026-10-23T00:38:42.457Z",
+    "url": "https://www.upwork.com/jobs/~022113429301639658489",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113429301639658489/apply/"
+  },
+  {
     "id": "2113416157676012806",
     "ciphertext": "~022113416157676012806",
     "title": "Back-end developer to fix a Wordpress site error",
