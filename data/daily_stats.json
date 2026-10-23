@@ -1,13 +1,20 @@
 {
   "date": "2026-10-23",
   "lastDigestSentDate": "2026-10-22",
-  "totalScanned": 33,
-  "matchedFilters": 13,
+  "totalScanned": 34,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "WordPress.com Tutoring Website Edits",
+      "budget": "$35-$70/hr",
+      "score": 7094,
+      "url": "https://www.upwork.com/jobs/~022113618856686795769",
+      "addedAt": "2026-10-23T13:12:42.327Z"
+    },
     {
       "title": "Senior WordPress Recovery & Modernization Engineer (AI-Augmented / Full-Stack PHP)",
       "budget": "$15-$50/hr",
