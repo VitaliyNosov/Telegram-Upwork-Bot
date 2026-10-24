@@ -1,39 +1,8 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "lastDigestSentDate": "2026-10-24",
-  "totalScanned": 42,
-  "matchedFilters": 4,
-  "byKeyword": {
-    "wordpress developer": 4
-  },
-  "topJobs": [
-    {
-      "title": "WordPress Migration + Domain Transfer + Google Workspace Handover (Time-Sensitive)",
-      "budget": "$35-$75/hr",
-      "score": 7500,
-      "url": "https://www.upwork.com/jobs/~022113766987179920496",
-      "addedAt": "2026-10-23T23:01:18.654Z"
-    },
-    {
-      "title": "Responsive WordPress Website Designer & Developer – Healthcare Industry",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022114079675251061148",
-      "addedAt": "2026-10-24T19:44:49.943Z"
-    },
-    {
-      "title": "WordPress Technical Expert Needed for Website Optimization",
-      "budget": "Fixed-price",
-      "score": 97,
-      "url": "https://www.upwork.com/jobs/~022113749871454585655",
-      "addedAt": "2026-10-23T21:53:18.240Z"
-    },
-    {
-      "title": "WordPress, GHL, and Automation Expert for HomeServicesPro",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022113960825542719608",
-      "addedAt": "2026-10-24T11:53:16.255Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
