@@ -1,5 +1,34 @@
 [
   {
+    "id": "2113960825542719608",
+    "ciphertext": "~022113960825542719608",
+    "title": "WordPress, GHL, and Automation Expert for HomeServicesPro",
+    "description": "Seeking an expert to migrate HomeServicesPro.ai from Framer to WordPress while preserving design, content, functionality, and mobile responsiveness. The project includes SEO migration, redirects, metadata, indexing, and speed optimization. You will connect Marblism for blog publishing, configure foundational SEO, and set up GoHighLevel as the central CRM with forms, landing pages, QR attribution, pipelines, custom fields, lead routing, assignments, and duplicate prevention. You will also assess RepCard integration, document limitations and alternatives, automate reminders, follow-up, onboarding, installation updates, reviews, and referrals, and build reporting by source, campaign, rep, product, territory, sales, installations, and revenue. Support six departments with role-based access, corporate visibility, and reusable territory templates. Please share relevant examples, integration approach, fixed-price milestone quotes, hours, delivery dates, dependencies, subscriptions, and support terms. End-to-end testing, documentation, recorded training, and company ownership of accounts and assets are required.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "html"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! Migrating HomeServicesPro.ai from Framer to WordPress while safeguarding your SEO rankings, mobile responsiveness, and custom metadata is right in my wheelhouse. I handle pixel-perfect theme implementations paired with robust performance optimization to ensure your new site loads lightning-fast. \n\nBeyond the migration, I can seamlessly set up your Marblism blog integration and configure GoHighLevel as your central CRM—handling forms, pipelines, lead routing, and deduplication. I’ve successfully managed complex migrations and system integrations for enterprise-grade sites like https://www.snopud.com/, ensuring zero data loss and clean, scalable architecture. I'll also build out comprehensive role-based access for your six departments, handle end-to-end testing, and provide clear video documentation and training.\n\nLet's chat about your timeline, dependencies, and a fixed-price milestone breakdown. When would you like to kick off the initial assessment?",
+    "publishedDateTime": "2026-10-24T11:49:34+0000",
+    "addedAt": "2026-10-24T11:53:17.507Z",
+    "url": "https://www.upwork.com/jobs/~022113960825542719608",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022113960825542719608/apply/"
+  },
+  {
     "id": "2113766987179920496",
     "ciphertext": "~022113766987179920496",
     "title": "WordPress Migration + Domain Transfer + Google Workspace Handover (Time-Sensitive)",
