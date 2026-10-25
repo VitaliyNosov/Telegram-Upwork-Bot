@@ -1,8 +1,18 @@
 {
   "date": "2026-10-25",
   "lastDigestSentDate": "2026-10-24",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "URGENT – Fix Website Contact Form and Add SMS Disclosure",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022114145392224871531",
+      "addedAt": "2026-10-25T00:04:36.356Z"
+    }
+  ]
 }

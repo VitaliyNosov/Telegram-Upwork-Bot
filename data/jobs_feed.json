@@ -1,5 +1,35 @@
 [
   {
+    "id": "2114145392224871531",
+    "ciphertext": "~022114145392224871531",
+    "title": "URGENT – Fix Website Contact Form and Add SMS Disclosure",
+    "description": "I need an experienced website developer who can start immediately.\n\nWebsite: www.thebathtubrefinishingexperts.com\n\nHosting: HostGator\n\nWork Required:\n\n1. Fix my website’s estimate request form so all customer submissions are reliably delivered to my business email address.\n2. Make sure the email includes the customer’s name, phone number, email address, and estimate request details.\n3. Troubleshoot and correct any form submission or email delivery problems.\n4. Add an SMS consent disclosure directly underneath the form’s Submit button.\n5. I do not want an additional checkbox. The disclosure should be visible and clearly explain that customers may receive calls, emails, or text messages regarding their estimate requests.\n6. Add links to our Privacy Policy and Terms & Conditions.\n7. Test the entire form on desktop and mobile devices to verify everything works properly.\n8. Do not redesign the website or change anything unrelated to this project.\n\nI need this completed ASAP, preferably within 24 hours.\n\nPlease provide your fixed price, availability, and estimated completion time.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can start immediately and have your contact form and SMS disclosure fixed within your 24-hour timeframe. \n\nResolving WordPress and WooCommerce email delivery issues, fixing form routing, and implementing precise HTML/PHP tweaks are core parts of my daily work. I will troubleshoot your HostGator email delivery, properly capture all fields (name, phone, email, details), add the required text-only SMS consent disclosure with your Privacy Policy and Terms & Conditions links beneath the submit button, and thoroughly test everything on both desktop and mobile—without touching the rest of your site. \n\nMy fixed price for this task is $50, and I can complete it within a few hours of getting access. \n\nAre you available now to share WordPress admin and hosting logins so I can get started right away?",
+    "publishedDateTime": "2026-10-25T00:02:04+0000",
+    "addedAt": "2026-10-25T00:04:39.217Z",
+    "url": "https://www.upwork.com/jobs/~022114145392224871531",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114145392224871531/apply/"
+  },
+  {
     "id": "2114079675251061148",
     "ciphertext": "~022114079675251061148",
     "title": "Responsive WordPress Website Designer & Developer – Healthcare Industry",
