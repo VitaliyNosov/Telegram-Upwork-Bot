@@ -1,12 +1,19 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-25",
-  "totalScanned": 5,
-  "matchedFilters": 1,
+  "totalScanned": 6,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Default Website Design Template for Pizzerias",
+      "budget": "$20-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022114505613099059285",
+      "addedAt": "2026-10-25T23:56:37.485Z"
+    },
     {
       "title": "WordPress Site for Business Brokerage (WA Cannabis I-502, Bilingual + AI Chatbot)",
       "budget": "Fixed-price",

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114505613099059285",
+    "ciphertext": "~022114505613099059285",
+    "title": "Default Website Design Template for Pizzerias",
+    "description": "We need a default website design template tailored for pizzerias that is clean, easy to customize, and ready for use. The template should support key pages such as home, menu, about, and contact, with a layout that feels welcoming and professional. We’re looking for someone who can create a polished, responsive design that can be adapted across different pizzeria brands. Please share relevant examples of similar templates or restaurant-focused designs.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$20 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "html",
+      "wordpress"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can help you build a clean, responsive, and easily customizable WordPress website template tailored specifically for pizzerias. Since restaurant sites need to drive orders and look mouth-watering while remaining simple to manage, I will structure it around essential pages like Home, Menu, About, and Contact using intuitive builders or custom Gutenberg/ACF setups so it can be effortlessly rebranded for different clients.\n\nWith extensive experience in custom WordPress development and theme creation from scratch, I focus on lightweight, fast-loading, and user-friendly layouts. For instance, you can check out https://waapple.org/ to see my clean code and design standards in action. \n\nDo you have a preferred page builder (like Elementor or Gutenberg) for this template, or should we keep it as lean as possible? Let’s chat about your timeline and design vision.",
+    "publishedDateTime": "2026-10-25T23:53:21+0000",
+    "addedAt": "2026-10-25T23:56:38.762Z",
+    "url": "https://www.upwork.com/jobs/~022114505613099059285",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114505613099059285/apply/"
+  },
+  {
     "id": "2114489197361511417",
     "ciphertext": "~022114489197361511417",
     "title": "WordPress Site for Business Brokerage (WA Cannabis I-502, Bilingual + AI Chatbot)",
