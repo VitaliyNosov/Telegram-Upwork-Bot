@@ -1,10 +1,10 @@
 {
   "date": "2026-10-25",
   "lastDigestSentDate": "2026-10-25",
-  "totalScanned": 27,
-  "matchedFilters": 4,
+  "totalScanned": 28,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022114418098057657337",
       "addedAt": "2026-10-25T18:08:34.856Z"
+    },
+    {
+      "title": "Learn to Use Lovable Website",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022114458440927806263",
+      "addedAt": "2026-10-25T20:48:35.024Z"
     },
     {
       "title": "WordPress Developer Needed – Build 2026 Midterm Elections Hub Page",
