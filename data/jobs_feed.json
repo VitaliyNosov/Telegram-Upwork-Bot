@@ -1,5 +1,32 @@
 [
   {
+    "id": "2114366324365067063",
+    "ciphertext": "~022114366324365067063",
+    "title": "WordPress Developer Needed – Build 2026 Midterm Elections Hub Page",
+    "description": "I need an experienced WordPress developer to build a dedicated 2026 Midterm Elections hub page on my news site.\n\nThe site runs on the Foxiz theme with Elementor. The page must match the existing site design (clean, modern news layout, light theme, bold headlines, category badges, grid/sidebar style) and feel native to the rest of the site.\n\nProject Requirements\n•  Create a new page titled (will give you title)\n•  Match the current site design and Foxiz styling as closely as possible.\n\n•  Include these sections:\n\t•  Strong headline + Politics category badge\n\t•  Prominent Live Election Results section that embeds the official elections results dashboard via iframe \n\n\t•  Key races cards/sections (will provide)\n\t\n•  Make the page mobile-responsive and fast.\n•  Optimize for SEO (proper headings, meta title/description, clean URL).\n•  Add the page to the main menu under Politics (or as discussed).\n\nNeed completed no later than October 31, 2026.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.83,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 88,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wordpress-theme"
+    ],
+    "score": 147,
+    "coverLetter": "Hi! \n\nI can help you build your 2026 Midterm Elections hub page so it integrates seamlessly with your Foxiz theme and Elementor setup. \n\nHaving extensive experience building custom page layouts, handling complex embeds like election dashboards via iframe, and ensuring strict design consistency with existing news themes, I will make sure the layout features clean grid structures, category badges, and fully responsive key race cards. I'll also optimize the page for speed and SEO (proper heading hierarchy, clean URLs, and meta tags) before adding it to your main Politics menu. \n\nYou can check out some of my news and content-heavy site builds in my portfolio, such as https://about.offerup.com/ or https://www.cchpca.org/. \n\nAre you ready to share the headline and key races details so we can get started?",
+    "publishedDateTime": "2026-10-25T14:40:00+0000",
+    "addedAt": "2026-10-25T14:42:35.683Z",
+    "url": "https://www.upwork.com/jobs/~022114366324365067063",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114366324365067063/apply/"
+  },
+  {
     "id": "2114145392224871531",
     "ciphertext": "~022114145392224871531",
     "title": "URGENT – Fix Website Contact Form and Add SMS Disclosure",

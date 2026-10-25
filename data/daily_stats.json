@@ -1,12 +1,19 @@
 {
   "date": "2026-10-25",
   "lastDigestSentDate": "2026-10-24",
-  "totalScanned": 16,
-  "matchedFilters": 1,
+  "totalScanned": 17,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Developer Needed – Build 2026 Midterm Elections Hub Page",
+      "budget": "Fixed-price",
+      "score": 147,
+      "url": "https://www.upwork.com/jobs/~022114366324365067063",
+      "addedAt": "2026-10-25T14:42:34.367Z"
+    },
     {
       "title": "URGENT – Fix Website Contact Form and Add SMS Disclosure",
       "budget": "Fixed-price",
