@@ -1,5 +1,35 @@
 [
   {
+    "id": "2114489197361511417",
+    "ciphertext": "~022114489197361511417",
+    "title": "WordPress Site for Business Brokerage (WA Cannabis I-502, Bilingual + AI Chatbot)",
+    "description": "We are a Washington State licensed cannabis (I-502) business brokerage. We need an experienced WordPress developer to build a clean, professional, bilingual (English + Chinese) website that showcases cannabis businesses for sale and generates qualified buyer and seller leads.\n\nReference site for style and functionality: https://www.green-rush.us\n\nSCOPE / DELIVERABLES\n1. Domain and hosting setup (help choose/configure hosting, SSL, email-ready DNS).\n2. Pages: Home, About, Services, Available Listings, Sell Your Business, Buyer Intake, Contact.\n3. Listings directory: searchable and filterable (e.g., license type, location/county, price range, status), with an easy admin workflow so the owner can add, edit, and mark listings sold without a developer.\n4. Forms: \"Sell Your Business\" intake form and Buyer intake form (with confidentiality/NDA acknowledgment), plus a general contact form; submissions emailed to the owner and stored in WordPress.\n5. AI chatbot: answers common questions (process, fees, licensing basics, how to buy/sell) and captures buyer/seller lead details into the same lead inbox.\n6. Bilingual English/Chinese with a language toggle on every page (owner will review/provide translations as needed).\n7. Fully mobile responsive and fast-loading.\n8. Basic on-page SEO (titles, meta, schema, sitemap), plus Google Business Profile and Google Search Console setup.\n9. Owner training and handoff: a short walkthrough session/video and simple written guide for adding listings and managing leads; all admin logins transferred to the owner.\n\nACCEPTANCE CRITERIA (definition of done)\n- All listed pages live on the owner's domain with SSL, in both English and Chinese.\n- Owner can add a new listing in under 10 minutes and it appears in search/filter results.\n- Every form and the chatbot deliver a test lead to the owner's email and the WordPress admin.\n- Site passes Google's mobile-friendly check and loads well on mobile.\n- Sitemap submitted in Google Search Console; Google Business Profile set up.\n- Training delivered and documentation handed over.\n\nBudget: up to $5,000 (maximum). Please quote your own fixed price for the full scope; competitive quotes below the cap are welcome. Milestones welcome.\n\nTO APPLY, please include:\n- Links to relevant portfolio work, especially cannabis-industry and/or business brokerage or listings sites.\n- Your proposed timeline with milestones.\n- Your fixed-price quote for the full scope above.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "seo",
+      "wpml",
+      "chatbot-software"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! I can build a clean, bilingual (English/Chinese) business brokerage WordPress site for your I-502 cannabis listings, complete with custom search filters, intake forms with NDA acknowledgments, an AI chatbot, and foundational SEO. \n\nGiven the specialized nature of cannabis brokerage, I’ll ensure the listings directory is dead simple for you to update in under 10 minutes without touching code. For bilingual support, I regularly implement seamless WPML setups just like you need. You can review my work on high-performing nonprofit and corporate builds like https://www.thelifeyoucansave.org/ to see my standard for clean, responsive design.\n\n**Proposed Timeline (2.5 Weeks):**\n- **Milestone 1 (Hosting & Structure):** Domain/hosting setup, core pages, and bilingual framework ($1,500 - 4 days)\n- **Milestone 2 (Listings & Forms):** Searchable/filterable directory, intake forms, and NDA setup ($1,500 - 5 days)\n- **Milestone 3 (AI Chatbot, SEO & Launch):** AI chatbot integration, Google Search Console setup, training, and handoff ($1,500 - 5 days)\n\n**Total Fixed-Price Quote:** $4,500\n\nWhen would you like to kick off the hosting setup?",
+    "publishedDateTime": "2026-10-25T23:06:15+0000",
+    "addedAt": "2026-10-25T23:08:37.455Z",
+    "url": "https://www.upwork.com/jobs/~022114489197361511417",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114489197361511417/apply/"
+  },
+  {
     "id": "2114458440927806263",
     "ciphertext": "~022114458440927806263",
     "title": "Learn to Use Lovable Website",
