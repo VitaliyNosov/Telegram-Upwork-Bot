@@ -1,5 +1,40 @@
 [
   {
+    "id": "2114428880249181074",
+    "ciphertext": "~022114428880249181074",
+    "title": "WordPress Website Developer for an Ongoing Dynamic Project",
+    "description": "We are looking for a skilled and reliable WordPress or Custom Website Developer to work with us on an ongoing, dynamic web development project. We need someone who can build, maintain, improve, and expand a website as our project evolves.\n\nThe ideal candidate should have strong technical skills, a problem-solving mindset, and the ability to work collaboratively on both existing functionality and new features. We are looking for a long-term working relationship with a developer who can understand our requirements and turn ideas into practical, high-quality solutions.\nResponsibilities\n\n    Develop, customize, and maintain websites using WordPress or custom development technologies.\n    Build dynamic website features, functionality, and interactive elements.\n    Customize WordPress themes and plugins or develop custom solutions when needed.\n    Integrate third-party APIs, services, and other tools as required.\n    Troubleshoot technical issues, fix bugs, and optimize website performance.\n    Ensure the website is responsive, secure, and compatible across modern browsers and devices.\n    Implement new features and improvements based on evolving project requirements.\n    Maintain clean, scalable, and well-organized code.\n    Communicate regularly regarding progress, challenges, and potential improvements.\n\nRequired Skills and Experience\n\n    Proven experience in WordPress development and/or custom website development.\n    Strong knowledge of HTML, CSS, JavaScript, and PHP, where applicable.\n    Experience with WordPress themes, plugins, custom post types, and dynamic content.\n    Familiarity with databases, API integrations, and backend functionality.\n    Understanding of responsive design, website security, and performance optimization.\n    Ability to troubleshoot problems and work independently.\n    Good communication skills and a commitment to meeting deadlines.\n\nWhat We Are Looking For\n\n    A dependable developer interested in a long-term collaboration.\n    Someone comfortable working on an evolving project with changing priorities.\n    A proactive problem-solver who can recommend improvements rather than simply follow instructions.\n    Someone who writes maintainable code and follows development best practices.\n    A developer who provides regular updates and communicates clearly.\n\nProject Scope and Workload\n\nThis is an ongoing project, and the workload will depend on project requirements, development milestones, and new features. We are open to working with a freelancer who can provide consistent support and grow with the project over time.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "mysql",
+      "html5",
+      "web-design",
+      "web-programming",
+      "woocommerce",
+      "javascript",
+      "php",
+      "css",
+      "html"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI’m a senior WordPress developer with deep expertise in PHP, JavaScript, and custom theme and plugin development, making me a great fit for your ongoing dynamic project. \n\nI specialize in building scalable websites, implementing complex custom features using ACF and custom post types, and writing clean, maintainable code. Whether you need to expand existing functionality, integrate third-party APIs, or optimize performance as your project evolves, I can proactively translate your requirements into high-quality, reliable solutions. You can review my work on dynamic builds like https://www.cchpca.org/ to see the standard of code and responsiveness I deliver.\n\nI am looking for a long-term collaboration and can provide consistent, dependable support. When is a good time this week to chat about your current roadmap and upcoming milestones?",
+    "publishedDateTime": "2026-10-25T18:48:41+0000",
+    "addedAt": "2026-10-25T18:50:36.362Z",
+    "url": "https://www.upwork.com/jobs/~022114428880249181074",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114428880249181074/apply/"
+  },
+  {
     "id": "2114418098057657337",
     "ciphertext": "~022114418098057657337",
     "title": "WordPress Site Setup and Template Upload",
