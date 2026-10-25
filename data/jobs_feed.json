@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114418098057657337",
+    "ciphertext": "~022114418098057657337",
+    "title": "WordPress Site Setup and Template Upload",
+    "description": "Starting a media website and need help setting up the website and uploading the template for now. Not well-versed in Wordpress so need help with initial setup, and possible project work later.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "html"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! I can help you get your new media website up and running quickly and smoothly. \n\nSince you are just starting out with WordPress, I will handle the complete initial setup, configure your environment properly, and upload and test your template so it looks and functions exactly as intended. Beyond this initial launch, I am available for ongoing project work and maintenance as your media site grows. \n\nYou can review my recent WordPress work on similar builds here: https://www.thelifeyoucansave.org/\n\nWhen would you like to get started, and do you already have the hosting, domain, and template files ready to go?",
+    "publishedDateTime": "2026-10-25T18:05:36+0000",
+    "addedAt": "2026-10-25T18:08:38.648Z",
+    "url": "https://www.upwork.com/jobs/~022114418098057657337",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114418098057657337/apply/"
+  },
+  {
     "id": "2114366324365067063",
     "ciphertext": "~022114366324365067063",
     "title": "WordPress Developer Needed – Build 2026 Midterm Elections Hub Page",

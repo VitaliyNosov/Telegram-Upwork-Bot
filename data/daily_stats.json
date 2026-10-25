@@ -1,12 +1,19 @@
 {
   "date": "2026-10-25",
   "lastDigestSentDate": "2026-10-24",
-  "totalScanned": 21,
-  "matchedFilters": 2,
+  "totalScanned": 22,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "WordPress Site Setup and Template Upload",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022114418098057657337",
+      "addedAt": "2026-10-25T18:08:34.856Z"
+    },
     {
       "title": "WordPress Developer Needed – Build 2026 Midterm Elections Hub Page",
       "budget": "Fixed-price",
