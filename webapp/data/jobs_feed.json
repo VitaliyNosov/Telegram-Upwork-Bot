@@ -1,5 +1,33 @@
 [
   {
+    "id": "2114832571460161844",
+    "ciphertext": "~022114832571460161844",
+    "title": "LearnDash specialist for a membership site migration (MemberPress + BuddyBoss)",
+    "description": "We are looking for a LearnDash specialist. \n\nWe are a small online training business moving our programs from a third-party coaching app onto our own WordPress site. LearnDash, our new learning management system (LMS), will hold the programs, MemberPress handles access and billing, and BuddyBoss runs the community and the mobile app.\n\nStage one is the foundation, and it is what we are hiring for now:\n- A LearnDash structure for long programs built in four-week phases. We would like your advice on how to set it up, including how finishing one phase unlocks the next and, if LearnDash can do it, a rule such as finishing four of five days to open the next week.\n- Automatic enrollment into the right course when a member buys through MemberPress, and removal when the membership ends, with progress kept if they come back.\n- Membership setup: when a membership ends, the member drops to a free tier. Cancelling, rejoining, upgrading, downgrading and restarting a program from day one are easy for the member, with automatic renewal reminders.\n- Courses set up so they show and work well in our mobile app (BuddyBoss, or a wrapper app that shows our site).\n- A setup our own team can run, so we can create and edit programs without a developer.\n\nStage two comes later and may or may not be you: custom training features that matter a lot to us: workout logging, a rearrangeable (drag-and-drop) workout calendar, a coach view, and our interval timer as a plugin. Please do not build anything in stage one that would get in the way of these. Some of the app-side pieces may go to BuddyBoss's own team. Tell us if you would want to take on stage two and how you would price it separately.\n\nWe will build the courses ourselves and test the system by running our normal process in it. We value clear plans and honest advice. If a plugin or a setting does the job, we want to hear it.\n\nTimeline: Final decision in mid-November, stage one starting the week of November 23, a pilot in February and launch in March and April.\n\nWe will shortlist three or four developers and share the full project details with them.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.82,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "learndash",
+      "wordpress",
+      "wordpress-plugin"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! \n\nI’d love to help you architect and build the foundation for your membership and training platform using LearnDash, MemberPress, and BuddyBoss. I specialize in complex WordPress membership and LMS setups, ensuring a clean, intuitive backend that your team can easily manage without a developer.\n\nFor Stage One, I can design the structural rules you need—such as phase-based unlocking logic and progress retention on re-enrollment—while guaranteeing seamless MemberPress automation for tier drops, renewals, and billing sync. Crucially, I will build this with your future Stage Two goals in mind (workout logging, drag-and-drop calendars, and custom timers) so the architecture remains lightweight and won't conflict with upcoming app integrations. \n\nFor Stage Two, I am definitely interested in taking on the custom feature development and can provide a separate hourly or milestone estimate once we review the full specs. \n\nWould you like to hop on a quick chat to discuss the timeline and review how we can structure the phase-unlock rules?",
+    "publishedDateTime": "2026-10-26T21:32:37+0000",
+    "addedAt": "2026-10-26T21:34:38.543Z",
+    "url": "https://www.upwork.com/jobs/~022114832571460161844",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114832571460161844/apply/"
+  },
+  {
     "id": "2114805422682871838",
     "ciphertext": "~022114805422682871838",
     "title": "WordPress Developer for SiteGround",

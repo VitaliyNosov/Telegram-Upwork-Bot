@@ -1,11 +1,12 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-26",
-  "totalScanned": 61,
-  "matchedFilters": 12,
+  "totalScanned": 62,
+  "matchedFilters": 13,
   "byKeyword": {
     "wordpress developer": 11,
-    "woocommerce": 1
+    "woocommerce": 1,
+    "wordpress plugin": 1
   },
   "topJobs": [
     {
@@ -84,6 +85,13 @@
       "score": 97,
       "url": "https://www.upwork.com/jobs/~022114722143627662226",
       "addedAt": "2026-10-26T14:16:37.098Z"
+    },
+    {
+      "title": "LearnDash specialist for a membership site migration (MemberPress + BuddyBoss)",
+      "budget": "Fixed-price",
+      "score": 96,
+      "url": "https://www.upwork.com/jobs/~022114832571460161844",
+      "addedAt": "2026-10-26T21:34:36.029Z"
     },
     {
       "title": "WordPress Site for Business Brokerage (WA Cannabis I-502, Bilingual + AI Chatbot)",
