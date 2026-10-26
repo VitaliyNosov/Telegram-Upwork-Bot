@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-25",
-  "totalScanned": 58,
-  "matchedFilters": 11,
+  "totalScanned": 59,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 3099,
       "url": "https://www.upwork.com/jobs/~022114793714136860370",
       "addedAt": "2026-10-26T19:00:35.318Z"
+    },
+    {
+      "title": "WordPress Developer for SiteGround",
+      "budget": "$14-$28/hr",
+      "score": 2950,
+      "url": "https://www.upwork.com/jobs/~022114805422682871838",
+      "addedAt": "2026-10-26T19:48:35.324Z"
     },
     {
       "title": "WooCommerce + Customily Specialist Needed",

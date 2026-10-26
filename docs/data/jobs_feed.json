@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114805422682871838",
+    "ciphertext": "~022114805422682871838",
+    "title": "WordPress Developer for SiteGround",
+    "description": "I am looking for an experienced WordPress developer to resolve technical and security issues on an established membership website hosted on SiteGround. The site currently runs PHP 7.4.34, which is outdated and unsupported, and previous upgrade attempts have caused the site to crash. One compatibility issue involving an outdated OptimizePress plugin has already been partially addressed, but additional problems remain. I need someone who can identify the remaining issues, successfully upgrade PHP, and ensure the website continues functioning correctly.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "web-programming"
+    ],
+    "score": 2950,
+    "coverLetter": "Hi! \n\nUpgrading a membership site stuck on PHP 7.4.34 to a secure, modern version without breaking your setup requires a careful, staged approach, especially when dealing with legacy themes like OptimizePress and outdated plugins. This is a common challenge I handle regularly.\n\nAs an experienced WordPress developer, I specialize in diagnosing plugin conflicts, resolving fatal errors, and safely executing PHP version upgrades on hosts like SiteGround. My process involves setting up a proper staging environment, isolating compatibility issues, and ensuring your membership system, database, and database-driven features remain fully intact before going live. You can see examples of my recent work on complex WordPress builds here: https://www.thelifeyoucansave.org/.\n\nWhen would you like to discuss the current error logs and map out the upgrade steps?\n\nBest regards,\nWordPress Developer",
+    "publishedDateTime": "2026-10-26T19:44:44+0000",
+    "addedAt": "2026-10-26T19:48:36.726Z",
+    "url": "https://www.upwork.com/jobs/~022114805422682871838",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114805422682871838/apply/"
+  },
+  {
     "id": "2114793714136860370",
     "ciphertext": "~022114793714136860370",
     "title": "WordPress Website Completion and SEO Setup",
