@@ -1,12 +1,19 @@
 {
   "date": "2026-10-27",
   "lastDigestSentDate": "2026-10-26",
-  "totalScanned": 3,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Divi Theme Website Updates",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022114858912750509917",
+      "addedAt": "2026-10-26T23:20:34.495Z"
+    },
     {
       "title": "Elementor Developer: Technical SEO and Speed Fixes on Wordpress",
       "budget": "$10-$30/hr",
