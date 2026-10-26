@@ -1,13 +1,20 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-25",
-  "totalScanned": 45,
-  "matchedFilters": 8,
+  "totalScanned": 46,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Remove Fake CAPTCHA from WordPress Site",
+      "budget": "$15-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022114767429640747349",
+      "addedAt": "2026-10-26T17:16:37.696Z"
+    },
     {
       "title": "PHP Update on 2 Wordpress Sites",
       "budget": "$15-$35/hr",
