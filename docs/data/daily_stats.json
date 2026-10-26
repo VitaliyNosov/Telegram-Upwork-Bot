@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
   "lastDigestSentDate": "2026-10-26",
-  "totalScanned": 6,
-  "matchedFilters": 2,
+  "totalScanned": 7,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3092,
       "url": "https://www.upwork.com/jobs/~022114848891039915869",
       "addedAt": "2026-10-26T22:40:36.037Z"
+    },
+    {
+      "title": "Website Designer Needed – Visual Redesign of 5 Existing Pages for a Feminine, Celestial Brand",
+      "budget": "Fixed-price",
+      "score": 94,
+      "url": "https://www.upwork.com/jobs/~022114868175019310789",
+      "addedAt": "2026-10-26T23:58:36.090Z"
     }
   ]
 }
