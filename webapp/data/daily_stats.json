@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-25",
-  "totalScanned": 35,
-  "matchedFilters": 6,
+  "totalScanned": 36,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022114623182730588572",
       "addedAt": "2026-10-26T07:42:33.928Z"
+    },
+    {
+      "title": "Website Redesign and Domain Transfer",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022114722143627662226",
+      "addedAt": "2026-10-26T14:16:37.098Z"
     },
     {
       "title": "WordPress Site for Business Brokerage (WA Cannabis I-502, Bilingual + AI Chatbot)",

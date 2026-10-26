@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114722143627662226",
+    "ciphertext": "~022114722143627662226",
+    "title": "Website Redesign and Domain Transfer",
+    "description": "I need help recreating my current website with a modern, user-friendly design and moving the existing domain to the new site. The current site is built in WordPress, but I find it difficult to make updates on my own, so I’d prefer a simpler platform that is easier to manage. The new site should include only a few standard pages and a working contact form. I also need assistance fixing any issues with the domain itself to ensure everything transfers smoothly.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "html"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I can certainly help you redesign your site for better usability and handle the technical domain transfer to ensure a seamless transition.\n\nSince you find your current WordPress setup difficult to manage, I can either streamline your WordPress backend using a more intuitive page builder (like Gutenberg or a lightweight starter theme) or migrate your content to a platform like Webflow, which is often more user-friendly for non-technical updates. I have extensive experience with both platforms and can ensure your site is easy to maintain while keeping your domain pointing correctly during the move.\n\nYou can see a similar site migration and redesign I handled at https://www.daysforgirls.org/. \n\nWhat is the current URL of your website, and are there specific features you find most difficult to manage right now?",
+    "publishedDateTime": "2026-10-26T14:13:46+0000",
+    "addedAt": "2026-10-26T14:16:50.751Z",
+    "url": "https://www.upwork.com/jobs/~022114722143627662226",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114722143627662226/apply/"
+  },
+  {
     "id": "2114673199688348060",
     "ciphertext": "~022114673199688348060",
     "title": "Website Developer – Complete and Improve Existing E-commerce Store",
