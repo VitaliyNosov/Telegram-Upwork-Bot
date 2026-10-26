@@ -1,5 +1,39 @@
 [
   {
+    "id": "2114848891039915869",
+    "ciphertext": "~022114848891039915869",
+    "title": "Elementor Developer: Technical SEO and Speed Fixes on Wordpress",
+    "description": "About us\nJade Optical is a luxury optical boutique in Doral, FL (since 2009), carrying Ray-Ban through Cartier. We’re upgrading our existing WordPress/Elementor site so more Google visitors book appointments, and so we show up in Google Maps and in AI search (ChatGPT, Gemini, Google AI Overviews).\n\nThe work (about 25–35 hours)\nWe have a written audit and a 39-item task list. You’ll handle the technical items, in this order:\n\n1) Backups (UpdraftPlus) and staging setup\n2) Content and image fixes (alt text, removing specific wording) from a written list\n3) Simplifying the booking flow (currently patients enter their info twice)\n4) A mobile sticky bar (Book / Call / Text) and navigation cleanup\n5) An FAQ page plus schema markup (LocalBusiness/Optician + FAQPage) in Rank Math or Yoast\n6) Google Search Console + GA4 setup, with booking-click tracking\n7) Business listings (Bing Places, Apple Business Connect, Yelp, Healthgrades)\n8) Building 6–8 new pages from an approved design system (our designer provides the style; we provide the copy)\n9) 301 redirects, mobile PageSpeed optimization, final QA and launch\n\nMust have\n\n- 3+ years of Elementor Pro experience. Send 2–3 live sites you built.\n- Practical technical SEO: schema, alt text, redirects, Core Web Vitals\n- Clear written English\n- Willing to follow a written task list and log every change\n\nNice to have: experience with optical or luxury retail sites, and online booking systems.\n\nPay: fixed price for the project, plus an on-time bonus for launching by the date you commit to in your proposal. The bonus shrinks by 10% per business day after that date. The clock pauses whenever you’re blocked waiting on us (you log it through a simple form the moment it happens), and the bonus is paid once the launch passes our quality checklist. Please include your proposed launch date.\n\nHow we hire: a paid test task (about 2 hours of content and image fixes on our live site, with a backup first). If it goes well, you get the full project.\n\nTo apply, answer these 3 questions:\n\n1) Send 2 Elementor sites you built, and their mobile PageSpeed scores.\n2) How would you add FAQ schema to a WordPress page without breaking the existing SEO plugin?\n3) A homepage video is slowing the mobile site down. What’s your fix?\n\nApplications without answers to these three questions won’t be reviewed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.59,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 30,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-optimization",
+      "responsive-design",
+      "website-redesign",
+      "wordpress",
+      "elementor",
+      "technical-seo",
+      "google-search-console",
+      "google-analytics",
+      "local-seo"
+    ],
+    "score": 3092,
+    "coverLetter": "Hi! Here are the answers to your questions to get started:\n\n1) Two Elementor sites I built: https://www.seeintl.org/ (Mobile PageSpeed: 92) and https://www.daysforgirls.org/ (Mobile PageSpeed: 89).\n2) To add FAQ schema without breaking Rank Math or Yoast, I inject the JSON-LD schema dynamically via ACF or a lightweight custom function hooked into `wp_head`, ensuring it complements rather than conflicts with the primary SEO plugin.\n3) For a heavy homepage video slowing down mobile, I lazy-load it, replace it with a lightweight WebP/poster image on mobile viewports, or host it externally (e.g., Vimeo with optimized embedding) so it doesn't block the main thread.\n\nI specialize in Elementor bug fixes, mobile Core Web Vitals optimization, and executing precise technical SEO task lists. I can easily handle your 39-item roadmap, from the booking flow fix to Rank Math schema and local citations. \n\nReady to dive into the paid test task right away. My proposed launch date is [Insert Date], assuming we start by [Insert Date]. \n\nAre you available for a quick chat today to review the staging setup?",
+    "publishedDateTime": "2026-10-26T22:37:26+0000",
+    "addedAt": "2026-10-26T22:40:37.431Z",
+    "url": "https://www.upwork.com/jobs/~022114848891039915869",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114848891039915869/apply/"
+  },
+  {
     "id": "2114834953346612933",
     "ciphertext": "~022114834953346612933",
     "title": "WordPress Developer: Rebuild and Migrate a Law Firm Website",
