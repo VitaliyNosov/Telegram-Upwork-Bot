@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114623182730588572",
+    "ciphertext": "~022114623182730588572",
+    "title": "E-Commerce Website Developer Needed",
+    "description": "I need a developer to build a website for my midlife e-commerce business. The site should support product listings, a registry function, shopping cart functionality, and a smooth checkout process. I’m looking for someone who can create a clean, user-friendly design and help set up the site for long-term growth. Please share examples of similar e-commerce projects and your approach to building a reliable online store.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Switzerland",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 38,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "php",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! Building a seamless, user-friendly e-commerce store with robust registry and checkout features for your midlife business is right in my wheelhouse. \n\nAs a dedicated WordPress and WooCommerce specialist, I build high-performing online stores focused on clean design and long-term scalability. I handle everything from smooth cart flows and custom product listings to secure payment integrations and gift registry systems, ensuring your customers enjoy a frictionless shopping experience. \n\nFor a look at my work with clean, impactful layouts, you can check out https://www.thelifeyoucansave.org/. \n\nWhat specific payment gateways or registry features do you have in mind for the initial launch? Let's discuss the best approach to bring your vision to life.",
+    "publishedDateTime": "2026-10-26T07:40:33+0000",
+    "addedAt": "2026-10-26T07:42:34.851Z",
+    "url": "https://www.upwork.com/jobs/~022114623182730588572",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114623182730588572/apply/"
+  },
+  {
     "id": "2114525750946216056",
     "ciphertext": "~022114525750946216056",
     "title": "Responsive Website Development for Landscape Company",
