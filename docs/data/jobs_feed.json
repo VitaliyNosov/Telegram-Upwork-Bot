@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114780031641024853",
+    "ciphertext": "~022114780031641024853",
+    "title": "WooCommerce + Customily Specialist Needed",
+    "description": "We need a specialist to build a personalized product store for a small business (Production‑Ready Build). The work includes setting up the store, integrating Customily for product personalization, and ensuring the checkout and order process works smoothly. You should be able to handle product setup, customization options, and support for a simple, reliable customer experience. Please share relevant examples of similar stores or e-commerce projects you have completed.\n\nWe have launched a personalized product line and needs an expert who can fully configure Customily + WooCommerce for a production‑ready storefront. This is NOT a basic plugin setup — we need someone who understands Customily’s personalization logic, variant mapping, and print‑ready output workflows.\n\nPlatform Requirements\nWooCommerce\nVariable product architecture with attributes (size, color, material, style).\nVariation‑specific SKU logic aligned with production workflow.\nTheme compatibility and UI optimization for Customily’s personalization iframe.\nCheckout flow optimized for custom products (validation, preview confirmation, error handling).\nPlugin conflict testing and performance optimization.\n\nCustomily\nTemplate creation for each product type.\nVariant‑specific mockups and dynamic layer mapping.\nConditional personalization logic (e.g., text fields, image uploads, clipart, color selectors).\nReal‑time preview accuracy across desktop + mobile.\nPrint‑ready output configuration (DPI, bleed, safe zones).\nAutomated production file routing.\n\nResponsibilities:\nBuild Customily templates for multiple product types.\nConfigure variant‑specific mockups and dynamic layers.\nMap WooCommerce variations to Customily templates.\nEnsure accurate real‑time previews.\nSet up print‑ready file generation and routing.\nOptimize product pages for UX and performance.\nTest full order → production workflow.\n\nRequirements:\nProven Customily experience (show live examples).\nStrong WooCommerce variable product knowledge.\nExperience with POD workflows and print‑ready files.\nAbility to optimize Customily’s mobile UI.\nStrong communication and documentation skills.\n\nNice to Have:\nExperience with glass/acrylic printing.\nPHP/JS for Customily customization.\n\nDeliverables\n1. Product Architecture\nDefine product attributes and variations.\nBuild variable products in WooCommerce.\nMap each variation to the correct Customily template.\nEnsure SKU → Template → Production file alignment.\n\n2. Customily Template Development\nFor each product:\nBuild base template.\nAdd personalization fields.\nConfigure dynamic layers.\nUpload mockups and align artwork zones.\nTest live preview accuracy.\nConfigure print‑ready output.\n\n3. Integration & Sync\nConnect WooCommerce → Customily.\nSync templates to products.\nValidate variation mapping.\nTest order flow end‑to‑end.\n\n4. UX & UI\nOptimize product page layout.\nAdd clear personalization instructions.\nEnsure mobile responsiveness.\nImprove load performance for Customily iframe.\n\n5. Operational Workflow\nProduction file automation.\nOrder management workflow.\nFulfillment routing.\nQA testing across devices.\n\n6. Launch‑Readiness\nSecurity, backups, caching.\nCheckout testing.\nProduction file validation.\nFinal UX review.\nGo‑live support.\n\nTo Apply:  \nSend:\nLinks to similar Customily projects you’ve built.\nExplanation of how you handle variant‑specific mockups.\nExample of a print‑ready output you configured.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 99,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress",
+      "php",
+      "wp-ecommerce"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! Setting up a seamless Customily and WooCommerce integration requires deep experience with variable product architecture, dynamic layer mapping, and print-ready output workflows—which is exactly what I specialize in. \n\nI have built and optimized several complex e-commerce stores, including platforms with advanced product configurations (such as https://waapple.org/). When handling variant-specific mockups, I carefully map WooCommerce attributes (size, color, style) directly to Customily templates, ensuring that conditional logic, image uploads, and real-time previews function flawlessly on both desktop and mobile without dragging down site performance. My workflow also ensures that your print-ready outputs (DPI, bleed, and safe zones) route correctly for fulfillment.\n\nTo tailor this for your POD business, how many base product types are you looking to launch in the initial phase? Let's get your production-ready store fully optimized and live.",
+    "publishedDateTime": "2026-10-26T18:04:38+0000",
+    "addedAt": "2026-10-26T18:08:47.931Z",
+    "url": "https://www.upwork.com/jobs/~022114780031641024853",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114780031641024853/apply/"
+  },
+  {
     "id": "2114767429640747349",
     "ciphertext": "~022114767429640747349",
     "title": "Remove Fake CAPTCHA from WordPress Site",
