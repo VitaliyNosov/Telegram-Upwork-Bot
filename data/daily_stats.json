@@ -1,13 +1,20 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-25",
-  "totalScanned": 40,
-  "matchedFilters": 7,
+  "totalScanned": 41,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "PHP Update on 2 Wordpress Sites",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022114736339586077437",
+      "addedAt": "2026-10-26T15:14:38.997Z"
+    },
     {
       "title": "Default Website Design Template for Pizzerias",
       "budget": "$20-$30/hr",

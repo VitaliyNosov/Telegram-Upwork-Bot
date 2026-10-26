@@ -1,5 +1,33 @@
 [
   {
+    "id": "2114736339586077437",
+    "ciphertext": "~022114736339586077437",
+    "title": "PHP Update on 2 Wordpress Sites",
+    "description": "I am looking for someone with experience updating Wordpress sites. I have two websites that have outdated PHP and need updating. I utilize Cloudflare and WP Engine for these. Note that the designs themselves and sites are outdated, but I am only looking for PHP updates to keep the sites secure. \n\nPlease share experience in updating sites, plugins and fixing general site health.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cloudflare",
+      "wordpress",
+      "php"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! I can certainly help you update your PHP versions on WP Engine while ensuring your sites remain stable and secure. \n\nI have extensive experience managing high-traffic WordPress environments and resolving the plugin conflicts or deprecation errors that often arise during PHP version upgrades. Since you are using Cloudflare and WP Engine, I am well-versed in the specific workflows required to test these changes in staging environments before pushing to production, ensuring no downtime for your live sites. I frequently handle site health audits and security hardening for clients who need to stay compliant with modern server requirements.\n\nYou can see examples of the complex WordPress sites I maintain at https://www.thelifeyoucansave.org/. \n\nAre you currently running any legacy plugins that you suspect might conflict with a higher PHP version? Let me know, and we can discuss a plan to get these updated safely.",
+    "publishedDateTime": "2026-10-26T15:10:16+0000",
+    "addedAt": "2026-10-26T15:15:01.684Z",
+    "url": "https://www.upwork.com/jobs/~022114736339586077437",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114736339586077437/apply/"
+  },
+  {
     "id": "2114722143627662226",
     "ciphertext": "~022114722143627662226",
     "title": "Website Redesign and Domain Transfer",
