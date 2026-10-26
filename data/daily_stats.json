@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-25",
-  "totalScanned": 8,
-  "matchedFilters": 3,
+  "totalScanned": 9,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 3
+    "wordpress developer": 4
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022114513386197892089",
       "addedAt": "2026-10-26T00:26:35.682Z"
+    },
+    {
+      "title": "Responsive Website Development for Landscape Company",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022114525750946216056",
+      "addedAt": "2026-10-26T01:16:34.398Z"
     },
     {
       "title": "WordPress Site for Business Brokerage (WA Cannabis I-502, Bilingual + AI Chatbot)",

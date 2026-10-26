@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114525750946216056",
+    "ciphertext": "~022114525750946216056",
+    "title": "Responsive Website Development for Landscape Company",
+    "description": "We are seeking a skilled web developer to create a responsive and mobile-friendly website for our landscape company. The website should include pages such as services, about us, home, contact, gallery, and blog. We are looking for someone who can provide professional feedback to ensure the site is SEO friendly and loads quickly. We are planning on using Siteground for web hosting.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 52,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "web-design",
+      "responsive-design",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI’d love to help you build a fast, mobile-responsive website for your landscape company on SiteGround. A clean, visual layout featuring your services, gallery, and blog will be key to turning local visitors into clients.\n\nWith extensive experience in custom WordPress development, I focus heavily on two things you mentioned: SEO-friendly architecture and speed optimization to ensure top-tier Core Web Vitals. I can also advise on the best structure for your portfolio gallery to highlight your landscaping projects effectively. \n\nYou can check out a recent non-profit project I built with a strong focus on responsiveness and performance here: https://www.daysforgirls.org/\n\nLet’s chat about your design preferences and timeline—when are you hoping to launch?",
+    "publishedDateTime": "2026-10-26T01:13:22+0000",
+    "addedAt": "2026-10-26T01:16:35.585Z",
+    "url": "https://www.upwork.com/jobs/~022114525750946216056",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114525750946216056/apply/"
+  },
+  {
     "id": "2114513386197892089",
     "ciphertext": "~022114513386197892089",
     "title": "WordPress/WooCommerce Developer Needed – Add E-Commerce Store to Existing Website (No Redesign)",
