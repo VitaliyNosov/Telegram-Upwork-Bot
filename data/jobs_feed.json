@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114832515659141428",
+    "ciphertext": "~022114832515659141428",
+    "title": "Custom CRM and Website Integration",
+    "description": "We’re looking for a freelancer to build a custom CRM and website and connect them together. The work includes developing the CRM, creating the website, and ensuring the two systems communicate smoothly. You should be comfortable handling both the backend and frontend of the project and able to deliver a reliable, integrated solution. Please share relevant experience with similar projects and your approach to connecting systems.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "javascript",
+      "crm"
+    ],
+    "score": 3598,
+    "coverLetter": "Hi!\n\nBuilding a custom CRM and website from scratch, while ensuring they communicate smoothly via robust backend and frontend integration, is right in my wheelhouse. \n\nWith deep expertise in PHP, JavaScript, and WordPress, I specialize in building custom solutions and integrating them seamlessly with external systems via REST APIs and custom webhooks. Whether it’s structuring the database, building a responsive interface, or setting up reliable data sync between the custom CRM and your site, I ensure clean code and rock-solid reliability. \n\nFor instance, I developed the platform architecture for projects like https://www.snopud.com/, focusing on secure data handling and seamless performance. \n\nMy approach is to first map out the data flow requirements, build out the backend logic and CRM framework using clean PHP/JS, and then implement thorough error handling to ensure the two systems never drop a sync.\n\nCould you share a bit more about the specific workflows or data you need the CRM to track from the website? Let's discuss the scope in chat.",
+    "publishedDateTime": "2026-10-26T21:35:30+0000",
+    "addedAt": "2026-10-26T21:40:43.461Z",
+    "url": "https://www.upwork.com/jobs/~022114832515659141428",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114832515659141428/apply/"
+  },
+  {
     "id": "2114832571460161844",
     "ciphertext": "~022114832571460161844",
     "title": "LearnDash specialist for a membership site migration (MemberPress + BuddyBoss)",

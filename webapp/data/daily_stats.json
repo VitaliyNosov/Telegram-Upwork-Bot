@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-26",
-  "totalScanned": 62,
-  "matchedFilters": 13,
+  "totalScanned": 63,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1,
     "wordpress plugin": 1
   },
@@ -22,6 +22,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022114736339586077437",
       "addedAt": "2026-10-26T15:14:38.997Z"
+    },
+    {
+      "title": "Custom CRM and Website Integration",
+      "budget": "$15-$35/hr",
+      "score": 3598,
+      "url": "https://www.upwork.com/jobs/~022114832515659141428",
+      "addedAt": "2026-10-26T21:40:42.049Z"
     },
     {
       "title": "Default Website Design Template for Pizzerias",
