@@ -1,5 +1,34 @@
 [
   {
+    "id": "2114513386197892089",
+    "ciphertext": "~022114513386197892089",
+    "title": "WordPress/WooCommerce Developer Needed – Add E-Commerce Store to Existing Website (No Redesign)",
+    "description": "We are looking for an experienced WordPress developer to help us expand our existing website, GeniusDentalSystems.com, by adding e-commerce functionality.\n\nOur website currently focuses on educational content, including blogs, videos, and professional resources. We would like to preserve its existing structure and functionality while introducing an online store to sell merchandise, books, and digital educational materials.\n\nWe are considering WooCommerce as a potential solution but are open to other recommendations that offer a good balance of functionality, simplicity, and cost.\n\nProject Scope:\n\nIntegrate an e-commerce store into our existing WordPress website.\n\nCreate a professional storefront consistent with our current branding.\n\nSet up product categories for merchandise, books, and digital resources.\n\nConfigure product variations, including sizes, colors, and pricing.\n\nIntegrate secure payment processing and checkout.\n\nConfigure shipping, applicable sales taxes, and automated order notifications.\n\nProvide basic inventory and order management capabilities.\n\nEnsure mobile compatibility and ease of navigation.\n\nAllow us to independently add products, update pricing, and manage orders.\n\nIdeally, support future integration with print-on-demand services such as Printful or Printify.\n\nBudget and Project Expectations\n\nThis is a new business initiative, and we plan to begin with a relatively small selection of products, expanding gradually as demand develops.\n\nSince the store is not yet generating revenue, we want to be mindful of our initial investment. Our preference is to leverage existing WordPress functionality, established e-commerce plugins, and cost-effective solutions rather than invest in unnecessary custom development.\n\nThat said, we value quality, reliability, and a professional customer experience. We are open to reasonable recommendations that provide meaningful benefits and support future growth.\n\nWe would appreciate the following information:\n\nYour recommended approach for integrating e-commerce into our existing website.\n\nAn estimated fixed project cost, including any required plugins or subscriptions.\n\nAn estimated timeline for completion.\n\nExamples of similar projects you have completed.\n\nAny anticipated ongoing maintenance costs.\n\nWhether basic training on managing products and orders is included.\n\nIf possible, we would also appreciate a distinction between the essential features needed for an initial launch and any optional enhancements that could be implemented later.\n\nOur goal is to establish a functional, attractive, and scalable online store while keeping the initial investment proportionate to the current stage of the business.\n\nThank you for your time. We look forward to reviewing your proposal.\n\nBest regards,",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "web-programming",
+      "wordpress",
+      "ecommerce-consulting"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nWooCommerce is the ideal, cost-effective solution for GeniusDentalSystems.com. Since you want to preserve your existing educational structure, we can seamlessly integrate a clean WooCommerce store that matches your current branding without needing a full site redesign. \n\nMy recommended approach is to set up WooCommerce using your existing theme, configure categories for your physical merchandise, books, and digital downloads, and integrate secure checkout with automated tax and shipping rules. This setup will also easily support future Printful/Printify integrations when you scale. For a project like this, I often point to similar builds in my portfolio, such as [https://www.snopud.com/](https://www.snopud.com/).\n\nTo give you exact numbers:\n* **Timeline:** ~1 to 2 weeks for a fully functional launch setup.\n* **Maintenance & Training:** Basic product/order management training for your team is fully included. Ongoing costs are minimal (just standard plugin updates).\n\nLet’s chat about your initial product catalog so I can provide a precise fixed-cost estimate!",
+    "publishedDateTime": "2026-10-26T00:24:15+0000",
+    "addedAt": "2026-10-26T00:26:36.990Z",
+    "url": "https://www.upwork.com/jobs/~022114513386197892089",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114513386197892089/apply/"
+  },
+  {
     "id": "2114505613099059285",
     "ciphertext": "~022114505613099059285",
     "title": "Default Website Design Template for Pizzerias",

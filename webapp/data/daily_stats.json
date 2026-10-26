@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-25",
-  "totalScanned": 6,
-  "matchedFilters": 2,
+  "totalScanned": 7,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022114505613099059285",
       "addedAt": "2026-10-25T23:56:37.485Z"
+    },
+    {
+      "title": "WordPress/WooCommerce Developer Needed – Add E-Commerce Store to Existing Website (No Redesign)",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022114513386197892089",
+      "addedAt": "2026-10-26T00:26:35.682Z"
     },
     {
       "title": "WordPress Site for Business Brokerage (WA Cannabis I-502, Bilingual + AI Chatbot)",
