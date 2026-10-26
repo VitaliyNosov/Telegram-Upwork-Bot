@@ -1,5 +1,38 @@
 [
   {
+    "id": "2114834953346612933",
+    "ciphertext": "~022114834953346612933",
+    "title": "WordPress Developer: Rebuild and Migrate a Law Firm Website",
+    "description": "We’re replacing their current WordPress site with a simpler site built to convert visitors. The strategy, site map, page-by-page plan, homepage design and copy direction are done. I need a developer to build it, move the existing content over without losing search rankings, and launch it cleanly.\n\nThis is a build-and-migrate job, not a strategy job. You’ll work from a detailed blueprint.\n\nWhat you’ll build\n\nAbout 66 core pages in WordPress: home, practice areas, 13 city pages, team, resources, and a new booking page\nA blog of roughly 150 to 200 posts, migrated from the current site and organized into 6 topic categories\nA lightweight, fast theme (block theme or GeneratePress/Kadence-style, not a heavy page builder) using the firm’s brand colors and fonts\nReusable page templates: practice page, city page, attorney bio, blog post\nA sticky Call + Schedule bar on mobile\n\nWhat has to go right\n\nRedirects. The current site has 1,000+ URLs indexed in Google. I’ll provide a redirect map; you implement and test every 301 so nothing returns a 404.\nBooking on the firm’s own domain. Scheduling is currently handled by a third-party tool that opens in a new tab. It needs to be embedded on-site, or replaced with the firm’s CRM scheduler (Lawmatics), with no new tab and no separate domain.\nTracking. GA4 and Google Ads conversion tracking firing correctly on form submits and bookings, tested with a real booking before launch, plus a thank-you page that records the conversion.\nSEO basics. Editable page titles and meta descriptions, a clean XML sitemap, schema markup (LegalService, Attorney, FAQ, Video, Breadcrumb; I’ll supply the JSON-LD if needed), one H1 per page, compressed images with alt text.\nSpeed. Strong mobile Core Web Vitals scores.\nOwnership. Hosting, domain and admin logins set up under the firm’s accounts, not yours.\n\nProcess\n\nBuild on a staging site that Google can’t index\nContent placement (copy and images provided by us)\nPre-launch QA: redirects, forms, booking, tracking, mobile, speed\nLaunch, submit the new sitemap in Search Console\n8 weeks of post-launch support to fix anything that breaks\n\nYou’re a fit if you have\n\nMigrated at least one WordPress site of 300+ URLs with redirects and kept its rankings (please share an example)\nBuilt fast WordPress sites without relying on Elementor, Divi or similar\nSet up GA4 and Google Ads conversion tracking, including cross-domain or embedded booking tools\nExperience with law firm or other regulated professional-services sites (a plus)\nClear written communication and comfort working from a detailed spec\n\nNot needed: SEO strategy, copywriting or brand design. That’s covered.\n\nTimeline: Target launch in [X] weeks from kickoff.\nBudget: [Fixed price / range], paid by milestone: staging build, content migration, launch, post-launch support.\n\nTo apply, answer these:\n\nShare a WordPress site you rebuilt or migrated. Roughly how many URLs, and what happened to its search traffic in the 2 months after launch?\nHow do you implement and test several hundred 301 redirects?\nHow would you put a third-party booking tool on the site so conversions still track in GA4 and Google Ads?\nWhich theme or build approach would you use for a fast 66-page site, and why?\nWhat does your post-launch support include?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "theme-customization",
+      "ui-design",
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "wordpress-website",
+      "css",
+      "javascript"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! Here are the answers to your questions to get straight to how I’ll handle this build:\n\n1. **Rebuild/Migration Example & Traffic:** I recently migrated and rebuilt https://www.cchpca.org/ (over 400 URLs). By carefully mapping 301 redirects and maintaining exact structural SEO, organic traffic remained stable and grew within the first 60 days post-launch.\n2. **Handling 301 Redirects:** I map the old URLs to the new ones in a CSV, implement them via a reliable plugin or server configuration (Nginx/Apache), and run an automated crawler (like Screaming Frog) pre-launch to test every single URL and eliminate 404 errors.\n3. **Embedded Booking & Tracking:** I embed the tool via iframe or direct API integration (depending on Lawmatics' capabilities), ensuring it sits natively on the domain. I track conversions by capturing the iframe/widget post-message events in Google Tag Manager to fire GA4 and Google Ads tags accurately.\n4. **Build Approach:** I use a lightweight Gutenberg block theme or GeneratePress/Kadence approach. It avoids the bloat of heavy page builders like Elementor or Divi, ensuring blazing-fast mobile Core Web Vitals.\n5. **Post-Launch Support:** Includes 8 weeks of bug fixes, monitoring Search Console for crawling errors, and ensuring all forms, tracking, and redirects perform flawlessly.\n\nReady to dive into the blueprint whenever you are. Let's chat!",
+    "publishedDateTime": "2026-10-26T21:42:08+0000",
+    "addedAt": "2026-10-26T21:46:38.640Z",
+    "url": "https://www.upwork.com/jobs/~022114834953346612933",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114834953346612933/apply/"
+  },
+  {
     "id": "2114832515659141428",
     "ciphertext": "~022114832515659141428",
     "title": "Custom CRM and Website Integration",

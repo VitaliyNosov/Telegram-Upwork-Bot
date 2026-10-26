@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
   "lastDigestSentDate": "2026-10-26",
-  "totalScanned": 63,
-  "matchedFilters": 14,
+  "totalScanned": 64,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 1,
     "wordpress plugin": 1
   },
@@ -57,6 +57,13 @@
       "score": 2950,
       "url": "https://www.upwork.com/jobs/~022114805422682871838",
       "addedAt": "2026-10-26T19:48:35.324Z"
+    },
+    {
+      "title": "WordPress Developer: Rebuild and Migrate a Law Firm Website",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022114834953346612933",
+      "addedAt": "2026-10-26T21:46:37.133Z"
     },
     {
       "title": "WooCommerce + Customily Specialist Needed",
