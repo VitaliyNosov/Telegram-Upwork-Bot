@@ -1,5 +1,40 @@
 [
   {
+    "id": "2115147268474543965",
+    "ciphertext": "~022115147268474543965",
+    "title": "Ecommerce Website Developer for a Full-Scale Online Store Project",
+    "description": "We are seeking a reliable and experienced Ecommerce Website Developer to build a high-quality online store from the ground up. We want a developer who can combine modern design, dependable functionality, and practical business thinking to create a smooth shopping experience for our customers.\n\nThis project requires more than a basic storefront. We need a complete ecommerce solution that is easy to manage, performs well across devices, and can accommodate additional products, features, and integrations as the business grows.\n\nWe are open to Shopify, WooCommerce, or a custom ecommerce solution, depending on your expertise and the project requirements.\n\nProject Responsibilities\n\n1. Website Planning and Design\n\nReview the project requirements and recommend a suitable ecommerce platform.\n\nPlan the website structure, navigation, and key customer journeys.\n\nDevelop a professional homepage with promotional banners and featured collections.\n\nCreate product listing pages, category pages, and detailed product pages.\n\nDesign intuitive navigation, search, filtering, and sorting features.\n\nEstablish a consistent visual style across the entire website.\n\nEnsure a responsive, mobile-first experience.\n\n2. Product Catalog and Store Administration\n\nConfigure product titles, descriptions, images, pricing, and categories.\n\nSupport product variations, including size, color, and other selectable options.\n\nImplement inventory tracking and stock availability.\n\nConfigure product attributes, collections, and related product suggestions.\n\nSet up sale prices, coupon codes, and promotional offers.\n\nMake it easy for administrators to add products and update store information.\n\n3. Shopping Cart and Payment Processing\n\nDevelop a functional cart with quantity updates and item removal.\n\nImplement a streamlined checkout process.\n\nIntegrate suitable payment gateways based on business eligibility.\n\nConfigure customer details, billing information, and shipping addresses.\n\nCalculate order totals, applicable taxes, shipping fees, and discounts accurately.\n\nSet up order confirmations and payment status notifications.\n\nTest successful, declined, and cancelled payment scenarios.\n\n4. Shipping and Order Fulfillment\n\nConfigure shipping regions, delivery methods, and applicable rates.\n\nSet up order processing and fulfillment workflows.\n\nImplement shipping confirmation emails and tracking links.\n\nConfigure customer order history and account functionality.\n\nSupport cancellation and refund processes where available.\n\nEnsure administrators can efficiently manage orders from the dashboard.\n\n5. Integrations and Business Tools\n\nIntegrate analytics and search performance tools.\n\nConfigure advertising tracking, such as Meta Pixel, if required.\n\nSet up newsletter subscriptions and email marketing integrations.\n\nIntegrate third-party applications or APIs where they provide clear business value.\n\nConfigure automated customer notifications.\n\nDocument any external services, recurring subscriptions, and licensing requirements.\n\n6. Technical SEO and Performance\n\nImplement page titles, meta descriptions, and descriptive URLs.\n\nConfigure XML sitemaps and appropriate indexing settings.\n\nAdd meaningful alt text to product images.\n\nOptimize images, scripts, and other assets to improve loading speed.\n\nCheck mobile usability and compatibility across major browsers.\n\nFollow platform security recommendations and enable SSL.\n\nIdentify and resolve technical issues before launch.\n\n7. Testing, Launch, and Handover\n\nTest the website's primary user journeys from product selection to checkout.\n\nVerify pricing, inventory, discounts, shipping calculations, and order notifications.\n\nCheck responsive layouts and important interactive elements.\n\nFix bugs identified during testing.\n\nDeploy the website to the agreed production environment.\n\nProvide administrator access and basic operating instructions.\n\nClearly document any known limitations and recommended future improvements.\n\nRequired Qualifications\n\nThe ideal candidate should have:\n\nDemonstrable experience building complete ecommerce websites.\n\nStrong expertise in Shopify, WooCommerce, or a comparable platform.\n\nPractical knowledge of frontend development and website customization.\n\nExperience integrating payment providers and third-party services.\n\nAn understanding of ecommerce conversion optimization and customer experience.\n\nFamiliarity with technical SEO, website performance, and security best practices.\n\nStrong communication skills and the ability to manage project milestones independently.\n\nExperience with custom APIs, webhooks, headless commerce, or advanced ecommerce functionality is a plus, but not essential if the proposed solution meets the project requirements.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "web-programming",
+      "shopify",
+      "wordpress",
+      "php",
+      "ecommerce-consulting",
+      "magento",
+      "html",
+      "javascript",
+      "web-design"
+    ],
+    "score": 50,
+    "coverLetter": "Hi!\n\nBuilding a high-performing online store that balances a seamless customer journey with easy backend administration is right in my wheelhouse. I specialize in building robust ecommerce solutions using both WooCommerce and Shopify, handling everything from architecture and custom design to secure payment gateways, shipping rules, and conversion optimization. \n\nFor a project like this, I typically recommend starting with either WooCommerce or Shopify depending on your exact inventory scale and long-term integration needs. My focus is always on speed, mobile responsiveness, and clean code that won't break as your product catalog grows. You can check out some of my recent work, such as https://www.daysforgirls.org/, which showcases my ability to deliver polished, user-friendly digital experiences.\n\nAre you leaning toward Shopify or WooCommerce for this build, or would you like a quick platform comparison based on your specific requirements?\n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-10-27T18:23:50+0000",
+    "addedAt": "2026-10-27T18:27:00.218Z",
+    "url": "https://www.upwork.com/jobs/~022115147268474543965",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115147268474543965/apply/"
+  },
+  {
     "id": "2115144984239746193",
     "ciphertext": "~022115144984239746193",
     "title": "Next.js Developer for WordPress Rebuild",
