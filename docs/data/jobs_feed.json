@@ -1,5 +1,32 @@
 [
   {
+    "id": "2114869058956761118",
+    "ciphertext": "~022114869058956761118",
+    "title": "Wordpress Website Developer",
+    "description": "We need help with re-design of a non-profit organization's website - www.curegnem.org",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$12 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 3500,
+    "coverLetter": "Hi! \n\nI would love to help you redesign the website for curegnem.org. As a non-profit organization, having a clean, engaging, and easy-to-navigate WordPress site is crucial for driving your mission and donor engagement forward. \n\nMy background includes building and redesigning custom WordPress websites for several non-profit and mission-driven organizations, ensuring modern design, mobile responsiveness, and seamless user experience. You can see an example of my non-profit web development work here: https://www.thelifeyoucansave.org/\n\nDo you already have Figma designs or a brand style guide ready for the redesign, or would you need help with the layout planning as well? Let’s chat about your vision for the new site!",
+    "publishedDateTime": "2026-10-26T23:57:33+0000",
+    "addedAt": "2026-10-27T00:00:37.505Z",
+    "url": "https://www.upwork.com/jobs/~022114869058956761118",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022114869058956761118/apply/"
+  },
+  {
     "id": "2114868175019310789",
     "ciphertext": "~022114868175019310789",
     "title": "Website Designer Needed – Visual Redesign of 5 Existing Pages for a Feminine, Celestial Brand",
