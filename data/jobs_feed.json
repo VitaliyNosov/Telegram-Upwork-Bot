@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115224130072547636",
+    "ciphertext": "~022115224130072547636",
+    "title": "Service Provider Platform Development",
+    "description": "I need help building a website or platform where service providers can offer their services and customers can choose them. The site should support user registration, service listings, and a simple way for customers to browse and select services. I’m looking for someone who can create a clean, functional platform and help turn this idea into a working website. It could be built on WordPress.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.78,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "html5",
+      "web-programming",
+      "mysql"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! \n\nBuilding a service provider and booking/listing platform is right in my wheelhouse. WordPress is a great fit for this, and I can build a clean, functional system supporting user registration, custom service listings, and an intuitive browsing experience for customers. \n\nWith deep experience in custom WordPress development, Advanced Custom Fields (ACF), and PHP/MySQL, I regularly build tailored directory and marketplace platforms from the ground up. I also ensure the backend is intuitive for your service providers to manage their offerings, while keeping the frontend fast and responsive. \n\nYou can check out one of my recent WordPress builds here: https://www.thelifeyoucansave.org/\n\nWhen do you hope to have the initial MVP launched, and do you already have wireframes or design ideas ready? Let's chat about how to bring this to life.",
+    "publishedDateTime": "2026-10-27T23:28:29+0000",
+    "addedAt": "2026-10-27T23:32:37.737Z",
+    "url": "https://www.upwork.com/jobs/~022115224130072547636",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115224130072547636/apply/"
+  },
+  {
     "id": "2115183421002159834",
     "ciphertext": "~022115183421002159834",
     "title": "Technical AEO / GEO Specialist for Large WordPress Site",
