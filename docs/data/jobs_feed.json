@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115129288025903412",
+    "ciphertext": "~022115129288025903412",
+    "title": "Build Service Provider Platform",
+    "description": "I need help building a website or platform where service providers can offer their services and customers can choose them. The site should support user registration, service listings, and a simple way for customers to browse and select services. I’m looking for someone who can create a clean, functional platform and help turn this idea into a working website. It could be built on WordPress.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.78,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html5",
+      "php",
+      "web-programming",
+      "javascript"
+    ],
+    "score": 96,
+    "coverLetter": "Hi! \n\nBuilding a service provider and booking platform is a great project, and WordPress is an ideal foundation for this using custom post types, user roles, and advanced filtering. I can help you turn your idea into a clean, fully functional platform where providers can easily register and list their services, and customers can seamlessly browse and select them. \n\nWith extensive experience in custom WordPress development, user registration systems, and database structuring, I’ll ensure the site is intuitive, secure, and easy for you to manage. For example, I built [https://www.thelifeyoucansave.org/](https://www.thelifeyoucansave.org/), focusing on clean architecture and smooth user navigation.\n\nDo you already have wireframes or a specific workflow in mind for how the providers and customers interact? Let's chat about the best approach to bring this to life.",
+    "publishedDateTime": "2026-10-27T17:13:59+0000",
+    "addedAt": "2026-10-27T17:16:41.218Z",
+    "url": "https://www.upwork.com/jobs/~022115129288025903412",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115129288025903412/apply/"
+  },
+  {
     "id": "2115112907066515246",
     "ciphertext": "~022115112907066515246",
     "title": "WordPress Expert for Ongoing Support",
