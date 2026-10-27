@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-27",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 96,
       "url": "https://www.upwork.com/jobs/~022115224130072547636",
       "addedAt": "2026-10-27T23:32:36.543Z"
+    },
+    {
+      "title": "Kadence WordPress Expert: Migrate ~350-Page Elementor Site and Critique Our Setup",
+      "budget": "Fixed-price",
+      "score": 96,
+      "url": "https://www.upwork.com/jobs/~022115229606294003502",
+      "addedAt": "2026-10-27T23:52:36.309Z"
     }
   ]
 }

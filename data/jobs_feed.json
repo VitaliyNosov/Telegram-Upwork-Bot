@@ -1,5 +1,31 @@
 [
   {
+    "id": "2115229606294003502",
+    "ciphertext": "~022115229606294003502",
+    "title": "Kadence WordPress Expert: Migrate ~350-Page Elementor Site and Critique Our Setup",
+    "description": "**Title:** Kadence WordPress Expert: Migrate ~350-Page Elementor Site and Critique Our Setup\n\n**Description:**\n\nASIANetwork, a nonprofit consortium of colleges promoting Asian studies in the liberal arts, is moving its WordPress site (m.asianetwork.org) from Elementor to Kadence. We need an experienced Kadence developer to complete the migration and give us candid advice on our design and setup.\n\n**What's done:** On a new development site we've built Home, About, and Program page designs using Kadence Theme Pro, Theme Kit Pro, and Kadence Blocks Pro, along with templates, synced patterns, a hero Element, and a working header and footer. The media library is already migrated.\n\n**Where we're struggling:** Using page metadata with Kadence synced patterns to fill in per-page content (leaders, testimonials, etc.) has been clumsy and hard to maintain. We'd like an expert to tell us whether we're doing it wrong, what the better pattern is, and to set it up properly. We also want help with Kadence menus and site navigation.\n\n**Scope:** Migrate roughly 350 pages across about eight categories, keeping more or less the existing site structure. Some categories contain many similarly structured pages.\n\n**Timeline:** Flexible. We'd like to discuss scope, pacing, and structure of the engagement with shortlisted candidates.\n\n**We need you to:**\n\n- Review what we've built and recommend improvements to structure, design, and maintainability\n- Set up a sustainable approach for per-page content, patterns, and templates\n- Configure menus and navigation, including mobile\n- Migrate all content and handle redirects at cutover\n- Keep the plugin footprint lean, using native Kadence and WordPress features wherever possible\n- Leave short documentation so our small volunteer team can maintain the site\n\n**About you:** Deep, recent experience with Kadence Pro (please share Kadence sites you've built), experience migrating Elementor sites, and the confidence to tell us when we're wrong.\n\n**Interview:** Shortlisted candidates will have a Zoom interview after viewing our development site. Come ready to give your honest assessment of what we've built and what you'd change first. Clear communication matters as much as technical skill.\n\n**To apply,** start your proposal with the word \"Kadence\" and include:\n\n1. Two or three Kadence sites you've built or migrated\n2. How you'd handle per-page content that varies (e.g., 1–4 leader profiles) without fighting synced patterns\n3. How you'd efficiently migrate a large set of similarly structured pages",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.79,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 96,
+    "coverLetter": "Kadence! Hi ASIANetwork team, I'd love to help you transition smoothly off Elementor and fix the bottlenecks you're running into with Kadence Pro. \n\nFor per-page variable content like leader profiles or testimonials, fighting with synced patterns usually happens when trying to force them to hold unique local overrides. The cleaner, native Kadence approach is to leverage Advanced Custom Fields (ACF) tied to Kadence Elements/Dynamic Content hooks, or properly structured Kadence Blocks with local overrides enabled, keeping your templates lean and easily maintainable for your volunteer team. For bulk migrating ~350 structured pages, I typically use a mix of WP-CLI, structured CSV/XML imports, and template-part mapping to ensure clean hierarchy without manual copy-pasting code bloat. \n\nYou can review my work on similar complex builds like https://www.thelifeyoucansave.org/ and https://www.daysforgirls.org/, where clean architecture and long-term maintainability were top priorities.\n\nAre you available for a quick Zoom chat this week to review your dev site?",
+    "publishedDateTime": "2026-10-27T23:51:30+0000",
+    "addedAt": "2026-10-27T23:52:37.821Z",
+    "url": "https://www.upwork.com/jobs/~022115229606294003502",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115229606294003502/apply/"
+  },
+  {
     "id": "2115224130072547636",
     "ciphertext": "~022115224130072547636",
     "title": "Service Provider Platform Development",
