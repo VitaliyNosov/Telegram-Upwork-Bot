@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
   "lastDigestSentDate": "2026-10-26",
-  "totalScanned": 16,
-  "matchedFilters": 4,
+  "totalScanned": 17,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 94,
       "url": "https://www.upwork.com/jobs/~022114868175019310789",
       "addedAt": "2026-10-26T23:58:36.090Z"
+    },
+    {
+      "title": "Web Developer for SEO",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022114930460928708916",
+      "addedAt": "2026-10-27T04:04:35.173Z"
     }
   ]
 }
