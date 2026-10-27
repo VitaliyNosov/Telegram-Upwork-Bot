@@ -1,5 +1,36 @@
 [
   {
+    "id": "2115089275478415066",
+    "ciphertext": "~022115089275478415066",
+    "title": "Website development for an Environmental Non Profit Association",
+    "description": "We are seeking a skilled web developer to create a user-friendly website for our non-profit organization focused on environmental care. The website should effectively communicate our mission, showcase our projects, and engage visitors to support our initiatives. Ideal candidates should have experience in designing visually appealing and functional websites, along with a passion for environmental issues. Knowledge of content management systems, SEO best practices, and responsive design is essential. Join us in our mission to make a positive impact on the planet! The organisation is funded through kind donations and corporate sponsorship and the site must provide this capability.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 67,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "adaptive-web-design",
+      "seo",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "nonprofit"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! \n\nI love the mission of your environmental non-profit association, and I’d be thrilled to help you build a high-impact, user-friendly website to showcase your projects and drive engagement. \n\nAs an experienced WordPress developer, I specialize in creating responsive, SEO-optimized websites tailored specifically for non-profits. I have a strong background in integrating secure donation gateways and corporate sponsorship sections to help you successfully secure funding. You can see a live example of my work on environmental and non-profit WordPress sites in my portfolio, such as https://www.snopud.com/ and https://www.thelifeyoucansave.org/. \n\nI focus on clean code, adaptive web design, and ensuring your team can easily manage content day-to-day. \n\nDo you already have branding and wireframes ready, or would you need help shaping the layout from scratch? Let’s chat about bringing your vision to life!",
+    "publishedDateTime": "2026-10-27T14:33:13+0000",
+    "addedAt": "2026-10-27T14:34:39.334Z",
+    "url": "https://www.upwork.com/jobs/~022115089275478415066",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115089275478415066/apply/"
+  },
+  {
     "id": "2115044551861215069",
     "ciphertext": "~022115044551861215069",
     "title": "Webisite Refresh and New Golf & Tours Booking section",
