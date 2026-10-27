@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
   "lastDigestSentDate": "2026-10-27",
-  "totalScanned": 69,
-  "matchedFilters": 19,
+  "totalScanned": 70,
+  "matchedFilters": 20,
   "byKeyword": {
-    "wordpress developer": 19
+    "wordpress developer": 20
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 7600,
       "url": "https://www.upwork.com/jobs/~022115175969929165039",
       "addedAt": "2026-10-27T20:18:34.214Z"
+    },
+    {
+      "title": "Technical AEO / GEO Specialist for Large WordPress Site",
+      "budget": "$35-$75/hr",
+      "score": 7600,
+      "url": "https://www.upwork.com/jobs/~022115183421002159834",
+      "addedAt": "2026-10-27T20:48:36.738Z"
     },
     {
       "title": "Website Management and Development",

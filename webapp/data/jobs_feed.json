@@ -1,5 +1,36 @@
 [
   {
+    "id": "2115183421002159834",
+    "ciphertext": "~022115183421002159834",
+    "title": "Technical AEO / GEO Specialist for Large WordPress Site",
+    "description": "SUMMARY\n(Anyone calling, texting, or emailing my team directly will be reported for violating terms of service and immediately blocked from consideration of any future proposals)\n\nWe’re looking for a technical specialist to diagnose and help optimize a large, complex WordPress site for one of our clients. The site has 1,500+ pages and was built over several years with a stack of themes, plugins and page-building tools that were never chosen with performance or machine readability in mind. \n\nSpecific diagnostics, including Core Web Vitals data, will be shared with shortlisted candidates.\n\nThis engagement is 100% focused on AEO and GEO. We know the right technical fundamentals will carry over into traditional SEO gains, but we are not building an SEO strategy and don’t want one proposed. \n\nThe question we need answered is whether AI systems can reliably reach, render and understand this site, and if not, what’s in the way. Due to the number of clear AI and spam proposals if you don't write \"Lamp\" before the first line of your proposal, you'll be immediately reported as spam.\n\nTHE WORK\n\nYou’ll start with a diagnosis. Which AI crawlers are reaching the site, which are being blocked by robots rules, CDN or firewall settings, and what they actually receive when they arrive. Most AI crawlers don’t execute JavaScript, so content that depends on client-side rendering, or sits behind tabs, sliders and accordions, may simply be invisible to them. We need to know where that’s happening and why. \n\nBeyond crawler access, the scope covers page speed and Core Web Vitals across mobile and desktop, plugin and script conflicts, structured data quality and consistency across templates, and anything else that degrades how cleanly a machine can parse the site.\n\nWe’ve already done standard plugin and theme testing in a sandbox. This is not a disable-plugins-and-see exercise, and it’s not “install this optimization plugin.” \n(I can't stress to you enough that doing this will result in a 1 star review plus a breech of contract escalation with Upwork directly)\n\nWe need someone who can trace specific problems to specific parts of the site, build a prioritized plan that fixes issues at the template level rather than page by page, execute it, and document every change for our internal site documentation. Additionally we know we need to overhaul schema and canonical tags, but it's a daunting task to tackle with the current workload across the team. \n\nWHO WE’RE LOOKING FOR\n\nYou have deep technical WordPress experience on large sites, and you’ve spent real time in the past several months on how AI crawlers and AI search systems interact with websites. \n\nYou understand the difference between what Googlebot sees and what GPTBot, OAI-SearchBot, PerplexityBot or ClaudeBot see. You’re comfortable with server logs, rendering tests and CDN configuration. You fix root causes, not symptoms, and you write down what you changed.\n\nENGAGEMENT\n\nProject-based to start, with diagnosis followed by execution. We manage multiple client sites and are looking for a go-to technical partner for ongoing AEO and GEO work. If this project goes well, there’s a strong opportunity to continue with guaranteed direct referrals.\n\nTO APPLY\n\nBegin your proposal by explaining how you would approach diagnosing the site as a whole - which tools, what do you need access to, etc. \n(Proposals that skip this won’t be reviewed)\n\nThen include examples of large sites you’ve worked on (redacted domains are fine), any experience fixing technical issues site-wide rather than page by page, and a short outline of your experience and any certifications with AEO/GEO tools.",
+    "isHourly": true,
+    "hourlyBudgetMin": 35,
+    "hourlyBudgetMax": 75,
+    "budgetDisplay": "$35 - $75/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "html",
+      "php",
+      "javascript",
+      "css"
+    ],
+    "score": 7600,
+    "coverLetter": "Lamp\n\nHi! To diagnose a 1,500+ page WordPress site for AEO and GEO, I start at the server and rendering layer—analyzing raw server logs to track LLM user agents (GPTBot, ClaudeBot, Perplexity), reviewing CDN/firewall rules, and running headless rendering tests to see exactly what HTML is delivered without JavaScript execution. I’ll need access to server logs, Cloudflare/CDN configs, Google Search Console, and a staging environment.\n\nWith deep experience optimizing large-scale WordPress architectures (such as https://www.snopud.com/ and https://about.offerup.com/), I specialize in template-level fixes rather than band-aid page edits. I routinely resolve rendering bottlenecks, clean up heavy plugin DOM output, and implement robust, site-wide schema and canonical structures that machine crawlers can cleanly parse. \n\nAre you currently seeing specific AI crawlers blocked in your access logs, or is client-side rendering the primary blind spot? Let's chat.",
+    "publishedDateTime": "2026-10-27T20:46:50+0000",
+    "addedAt": "2026-10-27T20:48:37.941Z",
+    "url": "https://www.upwork.com/jobs/~022115183421002159834",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115183421002159834/apply/"
+  },
+  {
     "id": "2115175969929165039",
     "ciphertext": "~022115175969929165039",
     "title": "Technical AEO / GEO Specialist for Large WordPress Site",
