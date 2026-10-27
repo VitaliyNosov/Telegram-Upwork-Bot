@@ -1,10 +1,10 @@
 {
   "date": "2026-10-27",
   "lastDigestSentDate": "2026-10-26",
-  "totalScanned": 39,
-  "matchedFilters": 8,
+  "totalScanned": 40,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3092,
       "url": "https://www.upwork.com/jobs/~022114848891039915869",
       "addedAt": "2026-10-26T22:40:36.037Z"
+    },
+    {
+      "title": "Website Development and SEO Specialist",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022115095746646767855",
+      "addedAt": "2026-10-27T15:00:39.464Z"
     },
     {
       "title": "Website development for an Environmental Non Profit Association",
