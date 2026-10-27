@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115144984239746193",
+    "ciphertext": "~022115144984239746193",
+    "title": "Next.js Developer for WordPress Rebuild",
+    "description": "Hi there,\n\nWe're a small marketing agency, and we're looking for an experienced developer to help one of our clients, a local service business in the US.\n\nTheir current WordPress site is slow and outdated, and they're losing leads because nobody follows up fast enough. We want to rebuild the site and set up a proper lead follow-up system in GoHighLevel.\n\nWhat needs to be done:\n\n\nRebuild the existing 6-page WordPress site in Next.js (faster, mobile-first)\nSet up 301 redirects so we don't lose any rankings\nKeep Google Ads tracking, GA4 and the thank-you page conversion working\nCreate service and city pages for local SEO\nSet up Search Console and optimize the Google Business Profile\nGoHighLevel: A2P 10DLC registration, number port, instant replies to new leads, missed-call text back and follow-up sequences\n\n\nRequirements:\n\n\nProven experience with WordPress-to-Next.js migrations\nStrong Local SEO and Google Business Profile knowledge\nHands-on GoHighLevel experience (A2P registration is a must)\nGood English and weekly updates\n\n\nFixed price, paid in milestones. We'd like this done within 8 weeks.\n\nTo apply, please share:\n\n\nA website you've rebuilt or migrated\nYour experience with GoHighLevel automations\nHow you'd handle the migration without losing rankings\n\n\nThanks!",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 3099,
+    "coverLetter": "Hi! To answer your application questions right away: \n\n1. Website migration example: I recently rebuilt and migrated https://www.snopud.com/, ensuring zero downtime and preserved SEO value.\n2. GoHighLevel experience: I regularly set up GHL automations, including A2P 10DLC registration, number porting, and instant lead-response pipelines.\n3. Ranking protection: I'll handle the migration by mapping out a complete 301 redirect structure, maintaining exact URL slugs where possible, and auditing all metadata before pushing the Next.js site live.\n\nAs a developer with deep WordPress, API, and modern frontend experience, I can transition your client's slow 6-page site into a lightning-fast Next.js mobile-first experience while fully integrating GA4, Google Ads tracking, and local SEO city pages. \n\nWould you be open to a quick chat this week to review the current site and map out the 8-week milestone plan?\n\nBest,\nWordPress & CMS Expert",
+    "publishedDateTime": "2026-10-27T18:14:02+0000",
+    "addedAt": "2026-10-27T18:16:38.810Z",
+    "url": "https://www.upwork.com/jobs/~022115144984239746193",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115144984239746193/apply/"
+  },
+  {
     "id": "2115134046782565521",
     "ciphertext": "~022115134046782565521",
     "title": "Build Service Provider Platform",
