@@ -1,12 +1,19 @@
 {
   "date": "2026-10-27",
   "lastDigestSentDate": "2026-10-26",
-  "totalScanned": 41,
-  "matchedFilters": 9,
+  "totalScanned": 42,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
+    {
+      "title": "Website Management and Development",
+      "budget": "$5-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022115106579229310661",
+      "addedAt": "2026-10-27T15:44:37.203Z"
+    },
     {
       "title": "Wordpress Website Developer",
       "budget": "$12-$35/hr",

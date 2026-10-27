@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115106579229310661",
+    "ciphertext": "~022115106579229310661",
+    "title": "Website Management and Development",
+    "description": "We need a reliable freelancer to manage, maintain, and improve our website on an ongoing basis. The work includes handling updates, troubleshooting issues, supporting day-to-day website operations, and helping with design improvements as needed. This is a long-term role for someone who can keep the site running smoothly and contribute to its continued growth and performance.",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$5 - $35/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "html5",
+      "web-design"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nI’d love to help you manage, maintain, and continuously improve your website for the long term. \n\nAs a senior WordPress and CMS developer, I specialize in keeping sites secure, fast, and fully functional while handling day-to-day updates and design improvements. My core services include proactive troubleshooting, fixing post-update errors, database optimization, and implementing custom features to support business growth. You can see examples of my work on live, high-traffic client sites like https://www.snopud.com/. \n\nI’m looking for a reliable, ongoing partnership to keep your digital presence running smoothly. What is the current tech stack of your website, and what are the top priorities you'd like to tackle first? \n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-10-27T15:41:22+0000",
+    "addedAt": "2026-10-27T15:44:42.550Z",
+    "url": "https://www.upwork.com/jobs/~022115106579229310661",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115106579229310661/apply/"
+  },
+  {
     "id": "2115095746646767855",
     "ciphertext": "~022115095746646767855",
     "title": "Website Development and SEO Specialist",
