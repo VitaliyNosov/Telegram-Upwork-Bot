@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115112907066515246",
+    "ciphertext": "~022115112907066515246",
+    "title": "WordPress Expert for Ongoing Support",
+    "description": "We need an expert WordPress developer to provide periodic ongoing support for our websites. Currently, we are unable to log in to one due to a missing or non-working wp-config.php file, and we need help restoring access and resolving the issue. The right freelancer should be able to troubleshoot WordPress technical problems, maintain site stability, and support ongoing updates and fixes as needed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "html5"
+    ],
+    "score": 150,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-27T16:07:14+0000",
+    "addedAt": "2026-10-27T16:11:25.632Z",
+    "url": "https://www.upwork.com/jobs/~022115112907066515246",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115112907066515246/apply/"
+  },
+  {
     "id": "2115109494519305946",
     "ciphertext": "~022115109494519305946",
     "title": "Website Audit & Build",
