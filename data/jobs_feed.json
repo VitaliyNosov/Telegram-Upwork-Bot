@@ -1,5 +1,32 @@
 [
   {
+    "id": "2115109494519305946",
+    "ciphertext": "~022115109494519305946",
+    "title": "Website Audit & Build",
+    "description": "We are looking to update to a new website. The current site has some good assets that I would like to reuse, but I would like to redo the overall site architecture with updated verbiage (I will write the copy). I would like to see an initial directional revision, that I will make notes on for a second directional revision, and then a final version with final revisions for approval.\n\nCurrently this is a Wordpress site. I would ideally like to keep it in Wordpress. www.fccoh.com\n\nSome examples of the kind of website I would like to update to...\nhttps://losangelesgeneralcontractor.com\nhttps://brookes-henderson.com\nhttps://htzdesignbuild.com\nhttps://seapointe.com",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-redesign",
+      "wordpress-website"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I took a look at fccoh.com and the reference sites you provided. Those examples show a clear shift toward modern, clean architecture and high-impact visual layouts—exactly the kind of transition I specialize in for WordPress.\n\nI have extensive experience rebuilding WordPress sites while preserving valuable existing assets, ensuring we keep your SEO rankings and content intact while leveling up the design. I focus on custom Gutenberg block development to ensure your new site remains fast, responsive, and easy for you to manage after the launch. You can see an example of my work on high-performing sites like https://www.thelifeyoucansave.org/.\n\nI’m comfortable with your requested iterative process of two directional revisions before final approval. Are you available for a brief chat this week to discuss your timeline and the specific assets you’d like to carry over?",
+    "publishedDateTime": "2026-10-27T15:53:48+0000",
+    "addedAt": "2026-10-27T15:56:51.879Z",
+    "url": "https://www.upwork.com/jobs/~022115109494519305946",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115109494519305946/apply/"
+  },
+  {
     "id": "2115106579229310661",
     "ciphertext": "~022115106579229310661",
     "title": "Website Management and Development",
