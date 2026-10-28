@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115514003907145457",
+    "ciphertext": "~022115514003907145457",
+    "title": "Web Developer for Website Build",
+    "description": "We need a developer to build a website from scratch based on our requirements. The project includes creating a clean, responsive layout, implementing core site functionality, and ensuring the site works smoothly across devices. You should be comfortable translating project needs into a polished final product and communicating clearly throughout the development process. If you have experience delivering complete website builds and can help bring our vision to life, we’d like to hear from you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "javascript",
+      "html5",
+      "english"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nI would love to help you build your new website from scratch. I specialize in custom website development, translating project requirements and designs into clean, responsive, and high-performing final products. \n\nWhether you need a custom WordPress setup, a Webflow build, or a tailored PHP/JavaScript solution, I ensure smooth functionality across all devices and browsers. You can check out one of my recent full website builds here: https://www.thelifeyoucansave.org/. \n\nI focus on writing clean code and communicating clearly throughout the development process so your vision is brought to life exactly as you imagine. \n\nCould you share a brief overview of your requirements or any wireframes/designs you currently have for the project?",
+    "publishedDateTime": "2026-10-28T18:40:54+0000",
+    "addedAt": "2026-10-28T18:42:42.266Z",
+    "url": "https://www.upwork.com/jobs/~022115514003907145457",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115514003907145457/apply/"
+  },
+  {
     "id": "2115498924560517915",
     "ciphertext": "~022115498924560517915",
     "title": "Convert Excel Quoting Tool into Internal Web Application",

@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-27",
-  "totalScanned": 69,
-  "matchedFilters": 12,
+  "totalScanned": 70,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022115498924560517915",
       "addedAt": "2026-10-28T17:48:46.197Z"
+    },
+    {
+      "title": "Web Developer for Website Build",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022115514003907145457",
+      "addedAt": "2026-10-28T18:42:36.171Z"
     },
     {
       "title": "Website designer build a webssite for me and fixed other website",
