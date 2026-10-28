@@ -1,5 +1,40 @@
 [
   {
+    "id": "2115463613632085701",
+    "ciphertext": "~022115463613632085701",
+    "title": "SEO and Website Development Expert",
+    "description": "I need a highly skilled professional to manage SEO for my websites and support website development on my WordPress/Elementor sites. This role will involve leading the SEO program with guidance from me and my team, while also stepping in when development work is needed. Experience with WordPress and Elementor is required, and experience with Wix, Shopify, or other platforms is a plus. I’m looking for someone who can take ownership, collaborate effectively, and help improve both search performance and website functionality.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 28,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "seo-keyword-research",
+      "technical-seo",
+      "web-programming",
+      "wordpress",
+      "elementor",
+      "seo-backlinking",
+      "on-page-seo",
+      "landing-pages",
+      "google-analytics"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! Managing both the website development and search performance of WordPress and Elementor sites is right up my alley. I specialize in custom WordPress development, Elementor bug fixes and rebuilds, and technical performance optimization (including Core Web Vitals and site speed) to ensure your pages convert and rank effectively. Additionally, I bring experience working with Shopify and other CMS platforms.\n\nI focus on clean code, seamless site functionality, and building high-performing landing pages. You can check out an example of my high-traffic live WordPress work here: https://about.offerup.com/\n\nAre you looking to start by addressing immediate Elementor dev tasks/landing pages, or would you prefer to begin with a technical SEO audit of the current sites?",
+    "publishedDateTime": "2026-10-28T15:23:56+0000",
+    "addedAt": "2026-10-28T15:26:59.727Z",
+    "url": "https://www.upwork.com/jobs/~022115463613632085701",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115463613632085701/apply/"
+  },
+  {
     "id": "2115443485783752389",
     "ciphertext": "~022115443485783752389",
     "title": "WordPress Site Rebuild",
