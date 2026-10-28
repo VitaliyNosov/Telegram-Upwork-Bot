@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 79,
-  "matchedFilters": 16,
+  "totalScanned": 80,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 15,
+    "wordpress developer": 16,
     "woocommerce": 1
   },
   "topJobs": [
@@ -91,6 +91,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022115514003907145457",
       "addedAt": "2026-10-28T18:42:36.171Z"
+    },
+    {
+      "title": "GoDaddy Airo Website Completion",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022115554436387867419",
+      "addedAt": "2026-10-28T21:24:42.516Z"
     },
     {
       "title": "Website designer build a webssite for me and fixed other website",

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115554436387867419",
+    "ciphertext": "~022115554436387867419",
+    "title": "GoDaddy Airo Website Completion",
+    "description": "I need an experienced designer/developer to complete an existing GoDaddy Airo website using an approved mockup deck. Please demonstrate experience with this specific builder, explain what you can accomplish within it, and provide a fixed-price quote. Any proposed platform change must include a clear reason, migration cost, ongoing fees, and a simple editing process.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nWhile I specialize in custom WordPress development, PHP, and converting designs into fully functional sites (like my work on https://www.thelifeyoucansave.org/), I want to be completely upfront: I do not build on the GoDaddy Airo platform, as I focus on clean, scalable code using standard WordPress, Gutenberg, ACF, or alternative CMS options like Webflow. \n\nIf you are open to shifting the site away from Airo to ensure better long-term flexibility, ownership, and SEO performance, I can easily rebuild it in WordPress for a clean fixed price. A standard migration to WordPress carries no hidden ongoing platform fees beyond your regular hosting, gives you a completely straightforward visual editing process (via Gutenberg or ACF), and eliminates the limitations of proprietary builders.\n\nWould you be open to discussing a standard WordPress setup based on your mockup deck?",
+    "publishedDateTime": "2026-10-28T21:21:01+0000",
+    "addedAt": "2026-10-28T21:24:44.551Z",
+    "url": "https://www.upwork.com/jobs/~022115554436387867419",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115554436387867419/apply/"
+  },
+  {
     "id": "2115539674959459067",
     "ciphertext": "~022115539674959459067",
     "title": "WordPress & Automation Expert Needed: Figma to WP + make.com Funnels with AI Exception Handling",
