@@ -1,5 +1,45 @@
 [
   {
+    "id": "2115236130065288797",
+    "ciphertext": "~022115236130065288797",
+    "title": "Website Support for MDBA",
+    "description": "We will use your talents to update the website. We often have events and activities.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress-website",
+      "elementor",
+      "html",
+      "css",
+      "javascript",
+      "php",
+      "woocommerce",
+      "mysql",
+      "wordpress-theme",
+      "wordpress-plugin",
+      "website-migration",
+      "wordpress-malware-removal",
+      "responsive-design",
+      "web-design"
+    ],
+    "score": 0,
+    "coverLetter": "Hi!\n\nI’d love to help you keep your MDBA website updated and running smoothly for your upcoming events and activities. \n\nAs a dedicated WordPress developer with extensive experience managing ongoing site updates, layout edits, and technical maintenance, I can step in quickly to handle your day-to-day requirements. Whether you need to publish new event pages, adjust layouts using Elementor, or ensure your core plugins and PHP environment stay up-to-date and secure, I provide clean code and fast turnarounds. \n\nYou can check out some of my recent WordPress client work here: https://www.thelifeyoucansave.org/\n\nWhat specific updates or events are you looking to tackle first? Let's chat about how I can support your team.",
+    "publishedDateTime": "2026-10-28T00:17:26+0000",
+    "addedAt": "2026-10-28T00:20:38.132Z",
+    "url": "https://www.upwork.com/jobs/~022115236130065288797",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115236130065288797/apply/"
+  },
+  {
     "id": "2115229606294003502",
     "ciphertext": "~022115229606294003502",
     "title": "Kadence WordPress Expert: Migrate ~350-Page Elementor Site and Critique Our Setup",
