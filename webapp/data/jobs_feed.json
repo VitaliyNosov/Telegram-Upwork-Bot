@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115432997569678976",
+    "ciphertext": "~022115432997569678976",
+    "title": "WordPress Developer & Technical SEO Specialist",
+    "description": "Overview\nQuoteMaestro is an insurance lead generation platform looking for a technically proficient WordPress Developer & Technical SEO Specialist. We handle the top-level strategy, ad campaigns, and written content in-house; we need you to handle the code, site health, landing pages, and API/webhook tracking integrations.\n\nThis is not an entry-level virtual assistant or basic drag-and-drop builder position. You will write clean HTML/CSS/JS, hook up custom multi-step forms via WordPress endpoints (admin-post.php / WP REST API) or server-side cURL/wp_remote_post() directly to LeadProsper, and implement dynamic call routing scripts with Ringba.\n\nKey Responsibilities\nCustom WordPress Development & UI/UX: Build, maintain, and optimize lightweight, responsive templates and landing pages (custom themes, child themes, or hybrid builders) with clean code and minimal plugin bloat to ensure fast Core Web Vitals.\n\nCustom Form Submissions & LeadProsper API:\n\nBuild custom multi-step / progressive lead gen forms with client-side validation.\n\nRoute form submissions server-side (via WP REST API or custom hooks) to the LeadProsper Ingestion API / Webhook using JSON payloads or url-encoded form posts.\n\nHandle API response statuses, error catching, and custom redirect logic (thank-you pages, dynamic qualification paths).\n\nCapture and append tracking parameters (utm_*, gclid, fbclid, referrer) into hidden form fields and push them cleanly to LeadProsper.\n\nRingba Call Tracking & DNI Implementation:\n\nEmbed Ringba tracking JavaScript snippets across global headers and individual campaign pages.\n\nImplement Dynamic Number Insertion (DNI) targeting specific spans/classes/tel links.\n\nConfigure custom URL parameters and ensure proper tag firing across desktop and click-to-call mobile CTAs.\n\nTechnical & On-Page SEO:\n\nwe are using AI to generate content and we have already have flow to publish daily weekly post, we need someone to review our existtibng posts and give us recommendation how we can improve current blogs.\n\nand also we need someone that can familiarize with our claude flow quickly and take over publishing post\nImplement technical audit fixes: structured data/schema markup (InsuranceAgency, FinancialProduct, FAQPage), sitemap configurations, canonical tags, and internal link architecture.\n\nDiagnose and fix crawl errors, redirect loops, and rendering issues.\n\nAnalytics & Tag Management:\n\nMaintain clean Google Tag Manager (GTM) containers with custom dataLayer.push() triggers for form submits, drop-offs, and call clicks.\n\nVerify conversion firing into GA4 and ad platforms.\n\nRequired Qualifications & Technical Stack\nWordPress Core & Coding: Strong proficiency in PHP, JavaScript (vanilla JS & modern fetch/async APIs), HTML5, and CSS/SCSS. Direct experience creating custom page templates and handling WP hooks/filters.\n\nAPI / Webhook Integration: Proven track record posting form payloads to 3rd-party lead management systems (specifically LeadProsper, or direct ping/post platforms) using server-side POST requests (wp_remote_post() / cURL) to protect API keys.\n\nCall Tracking: Direct experience deploying Ringba (pool setups, DNI tag mapping, ring tree attribution parameters).\n\nSpeed & Performance: Practical experience optimizing sites for Google PageSpeed Insights / Core Web Vitals (caching, script deferral, asset minification).\n\nVersion Control & Best Practices: Familiarity with staging environments, Git (preferred), child theme standards, and secure coding practices (nonce verification, data sanitization/escaping).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "wordpress",
+      "web-programming",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI build high-performance, lightweight WordPress infrastructure and handle complex backend integrations without plugin bloat—making me a great fit for QuoteMaestro.\n\nI work daily with PHP, custom WP REST API endpoints, and server-side requests via `wp_remote_post()` to securely route data to platforms like LeadProsper. I also frequently implement custom multi-step forms, GTM event tracking, and third-party scripts like Ringba for DNI call tracking while keeping Core Web Vitals green. Beyond the code, I can easily plug into your automated Claude publishing flow, audit schema and technical SEO, and optimize your content architecture. \n\nFor a look at my clean development standards, you can review one of my recent custom builds here: https://www.snopud.com/\n\nAre you ready to chat about the current setup and how I can jump in?",
+    "publishedDateTime": "2026-10-28T13:18:51+0000",
+    "addedAt": "2026-10-28T13:20:43.138Z",
+    "url": "https://www.upwork.com/jobs/~022115432997569678976",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115432997569678976/apply/"
+  },
+  {
     "id": "2115420785938861661",
     "ciphertext": "~022115420785938861661",
     "title": "WordPress Blog Migration with WPML",
