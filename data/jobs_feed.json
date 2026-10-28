@@ -1,5 +1,35 @@
 [
   {
+    "id": "2115498924560517915",
+    "ciphertext": "~022115498924560517915",
+    "title": "Convert Excel Quoting Tool into Internal Web Application",
+    "description": "We need an experienced WordPress developer to convert our Excel quoting tool into an internal web application, preferably a custom WordPress plugin.\n\nVIZpin supplies access-control hardware and recurring services. Our workbook contains the product catalog, pricing rules, calculations, and existing quote and price-list layouts.\n\nRequired features:\n• Desktop-focused interface for employees.\n• One shared employee login and a separate administrator login.\n• Customer/company name, contact name, email, project name, and prepared-by fields.\n• Product quantities, finish choices, partner pricing tiers, and service selections.\n• Automatic calculations showing partner costs and MSRP on screen.\n• Automatically generated unique quote numbers.\n• No employee price overrides or additional discounts.\n• Downloadable customer quote PDFs showing MSRP only—partner costs must never appear.\n• A new professional quote PDF design using our branding and existing terms, subject to our approval.\n• A downloadable PDF price list showing Bronze, Silver, Gold, and MSRP pricing.\n• Administrator controls to update product prices, service rates, discounts, and defined pricing rules without developer assistance.\n\nInitial scope excludes saved quotes, reopening or duplicating quotes, direct emailing, and mobile optimization. Employees will download PDFs and email them themselves. Minimal storage for pricing, settings, and unique quote numbering is acceptable.\n\nWe will provide the Excel workbook and WordPress hosting. Please confirm hosting compatibility and disclose any required paid plugins, licenses, or recurring costs.\n\nCalculations must be tested against agreed examples from Excel, including quantity discounts, custom finishes, SmartKeys, and service terms. Any spreadsheet inconsistencies should be identified and resolved with us before implementation.\n\nDeliverables include all custom source code, installation on our hosting, documentation, administrator training, and 90 days of bug fixes after launch. VIZpin must own the custom code and project data. Optional ongoing support should be priced separately.\n\nTarget completion: 2–3 months from hiring.\nBudget: Open to fixed-price proposals with milestones.\n\nPlease include:\n\n1. Examples of similar quoting tools or custom WordPress plugins you have built.\n\n2. Your proposed approach, timeline, and fixed price.\n\n3. How you will verify pricing accuracy and exclude partner costs from customer PDFs.\n\n4. Any assumptions, exclusions, and recurring costs.\n\n5. Your availability for calls during US Eastern business hours.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-application",
+      "javascript",
+      "plugin-development"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can convert your VIZpin Excel quoting tool into a robust, custom WordPress plugin featuring secure role-based logins, dynamic pricing logic, and clean administrative controls. \n\nWith extensive experience in custom WordPress plugin development, PHP, and complex calculation systems, I build tools that translate intricate spreadsheets into seamless web applications. For verifying pricing accuracy, I implement strict unit tests against your Excel baseline examples, and I use isolated data rendering templates to ensure partner costs are entirely stripped from customer-facing PDFs. \n\nRegarding your specific requirements:\n1. **Similar tools:** I build custom calculators and business logic plugins tailored to internal workflows.\n2. **Approach/Timeline:** 6-8 weeks for development, testing, and deployment. (Happy to discuss fixed-price milestones in chat).\n3. **Accuracy/Security:** Logic mirrors your workbook precisely; PDF generation templates run server-side to guarantee sensitive margins never leak.\n4. **Assumptions:** Zero required paid plugins (built natively with PHP/JS); hosted on your environment.\n5. **Availability:** Fully available for US Eastern business hours calls.\n\nAre you available this week for a quick call to review your workbook?",
+    "publishedDateTime": "2026-10-28T17:45:07+0000",
+    "addedAt": "2026-10-28T17:48:55.647Z",
+    "url": "https://www.upwork.com/jobs/~022115498924560517915",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115498924560517915/apply/"
+  },
+  {
     "id": "2115467312259937019",
     "ciphertext": "~022115467312259937019",
     "title": "AI Agent Consultant – Exploring Remote Autonomous WordPress Troubleshooting",

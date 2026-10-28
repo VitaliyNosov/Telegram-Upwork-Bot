@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-27",
-  "totalScanned": 67,
-  "matchedFilters": 11,
+  "totalScanned": 68,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -56,6 +56,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022115420785938861661",
       "addedAt": "2026-10-28T12:32:37.341Z"
+    },
+    {
+      "title": "Convert Excel Quoting Tool into Internal Web Application",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022115498924560517915",
+      "addedAt": "2026-10-28T17:48:46.197Z"
     },
     {
       "title": "Website designer build a webssite for me and fixed other website",
