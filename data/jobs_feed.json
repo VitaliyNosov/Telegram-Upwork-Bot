@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115420785938861661",
+    "ciphertext": "~022115420785938861661",
+    "title": "WordPress Blog Migration with WPML",
+    "description": "We need a freelancer to scrape and migrate content from an existing blog (Not WordPress) into WordPress, including posts, images, meta, and categories. There are 2 versions of each blog page, english and japanese and WPML is being used to host the multi-lingual JP support.\n\nWhat needs to be scrapped and imported:\nEnglish and Japanese Versions of each page (Japanese using WPML)\nTitle\nFeatured Image\nContent\nContent Images\nSlug\nCategories (2 Categories based on URL)\nMeta Title (RankMath)\nMeta Description (RankMath)\n\nPlugins in Use:\nWPML\nRankMath Pro\n\nYou will be given a dev environment to test your tools.  The production environment may have data in the posts table that will need updated (or deleted pending your practices).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "php",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can help you cleanly scrape and migrate your bilingual blog content into WordPress with WPML and RankMath Pro fully configured. \n\nHaving handled complex migrations and multilingual setups using WPML, I will ensure your English and Japanese posts, featured images, inline content images, slugs, categories, and RankMath SEO meta titles and descriptions map over accurately without data loss. I’ll make sure everything is thoroughly tested in your dev environment before touching production, keeping the existing database integrity intact. \n\nFor a look at my past work with structured, content-heavy WordPress builds, you can check out https://www.thelifeyoucansave.org/. \n\nHow many total posts are we looking to migrate across both languages? Let's chat about getting a test batch moving in your dev site.",
+    "publishedDateTime": "2026-10-28T12:29:56+0000",
+    "addedAt": "2026-10-28T12:32:41.471Z",
+    "url": "https://www.upwork.com/jobs/~022115420785938861661",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115420785938861661/apply/"
+  },
+  {
     "id": "2115305037328493713",
     "ciphertext": "~022115305037328493713",
     "title": "Website designer build a webssite for me and fixed other website",
