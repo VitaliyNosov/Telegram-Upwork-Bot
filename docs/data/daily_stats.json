@@ -1,10 +1,11 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-27",
-  "totalScanned": 62,
-  "matchedFilters": 10,
+  "totalScanned": 63,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 10,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -27,6 +28,13 @@
       "score": 2949,
       "url": "https://www.upwork.com/jobs/~022115264917544237295",
       "addedAt": "2026-10-28T02:14:37.512Z"
+    },
+    {
+      "title": "AI Agent Consultant – Exploring Remote Autonomous WordPress Troubleshooting",
+      "budget": "Fixed-price",
+      "score": 199,
+      "url": "https://www.upwork.com/jobs/~022115467312259937019",
+      "addedAt": "2026-10-28T15:40:48.873Z"
     },
     {
       "title": "WordPress Developer & Technical SEO Specialist",
