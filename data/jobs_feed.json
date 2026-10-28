@@ -1,5 +1,33 @@
 [
   {
+    "id": "2115557846691941981",
+    "ciphertext": "~022115557846691941981",
+    "title": "WordPress/PHP Developer Needed to Secure Existing Serial Number Lookup",
+    "description": "We’re looking for an experienced WordPress/PHP developer to secure an existing custom serial number lookup tool on our WordPress website.\n\nThe tool allows customers to look up product manuals using a serial number or product identifier. We recently discovered that the lookup could be automated to systematically retrieve a large amount of our serial history. We need a developer to address this vulnerability while preserving the tool’s existing functionality and data structure.\n\nWHAT WE NEED\n• Implement rate limiting: Target limits of 3 searches per minute, 10 per hour, and 20 per rolling 24-hour period.\n• Add IP whitelisting and blacklisting: Trusted IPs should bypass rate limits, and blacklisted IPs should be blocked. We need clear instructions for managing both lists. We do not yet have a blacklist, but may implement in the future.\n• Enforce limits before database queries: Make sure rate limits happen before the database lookup, so blocked requests can't continue querying the database.\n• Display an appropriate error message or page when a request is blocked or a rate limit is exceeded.\n• Review the existing PHP code for obvious security and performance improvements related to this tool.\n• Review the manual directory for obvious exposure risks that could allow unauthorized access to files.\n• Preserve all existing functionality, including valid alphanumeric identifiers. For example, 1IRC must continue to return the correct manual.\n• Test thoroughly on staging before any production changes are made.\n\nIMPORTANT PROJECT REQUIREMENTS\n• Work with the existing implementation. We are looking to secure the current lookup, not replace it with a new system.\n• Preserve the existing database and data-update process. Do not replace, rebuild, or reimport the serial database or change how its data is maintained without discussing the reason with us and receiving approval first.\n• Keep changes focused and explainable. We want to understand what was changed, where it was changed, and how it addresses the vulnerability.\n\nThe website is hosted on SiteGround. We can provide other relevant files or access needed to assess the current implementation.\n\nDELIVERABLES\nBefore implementation, please briefly explain your proposed approach and identify any additional files or access you need.\n\nUpon completion, we expect:\n• Thoroughly tested on staging, with confirmation that the existing lookup functionality still works.\n• Confirmation that blocked requests are stopped before the database lookup executes.\n•  A summary of the files and database components changed.\n• Test results covering rate limits, whitelisted and blacklisted IPs, and valid serial/model lookups.\n• Clear instructions for managing the whitelist and blacklist.\n\nPLEASE INCLUDE IN YOUR PROPOSAL\n• Your estimated hours and total cost.\n• Any questions or concerns you would want to resolve before beginning.\n• What specific access you would need for all of the above.\n\nWe’re not looking for a complete website rebuild or a large-scale security audit. This is a focused fix to an existing tool, and we value a careful, transparent approach that protects our data without disrupting the current system.\n\nIf you've worked with custom WordPress plugins and understand the difference between blocking the request before the database query vs. simply hiding the result, that's especially relevant.\n\nThank you!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can secure your custom serial number lookup tool while strictly preserving your current database structure, logic, and valid identifiers like 1IRC. \n\nWith deep experience in custom WordPress, PHP, and plugin development, I frequently handle security hardening and backend optimization. As requested, I will implement pre-query rate limiting (3/min, 10/hour, 20/24h) and IP whitelisting/blacklisting to intercept scrapers *before* they hit your SiteGround database. I will also audit the manual directory for exposure risks and test everything thoroughly on a staging environment first.\n\nTo get started, I will need WordPress admin access, SFTP/SSH access, and SiteGround control panel access to review the existing code. My estimated turnaround is [X] hours for a total cost of $[X]. \n\nCould you share the current PHP snippet or plugin code so I can review the implementation details before we begin?",
+    "publishedDateTime": "2026-10-28T21:34:37+0000",
+    "addedAt": "2026-10-28T21:38:38.920Z",
+    "url": "https://www.upwork.com/jobs/~022115557846691941981",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115557846691941981/apply/"
+  },
+  {
     "id": "2115554928851152625",
     "ciphertext": "~022115554928851152625",
     "title": "Setup Gloss Genius Booking Site",

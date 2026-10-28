@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 81,
-  "matchedFilters": 18,
+  "totalScanned": 82,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 17,
+    "wordpress developer": 18,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022115528002838139188",
       "addedAt": "2026-10-28T19:40:34.713Z"
+    },
+    {
+      "title": "WordPress/PHP Developer Needed to Secure Existing Serial Number Lookup",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022115557846691941981",
+      "addedAt": "2026-10-28T21:38:37.680Z"
     },
     {
       "title": "WordPress Developer & Technical SEO Specialist",
