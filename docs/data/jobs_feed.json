@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115443485783752389",
+    "ciphertext": "~022115443485783752389",
+    "title": "WordPress Site Rebuild",
+    "description": "Our website runs on WordPress and Elementor on GoDaddy hosting. We want to move it to a static site in GitHub, hosted on Cloudflare Pages, so it loads fast, stays secure, and lets us make changes in minutes.\n\nWhat we need:\n\nRebuild about 55 pages as a static site (Astro or Next.js static export), keeping the same URLs so we don’t lose search rankings\nContent stored as Markdown or data files so products, projects and inventory are easy to update\nMigrate all text, images and PDFs, and set up 301 redirects for retired pages\nConnect forms to Salesforce and other destinations, with Cloudflare Turnstile for spam protection. No form data stored on the site\nCarry over Google Analytics, Tag Manager and our other tracking tags with the same IDs\nSet up a staging site behind Cloudflare Access, plus preview links for every change\nMove DNS from GoDaddy to Cloudflare without breaking Microsoft 365 email or our other subdomains\nBasic SEO, WCAG 2.1 AA accessibility, and good Core Web Vitals scores\nA clear README so our team and AI tools like Claude can maintain the site after launch\n\nWe own all the accounts. You’ll be added as a collaborator on our GitHub and Cloudflare.\n\nPhase 2 is optional and quoted separately: an AI chat assistant built on Claude through a Cloudflare Worker that answers visitor questions and routes leads into Salesforce, plus location pages and a case study rebuild.\n\nTo apply, please include:\n\nTwo static site migrations you’ve done, ideally WordPress to Astro or Next.js\nYour experience with Cloudflare Pages and DNS migrations\nA rough fixed price and timeline for the core migration\nAnything in this plan you’d do differently\n\nWe’ll share the full scope document with shortlisted freelancers.\n\nSettings\n\nSkills: Astro, Next.js, Cloudflare, GitHub, WordPress Migration, Salesforce, SEO, JavaScript\n\nBudget: Fixed price, paid by milestone (build on staging, forms and tracking, go-live, two weeks of monitoring). You can leave the amount open or set your own range.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "css"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! Rebuilding your 55-page Elementor site into a static Astro/Next.js setup on Cloudflare Pages is the best move for zero-security overhead, instant load times, and perfect Core Web Vitals.\n\nI specialize in WordPress migrations to static/headless architectures, setting up Cloudflare Pages CI/CD from GitHub, configuring CF Access staging, and running seamless DNS transitions without disrupting M365 email records. I’ve integrated custom forms directly into Salesforce via API with Turnstile protection on similar builds. You can see examples of my clean web development work at https://about.offerup.com/.\n\nOne thing I’d do differently: I strongly recommend Astro over Next.js for this project. Astro ships zero client-side JavaScript by default, making pure static sites load significantly faster while keeping Markdown/data management much simpler for AI tools like Claude.\n\nRough estimate: $2,500–$3,500 within a 2 to 3-week timeline across your key milestones. \n\nAre you available for a quick chat to review the scope document?",
+    "publishedDateTime": "2026-10-28T14:04:04+0000",
+    "addedAt": "2026-10-28T14:07:19.203Z",
+    "url": "https://www.upwork.com/jobs/~022115443485783752389",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115443485783752389/apply/"
+  },
+  {
     "id": "2115432997569678976",
     "ciphertext": "~022115432997569678976",
     "title": "WordPress Developer & Technical SEO Specialist",

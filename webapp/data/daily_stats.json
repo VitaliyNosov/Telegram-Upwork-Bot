@@ -1,12 +1,19 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-27",
-  "totalScanned": 48,
-  "matchedFilters": 7,
+  "totalScanned": 49,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
+    {
+      "title": "WordPress Site Rebuild",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022115443485783752389",
+      "addedAt": "2026-10-28T14:06:36.376Z"
+    },
     {
       "title": "WordPress Developer for Image Fixes",
       "budget": "$10-$28/hr",
