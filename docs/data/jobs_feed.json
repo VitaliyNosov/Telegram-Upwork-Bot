@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115264917544237295",
+    "ciphertext": "~022115264917544237295",
+    "title": "WordPress Developer for Image Fixes",
+    "description": "We need a WordPress developer to fix image issues on our website. The work includes resolving broken images, improving image display across pages, and ensuring images load correctly on both desktop and mobile. You should be able to identify the root cause of the issues, make the necessary updates, and test the changes thoroughly. Experience troubleshooting WordPress media problems and improving site performance is important. This is a small, part-time project for someone who can work efficiently and communicate clearly.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$10 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 218,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "html"
+    ],
+    "score": 2949,
+    "coverLetter": "Hi! \n\nI can quickly diagnose and fix your WordPress image issues to ensure they display correctly and load seamlessly across both desktop and mobile devices. \n\nWhether the problem stems from broken paths, responsive CSS conflicts, database references, or media library handling, I will identify the root cause, apply clean fixes, and thoroughly test the updates. With extensive experience resolving WordPress bugs and optimizing media performance (as you can see in my work on sites like https://www.thelifeyoucansave.org/), I can knock this out efficiently for you.\n\nWhen is a good time to take a quick look at the site? \n\nBest,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-10-28T02:10:33+0000",
+    "addedAt": "2026-10-28T02:14:38.641Z",
+    "url": "https://www.upwork.com/jobs/~022115264917544237295",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115264917544237295/apply/"
+  },
+  {
     "id": "2115236130065288797",
     "ciphertext": "~022115236130065288797",
     "title": "Website Support for MDBA",
