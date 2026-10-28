@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 80,
-  "matchedFilters": 17,
+  "totalScanned": 81,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 17,
     "woocommerce": 1
   },
   "topJobs": [
@@ -98,6 +98,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022115554436387867419",
       "addedAt": "2026-10-28T21:24:42.516Z"
+    },
+    {
+      "title": "Setup Gloss Genius Booking Site",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022115554928851152625",
+      "addedAt": "2026-10-28T21:28:37.301Z"
     },
     {
       "title": "Website designer build a webssite for me and fixed other website",
