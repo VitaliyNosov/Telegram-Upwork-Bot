@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-27",
-  "totalScanned": 60,
-  "matchedFilters": 9,
+  "totalScanned": 61,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022115432997569678976",
       "addedAt": "2026-10-28T13:20:37.971Z"
+    },
+    {
+      "title": "WordPress Developer & Technical SEO Specialist",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022115464634306653937",
+      "addedAt": "2026-10-28T15:30:44.150Z"
     },
     {
       "title": "WordPress Blog Migration with WPML",
