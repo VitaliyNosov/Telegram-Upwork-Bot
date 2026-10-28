@@ -1,5 +1,33 @@
 [
   {
+    "id": "2115539674959459067",
+    "ciphertext": "~022115539674959459067",
+    "title": "WordPress & Automation Expert Needed: Figma to WP + make.com Funnels with AI Exception Handling",
+    "description": "About Us\n\nWe are a wellness technology company expanding into new markets. Our existing website is built on WordPress. We are launching a new landing page to support an upcoming campaign and need an experienced developer to join our team to build it cleanly, integrate it into our existing tech stack, and hand it over production-ready.\n\nWhat We Need\n\nWe have a finished landing page design in Figma. We need it converted into a live, fully-functional WordPress page on our existing site — pixel-accurate, fast-loading, mobile-responsive, and wired into our lead capture, booking infrastructure, and an automated data-integrity loop.\nThe landing page has two primary calls-to-action, each with its own funnel. Both funnels need to be built end-to-end as part of this engagement.\n\nScope of Work\n\n\n1. Landing Page Build\n\n• Pixel-accurate conversion of the supplied Figma file into WordPress.\n• Match existing site's theme structure (admin access provided).\n• Fully responsive across desktop, tablet, and mobile.\n• Cross-browser tested (Chrome, Safari, Firefox, Edge).\n• Page speed score 90+ on mobile (Google PageSpeed Insights).\n• Embed two ambassador videos.\n\n2. Funnel A — “Download Cell Life Guide” (Lead Magnet)\n\n• User Flow: User clicks CTA → Form opens (modal or dedicated page) → User submits info → Make webhook fires → Make creates lead in Monday.com (“E-book Leads”) → Make triggers automated email with PDF → User redirects to /thank-you-ebook → Meta Pixel & GA4 conversion events fire.\n• You Need to Build: Form/validation/spam protection, Make scenario, Monday board structure, email delivery template, and tracked thank-you page.\n\n3. Funnel B — “Buy Now” (Booking Funnel)\n\n• User Flow: User clicks CTA → Separate enquiry page form → User selects Soft Shell / Hard Shell → Make routes to respective Calendly link (Jarryn Glick or Kevin Robinson) while simultaneously pushing lead details to Monday.com (“Sales Enquiries”) to prevent drop-off loss → Calendly completes → User lands on /thank-you-booking → Tracking events fire.\n• You Need to Build: Enquiry form, Shell selector routing logic, Make scenario integration with existing Calendly router, Monday board structure, and tracked thank-you page.\n\n4. Video Hosting Setup\n\n• Upload raw .mp4 files to Vimeo (preferred) or YouTube unlisted.\n• Embed via a lightweight player that does not compromise Core Web Vitals.\n• Generate/apply branded poster/thumbnail images.\n\n5. Integrations, Tracking & AI Automation\n\n• Analytics: GA4 (page views + conversions) and Meta Pixel (site-wide + custom events).\n• Core Automations: Make.com scenarios for both funnels + Monday.com boards.\n• AI Error-Handling Layer (New Requirement): Integrate an AI-driven anomaly detection and self-healing system into the Make.com flows. If a form submission fails to sync to Monday.com due to formatting anomalies or API limits, an LLM module (e.g., OpenAI API node) must automatically clean/parse the raw data payload, notify the team via email with actionable diagnostics, and queue the record for auto-retry.\n\n6. Handover\n\n• Assets optimized/compressed in WordPress media library.\n• Written/video walkthrough covering content editing, Make scenarios, and Monday boards.\n• Documentation of all webhook URLs, Make scenario IDs, and Monday board IDs.\n• 14 days of post-launch bug fixes.\n\nWhat We'll Provide\n\n• Figma file, WordPress admin logins, Make.com, and Monday.com access.\n• Existing Calendly + Make routing configuration (already set up—you connect to it).\n• Raw video files, E-book PDF, copy, and brand assets.\n\nRequired Skills & Experience\n\n• 3+ years WordPress development with a strong Figma-to-WP portfolio.\n• Demonstrable Make.com (or Zapier) experience building multi-step conditional scenarios.\n• Monday.com board configuration and API integration experience.\n• Meta Pixel & GA4 conversion event implementation.\n• Experience integrating AI tools (like OpenAI API or Anthropic modules) into automation pipelines to handle unstructured data, translations, or error mapping.\n\nHow to Apply\n\nPlease include:\n1. Two examples of WordPress builds with multi-step lead capture funnels completed in the last 12 months.\n2. One example of a Make.com (or Zapier) scenario you've built involving conditional routing or an AI module.\n3. Your proposed timeline and any clarifying questions about the scope.\n4. A one-line answer to: “What's your approach to ensuring leads aren't lost between form submission and CRM creation if a webhook fails, and how can AI or dead-letter queues help solve it?”\nApplications missing any of these four items will not be reviewed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$15 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 6000,
+    "coverLetter": "Hi!\n\nMy approach to ensuring leads aren't lost if a webhook fails is implementing a local database backup/log of all form submissions upon entry, paired with an AI fallback layer in Make.com that catches formatting errors, attempts auto-correction via OpenAI, and queues a retry or alerts the team instantly.\n\nI’m a senior WordPress and automation developer with extensive experience converting Figma designs into pixel-perfect, lightning-fast WordPress pages (achieving 90+ mobile speed scores) while wiring up complex Make.com workflows, CRMs like Monday.com, and custom lead routing. \n\nFor example, you can review my clean WordPress builds here: https://www.thelifeyoucansave.org/\n\nI can deliver this entire landing page, both funnels, tracking, and the AI error-handling layer within 7 days. \n\nTo kick things off: Are the Monday.com board structures already created, or should we map those out from scratch as part of the build?",
+    "publishedDateTime": "2026-10-28T20:23:30+0000",
+    "addedAt": "2026-10-28T20:26:38.330Z",
+    "url": "https://www.upwork.com/jobs/~022115539674959459067",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115539674959459067/apply/"
+  },
+  {
     "id": "2115528002838139188",
     "ciphertext": "~022115528002838139188",
     "title": "Web admin to help wordpress and other website duties",

@@ -1,13 +1,20 @@
 {
   "date": "2026-10-28",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 76,
-  "matchedFilters": 15,
+  "totalScanned": 77,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "WordPress & Automation Expert Needed: Figma to WP + make.com Funnels with AI Exception Handling",
+      "budget": "$15-$60/hr",
+      "score": 6000,
+      "url": "https://www.upwork.com/jobs/~022115539674959459067",
+      "addedAt": "2026-10-28T20:26:36.893Z"
+    },
     {
       "title": "SEO and Website Development Expert",
       "budget": "$15-$30/hr",
