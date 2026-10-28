@@ -1,5 +1,32 @@
 [
   {
+    "id": "2115521764444208837",
+    "ciphertext": "~022115521764444208837",
+    "title": "Fix and update Wordpress website",
+    "description": "Need help cleaning up a Wordpress website, updating it, and adding a little content.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can help clean up your WordPress site, run your updates safely without breaking anything, and handle your content updates. \n\nIssues like post-update conflicts and messy backend layouts are things I fix daily. With my background in safe updates, database optimization, and plugin conflict resolution—along with custom development using ACF and Gutenberg—I will get your site running cleanly and securely. You can see an example of my recent WordPress work here: https://www.seeintl.org/\n\nCould you share a bit more about the specific content additions you need and if any plugins are currently throwing errors? I'm ready to dive in whenever you are.",
+    "publishedDateTime": "2026-10-28T19:13:54+0000",
+    "addedAt": "2026-10-28T19:16:39.842Z",
+    "url": "https://www.upwork.com/jobs/~022115521764444208837",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115521764444208837/apply/"
+  },
+  {
     "id": "2115514003907145457",
     "ciphertext": "~022115514003907145457",
     "title": "Web Developer for Website Build",
