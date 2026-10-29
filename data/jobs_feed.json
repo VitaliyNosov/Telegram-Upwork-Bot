@@ -1,5 +1,36 @@
 [
   {
+    "id": "2115837708211268753",
+    "ciphertext": "~022115837708211268753",
+    "title": "WordPress and Elementor Expert",
+    "description": "Looking for a WordPress expert to update Elementor, WordPress, PHP, and Plugins for multiple websites. \n\nSomeone who has the capacity to maintain and support 5-6 WordPress/Elementor Websites.\nMust have very strong WordPress knowledge. \n\nYou should be comfortable working independently, communicating clearly, and delivering reliable results on time. If you have experience with similar projects and can help strengthen the overall user experience, we’d like to hear from you.\n\nThank you.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$20 - $35/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.63,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 116,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "html5",
+      "elementor",
+      "web-programming"
+    ],
+    "score": 3593,
+    "coverLetter": "Hi! I have extensive experience managing and maintaining multiple WordPress/Elementor sites, and I am ready to handle your updates and long-term support needs.\n\nI specialize in diagnosing and fixing issues that arise after core, theme, and plugin updates. My workflow includes staging environment testing to ensure that updating PHP versions and Elementor modules doesn't break your site's functionality. I have successfully managed high-traffic sites like https://www.thelifeyoucansave.org/ and am very comfortable performing the security hardening and database optimizations necessary to keep 5-6 sites running smoothly and independently.\n\nI prioritize clean code and reliable performance, ensuring your user experience remains consistent across all platforms. Are you currently using a staging environment for your updates, or would you like me to set one up for you?",
+    "publishedDateTime": "2026-10-29T16:06:55+0000",
+    "addedAt": "2026-10-29T16:10:43.068Z",
+    "url": "https://www.upwork.com/jobs/~022115837708211268753",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115837708211268753/apply/"
+  },
+  {
     "id": "2115837426237509213",
     "ciphertext": "~022115837426237509213",
     "title": "Different website fixes on Wrodpress with Elementor, categories, integration with plugins...",

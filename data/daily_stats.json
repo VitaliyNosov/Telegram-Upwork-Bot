@@ -1,10 +1,10 @@
 {
   "date": "2026-10-29",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 43,
-  "matchedFilters": 7,
+  "totalScanned": 44,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022115646007779167003",
       "addedAt": "2026-10-29T03:28:34.756Z"
+    },
+    {
+      "title": "WordPress and Elementor Expert",
+      "budget": "$20-$35/hr",
+      "score": 3593,
+      "url": "https://www.upwork.com/jobs/~022115837708211268753",
+      "addedAt": "2026-10-29T16:10:28.549Z"
     },
     {
       "title": "Website Designer Needed for Roofing Company",
