@@ -1,5 +1,33 @@
 [
   {
+    "id": "2115624573151465088",
+    "ciphertext": "~022115624573151465088",
+    "title": "Fix WordPress Administrator Access Issue and General Health Overview",
+    "description": "First, administrator access to my website, www.law-kc.com is inoperative, possibly from a changed/corrupted database, plugin/theme conflict, or other cause.  I need the problem identified and fixed.  Second, a general website health inspection should be performed with suggestions as to updates/improvements.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$15 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 2900,
+    "coverLetter": "Hi! I can quickly diagnose and fix your administrator access issue on law-kc.com—whether it's stemming from a database corruption, database user role issue, or a plugin/theme conflict. \n\nAs a WordPress developer with extensive experience troubleshooting broken sites, resolving fatal errors, and handling backend access lockouts, I'll securely restore your admin privileges. Once access is recovered, I will also run a comprehensive website health inspection to check for outdated components, security vulnerabilities, or performance bottlenecks, providing actionable recommendations for improvement.\n\nYou can review some of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nAre you currently able to access your site's hosting control panel (cPanel, Plesk) or database via phpMyAdmin? Let's get this sorted out for you today.",
+    "publishedDateTime": "2026-10-29T01:59:43+0000",
+    "addedAt": "2026-10-29T02:02:38.188Z",
+    "url": "https://www.upwork.com/jobs/~022115624573151465088",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115624573151465088/apply/"
+  },
+  {
     "id": "2115615014214692593",
     "ciphertext": "~022115615014214692593",
     "title": "Winery Website Build",

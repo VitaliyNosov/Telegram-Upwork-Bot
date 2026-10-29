@@ -1,12 +1,19 @@
 {
   "date": "2026-10-29",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 9,
-  "matchedFilters": 2,
+  "totalScanned": 10,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "Fix WordPress Administrator Access Issue and General Health Overview",
+      "budget": "$15-$28/hr",
+      "score": 2900,
+      "url": "https://www.upwork.com/jobs/~022115624573151465088",
+      "addedAt": "2026-10-29T02:02:33.416Z"
+    },
     {
       "title": "Winery Website Build",
       "budget": "Fixed-price",
