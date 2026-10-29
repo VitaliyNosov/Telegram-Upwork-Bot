@@ -1,5 +1,33 @@
 [
   {
+    "id": "2115834664341941393",
+    "ciphertext": "~022115834664341941393",
+    "title": "Website Designer Needed for Roofing Company",
+    "description": "We are a web design agency based in Toronto, Canada, looking for an experienced freelancer to design and build a professional website for a roofing company.\n\nRequirements:\n\n* Proven experience with roofing, construction, or contractor websites.\n* Modern, mobile-friendly design focused on generating leads.\n* Experience with WordPress or other website-building platforms.\n\nTo Apply: Please send your portfolio with links to previous roofing or construction websites you have designed or developed, along with your estimated cost and timeline.\n\nWe look forward to working with you!",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 3100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-10-29T15:56:14+0000",
+    "addedAt": "2026-10-29T16:01:16.757Z",
+    "url": "https://www.upwork.com/jobs/~022115834664341941393",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115834664341941393/apply/"
+  },
+  {
     "id": "2115646007779167003",
     "ciphertext": "~022115646007779167003",
     "title": "Learn how to obtain an access token from Google needed for a WP plug-in",
