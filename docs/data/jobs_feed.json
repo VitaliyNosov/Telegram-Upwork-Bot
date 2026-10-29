@@ -1,5 +1,31 @@
 [
   {
+    "id": "2115646007779167003",
+    "ciphertext": "~022115646007779167003",
+    "title": "Learn how to obtain an access token from Google needed for a WP plug-in",
+    "description": "I have been attempting to install a backup plug-in on my website, but the installation fails. This is in the log:  \"Google Drive: ERROR: Have not yet obtained an access token from Google (has the user authorised?) (Invalid request (refresh token not present).) (no_refresh_token).\"\n\nI do not understand what is needed or what to do to obtain the access token. I need someone who can explain and/or help me obtain the token so the plugin can be installed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi!\n\nThat Google Drive API authentication error usually happens when the backup plugin isn't granted proper offline access permissions in your Google Cloud Console, which prevents it from generating a persistent refresh token. \n\nI can quickly walk you through setting this up step-by-step or handle the Google API project configuration for you so your backup plugin connects successfully right away. I regularly resolve third-party plugin integration issues, API authentications, and hosting configurations as part of my WordPress maintenance and troubleshooting work.\n\nWhich specific backup plugin are you using on the site? Let me know and we can get this sorted out in just a few minutes.",
+    "publishedDateTime": "2026-10-29T03:24:53+0000",
+    "addedAt": "2026-10-29T03:28:35.889Z",
+    "url": "https://www.upwork.com/jobs/~022115646007779167003",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115646007779167003/apply/"
+  },
+  {
     "id": "2115629571071528576",
     "ciphertext": "~022115629571071528576",
     "title": "E-commerce Product Listing Specialist for a DTC Brand",

@@ -1,13 +1,20 @@
 {
   "date": "2026-10-29",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 17,
-  "matchedFilters": 4,
+  "totalScanned": 18,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 3,
+    "wordpress developer": 4,
     "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Learn how to obtain an access token from Google needed for a WP plug-in",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022115646007779167003",
+      "addedAt": "2026-10-29T03:28:34.756Z"
+    },
     {
       "title": "Fix WordPress Administrator Access Issue and General Health Overview",
       "budget": "$15-$28/hr",
