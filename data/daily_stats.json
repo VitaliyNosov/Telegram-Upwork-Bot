@@ -1,8 +1,18 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Website & Google Business",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022115927740721558144",
+      "addedAt": "2026-10-29T22:08:27.329Z"
+    }
+  ]
 }

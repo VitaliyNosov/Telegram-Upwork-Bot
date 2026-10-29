@@ -1,5 +1,40 @@
 [
   {
+    "id": "2115927740721558144",
+    "ciphertext": "~022115927740721558144",
+    "title": "Website & Google Business",
+    "description": "1. Website (full build)\n\nModern, mobile-friendly, fast-loading site built on WordPress, Wix, Squarespace, or Webflow (open to your recommendation; we must own the account and be able to make simple edits)\nPages: Home, About, Services (individual page per service), Service Areas (NJ towns/counties), Project Gallery, Reviews/Testimonials, Contact/Free Estimate\nQuote request form that sends leads to our email, plus click-to-call and click-to-text buttons\nBasic local SEO: page titles, meta descriptions, NJ location keywords, schema markup for a local contractor, Google Search Console and Google Analytics setup\nEmbed reviews from other platforms (if we have them) on the site\nHelp with domain and business email setup if needed\n\n2. Google Business Profile\n\nCreate and fully optimize our Google Business Profile: categories, services, service areas, hours, description, photos, and links\nGuide us through Google’s verification process\nSet up initial posts and Q&A\nMake sure our name, address, and phone are consistent across the website and key directories (Bing Places, Apple Business Connect, Yelp, Angi, Houzz, BBB, Facebook)\n\n3. Reviews System\n\nSet up a short Google review link and QR code we can text, email, or print on invoices and business cards\nCreate simple review-request message templates for text and email\nDisplay reviews on the website",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "google-sites",
+      "website",
+      "google-adsense-plugin",
+      "google-analytics",
+      "web-programming",
+      "web-design",
+      "google-adwords",
+      "seo",
+      "internet-marketing",
+      "google-my-business"
+    ],
+    "score": 0,
+    "coverLetter": "Hi!\n\nI can help you build a modern, fast-loading contractor website on WordPress or Webflow—giving you 100% ownership of the account—alongside setting up your quote request forms, local SEO, and review systems. \n\nFor local businesses, I focus heavily on performance, mobile responsiveness, and local schema markup so you rank well for your NJ service areas. I've built numerous clean, conversion-focused sites like https://www.cchpca.org/ and can ensure your click-to-call, click-to-text, and review feeds are seamlessly integrated.\n\nAdditionally, I can guide you through optimizing your Google Business Profile, local directory consistency, and setting up your automated review-request templates and QR codes.\n\nWould you prefer building this site on WordPress or Webflow, and do you have a target launch timeline?",
+    "publishedDateTime": "2026-10-29T22:04:27+0000",
+    "addedAt": "2026-10-29T22:08:28.629Z",
+    "url": "https://www.upwork.com/jobs/~022115927740721558144",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115927740721558144/apply/"
+  },
+  {
     "id": "2115901637870110451",
     "ciphertext": "~022115901637870110451",
     "title": "Wordpress Developer for Telehealth Website",
