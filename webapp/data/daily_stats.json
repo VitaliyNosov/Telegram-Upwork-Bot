@@ -1,10 +1,10 @@
 {
   "date": "2026-10-29",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 42,
-  "matchedFilters": 6,
+  "totalScanned": 43,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022115834664341941393",
       "addedAt": "2026-10-29T16:00:35.344Z"
+    },
+    {
+      "title": "Different website fixes on Wrodpress with Elementor, categories, integration with plugins...",
+      "budget": "$10-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022115837426237509213",
+      "addedAt": "2026-10-29T16:08:28.297Z"
     },
     {
       "title": "Fix WordPress Administrator Access Issue and General Health Overview",

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2115837426237509213",
+    "ciphertext": "~022115837426237509213",
+    "title": "Different website fixes on Wrodpress with Elementor, categories, integration with plugins...",
+    "description": "Hi,\n\nI have several issues and new projects I want to develop on my Wordpress + Elementor wedding photography website. \n\nThe first issue would be to fix an error that comes up when I try to Save a Draft or modify a post, it says \"Updating failed. The response is not a valid JSON response\" (See attached).\n\nI'd also like help updating my plugins safely, and in general having someone I can reach out to long term when I need to something with the website.\n\nLet me know if you have any questions, thanks so much,\nDani",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor",
+      "wordpress-plugin"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi Dani! I can certainly help you resolve that \"Updating failed. The response is not a valid JSON response\" error. This is a common issue often caused by permalink conflicts, REST API blocks, or plugin interference, and I have fixed this exact error for many clients.\n\nBeyond fixing this immediate bug, I specialize in safe plugin management and long-term WordPress maintenance. I can audit your current setup to ensure your Elementor site remains stable during updates and handle any future feature requests you have as your photography business grows. You can see examples of the complex sites I manage at https://www.thelifeyoucansave.org/.\n\nAre you available for a quick chat today so I can take a look at your site and get that error resolved for you immediately?",
+    "publishedDateTime": "2026-10-29T16:06:29+0000",
+    "addedAt": "2026-10-29T16:08:51.167Z",
+    "url": "https://www.upwork.com/jobs/~022115837426237509213",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115837426237509213/apply/"
+  },
+  {
     "id": "2115834664341941393",
     "ciphertext": "~022115834664341941393",
     "title": "Website Designer Needed for Roofing Company",
