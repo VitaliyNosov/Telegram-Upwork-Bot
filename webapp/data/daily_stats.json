@@ -1,10 +1,10 @@
 {
   "date": "2026-10-29",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 54,
-  "matchedFilters": 9,
+  "totalScanned": 55,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 141,
       "url": "https://www.upwork.com/jobs/~022115596480902328049",
       "addedAt": "2026-10-29T00:10:36.391Z"
+    },
+    {
+      "title": "WordPress/Divi Developer — Performance, Technical SEO & Luxury Residential Website Upgrade",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022115885303965586166",
+      "addedAt": "2026-10-29T19:18:28.385Z"
     }
   ]
 }

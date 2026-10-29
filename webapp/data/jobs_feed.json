@@ -1,5 +1,36 @@
 [
   {
+    "id": "2115885303965586166",
+    "ciphertext": "~022115885303965586166",
+    "title": "WordPress/Divi Developer — Performance, Technical SEO & Luxury Residential Website Upgrade",
+    "description": "WordPress/Divi Developer — Performance, Technical SEO & Luxury Residential Website Upgrade\n\nVGC NYC Builders is a boutique Manhattan general contractor specializing in high-end residential construction. We are seeking an experienced independent WordPress/Divi developer to upgrade and optimize our existing website.\n\nThis is not a website rebuild or rebranding project.\n\nOur existing site has strong architectural photography, established branding and a substantial project portfolio. We want to preserve those assets while improving performance, technical structure, content presentation and search/AI discoverability.\n\nScope\n\nThe project includes:\n\n* WordPress/Divi technical cleanup\n* Website speed and Core Web Vitals optimization\n* Removal/redirect of obsolete indexed template content\n* Image, caching, CSS/JS, plugin and hosting optimization\n* Portfolio/project page improvements and reusable case-study template\n* New Preconstruction & Consulting service page\n* Homepage/Profile content and structural refinements\n* Visual refinement/lightening of the existing design\n* Mobile/responsive improvements\n* Technical SEO audit and implementation\n* XML sitemap and robots.txt review\n* Canonical URLs and redirect review\n* Page titles, meta descriptions and heading hierarchy\n* Internal linking and image ALT text\n* Google Search Console\n* Bing Webmaster Tools / IndexNow\n* Appropriate Schema.org structured data\n* Crawlability and indexing review\n\nVGC will provide the substantive website copy, project stories, photography, testimonials and positioning.\n\nRequired Experience\n\nWe are specifically looking for someone with demonstrated experience in:\n\n* WordPress\n* Divi Theme / Divi Builder\n* Core Web Vitals and WordPress performance optimization\n* Google PageSpeed Insights\n* Technical SEO\n* Schema.org structured data\n* Google Search Console\n* Responsive/mobile optimization\n* WordPress staging, backup and safe deployment\n\nExperience with architecture, luxury residential, construction, design or other visually sophisticated professional-service websites is a plus.\n\nWorking Requirements\n\nAll development must initially occur in a staging environment.\n\nA complete restorable website/database backup must be created before production changes.\n\nVGC retains ownership and control of the domain, hosting, primary WordPress administrator account and all external accounts.\n\nThe developer will receive separate/delegated credentials as required.\n\nNo new paid plugin, subscription, hosting service or recurring dependency may be introduced without approval.\n\nAll custom work and configuration created for the project becomes VGC property upon payment.\n\nA final technical handoff/documentation package is required.\n\nInitial Paid Trial\n\nWe intend to begin with a small paid technical audit/trial milestone of approximately $300–$500.\n\nThe selected candidate will:\n\n1. Review the existing VGC website.\n2. Identify the highest-priority technical/performance issues.\n3. Review the current WordPress/Divi architecture.\n4. Establish or recommend the staging/backup process.\n5. Review Core Web Vitals/performance.\n6. Identify significant technical SEO/crawl/indexing issues.\n7. Recommend an implementation sequence and final scope.\n\nSuccessful completion of this milestone is expected to lead to the larger implementation project.\n\nEstimated Full Project Budget\n\nApproximately $3,000–$4,500, depending on findings and agreed scope.\n\nWe prefer defined fixed-price milestones rather than an open-ended hourly engagement.\n\nTo Apply\n\nPlease do not send a generic WordPress proposal.\n\nReview vgcnyc.com before responding and answer the screening questions included with this posting.\n\nWe are looking for a technically strong independent developer who can improve an established website without unnecessarily rebuilding it.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "divi",
+      "website-optimization",
+      "wordpress-website",
+      "responsive-design",
+      "wordpress",
+      "seo-audit"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I’ve reviewed vgcnyc.com and am ready to start with the initial technical audit milestone to diagnose your Divi architecture, Core Web Vitals, and technical SEO. \n\nI specialize in WordPress and Divi optimization without disrupting established branding or requiring a full rebuild. My core focus is on clean code, database and caching optimization, removing obsolete index bloat, implementing strict Schema.org structured data, and resolving Core Web Vitals bottlenecks to ensure high-end residential portfolios load instantly and rank effectively. I always work securely via staging environments and full backups as per your requirements.\n\nFor a similar level of visual and structural refinement, you can review my work on https://www.seeintl.org/. \n\nAre you available this week to set up the staging environment and kick off the initial audit?",
+    "publishedDateTime": "2026-10-29T19:15:48+0000",
+    "addedAt": "2026-10-29T19:18:31.521Z",
+    "url": "https://www.upwork.com/jobs/~022115885303965586166",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115885303965586166/apply/"
+  },
+  {
     "id": "2115881171461510084",
     "ciphertext": "~022115881171461510084",
     "title": "Website Refresh and Mock-Up Support",
