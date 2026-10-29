@@ -1,10 +1,10 @@
 {
   "date": "2026-10-29",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 53,
-  "matchedFilters": 8,
+  "totalScanned": 54,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -35,6 +35,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022115837426237509213",
       "addedAt": "2026-10-29T16:08:28.297Z"
+    },
+    {
+      "title": "Website Refresh and Mock-Up Support",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022115881171461510084",
+      "addedAt": "2026-10-29T19:02:27.357Z"
     },
     {
       "title": "Fix WordPress Administrator Access Issue and General Health Overview",

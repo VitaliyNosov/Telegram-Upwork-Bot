@@ -1,5 +1,34 @@
 [
   {
+    "id": "2115881171461510084",
+    "ciphertext": "~022115881171461510084",
+    "title": "Website Refresh and Mock-Up Support",
+    "description": "I have a website (www.jasonmartuscello.com) that is a bit outdated and I am looking to give it a refresh. I have already used Claude to develop some mock-ups. I’m looking for support to help turn those mock-ups into a polished update. The work includes reviewing the current site, refining the design based on the mock-ups, and ensuring the final changes are implemented properly. I’m looking for someone who can help make the site look modern, clean, and functional while keeping the overall structure intact.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "html"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nTurning AI-generated mock-ups into a polished, modern WordPress site is right in my wheelhouse. I can review your current setup at jasonmartuscello.com, translate your Claude mock-ups into a clean, functional design, and implement the updates smoothly without disrupting your core structure. \n\nWith deep experience in custom WordPress development, theme refinements, and page builders like Elementor and Gutenberg, I specialize in making older sites look fresh and professional while maintaining performance and responsiveness. You can check out a recent WordPress redesign I built here: https://www.seeintl.org/.\n\nWhen would be a good time to share your mock-ups so I can review the scope and give you a clear timeline?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-10-29T18:59:26+0000",
+    "addedAt": "2026-10-29T19:02:28.661Z",
+    "url": "https://www.upwork.com/jobs/~022115881171461510084",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115881171461510084/apply/"
+  },
+  {
     "id": "2115837708211268753",
     "ciphertext": "~022115837708211268753",
     "title": "WordPress and Elementor Expert",
