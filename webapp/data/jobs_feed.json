@@ -1,5 +1,32 @@
 [
   {
+    "id": "2115946126264792382",
+    "ciphertext": "~022115946126264792382",
+    "title": "Upgrade PHP on Wordpress Site and Secure Site",
+    "description": "We have recently had some security issues with our site (www.ThoughtfulSystems.com). \n\nA couple of days ago it appears our site was hacked. We managed to restore the site from a backup, but when we try to enable a security plug-in, someone disables it again.\n\nWe would like someone to upgrade the PHP as this is a vulnerability and ensure that all plug-ins are still working properly after upgrading it.\n\nWe would also like someone help to stop the security breaches. In particular, we tried to enable the Wordfence plug-in, but it is disabled straight away.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can help you clean up the ongoing security breach on Thoughtful Systems, upgrade your PHP version safely, and ensure all your plugins remain fully operational. \n\nHaving recovered numerous hacked WordPress sites and handled severe security hardening, I know firsthand how frustrating it is when malware repeatedly bypasses defenses and deactivates tools like Wordfence. My immediate focus will be tracing the backdoor or lingering malicious script allowing unauthorized access, neutralizing it completely, upgrading your PHP environment, and running post-migration checks across your plugins. For a look at my past work securing and supporting production sites, you can check out https://waapple.org/.\n\nAre you currently able to access your server via FTP/SSH and hosting control panel, or would you like me to take a look from there first?",
+    "publishedDateTime": "2026-10-29T23:17:32+0000",
+    "addedAt": "2026-10-29T23:18:29.696Z",
+    "url": "https://www.upwork.com/jobs/~022115946126264792382",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115946126264792382/apply/"
+  },
+  {
     "id": "2115927740721558144",
     "ciphertext": "~022115927740721558144",
     "title": "Website & Google Business",
