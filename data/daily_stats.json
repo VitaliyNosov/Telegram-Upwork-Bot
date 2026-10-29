@@ -1,12 +1,19 @@
 {
   "date": "2026-10-29",
   "lastDigestSentDate": "2026-10-28",
-  "totalScanned": 7,
-  "matchedFilters": 1,
+  "totalScanned": 8,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Winery Website Build",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022115615014214692593",
+      "addedAt": "2026-10-29T01:24:35.314Z"
+    },
     {
       "title": "Web Designer and WordPress Developer",
       "budget": "Fixed-price",

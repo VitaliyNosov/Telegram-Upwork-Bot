@@ -1,5 +1,33 @@
 [
   {
+    "id": "2115615014214692593",
+    "ciphertext": "~022115615014214692593",
+    "title": "Winery Website Build",
+    "description": "WordPress developer for winery website rebuild with Commerce7 integration\n\nTsillan Cellars, an estate winery, restaurant and wedding venue on Lake Chelan with a second tasting room in Woodinville, Washington, is looking for an experienced WordPress developer to build our new website. We have already completed a site assessment, a full sitemap of about 40 pages, and strawman designs for the homepage and key pages, inspired by the look and feel of jordanwinery.com. We need a developer to turn this into a polished, fast, mobile-first WordPress site. The work includes embedding Commerce7 for wine sales, wine club sign-up and member accounts, OpenTable for restaurant reservations, and our tasting booking tool. The site must be easy for non-technical staff to update day to day, including hours, menus, events and club tiers, and must include a full redirect plan from our current URLs. Please include examples of winery or hospitality sites you have built, specifically any with Commerce7, along with your proposed approach, timeline and fixed-price estimate.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-content-management"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! Rebuilding the Tsillan Cellars website to match the elegance of Jordan Winery while seamlessly integrating Commerce7, OpenTable, and your booking tools is right in my wheelhouse. \n\nWith extensive experience in custom WordPress development, WooCommerce, and complex third-party API integrations, I specialize in building fast, mobile-first sites that are exceptionally easy for non-technical teams to manage day-to-day. For hospitality projects, ensuring smooth reservation flows and member account setups is critical, and I handle these integrations with clean, robust code—alongside a complete URL redirect plan to protect your existing SEO equity. \n\nYou can review a sample of my complex WordPress builds here: https://www.thelifeyoucansave.org/\n\nCould we jump into a quick chat to discuss your sitemap, timeline, and fixed-price estimate for the project?",
+    "publishedDateTime": "2026-10-29T01:22:50+0000",
+    "addedAt": "2026-10-29T01:24:36.497Z",
+    "url": "https://www.upwork.com/jobs/~022115615014214692593",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115615014214692593/apply/"
+  },
+  {
     "id": "2115596480902328049",
     "ciphertext": "~022115596480902328049",
     "title": "Web Designer and WordPress Developer",
