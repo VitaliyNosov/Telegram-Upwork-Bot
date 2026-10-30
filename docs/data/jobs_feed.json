@@ -1,5 +1,31 @@
 [
   {
+    "id": "2115982249683470067",
+    "ciphertext": "~022115982249683470067",
+    "title": "Wordpress Editor Issue Fix",
+    "description": "Just having an issue on a Wordpress website where the editing page (eg Pages ... (any page or post)...  Edit is showing as a white screen below the title. Have tried disabling plugins, flushing cache, increasing PHP memory etc with no luck. Just need to be able to edit the site again.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "New Zealand",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 2900,
+    "coverLetter": "Hi! \n\nThat white screen on the WordPress editor (often triggered by a JavaScript conflict, REST API failure, or a clash in the block editor) is a frustrating issue, but it's something I diagnose and resolve regularly. \n\nSince you've already tried clearing the cache, disabling plugins, and increasing memory limits, the issue likely runs a bit deeper—possibly in the admin scripts, a database transient, or a theme-specific Gutenberg conflict. I specialize in WordPress debugging and backend troubleshooting, and I can quickly trace the root cause and get your editing pages back online without breaking your layout.\n\nWhenever you're ready, share temporary admin access in chat and I'll jump in to take a look right away.",
+    "publishedDateTime": "2026-10-30T01:40:58+0000",
+    "addedAt": "2026-10-30T01:44:29.072Z",
+    "url": "https://www.upwork.com/jobs/~022115982249683470067",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115982249683470067/apply/"
+  },
+  {
     "id": "2115959207254192768",
     "ciphertext": "~022115959207254192768",
     "title": "Migrate Author Website From Webflow and Build New Designs From Claude",

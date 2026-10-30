@@ -1,13 +1,20 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 17,
-  "matchedFilters": 3,
+  "totalScanned": 18,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 2,
+    "wordpress developer": 3,
     "wordpress plugin": 1
   },
   "topJobs": [
+    {
+      "title": "Wordpress Editor Issue Fix",
+      "budget": "$14-$28/hr",
+      "score": 2900,
+      "url": "https://www.upwork.com/jobs/~022115982249683470067",
+      "addedAt": "2026-10-30T01:44:27.974Z"
+    },
     {
       "title": "Migrate Author Website From Webflow and Build New Designs From Claude",
       "budget": "Fixed-price",
