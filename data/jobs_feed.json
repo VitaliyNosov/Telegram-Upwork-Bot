@@ -1,5 +1,34 @@
 [
   {
+    "id": "2116048036007277886",
+    "ciphertext": "~022116048036007277886",
+    "title": "Website User Experience Improvement",
+    "description": "I need a freelancer to review my website and identify opportunities to improve the overall user experience. The work includes analyzing navigation, layout, and usability, then recommending practical changes to make the site more intuitive and effective. I’m looking for someone who can assess the current experience, suggest improvements, and help implement updates that enhance how visitors interact with the site.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 38,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "javascript"
+    ],
+    "score": 3598,
+    "coverLetter": "Hi! Improving user experience starts with eliminating friction in navigation, layout, and usability so visitors can easily take action. \n\nWith extensive experience building and refining WordPress sites—such as https://about.offerup.com/—I specialize in analyzing technical layout flaws, streamlining site structure, and implementing practical UX updates. I look past surface-level design to evaluate how users actually interact with your pages, ensuring the layout is intuitive, responsive, and effective.\n\nWhether you need a full UX audit or hands-on implementation of layout and navigation improvements, I can help turn casual visitors into engaged users. \n\nWhen is a good time to share your current website URL so we can discuss the initial review?",
+    "publishedDateTime": "2026-10-30T06:02:50+0000",
+    "addedAt": "2026-10-30T06:06:25.793Z",
+    "url": "https://www.upwork.com/jobs/~022116048036007277886",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116048036007277886/apply/"
+  },
+  {
     "id": "2115982249683470067",
     "ciphertext": "~022115982249683470067",
     "title": "Wordpress Editor Issue Fix",
