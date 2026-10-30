@@ -1,10 +1,10 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 49,
-  "matchedFilters": 10,
+  "totalScanned": 50,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "wordpress plugin": 1,
     "woocommerce": 2
   },
@@ -64,6 +64,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022116212188787216267",
       "addedAt": "2026-10-30T16:58:26.996Z"
+    },
+    {
+      "title": "GHL Website Cleanup and Configuration",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022116234890637971339",
+      "addedAt": "2026-10-30T18:30:29.335Z"
     },
     {
       "title": "Website & Google Business",
