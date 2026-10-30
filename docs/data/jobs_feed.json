@@ -1,5 +1,34 @@
 [
   {
+    "id": "2116212188787216267",
+    "ciphertext": "~022116212188787216267",
+    "title": "WordPress Website Rebuild from PDF Designs",
+    "description": "I need a freelancer to rebuild two websites in WordPress based on PDF designs that show how the sites looked on other platforms. The work includes recreating the layout, structure, and key visual elements from the provided designs and turning them into functional WordPress sites. Experience rebuilding websites from existing designs and translating them into clean, responsive WordPress pages is important. Please share relevant examples of similar rebuild projects and your approach to ensuring the final sites match the source designs closely.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 75,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I have extensive experience translating static designs into pixel-perfect, functional WordPress sites and would be happy to help you rebuild these two projects.\n\nMy approach focuses on creating clean, maintainable code rather than relying on bloated page builders. I specialize in building custom Gutenberg blocks and using Advanced Custom Fields (ACF) to ensure the final sites are not only responsive and visually accurate to your PDFs but also easy for you to manage long-term. You can see an example of my custom development work at https://www.thelifeyoucansave.org/, where I handled complex layout structures with high performance.\n\nCould you share the PDF designs so I can review the complexity of the layouts and provide a more accurate timeline for the rebuild?",
+    "publishedDateTime": "2026-10-30T16:54:38+0000",
+    "addedAt": "2026-10-30T16:58:39.899Z",
+    "url": "https://www.upwork.com/jobs/~022116212188787216267",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116212188787216267/apply/"
+  },
+  {
     "id": "2116156972715682056",
     "ciphertext": "~022116156972715682056",
     "title": "Help Us Sell Through ChatGPT and Other AI Assistants (Product Feed + MCP + Agentic Checkout)",
