@@ -1,5 +1,34 @@
 [
   {
+    "id": "2116106252586731251",
+    "ciphertext": "~022116106252586731251",
+    "title": "WordPress Geodirectory Listings Directory",
+    "description": "I need an expert to help build a listings directory website on WordPress using Geodirectory. I have already started the project and need expert input to guide the next steps. The site will include tens of thousands of entries and support both free and premium listing options. I will be using data from usiong outscraper, so experience handling large datasets and setting up scalable directory functionality is important. The right freelancer should be able to help refine the structure, improve performance, and ensure the site is ready for a large volume of listings.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$15 - $25/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 2599,
+    "coverLetter": "Hi!\n\nBuilding a high-volume directory with tens of thousands of entries requires careful database optimization and scalable architecture to prevent performance bottlenecks. I have extensive experience building custom WordPress platforms and handling large datasets, including performance tuning for high-traffic sites like my work on https://www.snopud.com/.\n\nI can step into your GeoDirectory project right where you left off to refine your site structure, integrate and clean up your Outscraper data, and configure seamless free and premium listing workflows. My background in database optimization, PHP, and high-traffic WordPress performance will ensure your directory loads fast and handles scale effortlessly.\n\nAre you currently using any specific payment gateway for the premium listings, or would you like recommendations for that setup?",
+    "publishedDateTime": "2026-10-30T09:53:48+0000",
+    "addedAt": "2026-10-30T09:56:28.739Z",
+    "url": "https://www.upwork.com/jobs/~022116106252586731251",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116106252586731251/apply/"
+  },
+  {
     "id": "2116103310139225406",
     "ciphertext": "~022116103310139225406",
     "title": "WordPress Geodirectory Listings Directory",

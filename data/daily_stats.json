@@ -1,10 +1,10 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 29,
-  "matchedFilters": 6,
+  "totalScanned": 30,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "wordpress plugin": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 2599,
       "url": "https://www.upwork.com/jobs/~022116103310139225406",
       "addedAt": "2026-10-30T09:46:27.858Z"
+    },
+    {
+      "title": "WordPress Geodirectory Listings Directory",
+      "budget": "$15-$25/hr",
+      "score": 2599,
+      "url": "https://www.upwork.com/jobs/~022116106252586731251",
+      "addedAt": "2026-10-30T09:56:27.124Z"
     },
     {
       "title": "Migrate Author Website From Webflow and Build New Designs From Claude",
