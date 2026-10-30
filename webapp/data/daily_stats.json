@@ -1,14 +1,21 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 52,
-  "matchedFilters": 12,
+  "totalScanned": 53,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 9,
+    "wordpress developer": 10,
     "wordpress plugin": 1,
     "woocommerce": 2
   },
   "topJobs": [
+    {
+      "title": "Fix and update website",
+      "budget": "$18-$60/hr",
+      "score": 6100,
+      "url": "https://www.upwork.com/jobs/~022116248709922325034",
+      "addedAt": "2026-10-30T19:26:28.384Z"
+    },
     {
       "title": "Website User Experience Improvement",
       "budget": "$15-$35/hr",

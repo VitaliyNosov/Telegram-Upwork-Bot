@@ -1,5 +1,31 @@
 [
   {
+    "id": "2116248709922325034",
+    "ciphertext": "~022116248709922325034",
+    "title": "Fix and update website",
+    "description": "My website has some broken elements.  I'd like someone to make fixes and changes as they see fit.  I even have screenshots of the broken elements.  Site is done in Elementor WP.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$18 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 6100,
+    "coverLetter": "Hi! \n\nI can help you quickly clean up those broken elements on your Elementor site. Since you already have screenshots ready, diagnosing and fixing these layout issues, plugin conflicts, or styling bugs should be straightforward. \n\nAs a WordPress developer with extensive experience troubleshooting and rebuilding Elementor websites, I regularly resolve these exact types of layout breaks and frontend errors. You can see an example of my clean, professional WP work here: https://www.seeintl.org/.\n\nFeel free to drop the screenshots in our chat so I can review them, and we can get your site fully fixed up today. What is the URL of your website?",
+    "publishedDateTime": "2026-10-30T19:24:06+0000",
+    "addedAt": "2026-10-30T19:26:29.501Z",
+    "url": "https://www.upwork.com/jobs/~022116248709922325034",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116248709922325034/apply/"
+  },
+  {
     "id": "2116237410735198091",
     "ciphertext": "~022116237410735198091",
     "title": "Fix Website 404 Error",
