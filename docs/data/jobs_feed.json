@@ -1,5 +1,34 @@
 [
   {
+    "id": "2116276480864604463",
+    "ciphertext": "~022116276480864604463",
+    "title": "Website Redesign Needed",
+    "description": "We need a freelancer to redesign an existing website to improve its appearance, usability, and overall user experience. The project includes refining the visual design, and making the site more intuitive for visitors. We are looking for someone who can assess the current site, propose a fresh design direction, and implement changes that enhance performance and engagement. Experience with similar redesign projects is important, and we value clear communication and attention to detail throughout the process.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI would love to help you modernize your website to significantly improve its visual appeal, user experience, and overall performance. A redesign shouldn't just look fresh—it needs to be intuitive, fast, and optimized for engagement.\n\nWith extensive experience in WordPress development, UI implementation, and performance optimization, I specialize in transforming outdated sites into polished, high-performing digital experiences. I focus on clean code, seamless navigation, and ensuring the new design drives results. You can view an example of my recent work here: https://www.thelifeyoucansave.org/.\n\nAre you currently working with pre-designed wireframes/Figma files, or would you need help shaping the new visual direction from scratch? Let's chat about your goals.",
+    "publishedDateTime": "2026-10-30T21:11:00+0000",
+    "addedAt": "2026-10-30T21:12:28.484Z",
+    "url": "https://www.upwork.com/jobs/~022116276480864604463",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116276480864604463/apply/"
+  },
+  {
     "id": "2116271176825183687",
     "ciphertext": "~022116271176825183687",
     "title": "Create WordPress Website for Real Estate Agent",
