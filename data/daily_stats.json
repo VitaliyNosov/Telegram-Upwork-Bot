@@ -1,10 +1,10 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-30",
-  "totalScanned": 57,
-  "matchedFilters": 13,
+  "totalScanned": 58,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "wordpress plugin": 1,
     "woocommerce": 2
   },
@@ -50,6 +50,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022116156972715682056",
       "addedAt": "2026-10-30T13:20:29.763Z"
+    },
+    {
+      "title": "Create WordPress Website for Real Estate Agent",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022116271176825183687",
+      "addedAt": "2026-10-30T20:52:26.645Z"
     },
     {
       "title": "Custom Made-to-Measure Curtains & Home Furnishings E-commerce Website",
