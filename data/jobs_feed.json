@@ -1,5 +1,29 @@
 [
   {
+    "id": "2115959207254192768",
+    "ciphertext": "~022115959207254192768",
+    "title": "Migrate Author Website From Webflow and Build New Designs From Claude",
+    "description": "Hi! I'm looking for a developer to move my father's author website off Webflow,  to another hosting/cms platform and build an updated design that's already done. The goal is a site that costs less to run, is easy for him to update himself, and is set up well for SEO.\n\nAbout the site\n\nAn author website for a children's book author, with an adult novel on the way\nCurrently on Webflow: melwritesstories.com\n7 published books (including a 4-book series), with more coming\nPages: Home, a page for each book, About, Reviews, Contact\nEach book links out to Amazon, Barnes & Noble and IngramSpark (no on-site checkout)\n\nWhat he needs\n\nRecommend a platform. Suggest a modern, low-cost setup (hosting + CMS) and briefly explain why it's the right fit. Lower monthly cost and easy upkeep matter most.\n\nMigrate the site. Move the current content, images and the hero animation from Webflow to the new platform.\n\nBuild the new design. The updated Home page and book page template are finished as HTML/CSS mockups made in Claude. You'll turn them into a live, responsive site that matches closely.\n\nMake adding books SUPER SIMPLE. He needs to add a new book himself in a few minutes, with no code: fill in a form (title, cover, description, age range, store links, reviews) and the book page is created and shows up on the home page automatically.\n\nSEO-friendly setup. Clean URLs, meta titles and descriptions, Open Graph images, a sitemap, book structured data (schema), fast load times and good mobile scores. \n\nConnect the forms. Hook up the contact form and email signup.\n\nHandoff. A short video or written guide showing how to add a book and edit content.\n\nProject details\n\nSmall, flat-rate project\nAn NDA is required before I share the design files\nPlease include a rough timeline in your proposal\n\nTo apply, please include:\n\nYour recommended platform and 2–3 sentences on why\n\nPortfolio: 2–3 live sites you've built, ideally a Webflow migration or a CMS-driven site (author, publisher or small-business sites are a plus)\n\nYour flat-rate quote and timeline\n\nThe word \"MEL\" at the start of your proposal, so I know you read the full post.\n\nThanks! I'm looking forward to seeing your work.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 60,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 100,
+    "coverLetter": "MEL! Hi there, I’d love to help migrate your father's author site and bring your Claude designs to life.\n\nFor your specific needs, **WordPress** is the ideal platform. It completely eliminates Webflow's high monthly subscription fees, offers predictable low-cost hosting, and uses Custom Post Types with Advanced Custom Fields (ACF) to make adding a new book as simple as filling out a clean, non-technical form. Plus, it gives you ultimate SEO control and rock-solid schema integration for books.\n\nI regularly handle CMS migrations and custom builds, ensuring pixel-perfect responsiveness from HTML/CSS designs while optimizing for speed. You can see examples of my clean, content-driven builds here: https://www.thelifeyoucansave.org/ and https://www.daysforgirls.org/.\n\nI can complete this entire migration and build for a flat rate of $950 within a 7-day timeline, fully optimized and ready with a quick video handoff guide. \n\nReady to sign the NDA and get started? Let's chat!",
+    "publishedDateTime": "2026-10-30T00:12:23+0000",
+    "addedAt": "2026-10-30T00:16:33.576Z",
+    "url": "https://www.upwork.com/jobs/~022115959207254192768",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022115959207254192768/apply/"
+  },
+  {
     "id": "2115946126264792382",
     "ciphertext": "~022115946126264792382",
     "title": "Upgrade PHP on Wordpress Site and Secure Site",

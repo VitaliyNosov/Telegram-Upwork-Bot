@@ -1,13 +1,20 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 10,
-  "matchedFilters": 2,
+  "totalScanned": 11,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 1,
+    "wordpress developer": 2,
     "wordpress plugin": 1
   },
   "topJobs": [
+    {
+      "title": "Migrate Author Website From Webflow and Build New Designs From Claude",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022115959207254192768",
+      "addedAt": "2026-10-30T00:16:32.207Z"
+    },
     {
       "title": "Website & Google Business",
       "budget": "Fixed-price",
