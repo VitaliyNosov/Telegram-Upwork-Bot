@@ -1,10 +1,10 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 50,
-  "matchedFilters": 11,
+  "totalScanned": 51,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "wordpress plugin": 1,
     "woocommerce": 2
   },
@@ -64,6 +64,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022116212188787216267",
       "addedAt": "2026-10-30T16:58:26.996Z"
+    },
+    {
+      "title": "Fix Website 404 Error",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022116237410735198091",
+      "addedAt": "2026-10-30T18:38:26.544Z"
     },
     {
       "title": "GHL Website Cleanup and Configuration",

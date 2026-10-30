@@ -1,5 +1,34 @@
 [
   {
+    "id": "2116237410735198091",
+    "ciphertext": "~022116237410735198091",
+    "title": "Fix Website 404 Error",
+    "description": "Need help resolving a 404 error on my website. The site is currently not working properly, and I want someone to identify the issue and restore normal functionality. Please review the problem, fix the error, and confirm the site is working correctly after the changes. Experience troubleshooting website issues and resolving broken links or configuration problems is important for this short-term project.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "mysql"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can help you diagnose and resolve that 404 error right away to restore your site's normal functionality. \n\nAs a WordPress developer with extensive experience troubleshooting server configurations, broken permalinks, routing issues, and PHP/MySQL conflicts, I regularly fix these exact site breakages. I will quickly pinpoint the root cause—whether it's a corrupted .htaccess file, a recent plugin/theme conflict, or rewrite rule issues—and ensure all pages are loading correctly before wrapping up.\n\nWhenever you're ready, feel free to share the URL and admin/hosting access details in chat, and I can get started on this right away.",
+    "publishedDateTime": "2026-10-30T18:36:49+0000",
+    "addedAt": "2026-10-30T18:38:27.662Z",
+    "url": "https://www.upwork.com/jobs/~022116237410735198091",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116237410735198091/apply/"
+  },
+  {
     "id": "2116234890637971339",
     "ciphertext": "~022116234890637971339",
     "title": "GHL Website Cleanup and Configuration",
