@@ -1,11 +1,12 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 33,
-  "matchedFilters": 7,
+  "totalScanned": 34,
+  "matchedFilters": 8,
   "byKeyword": {
     "wordpress developer": 6,
-    "wordpress plugin": 1
+    "wordpress plugin": 1,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -35,6 +36,13 @@
       "score": 2599,
       "url": "https://www.upwork.com/jobs/~022116106252586731251",
       "addedAt": "2026-10-30T09:56:27.124Z"
+    },
+    {
+      "title": "Custom Made-to-Measure Curtains & Home Furnishings E-commerce Website",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022116152141427168747",
+      "addedAt": "2026-10-30T13:00:28.800Z"
     },
     {
       "title": "Migrate Author Website From Webflow and Build New Designs From Claude",
