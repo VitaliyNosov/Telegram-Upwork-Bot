@@ -1,5 +1,32 @@
 [
   {
+    "id": "2116156972715682056",
+    "ciphertext": "~022116156972715682056",
+    "title": "Help Us Sell Through ChatGPT and Other AI Assistants (Product Feed + MCP + Agentic Checkout)",
+    "description": "e run a US online store with about 1,500 products. More and more shoppers are asking ChatGPT, Perplexity or Gemini things like \"best X under $100\", and OpenAI and Google are now rolling out ways for an assistant to actually buy on the person's behalf. We'd like to be ready before it gets crowded.\n\nWhat we need built:\nA clean product feed (titles, attributes, variants, price, stock, shipping, returns) that meets the requirements for ChatGPT shopping / OpenAI's Agentic Commerce Protocol and Google Merchant Center\nAn agentic checkout, probably through Stripe's ACP support, so an assistant can complete a purchase and the order lands in our store like any other\n\nA small MCP server for our catalog: search products, check stock and price, get shipping options. Read-only and rate-limited\n\nPrices and stock that stay in sync on their own\nA simple view of the orders and traffic coming from AI assistants\n\nThese protocols are new and the docs keep changing, so we'd rather work with someone who has already read them end to end than someone learning on our budget. If you've shipped anything with MCP or ACP, tell us what broke along the way.\n\nOur store runs on Shopify / WooCommerce. Budget is $1300 fixed in two milestones: feed first, then the MCP server, then checkout and analytics. We're thinking 2-3 weeks. We'd also like a short handover doc and two weeks of bug fixes after launch.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI’ve read the OpenAI Agentic Commerce Protocol, Google Merchant specs, and Model Context Protocol docs end-to-end and am ready to get your WooCommerce store AI-ready without learning on your budget. \n\nHandling advanced API integrations, custom endpoints, and WooCommerce backends is core to my daily work. For this project, I will build a clean, compliant product feed for your 1,500 products, set up Stripe ACP for agentic checkout, deploy a rate-limited read-only MCP server for catalog queries, and ensure real-time inventory and price sync. I’ve handled similar complex API setups across WooCommerce and headless environments, anticipating rate-limit bottlenecks and schema validation quirks along the way so they don't break production.\n\nLet's chat about your current product attribute structure and get the first milestone started.",
+    "publishedDateTime": "2026-10-30T13:17:40+0000",
+    "addedAt": "2026-10-30T13:20:35.546Z",
+    "url": "https://www.upwork.com/jobs/~022116156972715682056",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116156972715682056/apply/"
+  },
+  {
     "id": "2116152141427168747",
     "ciphertext": "~022116152141427168747",
     "title": "Custom Made-to-Measure Curtains & Home Furnishings E-commerce Website",

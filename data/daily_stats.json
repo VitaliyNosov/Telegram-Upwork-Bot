@@ -1,12 +1,12 @@
 {
   "date": "2026-10-30",
   "lastDigestSentDate": "2026-10-29",
-  "totalScanned": 35,
-  "matchedFilters": 8,
+  "totalScanned": 36,
+  "matchedFilters": 9,
   "byKeyword": {
     "wordpress developer": 6,
     "wordpress plugin": 1,
-    "woocommerce": 1
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -36,6 +36,13 @@
       "score": 2599,
       "url": "https://www.upwork.com/jobs/~022116106252586731251",
       "addedAt": "2026-10-30T09:56:27.124Z"
+    },
+    {
+      "title": "Help Us Sell Through ChatGPT and Other AI Assistants (Product Feed + MCP + Agentic Checkout)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022116156972715682056",
+      "addedAt": "2026-10-30T13:20:29.763Z"
     },
     {
       "title": "Custom Made-to-Measure Curtains & Home Furnishings E-commerce Website",
