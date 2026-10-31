@@ -1,40 +1,8 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "lastDigestSentDate": "2026-10-31",
-  "totalScanned": 32,
-  "matchedFilters": 4,
-  "byKeyword": {
-    "wordpress developer": 3,
-    "woocommerce": 1
-  },
-  "topJobs": [
-    {
-      "title": "Google Policy & Account Recovery Specialist",
-      "budget": "$15-$35/hr",
-      "score": 3550,
-      "url": "https://www.upwork.com/jobs/~022116546634891797554",
-      "addedAt": "2026-10-31T15:08:34.487Z"
-    },
-    {
-      "title": "RUSH Project | WooCommerce Site Speed Optimization | 2-DAY TURNOVER",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022116377749081824711",
-      "addedAt": "2026-10-31T03:54:32.356Z"
-    },
-    {
-      "title": "WordPress Developer – Enhance  Arts Guide, Searchable Archive & Digital Exhibition Trails",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022116641888002767300",
-      "addedAt": "2026-10-31T21:24:32.564Z"
-    },
-    {
-      "title": "WordPress Website Rebuild & Migration — Existing Real Estate Brokerage Website",
-      "budget": "Fixed-price",
-      "score": 50,
-      "url": "https://www.upwork.com/jobs/~022116643226311337010",
-      "addedAt": "2026-10-31T21:36:32.166Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
