@@ -1,5 +1,34 @@
 [
   {
+    "id": "2116675749237856426",
+    "ciphertext": "~022116675749237856426",
+    "title": "Experienced WordPress / BuddyBoss / Elementor Developer",
+    "description": "The Professional Cheerleaders Foundation (PCF), a national 501(c)(3) nonprofit, seeks an experienced WordPress developer with demonstrated BuddyBoss and Elementor expertise to build a modern website with a secure, free membership portal and national chapter structure.\n\nOur most important requirements are:\n\n- Self-service member profiles, including bios, photos, and optional photo albums.\n\n- Individual privacy settings for profile information, with email and phone private by default.\n\n- Membership application and administrator approval.\n\n- Automatic assignment to both primary and secondary chapters upon approval.\n\n- Chapter-specific pages and private groups with restricted chapter leader editing permissions.\n\n- A searchable, privacy-aware member directory.\n\n- Zeffy donation integration and public/member-only events.\n\n- We require a developer who can demonstrate how these features will work, identify any necessary custom programming, and provide an itemized estimate for development and recurring plugin licenses.\n\nPlease review the attached Scope of Work before applying.\n\nInclude examples of previous BuddyBoss projects, your technical approach to privacy and automatic dual-chapter assignment, estimated timeline, and fixed-price proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "css"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nBuilding a robust national nonprofit platform for the Professional Cheerleaders Foundation with BuddyBoss, Elementor, and complex member hierarchy requires precise architecture. I specialize in advanced WordPress, BuddyBoss platform customization, and Elementor builds, specifically handling features like membership approval workflows, dual-chapter auto-assignment, and granular privacy controls. \n\nFor privacy-aware directories and dual-chapter mapping, my technical approach involves utilizing BuddyBoss user meta hooks to trigger automatic primary and secondary chapter group assignments upon admin approval, paired with customized profile visibility settings that keep sensitive contact data private by default. \n\nYou can view a sample of my complex WordPress builds here: https://www.thelifeyoucansave.org/\n\nMy estimated timeline for this scope is 3 to 4 weeks, with a fixed-price proposal of $X,XXX (inclusive of custom logic and plugin coordination). Zeffy donation and event integration will be seamlessly embedded into both public and private spaces. \n\nCould we jump on a brief chat to review the exact Scope of Work and finalize the itemized estimate?",
+    "publishedDateTime": "2026-10-31T23:36:46+0000",
+    "addedAt": "2026-10-31T23:38:35.219Z",
+    "url": "https://www.upwork.com/jobs/~022116675749237856426",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116675749237856426/apply/"
+  },
+  {
     "id": "2116643226311337010",
     "ciphertext": "~022116643226311337010",
     "title": "WordPress Website Rebuild & Migration — Existing Real Estate Brokerage Website",

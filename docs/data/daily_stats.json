@@ -1,8 +1,18 @@
 {
   "date": "2026-11-01",
   "lastDigestSentDate": "2026-10-31",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Experienced WordPress / BuddyBoss / Elementor Developer",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022116675749237856426",
+      "addedAt": "2026-10-31T23:38:33.736Z"
+    }
+  ]
 }
