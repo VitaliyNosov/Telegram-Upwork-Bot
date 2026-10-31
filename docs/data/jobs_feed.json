@@ -1,5 +1,34 @@
 [
   {
+    "id": "2116377749081824711",
+    "ciphertext": "~022116377749081824711",
+    "title": "RUSH Project | WooCommerce Site Speed Optimization | 2-DAY TURNOVER",
+    "description": "We recently moved from Shopify to WooCommerce and need help optimizing our site speed to the best possible performance. The work includes reviewing current performance, identifying bottlenecks, and implementing improvements that reduce load times and improve overall site responsiveness. We’re looking for someone who can assess the site, recommend practical optimizations, and execute changes that help deliver a faster, smoother user experience.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "php",
+      "wp-ecommerce"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI can help you get your WooCommerce site running at top speed within your strict 2-day timeline. Migrating from Shopify often introduces heavy asset loads, unoptimized database queries, and plugin bloat that tank Core Web Vitals, but this is exactly what I specialize in fixing.\n\nMy approach focuses on deep diagnostic analysis—identifying bottlenecks in your database, configuring advanced caching, optimizing images, and streamlining scripts to ensure a fast, seamless checkout and browsing experience. You can see examples of high-performing, large-scale WordPress builds I've optimized and delivered, such as https://www.cchpca.org/.\n\nLet’s get this sorted quickly. What is your current desktop and mobile PageSpeed score? Send me the URL in chat and I can start auditing it immediately.",
+    "publishedDateTime": "2026-10-31T03:52:32+0000",
+    "addedAt": "2026-10-31T03:54:33.544Z",
+    "url": "https://www.upwork.com/jobs/~022116377749081824711",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116377749081824711/apply/"
+  },
+  {
     "id": "2116276480864604463",
     "ciphertext": "~022116276480864604463",
     "title": "Website Redesign Needed",

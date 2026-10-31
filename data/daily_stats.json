@@ -1,8 +1,18 @@
 {
   "date": "2026-10-31",
   "lastDigestSentDate": "2026-10-30",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "RUSH Project | WooCommerce Site Speed Optimization | 2-DAY TURNOVER",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022116377749081824711",
+      "addedAt": "2026-10-31T03:54:32.356Z"
+    }
+  ]
 }
