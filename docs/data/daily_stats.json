@@ -1,10 +1,10 @@
 {
   "date": "2026-10-31",
   "lastDigestSentDate": "2026-10-31",
-  "totalScanned": 31,
-  "matchedFilters": 3,
+  "totalScanned": 32,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 2,
+    "wordpress developer": 3,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022116641888002767300",
       "addedAt": "2026-10-31T21:24:32.564Z"
+    },
+    {
+      "title": "WordPress Website Rebuild & Migration — Existing Real Estate Brokerage Website",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022116643226311337010",
+      "addedAt": "2026-10-31T21:36:32.166Z"
     }
   ]
 }

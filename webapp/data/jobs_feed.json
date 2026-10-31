@@ -1,5 +1,35 @@
 [
   {
+    "id": "2116643226311337010",
+    "ciphertext": "~022116643226311337010",
+    "title": "WordPress Website Rebuild & Migration — Existing Real Estate Brokerage Website",
+    "description": "We are an established Canadian real estate brokerage seeking an experienced WordPress developer to rebuild our existing website on a fresh, secure and optimized WordPress installation.\n\nOur current website was built using WordPress and Elementor. Unfortunately, it has become outdated and has experienced security vulnerabilities, malware-related issues, performance problems and plugin conflicts.\n\nWe have completed a detailed 10-page website audit, which is attached for reference.\n\nOur objective is to rebuild the existing website while preserving its current design, branding, content and essential functionality. We are not looking for a complete redesign or rebranding.\n\nScope of Work\n\n1. Fresh WordPress Installation\n- Set up a new, secure WordPress installation on reliable hosting.\n- Configure a supported PHP version.\n- Use a lightweight theme and minimize unnecessary plugins.\n- Ensure no malicious code is transferred from the existing website.\n\n2. Website Recreation\n- Recreate the existing website's design and layout.\n- Preserve branding, logos, content and approved images.\n- Restore navigation menus and missing features.\n- Improve mobile responsiveness.\n- Correct existing layout, font, footer and functionality issues",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-migration",
+      "elementor",
+      "wordpress",
+      "web-programming",
+      "php"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nI can help you cleanly rebuild and migrate your Canadian real estate brokerage website onto a fresh, secure WordPress environment without carrying over any of the current security vulnerabilities or malware. \n\nWith extensive experience rebuilding Elementor-based sites and performing complex migrations, I specialize in stripping out bloat, fixing layout/mobile responsiveness issues, and optimizing performance using lightweight themes. You can review one of my recent full-site builds here: https://www.thelifeyoucansave.org/.\n\nMy approach focuses on following your 10-page audit meticulously to ensure all content, branding, and functionality are preserved while resolving all existing plugin conflicts and security gaps.\n\nWould you be open to sharing the audit so I can review the exact scope and provide a precise timeline?",
+    "publishedDateTime": "2026-10-31T21:32:29+0000",
+    "addedAt": "2026-10-31T21:36:33.422Z",
+    "url": "https://www.upwork.com/jobs/~022116643226311337010",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116643226311337010/apply/"
+  },
+  {
     "id": "2116641888002767300",
     "ciphertext": "~022116641888002767300",
     "title": "WordPress Developer – Enhance  Arts Guide, Searchable Archive & Digital Exhibition Trails",
