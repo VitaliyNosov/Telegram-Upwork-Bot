@@ -1,5 +1,31 @@
 [
   {
+    "id": "2116546634891797554",
+    "ciphertext": "~022116546634891797554",
+    "title": "Google Policy & Account Recovery Specialist",
+    "description": "We are looking for an experienced specialist to investigate and resolve product compliance and account-related issues within Google Merchant Center.\n\nThe project involves reviewing product data, website content, catalog feeds, and Google policy requirements to identify underlying issues and implement effective corrective actions.\n\nExperience with WooCommerce, product eligibility, Merchant Center policy enforcement, and complex account troubleshooting is essential.\n\nPlease describe relevant projects you have personally handled, your approach to diagnosing these issues, and the results achieved.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce"
+    ],
+    "score": 3550,
+    "coverLetter": "Hi!\n\nI can help you investigate and resolve your Google Merchant Center policy enforcements, product eligibility issues, and account warnings. \n\nWhile my primary core expertise is WordPress, WooCommerce, and backend troubleshooting, I frequently work with clients to audit WooCommerce product data, fix feed synchronization errors, and align website content with strict platform compliance requirements (such as Google and payment gateways) to restore suspended accounts and rejected products. \n\nTo tackle this, I typically start with a comprehensive audit of your product data attributes, structured data, feed rules, and site policies to pinpoint the exact compliance violations triggering the enforcement, followed by systematic corrections and a request for manual review.\n\nCould you share whether your Merchant Center is currently facing a full account suspension or specific item-level disapprovals?",
+    "publishedDateTime": "2026-10-31T15:04:12+0000",
+    "addedAt": "2026-10-31T15:08:36.875Z",
+    "url": "https://www.upwork.com/jobs/~022116546634891797554",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116546634891797554/apply/"
+  },
+  {
     "id": "2116377749081824711",
     "ciphertext": "~022116377749081824711",
     "title": "RUSH Project | WooCommerce Site Speed Optimization | 2-DAY TURNOVER",

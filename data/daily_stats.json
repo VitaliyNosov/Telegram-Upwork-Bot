@@ -1,12 +1,20 @@
 {
   "date": "2026-10-31",
   "lastDigestSentDate": "2026-10-30",
-  "totalScanned": 16,
-  "matchedFilters": 1,
+  "totalScanned": 17,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 1,
+    "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Google Policy & Account Recovery Specialist",
+      "budget": "$15-$35/hr",
+      "score": 3550,
+      "url": "https://www.upwork.com/jobs/~022116546634891797554",
+      "addedAt": "2026-10-31T15:08:34.487Z"
+    },
     {
       "title": "RUSH Project | WooCommerce Site Speed Optimization | 2-DAY TURNOVER",
       "budget": "Fixed-price",
