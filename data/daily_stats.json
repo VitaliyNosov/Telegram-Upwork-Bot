@@ -1,10 +1,10 @@
 {
   "date": "2026-11-01",
   "lastDigestSentDate": "2026-10-31",
-  "totalScanned": 20,
-  "matchedFilters": 4,
+  "totalScanned": 21,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022116955312453146227",
       "addedAt": "2026-11-01T18:11:13.288Z"
+    },
+    {
+      "title": "WordPress & DigitalOcean Specialist Needed | Server, PHP, GitHub & Staging Setup",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022116957944363980970",
+      "addedAt": "2026-11-01T18:21:12.409Z"
     }
   ]
 }

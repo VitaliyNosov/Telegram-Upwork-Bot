@@ -1,5 +1,37 @@
 [
   {
+    "id": "2116957944363980970",
+    "ciphertext": "~022116957944363980970",
+    "title": "WordPress & DigitalOcean Specialist Needed | Server, PHP, GitHub & Staging Setup",
+    "description": "We're looking for an experienced WordPress, PHP and Linux/DevOps specialist to help modernise and optimise the infrastructure behind Creative Minds, a UK-based creative arts organisation.\n\nOur website is custom-built on WordPress, hosted on a DigitalOcean Droplet, and includes artist profiles, dashboards, event bookings, Stripe Connect payments and several bespoke plugins.\n\nThe project will involve:\n\n- DigitalOcean: Recover SSH/root access, review security, investigate storage usage and upgrade Droplet capacity.\n- Website upgrades: Update PHP, WordPress and plugins, ensuring compatibility with existing custom functionality.\n- GitHub: Retrieve and organise our complete custom source code in a private repository.\n- Staging: Establish a secure staging environment for testing changes before deploying to the live website.\n- Stripe: Review and resolve any existing Stripe Connect, booking and payout integration issues.\n- Performance & security: Optimise the server and website, establish reliable backups and address vulnerabilities.\n- Deployment: Configure a safe GitHub-to-staging-to-production workflow with rollback capabilities.\n- Handover: Provide documentation and guidance so we can manage future website improvements more independently.\n\nThe website is currently live, so minimising downtime and protecting existing functionality are essential.\n\nWe're seeking someone with strong experience in DigitalOcean, Ubuntu, custom WordPress/PHP development, GitHub, Stripe Connect and staging environments.\n\nThis is a one-off project with potential for ongoing support. Please share your relevant experience, examples of similar work and an indicative cost. A detailed scope can be provided to shortlisted candidates.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.84,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 35,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "github",
+      "wordpress",
+      "linux-system-administration",
+      "digital-ocean",
+      "php",
+      "mysql",
+      "stripe"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! \n\nI can help modernise and secure your DigitalOcean and WordPress infrastructure for Creative Minds while ensuring zero downtime for your live site, custom artist dashboards, and Stripe Connect payments. \n\nWith deep expertise in WordPress, PHP, Linux system administration, and DigitalOcean droplets, I regularly handle complex backend migrations, server optimization, and Git version control workflows. I can quickly step in to recover your SSH access, set up a proper GitHub-to-staging-to-production pipeline, update your PHP/WordPress stack safely, and troubleshoot your Stripe Connect integration. \n\nYou can view examples of my work on complex custom WordPress builds here: https://www.thelifeyoucansave.org/\n\nLet’s connect in the chat to review the specifics of your droplet and outline an action plan.",
+    "publishedDateTime": "2026-11-01T18:18:05+0000",
+    "addedAt": "2026-11-01T18:21:13.443Z",
+    "url": "https://www.upwork.com/jobs/~022116957944363980970",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116957944363980970/apply/"
+  },
+  {
     "id": "2116955312453146227",
     "ciphertext": "~022116955312453146227",
     "title": "Build a Website for an Event",
