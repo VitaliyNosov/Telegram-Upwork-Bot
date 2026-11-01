@@ -1,5 +1,34 @@
 [
   {
+    "id": "2116955312453146227",
+    "ciphertext": "~022116955312453146227",
+    "title": "Build a Website for an Event",
+    "description": "We need a developer to create a simple, responsive website for an event. The site should include a homepage, event details, registration page, and contact section. We want clean design, smooth navigation, and mobile-friendly layout. Please share relevant examples of similar projects and your approach to building a polished, user-friendly event site.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html5"
+    ],
+    "score": 99,
+    "coverLetter": "Hi!\n\nI can help you build a clean, responsive, and user-friendly website for your upcoming event, featuring a smooth homepage, clear event details, a seamless registration page, and a contact section. \n\nWith extensive experience in custom WordPress and front-end development, I focus on delivering mobile-friendly layouts, fast loading speeds, and intuitive navigation that drives registrations. For instance, I built sites like https://www.thelifeyoucansave.org/, focusing on clean design and effortless user experiences.\n\nMy approach is straightforward: we map out the essential pages, implement a responsive layout tailored to your event branding, and optimize everything for performance before launch. \n\nDo you already have a design (like Figma) ready, or should we work from a structured layout? Let’s chat about your timeline!",
+    "publishedDateTime": "2026-11-01T18:07:42+0000",
+    "addedAt": "2026-11-01T18:11:14.408Z",
+    "url": "https://www.upwork.com/jobs/~022116955312453146227",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116955312453146227/apply/"
+  },
+  {
     "id": "2116948709158549956",
     "ciphertext": "~022116948709158549956",
     "title": "11 template pages elementor website",
