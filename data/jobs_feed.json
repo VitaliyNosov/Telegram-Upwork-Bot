@@ -1,5 +1,35 @@
 [
   {
+    "id": "2116958299294374058",
+    "ciphertext": "~022116958299294374058",
+    "title": "Senior WooCommerce PHP Developer — Custom Digital Sales",
+    "description": "Senior WooCommerce PHP Developer — Existing WordPress Digital Artwork Website\nI am looking for an experienced independent WooCommerce/PHP developer to add digital artwork sales to my existing WordPress website.\nThe website is already built using WordPress, Oxygen Builder, Meta Box and custom artwork publishing systems.\nThis is not a website redesign. The existing Image and Poster systems are complete. I need WooCommerce integrated into them.\nMilestone 1 — Commerce and Secure Downloads\n•\tConfigure WooCommerce, customer accounts, Stripe and PayPal test payments.\n•\tAutomatically create and maintain WooCommerce products when new artwork is published.\n•\tImplement four global prices and one simple scheduled percentage sale control.\n•\tSecurely deliver purchased 1x, 2x and 4x JPEG files from existing protected storage, including very large files.\n•\tPreserve order records, customer licenses, download permissions and refund behavior.\n•\tConfigure useful native WooCommerce sales reports.\n•\tTest the complete private sales foundation.\n\nMilestone 2 — Storefront and Launch\n•\tAdd Personal/Commercial license selection and Add to Cart to existing Oxygen artwork pages.\n•\tConfigure native Cart, Checkout and My Account pages.\n•\tSupport customer registration during checkout.\n•\tConnect existing legal/license pages and preserve each customer's accepted license terms.\n•\tConfigure transactional emails, live Stripe and PayPal payments.\n•\tComplete testing and launch after approval.\n\nRequired Experience\nStrong experience with custom WooCommerce PHP development, WordPress custom post types, secure digital downloads, WooCommerce orders and payment integrations.\nOxygen Builder experience is preferred.\nProject Requirements\n•\tReuse existing systems wherever possible.\n•\tAvoid unnecessary plugins and paid extensions.\n•\tPreserve existing website design and functionality.\n•\tInclude testing, correction of in-scope issues and documentation.\n•\tProvide maintainable code and clear communication.\n•\tComplete the work in two fixed-price milestones.\n\nI have detailed documents and instructions explaining everything in greater detail which I will give later to the top applicants.\n\nPlease provide two relevant examples of custom WooCommerce work and your proposed approach to this job. \n\nI prefer to work directly with one independent developer doing all the work. If you are an agency or a team please do not apply.\n\nI look forward to hearing from you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 393,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "php",
+      "wordpress-plugin",
+      "api-integration",
+      "wordpress"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! I am an independent WordPress and WooCommerce PHP developer—no agencies, just direct collaboration with me. \n\nYour requirement to integrate WooCommerce into an existing custom post type artwork publishing system while handling secure, large digital file downloads (1x, 2x, 4x JPEGs) and automated product creation aligns perfectly with my core expertise. I frequently build custom WooCommerce workflows using hooks, custom tables, and API integrations rather than relying on bloated plugins. \n\nWhile I work primarily with page builders like Oxygen, Gutenberg, and ACF, my focus is always on clean PHP, maintainable code, and preserving your existing architecture. For instance, you can review my custom WooCommerce and WordPress implementations on sites like https://www.thelifeyoucansave.org/.\n\nTo tackle your milestones, my approach will be to hook into your custom publishing actions to auto-generate WooCommerce simple products, implement robust digital asset protection for large files, and cleanly integrate Stripe/PayPal alongside your license terms. \n\nWould you like to share the detailed documentation so I can review the specific architecture before we get started?",
+    "publishedDateTime": "2026-11-01T18:19:29+0000",
+    "addedAt": "2026-11-01T18:23:11.052Z",
+    "url": "https://www.upwork.com/jobs/~022116958299294374058",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116958299294374058/apply/"
+  },
+  {
     "id": "2116957944363980970",
     "ciphertext": "~022116957944363980970",
     "title": "WordPress & DigitalOcean Specialist Needed | Server, PHP, GitHub & Staging Setup",
