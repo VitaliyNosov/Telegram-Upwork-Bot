@@ -1,67 +1,8 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "lastDigestSentDate": "2026-11-01",
-  "totalScanned": 26,
-  "matchedFilters": 8,
-  "byKeyword": {
-    "wordpress developer": 8
-  },
-  "topJobs": [
-    {
-      "title": "Web Developer Needed for Local Business Website",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022116833615641286948",
-      "addedAt": "2026-11-01T10:07:10.675Z"
-    },
-    {
-      "title": "Experienced WordPress / BuddyBoss / Elementor Developer",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022116675749237856426",
-      "addedAt": "2026-10-31T23:38:33.736Z"
-    },
-    {
-      "title": "11 template pages elementor website",
-      "budget": "Fixed-price",
-      "score": 149,
-      "url": "https://www.upwork.com/jobs/~022116948709158549956",
-      "addedAt": "2026-11-01T17:45:11.982Z"
-    },
-    {
-      "title": "Senior WooCommerce PHP Developer — Custom Digital Sales",
-      "budget": "Fixed-price",
-      "score": 149,
-      "url": "https://www.upwork.com/jobs/~022116958299294374058",
-      "addedAt": "2026-11-01T18:23:09.519Z"
-    },
-    {
-      "title": "Dental Website Designer Developer- Mobil optimization, Local SEO and patient conversion",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022116970348359856585",
-      "addedAt": "2026-11-01T19:09:10.261Z"
-    },
-    {
-      "title": "Web Developer for Website Redesign",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022116979605931176393",
-      "addedAt": "2026-11-01T19:47:13.655Z"
-    },
-    {
-      "title": "Build a Website for an Event",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022116955312453146227",
-      "addedAt": "2026-11-01T18:11:13.288Z"
-    },
-    {
-      "title": "WordPress & DigitalOcean Specialist Needed | Server, PHP, GitHub & Staging Setup",
-      "budget": "Fixed-price",
-      "score": 97,
-      "url": "https://www.upwork.com/jobs/~022116957944363980970",
-      "addedAt": "2026-11-01T18:21:12.409Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
