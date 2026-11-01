@@ -1,10 +1,10 @@
 {
   "date": "2026-11-01",
   "lastDigestSentDate": "2026-10-31",
-  "totalScanned": 23,
-  "matchedFilters": 6,
+  "totalScanned": 24,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022116958299294374058",
       "addedAt": "2026-11-01T18:23:09.519Z"
+    },
+    {
+      "title": "Dental Website Designer Developer- Mobil optimization, Local SEO and patient conversion",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022116970348359856585",
+      "addedAt": "2026-11-01T19:09:10.261Z"
     },
     {
       "title": "Build a Website for an Event",
