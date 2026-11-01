@@ -1,12 +1,19 @@
 {
   "date": "2026-11-01",
   "lastDigestSentDate": "2026-10-31",
-  "totalScanned": 9,
-  "matchedFilters": 1,
+  "totalScanned": 10,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Web Developer Needed for Local Business Website",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022116833615641286948",
+      "addedAt": "2026-11-01T10:07:10.675Z"
+    },
     {
       "title": "Experienced WordPress / BuddyBoss / Elementor Developer",
       "budget": "Fixed-price",

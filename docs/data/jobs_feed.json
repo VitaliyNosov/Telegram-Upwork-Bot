@@ -1,5 +1,38 @@
 [
   {
+    "id": "2116833615641286948",
+    "ciphertext": "~022116833615641286948",
+    "title": "Web Developer Needed for Local Business Website",
+    "description": "We are looking for a skilled Web Developer to build a high-performing, mobile-friendly website for a local business client. The primary goal of this website is to help the client rank on the first page of Google Search and Google Maps quickly.\nYou will be responsible for creating a fast, responsive site and ensuring all local SEO best practices are integrated from day one.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 29,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php",
+      "godaddy",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! Building a high-performing site that ranks on Google Maps and Search requires more than just a template; it requires a lean, fast, and technically optimized foundation from the start.\n\nI specialize in building high-speed WordPress sites that meet Core Web Vitals standards—a critical factor for SEO rankings. I will ensure your client’s site is fully responsive, optimized for local search, and structured with clean code that search engines love. I have extensive experience with hosting environments like GoDaddy and can handle everything from the initial build to the technical backend setup required for fast indexing.\n\nYou can see an example of my work on https://www.snopud.com/, which showcases the clean, professional performance I bring to every project.\n\nAre you available for a quick chat to discuss the specific local SEO goals for this business?",
+    "publishedDateTime": "2026-11-01T10:04:01+0000",
+    "addedAt": "2026-11-01T10:07:23.876Z",
+    "url": "https://www.upwork.com/jobs/~022116833615641286948",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116833615641286948/apply/"
+  },
+  {
     "id": "2116675749237856426",
     "ciphertext": "~022116675749237856426",
     "title": "Experienced WordPress / BuddyBoss / Elementor Developer",
