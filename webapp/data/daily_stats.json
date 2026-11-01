@@ -1,10 +1,10 @@
 {
   "date": "2026-11-01",
   "lastDigestSentDate": "2026-10-31",
-  "totalScanned": 18,
-  "matchedFilters": 2,
+  "totalScanned": 19,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022116675749237856426",
       "addedAt": "2026-10-31T23:38:33.736Z"
+    },
+    {
+      "title": "11 template pages elementor website",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022116948709158549956",
+      "addedAt": "2026-11-01T17:45:11.982Z"
     }
   ]
 }

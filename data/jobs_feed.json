@@ -1,5 +1,32 @@
 [
   {
+    "id": "2116948709158549956",
+    "ciphertext": "~022116948709158549956",
+    "title": "11 template pages elementor website",
+    "description": "We’re looking for an experienced WordPress developer to build a website using Elementor.\n\nWe’ve already created approximately 11–12 page template designs using ChatGPT. These will be supplied as visual references, and we need someone with strong attention to detail to turn them into a fully functioning, responsive website.\n\nWhat we need:\n\n- Recreate the supplied designs closely, including layouts, fonts, colours and spacing.\n- Build reusable page templates using Elementor.\n- Limited use of Plugins.\n- Make the website work smoothly across desktop, tablet and mobile.\n- Set up the header, footer, navigation and contact forms.\n- Keep the website fast, well structured and easy for our team to edit.\n- Check for layout issues, broken links and form functionality before handover.\n\nThe pages should be editable through Elementor’s drag-and-drop interface, with custom code kept to a minimum. Please note that the references are ChatGPT-created designs, rather than layered Figma files.\n\nTo apply, please send:\n\n- Two or three examples of Elementor websites you’ve built.\n- Your fixed price for the project.\n- Your availability and estimated turnaround time.\n\nWe’re a digital agency, so there’s potential for ongoing work with the right person.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 205,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! \n\nI can help you build your 11-page Elementor website, turning your ChatGPT visual references into a clean, responsive, and easily editable site while keeping plugin bloat to a minimum. \n\nWith extensive experience in Elementor bug fixes, site builds, and custom theme development, I focus on strict adherence to design layouts, typography, and spacing. I also ensure robust mobile responsiveness, proper header/footer/form setups, and optimized site speed so your team can manage content effortlessly moving forward. \n\nHere is one of my recent Elementor/WordPress builds: https://www.thelifeyoucansave.org/\n\nMy fixed price for building these 11 template pages is $[Insert Amount], and I can complete the project within [Insert Number] days starting [Insert Availability]. \n\nAre the content and assets ready to go, or would you like to discuss the page structure first?",
+    "publishedDateTime": "2026-11-01T17:41:20+0000",
+    "addedAt": "2026-11-01T17:45:13.234Z",
+    "url": "https://www.upwork.com/jobs/~022116948709158549956",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022116948709158549956/apply/"
+  },
+  {
     "id": "2116833615641286948",
     "ciphertext": "~022116833615641286948",
     "title": "Web Developer Needed for Local Business Website",
