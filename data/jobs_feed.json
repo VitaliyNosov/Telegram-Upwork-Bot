@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117322560787980873",
+    "ciphertext": "~022117322560787980873",
+    "title": "Website Blog Automation Specialist",
+    "description": "We need a freelancer to automate our website blog using AI tools. The work includes setting up automated content creation, scheduling posts, and improving workflow efficiency. You should be able to recommend the best tools, configure the system, and ensure everything runs smoothly. Experience with website automation and AI-powered workflows is important. This is a part-time project for someone who can help streamline our blog process and support ongoing improvements.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.65,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "web-programming",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 93,
+    "coverLetter": "Hi! \n\nI can help you build a seamless, automated blog workflow using AI tools and WordPress. \n\nWith deep expertise in WordPress development, custom post types, and API integrations, I regularly set up automated publishing pipelines that save teams hours of manual work. For this project, I will evaluate your current tech stack, recommend and connect the best AI content tools, and configure scheduled posting so your blog runs on autopilot while maintaining high content quality. \n\nI’ve built and optimized numerous content-heavy sites—for example, https://www.thelifeyoucansave.org/—and know how to structure WordPress backends for smooth editorial workflows. \n\nWhat AI tools or LLMs are you currently leaning toward, or would you like me to recommend a setup based on your goals?",
+    "publishedDateTime": "2026-11-02T18:27:58+0000",
+    "addedAt": "2026-11-02T18:29:17.877Z",
+    "url": "https://www.upwork.com/jobs/~022117322560787980873",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117322560787980873/apply/"
+  },
+  {
     "id": "2117310567502906300",
     "ciphertext": "~022117310567502906300",
     "title": "WordPress/PHP Expert Needed to Troubleshoot Intermittent 502 Errors",
