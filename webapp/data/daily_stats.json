@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 4600,
       "url": "https://www.upwork.com/jobs/~022117400969232785993",
       "addedAt": "2026-11-02T23:41:11.016Z"
+    },
+    {
+      "title": "Web Developer for Transportation Website",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022117401345272070183",
+      "addedAt": "2026-11-02T23:43:14.648Z"
     }
   ]
 }
