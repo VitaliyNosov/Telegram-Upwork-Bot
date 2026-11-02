@@ -1,12 +1,19 @@
 {
   "date": "2026-11-02",
   "lastDigestSentDate": "2026-11-01",
-  "totalScanned": 10,
-  "matchedFilters": 1,
+  "totalScanned": 11,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Full Stack Developer for Website",
+      "budget": "$15-$35/hr",
+      "score": 3595,
+      "url": "https://www.upwork.com/jobs/~022117119948525806642",
+      "addedAt": "2026-11-02T05:07:11.474Z"
+    },
     {
       "title": "Web Developer for Attorney and Real Estate Sites",
       "budget": "Fixed-price",

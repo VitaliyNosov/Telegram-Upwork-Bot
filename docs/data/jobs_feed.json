@@ -1,5 +1,31 @@
 [
   {
+    "id": "2117119948525806642",
+    "ciphertext": "~022117119948525806642",
+    "title": "Full Stack Developer for Website",
+    "description": "We need a full stack developer to add some pages and modify some pages on 2 Wordpress sites. We are looking for someone reliable, communicative, and able to work independently while delivering clean, functional results.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.77,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 348,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 3595,
+    "coverLetter": "Hi!\n\nI can help you add and modify pages across your two WordPress sites quickly and cleanly. Whether you need new layouts built out via Gutenberg, ACF, or your existing page builder, I ensure the code stays lightweight and the design remains pixel-perfect. \n\nI’m a full-stack WordPress developer with extensive experience managing multi-site updates, custom development, and seamless page additions without breaking existing functionality. You can see examples of my recent production WordPress builds here: https://www.seeintl.org/\n\nI’m reliable, communicate clearly, and can jump in independently to deliver functional results right away. \n\nCould you share a brief overview or wireframes of the pages you need added so I can estimate the turnaround time?",
+    "publishedDateTime": "2026-11-02T05:01:47+0000",
+    "addedAt": "2026-11-02T05:07:12.646Z",
+    "url": "https://www.upwork.com/jobs/~022117119948525806642",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117119948525806642/apply/"
+  },
+  {
     "id": "2117091814707442121",
     "ciphertext": "~022117091814707442121",
     "title": "Web Developer for Attorney and Real Estate Sites",
