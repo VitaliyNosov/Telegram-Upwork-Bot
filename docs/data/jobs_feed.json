@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117091814707442121",
+    "ciphertext": "~022117091814707442121",
+    "title": "Web Developer for Attorney and Real Estate Sites",
+    "description": "We need a web developer to build and maintain websites for attorney and real estate photography businesses. The work includes creating custom pages, improving site performance, and supporting ongoing updates. You should be comfortable working with existing WordPress sites, handling client requests, and delivering clean, professional results. Experience with similar business websites is important, and the role may include part-time ongoing support for multiple clients.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.77,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "seo",
+      "wordpress"
+    ],
+    "score": 95,
+    "coverLetter": "Hi!\n\nI can help you build, optimize, and maintain professional WordPress websites for your attorney and real estate photography clients. \n\nWith extensive experience in custom WordPress development, performance optimization, and ongoing site support, I focus on delivering clean, reliable, and fast-loading results tailored to professional service businesses. I am very comfortable jumping into existing sites, handling ad-hoc client requests, and ensuring everything runs smoothly. For instance, you can check out my work on sites like https://www.cchpca.org/ to see the level of quality I bring to the table.\n\nI'm looking for a long-term collaboration and can easily scale to handle ongoing support for multiple clients. \n\nWhen are you looking to kick off the first project, and how many sites currently need attention?",
+    "publishedDateTime": "2026-11-02T03:10:00+0000",
+    "addedAt": "2026-11-02T03:13:11.077Z",
+    "url": "https://www.upwork.com/jobs/~022117091814707442121",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117091814707442121/apply/"
+  },
+  {
     "id": "2116979605931176393",
     "ciphertext": "~022116979605931176393",
     "title": "Web Developer for Website Redesign",

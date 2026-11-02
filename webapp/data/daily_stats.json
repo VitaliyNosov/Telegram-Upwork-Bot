@@ -1,8 +1,18 @@
 {
   "date": "2026-11-02",
   "lastDigestSentDate": "2026-11-01",
-  "totalScanned": 6,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 7,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Web Developer for Attorney and Real Estate Sites",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022117091814707442121",
+      "addedAt": "2026-11-02T03:13:09.814Z"
+    }
+  ]
 }
