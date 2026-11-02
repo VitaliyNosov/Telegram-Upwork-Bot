@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117310567502906300",
+    "ciphertext": "~022117310567502906300",
+    "title": "WordPress/PHP Expert Needed to Troubleshoot Intermittent 502 Errors",
+    "description": "Title: WordPress/PHP Expert Needed to Troubleshoot Intermittent 502 Errors\n\nI’m seeking an experienced WordPress specialist to diagnose and resolve intermittent 502 Bad Gateway errors on thestylecore.com, hosted on SiteGround.\n\nThe errors began approximately one week ago and affect dashboard access. SiteGround and WordPress both confirm PHP 8.6.0 is running. SiteGround recommends switching to a stable PHP version, but I need someone to verify the cause and safely test compatibility with my theme, plugins, and WooCommerce.\n\nThe work includes reviewing error logs, verifying backups, testing changes on staging where appropriate, implementing the agreed repair, and checking essential website and checkout functions.\n\nPlease share:\n- A similar troubleshooting issue you have resolved.\n- Your experience with PHP compatibility, SiteGround, and WooCommerce.\n- Your availability.\n\nBudget: Initial two-hour diagnostic limit. Please provide findings and an estimate before proceeding beyond that limit. Live-site changes require approval.\n\nI’m seeking targeted troubleshooting and repairs. Ongoing maintenance may follow.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$20 - $50/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.62,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 32,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "woocommerce",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 5142,
+    "coverLetter": "Hi! I can certainly help you stabilize thestylecore.com and resolve those intermittent 502 errors.\n\nI have extensive experience troubleshooting 502 Bad Gateway issues, which are often tied to PHP-FPM timeouts, memory limits, or database overhead on hosting environments like SiteGround. My process involves isolating the trigger—whether it’s a plugin conflict, a specific PHP version incompatibility, or resource exhaustion—by analyzing the server error logs and process manager activity. I am very comfortable with SiteGround’s environment and have successfully managed complex PHP version transitions for WooCommerce sites like thelifeyoucansave.org to ensure zero downtime.\n\nI will follow your two-hour diagnostic limit to provide a clear root-cause analysis and a safe path forward before any live-site changes occur. Are you currently seeing these errors triggered by specific actions, such as saving a product or running an import?",
+    "publishedDateTime": "2026-11-02T17:40:07+0000",
+    "addedAt": "2026-11-02T17:41:26.026Z",
+    "url": "https://www.upwork.com/jobs/~022117310567502906300",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117310567502906300/apply/"
+  },
+  {
     "id": "2117269231193865318",
     "ciphertext": "~022117269231193865318",
     "title": "WordPress ADA / WCAG Accessibility Specialist Needed for Dental Website",
