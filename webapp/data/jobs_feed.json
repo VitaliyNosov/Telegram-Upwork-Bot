@@ -1,5 +1,36 @@
 [
   {
+    "id": "2117269231193865318",
+    "ciphertext": "~022117269231193865318",
+    "title": "WordPress ADA / WCAG Accessibility Specialist Needed for Dental Website",
+    "description": "We're looking for an experienced ADA / WCAG accessibility specialist to help ensure a newly built WordPress website for a dental practice meets accessibility best practices.\n\nThe website is currently in the final review stages before launch, and we'd like someone to review it, identify any accessibility issues, implement necessary fixes, and help us create an appropriate accessibility statement for the website.\n\nScope of Work:\n\nConduct a full accessibility audit of the WordPress website.\n\nReview the website against WCAG 2.2 Level AA guidelines.\n\nIdentify and fix accessibility issues, including color contrast, image alt text, keyboard navigation, forms, buttons, headings, and screen reader compatibility.\n\nReview desktop and mobile accessibility.\n\nTest important pages, including the homepage, service pages, contact forms, and appointment scheduling functionality.\n\nEnsure accessibility improvements don't negatively affect the website's design, functionality, or SEO.\n\nDraft and help implement an accessibility statement for the website.\n\nProvide a final report outlining the issues identified, fixes completed, and any outstanding recommendations.\n\nRequirements:\n\nExperience with WordPress accessibility audits and remediation.\n\nStrong understanding of WCAG 2.1/2.2 Level AA and ADA website accessibility.\n\nAbility to implement fixes directly in WordPress.\n\nExperience with accessibility testing tools and manual testing.\n\nExperience with healthcare or dental websites is a plus.\n\nWhen Applying:\n\nPlease share:\n\nYour experience with WordPress ADA / WCAG accessibility projects.\n\nExamples of similar websites you've audited or remediated.\n\nYour process for testing and fixing accessibility issues.\n\nYour estimated cost and turnaround time for a project like this.\n\nWe're looking for someone who can help us get the website into the best possible shape before launch and provide clear documentation of the work completed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "frontend-development",
+      "web-content-accessibility-guidelines-wcag",
+      "accessibility",
+      "html",
+      "wordpress",
+      "usability-testing"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you audit and remediate your new dental practice WordPress site to fully comply with WCAG 2.2 Level AA and ADA standards before your launch. \n\nWith deep experience in WordPress frontend development, I regularly handle accessibility audits and hands-on code fixes—addressing everything from keyboard navigation, screen reader compatibility, and form labels to color contrast and heading structures—without breaking your site’s custom design or SEO. \n\nMy process combines automated tooling with thorough manual testing across desktop and mobile, focusing heavily on critical user journeys like appointment scheduling. I also provide a clear accessibility statement and a final report detailing all fixes.\n\nTo give you an accurate estimate, how many total pages does the site have? Let's chat about getting your site launch-ready.",
+    "publishedDateTime": "2026-11-02T14:55:00+0000",
+    "addedAt": "2026-11-02T14:57:15.668Z",
+    "url": "https://www.upwork.com/jobs/~022117269231193865318",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117269231193865318/apply/"
+  },
+  {
     "id": "2117235107946013720",
     "ciphertext": "~022117235107946013720",
     "title": "Website Redesign with Guidance",

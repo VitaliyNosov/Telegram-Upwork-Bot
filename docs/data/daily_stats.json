@@ -1,10 +1,10 @@
 {
   "date": "2026-11-02",
   "lastDigestSentDate": "2026-11-01",
-  "totalScanned": 27,
-  "matchedFilters": 3,
+  "totalScanned": 29,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 3
+    "wordpress developer": 4
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022117235107946013720",
       "addedAt": "2026-11-02T12:43:12.292Z"
+    },
+    {
+      "title": "WordPress ADA / WCAG Accessibility Specialist Needed for Dental Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022117269231193865318",
+      "addedAt": "2026-11-02T14:57:14.493Z"
     },
     {
       "title": "Web Developer for Attorney and Real Estate Sites",
