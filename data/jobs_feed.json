@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117349103589401161",
+    "ciphertext": "~022117349103589401161",
+    "title": "Figma to Wordpress Development",
+    "description": "We're looking for an experienced WordPress developer to build a one-page website from an existing, finalized design.\n\nThe design is complete. We need someone who can develop it accurately, make it fully responsive, and ensure it's easy for our team to manage after launch.\n\nProject Requirements\n\nWordPress Development: Build the website in WordPress, closely matching the supplied design, including typography, spacing, layouts, and visual details.\n\nResponsive Development: Ensure the site looks and functions great across desktop, tablet, and mobile.\n\nEditable Content: All text, images, buttons, and other content must be easily editable through WordPress without touching code.\n\nRe-orderable Sections: We need to be able to move entire sections up or down the page without developer assistance or breaking the layout.\n\nUtility Page Template: Create a reusable template for standard pages such as Privacy Policy and Terms & Conditions.\n\nInteractions: Implement any hover effects, transitions, or animations included in the design.\n\nPerformance: Optimize the site for fast loading, basic SEO, and accessibility.\n\nClean Build: Use a lightweight, maintainable approach without unnecessary plugins or dependencies.\n\nTesting & Launch: Test across major browsers and devices, resolve issues, and assist with launching the site.\n\nWordPress Requirements\n\nWe want a straightforward editing experience for nontechnical users.\n\nWe're open to Gutenberg, ACF, or another well-structured approach. Our priority is a clean, reliable website that's easy to maintain and doesn't require a developer for routine updates.\n\nWe prefer to avoid overly complex page builders and unnecessary third-party dependencies.\n\nDeliverables\n\nFully developed and responsive WordPress website\n\nEditable and re-orderable page sections\n\nReusable utility page template\n\nAll functionality and interactions shown in the design\n\nFull WordPress administrative access and ownership of custom code\n\nBrief documentation or walkthrough for managing the site\n\nPost-launch support for bug fixes\n\nTo apply please provide:\n\nPortfolio: 2–3 examples of WordPress websites you've developed from completed designs.\n\nDevelopment Approach: Which WordPress tools or frameworks would you use, and how would you handle editable content and reorderable sections?\n\nTimeline: Your estimated turnaround time from kickoff to launch.\n\nBudget: Your fixed-price quote for the complete project.\n\nWe'll provide the finalized design files and necessary assets for review. Please review the design before confirming your quote.\n\nWe're looking for someone who pays close attention to design details, communicates clearly, and delivers clean, reliable work.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "web-programming",
+      "frontend-development"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nTo bring your one-page design to life cleanly, I would build this using a lightweight custom Gutenberg block setup paired with Advanced Custom Fields (ACF). This approach gives your team exactly what you need: a native, bloat-free editing experience where every section is fully editable and easily re-orderable without touching code. \n\nFor past work converting designs into pixel-perfect, maintainable WordPress sites, you can check out https://www.thelifeyoucansave.org/. \n\nMy estimated turnaround for a project of this scope is typically around 1 to 2 weeks from kickoff to launch, and my fixed-price quote for the complete build is $[Insert Amount]. \n\nWould you like to share the Figma file so I can review the layout and confirm the exact timeline and quote?",
+    "publishedDateTime": "2026-11-02T20:13:24+0000",
+    "addedAt": "2026-11-02T20:15:19.960Z",
+    "url": "https://www.upwork.com/jobs/~022117349103589401161",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117349103589401161/apply/"
+  },
+  {
     "id": "2117344309335451749",
     "ciphertext": "~022117344309335451749",
     "title": "Senior Magento 2 / WooCommerce Developer – PHP, Linux, Server Administration & Performance",
