@@ -1,10 +1,11 @@
 {
   "date": "2026-11-02",
   "lastDigestSentDate": "2026-11-01",
-  "totalScanned": 50,
-  "matchedFilters": 7,
+  "totalScanned": 51,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 7,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -20,6 +21,13 @@
       "score": 3595,
       "url": "https://www.upwork.com/jobs/~022117119948525806642",
       "addedAt": "2026-11-02T05:07:11.474Z"
+    },
+    {
+      "title": "Senior Magento 2 / WooCommerce Developer – PHP, Linux, Server Administration & Performance",
+      "budget": "Fixed-price",
+      "score": 142,
+      "url": "https://www.upwork.com/jobs/~022117344309335451749",
+      "addedAt": "2026-11-02T19:57:12.325Z"
     },
     {
       "title": "Website Redesign with Guidance",
