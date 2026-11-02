@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117235107946013720",
+    "ciphertext": "~022117235107946013720",
+    "title": "Website Redesign with Guidance",
+    "description": "I need a designer to help redesign a website with direction and guidance. The goal is to duplicate an existing site and transfer data from the old site into the new design. I’m looking for someone who can follow direction, recreate the layout, and ensure the final site looks clean and professional. Please share relevant examples of similar projects and your approach to handling this type of redesign work.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you cleanly redesign your website while preserving your existing data and structure. \n\nMy approach to a duplication-and-redesign project like this is straightforward: I set up a staging environment to build and refine the new layout alongside your current site, ensuring zero downtime. Once you're happy with the design direction, I handle the data migration, test all functionalities, and seamlessly push the new site live. \n\nAs a WordPress developer with extensive experience recreating layouts and handling site migrations (for instance, my work on https://www.seeintl.org/), I focus on delivering a clean, professional finish while following your exact guidance.\n\nWhat is the current platform your site is built on, and do you already have the new design mockups ready? Let's chat about the details!",
+    "publishedDateTime": "2026-11-02T12:40:15+0000",
+    "addedAt": "2026-11-02T12:43:13.450Z",
+    "url": "https://www.upwork.com/jobs/~022117235107946013720",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117235107946013720/apply/"
+  },
+  {
     "id": "2117119948525806642",
     "ciphertext": "~022117119948525806642",
     "title": "Full Stack Developer for Website",
