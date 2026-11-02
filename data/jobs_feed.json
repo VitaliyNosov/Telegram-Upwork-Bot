@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117400969232785993",
+    "ciphertext": "~022117400969232785993",
+    "title": "Agency Website Redesign",
+    "description": "I need a freelancer to redesign my agency website to improve its visual appeal and user experience. The project includes updating almost all the page, while keeping the site functional and easy to navigate. I’m looking for someone who can create a modern, clean design and help implement the changes smoothly. \n\nWebsite url: https://uratechnology.com/",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 45,
+    "budgetDisplay": "$30 - $45/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 12,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html5"
+    ],
+    "score": 4600,
+    "coverLetter": "Hi!\n\nI checked out uratechnology.com and can help you modernize your agency's website to significantly improve its visual appeal, layout structure, and overall user experience. \n\nWith extensive experience in custom WordPress development, theme design implementation, and converting layouts into clean, high-performing sites, I focus on creating modern, professional digital spaces that remain fast, functional, and easy to navigate. I frequently handle full site overhauls while ensuring all backend functionality and content workflows transition smoothly. \n\nYou can review a similar custom WordPress build I delivered here: https://about.offerup.com/\n\nAre you looking to stick with your current page builder/theme setup for the redesign, or are you open to moving to a cleaner stack (like Gutenberg with ACF)? Let’s discuss how we can bring your new vision to life.",
+    "publishedDateTime": "2026-11-02T23:38:27+0000",
+    "addedAt": "2026-11-02T23:41:12.623Z",
+    "url": "https://www.upwork.com/jobs/~022117400969232785993",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117400969232785993/apply/"
+  },
+  {
     "id": "2117349103589401161",
     "ciphertext": "~022117349103589401161",
     "title": "Figma to Wordpress Development",
