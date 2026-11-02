@@ -1,5 +1,32 @@
 [
   {
+    "id": "2117324459960501180",
+    "ciphertext": "~022117324459960501180",
+    "title": "Update child theme for Vantage theme by AppThemes",
+    "description": "I have a WordPress website that uses a child theme and the Vantage theme by AppThemes. After updating the Vantage theme on a staging site, the update caused problems on the Home page. This seems to be my only problem now. Everything else seems to be working properly. I need someone to update my child theme so that it displays properly. \n\nmilliondollartriallawyers.com displays correctly. \nstaging.milliondollartriallawyers.com displays incorrectly. \n\nI was unaware that the Vantage theme was no longer receiving updates. After a recent WordPress update, the site works correctly on the front end and admin dashboard, but when I click on Listings in the admin dashboard, I can see the listings, but I cannot see the content of the listings. \n\nI posted on the AppThemes forum and asked what to do. I followed the instructions below and created a staging site where I duplicated the website and updated the Vantage theme to the new Vantage theme. I can now see the content of the listings in the admin dashboard, however, the home page doesn't display properly on the front end. \n\nParagraph 4, below, of the instructions I was given indicate that the problem may be with the template files the child theme overrides and is causing layout problems.\n\nThese are the instructions I was given:\n\nYes, updating is the right move. Vantage 3.0.9 is a very old release and wasn't written for current WordPress. That mismatch is the most likely reason listing content no longer shows in the admin while the front end still works.\n\nTo update safely:\n\n1. *Back up first.* Take a full backup of your files and database.\n2. *Download the latest Vantage* from your AppThemes account (My Account → Downloads).\n3. *Replace the parent theme.* Go to Appearance → Themes → Add New → Upload Theme and upload the zip. WordPress will see that Vantage is already installed and offer to replace it. Choose \"Replace current with uploaded\". Your child theme stays active, and your settings and listings are kept in the database. You can also do this over FTP by replacing the /wp-content/themes/vantage/ folder.\n4. *Check your child theme.* Vantage 4.x changed a lot from 3.x. Any template files your child theme overrides (copies of parent templates) may be outdated and could cause layout or functionality problems. If something looks wrong after the update, temporarily activate the Vantage parent theme to see whether the problem comes from the child theme. Then compare the overridden files against the new versions. If you have a staging site, it's best to test there first.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.65,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "wordpress-theme"
+    ],
+    "score": 93,
+    "coverLetter": "Hi! \n\nI can help you update your child theme so your home page displays correctly with the latest version of the Vantage theme, fixing the template file overrides causing the layout conflict. \n\nSince Vantage 4.x introduced significant structural changes compared to your old 3.0.9 release, the template files in your child theme need to be compared and updated to match the new parent theme architecture. As a WordPress developer with extensive experience troubleshooting theme updates, resolving PHP/layout conflicts, and fixing child theme overrides, I can quickly identify the conflicting templates on your staging site (`staging.milliondollartriallawyers.com`) and align them properly. \n\nWhenever you are ready, share temporary access to your staging site, and I can get this sorted out for you right away.",
+    "publishedDateTime": "2026-11-02T18:34:27+0000",
+    "addedAt": "2026-11-02T18:37:14.161Z",
+    "url": "https://www.upwork.com/jobs/~022117324459960501180",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117324459960501180/apply/"
+  },
+  {
     "id": "2117322560787980873",
     "ciphertext": "~022117322560787980873",
     "title": "Website Blog Automation Specialist",

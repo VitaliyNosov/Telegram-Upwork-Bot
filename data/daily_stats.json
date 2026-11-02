@@ -1,10 +1,10 @@
 {
   "date": "2026-11-02",
   "lastDigestSentDate": "2026-11-01",
-  "totalScanned": 45,
-  "matchedFilters": 6,
+  "totalScanned": 46,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 93,
       "url": "https://www.upwork.com/jobs/~022117322560787980873",
       "addedAt": "2026-11-02T18:29:16.635Z"
+    },
+    {
+      "title": "Update child theme for Vantage theme by AppThemes",
+      "budget": "Fixed-price",
+      "score": 93,
+      "url": "https://www.upwork.com/jobs/~022117324459960501180",
+      "addedAt": "2026-11-02T18:37:12.970Z"
     }
   ]
 }
