@@ -1,75 +1,8 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 58,
-  "matchedFilters": 9,
-  "byKeyword": {
-    "wordpress developer": 8,
-    "woocommerce": 1
-  },
-  "topJobs": [
-    {
-      "title": "WordPress/PHP Expert Needed to Troubleshoot Intermittent 502 Errors",
-      "budget": "$20-$50/hr",
-      "score": 5142,
-      "url": "https://www.upwork.com/jobs/~022117310567502906300",
-      "addedAt": "2026-11-02T17:41:12.181Z"
-    },
-    {
-      "title": "Full Stack Developer for Website",
-      "budget": "$15-$35/hr",
-      "score": 3595,
-      "url": "https://www.upwork.com/jobs/~022117119948525806642",
-      "addedAt": "2026-11-02T05:07:11.474Z"
-    },
-    {
-      "title": "Figma to Wordpress Development",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022117349103589401161",
-      "addedAt": "2026-11-02T20:15:10.218Z"
-    },
-    {
-      "title": "Senior Magento 2 / WooCommerce Developer – PHP, Linux, Server Administration & Performance",
-      "budget": "Fixed-price",
-      "score": 142,
-      "url": "https://www.upwork.com/jobs/~022117344309335451749",
-      "addedAt": "2026-11-02T19:57:12.325Z"
-    },
-    {
-      "title": "Website Redesign with Guidance",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022117235107946013720",
-      "addedAt": "2026-11-02T12:43:12.292Z"
-    },
-    {
-      "title": "WordPress ADA / WCAG Accessibility Specialist Needed for Dental Website",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022117269231193865318",
-      "addedAt": "2026-11-02T14:57:14.493Z"
-    },
-    {
-      "title": "Web Developer for Attorney and Real Estate Sites",
-      "budget": "Fixed-price",
-      "score": 95,
-      "url": "https://www.upwork.com/jobs/~022117091814707442121",
-      "addedAt": "2026-11-02T03:13:09.814Z"
-    },
-    {
-      "title": "Website Blog Automation Specialist",
-      "budget": "Fixed-price",
-      "score": 93,
-      "url": "https://www.upwork.com/jobs/~022117322560787980873",
-      "addedAt": "2026-11-02T18:29:16.635Z"
-    },
-    {
-      "title": "Update child theme for Vantage theme by AppThemes",
-      "budget": "Fixed-price",
-      "score": 93,
-      "url": "https://www.upwork.com/jobs/~022117324459960501180",
-      "addedAt": "2026-11-02T18:37:12.970Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
