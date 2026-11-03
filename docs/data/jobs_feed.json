@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117693534723819040",
+    "ciphertext": "~022117693534723819040",
+    "title": "Real Estate Website Redesign",
+    "description": "Scope of Work — redesign  (WordPress + Elementor, existing site):\n\nRedesign homepage per provided mockup\nMove a rebuilt home valuation call-to-action to the front page\nSimplify town pages (Hampton, Rye, North Hampton, Portsmouth) using one consistent template\nKeep and restyle the Buyer Guide, Seller Guide, and FAQ pages\nSimplify reviews/testimonials sitewide\nRebuild Contact page (short form, click-to-call/text, map)\nRebuild About Me page (personal format)\nRedesign header and footer; apply revised logo (provided)\nKeep current schema markups sitewide (RealEstateAgent/LocalBusiness, FAQ, reviews, listings)\nPreserve all content, URLs, and SEO; mobile-first and fast",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 41,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "web-design",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nI would love to help you modernize your real estate website while preserving your valuable SEO, schema markup, and existing content. I specialize in Elementor redesigns and clean, high-performance WordPress builds.\n\nFor a project like this, maintaining URL structures, safeguarding local schema, and ensuring a fast mobile-first experience are critical—especially for real estate lead generation. I have extensive experience rebuilding Elementor sites from mockups, standardizing templates (like your town and guide pages), and integrating seamless conversion elements such as click-to-call, maps, and streamlined valuation CTAs. \n\nYou can check out my work on similar custom WordPress builds like https://www.cchpca.org/. \n\nAre the mockups ready in Figma, and do you have a preferred timeline for launching the redesign? Let’s chat about the details!",
+    "publishedDateTime": "2026-11-03T19:01:01+0000",
+    "addedAt": "2026-11-03T19:10:52.881Z",
+    "url": "https://www.upwork.com/jobs/~022117693534723819040",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117693534723819040/apply/"
+  },
+  {
     "id": "2117689399529860057",
     "ciphertext": "~022117689399529860057",
     "title": "Website Transfer and Hosting Setup",

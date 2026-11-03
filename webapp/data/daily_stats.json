@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 48,
-  "matchedFilters": 14,
+  "totalScanned": 49,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 2
   },
   "topJobs": [
@@ -84,6 +84,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022117563675537580617",
       "addedAt": "2026-11-03T10:28:25.698Z"
+    },
+    {
+      "title": "Real Estate Website Redesign",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022117693534723819040",
+      "addedAt": "2026-11-03T19:10:51.523Z"
     },
     {
       "title": "Build customer portal + launch website for manufacturing company (design already done)",
