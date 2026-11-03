@@ -1,5 +1,33 @@
 [
   {
+    "id": "2117415458636086374",
+    "ciphertext": "~022117415458636086374",
+    "title": "WordPress Developer = Figma to Responsive Corporate Website",
+    "description": "We need an individual WordPress developer to implement an existing Figma design for a professional, multi-page GTC corporate website on our own Hostinger hosting. Fixed total budget: $700. Target completion: 10 calendar days after kickoff and delivery of final designs/content.\n\nPages: Home, Gold & Silver IRA, Precious Metals, Resources/FAQ, Blog, About, Contact, and legal/disclosure pages. Build only what is present in the approved designs and content. No e-commerce, custom apps, or unnecessary features/plugins.\n\nRequirements: accurate Figma-to-WordPress design and development; responsive layouts for mobile, tablet and desktop (check 320, 375, 390, 430, 768 px); editable standard pages and blog; clean navigation and functional contact form; efficient images/assets and minimal scripts; basic SEO metadata; deployment on our Hostinger account.\n\nall agreed pages delivered and editable, matching approved designs; no broken links, forms, horizontal scrolling or major layout issues; working on current Chrome, Safari, Firefox and Edge; documented mobile and desktop performance results including simulated 2G and 3G network tests; successful Hostinger deployment and WordPress admin handover; fixes for issues identified in final QA.\n\nTwo milestones only:\n1. Complete website design implementation and WordPress development: $650. All agreed pages, mobile/tablet/desktop layouts and functionality delivered for review. The freelancer organizes design and development internally; these are not separate payment milestones.\n2. Final QA, performance testing, fixes, and Hostinger deployment/handover: $50. Paid after final verification and launch.\n\nPlease share live WordPress sites you personally built, your Figma-to-WordPress approach, your proposed schedule, and confirm the $700 fixed budget. Start your proposal with the word GOLD. Individual freelancers only, no agencies.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.79,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 26,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 146,
+    "coverLetter": "GOLD! Hi there, I'd love to help you build your corporate GTC website on Hostinger within your 10-day timeline and $700 fixed budget. \n\nAs an individual WordPress developer, I specialize in turning Figma designs into pixel-perfect, fully responsive websites using clean code without bloated plugins. For this project, I will build your core pages (Home, Gold & Silver IRA, Precious Metals, Resources, Blog, About, Contact, and legals) ensuring smooth mobile responsiveness across all required breakpoints, optimized assets, and a fully editable backend. \n\nYou can check out one of my recent custom WordPress builds here: https://www.thelifeyoucansave.org/\n\nMy approach is straightforward: I'll set up the environment on your Hostinger account, develop the pages matching your exact Figma layouts, handle the basic SEO metadata and contact form integration, and run performance testing before the final handover. \n\nAre the Figma designs and content fully ready for review upon kickoff?",
+    "publishedDateTime": "2026-11-03T00:36:23+0000",
+    "addedAt": "2026-11-03T00:39:14.629Z",
+    "url": "https://www.upwork.com/jobs/~022117415458636086374",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117415458636086374/apply/"
+  },
+  {
     "id": "2117414589022546550",
     "ciphertext": "~022117414589022546550",
     "title": "WooCommerce product listing specialist",
