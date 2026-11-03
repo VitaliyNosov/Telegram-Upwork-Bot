@@ -1,5 +1,32 @@
 [
   {
+    "id": "2117414589022546550",
+    "ciphertext": "~022117414589022546550",
+    "title": "WooCommerce product listing specialist",
+    "description": "We’re looking for an experienced freelancer to upload products to our WooCommerce website. Each product has approximately 160–300 variations, including different finishes, sizes, and combinations.\n\nWe provide supplier price lists and catalogs. You’ll organize the variations, add images and descriptions, and make sure all SKUs, prices, and options are accurate.\n\nPlease share examples of similar work, your estimated turnaround time, and your fixed price per completed product, including all variations.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "product-listings",
+      "woocommerce"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nI can help you accurately upload and structure your products with complex variations. Managing 160–300 variations per product requires meticulous attention to detail with attributes, SKUs, pricing, and stock levels to prevent WooCommerce checkout issues.\n\nAs an experienced WooCommerce developer, I regularly handle complex catalog setups, bulk data management, and variable product configurations. I ensure all images, descriptions, and attribute combinations map correctly from supplier catalogs without breaking the backend. For a recent WordPress and e-commerce build example, you can check: https://www.thelifeyoucansave.org/\n\nCould you share how many total products you need to list, and do you have the data structured in CSV/Excel format already? \n\nLooking forward to getting this started for you.",
+    "publishedDateTime": "2026-11-03T00:32:41+0000",
+    "addedAt": "2026-11-03T00:35:12.039Z",
+    "url": "https://www.upwork.com/jobs/~022117414589022546550",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117414589022546550/apply/"
+  },
+  {
     "id": "2117412996315370391",
     "ciphertext": "~022117412996315370391",
     "title": "Wordpress security fix",
