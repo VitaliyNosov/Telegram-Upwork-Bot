@@ -1,5 +1,33 @@
 [
   {
+    "id": "2117495932850290727",
+    "ciphertext": "~022117495932850290727",
+    "title": "Build customer portal + launch website for manufacturing company (design already done)",
+    "description": "Our website and two portals are already designed and built as a working front end (HTML/CSS/JavaScript). We need a developer to connect them to a real backend and launch them.\n\nYou won’t be designing anything. Every screen is done, and there’s a developer handoff page listing the endpoints and data each screen needs. I’ll share the prototype link and source code with shortlisted applicants.\n\nWhat needs to be done:\n\nPhase 1: Launch the public website\n\nHost the site and connect our domain (npgmanufacturing.com) without breaking our Microsoft 365 email\nMake the Request a Quote form and the Careers job application form (with resume upload) send to our email\nBasic spam protection on forms\n\nPhase 2: Make the portals real\n\nLogins: NPG staff sign in with Microsoft 365; customers get invite-only accounts with secure passwords and two-step verification\nDatabase and backend for RFQs, quotes, orders, invoices, logistics updates, quality reports and ESG certificates\nSecure file uploads: customers upload PDF drawings; staff upload PDF quotes, invoices and quality reports\nAccess rules: each customer sees only their own company’s data; staff can suspend a customer’s portal access\nEmail notifications: new quote, order update, quality report needing approval, new invoice\nRemove the demo/sample data and go live\n\nNot needed: payment processing (handled by QuickBooks links on our invoices), 3D/CAD previews, or design work.\n\nIdeal developer:\n\nHas built a login-protected web app with file uploads before. Please share an example.\nComfortable with a managed backend (Supabase, Firebase or similar) or your own preferred stack\nClear communicator who explains things in plain language\nWilling to sign an NDA\n\nTo apply, please include:\n\n\nWhich tools/stack you’d use for logins, database and file storage, and why\nOne similar project you’ve built\nEstimated monthly hosting cost after launch",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 35,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! For this build, I would use Supabase combined with Node.js/PHP or a custom backend stack, leveraging Supabase Auth for Microsoft 365 SSO and customer logins, its managed PostgreSQL database for RFQs, orders, and role-based data access, and secure S3-compatible storage for PDF drawings and reports.\n\nI've built several login-protected client portals with secure file handling and role-based permissions, such as the membership and user-portal systems featured on https://waapple.org/. I am also fully comfortable handling DNS setups without disrupting Microsoft 365 mail and implementing robust spam protection on forms.\n\nFor hosting, a reliable managed setup via Vercel/DigitalOcean combined with Supabase would run around $25–$50/month depending on traffic and file storage volume. \n\nI am happy to sign an NDA. When you share the prototype link, I can review the endpoints and map out the exact data structure. Ready to get started?",
+    "publishedDateTime": "2026-11-03T05:55:49+0000",
+    "addedAt": "2026-11-03T05:58:27.563Z",
+    "url": "https://www.upwork.com/jobs/~022117495932850290727",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117495932850290727/apply/"
+  },
+  {
     "id": "2117476634246009751",
     "ciphertext": "~022117476634246009751",
     "title": "Migrate Author Website From Webflow and Build New Designs From Claude",

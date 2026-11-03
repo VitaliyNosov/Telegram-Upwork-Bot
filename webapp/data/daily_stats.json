@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 19,
-  "matchedFilters": 7,
+  "totalScanned": 20,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022117476634246009751",
       "addedAt": "2026-11-03T04:42:31.442Z"
+    },
+    {
+      "title": "Build customer portal + launch website for manufacturing company (design already done)",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022117495932850290727",
+      "addedAt": "2026-11-03T05:58:26.165Z"
     },
     {
       "title": "WooCommerce product listing specialist",
