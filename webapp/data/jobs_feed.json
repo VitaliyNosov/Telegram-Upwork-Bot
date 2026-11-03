@@ -1,5 +1,40 @@
 [
   {
+    "id": "2117520421907278454",
+    "ciphertext": "~022117520421907278454",
+    "title": "WordPress Website Development Expert Need",
+    "description": "WordPress Website Development Expert Needed\n\nWe are seeking an experienced WordPress developer to create a custom website from scratch. The ideal candidate should have a strong understanding of WordPress themes, plugins, and best practices for website optimization. Responsibilities include designing the layout, implementing features, ensuring mobile responsiveness, and adhering to SEO guidelines. If you are passionate about delivering high-quality websites and have a portfolio to showcase your work, we want to hear from you!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 32,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "leveldb",
+      "cosmos-db",
+      "api",
+      "website",
+      "blog",
+      "product-upload",
+      "landing-pages",
+      "wordpress",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI would love to help you build your custom WordPress website from scratch. With extensive experience in custom WordPress theme development, Gutenberg blocks, and ACF, I specialize in creating fast, mobile-responsive, and SEO-optimized sites tailored to exact design and functional requirements. \n\nWhether you need complex layouts built from Figma designs or a robust product and blog structure, I ensure clean, maintainable code and top-tier performance following core web vitals best practices. You can view an example of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nDo you already have finalized designs or wireframes ready to go, or should we discuss layout options first? Let's chat about your vision for the project.",
+    "publishedDateTime": "2026-11-03T07:33:07+0000",
+    "addedAt": "2026-11-03T07:36:28.254Z",
+    "url": "https://www.upwork.com/jobs/~022117520421907278454",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117520421907278454/apply/"
+  },
+  {
     "id": "2117495932850290727",
     "ciphertext": "~022117495932850290727",
     "title": "Build customer portal + launch website for manufacturing company (design already done)",

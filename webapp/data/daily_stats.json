@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 23,
-  "matchedFilters": 8,
+  "totalScanned": 24,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -21,6 +21,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022117412996315370391",
       "addedAt": "2026-11-03T00:29:17.286Z"
+    },
+    {
+      "title": "WordPress Website Development Expert Need",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022117520421907278454",
+      "addedAt": "2026-11-03T07:36:27.072Z"
     },
     {
       "title": "WordPress Developer = Figma to Responsive Corporate Website",
