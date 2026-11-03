@@ -1,11 +1,11 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-03",
-  "totalScanned": 54,
-  "matchedFilters": 16,
+  "totalScanned": 55,
+  "matchedFilters": 17,
   "byKeyword": {
     "wordpress developer": 14,
-    "woocommerce": 2
+    "woocommerce": 3
   },
   "topJobs": [
     {
@@ -35,6 +35,13 @@
       "score": 4150,
       "url": "https://www.upwork.com/jobs/~022117521552460376165",
       "addedAt": "2026-11-03T07:46:26.087Z"
+    },
+    {
+      "title": "Build a new Australian workwear & uniform webstore (WooCommerce or Shopify)",
+      "budget": "$16-$32/hr",
+      "score": 3350,
+      "url": "https://www.upwork.com/jobs/~022117735940172608093",
+      "addedAt": "2026-11-03T21:52:41.747Z"
     },
     {
       "title": "Wordpress security fix",

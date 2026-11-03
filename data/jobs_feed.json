@@ -1,5 +1,35 @@
 [
   {
+    "id": "2117735940172608093",
+    "ciphertext": "~022117735940172608093",
+    "title": "Build a new Australian workwear & uniform webstore (WooCommerce or Shopify)",
+    "description": "We're an established Australian workwear and uniform business, trading since 2007. In 2027 we're launching a new online store, ClockedOn, selling plain, undecorated workwear and uniforms at competitive online prices.\n\nIt is a brand-new site and brand, built from scratch. \nWe want a fast, clean, high-converting online store in the style of these sites: \n- workwearhub.com.au: overall layout and how brands and categories are organised (this is our main reference) \n- dncdirect.com.au: bulk-buy pricing (e.g. discounts when you buy 5 or more items) - badworkwear.com.au: strong branding and tone \n- rsea.com.au: filters, product pages and a quick checkout \nSCOPE OF WORK\n1. Platform setup. We're open to WooCommerce or Shopify. Tell us which you recommend and why. \n2. Custom design for the new brand: homepage, category pages, product pages, cart and checkout. It must work properly on mobile. \n3. Product catalogue from our suppliers: Fashion Biz / Biz Collection, JB's Wear, Workwear Group, Aussie Pacific and DNC.\n- Import products with full size/colour options, images and descriptions.\n- Connect to supplier stock and data feeds (CSV/API) where they're available, so stock levels stay current. \n- Tell us how you'd handle catalogues with thousands of options. \n4. Pricing rules. Bulk quantity tiers, sale prices, and trade/business account pricing. \n5. Search and filters by brand, garment type, industry (hi-vis, hospitality, healthcare, corporate), size, colour and price. \n6. Size guides on product pages, set per brand. \n7. Shipping. Australia Post rates, a free-shipping threshold, and tracking emails. \n8. Payments. Card, PayPal, Apple/Google Pay, and Afterpay or Zip. All prices in AUD and GST-inclusive, with tax invoices that show GST. \n9. Security. We need bot and carding protection on checkout, a firewall, strong admin logins, and automatic backups. \n10. SEO basics. Clean URLs, page titles and meta descriptions, product schema, sitemap, Google Analytics 4, Google Search Console and Google Merchant Center (Shopping) feed. \n11. Legal pages written to Australian Consumer Law: returns/refunds, shipping, privacy and terms. We'll supply or approve the wording. \n12. Handover. Training (a recorded video is fine) so our staff can add products, change prices and process orders without needing you.\nEssential Additions-\n- Customer accounts with saved orders and quick reorder \n- Quote request for large orders \n- Abandoned cart emails REQUIREMENTS \n- Proven experience building apparel or workwear stores with large size/colour catalogues. Please send links. \n- Experience with Australian payment, shipping and GST setup. \n- Good English and regular progress updates. \n\nBUDGET AND TIMELINE \n- Fixed price or estimated hours to complete at an hourly rate.\n- Target launch: March 2027\n\nTO APPLY, PLEASE ANSWER:\n1. WooCommerce or Shopify for this project, and why? \n2. How would you import and keep thousands of supplier products and variations up to date? \n3. Links to 2-3 apparel stores you've built. \n4. Your fixed-price quote, broken into stages, and your timeline. \n5. What ongoing support or maintenance do you offer after launch, and at what cost? \nGeneric or copy-paste applications will be ignored. \nStart your proposal with the word \"Smoko\" so we know you read this.",
+    "isHourly": true,
+    "hourlyBudgetMin": 16,
+    "hourlyBudgetMax": 32,
+    "budgetDisplay": "$16 - $32/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 42,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "woocommerce",
+      "shopify",
+      "ecommerce-consulting"
+    ],
+    "score": 3350,
+    "coverLetter": "Smoko! Hi there, \n\nFor a workwear store like \"ClockedOn\" with extensive matrix options (sizes/colours), bulk pricing tiers, and strict Australian tax/shipping rules, I recommend WooCommerce. It gives you 100% data ownership, zero transaction fees on gateways like Afterpay/Zip, and robust handling of complex variable products without being constrained by Shopify's variant limits. \n\nTo manage catalogues from suppliers like JB's Wear and DNC, I use automated WP-CLI scripts and scheduled cron jobs to sync CSV/API feeds directly into WooCommerce attributes, keeping stock levels updated seamlessly. \n\nYou can review a relevant apparel store build of mine here: https://www.daysforgirls.org/\n\nI handle complete setups—including multi-tier bulk pricing, Australia Post integration, and GST invoices—with full staff training included. \n\nWould you like to hop on a quick chat to map out the phases and timeline for March 2027?",
+    "publishedDateTime": "2026-11-03T21:50:06+0000",
+    "addedAt": "2026-11-03T21:52:43.126Z",
+    "url": "https://www.upwork.com/jobs/~022117735940172608093",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117735940172608093/apply/"
+  },
+  {
     "id": "2117723760057913005",
     "ciphertext": "~022117723760057913005",
     "title": "Compare Website Development with API",
