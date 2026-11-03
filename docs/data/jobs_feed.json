@@ -1,5 +1,37 @@
 [
   {
+    "id": "2117759133654355436",
+    "ciphertext": "~022117759133654355436",
+    "title": "Need wordpress designer and developer",
+    "description": "WordPress Developer Needed for Burger Restaurant Website\n\nI'm looking for an experienced WordPress developer to design and develop a modern, attractive, and fully responsive website for my burger joint.\n\nThe website should have a professional design that showcases our burgers, menu, brand, and overall restaurant experience.\n\n**Key Requirements:**\n- Modern and visually appealing homepage.\n- Menu page with burger images, descriptions, and prices.\n- About Us page to introduce our restaurant.\n- Contact page with location, opening hours, and contact details.\n- Online ordering or order inquiry functionality.\n- Google Maps integration.\n- Mobile-friendly and responsive design.\n- Social media integration.\n- Basic SEO and website speed optimization.\n\nWhat I'm Looking For:\n\nSomeone with experience building restaurant or food-related websites who can create an engaging design, deliver a smooth user experience, and make the website easy to manage.\nPlease share examples of your previous WordPress projects when applying.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.84,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "graphic-design",
+      "adobe-photoshop",
+      "html",
+      "css"
+    ],
+    "score": 147,
+    "coverLetter": "Hi! \n\nI’d love to help you build a modern, high-converting website for your burger restaurant that gets customers craving your food before they even walk through the door. \n\nWith deep expertise in custom WordPress development, I specialize in creating visually striking, mobile-responsive sites with smooth navigation, integrated menus, Google Maps, and seamless ordering functionality. I ensure every site is lightning-fast and optimized for both mobile users on the go and local search engines. \n\nYou can check out some of my previous WordPress work here: https://waapple.org/\n\nDo you already have a brand identity and menu assets ready, or will we be starting from scratch with the design? Let’s chat about your vision!",
+    "publishedDateTime": "2026-11-03T23:21:41+0000",
+    "addedAt": "2026-11-03T23:24:40.315Z",
+    "url": "https://www.upwork.com/jobs/~022117759133654355436",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117759133654355436/apply/"
+  },
+  {
     "id": "2117735940172608093",
     "ciphertext": "~022117735940172608093",
     "title": "Build a new Australian workwear & uniform webstore (WooCommerce or Shopify)",
