@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 24,
-  "matchedFilters": 9,
+  "totalScanned": 25,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 4600,
       "url": "https://www.upwork.com/jobs/~022117400969232785993",
       "addedAt": "2026-11-02T23:41:11.016Z"
+    },
+    {
+      "title": "PHP WordPress Developer Needed for High",
+      "budget": "$20-$40/hr",
+      "score": 4150,
+      "url": "https://www.upwork.com/jobs/~022117520117515174385",
+      "addedAt": "2026-11-03T07:40:26.893Z"
     },
     {
       "title": "Wordpress security fix",
