@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 5,
-  "matchedFilters": 2,
+  "totalScanned": 6,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 4600,
       "url": "https://www.upwork.com/jobs/~022117400969232785993",
       "addedAt": "2026-11-02T23:41:11.016Z"
+    },
+    {
+      "title": "Wordpress security fix",
+      "budget": "$5-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022117412996315370391",
+      "addedAt": "2026-11-03T00:29:17.286Z"
     },
     {
       "title": "Web Developer for Transportation Website",

@@ -1,5 +1,31 @@
 [
   {
+    "id": "2117412996315370391",
+    "ciphertext": "~022117412996315370391",
+    "title": "Wordpress security fix",
+    "description": "We need some SEO spam/malware removal on a client's wordpress site.",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$5 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 107,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-malware-removal"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can help you clean up the SEO spam and remove the malware from your client's WordPress site quickly and securely. \n\nI specialize in malware removal, hacked site recovery, and WordPress security hardening. When dealing with SEO spam, it's not just about deleting the injected code; I thoroughly audit the database, core files, themes, and plugins to find the backdoor entry point, patch the vulnerability, and ensure the site doesn't get reinfected. Once cleaned, I can also clear out any remaining search engine penalties or cached spam.\n\nAre you seeing any specific error messages, or is the spam mostly showing up in search results and injected pages? Let me know the site URL and we can get started right away.",
+    "publishedDateTime": "2026-11-03T00:27:18+0000",
+    "addedAt": "2026-11-03T00:29:18.442Z",
+    "url": "https://www.upwork.com/jobs/~022117412996315370391",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117412996315370391/apply/"
+  },
+  {
     "id": "2117401345272070183",
     "ciphertext": "~022117401345272070183",
     "title": "Web Developer for Transportation Website",
