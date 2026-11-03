@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 29,
-  "matchedFilters": 11,
+  "totalScanned": 30,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022117476634246009751",
       "addedAt": "2026-11-03T04:42:31.442Z"
+    },
+    {
+      "title": "WordPress and GeoDirectory developer",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022117563675537580617",
+      "addedAt": "2026-11-03T10:28:25.698Z"
     },
     {
       "title": "Build customer portal + launch website for manufacturing company (design already done)",

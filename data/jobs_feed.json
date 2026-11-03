@@ -1,5 +1,38 @@
 [
   {
+    "id": "2117563675537580617",
+    "ciphertext": "~022117563675537580617",
+    "title": "WordPress and GeoDirectory developer",
+    "description": "to build a national website called American Machinist Network.\n\nThe platform will eventually combine a directory, a recruitment website, and a manufacturing project marketplace.\n\nFor Phase 1, I need:\n\nIndividual machinist registration and searchable profiles\n\nSeparate machine shop business listings\n\nSearch by location, machining specialty, equipment and skills\n\nEmployer accounts and paid job postings\n\nA clean, professional, mobile-friendly design\n\nStripe payments and basic dashboards\n\nA structure that can support manufacturing RFQs and quotations later\n\nI intend to use WordPress, GeoDirectory, UsersWP and WP Job Manager where appropriate.\n\nCould you please provide:\n\nExamples of similar directories you've personally developed.\n\nYour fixed-price estimate for Phase 1.\n\nYour estimated delivery schedule.\n\nWhether you personally do the development or use a team.\n\nWhich functionality would require custom programming.\n\nOngoing maintenance and support costs.\n\nI have a detailed developer specification that I can share.\n\nThank you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 85,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "web-programming",
+      "javascript",
+      "html",
+      "wordpress-plugin",
+      "web-design"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! To answer your questions right away: I handle all development personally (no agencies or outsourcing), and I would love to review your detailed developer specification to provide an exact fixed-price estimate and timeline for Phase 1. \n\nBuilding the American Machinist Network using WordPress, GeoDirectory, UsersWP, and WP Job Manager is right in my wheelhouse. I specialize in complex WordPress architectures, custom user roles, advanced search filters, and Stripe payment integrations. For instance, I built the directory and resource platform at https://www.cchpca.org/, ensuring high performance and a clean, mobile-friendly UX.\n\nFor Phase 1, configuring the GeoDirectory location searches, map integrations, and multi-tier user dashboards (machinists, shops, employers) will rely on the core plugins, while custom PHP/JS will be needed for tailoring the specific RFQ-ready data structures and seamless Stripe checkout workflows.\n\nWhen would you be free to share the spec so we can discuss the rollout?",
+    "publishedDateTime": "2026-11-03T10:25:03+0000",
+    "addedAt": "2026-11-03T10:28:27.130Z",
+    "url": "https://www.upwork.com/jobs/~022117563675537580617",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117563675537580617/apply/"
+  },
+  {
     "id": "2117521552460376165",
     "ciphertext": "~022117521552460376165",
     "title": "PHP WordPress Developer Needed for High",
