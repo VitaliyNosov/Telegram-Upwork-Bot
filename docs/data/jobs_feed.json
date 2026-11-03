@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117441873688412657",
+    "ciphertext": "~022117441873688412657",
+    "title": "WordPress Theme Modernization & Credit Card Security",
+    "description": "The website currently uses the heavily customized Book Your Travel theme version 5.01. The objective is to upgrade to the current compatible version, move existing customizations into a child theme or appropriate custom plugins, and improve the security of customer credit card information.\n\nPhase 1 – Credit Card Security\n\nInvestigate and remediate the insecure storage of credit card information in the WordPress database.\n\nEstablish a safer method for collecting and accessing credit card information needed to guarantee hotel reservations.\n\nAddress historical card records and stored copies, including backups, through an agreed security remediation plan.\n\nPreserve the existing customer registration and reservation workflow.\n\nDocument the changes and any remaining security or PCI compliance considerations.\n\nPhase 2 – Theme Modernization\n\nUpgrade Book Your Travel from version 5.01 to the latest compatible version.\n\nRebuild and relocate Per Diem Lodging customizations into a child theme or appropriate custom plugins.\n\nPreserve existing hotels, rooms, availability, reservations, customer accounts, and booking history.\n\nPreserve customized hotel pages, rates, customer registration, booking requests, confirmation emails, administration features, and website appearance.\n\nImplement the agreed improvement to rate management so rates do not need to be entered in multiple locations.\n\nThoroughly test the updated website in staging before deployment.\n\nPerform a controlled live deployment with backups, a rollback plan, and post-launch monitoring.\n\nProject Requirements\n\nAll existing business-critical functionality must remain operational. No changes should be made to the live reservation system without appropriate testing and approval.\n\nThe credit card security work is the immediate priority.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nSecuring customer payment data and safely updating a heavily customized legacy theme like Book Your Travel are critical tasks that require precise handling. I specialize in complex WordPress debugging, secure database remediation, and safe theme modernization without breaking business-critical workflows.\n\nFor Phase 1, I will immediately audit your database to isolate and safely remove insecurely stored credit card records, transitioning your hotel guarantee workflow to a secure, compliant tokenization method. For Phase 2, I will migrate your v5.01 customizations into a clean child theme and custom plugins, streamline your rate management, and upgrade the theme safely via a staging environment with zero data loss to your reservations or user accounts. \n\nYou can review my recent WordPress architecture and migration work on projects like https://www.seeintl.org/. \n\nCould you share which payment gateway you are currently using for your hotel reservations?",
+    "publishedDateTime": "2026-11-03T02:21:11+0000",
+    "addedAt": "2026-11-03T02:23:13.648Z",
+    "url": "https://www.upwork.com/jobs/~022117441873688412657",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117441873688412657/apply/"
+  },
+  {
     "id": "2117415458636086374",
     "ciphertext": "~022117415458636086374",
     "title": "WordPress Developer = Figma to Responsive Corporate Website",
