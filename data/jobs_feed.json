@@ -1,5 +1,34 @@
 [
   {
+    "id": "2117689399529860057",
+    "ciphertext": "~022117689399529860057",
+    "title": "Website Transfer and Hosting Setup",
+    "description": "Need help transferring an existing website to a new hosting environment and ensuring everything is set up correctly. The work includes moving files, databases, and configurations, verifying the site functions properly after migration, and resolving any issues that arise. Experience with website migration and hosting setup is important. Please share relevant examples of similar projects and your approach to a smooth transition.\n\nSet up google analytics\n\nSet up info@ email",
+    "isHourly": true,
+    "hourlyBudgetMin": 60,
+    "hourlyBudgetMax": 63,
+    "budgetDisplay": "$60 - $63/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 56,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 6400,
+    "coverLetter": "Hi! I can help you seamlessly transfer your website to your new hosting environment, ensuring your files, database, and configurations are moved securely without any downtime. \n\nWith extensive experience in website migrations and hosting setups, I handle the entire process end-to-end—including post-migration testing, DNS management, setting up your Google Analytics, and configuring your professional info@ email address. For example, I recently migrated complex sites like https://www.snopud.com/ and https://www.daysforgirls.org/ to new environments with zero data loss or broken links.\n\nMy approach is simple: I take a full backup of your current site, prepare the new server environment, execute the transfer during off-peak hours if needed, and run a rigorous checklist to verify that all forms, links, and databases function correctly.\n\nWhich hosting provider are you moving to, and is the domain registrar staying the same? Let's get this sorted out smoothly.",
+    "publishedDateTime": "2026-11-03T18:44:36+0000",
+    "addedAt": "2026-11-03T18:46:51.462Z",
+    "url": "https://www.upwork.com/jobs/~022117689399529860057",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117689399529860057/apply/"
+  },
+  {
     "id": "2117687993371265467",
     "ciphertext": "~022117687993371265467",
     "title": "Website Administrator",
