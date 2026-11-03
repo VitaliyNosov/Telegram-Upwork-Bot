@@ -1,11 +1,11 @@
 {
   "date": "2026-11-03",
   "lastDigestSentDate": "2026-11-02",
-  "totalScanned": 46,
-  "matchedFilters": 12,
+  "totalScanned": 47,
+  "matchedFilters": 13,
   "byKeyword": {
     "wordpress developer": 11,
-    "woocommerce": 1
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -42,6 +42,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022117520421907278454",
       "addedAt": "2026-11-03T07:36:27.072Z"
+    },
+    {
+      "title": "Website Administrator",
+      "budget": "Fixed-price",
+      "score": 147,
+      "url": "https://www.upwork.com/jobs/~022117687993371265467",
+      "addedAt": "2026-11-03T18:42:49.387Z"
     },
     {
       "title": "WordPress Developer = Figma to Responsive Corporate Website",
