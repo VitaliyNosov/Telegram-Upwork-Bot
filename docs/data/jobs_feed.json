@@ -1,5 +1,38 @@
 [
   {
+    "id": "2118051026248251686",
+    "ciphertext": "~022118051026248251686",
+    "title": "WordPress Developer: Maintain and Stabilize 6311arts.com",
+    "description": "6311 Arts is a nonprofit community art center at 6311 N. Clark St. in Chicago. Our WordPress site sells classes, memberships and artwork. A new custom site is planned for early 2027. Until it launches, we need a developer to keep the current site safe, working and tidy. We are not asking for a redesign or a rebuild.\n\nEngagement: Part time, remote, hourly. Expect roughly 5 to 10 hours a week, with more in the first two weeks. It runs about 3 months or until the new site goes live, whichever comes first.\n\nStack: WordPress.com managed hosting (Atomic), Astra and Astra Pro, Beaver Builder, WooCommerce with FooEvents (classes are sold as products), Jetpack and Jetpack Boost, MailPoet, Site Kit, the Meta pixel, and about 25 plugins in total.\n\nWhat you’re walking into:\n\nThe user list is public at /wp-json/wp/v2/users and shows 5 login slugs. Every page header also has a public login form with a math captcha.\nThe Privacy Policy and Terms links in the footer go to “#”, even though the site takes payments and runs the Meta pixel.\nThe newsletter form shows “Something went wrong” before anyone submits it. MailPoet and a Beaver Builder form overlap, and nobody has confirmed which one actually receives sign-ups.\nEvery section renders twice, because desktop and mobile rows are hidden with CSS. The site also ships “Loading Comments...”, “Search field required” and cart glitches like “Tax$0.00” on pages that don’t need them.\nPlugins overlap. Two layout systems run side by side, along with five marketing and tracking integrations and plugins nobody uses, like Newspack Blocks, Blaze and VideoPress.\nMeta descriptions are auto-generated junk (About says “our staff”, events say “Visit the post for more.”). Classes have no Event schema, and class slugs carry wrong dates.\nClasses are WooCommerce products. Listings show duplicated entries and missing durations and images, use “in stock” language, and include duplicate “-2” products.\nAccessibility is weak: images use filenames or empty alt text, form fields have no labels, and pages have multiple H1s.\nNo one has measured performance yet, so baseline it with PageSpeed in week one.\n\nResponsibilities:\n\nLock down the users endpoint, remove the public login form, prune unused accounts and turn on 2FA.\nPublish real Privacy, Terms and returns/shipping pages, and fix all “#” links.\nKeep core, theme and plugins updated weekly with backups, and remove the plugins nobody uses.\nFix the newsletter so there is one working sign-up path.\nClean up the duplicate markup, meta descriptions, alt text and class listings.\nKeep WooCommerce and FooEvents checkout working, and support staff with class and product posts.\nWrite short handoff notes on the content, orders and contacts that will move to the new site.\n\nYou have: 3+ years with WordPress and WooCommerce, experience with Beaver Builder or similar page builders, and comfort with WordPress.com hosting limits. You write plain-English notes that non-technical staff can follow. Nonprofit experience is a plus.\n\nNot in scope: Redesigns, new features, migrating hosts, or anything that only matters after the new site launches.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 21,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wordpress",
+      "web-programming",
+      "css",
+      "javascript",
+      "html",
+      "woocommerce",
+      "html5"
+    ],
+    "score": 2998,
+    "coverLetter": "Hi! I can step in right away to stabilize 6311arts.com and keep it secure, tidy, and fully functional until your 2027 launch. \n\nI have deep experience with WordPress, WooCommerce, and Beaver Builder bug fixes, as well as handling security hardening (like closing the REST API user endpoint and enforcing 2FA), cleaning up plugin bloat, and resolving SEO and checkout issues. I also regularly work with nonprofits—for instance, I built and maintained accessible, high-performing WordPress sites like https://www.thelifeyoucansave.org/. \n\nI’ll quickly audit performance, fix the footer, newsletter forms, and duplicate mobile/desktop markup, and keep your WooCommerce and FooEvents checkouts running smoothly while providing clear, non-technical handoff notes for your future migration.\n\nWhen are you looking to kick this off?",
+    "publishedDateTime": "2026-11-04T18:41:34+0000",
+    "addedAt": "2026-11-04T18:44:46.626Z",
+    "url": "https://www.upwork.com/jobs/~022118051026248251686",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118051026248251686/apply/"
+  },
+  {
     "id": "2118046649407786480",
     "ciphertext": "~022118046649407786480",
     "title": "Web Developer for Checkout Improvements",

@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
   "lastDigestSentDate": "2026-11-03",
-  "totalScanned": 57,
-  "matchedFilters": 16,
+  "totalScanned": 58,
+  "matchedFilters": 17,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 2
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 3000,
       "url": "https://www.upwork.com/jobs/~022118005749351846536",
       "addedAt": "2026-11-04T15:44:39.078Z"
+    },
+    {
+      "title": "WordPress Developer: Maintain and Stabilize 6311arts.com",
+      "budget": "$14-$28/hr",
+      "score": 2998,
+      "url": "https://www.upwork.com/jobs/~022118051026248251686",
+      "addedAt": "2026-11-04T18:44:38.112Z"
     },
     {
       "title": "WordPress Developer for Site Audit and Ongoing Maintenance",
