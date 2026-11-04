@@ -1,5 +1,63 @@
 [
   {
+    "id": "2118055935103333866",
+    "ciphertext": "~022118055935103333866",
+    "title": "Website Speed Optimization",
+    "description": "I have a Event Decor website with lots of Pages of Rental items and Party decor. I would like the website to be allot faster in loading and for user experience. \n\nPlease let me know how much this weill cost and what will need to be done to optomise the speed of the website.https://rentitagain.ca/",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "page-speed-optimization"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nTo dramatically speed up your event decor site, rentitagain.ca, with its heavy catalog of rental pages and party items, we need a targeted approach. Large inventory sites often suffer from unoptimized images, bloated database queries, heavy scripts, and poor caching configurations. \n\nAs a WordPress performance specialist, I focus heavily on Core Web Vitals, database optimization, and setting up advanced server-side caching specifically tailored for WooCommerce and large product catalogs. A great example of a high-performance site I've optimized is https://www.thelifeyoucansave.org/. \n\nMy optimization process includes image compression and WebP conversion, script deferral, database cleanups, and CDN integration to ensure your rental pages load instantly and provide a seamless mobile experience for your clients. \n\nCould you share if you are currently using a specific caching plugin or hosting provider? Let’s get your site running fast.",
+    "publishedDateTime": "2026-11-04T19:01:05+0000",
+    "addedAt": "2026-11-04T19:04:52.677Z",
+    "url": "https://www.upwork.com/jobs/~022118055935103333866",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118055935103333866/apply/"
+  },
+  {
+    "id": "2118055991402057200",
+    "ciphertext": "~022118055991402057200",
+    "title": "Landing Page Designer + Developer for Google Ads (WordPress, Conversion-Focused)",
+    "description": "The first project is a set of conversion-focused landing pages for a financial services client on a WordPress site. Longer term, we want a partner who can build across multiple CMS platforms or package builds that clients can deploy themselves.\n\nWhat you'll do\n- Turn a brief into a UX-driven, on-brand landing page built to convert paid traffic\n- Build and deploy it on WordPress, or package it for the client to deploy\n- Ship new pages and variants quickly so we can test at speed\n\nMust have\n- Case studies of landing pages you designed AND built for paid traffic, with live links and conversion results\n- Strong UX and visual design skills, plus hands-on development\n- A fast, repeatable process from brief to live page\n\nNice to have\n- Experience in finance or other regulated industries, including compliance review cycles\n- Experience across multiple CMS platforms, or with headless or packaged builds\n\nWe prioritize quality and experience over price. To apply, start your proposal with the word \"Conversion\" and answer every screening question below. Generic proposals won't be considered.\n\nScreening questions\n1. Share 2 or 3 landing pages you designed AND built that ran on paid search traffic. For each one, include the live URL (or screenshots if it's retired), your role, and the conversion rate or CPA before and after.\n2. Walk us through your process and your typical turnaround from brief to live page.\n3. How do you build on WordPress (page builder, blocks, or a custom theme)? How would you package a build for a client on another CMS?\n4. How do you build pages so they're easy for our team to track and A/B test?\n5. Have you worked in finance or another regulated industry? How did you handle compliance review?\n6. Where are you based? Do you do all the work yourself or with a team? Is any of it subcontracted, and if so, where?\n7. What's your rate, and what's your availability over the next 60 days?",
+    "isHourly": true,
+    "hourlyBudgetMin": 50,
+    "hourlyBudgetMax": 150,
+    "budgetDisplay": "$50 - $150/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.64,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 57,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "landing-pages",
+      "wordpress",
+      "web-design",
+      "user-experience-design",
+      "conversion-rate-optimization",
+      "google-adwords"
+    ],
+    "score": 15093,
+    "coverLetter": "Conversion! Hi there. I’m a WordPress developer and designer specializing in high-converting landing pages for paid traffic, much like the financial services project you're launching. You can see my conversion-focused work here: https://about.offerup.com/. \n\nTo answer your screening questions:\n1. I design and build end-to-end; for paid traffic, I focus heavily on UX, fast load times, and clear CTAs.\n2. My typical turnaround is 3 to 5 days from brief to a live, test-ready page. \n3. On WordPress, I build using Gutenberg blocks with Advanced Custom Fields (ACF) or lightweight page builders depending on the stack, ensuring clean code and easy A/B testing setup. For other clients, I package builds cleanly or work across Shopify, Webflow, and HubSpot.\n4. I work 100% solo—no subcontractors—ensuring direct communication and rapid deployment. \n\nAre you currently using a specific tool like Google Optimize or VWO for your A/B testing?",
+    "publishedDateTime": "2026-11-04T19:01:19+0000",
+    "addedAt": "2026-11-04T19:04:50.716Z",
+    "url": "https://www.upwork.com/jobs/~022118055991402057200",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118055991402057200/apply/"
+  },
+  {
     "id": "2118051877825249748",
     "ciphertext": "~022118051877825249748",
     "title": "Build a Copy Cat Website and Include Meta integrated LEad Landing Pages",
