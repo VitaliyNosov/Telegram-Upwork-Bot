@@ -1,5 +1,38 @@
 [
   {
+    "id": "2118030101245391453",
+    "ciphertext": "~022118030101245391453",
+    "title": "WordPress Developer for Site Audit and Ongoing Maintenance",
+    "description": "What we need\nPhase 1: Access and audit (hourly)\nThis phase analyzes where the site stands today and addresses anything that needs attention.\n\nGet set up with access to our WordPress site and hosting\nAfter a first review, share your estimated hours for the full audit before starting it\nAssess the site’s overall health: WordPress core, theme and plugin updates, site speed and mobile performance\nReview the site’s update and plugin history since mid-2025, and flag anything that may have affected site speed, mobile performance or tracking\nSecurity check: security plugins and firewall, malware scan, SSL, backups (and that they can be restored), and a cleanup of user accounts and passwords\nImplement a new cookie banner based on updates provided by our team\nCheck that Google Analytics and HubSpot tracking are installed correctly, set up Google Search Console, and help implement tracking for bookings and form fills (we’ll define what to track)\nEvaluate technical SEO basics: page titles, meta descriptions (some articles currently share the same one), image alt text, headings, structured data (schema, including podcast episode pages, which currently have none), sitemap, redirects, broken links, and ensure AI search tools can access the site\nFilter bot and junk traffic where possible, without blocking legitimate search and AI crawlers\nShare a short written summary of your findings and recommendations, ranked by priority\nComplete any approved fixes and cleanup\nPhase 2: Ongoing maintenance (hourly, as needed)                                                       This role is all about dependable technical support to keep things running smoothly.\nKeep WordPress, plugins and the theme up to date, backing up the site and testing major updates (for example, on a staging copy) before applying them to the live site\nMonitor security and backups\nMake small site updates when needed, for example adding or updating pages, swapping images, minor design and copy edits, and resolving any form or plugin issues\nTroubleshoot anything that breaks: respond the same business day, with small fixes typically done within two to three business days, and urgent issues (site down or security) handled the same day\nKeep a simple log of updates and changes",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo-based-website",
+      "elementor",
+      "analytics-plugin",
+      "all-in-one-seo-pack",
+      "wordpress",
+      "google-analytics",
+      "google-search-console",
+      "hubspot"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! I can certainly handle your site audit and ongoing maintenance. Given your specific requirements for HubSpot and Google Analytics tracking, my experience integrating these tools with WordPress ensures your data flows accurately from day one.\n\nFor the Phase 1 audit, I will prioritize technical SEO—specifically fixing your schema and meta data issues—and verify your security hardening protocols to ensure your site is AI-search friendly and fully protected. I have extensive experience managing high-traffic sites like https://www.thelifeyoucansave.org/, where I perform regular plugin updates, staging environment testing, and performance monitoring to prevent downtime.\n\nI am available to start immediately and can provide a clear, prioritized report of my findings as requested. Are you available for a quick chat tomorrow to discuss your current hosting setup and access details?",
+    "publishedDateTime": "2026-11-04T17:18:36+0000",
+    "addedAt": "2026-11-04T17:20:49.184Z",
+    "url": "https://www.upwork.com/jobs/~022118030101245391453",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118030101245391453/apply/"
+  },
+  {
     "id": "2118017436370256617",
     "ciphertext": "~022118017436370256617",
     "title": "WordPress & Elementor Expert for SEO-Friendly, Conversion-Focused Landing Pages",
