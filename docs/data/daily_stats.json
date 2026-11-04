@@ -1,12 +1,20 @@
 {
   "date": "2026-11-04",
   "lastDigestSentDate": "2026-11-03",
-  "totalScanned": 30,
-  "matchedFilters": 6,
+  "totalScanned": 31,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 6,
+    "woocommerce": 1
   },
   "topJobs": [
+    {
+      "title": "Shopify E-commerce Developer and Website Redesign – Long-Term",
+      "budget": "$25-$50/hr",
+      "score": 5097,
+      "url": "https://www.upwork.com/jobs/~022117969657490263328",
+      "addedAt": "2026-11-04T13:30:41.101Z"
+    },
     {
       "title": "Corporate Website Developer Needed",
       "budget": "$25-$40/hr",
