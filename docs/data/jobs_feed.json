@@ -1,5 +1,29 @@
 [
   {
+    "id": "2117832659346296300",
+    "ciphertext": "~022117832659346296300",
+    "title": "Migrate Author Website From Webflow and Build New Designs From Claude",
+    "description": "Hi! I'm looking for a developer to move my father's author website off Webflow,  to another hosting/cms platform and build an updated design that's already done. The goal is a site that costs less to run, is easy for him to update himself, and is set up well for SEO.\n\nAbout the site\n\nAn author website for a children's book author, with an adult novel on the way\nCurrently on Webflow: melwritesstories.com\n7 published books (including a 4-book series), with more coming\nPages: Home, a page for each book, About, Reviews, Contact\nEach book links out to Amazon, Barnes & Noble and IngramSpark (no on-site checkout)\n\nWhat he needs\n\nRecommend a platform. Suggest a modern, low-cost setup (hosting + CMS) and briefly explain why it's the right fit. Lower monthly cost and easy upkeep matter most.\n\nMigrate the site. Move the current content, images and the hero animation from Webflow to the new platform.\n\nBuild the new design. The updated Home page and book page template are finished as HTML/CSS mockups made in Claude. You'll turn them into a live, responsive site that matches closely.\n\nMake adding books SUPER SIMPLE. He needs to add a new book himself in a few minutes, with no code: fill in a form (title, cover, description, age range, store links, reviews) and the book page is created and shows up on the home page automatically.\n\nSEO-friendly setup. Clean URLs, meta titles and descriptions, Open Graph images, a sitemap, book structured data (schema), fast load times and good mobile scores. \n\nConnect the forms. Hook up the contact form and email signup.\n\nHandoff. A short video or written guide showing how to add a book and edit content.\n\nProject details\n\nSmall, flat-rate project\nAn NDA is required before I share the design files\nPlease include a rough timeline in your proposal\n\nTo apply, please include:\n\nYour recommended platform and 2–3 sentences on why\n\nPortfolio: 2–3 live sites you've built, ideally a Webflow migration or a CMS-driven site (author, publisher or small-business sites are a plus)\n\nYour flat-rate quote and timeline\n\nThe word \"MEL\" at the start of your proposal, so I know you read the full post.\n\nThanks! I'm looking forward to seeing your work.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 62,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 100,
+    "coverLetter": "MEL! \n\nI recommend migrating the site to WordPress using Advanced Custom Fields (ACF) with a Custom Post Type for books. It offers zero monthly platform fees, highly optimized hosting for speed, and a foolproof backend form where your father can simply fill out fields to instantly publish a new book and update the homepage automatically.\n\nComing from Webflow, I regularly handle platform migrations and turn HTML/CSS mockups into clean, responsive sites. I can also properly structure your SEO, schemas, and forms while retaining your hero animation. \n\nHere are a few relevant sites I’ve built:\n- https://www.thelifeyoucansave.org/\n- https://www.daysforgirls.org/\n\nI can complete this project for [Insert Quote] within [Insert Timeline, e.g., 1–2 weeks]. \n\nAre you ready to sign the NDA so we can review the Claude designs and get started?",
+    "publishedDateTime": "2026-11-04T04:13:51+0000",
+    "addedAt": "2026-11-04T04:16:38.280Z",
+    "url": "https://www.upwork.com/jobs/~022117832659346296300",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117832659346296300/apply/"
+  },
+  {
     "id": "2117782741621575148",
     "ciphertext": "~022117782741621575148",
     "title": "Website Update and Design",
