@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
   "lastDigestSentDate": "2026-11-03",
-  "totalScanned": 43,
-  "matchedFilters": 12,
+  "totalScanned": 44,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 2
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 4100,
       "url": "https://www.upwork.com/jobs/~022117837004931207816",
       "addedAt": "2026-11-04T04:32:38.949Z"
+    },
+    {
+      "title": "WordPress & Elementor Expert for SEO-Friendly, Conversion-Focused Landing Pages",
+      "budget": "$10-$40/hr",
+      "score": 4099,
+      "url": "https://www.upwork.com/jobs/~022118017436370256617",
+      "addedAt": "2026-11-04T16:30:39.833Z"
     },
     {
       "title": "Basic Website Assistance / Updates",
