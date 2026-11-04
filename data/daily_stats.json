@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
   "lastDigestSentDate": "2026-11-03",
-  "totalScanned": 58,
-  "matchedFilters": 17,
+  "totalScanned": 59,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 15,
+    "wordpress developer": 16,
     "woocommerce": 2
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022117832659346296300",
       "addedAt": "2026-11-04T04:16:36.797Z"
+    },
+    {
+      "title": "Build a Copy Cat Website and Include Meta integrated LEad Landing Pages",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022118051877825249748",
+      "addedAt": "2026-11-04T18:46:38.871Z"
     },
     {
       "title": "Web Developer for Checkout Improvements",
