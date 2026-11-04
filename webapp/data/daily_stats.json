@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
   "lastDigestSentDate": "2026-11-03",
-  "totalScanned": 37,
-  "matchedFilters": 10,
+  "totalScanned": 38,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 2
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 4100,
       "url": "https://www.upwork.com/jobs/~022117837004931207816",
       "addedAt": "2026-11-04T04:32:38.949Z"
+    },
+    {
+      "title": "Basic Website Assistance / Updates",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022118005749351846536",
+      "addedAt": "2026-11-04T15:44:39.078Z"
     },
     {
       "title": "Need wordpress designer and developer",

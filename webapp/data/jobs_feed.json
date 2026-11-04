@@ -1,5 +1,33 @@
 [
   {
+    "id": "2118005749351846536",
+    "ciphertext": "~022118005749351846536",
+    "title": "Basic Website Assistance / Updates",
+    "description": "Need basic website updates, fixing our home page and adding addiitonal changes to other parts of the site. This should take no longer than a week.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 3000,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-04T15:41:38+0000",
+    "addedAt": "2026-11-04T15:45:19.458Z",
+    "url": "https://www.upwork.com/jobs/~022118005749351846536",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118005749351846536/apply/"
+  },
+  {
     "id": "2118003202139707528",
     "ciphertext": "~022118003202139707528",
     "title": "Shopify E-commerce Developer and Website Redesign – Long-Term",
