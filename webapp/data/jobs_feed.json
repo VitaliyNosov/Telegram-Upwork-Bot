@@ -1,5 +1,35 @@
 [
   {
+    "id": "2118081124352432209",
+    "ciphertext": "~022118081124352432209",
+    "title": "Real Estate Realtor Website Development",
+    "description": "I am a real estate agent based in Greenwich, Connecticut. I am seeking a skilled web developer to create a high-end luxury realtor website for me similar to a 'Luxury Presence' site on Wordpress. I want the site to improve my SEO and AI search (meaning I show up more when people search for things like \"Who is the best realtor in Greenwich to work with someone moving from NYC\" etc. )\n\nIdeally I would want it to include:\n-Blog section\n-Neighborhood Section\n-Lead Capture forms\n-IDX integration with my MLS\n-Buyers/Sellers pages\n\nThe ideal candidate will have experience in responsive web design, user-friendly interfaces, and real estate integrations. If you have a portfolio that demonstrates your capability in building visually appealing and functional websites, I'd love to hear from you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "lead-generation",
+      "real-estate-industry"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can help you build a high-end, luxury WordPress realtor website tailored to the Greenwich market, complete with IDX/MLS integration, a dedicated neighborhood section, and optimized for both traditional SEO and AI-driven search engines. \n\nAs an experienced WordPress developer, I specialize in creating fast, responsive, and visually striking sites that convert visitors into leads. I focus heavily on clean architecture and performance, ensuring your blog, buyer/seller resource pages, and lead capture forms work seamlessly together to establish you as the top agent for clients relocating from NYC. You can view some of my recent professional work here: https://waapple.org/.\n\nAre you currently using a specific MLS provider for the IDX feed, or do you have a preferred theme or design benchmark in mind to start?",
+    "publishedDateTime": "2026-11-04T20:41:12+0000",
+    "addedAt": "2026-11-04T20:44:39.953Z",
+    "url": "https://www.upwork.com/jobs/~022118081124352432209",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118081124352432209/apply/"
+  },
+  {
     "id": "2118055935103333866",
     "ciphertext": "~022118055935103333866",
     "title": "Website Speed Optimization",
