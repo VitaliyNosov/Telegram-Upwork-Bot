@@ -1,5 +1,31 @@
 [
   {
+    "id": "2117952134759191176",
+    "ciphertext": "~022117952134759191176",
+    "title": "Custom Website Migration and Hosting Setup",
+    "description": "I need an experienced developer to migrate my custom-built website and database to a new hosting environment and complete a few small visual updates afterward. The work includes moving files, configuration, and dependencies; migrating the database with no data loss and verifying its integrity; ensuring forms, login, links, and emails work correctly; setting up the domain, DNS, SSL, and required redirects; and making minor visual changes such as text, colors, spacing, and layout tweaks. This is a custom site, not WordPress or another CMS, so I need someone comfortable working directly with custom code. Please share examples of similar migrations, your approach to minimizing downtime, and your estimated timeline and price.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can seamlessly handle your custom website and database migration with zero data loss and minimal downtime, followed by your visual updates. \n\nWhile my profile highlights extensive CMS experience, I am a seasoned developer deeply comfortable working directly with custom PHP, MySQL, and server environments (using tools like Git, SSH, and WP-CLI/CLI equivalents). My approach ensures a smooth transition by running a parallel staging test, carefully updating DNS and SSL, verifying all dependencies, forms, and email delivery, and executing redirects without breaking user access. \n\nFor a recent example of a complex, content-heavy migration and deployment, you can check out https://www.snopud.com/. \n\nTo give you an accurate price and timeline, could you confirm if the current site uses a standard LAMP stack (Linux, Apache/Nginx, MySQL, PHP) and what your target hosting provider is? \n\nBest regards,\nDeveloper",
+    "publishedDateTime": "2026-11-04T18:23:06+0000",
+    "addedAt": "2026-11-04T18:26:45.071Z",
+    "url": "https://www.upwork.com/jobs/~022117952134759191176",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117952134759191176/apply/"
+  },
+  {
     "id": "2118030101245391453",
     "ciphertext": "~022118030101245391453",
     "title": "WordPress Developer for Site Audit and Ongoing Maintenance",

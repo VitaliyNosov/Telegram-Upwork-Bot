@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
   "lastDigestSentDate": "2026-11-03",
-  "totalScanned": 53,
-  "matchedFilters": 14,
+  "totalScanned": 54,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 2
   },
   "topJobs": [
@@ -105,6 +105,13 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022117903049758405213",
       "addedAt": "2026-11-04T13:52:39.171Z"
+    },
+    {
+      "title": "Custom Website Migration and Hosting Setup",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022117952134759191176",
+      "addedAt": "2026-11-04T18:26:35.629Z"
     }
   ]
 }
