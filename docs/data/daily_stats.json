@@ -1,10 +1,10 @@
 {
   "date": "2026-11-04",
   "lastDigestSentDate": "2026-11-03",
-  "totalScanned": 54,
-  "matchedFilters": 15,
+  "totalScanned": 55,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "woocommerce": 2
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022117832659346296300",
       "addedAt": "2026-11-04T04:16:36.797Z"
+    },
+    {
+      "title": "Web Developer for Checkout Improvements",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022118046649407786480",
+      "addedAt": "2026-11-04T18:28:38.873Z"
     },
     {
       "title": "Senior UI/UX Designer & WordPress Developer Needed – Premium Healthcare Website Redesign",

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2118046649407786480",
+    "ciphertext": "~022118046649407786480",
+    "title": "Web Developer for Checkout Improvements",
+    "description": "I would like the work to be completed in the following order:\n\nMilestone 1 – Website Updates\n\nPlease complete the following items in this order:\n\nSlides 17, 18, and 19: First, let’s address the updates to the main page, including the addition of the “Request an Appointment” feature. The picture of me can be found on the main website under “Meet Dr. Walker.”\nSlide 15: Update the information and banners as outlined.\nSlides 13 and 14: Update the information as described in the presentation.\nSlides 20, 21, and 22: Update the Chester Castle All-Age School section. I have neglected to update the images for the Top Class for 2026 and 2025. I will get those pictures to you by this weekend.\nThese items will constitute the first milestone. All pages, links, and features should be fully functional, with all associated links working properly.\n\nMilestone 2 – Affiliate Healthcare Partners Nationwide\n\nThe second milestone will involve the remainder of the project, specifically creating a nationwide directory of affiliate healthcare partners.\n\nAs discussed, we are developing a section that will include ultrasound and thermography locations throughout the United States. I will need you to:\n\nCreate the framework for all 50 states.\nEstablish the individual business listings within each state, with the ability to add multiple businesses per state.\nCreate the administrative interface that will allow my staff to add additional businesses as we establish new partnerships.\nEnsure that each business name is clickable and links directly to that business’s website.\nThere are a couple of important functional requirements:\n\nWhen a customer clicks on a business name or website link, the business website should open in a separate pop-up window or tab without the customer fully leaving DenWalker.com.\nEmail addresses should function similarly, allowing customers to initiate an email to the business while keeping DenWalker.com open.\nThese same functions must work automatically for any new businesses or email addresses entered by my administrative staff through the admin section.\nOnce the framework is complete, I would like to test two or three states by adding businesses and verifying that all website and email links function correctly. Once I have confirmed that everything works as intended, the second milestone will be considered complete.\n\nThank you again for everything you are doing and continue to do. I appreciate your work and look forward to getting these updates completed.\n\nBest regards,",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 28,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "javascript",
+      "php"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I can take care of both milestones for DenWalker.com efficiently, starting with your homepage and section updates, followed by the custom healthcare directory.\n\nFor Milestone 1, I'll implement all slide revisions cleanly, including the \"Request an Appointment\" feature and Dr. Walker's imagery. For Milestone 2, I'll build a custom WordPress administrative framework (using Custom Post Types and fields) so your staff can easily manage businesses across all 50 states. I will configure the link behavior via PHP/JavaScript so every website and email link automatically opens in a new tab or pop-up without navigating visitors away from your site.\n\nYou can see examples of my clean WordPress custom work on projects like https://www.thelifeyoucansave.org/.\n\nDo you have the slides ready to share so we can dive right into Milestone 1?",
+    "publishedDateTime": "2026-11-04T18:25:27+0000",
+    "addedAt": "2026-11-04T18:29:11.002Z",
+    "url": "https://www.upwork.com/jobs/~022118046649407786480",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118046649407786480/apply/"
+  },
+  {
     "id": "2117952134759191176",
     "ciphertext": "~022117952134759191176",
     "title": "Custom Website Migration and Hosting Setup",
