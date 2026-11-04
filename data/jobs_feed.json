@@ -1,5 +1,35 @@
 [
   {
+    "id": "2117903049758405213",
+    "ciphertext": "~022117903049758405213",
+    "title": "Lead Web Designer & Developer: Premium Travel & Retreat Website (CMS + WeTravel)",
+    "description": "We are a Danish wellness travel company (worldofzen.dk) curating bespoke journeys and group retreats. We are looking for an experienced web designer/developer (or small boutique studio) to design and build our new marketing and booking website.\n\nOur goal is a fast, responsive, high-end website that communicates understated luxury, ranks well, and makes discovering and booking our retreats effortless.\n\nCurrent Assets & Tech Stack:\n\nBrand & Visuals: Complete visual identity, brand guidelines, approved Danish copy, curated imagery, and an internal design concept/wireframe ready to share with shortlisted candidates. (Danish language skills are not required).\n\nBookings & Payments: We use WeTravel for checkout and payment processing. We do not want custom booking engines or complex API builds. We want standard, indexable CMS trip pages with integrated WeTravel checkout widgets/overlays.\n\nCMS Platform: Open to Webflow or WordPress (Gutenberg/ACF). The non-technical team must easily create, edit, and publish new retreats, journeys, and journal articles without writing code.\n\nScope of Work:\n\nDesign & Responsive Build: Translate our concept wireframe and brand guidelines into a clean, modern, premium responsive site (Homepage, Retreat Overview, Individual Retreat Template, Bespoke Travel, Journal/Blog, About/Contact).\n\nModular CMS Setup: Build a clean template system (custom fields/blocks) so a non-technical coordinator can launch a new retreat in 15 minutes.\n\nWeTravel Integration: Set up native, SEO-indexable individual retreat pages on our domain that cleanly trigger WeTravel’s direct checkout overlay or embedded widget without ugly layout breakage or double data entry.\n\nTechnical Foundations & SEO: Fast load speeds, on-page technical SEO, mobile polish, clean 301 redirects from the current site, contact/newsletter forms, and consent-compliant basic tracking (GA4 / Meta Pixel).\n\nHandover & Walkthrough: 1-hour recorded video walkthrough showing our coordinator how to duplicate/publish a retreat page and connect booking links.\n\nProject Terms & Ongoing Work:\n\nPhase 1: Fixed-price design and build.\n\nPhase 2: Ongoing maintenance and iterative improvements on an agreed hourly rate or monthly retainer.\n\nNote: Full copywriting, paid ad management, and custom booking APIs are strictly out of scope.\n\nHow to Apply (Screening Questions):\n\nCMS & WeTravel Approach: Between Webflow and WordPress, which would you recommend for our team and why? How do you typically embed WeTravel to keep pages fast and indexable without duplicate content work?\n\nPortfolio: Share 2–3 live links of recent websites you designed/built featuring high-end lifestyle, hospitality, travel, or editorial aesthetics. State your exact role on each.\n\nBallpark Estimate & Timeline: Based on a 5–6 template scope, what is your typical project price range (USD) and delivery timeline from kickoff to launch?\n\nHourly Rate: What is your hourly rate for post-launch maintenance, and what is your earliest availability to start?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Denmark",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "cms-development",
+      "technical-seo"
+    ],
+    "score": 0,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-04T13:51:33+0000",
+    "addedAt": "2026-11-04T13:53:18.642Z",
+    "url": "https://www.upwork.com/jobs/~022117903049758405213",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022117903049758405213/apply/"
+  },
+  {
     "id": "2117975241994978025",
     "ciphertext": "~022117975241994978025",
     "title": "Landing Page Designer for Fashion Website",
