@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-04",
-  "totalScanned": 37,
-  "matchedFilters": 7,
+  "totalScanned": 38,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 2849,
       "url": "https://www.upwork.com/jobs/~022118233430431668305",
       "addedAt": "2026-11-05T06:48:38.577Z"
+    },
+    {
+      "title": "WordPress Website Optimisation, SEO & Technical Maintenance Specialist",
+      "budget": "Fixed-price",
+      "score": 199,
+      "url": "https://www.upwork.com/jobs/~022118317838151321859",
+      "addedAt": "2026-11-05T12:24:46.837Z"
     },
     {
       "title": "Fix WordPress Malware Redirect Issue",

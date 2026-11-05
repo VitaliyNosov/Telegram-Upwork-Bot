@@ -1,5 +1,34 @@
 [
   {
+    "id": "2118317838151321859",
+    "ciphertext": "~022118317838151321859",
+    "title": "WordPress Website Optimisation, SEO & Technical Maintenance Specialist",
+    "description": "Project Overview\n\nWe are seeking an experienced WordPress Developer to conduct a comprehensive website maintenance, optimisation and technical health check of our existing website.\n\nThe objective is to ensure our website is fully functional, technically sound, SEO-optimised, efficient and free from unnecessary plugins and duplicate files.\n\nWe are looking for someone who can work independently, identify potential issues and implement practical solutions without disrupting the existing website design, content or functionality.\n\nScope of Work\n\n1. WordPress Plugin Updates & Optimisation\n\nReview all currently installed plugins.\n\nUpdate plugins to their latest stable versions.\n\nEnsure compatibility between all plugins, WordPress core, theme and PHP version.\n\nIdentify and remove unused, redundant or unnecessary plugins.\n\nIdentify and resolve plugin conflicts or technical issues.\n\nEnsure all existing website features continue to work correctly.\n\n2. SEO Setup & Optimisation\n\nConduct an SEO audit of the existing website.\n\nImplement essential on-page SEO improvements.\n\nOptimise page titles, meta descriptions and heading structures.\n\nReview image ALT tags, URLs and internal linking.\n\nCheck XML sitemap, indexing and search engine visibility.\n\nIdentify and address basic technical SEO issues.\n\n3. Media Library Clean-up\n\nIdentify duplicate and unnecessary media files.\n\nRemove duplicate files safely without affecting images or media currently used on the website.\n\nIdentify unused media where practical.\n\nImprove media library organisation where necessary.\n\n4. Website-Wide Testing & Technical Audit\n\nThoroughly test all website pages.\n\nCheck desktop, tablet and mobile responsiveness.\n\nTest all navigation menus, links, buttons, forms and interactive features.\n\nIdentify and fix broken links, missing images, display errors and functionality issues.\n\nCheck website loading speed and performance.\n\nIdentify and resolve any other technical issues affecting website stability, security or user experience.\n\nExpected Deliverables\n\nAll plugins updated, compatible and unnecessary plugins removed.\n\nEssential SEO improvements implemented.\n\nDuplicate media files safely removed.\n\nAll website pages and key functionalities tested.\n\nIdentified technical issues resolved.\n\nA brief completion report summarising work completed, issues fixed and any further recommendations.\n\nRequired Skills & Experience\n\nStrong WordPress development and maintenance experience.\n\nPlugin management, troubleshooting and compatibility testing.\n\nPractical SEO knowledge and implementation experience.\n\nWordPress media library management.\n\nWebsite performance optimisation and technical auditing.\n\nResponsive website testing and debugging.\n\nImportant Conditions\n\nA complete website backup must be taken before any changes.\n\nThe existing website design, structure and content must be preserved unless otherwise approved.\n\nNo major changes or additional paid plugins should be introduced without prior approval.\n\nAny significant issues outside the agreed scope must be reported before proceeding.\n\nHow to Apply\n\nPlease include:\n\nYour relevant WordPress experience and technical expertise.\n\nExamples of similar website maintenance, SEO or optimisation projects.\n\nYour proposed approach and estimated completion timeframe.\n\nYour fixed-price quotation for the complete scope.\n\nWe value quality, attention to detail, clear communication and the ability to deliver results efficiently. There may be opportunities for ongoing website maintenance and development work for the right candidate.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "seo",
+      "web-programming",
+      "on-page-seo"
+    ],
+    "score": 199,
+    "coverLetter": "Hi! I can certainly handle your WordPress technical audit, plugin optimization, and SEO cleanup to ensure your site runs efficiently without disrupting your existing design.\n\nMy approach begins with a full site backup and staging environment setup to ensure zero downtime. I specialize in WordPress performance and maintenance, specifically in resolving plugin conflicts and bloat. I’ve managed technical audits and site stability for clients like https://www.cchpca.org/, ensuring their infrastructure remains secure and performant. Beyond the technical cleanup, I will conduct an on-page SEO audit to optimize your meta tags, sitemaps, and indexing health.\n\nI can complete this scope within [Insert Number] business days. For the full maintenance and optimization audit, my fixed-price quote is $[Insert Amount].\n\nAre you available for a quick chat to discuss your current plugin stack and immediate priorities?",
+    "publishedDateTime": "2026-11-05T12:21:49+0000",
+    "addedAt": "2026-11-05T12:25:01.294Z",
+    "url": "https://www.upwork.com/jobs/~022118317838151321859",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118317838151321859/apply/"
+  },
+  {
     "id": "2118312174953023701",
     "ciphertext": "~022118312174953023701",
     "title": "Website Designer / Developer Needed – Pre-Launch Website for Innovative Wildfire Protection Product",
