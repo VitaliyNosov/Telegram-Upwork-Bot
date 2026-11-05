@@ -1,13 +1,20 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 5,
-  "matchedFilters": 2,
+  "totalScanned": 6,
+  "matchedFilters": 3,
   "byKeyword": {
     "woocommerce": 1,
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress/Webflow Developer: Build, Maintain & Edit Small Business Websites (Ongoing)",
+      "budget": "$20-$40/hr",
+      "score": 4000,
+      "url": "https://www.upwork.com/jobs/~022118491205713226885",
+      "addedAt": "2026-11-05T23:54:35.422Z"
+    },
     {
       "title": "E-Commerce Website Developer – Personalized Crystal & Granite Memorials",
       "budget": "Fixed-price",
