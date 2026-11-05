@@ -1,5 +1,32 @@
 [
   {
+    "id": "2118171508966598935",
+    "ciphertext": "~022118171508966598935",
+    "title": "Wordpress site updates",
+    "description": "I am looking for someone to help with web updates to my website www.goodpr.com.au \n\nI want  to make it a little more visually appealing, and make some general updates (new photos, texts, case studies)\n\nWould love to hire someone we can engage on an ongoing basis as we continue to make additions over time.\n\nFluent English and someone who can come with ideas about how we can improve the look/feel of our site is important.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$18 - $40/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 4098,
+    "coverLetter": "Hi! I’d love to help you refresh the design and manage the ongoing content updates for goodpr.com.au.\n\nI specialize in WordPress site enhancements and have extensive experience transforming existing layouts into more visually engaging, high-performing websites. I can certainly assist with your photos, copy, and case study updates, but I also enjoy collaborating on design improvements to ensure the site looks modern and functions smoothly. You can see an example of my work on design-focused projects here: https://www.thelifeyoucansave.org/.\n\nI am a fluent English speaker and am looking for long-term partnerships, so I would be happy to act as your go-to developer for future additions.\n\nWhat are the top three design elements or pages you are most eager to refresh first? Let's chat about your vision.",
+    "publishedDateTime": "2026-11-05T02:40:20+0000",
+    "addedAt": "2026-11-05T02:42:39.733Z",
+    "url": "https://www.upwork.com/jobs/~022118171508966598935",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118171508966598935/apply/"
+  },
+  {
     "id": "2118160993107020280",
     "ciphertext": "~022118160993107020280",
     "title": "Fix WordPress Malware Redirect Issue",
