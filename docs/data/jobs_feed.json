@@ -1,5 +1,34 @@
 [
   {
+    "id": "2118214510098380266",
+    "ciphertext": "~022118214510098380266",
+    "title": "Senior Web Developer",
+    "description": "We are seeking a highly skilled Web Developer with expertise in Web Flow and WordPress to join our dynamic team. The ideal candidate will have a passion for web development and a strong background in building and customising websites.\n\nResponsibilities:\n- Develop and maintain websites using Web Flow and WordPress\n- Customize websites to meet client requirements and ensure a seamless user experience\nWrite clean, efficient, and well-documented code\n- Collaborate with the design team to ensure that the website design is properly translated into the final product\n- Troubleshoot and resolve any technical issues that arise during the development process\n- Stay up-to-date with the latest web development technologies and trends\n\nRequirements:\n- Strong experience with Web Flow and WordPress, including theme and plugin customization\n- Proficiency in HTML, CSS, JavaScript, and PHP\n- Strong understanding of responsive design and cross-browser compatibility\n- Excellent problem-solving and debugging skills\n- In-depth understanding of WP plugin intergrations.\n- Strong hands-on WordPress + Elementor development experience — this is a developer role, not project management\n- Proven experience translating Figma designs into pixel-accurate, responsive builds\n- Experience integrating third-party CRMs and APIs (form handling + data feeds/listings sync)\n- Comfortable working to deadlines across multiple concurrent projects\n- Able to work within Australian business hours, with occasional flexibility for a 2-3 hour time difference (after-hours availability is rare, but occasionally needed)\n- Real estate or property industry website experience is a plus, not essential\n- Excellent verbal and written communication skills\n\nThis is an exciting opportunity for a web developer to showcase their skills and contribute to the development of high-quality websites. If you are a self-motivated and creative individual with a passion for web development, we encourage you to apply.",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$30 - $50/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 66,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-optimization",
+      "website-security",
+      "wordpress-website",
+      "cms-development"
+    ],
+    "score": 5100,
+    "coverLetter": "Hi!\n\nI’m a senior WordPress and Webflow developer with deep hands-on expertise in custom theme building, plugin integration, and performance optimization—no project management fluff, just clean, efficient code. \n\nI regularly translate Figma designs into pixel-accurate, fully responsive builds using PHP, JavaScript, HTML, and CSS. My background also covers complex third-party API integrations, form handling, and ongoing site maintenance to ensure seamless user experiences. You can review a sample of my production builds here: https://www.thelifeyoucansave.org/\n\nAre there any specific APIs, CRMs, or upcoming deadlines on your radar for the initial projects? \n\nBest regards,\nWordPress & Webflow Developer",
+    "publishedDateTime": "2026-11-05T05:31:11+0000",
+    "addedAt": "2026-11-05T05:34:41.192Z",
+    "url": "https://www.upwork.com/jobs/~022118214510098380266",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118214510098380266/apply/"
+  },
+  {
     "id": "2118168992693324280",
     "ciphertext": "~022118168992693324280",
     "title": "Website Development for Hormone Replacement Brand",
