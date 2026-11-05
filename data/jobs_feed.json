@@ -1,5 +1,34 @@
 [
   {
+    "id": "2118384509605352890",
+    "ciphertext": "~022118384509605352890",
+    "title": "Build HubSpot Form for WordPress",
+    "description": "About us\nWe’re a UK accountancy firm for digital and creative agencies. Our website contact form currently sends enquiries to Go High Level. We’ve moved to HubSpot as our CRM, and we need the contact form to send enquiries straight into HubSpot instead.\n\nThe job\n\nCreate a new contact form in our HubSpot account (we’re on Starter). Fields:\nFirst name and last name (required)\nEmail (required)\nPhone (required)\nCompany name (required)\nHow can we help? (message box)\nGDPR consent checkbox and privacy policy link\n\nMap every field to the right HubSpot contact property\n\nSet up the form so that:\nNew submissions create or update a contact\nWe get an email notification for each new enquiry\nThe visitor sees a thank-you message after submitting\n\nEmbed the form on our existing Contact page. The site is built on WordPress. Style it to match the site’s fonts, colours and buttons so it doesn’t look like a bolt-on.\n\nRemove the old Go High Level form and any Go High Level tracking scripts from the site.\nMake sure the HubSpot tracking code is installed site-wide, so we can see which pages a contact viewed before getting in touch.\n\nTest end to end on desktop and mobile. Send us screenshots of a test submission showing up in HubSpot, and the notification email arriving.\n\nWhat you’ll need\nWe’ll give you user access to HubSpot and admin access to the website. We won’t share our own logins.\n\nSkills needed\nProven HubSpot forms experience, plus experience embedding HubSpot forms on [WordPress / other] sites. Please include an example of similar work.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "css",
+      "html",
+      "wordpress",
+      "hubspot"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I can certainly help you migrate your contact forms from Go High Level to HubSpot and ensure the integration is seamless.\n\nHaving extensive experience with both HubSpot CMS and WordPress, I specialize in embedding forms that match the host site’s design perfectly using custom CSS, ensuring they don't look like an afterthought. I’ve handled similar CRM migrations and API integrations, including projects like https://www.thelifeyoucansave.org/, where precision and data integrity were key.\n\nI will handle the full setup: mapping your required fields to HubSpot properties, configuring the notifications, installing the tracking code for page-view insights, and cleaning up the legacy Go High Level scripts. Once finished, I’ll provide the requested end-to-end testing screenshots to confirm everything is flowing correctly.\n\nAre you available for a quick chat to discuss your current theme’s CSS structure?",
+    "publishedDateTime": "2026-11-05T16:46:47+0000",
+    "addedAt": "2026-11-05T16:56:46.835Z",
+    "url": "https://www.upwork.com/jobs/~022118384509605352890",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118384509605352890/apply/"
+  },
+  {
     "id": "2118377950898515077",
     "ciphertext": "~022118377950898515077",
     "title": "WordPress Elementor Website Setup",
