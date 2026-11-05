@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-04",
-  "totalScanned": 33,
-  "matchedFilters": 6,
+  "totalScanned": 34,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022118160993107020280",
       "addedAt": "2026-11-05T02:00:38.766Z"
+    },
+    {
+      "title": "Website Designer / Developer Needed – Pre-Launch Website for Innovative Wildfire Protection Product",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022118312174953023701",
+      "addedAt": "2026-11-05T12:04:37.980Z"
     },
     {
       "title": "Website Development for Hormone Replacement Brand",
