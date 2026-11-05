@@ -1,5 +1,33 @@
 [
   {
+    "id": "2118391830678980821",
+    "ciphertext": "~022118391830678980821",
+    "title": "Technical partner for website rebuild and AI workflow/guardrails design",
+    "description": "Role \n\nTechnical partner for marketing website rebuild and AI workflow/guardrails design with possible ongoing support (a designer will be appointed separately).\n\nAbout us\n\nUK-headquartered managed cloud provider with offices in Australia, Singapore and the US. \n\nCurrent site and way of working \n\n- WordPress website on Gutenberg \n- Marketing makes live content changes via CMS\n- Engineering owns hosting and deployment \n- External web support team handle issues/new features  \n\nHow we’d like to work \n\n- Website migrated to new framework (we are thinking of Astro)\n- All marketing team members able to make content changes via Claude Code/Git (we have an org account for this LLM) AND a new CMS\n- Marketing push content changes straight to production \n- New features go to staging \n- Site is built around designer-provided assets \n\nWhat we’d like you to help with \n\n- Choosing our stack - Claude Code is essential as our company LLM, but we are open to steering on the website framework and other tooling such as CMS/version control \n- Steering on guardrails against drift - the LLM should be choosing from a library of assets and blocks and not rewriting code to achieve the same thing in different ways re content \n- Steering on guardrails for and checking new features - marketing should be able to ideate new features such as geo-targeting and deploy to staging. These should work in a sensible way and pass a human technical review before going live (this could be your ongoing role)\n- Ensuring the technical fundamentals around site speed, SEO and GEO are correct \n- Potentially integrating some martech tools into workflow so, for example, a blog can be written in Claude, checked against Surfer SEO or a similar third-party tool, then published \n- Ensuring best practices for migrating content and SEO/GEO signals from the previous site \n- Ensuring the designer provides assets and page designs in a format that’s easily understood by our tooling \n- Highlighting any vital areas we’ve overlooked \nBeing on calls with our engineering/compliance team if needed \n\nWhat we’ll do \n\n- Appoint a designer and determine look and feel \n- Determine IA and content \n- Build the new site using our tools, content and designs \n\nPlease:\n- Share links to relevant work, a fixed quote and your indicative rate for ongoing support\n\nThen answer: \n- What’s the biggest blind spot in this approach, if there is one?\n- How would you advise the designer?\n- How do you generally approach stopping drift in LLM code?\n\nRate\n\nFixed fee for set-up: 1-5 thousand GBP, depending on the level of involvement and execution work\nOngoing support: please give us an indicative hourly rate",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "css",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! To address your questions immediately: the biggest blind spot is the disconnect between \"Marketing-led LLM code generation\" and \"Engineering-level technical debt\"—without strict schema enforcement, your repo will become unmaintainable within months. I advise the designer to build in a design system (Atomic Design) rather than static pages, and I stop LLM drift by implementing a strictly typed component library where the LLM is restricted to a \"slot-filling\" role rather than writing raw CSS/HTML.\n\nMy background in Headless CMS architecture and REST API integrations makes me a strong partner for this transition. I have extensive experience building scalable, high-performance sites for global organizations like https://www.thelifeyoucansave.org/. \n\nFixed fee for setup: £3,500. Ongoing hourly rate: £85/hr. \n\nAre you free this week to discuss how we can structure your component library to prevent LLM-induced code drift?",
+    "publishedDateTime": "2026-11-05T17:17:53+0000",
+    "addedAt": "2026-11-05T17:18:44.010Z",
+    "url": "https://www.upwork.com/jobs/~022118391830678980821",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118391830678980821/apply/"
+  },
+  {
     "id": "2118384509605352890",
     "ciphertext": "~022118384509605352890",
     "title": "Build HubSpot Form for WordPress",

@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-04",
-  "totalScanned": 52,
-  "matchedFilters": 14,
+  "totalScanned": 53,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -83,6 +83,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022118312174953023701",
       "addedAt": "2026-11-05T12:04:37.980Z"
+    },
+    {
+      "title": "Technical partner for website rebuild and AI workflow/guardrails design",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022118391830678980821",
+      "addedAt": "2026-11-05T17:18:40.890Z"
     },
     {
       "title": "Build HubSpot Form for WordPress",
