@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-04",
-  "totalScanned": 48,
-  "matchedFilters": 10,
+  "totalScanned": 49,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 199,
       "url": "https://www.upwork.com/jobs/~022118317838151321859",
       "addedAt": "2026-11-05T12:24:46.837Z"
+    },
+    {
+      "title": "Website Rebuild: Brief for a Second-Opinion Developer",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022118356692586307316",
+      "addedAt": "2026-11-05T14:58:38.388Z"
     },
     {
       "title": "Fix WordPress Malware Redirect Issue",

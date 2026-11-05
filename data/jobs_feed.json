@@ -1,5 +1,36 @@
 [
   {
+    "id": "2118356692586307316",
+    "ciphertext": "~022118356692586307316",
+    "title": "Website Rebuild: Brief for a Second-Opinion Developer",
+    "description": "WordPress + Elementor developer: rebuild a Singapore delivery company's website from a finished design (second opinion welcome)\n\nABOUT US\nChannel Management Systems (CMS) is a Singapore delivery company, running since 2002. We do cold-chain (chilled 2-4 °C, frozen -18 °C), regular and ad-hoc delivery, courier, last-mile, night delivery, and supply delivery staff to clients. We run our own vans and reefer trucks and are growing fast. Our site is www.cmspl.biz.\n\nWHAT WE WANT\nA website where every visitor leaves with a price, a quote request, or a chat with a real person. Clean, modern, mobile-first, with our own photos and a little subtle motion. Not a template look. Cold Delivery comes first on every page.\n\nWHAT IS ALREADY DONE (you are not starting from a blank page)\n- Approved site plan (all current pages kept, plus Get a Quote, industries, case studies, guides)\n- Finished, clickable homepage design in HTML/CSS/JS, tested at phone width\n- A working 4-step instant estimate form with built-in rates, which sends leads to Make.com, then monday.com and email\n- Google Tag Manager dataLayer events for Ads conversions\n- Written instructions for a Claude-powered website chatbot\n- Full backup and a staging copy of the current site\n\nSCOPE (please price each line separately)\nPhase 1\n1. Rebuild the homepage in Elementor to match our design, keeping the estimate form as code\n2. Secure the estimate form: a small WordPress plugin that forwards submissions to Make.com from the server, with reCAPTCHA v3, honeypot, rate limiting and file checks\n3. A /get-a-quote page with the estimate form\n4. Set up the AI chatbot (Claude via the AI Engine plugin, or your better suggestion) with a monthly spending cap and hand-off to WhatsApp\n5. Connect our dataLayer events to Google Ads conversions in GTM\n6. Security and speed clean-up: update or remove vulnerable plugins, good mobile PageSpeed\nPhase 2\n7. Six inner page templates: service, services overview, about, contact/join, careers, blog\n8. Rebuild about 18 existing pages on those templates, keeping every URL (we supply the copy)\n9. Optional: site search and a Google Reviews widget\n10. A short training session or video so we can edit text and photos ourselves\n\nMUST-HAVES\n- Stays on WordPress + Elementor Pro (Yoast SEO and GTM already installed)\n- All work on staging or a hidden page; nothing live breaks; no page URL changes\n- All licences and accounts in our company name; source code handed over\n- Tested on desktop, iPhone and Android before sign-off\n\nSKILLS\nWordPress, Elementor Pro, PHP (small custom plugin), JavaScript, Google Tag Manager / Google Ads conversions, WordPress security, page speed. Experience with chatbots or quote forms is a plus.\n\nPLEASE INCLUDE IN YOUR PROPOSAL\n1. Your honest opinion: rebuild the homepage in Elementor, or keep our HTML on an Elementor Canvas page? Is a custom plugin the right way to secure the form? Would you change anything in this plan?\n2. A fixed price for each scope line (SGD or USD)\n3. Timeline for Phase 1 and Phase 2, and when you can start\n4. Warranty period after launch and any monthly care plan\n5. Yearly running costs we should expect (licences, plugins, AI usage)\n6. Two live examples of similar WordPress work\n\nStart your proposal with the word \"COLDCHAIN\" so we know you read this.\nWe will share the design files and full brief with shortlisted freelancers.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Singapore",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "html",
+      "graphic-design",
+      "web-programming",
+      "prototype"
+    ],
+    "score": 150,
+    "coverLetter": "COLDCHAIN. Hi! Integrating your existing HTML/JS/CSS directly into an Elementor Canvas is the smarter, more performant approach compared to rebuilding from scratch in Elementor, as it preserves your precise design and reduces plugin bloat. A custom plugin is absolutely the correct way to secure your estimate form; it allows for server-side validation, rate limiting, and secure API handling with Make.com that standard forms can't match.\n\nMy background includes extensive experience with custom PHP plugin development and high-traffic WordPress optimization, which aligns perfectly with your security and lead-generation requirements. You can see my work on complex sites like https://www.seeintl.org/ to get a sense of my build quality.\n\nI am available to start immediately. Could you share the current staging link so I can review the form’s existing code structure?",
+    "publishedDateTime": "2026-11-05T14:56:19+0000",
+    "addedAt": "2026-11-05T14:58:51.483Z",
+    "url": "https://www.upwork.com/jobs/~022118356692586307316",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118356692586307316/apply/"
+  },
+  {
     "id": "2118348260409319938",
     "ciphertext": "~022118348260409319938",
     "title": "Web Designer/ Developer needed to refresh Existing website",
