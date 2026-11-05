@@ -1,5 +1,29 @@
 [
   {
+    "id": "2118426471691081401",
+    "ciphertext": "~022118426471691081401",
+    "title": "WordPress designer/developer for a 50-page HVAC & plumbing company website",
+    "description": "We’re a family-owned heating, plumbing and air conditioning company in the Philadelphia suburbs, with about 1,500 Google reviews. We want to rebuild our website from scratch.\n\nWe’re looking for one senior freelancer who designs and builds. \n\nNOT AN AGENCY\n\nWhat you’ll build\nAbout 50 pages on 6 templates:\n\nHome\nService page (12 HVAC services, 8 to 16 plumbing services)\nCity / service area page (16 towns; one template, unique intro content per town, no auto-filled placeholders)\nCompany pages (about, financing, maintenance plans, community, careers, specials, contact, service area, reviews)\nBlog list and blog post\nStandard utility pages (privacy, accessibility, site map)\n\nIntegrations and features:\nHousecall Pro booking widget on all “Schedule Service” buttons (we provide the embed code) and a link to the HCP customer portal\nGoogle reviews feed via a plugin (Reviews Feed or Elfsight; we pay the license)\nForms: request estimate, request service, maintenance membership, referral, leave a review, careers with file upload, warranty registration. Notifications routed to specific inboxes, SMS consent checkbox retained\nSitewide promo announcement bar\nGA4 and Google Tag Manager installed, form submissions and calls firing as events\nLoading a 301 redirect map we provide (about 1,100 old URLs, mostly pattern rules)\nMobile-first, accessible, PageSpeed 85+ on mobile for core templates\n\nWhat we provide:\nFinal sitemap and page list\nAll copy, written by our copywriter in parallel with your design (you’ll get real content, not lorem ipsum, by the build phase)\nProfessional photography of our trucks, techs and building\nLogo and brand colors\nHosting account in our name (open to your recommendation; WP Engine, Kinsta, SiteGround or similar)\nRedirect map\nOne decision-maker on our side who answers within one business day\n\nBudget and timeline:\nShare your proposed range. Design can start in December; we’d like to launch by the end of February 2027. Tell us if that’s realistic for your schedule.\n\nOngoing: we’d also like a standing arrangement for updates and fixes after launch, roughly 2 to 3 hours a month. Quote that separately if you’re interested.\n\nRequirements:\n5+ years building WordPress sites for small businesses, with at least two live home services or contractor sites in your portfolio we can click through\nYou design in Figma and build what you design\nComfortable with GTM and GA4 event setup",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [],
+    "score": 100,
+    "coverLetter": "Hi! Building a high-converting, mobile-first 50-page site for a trusted local HVAC and plumbing company with 1,500 reviews is right in my wheelhouse. \n\nI’m a senior solo WordPress developer and designer—definitely not an agency. I handle everything from Figma design to clean custom WordPress builds, ensuring strict Core Web Vitals performance (85+ mobile PageSpeed). I’m very familiar with integrating tools like Housecall Pro widgets, complex multi-step forms with specific routing, GTM/GA4 event tracking, and mapping 1,000+ 301 redirects seamlessly. \n\nA December start with a February launch is completely realistic for my schedule. For ongoing support, I'd be glad to set up a 2-3 hour monthly maintenance retainer post-launch. You can review my contractor and service-business work here: https://waapple.org/. \n\nWhat hosting platform do you currently lean toward, and would you like to hop on a quick call this week to finalize the details?",
+    "publishedDateTime": "2026-11-05T19:33:29+0000",
+    "addedAt": "2026-11-05T19:38:39.028Z",
+    "url": "https://www.upwork.com/jobs/~022118426471691081401",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118426471691081401/apply/"
+  },
+  {
     "id": "2118391830678980821",
     "ciphertext": "~022118391830678980821",
     "title": "Technical partner for website rebuild and AI workflow/guardrails design",
