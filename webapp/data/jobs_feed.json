@@ -1,5 +1,37 @@
 [
   {
+    "id": "2118377950898515077",
+    "ciphertext": "~022118377950898515077",
+    "title": "WordPress Elementor Website Setup",
+    "description": "I have three HTML files for new websites that will replace three existing sites, plus three HTML files for landing pages to drive new business to my firm. I need these completed on WordPress using Elementor, hosted on GoDaddy. I’m also open to suggestions for improving website efficiency and supporting business growth through marketing ideas. The right freelancer should be able to build clean, functional pages and help set up the sites for strong performance and lead generation.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$15 - $40/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design",
+      "seo",
+      "elementor",
+      "wordpress-plugin"
+    ],
+    "score": 4000,
+    "coverLetter": "Hi! \n\nI can help you convert your HTML files into clean, high-performing WordPress sites built with Elementor, fully set up on GoDaddy with lead generation and SEO best practices in mind. \n\nI specialize in custom Elementor builds, site optimization, and converting static layouts into fast, responsive WordPress pages. For instance, I recently built and optimized sites like https://www.seeintl.org/, focusing on speed, clean architecture, and conversion readiness. \n\nBeyond just slicing the HTML, I'm happy to offer suggestions to improve site efficiency, enhance your landing page conversion rates, and ensure your GoDaddy hosting environment is optimized for strong performance.\n\nAre the HTML files fully designed and responsive, or would you like me to refine the mobile layouts during the build? Let’s chat about getting these 3 sites and landing pages live!",
+    "publishedDateTime": "2026-11-05T16:24:54+0000",
+    "addedAt": "2026-11-05T16:26:41.794Z",
+    "url": "https://www.upwork.com/jobs/~022118377950898515077",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118377950898515077/apply/"
+  },
+  {
     "id": "2118363376719719557",
     "ciphertext": "~022118363376719719557",
     "title": "WordPress developer to build a video-led onepage homepage from a finished design",

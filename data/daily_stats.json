@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-04",
-  "totalScanned": 50,
-  "matchedFilters": 12,
+  "totalScanned": 51,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4098,
       "url": "https://www.upwork.com/jobs/~022118171508966598935",
       "addedAt": "2026-11-05T02:42:37.281Z"
+    },
+    {
+      "title": "WordPress Elementor Website Setup",
+      "budget": "$15-$40/hr",
+      "score": 4000,
+      "url": "https://www.upwork.com/jobs/~022118377950898515077",
+      "addedAt": "2026-11-05T16:26:40.489Z"
     },
     {
       "title": "Web Designer/ Developer needed to refresh Existing website",
