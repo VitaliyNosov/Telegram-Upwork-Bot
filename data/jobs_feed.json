@@ -1,5 +1,40 @@
 [
   {
+    "id": "2118483840609929429",
+    "ciphertext": "~022118483840609929429",
+    "title": "Website Creation for a Marketing Company",
+    "description": "Looking for an expert website designer to develop a 6 page website for my marketing agency. I am the face of my marketing agency, so the website has to feel personal, yet professional.\n\nContent and copy/text will be provided, but you'll need to come up with the stunning design. I want an elevated design that captures attention and some animation elements through out the website (e.g. around the CTA, buttons, sections, etc.)\n\nWebsite already exists, but it needs to be fully redesigned.\n\nTotal website pages: 6\nPlatform: Wordpress\nWebsite needs to include lead generation, connected to Brevo (our CRM that collects emails)\nAlso must have a Calendly connection so people can book appointments.\n\nHosting is already set up. You will get access to all accounts needed in order to build the website.\n\nThank you for applying to this job.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 58,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "mockup",
+      "user-flows",
+      "landing-pages",
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "graphic-design",
+      "content-writing",
+      "marketing-strategy",
+      "seo"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I would love to help you elevate your marketing agency's 6-page WordPress website to feel both deeply personal and high-converting. \n\nI specialize in building custom, modern WordPress sites with engaging layout animations, subtle micro-interactions around CTAs and buttons, and seamless third-party integrations. I can easily set up your Brevo CRM email collection and integrate your Calendly scheduling workflow. You can view some of my recent custom WordPress work here: https://www.thelifeyoucansave.org/\n\nSince you already have the content, copy, and hosting ready, we can dive straight into crafting a stunning, elevated design that captures attention and drives appointments. \n\nAre you looking to use a specific page builder like Elementor, Gutenberg, or Bricks for the redesign? Let's chat!",
+    "publishedDateTime": "2026-11-05T23:21:26+0000",
+    "addedAt": "2026-11-05T23:26:44.433Z",
+    "url": "https://www.upwork.com/jobs/~022118483840609929429",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118483840609929429/apply/"
+  },
+  {
     "id": "2118472213386873045",
     "ciphertext": "~022118472213386873045",
     "title": "E-Commerce Website Developer – Personalized Crystal & Granite Memorials",

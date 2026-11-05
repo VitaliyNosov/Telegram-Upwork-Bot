@@ -1,10 +1,11 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "woocommerce": 1
+    "woocommerce": 1,
+    "wordpress developer": 1
   },
   "topJobs": [
     {
@@ -13,6 +14,13 @@
       "score": 147,
       "url": "https://www.upwork.com/jobs/~022118472213386873045",
       "addedAt": "2026-11-05T22:40:36.325Z"
+    },
+    {
+      "title": "Website Creation for a Marketing Company",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022118483840609929429",
+      "addedAt": "2026-11-05T23:26:38.569Z"
     }
   ]
 }
