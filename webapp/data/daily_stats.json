@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-04",
-  "totalScanned": 49,
-  "matchedFilters": 11,
+  "totalScanned": 50,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022118356692586307316",
       "addedAt": "2026-11-05T14:58:38.388Z"
+    },
+    {
+      "title": "WordPress developer to build a video-led onepage homepage from a finished design",
+      "budget": "Fixed-price",
+      "score": 146,
+      "url": "https://www.upwork.com/jobs/~022118363376719719557",
+      "addedAt": "2026-11-05T15:26:41.701Z"
     },
     {
       "title": "Fix WordPress Malware Redirect Issue",

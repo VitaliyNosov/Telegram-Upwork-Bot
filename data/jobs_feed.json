@@ -1,5 +1,36 @@
 [
   {
+    "id": "2118363376719719557",
+    "ciphertext": "~022118363376719719557",
+    "title": "WordPress developer to build a video-led onepage homepage from a finished design",
+    "description": "Ruysdael Professionals is a recruitment firm that works only in the Dutch water sector. The website design is finished. I need an experienced WordPress developer to build it pixel-accurate, fast and easy for me to edit. The site is in Dutch, but you don’t need to speak Dutch: all copy is supplied.\n\nWhat you’ll get from me:\n\nThe final homepage design for desktop and mobile, as an HTML mockup\nLogo files, client logos and brand assets\nTypography: Jost (Google Font)\nColours: Deep Water \n#0B2E40, Current \n#1F6F86, Rain \n#9CC9D6 and Mist \n#FBFAF6\nAll copy, the banner video and three testimonial videos\n\nHomepage sections to build:\n\nHeader: logo, anchor navigation (Diensten, Ervaringen, Opdrachten, Over Ruysdael) and a contact button; a working mobile menu\nHero with background video: a full-width 16:9 loop, muted, 15–20 s. It needs a text overlay, two CTAs and a visible pause button for accessibility. On mobile, use an optimised video or a poster-image fallback.\nClient logo strip, with extra logo's to be added later\nServices: two text blocks (Freelance/ZZP and Detachering & verloning)\nTestimonial videos: three portrait (4:5) videos that start only on click, with sound. Name, role and quote stay visible under each video. Lazy-loaded, so they don’t slow the page down.\nCurrent assignments: a list showing title, organisation, region, hours and duration, with an “All assignments” link\nAbout + contact CTA: founder photo, text and a contact button\n\nPlease no heavy page builders unless you can justify one.\nPerformance: video compression and hosting advice, lazy loading, caching. Aim for a mobile PageSpeed score of 90+ despite the video.\nAccessibility basics (contrast, alt text, keyboard navigation, the video pause control), basic SEO setup and GDPR-compliant cookie consent\n\nNot included: design work and copywriting. Both are done.\n\nHosting: [We have hosting at siteground\nTimeline: live within 2-3 weeks\nBudget: open to proposals]\n\nTo apply, please include:\n\n2–3 WordPress sites you built from someone else’s design. Ideally one has a background video or a job listing.\nHow you’d handle the hero video and testimonial videos so the site stays fast (self-hosted, Vimeo, Bunny, etc.)\nYour theme/builder approach for this build\nYour fixed price and timeline.\n\nThank you for your consideration",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 4.81,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 33,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "css",
+      "responsive-design",
+      "page-speed-optimization"
+    ],
+    "score": 146,
+    "coverLetter": "Hi! To hit a mobile PageSpeed score of 90+ with multiple videos, I would host the background video via Bunny.net (or Cloudflare Stream) to ensure CDN-level optimization, and use a lazy-loading implementation for the testimonial videos to prevent initial load bloat.\n\nI specialize in pixel-perfect builds from Figma/HTML mockups without relying on bloated page builders. For this project, I recommend a custom-coded Gutenberg block approach using ACF. This ensures the site remains lightweight, fast, and incredibly easy for you to edit. You can see an example of my custom development work here: https://www.thelifeyoucansave.org/.\n\nI have extensive experience with SiteGround environments and can handle the full setup within your 2-week timeline. Would you like to share the HTML mockup so I can provide a firm quote?",
+    "publishedDateTime": "2026-11-05T15:22:46+0000",
+    "addedAt": "2026-11-05T15:26:46.107Z",
+    "url": "https://www.upwork.com/jobs/~022118363376719719557",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118363376719719557/apply/"
+  },
+  {
     "id": "2118356692586307316",
     "ciphertext": "~022118356692586307316",
     "title": "Website Rebuild: Brief for a Second-Opinion Developer",
