@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-04",
-  "totalScanned": 16,
-  "matchedFilters": 4,
+  "totalScanned": 17,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4098,
       "url": "https://www.upwork.com/jobs/~022118171508966598935",
       "addedAt": "2026-11-05T02:42:37.281Z"
+    },
+    {
+      "title": "Design and Web Development for Homepage",
+      "budget": "$20-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022118217131112759764",
+      "addedAt": "2026-11-05T05:42:37.128Z"
     },
     {
       "title": "Fix WordPress Malware Redirect Issue",
