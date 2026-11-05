@@ -1,5 +1,34 @@
 [
   {
+    "id": "2118233430431668305",
+    "ciphertext": "~022118233430431668305",
+    "title": "WordPress / WooCommerce Troubleshooting Specialist",
+    "description": "I'm looking for a reliable WordPress and WooCommerce specialist for an initial client project, with the potential for ongoing work through my Australian digital marketing agency.\n\nThe first project involves reviewing and stabilising an existing WooCommerce website, including:\n\nWordPress administration, hosting access and plugin/security checks\n\nWooCommerce Square payment integration and checkout testing\n\nShipping calculation issues, including multi-item orders\n\nOrder notification emails, navigation and minor functionality fixes\n\nDesktop/mobile testing of the purchase process\n\nI'm looking for someone experienced in diagnosing problems efficiently, rather than rebuilding functionality unnecessarily.\n\nInitial engagement: Approximately 8 hours of work, subject to the initial diagnosis and agreed scope.\n\nPlease let me know:\n\nYour experience with WooCommerce and Square.\n\nYour hourly rate in AUD (or your preferred currency).\n\nWhether you can work within fixed task budgets and provide progress updates.\n\nYour availability to start.\n\nPlease also share examples of similar troubleshooting work.",
+    "isHourly": true,
+    "hourlyBudgetMin": 8,
+    "hourlyBudgetMax": 27,
+    "budgetDisplay": "$8 - $27/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "php",
+      "wp-ecommerce"
+    ],
+    "score": 2849,
+    "coverLetter": "Hi! I would love to help your Australian digital marketing agency stabilize this WooCommerce site. \n\nTo answer your questions directly:\n- **WooCommerce & Square:** I regularly resolve payment gateway integrations, checkout conflicts, and multi-item shipping calculation issues. \n- **Rate:** My standard rate is $40 AUD/hr.\n- **Budgets & Updates:** I am fully comfortable working within fixed task budgets and provide clear, proactive progress updates.\n- **Availability:** I can start immediately.\n\nDrawing from my core background in WooCommerce bug fixes and plugin conflict resolution—as demonstrated on high-impact builds like [The Life You Can Save](https://www.thelifeyoucansave.org/)—I focus on efficient diagnosis and targeted fixes rather than costly rebuilds. I’ll thoroughly audit your security, Square checkout, email delivery, and mobile/desktop purchasing flow.\n\nLet’s chat about getting this site running smoothly!",
+    "publishedDateTime": "2026-11-05T06:47:07+0000",
+    "addedAt": "2026-11-05T06:48:40.229Z",
+    "url": "https://www.upwork.com/jobs/~022118233430431668305",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118233430431668305/apply/"
+  },
+  {
     "id": "2118217131112759764",
     "ciphertext": "~022118217131112759764",
     "title": "Design and Web Development for Homepage",
