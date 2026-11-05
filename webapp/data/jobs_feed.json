@@ -1,5 +1,33 @@
 [
   {
+    "id": "2118318301838025218",
+    "ciphertext": "~022118318301838025218",
+    "title": "Build WordPress website",
+    "description": "All content, navigation, page structure, and form requirements have already been written. This is a build-from-brief project, not a design-from-scratch project. What you will receive\nComplete Developer Brief\nFull page and product content (Commercial + Home & Grill)\nNavigation structure\nForm field requirements\nDesign direction (clean, professional, navy and red)\nScope\nWordPress site on a staging URL\nAll pages from the provided sitemap\nProduct pages using provided content\nQuote form and two warranty forms \nEquipment Finder\nDealer & Local Service Locator\nNo prices anywhere on the site\nMobile responsive\nBasic admin training\nRequirements\nFixed-price quote\nExperience with custom post types and forms\nAbility to follow a detailed brief accurately\nExamples of similar B2B or industrial WordPress sites\nImportant\nThis is a fixed-scope project. Any work outside the provided documents must be quoted and approved in writing before it is started. Please review the attached documents and provide a fixed-price quote and timeline.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I have reviewed your project brief and am ready to provide a fixed-price quote once we discuss the specific number of pages and complexity of the Equipment Finder logic.\n\nI specialize in building custom WordPress sites from detailed technical briefs, ensuring the final build matches your design direction and functional requirements perfectly. I have extensive experience with Custom Post Types and taxonomies—essential for your Dealer Locator and Equipment Finder features—and I am highly proficient in implementing secure, complex forms for warranty and quote requests. You can see a similar industrial-focused build I completed here: https://www.snopud.com/.\n\nI prioritize clean code and mobile responsiveness to ensure your site is professional and easy to manage. Are you available for a brief chat to confirm the page count so I can send over a firm quote and timeline?",
+    "publishedDateTime": "2026-11-05T12:23:36+0000",
+    "addedAt": "2026-11-05T12:26:54.068Z",
+    "url": "https://www.upwork.com/jobs/~022118318301838025218",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118318301838025218/apply/"
+  },
+  {
     "id": "2118317838151321859",
     "ciphertext": "~022118317838151321859",
     "title": "WordPress Website Optimisation, SEO & Technical Maintenance Specialist",
