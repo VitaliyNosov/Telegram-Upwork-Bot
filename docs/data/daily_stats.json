@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 71,
-  "matchedFilters": 17,
+  "totalScanned": 74,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 17
+    "wordpress developer": 18
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 2849,
       "url": "https://www.upwork.com/jobs/~022118233430431668305",
       "addedAt": "2026-11-05T06:48:38.577Z"
+    },
+    {
+      "title": "Simple Website for Amazon FBA Company",
+      "budget": "$5-$27/hr",
+      "score": 2800,
+      "url": "https://www.upwork.com/jobs/~022118438884016496372",
+      "addedAt": "2026-11-05T20:26:40.373Z"
     },
     {
       "title": "WordPress Website Optimisation, SEO & Technical Maintenance Specialist",
