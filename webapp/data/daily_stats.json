@@ -1,10 +1,10 @@
 {
   "date": "2026-11-05",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 74,
-  "matchedFilters": 18,
+  "totalScanned": 75,
+  "matchedFilters": 19,
   "byKeyword": {
-    "wordpress developer": 18
+    "wordpress developer": 19
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 4000,
       "url": "https://www.upwork.com/jobs/~022118377950898515077",
       "addedAt": "2026-11-05T16:26:40.489Z"
+    },
+    {
+      "title": "Website one of one design with easy update",
+      "budget": "$18-$40/hr",
+      "score": 4000,
+      "url": "https://www.upwork.com/jobs/~022118433755305498297",
+      "addedAt": "2026-11-05T20:28:35.163Z"
     },
     {
       "title": "Web Designer/ Developer needed to refresh Existing website",
