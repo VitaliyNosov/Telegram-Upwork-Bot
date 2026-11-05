@@ -1,5 +1,35 @@
 [
   {
+    "id": "2118472213386873045",
+    "ciphertext": "~022118472213386873045",
+    "title": "E-Commerce Website Developer – Personalized Crystal & Granite Memorials",
+    "description": "**E-Commerce Website Development – True North Memorials**\n\nI'm seeking an experienced e-commerce website developer to build a professional online store for **True North Memorials**, a Canadian business specializing in personalized 3D crystal and laser-engraved granite memorials for people and pets.\n\nI have an initial homepage mock-up to demonstrate the overall appearance and layout I'm looking for. This is a concept only, and some design elements, images, and branding will be refined.\n\n**The website will have two main product categories:**\n\n**1. Crystal Memorials**\n- Browse crystal shapes, sizes, and prices.\n- Connect customers to an existing third-party system that handles photograph uploads, 3D previews, and ordering.\n- Ideally, provide a smooth transition between my website and the existing ordering platform.\n\n**2. Granite Memorials**\n- Browse memorial shapes, sizes, and prices.\n- Upload a customer's photograph.\n- Enter names, dates, and personalized inscriptions.\n- Select product options.\n- Submit orders securely.\n- Allow for a digital design proof to be reviewed and approved before production. An automatic live preview is not essential initially.\n\n**Additional Requirements**\n- Premium, professional, mobile-friendly website design.\n- Secure online payments.\n- Canadian shipping options.\n- Basic SEO.\n- Easy-to-manage product catalogue.\n- Contact and inquiry forms.\n- Ability for me to update products, pricing, photographs, and website content independently.\n\nI already own TrueNorthMemorials.com and TrueNorthMemorials.ca.\n\nI'm open to Shopify, WooCommerce, or another suitable platform.\n\n**Please include in your proposal:**\n1. Examples of live e-commerce websites you've built, preferably involving personalized products or customer photo uploads.\n2. Your recommended website platform and why.\n3. Your fixed-price quote for the complete project.\n4. Estimated development timeline.\n5. Any ongoing hosting, maintenance, app, or subscription costs.\n6. Whether you provide training and support after launch.\n\nI'm looking for someone experienced, reliable, detail-oriented, and easy to communicate with.\n\nPlease review my attached homepage mock-up before submitting your proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "ecommerce-consulting",
+      "shopify",
+      "woocommerce",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 147,
+    "coverLetter": "Hi! I have reviewed your homepage mock-up and am ready to help build True North Memorials.\n\nFor this project, I recommend WooCommerce over Shopify. Given the need for custom photograph uploads, personalized inscriptions, and a digital proofing workflow for granite memorials, WooCommerce offers far superior flexibility without the recurring \"app fees\" that often inflate Shopify costs. I have extensive experience building complex WooCommerce stores with custom product options and secure checkout flows, similar to the work I did for https://www.thelifeyoucansave.org/. \n\nMy quote for this build is [Insert Price] with a 4-week timeline. This includes full training so you can manage your inventory independently, plus 30 days of post-launch support. I handle everything from secure payments to Canadian shipping configurations.\n\nAre you available for a brief chat this week to discuss your proofing process?",
+    "publishedDateTime": "2026-11-05T22:37:36+0000",
+    "addedAt": "2026-11-05T22:40:38.754Z",
+    "url": "https://www.upwork.com/jobs/~022118472213386873045",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118472213386873045/apply/"
+  },
+  {
     "id": "2118433755305498297",
     "ciphertext": "~022118433755305498297",
     "title": "Website one of one design with easy update",

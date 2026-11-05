@@ -1,8 +1,18 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "woocommerce": 1
+  },
+  "topJobs": [
+    {
+      "title": "E-Commerce Website Developer – Personalized Crystal & Granite Memorials",
+      "budget": "Fixed-price",
+      "score": 147,
+      "url": "https://www.upwork.com/jobs/~022118472213386873045",
+      "addedAt": "2026-11-05T22:40:36.325Z"
+    }
+  ]
 }
