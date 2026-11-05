@@ -1,5 +1,33 @@
 [
   {
+    "id": "2118431636898161154",
+    "ciphertext": "~022118431636898161154",
+    "title": "Wordpress/woocommerce domain reversion & legacy asset preservation",
+    "description": "Project Overview:\nI am seeking an experienced WordPress and server technician to help revert my live WooCommerce store from its current temporary domain (dartfrogsandgeckos.com) back to its original, primary legacy domain (saurian.net). The legacy domain has been continuously active since 1997 and carries significant SEO authority and backlink profiles that I need to protect.\nThe live WooCommerce website is currently hosted on GoDaddy Managed WordPress. The original domain (saurian.net) is registered at Network Solutions, but its legacy site files and active business email infrastructure currently sit on a server at Exact Hosting.\nKey Responsibilities:\n• Legacy Asset Preservation: Connect via FTP to the Exact Hosting server and take a complete backup of all legacy site files and media. Map out and migrate historical image paths and static documentation to the GoDaddy server to ensure that legacy forum threads and deep external backlinks do not break.\n• Domain Reversion on Hosting: Configure GoDaddy Managed WordPress settings to accept saurian.net as the primary domain.\n• Database Search & Replace: Safely update all serialized arrays and instances of dartfrogsandgeckos.com to saurian.net within the database using a specialized script or plugin (e.g., Better Search Replace).\n• Zero-Downtime DNS & Email Configuration: Coordinate with me to update the DNS A-record at Network Solutions to point to the GoDaddy server IP. CRITICAL: The active business email accounts are hosted at Exact Hosting. You must verify and leave all MX and TXT/SPF records entirely untouched so that email communications remain 100% uninterrupted.\n• 301 Redirect Architecture: Implement a clean wildcard 301 redirect rule inside the GoDaddy server mapping dartfrogsandgeckos.com URLs back to their corresponding pages on saurian.net.\n• SSL & Search Console: Provision the new SSL certificate on GoDaddy and update Google Search Console with a Change of Address notification.\nRequired Qualifications:\n• Extensive experience with WordPress/WooCommerce migrations and core database manipulations.\n• Strong mastery of DNS zoning, MX routing configurations, and zero-downtime server cutovers.\n• Proven track record with legacy SEO architecture, URL structural mapping, and 301 redirects.\n• Willingness to work via delegated permissions or a live screen-share session for sensitive account access.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "woocommerce"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can safely execute this domain reversion for saurian.net while strictly protecting your 1997-era SEO authority, historical assets, and active business emails. \n\nAs a WordPress and server technician, I regularly handle complex WooCommerce migrations, database serialization updates, and zero-downtime DNS cutovers. I will safely backup your legacy files from Exact Hosting, map your historical image paths to prevent broken links, and properly configure your GoDaddy and Network Solutions DNS records—ensuring your MX and TXT/SPF settings remain entirely untouched so your email communication stays 100% active. Finally, I’ll implement clean 301 redirects, provision the SSL, and handle the Search Console transition. \n\nAre you ready to schedule this cutover, and do you currently have temporary access credentials ready for Network Solutions, GoDaddy, and Exact Hosting?",
+    "publishedDateTime": "2026-11-05T19:54:01+0000",
+    "addedAt": "2026-11-05T19:56:37.667Z",
+    "url": "https://www.upwork.com/jobs/~022118431636898161154",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118431636898161154/apply/"
+  },
+  {
     "id": "2118426471691081401",
     "ciphertext": "~022118426471691081401",
     "title": "WordPress designer/developer for a 50-page HVAC & plumbing company website",
