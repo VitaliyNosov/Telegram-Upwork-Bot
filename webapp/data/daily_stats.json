@@ -1,8 +1,18 @@
 {
   "date": "2026-11-07",
   "lastDigestSentDate": "2026-11-06",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "We're Hiring: Experienced Web Designer / Developer",
+      "budget": "Fixed-price",
+      "score": 91,
+      "url": "https://www.upwork.com/jobs/~022118849856896081652",
+      "addedAt": "2026-11-06T23:38:34.901Z"
+    }
+  ]
 }
