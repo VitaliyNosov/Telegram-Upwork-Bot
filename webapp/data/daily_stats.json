@@ -1,13 +1,20 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 22,
-  "matchedFilters": 6,
+  "totalScanned": 23,
+  "matchedFilters": 7,
   "byKeyword": {
     "woocommerce": 1,
-    "wordpress developer": 5
+    "wordpress developer": 6
   },
   "topJobs": [
+    {
+      "title": "Skool Front Page Optimization",
+      "budget": "$15-$60/hr",
+      "score": 6000,
+      "url": "https://www.upwork.com/jobs/~022118578992744368387",
+      "addedAt": "2026-11-06T05:40:38.655Z"
+    },
     {
       "title": "WordPress/Webflow Developer: Build, Maintain & Edit Small Business Websites (Ongoing)",
       "budget": "$20-$40/hr",
