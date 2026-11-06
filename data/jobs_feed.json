@@ -1,5 +1,34 @@
 [
   {
+    "id": "2118745713950198019",
+    "ciphertext": "~022118745713950198019",
+    "title": "Senior French-Speaking Web Developer",
+    "description": "Experienced web developers are needed for a fully remote, long-term collaboration on websites and digital projects.\n\nThe role requires strong technical expertise, an excellent eye for design, and consistently high standards of quality. The ability to turn an approved brief into a polished, reliable, and easy-to-use website is essential.\n\nResponsibilities:\n\nDevelop and customize WordPress websites based on approved designs and project requirements.\n\nBuild modern, responsive pages with consistent typography, spacing, navigation, and visual hierarchy.\n\nImplement forms, multilingual content, booking systems, payments, and third-party integrations.\n\nWrite maintainable code and select appropriate themes, plugins, and development tools.\n\nIdentify technical, design, and usability problems, propose solutions, and implement them.\n\nOptimize website performance, accessibility, and security.\n\nTest every deliverable before submission, including mobile layouts, browser compatibility, links, forms, and integrations.\n\nCommunicate clearly, flag blockers early, and meet agreed deadlines.\n\nRequired experience and skills:\n\nAt least five years of professional web development experience, supported by a strong portfolio of live websites.\n\nAdvanced WordPress knowledge, including customization, troubleshooting, maintenance, and plugin compatibility.\n\nExperience with Toolkit. Please specify the exact product used and the level of expertise.\n\nStrong skills in HTML, CSS, JavaScript, and PHP.\n\nExperience with Elementor, Divi, or similar page builders, plus the ability to develop custom solutions.\n\nThe ability to accurately translate Figma designs or visual references into functioning websites.\n\nExcellent attention to detail, including spacing, visual consistency, mobile layouts, navigation, and interactive elements.\n\nA structured approach to testing, backups, staging, and deployment.\n\nFluent French is required. Working English is an advantage.\n\nDetails:\n\nFully remote, long-term collaboration.\n\nApplications are open to individuals and established teams. Please specify which applies.\n\nHow to apply:\n\nPlease answer the following questions in French:\n\nShare two or three live websites you developed. For each one, explain your exact contribution, the tools used, and any custom features implemented.\n\nDescribe a challenging WordPress problem you solved. What caused it, how did you investigate it, and what was the result?\n\nHow do you turn an approved design into a polished website that works well across desktop, tablet, and mobile?\n\nWhat do you check before considering a website ready for client review and launch? Describe your actual process.\n\nWhich tools do you use regularly, and what is your experience with WordPress, Toolkit, and custom development?\n\nState your availability, typical turnaround time, and hourly or project-based rates. Please specify the currency.\n\nOnly submit work you personally completed or clearly identify your team’s contribution. Applications will be assessed on the quality of the live websites, the clarity of the answers, and the attention to detail demonstrated.\n\nThe first delivery must reflect the standard shown in the portfolio. Consistent quality, reliable communication, and respect for deadlines are essential to continuing the collaboration.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.58,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 265,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "french",
+      "web-design"
+    ],
+    "score": 92,
+    "coverLetter": "Hi! \n\n*(Note: While my professional working profile and technical stack are fully in English, my developer portfolio demonstrates extensive experience building high-quality, responsive WordPress sites from Figma designs.)*\n\nWith over 5 years of professional web development experience, I specialize in turning design briefs into polished, high-performance WordPress websites. My stack includes advanced PHP, JavaScript, CSS, and deep expertise with custom development alongside builders like Elementor and Divi. For instance, I recently developed [https://www.thelifeyoucansave.org/](https://www.thelifeyoucansave.org/), handling custom functionality, responsive layouts, and performance optimization. \n\nI follow a rigorous workflow—utilizing staging environments, thorough mobile/cross-browser testing, and security hardening—before any launch. I apply as an individual freelancer ready for a long-term collaboration. \n\nCould we schedule a quick chat to discuss your upcoming projects and technical requirements?",
+    "publishedDateTime": "2026-11-06T16:42:02+0000",
+    "addedAt": "2026-11-06T16:44:41.058Z",
+    "url": "https://www.upwork.com/jobs/~022118745713950198019",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118745713950198019/apply/"
+  },
+  {
     "id": "2118714553740926708",
     "ciphertext": "~022118714553740926708",
     "title": "WordPress Developer Needed: 7-Page Tire Catalog Site (Scalable for Future WooCommerce E-commerce)",

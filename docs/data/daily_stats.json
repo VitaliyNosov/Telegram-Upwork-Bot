@@ -1,11 +1,11 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 38,
-  "matchedFilters": 8,
+  "totalScanned": 39,
+  "matchedFilters": 9,
   "byKeyword": {
     "woocommerce": 1,
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -63,6 +63,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022118483840609929429",
       "addedAt": "2026-11-05T23:26:38.569Z"
+    },
+    {
+      "title": "Senior French-Speaking Web Developer",
+      "budget": "Fixed-price",
+      "score": 92,
+      "url": "https://www.upwork.com/jobs/~022118745713950198019",
+      "addedAt": "2026-11-06T16:44:39.603Z"
     }
   ]
 }
