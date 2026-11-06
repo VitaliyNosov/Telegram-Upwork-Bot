@@ -1,11 +1,11 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 41,
-  "matchedFilters": 9,
+  "totalScanned": 42,
+  "matchedFilters": 10,
   "byKeyword": {
     "woocommerce": 1,
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -28,6 +28,13 @@
       "score": 2894,
       "url": "https://www.upwork.com/jobs/~022118506666963869428",
       "addedAt": "2026-11-06T00:54:36.671Z"
+    },
+    {
+      "title": "Web creation/Design",
+      "budget": "$12-$25/hr",
+      "score": 2592,
+      "url": "https://www.upwork.com/jobs/~022118764922842344581",
+      "addedAt": "2026-11-06T18:00:39.428Z"
     },
     {
       "title": "WordPress Developer Needed: 7-Page Tire Catalog Site (Scalable for Future WooCommerce E-commerce)",

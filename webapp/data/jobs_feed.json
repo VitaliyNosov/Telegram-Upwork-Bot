@@ -1,5 +1,36 @@
 [
   {
+    "id": "2118764922842344581",
+    "ciphertext": "~022118764922842344581",
+    "title": "Web creation/Design",
+    "description": "Need to update my magazine website but keep current content. Looking for assistance building/creating a website/design. Need help immediately. Could lead to ongoing work",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$12 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.6,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 86,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress",
+      "graphic-design",
+      "adobe-photoshop",
+      "web-programming",
+      "visual-design"
+    ],
+    "score": 2592,
+    "coverLetter": "Hi! \n\nI can help you update your magazine website, refresh the design, and migrate all of your current content safely without any downtime. \n\nAs a WordPress developer, I specialize in both custom redesigns and structural updates while preserving existing databases and SEO rankings. Whether you need a modern layout overhaul, better readability for articles, or optimized performance, I can get started immediately. \n\nFor a quick reference of my recent work on content-heavy and publication sites, you can check out https://about.offerup.com/. \n\nAre you looking to stick with your current theme and freshen it up, or would you prefer a completely new layout built from scratch? Let's chat about what you envision.",
+    "publishedDateTime": "2026-11-06T17:58:20+0000",
+    "addedAt": "2026-11-06T18:00:40.895Z",
+    "url": "https://www.upwork.com/jobs/~022118764922842344581",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118764922842344581/apply/"
+  },
+  {
     "id": "2118745713950198019",
     "ciphertext": "~022118745713950198019",
     "title": "Senior French-Speaking Web Developer",
