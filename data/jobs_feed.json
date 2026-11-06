@@ -1,5 +1,34 @@
 [
   {
+    "id": "2118819094046676410",
+    "ciphertext": "~022118819094046676410",
+    "title": "Website Redesign for Consulting Firm",
+    "description": "We are a specialty consulting firm seeking a designer to interview us and recommend new website options that better reflect the work we do and the clients we serve. The project includes reviewing our current site, understanding our brand and audience, and presenting alternative design directions with updated content and visuals. We want someone who can translate our business into a polished, professional website that improves our online presence and better communicates our value.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nTranslating a specialty consulting firm’s expertise into a polished, professional website that truly connects with your clients is right in my wheelhouse. I specialize in turning brand visions into clean, high-performing WordPress websites that communicate value and elevate your online presence. \n\nRather than just a fresh coat of paint, I focus on building intuitive layouts from the ground up—whether working from Figma or designing custom structures using advanced WordPress tools. For instance, you can take a look at my work on https://about.offerup.com/ or https://www.thelifeyoucansave.org/, which reflect the clean, professional aesthetic you are looking for. \n\nI’d love to learn more about your current site and the types of clients you serve. What platform is your current site built on, and when are you hoping to have the new design live?",
+    "publishedDateTime": "2026-11-06T21:33:35+0000",
+    "addedAt": "2026-11-06T21:36:38.306Z",
+    "url": "https://www.upwork.com/jobs/~022118819094046676410",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118819094046676410/apply/"
+  },
+  {
     "id": "2118801339754370745",
     "ciphertext": "~022118801339754370745",
     "title": "Senior French-Speaking Web Developer",

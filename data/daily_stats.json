@@ -1,11 +1,11 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-06",
-  "totalScanned": 58,
-  "matchedFilters": 11,
+  "totalScanned": 59,
+  "matchedFilters": 12,
   "byKeyword": {
     "woocommerce": 1,
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -63,6 +63,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022118563207388032133",
       "addedAt": "2026-11-06T04:38:37.409Z"
+    },
+    {
+      "title": "Website Redesign for Consulting Firm",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022118819094046676410",
+      "addedAt": "2026-11-06T21:36:36.994Z"
     },
     {
       "title": "Website Creation for a Marketing Company",
