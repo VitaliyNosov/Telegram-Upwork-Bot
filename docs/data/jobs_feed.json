@@ -1,5 +1,33 @@
 [
   {
+    "id": "2118574606251172354",
+    "ciphertext": "~022118574606251172354",
+    "title": "Wordpress community platform",
+    "description": "I am seeking an experienced WordPress developer to complete and customize a membership-based leadership and community platform for a nonprofit organization. The platform will bring together  leaders, changemakers, nonprofit professionals, entrepreneurs, advocates, and mission-driven individuals to connect, collaborate, share resources, and access leadership opportunities. We already have an existing WordPress website and need a freelancer to complete the platform setup, functionality, and design.\n\nThe scope of work includes setting up a secure member registration and login system, customizable membership profiles, a searchable member directory, interactive community forums and discussion boards, and private member-to-member chat and messaging. The developer will also create a centralized member dashboard, configure notifications and user permissions, and customize the overall design to align with our organization's branding. The platform should be modern, professional, user-friendly, mobile-responsive, and seamlessly integrated with our existing website.\n\nThe ideal freelancer will have proven experience developing WordPress membership and community platforms, with knowledge of BuddyPress, or similar plugins. Strong skills in WordPress customization, CSS, PHP, HTML, JavaScript, and website design are preferred. Responsibilities include assessing the existing website, recommending the best technical solutions, completing all features, testing functionality, resolving issues, and delivering a fully operational platform ready for members. Please include relevant portfolio examples and estimated timeline.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 66,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I’d love to help your nonprofit complete and polish this membership and community platform. Building engaging, secure community spaces on WordPress is right in my wheelhouse.\n\nI have extensive experience setting up robust WordPress membership systems, user directories, private messaging, and interactive community boards using plugins like BuddyPress and advanced custom fields. Beyond functionality, I ensure the user experience is modern, mobile-responsive, and seamlessly integrated with your existing branding and infrastructure. You can see examples of my recent nonprofit and organization work at https://www.thelifeyoucansave.org/.\n\nI can quickly audit your current setup, recommend the best plugins to keep the platform lightweight and secure, and get everything fully operational. \n\nWhen are you hoping to have the platform officially launched for your members? Let's chat about the details!",
+    "publishedDateTime": "2026-11-06T05:22:04+0000",
+    "addedAt": "2026-11-06T05:24:40.652Z",
+    "url": "https://www.upwork.com/jobs/~022118574606251172354",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118574606251172354/apply/"
+  },
+  {
     "id": "2118563207388032133",
     "ciphertext": "~022118563207388032133",
     "title": "Quick website refresh",
