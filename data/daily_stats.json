@@ -1,11 +1,11 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 8,
-  "matchedFilters": 3,
+  "totalScanned": 9,
+  "matchedFilters": 4,
   "byKeyword": {
     "woocommerce": 1,
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -14,6 +14,13 @@
       "score": 4000,
       "url": "https://www.upwork.com/jobs/~022118491205713226885",
       "addedAt": "2026-11-05T23:54:35.422Z"
+    },
+    {
+      "title": "Clone a site from my server. Upload to a new temp domain.",
+      "budget": "$10-$28/hr",
+      "score": 2894,
+      "url": "https://www.upwork.com/jobs/~022118506666963869428",
+      "addedAt": "2026-11-06T00:54:36.671Z"
     },
     {
       "title": "E-Commerce Website Developer – Personalized Crystal & Granite Memorials",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "2118506666963869428",
+    "ciphertext": "~022118506666963869428",
+    "title": "Clone a site from my server. Upload to a new temp domain.",
+    "description": "right now it's just one task\n\nIn the destination site’s Site Tools  Site  File Manager, use the 'xyz' folder, or create a separate temporary folder/site for the clone.\n\nFrom the source site, create an archive of the WordPress files, including wp-admin, wp-includes, wp-content, and the root files.\n\nExport the source site’s database from Site Tools  Site  MySQL  phpMyAdmin. For databases larger than 50 MB, use the large-database import method or SSH instead.\nUpload and extract the archive into the destination folder.\n\nCreate a new database and database user in the destination site’s Site Tools  Site  MySQL section.\nEdit the cloned wp-config.php file so it uses the new database name, username, and password.\nImport the source SQL file into the new database.\nReplace the old WordPress URLs in the cloned database with the temporary URL, folder URL, or other address you will use to access the copy while the domain remains unpointed.\n\nDo not replace the live site’s files or database.\n\nmust know how to do this already. preferably a fixed price as it's a straightforward task. \n\nhttps://my.siteground.com/support/tutorials/wordpress/clone-wordpress\n\nother small tasks for jobs in the near future but for now i just need this done",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$10 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.69,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 228,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 2894,
+    "coverLetter": "Hi!\n\nI can knock this migration out for you right away. I regularly handle WordPress site clones, database exports, manual file archives, and URL replacements specifically within SiteGround's Site Tools environment, so I won't need any hand-holding. \n\nI'll ensure the files and database are correctly transferred to your temporary folder, update the `wp-config.php` credentials, perform the necessary search-and-replace for the URLs without touching your live environment, and verify everything is running smoothly. \n\nSince this is a straightforward task, I'm happy to do it as a fixed-price job. If it goes well, I'm also ready to help with your upcoming small tasks. \n\nWhat is the temporary URL or folder path you'd like me to use? Let's get started.",
+    "publishedDateTime": "2026-11-06T00:52:08+0000",
+    "addedAt": "2026-11-06T00:54:37.750Z",
+    "url": "https://www.upwork.com/jobs/~022118506666963869428",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118506666963869428/apply/"
+  },
+  {
     "id": "2118491205713226885",
     "ciphertext": "~022118491205713226885",
     "title": "WordPress/Webflow Developer: Build, Maintain & Edit Small Business Websites (Ongoing)",
