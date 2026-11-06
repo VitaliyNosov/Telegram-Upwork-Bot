@@ -1,5 +1,40 @@
 [
   {
+    "id": "2118714553740926708",
+    "ciphertext": "~022118714553740926708",
+    "title": "WordPress Developer Needed: 7-Page Tire Catalog Site (Scalable for Future WooCommerce E-commerce)",
+    "description": "Job Description\n\nOverview:\nWe are launching a new tire company and need a clean, mobile-responsive 7-page WordPress website. This will launch as an informational product catalog (no live checkout), but must be built to scale seamlessly into a WooCommerce e-commerce store later. No bloated themes or heavy configurations that require a total rebuild down the line.\nOur Infrastructure:\n• Hosting: Hostinger (Premium WordPress plan)\n• DNS: Cloudflare (You will handle pointing the A record)\n• Email: Google Workspace is already live. Do not disturb the MX records.\nTotal Scope (7 Pages):\n• Home & About Us\n• 3 Product Pages: Pickup Tires, Trailer Tires, Tractor/Ag Tires (Configured as a visual product catalog with \"Inquire for Quote\" buttons/forms).\n• Blog & Contact Us (With form and Google Maps)\nTechnical Requirements:\n• Lightweight framework (Astra, Kadence, or Hello Elementor) using Elementor Pro or Gutenberg.\n• Clean taxonomy structure optimized for Hostinger’s native MariaDB database environment, ensuring tire variants (sizes, ply, load indexes) can scale to WooCommerce seamlessly.\n• Optimized for LiteSpeed caching.\n• Clean URL structures so category pages rank independently.\nApplication Requirement:\nDo NOT use a generic automated greeting like \"Hello\" or \"Dear\" in your response. Instead, start your proposal with your favorite brand of tires, and tell me in one short sentence how you will handle large image galleries for tractor tires without slowing down a Hostinger server. Please include 2–3 links to live WordPress sites you have built.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 11,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php",
+      "javascript",
+      "css",
+      "html",
+      "ecommerce-consulting",
+      "e-commerce-website"
+    ],
+    "score": 200,
+    "coverLetter": "Michelin; I will lazy-load next-gen WebP formats and leverage Hostinger's LiteSpeed caching to keep large tractor tire galleries lightning fast. \n\nI can build your 7-page tire catalog using a lightweight framework (like Hello Elementor or Kadence) with a clean custom taxonomy structure via ACF. This ensures your product attributes (sizes, ply, load indexes) are organized correctly from day one, allowing a seamless transition to WooCommerce in the future without a rebuild. I will also properly configure your Cloudflare DNS and A records while leaving your Google Workspace MX settings entirely untouched.\n\nHere are a few live WordPress sites I’ve developed:\n- https://www.snopud.com/\n- https://www.seeintl.org/\n- https://waapple.org/\n\nWhen do you want to kick this off?",
+    "publishedDateTime": "2026-11-06T14:42:33+0000",
+    "addedAt": "2026-11-06T14:46:38.909Z",
+    "url": "https://www.upwork.com/jobs/~022118714553740926708",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118714553740926708/apply/"
+  },
+  {
     "id": "2118578992744368387",
     "ciphertext": "~022118578992744368387",
     "title": "Skool Front Page Optimization",
