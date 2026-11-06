@@ -1,5 +1,35 @@
 [
   {
+    "id": "2118563207388032133",
+    "ciphertext": "~022118563207388032133",
+    "title": "Quick website refresh",
+    "description": "I have a requirement for a quick website refresh.\nI have all the content, design and infographics in powerpoint, and need to reflect it on my website. Currently I have it on framer but open to your recommendations.,\n\nIf we are aligned we can get on a quick call to further discuss the project.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "framer",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you quickly refresh your website and bring your PowerPoint content, designs, and infographics to life. Since you currently use Framer but mentioned you are open to recommendations, I can work within Framer or transition the site to WordPress depending on which platform best suits your long-term goals and content management needs. \n\nI have extensive experience translating designs and layouts from mockups into clean, high-performing websites. For a recent example of my web development work, you can take a look at https://www.thelifeyoucansave.org/. \n\nAre you leaning toward keeping the site on Framer, or would you like to discuss the pros and cons of moving it to WordPress? Let’s jump on a quick call to map this out.",
+    "publishedDateTime": "2026-11-06T04:36:54+0000",
+    "addedAt": "2026-11-06T04:38:38.458Z",
+    "url": "https://www.upwork.com/jobs/~022118563207388032133",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022118563207388032133/apply/"
+  },
+  {
     "id": "2118506666963869428",
     "ciphertext": "~022118506666963869428",
     "title": "Clone a site from my server. Upload to a new temp domain.",

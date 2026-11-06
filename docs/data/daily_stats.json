@@ -1,11 +1,11 @@
 {
   "date": "2026-11-06",
   "lastDigestSentDate": "2026-11-05",
-  "totalScanned": 18,
-  "matchedFilters": 4,
+  "totalScanned": 19,
+  "matchedFilters": 5,
   "byKeyword": {
     "woocommerce": 1,
-    "wordpress developer": 3
+    "wordpress developer": 4
   },
   "topJobs": [
     {
@@ -28,6 +28,13 @@
       "score": 147,
       "url": "https://www.upwork.com/jobs/~022118472213386873045",
       "addedAt": "2026-11-05T22:40:36.325Z"
+    },
+    {
+      "title": "Quick website refresh",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022118563207388032133",
+      "addedAt": "2026-11-06T04:38:37.409Z"
     },
     {
       "title": "Website Creation for a Marketing Company",
