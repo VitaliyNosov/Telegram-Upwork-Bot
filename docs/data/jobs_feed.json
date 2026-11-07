@@ -1,5 +1,34 @@
 [
   {
+    "id": "2119013222913857020",
+    "ciphertext": "~022119013222913857020",
+    "title": "Senior Web Developer Need",
+    "description": "We are looking for an experienced web developer, or an established team, to build WordPress websites for our clients. Our standards are very high. Every site must be fast, secure, flawless on every device and pleasant to use.\n\nWe are meticulous, and we want every client project to be unique and exceptional. If you like to work fast and move on to the next job, please do not apply.\n\nWhat you will do:\n\nTurn approved designs (Figma or visual references) into polished, responsive WordPress websites\nImplement forms, multilingual content, booking systems, payments and third-party integrations\nMake every site fast, secure and accessible from day one, not as an afterthought\nTest everything before delivery: mobile, browsers, links, forms, integrations\nCommunicate clearly, flag problems early and meet deadlines\n\nWhat we require:\n\nAt least 5 years of professional web development, with live websites to show\nAdvanced WordPress skills (customization, troubleshooting, plugin compatibility)\nStrong HTML, CSS, JavaScript and PHP\nExperience with Elementor, Divi or similar, and the ability to code custom solutions\nExperience with Toolkit (please specify which product and your level)\nProven skills in performance optimization and website security\nA rigorous process for testing, backups, staging and deployment\n\nTo apply, answer these questions:\n\nShare 2 or 3 live websites you built. What exactly did you do on each one?\nHow do you secure a WordPress site? Describe the measures you put in place, from setup to launch and maintenance.\nHow do you make a site load fast? Tell us what results you usually reach (PageSpeed, Core Web Vitals, load time).\nWhat do you check before you consider a site ready to launch?\nAre you applying as an individual or a team? Give your availability, turnaround time and rates (with currency).\n\nOnly submit work you or your team actually did. Your first delivery must match the quality shown in your portfolio. If it does not, we will end the collaboration.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.58,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 268,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "php"
+    ],
+    "score": 92,
+    "coverLetter": "Hi! \n\nI build high-performance, secure, and pixel-perfect WordPress websites that meet rigorous design and quality standards. I am applying as an individual with full-time availability, a typical turnaround of 2-3 weeks per site depending on complexity, and an hourly rate of $45/hr. \n\nHere are answers to your questions:\n\n1. **Portfolio Examples:**\n- https://www.thelifeyoucansave.org/ — Built custom post types, optimized speed, and implemented responsive layouts.\n- https://www.daysforgirls.org/ — Developed custom functionality, integrated third-party tools, and handled multi-device responsiveness and rigorous QA testing.\n\n2. **WordPress Security Measures:** I secure sites by enforcing strong authentication, disabling file editing, changing default login URLs, installing reliable firewalls, keeping core/plugins updated via staging environments, and configuring regular automated backups.\n\n3. **Speed Optimization:** I optimize images, leverage advanced caching, clean up database bloat, minify CSS/JS, and utilize a CDN. I consistently achieve 90+ Google PageSpeed scores and pass all Core Web Vitals with sub-2-second load times.\n\n4. **Pre-Launch Checklist:** I verify mobile/cross-browser responsiveness, test all forms and integrations, check SSL certificates, ensure broken links are resolved, and confirm staging-to-live migration integrity.\n\nLet’s chat about your upcoming client projects and how I can help.",
+    "publishedDateTime": "2026-11-07T10:24:59+0000",
+    "addedAt": "2026-11-07T10:28:26.902Z",
+    "url": "https://www.upwork.com/jobs/~022119013222913857020",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119013222913857020/apply/"
+  },
+  {
     "id": "2118950826462637189",
     "ciphertext": "~022118950826462637189",
     "title": "WordPress Website Designer & Developer",
