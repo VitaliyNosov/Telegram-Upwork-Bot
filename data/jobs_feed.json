@@ -1,5 +1,34 @@
 [
   {
+    "id": "2119137517074606482",
+    "ciphertext": "~022119137517074606482",
+    "title": "Fix PHP Issue",
+    "description": "Need a developer to resolve a specific PHP issue on an existing website. The work involves identifying the problem, making the necessary corrections, and testing the fix to ensure everything works as expected. Please share relevant experience with similar fixes and your approach to troubleshooting and resolving issues quickly and reliably.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$12 - $60/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 57,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "mysql",
+      "wordpress",
+      "mysql-programming"
+    ],
+    "score": 6100,
+    "coverLetter": "Hi! \n\nI can quickly diagnose and resolve your PHP issue. As a WordPress and backend developer with extensive experience debugging PHP errors, MySQL queries, and plugin conflicts, I regularly handle fatal errors, white screens of death, and unexpected script failures. \n\nMy troubleshooting approach is direct: I replicate the issue in a staging environment to protect your live site, inspect error logs to trace the root cause, apply a clean and secure PHP/MySQL fix, and thoroughly test functionality before deploying. \n\nCould you share the specific error message you're seeing or what triggers the issue? I am ready to jump in and get this sorted out for you right away.",
+    "publishedDateTime": "2026-11-07T18:38:52+0000",
+    "addedAt": "2026-11-07T18:42:26.359Z",
+    "url": "https://www.upwork.com/jobs/~022119137517074606482",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119137517074606482/apply/"
+  },
+  {
     "id": "2119079509446376214",
     "ciphertext": "~022119079509446376214",
     "title": "WordPress site white-screened after Elementor update — needs restoring",

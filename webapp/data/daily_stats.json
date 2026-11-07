@@ -1,12 +1,19 @@
 {
   "date": "2026-11-07",
   "lastDigestSentDate": "2026-11-06",
-  "totalScanned": 31,
-  "matchedFilters": 7,
+  "totalScanned": 32,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
+    {
+      "title": "Fix PHP Issue",
+      "budget": "$12-$60/hr",
+      "score": 6100,
+      "url": "https://www.upwork.com/jobs/~022119137517074606482",
+      "addedAt": "2026-11-07T18:42:25.336Z"
+    },
     {
       "title": "WordPress Developer/Designer to Create Real Estate Website using Kadence Theme & Blocks (~50 Pages)",
       "budget": "Fixed-price",
