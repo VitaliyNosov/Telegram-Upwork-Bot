@@ -1,5 +1,35 @@
 [
   {
+    "id": "2119079509446376214",
+    "ciphertext": "~022119079509446376214",
+    "title": "WordPress site white-screened after Elementor update — needs restoring",
+    "description": "WordPress site white-screened after Elementor update — needs restoring\n\nDescription:\n\nUpdated Elementor and the whole site went to a white screen. Front end and /wp-admin both dead. Hosting is not renewed and there's no live URL, so the only thing that exists is the site's own export.\n\nWhat needs doing:\n\nRestore the site and roll the broken pieces back\nGet the admin and the pages opening again\nGet the contact form working\nCheck nothing else got hit on the way (links, nav, menus)\nSend me a short note of what you changed, and an export back so I hold a working copy\nIt's a small site: 6 pages, one contact form, no shop, no memberships, no bookings, low traffic. No redesign, no new features — it just needs to open and work again.\n\nNo live URL to look at, so I'll send you the full export: database and files in a zip. I'd like to see it up and running before we go further — a screenshot is enough at this stage.\n\nBudget is modest and the scope is small. Let me know your fixed price and how long the restore takes, plus anything you'd check first.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor",
+      "web-programming",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can quickly spin up a local staging environment using your site export, diagnose the Elementor fatal error causing the white screen of death, roll back the problematic update, and get both your frontend and `/wp-admin` back online. \n\nAs a WordPress developer who frequently resolves post-update crashes, fatal errors, and Elementor conflicts, I know exactly where to look first—typically a PHP memory limit exhaustion, an outdated PHP version, or a conflicting plugin hook left behind by the update. \n\nOnce restored, I'll test your contact form and navigation links, provide a screenshot for your approval, document what went wrong, and hand you a clean, updated working export zip. \n\nWhat PHP version is your hosting environment running? Send over the export zip whenever you're ready, and I'll get this fixed for you right away.",
+    "publishedDateTime": "2026-11-07T17:49:13+0000",
+    "addedAt": "2026-11-07T17:50:24.903Z",
+    "url": "https://www.upwork.com/jobs/~022119079509446376214",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119079509446376214/apply/"
+  },
+  {
     "id": "2119106437612492284",
     "ciphertext": "~022119106437612492284",
     "title": "Looking for a web developer for a website redesign (Wordpress/WooCommerce)",

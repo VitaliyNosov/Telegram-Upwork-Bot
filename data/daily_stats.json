@@ -1,10 +1,10 @@
 {
   "date": "2026-11-07",
   "lastDigestSentDate": "2026-11-06",
-  "totalScanned": 30,
-  "matchedFilters": 6,
+  "totalScanned": 31,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 91,
       "url": "https://www.upwork.com/jobs/~022118849856896081652",
       "addedAt": "2026-11-06T23:38:34.901Z"
+    },
+    {
+      "title": "WordPress site white-screened after Elementor update — needs restoring",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022119079509446376214",
+      "addedAt": "2026-11-07T17:50:23.598Z"
     }
   ]
 }
