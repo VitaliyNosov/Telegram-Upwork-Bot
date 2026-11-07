@@ -1,67 +1,8 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "lastDigestSentDate": "2026-11-07",
-  "totalScanned": 38,
-  "matchedFilters": 8,
-  "byKeyword": {
-    "wordpress developer": 8
-  },
-  "topJobs": [
-    {
-      "title": "Fix PHP Issue",
-      "budget": "$12-$60/hr",
-      "score": 6100,
-      "url": "https://www.upwork.com/jobs/~022119137517074606482",
-      "addedAt": "2026-11-07T18:42:25.336Z"
-    },
-    {
-      "title": "WordPress Developer/Designer to Create Real Estate Website using Kadence Theme & Blocks (~50 Pages)",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022118859675024201146",
-      "addedAt": "2026-11-07T00:18:38.775Z"
-    },
-    {
-      "title": "Looking for a web developer for a website redesign (Wordpress/WooCommerce)",
-      "budget": "Fixed-price",
-      "score": 146,
-      "url": "https://www.upwork.com/jobs/~022119106437612492284",
-      "addedAt": "2026-11-07T16:38:24.515Z"
-    },
-    {
-      "title": "WordPress Website Designer & Developer",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022118948795046928898",
-      "addedAt": "2026-11-07T06:12:22.637Z"
-    },
-    {
-      "title": "WordPress Website Designer & Developer",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022118950826462637189",
-      "addedAt": "2026-11-07T09:22:25.118Z"
-    },
-    {
-      "title": "Senior Web Developer Need",
-      "budget": "Fixed-price",
-      "score": 92,
-      "url": "https://www.upwork.com/jobs/~022119013222913857020",
-      "addedAt": "2026-11-07T10:28:24.633Z"
-    },
-    {
-      "title": "We're Hiring: Experienced Web Designer / Developer",
-      "budget": "Fixed-price",
-      "score": 91,
-      "url": "https://www.upwork.com/jobs/~022118849856896081652",
-      "addedAt": "2026-11-06T23:38:34.901Z"
-    },
-    {
-      "title": "WordPress site white-screened after Elementor update — needs restoring",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022119079509446376214",
-      "addedAt": "2026-11-07T17:50:23.598Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
