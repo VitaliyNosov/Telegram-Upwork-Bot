@@ -1,5 +1,35 @@
 [
   {
+    "id": "2119106437612492284",
+    "ciphertext": "~022119106437612492284",
+    "title": "Looking for a web developer for a website redesign (Wordpress/WooCommerce)",
+    "description": "Hi everyone!\nI’m looking for a web developer who can assist me with a major overhaul of my website: (shadesofvengeance.com)⁠\n\nIt’s currently in a slightly strange state, as it was split into three websites for reasons that made sense at the time:\n- era-games.com\n- sovcomics.com\n- erascapes.com\nAll three are essentially the same WordPress / WooCommerce setup with only minor variations. \n\nHowever, this split is now hurting SEO and causing issues, so I’d like to recombine everything into one clear, well-structured site.\n\nI also want to move away from my decade-plus-old theme and replace it with something more modern. Part of this work has already been done by a previous person, but they then committed a breach of trust by cutting a corner that left all our paid files exposed. I'm happy for you to use the current theme as an example, but I really am struggling with the specific changes made and would prefer to start again with the process, as it's not worked out well using Elementor and the various database changes.\n\nI have a detailed list of requirements for what I would like, which I've kept updating with specifics as things were \"misunderstood\".\n\nThere are a few important requirements:\n- The biggest is that all existing products must remain available to customers who already own them. Customers currently have accounts and downloadable products, and this access must be preserved.\n- Several add-ons/plugins are business-critical, some of which are custom, so they must continue working after the rebuild.\n\nThe site is hosted on Hosting24 Gold level. I expect sensible safeguards before major changes, including backups and a rollback plan if something goes badly wrong, though this is not a minute-to-minute urgent live issue.\n\nThe store has over 200 products, so it may need some optimisation or better organisation as part of the overhaul.\n\nI’d also like to avoid unnecessary dependencies (such as ELementor) and keep the site clean, maintainable, and future-proof.\n\nI’m looking for someone to handle the technical implementation, and to start immediately. I've patched the exposure issue for now, but I am concerned about the long-term implications of what has happened.\n\nClear communication is important throughout.\n\nPlease include examples of similar work you’ve done, especially site consolidations, migrations, or theme overhauls using WordPress/WooCommerce.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.8,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 181,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "html",
+      "woocommerce"
+    ],
+    "score": 146,
+    "coverLetter": "Hi! I can help you successfully consolidate your three split sites back into a single, secure WordPress/WooCommerce platform while completely cleaning up that outdated theme and ditching unnecessary heavy builders like Elementor.\n\nHaving handled complex migrations, database cleanups, and WooCommerce store overhauls, I know how critical it is to preserve customer accounts, download permissions, and custom plugins without exposing your digital assets. I always work on a staging environment with strict backups and a rollback plan in place before touching the live site. \n\nMy work on sites like https://www.snopud.com/ demonstrates my ability to build clean, well-structured, and high-performing WordPress sites.\n\nCould you share your detailed requirements list so I can review the custom plugins and product structure to map out the consolidation?",
+    "publishedDateTime": "2026-11-07T16:35:26+0000",
+    "addedAt": "2026-11-07T16:38:25.663Z",
+    "url": "https://www.upwork.com/jobs/~022119106437612492284",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119106437612492284/apply/"
+  },
+  {
     "id": "2119013222913857020",
     "ciphertext": "~022119013222913857020",
     "title": "Senior Web Developer Need",
