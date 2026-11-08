@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 1,
-  "matchedFilters": 1,
+  "totalScanned": 2,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 94,
       "url": "https://www.upwork.com/jobs/~022119556408846466137",
       "addedAt": "2026-11-08T22:26:21.972Z"
+    },
+    {
+      "title": "Web Developer for Portal Access Page",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022119557409272854484",
+      "addedAt": "2026-11-08T22:30:25.208Z"
     }
   ]
 }
