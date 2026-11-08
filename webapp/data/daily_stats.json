@@ -1,12 +1,19 @@
 {
   "date": "2026-11-08",
   "lastDigestSentDate": "2026-11-07",
-  "totalScanned": 22,
-  "matchedFilters": 1,
+  "totalScanned": 23,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "# WordPress Search Upgrade Developer Needed (Chinese Preferred)",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022119390613262789765",
+      "addedAt": "2026-11-08T11:26:23.676Z"
+    },
     {
       "title": "Build a website using Claude Code",
       "budget": "Fixed-price",

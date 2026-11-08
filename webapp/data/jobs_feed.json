@@ -1,5 +1,39 @@
 [
   {
+    "id": "2119390613262789765",
+    "ciphertext": "~022119390613262789765",
+    "title": "# WordPress Search Upgrade Developer Needed (Chinese Preferred)",
+    "description": "We are looking for an experienced WordPress developer to improve the search functionality of an existing website.\n\n### Project Overview\n\nOur website currently uses WordPress's native search system as its foundation. We would like to upgrade it to a faster and more user-friendly search solution.\n\nWe will provide a few reference websites to demonstrate the search functionality, interface, and response speed we want to achieve.\n\n### What Needs to Be Done\n\n- Review the current WordPress search setup.\n- Recommend and implement a suitable search solution.\n- Improve search speed, accuracy, and overall user experience.\n- Integrate the search functionality with the existing frontend.\n- Handle backend setup, testing, and final deployment.\n\nThe specific technical approach is flexible and can be discussed.\n\n### Requirements\n\n- Good experience with WordPress, PHP, JavaScript, and MySQL.\n- Familiarity with WordPress plugins and search functionality.\n- Experience with similar search improvements is a plus.\n- Able to handle the task independently.\n- Please share examples of your previous work.\n- **Chinese communication is preferred, but not required.**\n- A short live technical interview will be part of the selection process.\n\n### Communication\n\nAI tools are welcome for development, but please communicate in your own words rather than using AI-generated replies.\n\nWe prefer short, clear, and practical communication.\n\n---\n\n# 招聘：WordPress 搜索功能升级开发者（中文优先）\n\n我们正在寻找一位有 WordPress 开发经验的工程师，帮助改进现有网站的搜索功能。\n\n### 项目介绍\n\n网站目前以 WordPress 原生搜索系统为基础，希望升级为速度更快、使用体验更好的搜索功能。\n\n我们会提供几个参考网站，希望新的搜索功能在**搜索效果、界面交互和响应速度方面尽可能接近参考网站**。\n\n### 工作内容\n\n- 检查当前 WordPress 搜索功能。\n- 推荐并实现合适的搜索升级方案。\n- 优化搜索速度、准确性及使用体验。\n- 对接现有网站的前端搜索界面。\n- 完成后端配置、测试及最终上线。\n\n具体使用什么技术，可以一起讨论。\n\n### 开发者要求\n\n- 熟悉 WordPress、PHP、JavaScript、MySQL。\n- 了解 WordPress 插件及搜索功能的开发。\n- 有类似搜索优化经验者优先。\n- 能独立完成开发和部署。\n- 请提供过去开发的网站或相关项目案例。\n- **中文沟通优先，但不是必须。**\n- 招聘过程中会安排一次简短的实时技术面试。\n\n### 沟通要求\n\n开发过程中可以使用 AI 工具，但项目沟通请使用自己的语言，不要直接发送 AI 生成的回复。\n\n我们更喜欢简单、直接、高效率的沟通。",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Japan",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "javascript",
+      "css",
+      "html",
+      "html5",
+      "css3",
+      "api",
+      "mysql"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can definitely help you upgrade your WordPress search system to be faster, more accurate, and provide a seamless user experience similar to your reference sites. \n\nReplacing native WordPress search with an optimized solution (such as Elasticsearch, Algolia, or an advanced plugin setup depending on your database size) is a core part of my high-traffic site performance optimization and PHP/MySQL backend work. I will handle the entire setup—from backend indexing and frontend integration to testing and deployment—ensuring fast response times and clean UI interaction. \n\nYou can review some of my recent WordPress work here: https://www.snopud.com/\n\nAre the reference websites you mentioned currently available to share so I can review the desired search UX? I am also fully comfortable with a short technical interview whenever you are ready.",
+    "publishedDateTime": "2026-11-08T11:25:04+0000",
+    "addedAt": "2026-11-08T11:26:25.072Z",
+    "url": "https://www.upwork.com/jobs/~022119390613262789765",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119390613262789765/apply/"
+  },
+  {
     "id": "2119293492329724694",
     "ciphertext": "~022119293492329724694",
     "title": "Build a website using Claude Code",
