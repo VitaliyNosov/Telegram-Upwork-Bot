@@ -1,5 +1,35 @@
 [
   {
+    "id": "2119368103488589647",
+    "ciphertext": "~022119368103488589647",
+    "title": "Custom WordPress Widget for Sidebar",
+    "description": "Custom WordPress Widget for Sidebar \n\nHi! I need a custom sidebar widget that shows upcoming events pulled from our custom post type. The default \"Recent Posts\" widget doesn't work for events.\n\nWhat needs to be done:\n- Build a custom widget that queries the \"Events\" custom post type\n- Display next 5 upcoming events (based on event date custom field)\n- Each event shows: title (linked), date, time, location\n- Auto-hide past events\n- Widget settings: number of events to show, category filter, \"View All Events\" link toggle\n- Style the widget to match the current theme\n- Register it properly so it appears in Appearance → Widgets\n- Build as a small plugin (not in functions.php)\n\nPlease include in your proposal:\n- Estimated timeline and cost\n\nI'll provide access and details about the existing Events CPT.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "css",
+      "javascript",
+      "php",
+      "woocommerce"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I can build this custom events sidebar widget for you as a clean, standalone plugin with all the requested settings, date-based querying, and auto-hiding for past events. \n\nMy profile is heavily focused on custom WordPress development, including registering custom widgets, working with Advanced Custom Fields/custom post types, and writing clean PHP, CSS, and JavaScript. For instance, I recently built custom WordPress functionality and layouts for sites like https://www.cchpca.org/ and https://waapple.org/, ensuring everything integrates seamlessly with the active theme and appears properly under Appearance → Widgets.\n\nEstimated Timeline: 1 to 2 days.\nEstimated Cost: $100 - $150 (depending on exact CPT field structure).\n\nWhenever you're ready, share the access details and CPT structure, and I can get started right away.",
+    "publishedDateTime": "2026-11-08T12:55:10+0000",
+    "addedAt": "2026-11-08T12:58:24.706Z",
+    "url": "https://www.upwork.com/jobs/~022119368103488589647",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119368103488589647/apply/"
+  },
+  {
     "id": "2119390613262789765",
     "ciphertext": "~022119390613262789765",
     "title": "# WordPress Search Upgrade Developer Needed (Chinese Preferred)",

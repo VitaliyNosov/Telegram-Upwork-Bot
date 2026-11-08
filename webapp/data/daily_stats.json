@@ -1,10 +1,10 @@
 {
   "date": "2026-11-08",
   "lastDigestSentDate": "2026-11-07",
-  "totalScanned": 24,
-  "matchedFilters": 2,
+  "totalScanned": 25,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022119293492329724694",
       "addedAt": "2026-11-08T05:02:23.031Z"
+    },
+    {
+      "title": "Custom WordPress Widget for Sidebar",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022119368103488589647",
+      "addedAt": "2026-11-08T12:58:23.512Z"
     }
   ]
 }
