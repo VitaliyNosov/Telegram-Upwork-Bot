@@ -1,53 +1,8 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 42,
-  "matchedFilters": 6,
-  "byKeyword": {
-    "wordpress developer": 6
-  },
-  "topJobs": [
-    {
-      "title": "Elementor Pro Developer for 4 Page Templates",
-      "budget": "$12-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022119509035040599173",
-      "addedAt": "2026-11-08T19:18:23.691Z"
-    },
-    {
-      "title": "# WordPress Search Upgrade Developer Needed (Chinese Preferred)",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022119390613262789765",
-      "addedAt": "2026-11-08T11:26:23.676Z"
-    },
-    {
-      "title": "Build a website using Claude Code",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022119293492329724694",
-      "addedAt": "2026-11-08T05:02:23.031Z"
-    },
-    {
-      "title": "Add Site to App and Tech Directories",
-      "budget": "Fixed-price",
-      "score": 95,
-      "url": "https://www.upwork.com/jobs/~022119519984744722180",
-      "addedAt": "2026-11-08T20:02:23.460Z"
-    },
-    {
-      "title": "Custom WordPress Widget for Sidebar",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022119368103488589647",
-      "addedAt": "2026-11-08T12:58:23.512Z"
-    },
-    {
-      "title": "Veteran News and Gear Site Build",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022119422390844583684",
-      "addedAt": "2026-11-08T13:34:24.072Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
