@@ -1,8 +1,18 @@
 {
   "date": "2026-11-08",
   "lastDigestSentDate": "2026-11-07",
-  "totalScanned": 13,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 15,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Build a website using Claude Code",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022119293492329724694",
+      "addedAt": "2026-11-08T05:02:23.031Z"
+    }
+  ]
 }

@@ -1,5 +1,31 @@
 [
   {
+    "id": "2119293492329724694",
+    "ciphertext": "~022119293492329724694",
+    "title": "Build a website using Claude Code",
+    "description": "This is my current website - fully on wordpress - www.itihasika.com\n\nThis is my new design. I need you to use Claude code and create a full fledged website integrated with Amazon and VIMEO OTT for the new design shown below. I'll provide more details on a PPT for those that qualify. Website should be fully aligned with design shown below and completely adapted to cell phone and tablet.\n\nHome: https://viktoriabugina.github.io/portfolio/concepts/itihasika/\nAbout us: https://viktoriabugina.github.io/portfolio/concepts/itihasika/about.html\nBooks: https://viktoriabugina.github.io/portfolio/concepts/itihasika/books.html\nSingle book: https://viktoriabugina.github.io/portfolio/concepts/itihasika/book.html\n\n\nBasabdutta Das\n12:00 AM\nOnce again can you please check the pages sequentially\n\n\n\nHome page: https://www.figma.com/proto/mjQkpqwqRhM9T2q6OTRVQE/itihasika2-basab?node-id=104-6&t=o0wAWLxUPG2pg5Kk-8&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=104%3A6&hide-ui=1\n\nlist page: https://www.figma.com/proto/mjQkpqwqRhM9T2q6OTRVQE/itihasika2-basab?node-id=468-6&t=o0wAWLxUPG2pg5Kk-8&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=104%3A6&hide-ui=1\n\ndetails page: https://www.figma.com/proto/mjQkpqwqRhM9T2q6OTRVQE/itihasika2-basab?node-id=471-3580&t=dbpvay6lzcq7dWbx-0&scaling=scale-do",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 293,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can help you rebuild itihasika.com using your new design concepts and Figma prototypes, ensuring seamless integration with Amazon and Vimeo OTT while fully leveraging modern workflows like Claude Code. \n\nAs an experienced WordPress developer, I specialize in custom theme development from Figma designs, ensuring pixel-perfect layouts that are fully responsive across mobile, tablet, and desktop devices. My background includes building robust custom WordPress sites (such as waapple.org and thelifeyoucansave.org), handling complex third-party API integrations, and optimizing media-heavy pages for performance.\n\nI'd love to take a look at the PPT and review the sequential Figma pages in detail. Could you share the presentation so we can discuss the implementation steps?",
+    "publishedDateTime": "2026-11-08T04:58:40+0000",
+    "addedAt": "2026-11-08T05:02:24.165Z",
+    "url": "https://www.upwork.com/jobs/~022119293492329724694",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119293492329724694/apply/"
+  },
+  {
     "id": "2119137517074606482",
     "ciphertext": "~022119137517074606482",
     "title": "Fix PHP Issue",
