@@ -1,5 +1,33 @@
 [
   {
+    "id": "2119556408846466137",
+    "ciphertext": "~022119556408846466137",
+    "title": "Design web site w/ Password access/ Data storage/ SEO",
+    "description": "Job Title: WordPress/Webflow Designer for 17–20 Page Template Site (Password Access, Google Sheets Forms & SEO)\nProject Overview:\nLooking for a web designer to build a clean, text-focused 17–20 page website using a pre-made template on WordPress or Webflow. I will provide all written text, logo, and basic images—no custom coding or copywriting needed.\nRequirements:\n•\tDesign: 17–20 mobile-friendly pages built from a clean template using my provided text and logo.\n•\tPassword Access: A single shared password that unlocks all private pages at once (no individual user logins needed).\n•\tData Storage: Multi-page forms that save entries, send automatic email alerts, and sync in real time to a live Google Sheet.\n•\tBasic SEO: Install a free SEO plugin (Yoast or Rank Math) to set up titles, meta descriptions, and Google indexing for public pages, while keeping password-protected pages hidden (\"noindex\") from Google.\nTo Apply, Please Include:\n1.\tLinks to 2–3 similar template websites you have built.\n2.\tWhich platform/plugins you recommend for the shared password and Google Sheets sync.\n3.\tYour fixed-price quote and turnaround time (plus optional monthly pricing if you also offer 1-year ongoing SEO).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.71,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "seo"
+    ],
+    "score": 94,
+    "coverLetter": "Hi! For this project, I recommend building on WordPress using ACF/Gravity Forms for the Google Sheets real-time sync and a lightweight membership/cookie plugin for the site-wide shared password access. \n\nYou can check out a clean, template-based multi-page build I did here: https://www.thelifeyoucansave.org/. \n\nI can efficiently lay out your 17–20 provided text pages, set up the Google Sheets form integration with email alerts, configure Yoast/Rank Math to properly noindex the password-protected pages, and ensure everything is fully mobile-friendly. \n\nMy fixed-price quote for this build is [Insert Amount], and the turnaround time is [Insert Days]. For ongoing 1-year SEO, my monthly rate is [Insert Amount/Optional]. \n\nLet’s chat about getting this started!",
+    "publishedDateTime": "2026-11-08T22:23:25+0000",
+    "addedAt": "2026-11-08T22:26:23.136Z",
+    "url": "https://www.upwork.com/jobs/~022119556408846466137",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119556408846466137/apply/"
+  },
+  {
     "id": "2119519984744722180",
     "ciphertext": "~022119519984744722180",
     "title": "Add Site to App and Tech Directories",
