@@ -1,5 +1,34 @@
 [
   {
+    "id": "2119509035040599173",
+    "ciphertext": "~022119509035040599173",
+    "title": "Elementor Pro Developer for 4 Page Templates",
+    "description": "Bowery Boost is a senior-led performance marketing and creative agency in NYC, serving beauty, fashion and DTC brands. We’re adding 4 SEO landing pages to our existing WordPress site.\n\nWhat’s ready for you\nFinished designs for all 8 pages, desktop and mobile\nA full build spec: global colors and fonts, 12 reusable components, the section order for each page, all copy, and the SEO titles and meta descriptions\nAn existing site on Hello Elementor + Elementor Pro, with a global header and footer already in place\n\nThe design and copy work is done. We need a clean, faithful, native Elementor build.\n\nScope\nSet up the Elementor global styles from the spec\nBuild 12 reusable components as saved templates\nAssemble 4 pages from the components, responsive on desktop, tablet and phone\nEnter the Yoast SEO fields, set up internal links and footer links, and add redirects where specified\n\n\nRequirements\n3+ years building in Elementor Pro, with native widgets and containers (no page-wide HTML widgets)\nA pixel-careful eye: matching designs closely is the job\nClear communication and progress updates on Upwork",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$12 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 94,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "css",
+      "html",
+      "html5",
+      "css3"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI’d love to help you build out these 4 SEO landing pages for Bowery Boost. Since your designs, copy, and spec are completely ready, you just need a clean, pixel-accurate build using native Elementor Pro containers and global styles—which is right in my wheelhouse.\n\nI have extensive experience building high-performing, responsive pages using Hello Elementor and Elementor Pro, strictly avoiding bloated HTML widgets to ensure fast load times and clean code. I'll efficiently set up your 12 reusable global templates, assemble the pages to match your mobile and desktop specs down to the pixel, and handle the Yoast SEO, internal linking, and redirects smoothly. \n\nYou can check out some of my recent WordPress builds here: https://www.thelifeyoucansave.org/\n\nWhen would you like to kick this off?",
+    "publishedDateTime": "2026-11-08T19:15:11+0000",
+    "addedAt": "2026-11-08T19:18:25.032Z",
+    "url": "https://www.upwork.com/jobs/~022119509035040599173",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119509035040599173/apply/"
+  },
+  {
     "id": "2119422390844583684",
     "ciphertext": "~022119422390844583684",
     "title": "Veteran News and Gear Site Build",

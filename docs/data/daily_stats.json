@@ -1,12 +1,19 @@
 {
   "date": "2026-11-08",
   "lastDigestSentDate": "2026-11-07",
-  "totalScanned": 38,
-  "matchedFilters": 4,
+  "totalScanned": 39,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Elementor Pro Developer for 4 Page Templates",
+      "budget": "$12-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022119509035040599173",
+      "addedAt": "2026-11-08T19:18:23.691Z"
+    },
     {
       "title": "# WordPress Search Upgrade Developer Needed (Chinese Preferred)",
       "budget": "Fixed-price",
