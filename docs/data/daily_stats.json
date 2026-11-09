@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 54,
-  "matchedFilters": 10,
+  "totalScanned": 55,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 2900,
       "url": "https://www.upwork.com/jobs/~022119759504381798802",
       "addedAt": "2026-11-09T11:52:24.320Z"
+    },
+    {
+      "title": "Front-End WordPress / Elementor Developer — Ongoing Website Support",
+      "budget": "$15-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022119863458362128340",
+      "addedAt": "2026-11-09T18:48:27.028Z"
     },
     {
       "title": "WordPress Website Developer Needed – Migrate & Rebuild Luxury Travel Website",

@@ -1,5 +1,38 @@
 [
   {
+    "id": "2119863458362128340",
+    "ciphertext": "~022119863458362128340",
+    "title": "Front-End WordPress / Elementor Developer — Ongoing Website Support",
+    "description": "We are looking for a reliable **Front-End WordPress / Elementor Developer** to provide ongoing support and improvements for an established healthcare website.\n\nOur website is already in a strong technical position. The backend infrastructure, security configuration, analytics, SEO foundation, booking integrations, and performance standards have already been established by our previous developer. We are **not looking for a backend rebuild or major restructuring**.\n\nThe primary focus of this role will be maintaining and improving the **front-end user experience, design, responsiveness, and presentation** of the website while preserving the existing technical foundation.\n\nResponsibilities include:\n\n- Build and update pages using WordPress and Elementor Pro\n- Improve page layouts, spacing, typography, and visual consistency\n- Ensure strong mobile and tablet responsiveness\n- Create or update landing pages and conversion-focused sections\n- Optimize images and front-end media\n- Make improvements to blog layouts and page presentation\n- Implement approved design changes without disrupting existing functionality\n- Maintain existing SEO-friendly page structure\n- Perform quality assurance across desktop and mobile devices\n- Troubleshoot front-end display or formatting issues\n- Coordinate with our team before making changes that could affect integrations or site performance\n\nImportant things to consider:\n\nThe site already has established systems for:\n- GoHighLevel booking and chat\n- Google Analytics and Google Tag Manager\n- SEO and structured data\n- Website security\n- Cloudflare\n- Caching and performance optimization\n- Custom tracking and integrations\n\nWe are looking for someone who is comfortable working **within an existing website environment** and understands the importance of preserving systems that are already working well.\n\nChanges to backend infrastructure, server settings, security configurations, tracking code, or major integrations should not be made without prior approval.\n\nSkills We Are Looking For:\n\nStrong experience with:\n- WordPress\n- Elementor Pro\n- Front-End Development\n- Responsive Web Design\n- HTML/CSS\n- Website Optimization\n- Landing Page Design\n- UI/UX\n- On-page SEO awareness\n- Mobile optimization\n\nExperience with GoHighLevel integrations is a plus.\n\nHow We Like to Work:\n\nWe value:\n- **Fluent English communication**, both written and spoken\n- Clear and consistent communication\n- Transparency when issues arise\n- Asking questions before making major changes\n- Careful testing before changes are pushed live\n- Strong attention to detail\n- Respect for existing website systems and documentation\n- **Discretion and confidentiality regarding our website, business information, credentials, and internal systems**\n- **Strong security awareness when accessing and working within our website**\n- Responsible handling of login credentials and administrative access\n- A willingness to follow established security and access procedures\n\nBecause this is a healthcare-related business, **discretion, confidentiality, and responsible website access are particularly important to us**.\n\nThis is intended to become an **ongoing relationship** rather than a one-time website project.\n\nWe will likely begin with a small paid trial assignment before moving into ongoing work.\n\nWhen applying, please include examples of WordPress/Elementor websites you have worked on and briefly explain your experience maintaining or improving an existing production website without rebuilding it.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$15 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "frontend-development",
+      "landing-pages",
+      "elementor",
+      "web-design",
+      "website-optimization",
+      "seo",
+      "user-experience-design"
+    ],
+    "score": 2600,
+    "coverLetter": "Hi! I regularly handle ongoing front-end support for established WordPress and Elementor Pro sites like yours, where preserving existing back-end integrations, tracking, and performance is the top priority. \n\nMy approach to maintaining production websites is careful and structured: I focus entirely on improving UI/UX, layouts, typography, and mobile responsiveness without disrupting underlying systems like GoHighLevel, Cloudflare, or analytics. I always test thoroughly across devices before pushing any front-end changes live. \n\nFor relevant work, you can check out https://www.cchpca.org/—a site where I’ve managed custom layouts and responsive updates while keeping a complex existing structure completely intact.\n\nI fully respect the discretion and security required for a healthcare-related business and am happy to start with a small paid trial assignment to demonstrate my workflow. \n\nWhen would you like to discuss the trial task?",
+    "publishedDateTime": "2026-11-09T18:43:33+0000",
+    "addedAt": "2026-11-09T18:48:28.318Z",
+    "url": "https://www.upwork.com/jobs/~022119863458362128340",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119863458362128340/apply/"
+  },
+  {
     "id": "2119859701206445189",
     "ciphertext": "~022119859701206445189",
     "title": "Website Migration from Shopify",
