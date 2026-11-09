@@ -1,5 +1,33 @@
 [
   {
+    "id": "2119665638421183577",
+    "ciphertext": "~022119665638421183577",
+    "title": "WordPress Website Development",
+    "description": "I’m setting up an online tutoring company and need a professional, modern website. I already have the website content prepared and have purchased the domain through GoDaddy.\n\nI’m looking for a developer who can design and build a website with the following capabilities:\n\n- Professional pages describing our tutoring services, subjects, programs, and pricing.\n- Parent/student inquiry forms to capture leads and consultation requests.\n- Payment integration so parents can purchase tutoring packages or services online.\n- A section where users can download lesson plans, study materials, and other educational resources, with the ability to make certain content available only to registered or paying users.\n- A scalable structure that can eventually integrate with our existing tutoring platform for student accounts, scheduling, tutor access, and other features.\n\nA few questions:\n\n1. What would you charge to design and develop this website, based on these requirements?\n2. What platform would you recommend (WordPress, Wix, Webflow, or a custom-built website), and why?\n3. Can you integrate payment processing, inquiry forms, email notifications, and downloadable resources?\n4. Can the website be built to support future integration with our tutoring platform without requiring a complete rebuild?\n5. Will the website be mobile-friendly, SEO-optimized, and easy for me to update without a developer?\n6. What hosting, maintenance, security, and ongoing costs should I expect?\n7. Do you provide support after launch, and how long would it take to complete the project?\n8. Have you built websites for tutoring companies, education businesses, or online learning platforms? Please share examples.\n\nI already have the content and domain, so I’m primarily looking for design, hosting (if possible) development, integrations, and launch. I’m a startup and working within a budget, so I would appreciate a cost-effective proposal with the option to add more advanced features as the business grows.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.6,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "web-design",
+      "seo"
+    ],
+    "score": 92,
+    "coverLetter": "Hi! \n\nI’d love to help you build a professional, cost-effective website for your new tutoring company. Having your content and GoDaddy domain ready puts us in a great starting position. Here are my answers to your questions:\n\n1 & 2. I recommend **WordPress (with WooCommerce)**. It is budget-friendly, highly scalable, SEO-optimized, and gives you an intuitive dashboard to update content easily without touching code. (Unlike Wix or Webflow, it won’t trap you in proprietary systems and can easily integrate with your future tutoring platform).\n3. Yes, I regularly set up secure payment processing (Stripe/PayPal), lead-capture inquiry forms, automated email notifications, and gated membership/downloadable content for registered users.\n4. Yes, we can build it using a modular structure (using Custom Post Types and REST API readiness) so it connects seamlessly to your future platform without a rebuild.\n5. Absolutely. It will be 100% mobile-responsive, Core Web Vitals-optimized for speed and SEO, and user-friendly for your day-to-day edits.\n6 & 7. Standard hosting runs around $10–$25/month. I include post-launch support and security hardening, and a project like this typically takes 2–3 weeks to complete. \n8. While I haven't built a direct tutoring portal, I have built several clean, professional service and membership sites such as https://www.thelifeyoucansave.org/ and waapple.org, focusing on lead generation and user engagement.\n\nLet’s chat about your budget and get this launched! When are you hoping to have the site live?",
+    "publishedDateTime": "2026-11-09T05:37:27+0000",
+    "addedAt": "2026-11-09T05:40:36.136Z",
+    "url": "https://www.upwork.com/jobs/~022119665638421183577",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119665638421183577/apply/"
+  },
+  {
     "id": "2119565439478329092",
     "ciphertext": "~022119565439478329092",
     "title": "Client Portal Setup for WordPress",
