@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 55,
-  "matchedFilters": 11,
+  "totalScanned": 57,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -48,6 +48,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022119859701206445189",
       "addedAt": "2026-11-09T18:30:25.908Z"
+    },
+    {
+      "title": "Build a Wordpress website. Layout example provided.",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022119870343667476882",
+      "addedAt": "2026-11-09T19:14:25.319Z"
     },
     {
       "title": "Wordpress website designer",

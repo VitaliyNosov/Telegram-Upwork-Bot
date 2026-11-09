@@ -1,5 +1,32 @@
 [
   {
+    "id": "2119870343667476882",
+    "ciphertext": "~022119870343667476882",
+    "title": "Build a Wordpress website. Layout example provided.",
+    "description": "Build a Wordpress website. The hosting and domain is set up. I have selected a layout design I'd like to emulate, with a home page, 2 service pages, a course sign-up page, one product page, and an about page.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi!\n\nI can help you build your new WordPress website based on your layout example. With hosting and a domain already set up, we can move straight into development. \n\nI specialize in custom WordPress builds and theme development, ensuring your home page, service pages, course sign-up page, product page, and about page are clean, fully responsive, and easy for you to manage. Whether you need Gutenberg, Elementor, or Advanced Custom Fields (ACF), I’ll build a high-performing site that matches your vision. You can see examples of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nCould you share the layout example and any specific course or product integration requirements you have in mind? Let’s get started.",
+    "publishedDateTime": "2026-11-09T19:10:53+0000",
+    "addedAt": "2026-11-09T19:14:26.398Z",
+    "url": "https://www.upwork.com/jobs/~022119870343667476882",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119870343667476882/apply/"
+  },
+  {
     "id": "2119863458362128340",
     "ciphertext": "~022119863458362128340",
     "title": "Front-End WordPress / Elementor Developer — Ongoing Website Support",
