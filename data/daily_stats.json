@@ -1,12 +1,19 @@
 {
   "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 44,
-  "matchedFilters": 6,
+  "totalScanned": 45,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
+    {
+      "title": "WordPress / Elementor Developer – High-Risk Payment Processing Website (Adult, Gaming & Wellness)",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022119837729011231122",
+      "addedAt": "2026-11-09T17:06:26.719Z"
+    },
     {
       "title": "Web Developer for WordPress Tasks",
       "budget": "$10-$28/hr",
