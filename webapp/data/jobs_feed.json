@@ -1,5 +1,34 @@
 [
   {
+    "id": "2119759504381798802",
+    "ciphertext": "~022119759504381798802",
+    "title": "Web Developer for WordPress Tasks",
+    "description": "We need a web developer to manage ongoing WordPress tasks for our website. The work includes updating content, making layout and design changes, troubleshooting issues, and supporting general site maintenance. You should be comfortable handling day-to-day updates, improving site performance, and keeping the site running smoothly. This is a long-term role for someone reliable, responsive, and able to work independently on WordPress-related tasks as needed.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$10 - $28/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "css",
+      "html"
+    ],
+    "score": 2900,
+    "coverLetter": "Hi! \n\nI’d love to help you manage your ongoing WordPress tasks, handle day-to-day updates, and keep your site running fast and smoothly. \n\nAs a professional WordPress developer with extensive experience in custom development, troubleshooting, and site maintenance, I am fully equipped to handle layout adjustments, bug fixes, and performance optimization independently. You can rely on me for quick turnarounds and clean, reliable code. \n\nFor a look at my recent work, here is one of my live WordPress projects: https://www.thelifeyoucansave.org/\n\nAre there any specific immediate updates or performance issues you'd like me to tackle first? Let's chat!",
+    "publishedDateTime": "2026-11-09T11:50:27+0000",
+    "addedAt": "2026-11-09T11:52:25.277Z",
+    "url": "https://www.upwork.com/jobs/~022119759504381798802",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119759504381798802/apply/"
+  },
+  {
     "id": "2119722748715142991",
     "ciphertext": "~022119722748715142991",
     "title": "WordPress Website Developer Needed – Migrate & Rebuild Luxury Travel Website",
