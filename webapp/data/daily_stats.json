@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 49,
-  "matchedFilters": 8,
+  "totalScanned": 50,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 9
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022119722748715142991",
       "addedAt": "2026-11-09T09:28:22.856Z"
+    },
+    {
+      "title": "Wordpress website designer",
+      "budget": "Fixed-price",
+      "score": 96,
+      "url": "https://www.upwork.com/jobs/~022119851531463256466",
+      "addedAt": "2026-11-09T17:58:24.037Z"
     },
     {
       "title": "Design web site w/ Password access/ Data storage/ SEO",
