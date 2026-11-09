@@ -1,5 +1,33 @@
 [
   {
+    "id": "2119915869953650436",
+    "ciphertext": "~022119915869953650436",
+    "title": "Wordpress malware, security expert + developer",
+    "description": "wordpress site\n\ncustom built backend with plugins, etc\n\nmay or may not still have issues by the time i hire you\n\ncurrently has malware or something on it.\n\n1. need to update plugins and make sure site still functions with the custom setup\n\n2. help prevent future attacks, malware, etc. \n\n3. monitor website moving forward \n\nThis role is more developer leaning with an emphasis on security",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$25 - $100/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 617,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "wordpress-malware-removal",
+      "security-analysis"
+    ],
+    "score": 10099,
+    "coverLetter": "Hi! \n\nI can help clean up the malware, safely update your plugins without breaking your custom backend setup, and lock down your site to prevent future attacks. \n\nAs a WordPress security and developer expert, I specialize in hacked site recovery, complex plugin conflict resolution, and proactive security hardening. For instance, I recently secured and optimized high-impact sites like https://www.thelifeyoucansave.org/ to ensure they remain stable and protected against vulnerabilities.\n\nBeyond the initial cleanup, I can set up robust monitoring and ongoing maintenance so you don't have to worry about recurring security issues. \n\nAre the plugins currently outdated or throwing any errors, or is the site still actively showing malware warnings? Let's get this sorted out.",
+    "publishedDateTime": "2026-11-09T22:12:07+0000",
+    "addedAt": "2026-11-09T22:14:26.568Z",
+    "url": "https://www.upwork.com/jobs/~022119915869953650436",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119915869953650436/apply/"
+  },
+  {
     "id": "2119870343667476882",
     "ciphertext": "~022119870343667476882",
     "title": "Build a Wordpress website. Layout example provided.",
