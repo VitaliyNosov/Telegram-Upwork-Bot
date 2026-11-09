@@ -1,5 +1,36 @@
 [
   {
+    "id": "2119722748715142991",
+    "ciphertext": "~022119722748715142991",
+    "title": "WordPress Website Developer Needed – Migrate & Rebuild Luxury Travel Website",
+    "description": "# WordPress Website Developer Needed – Migrate & Rebuild Luxury Travel Website for SAZ Travel Collection\n\n**Project Type:** Fixed Price / Short-Term Project  \n**Timeline:** Immediate Start – Fast Turnaround Required  \n**Platform:** WordPress / Hostinger\n\n## About SAZ Travel Collection\n\nSAZ Travel Collection is a luxury travel company specializing in curated African safaris, Kilimanjaro expeditions, cultural journeys, and tailor-made international travel experiences.\n\nWe currently have a website that was originally built using **Hercules** and is deployed on Hostinger. We want to transition the website to **WordPress** so we can easily manage, edit, and update our content without needing a developer for every small change.\n\n## Project Overview\n\nWe are looking for an experienced WordPress developer to migrate and rebuild our existing website into a fully functional, professional, and easy-to-manage WordPress website.\n\nThe goal is to maintain the existing SAZ Travel Collection branding and overall design direction while improving functionality, performance, and ease of use.\n\nWe have already received recommendations from a website expert regarding features and improvements. We want the selected developer to review and implement those recommendations as part of the project.\n\n## Scope of Work\n\n- Migrate/rebuild the existing Hercules website into WordPress.\n- Preserve the existing website's branding, layout, images, and overall design direction.\n- Make the website fully editable through the WordPress dashboard.\n- Implement all recommended features and improvements provided by our website expert.\n- Ensure the website is fully responsive across desktop, tablet, and mobile.\n- Optimize website speed, performance, and SEO structure.\n- Improve navigation and user experience.\n- Ensure contact forms, inquiry forms, booking inquiries, and other existing features work properly.\n- Integrate relevant social media links and marketing features.\n- Ensure all pages, images, links, and content are properly transferred.\n- Configure WordPress properly on our existing Hostinger hosting account.\n- Provide a short handover/tutorial showing us how to edit pages, update trips, change images, and manage content.\n\n## Ideal Candidate\n\nWe are looking for someone who:\n\n- Has strong experience building luxury travel, tourism, hospitality, or tour operator websites.\n- Is highly experienced with WordPress and professional page builders.\n- Understands website migration and hosting configuration.\n- Has a strong eye for modern, elegant, luxury website design.\n- Can work efficiently and meet a short deadline.\n- Communicates clearly and provides regular progress updates.\n\n## Important Project Requirements\n\nThis is a time-sensitive project. We would like someone who can start immediately and complete the work as quickly as possible without compromising quality.\n\nWe are looking for a long-term relationship with the right developer for future website updates and improvements.\n\n**When applying, please provide:**\n\n1. Examples of WordPress websites you have built, preferably in travel or hospitality.\n2. Your recommended approach for migrating our existing Hercules website to WordPress.\n3. Your estimated completion time.\n4. Your fixed-price quote.\n5. Confirmation that you can work directly with our existing Hostinger hosting setup.\n\nWe are ready to move forward with the right person immediately.\n\n**SAZ Travel Collection – Luxury Journeys. Extraordinary Experiences.**",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "woocommerce",
+      "html",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can start immediately on migrating and rebuilding the SAZ Travel Collection website on your Hostinger account, ensuring it is fully editable and optimized for your luxury brand. \n\nFor your migration from Hercules, my approach involves auditing your current content structure, setting up a clean, high-performance WordPress environment (using Gutenberg or your preferred builder with ACF), and meticulously transferring all pages, booking inquiry forms, and media assets while preserving your branding and improving Core Web Vitals. \n\nA great example of my clean, responsive WordPress work is https://www.seeintl.org/. I am fully experienced with Hostinger configurations, can meet your fast turnaround requirement, and would love to support you long-term.\n\nCould you share the website expert's recommendations and current URL so I can provide an accurate fixed-price quote and timeline?",
+    "publishedDateTime": "2026-11-09T09:24:24+0000",
+    "addedAt": "2026-11-09T09:28:24.347Z",
+    "url": "https://www.upwork.com/jobs/~022119722748715142991",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119722748715142991/apply/"
+  },
+  {
     "id": "2119665638421183577",
     "ciphertext": "~022119665638421183577",
     "title": "WordPress Website Development",

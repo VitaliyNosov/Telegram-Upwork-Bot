@@ -1,12 +1,19 @@
 {
   "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 25,
-  "matchedFilters": 4,
+  "totalScanned": 26,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "WordPress Website Developer Needed – Migrate & Rebuild Luxury Travel Website",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022119722748715142991",
+      "addedAt": "2026-11-09T09:28:22.856Z"
+    },
     {
       "title": "Design web site w/ Password access/ Data storage/ SEO",
       "budget": "Fixed-price",
