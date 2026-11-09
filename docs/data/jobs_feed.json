@@ -1,5 +1,36 @@
 [
   {
+    "id": "2119839623947446674",
+    "ciphertext": "~022119839623947446674",
+    "title": "Website Updates & New Homes Pages",
+    "description": "We are looking for a WordPress/Elementor developer to add new Air Conditioning section and menu to an existing website\n\nDescription:\n\nWe’re AirToHeat, an MCS-certified heat pump installer based in London. We’re expanding our services into air conditioning and air-to-air heat pump systems, and need an experienced WordPress and Elementor developer to add a new section to our existing website: airtoheat.co.uk\n\nScope of work:\n\nAdd a new top-level menu item, “Air To Air”, to the main navigation, with a drop-down menu matching the style of our existing menus.\nBuild 3 to 4 new pages under the drop-down, for example:\nAir Conditioning for Homes\nAir-to-Air Heat Pumps\nMulti-Split Systems\nCommercial Air Conditioning\nDesign the pages in Elementor to match our existing site layout and brand guidelines (fonts, colours and logo usage). We’ll supply the guidelines.\nInclude a quote or enquiry button on each page linking to our existing quote form.\nMake sure all pages are fully responsive on mobile, tablet and desktop.\nSet up basic on-page SEO for each new page: page titles, meta descriptions, headings, image alt text and URL structure.\nMake sure nothing on the existing site breaks, including menus, forms and tracking.\n\nWe’ll provide the written content and images. If you can also offer SEO copywriting for the new pages, please let me know. \n\nWhat we’re looking for:\n\nProven experience with WordPress and Elementor. \nStrong attention to design detail and consistency.\nGood written English and clear communication.\nExperience with trade or service-business websites is a bonus.",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$5 - $30/hr",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "html",
+      "graphic-design",
+      "web-design",
+      "landing-pages"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi AirToHeat team! \n\nI can help you seamlessly expand your website for your new air conditioning services while keeping your exact brand style intact. \n\nAs an experienced WordPress and Elementor developer, I routinely build custom landing pages and complex navigation drop-downs that integrate perfectly with existing site designs, forms, and tracking. I will ensure all 3-4 new \"Air To Air\" pages are fully responsive, feature your quote/enquiry buttons, and include clean on-page SEO setup. \n\nYou can check out some of my recent WordPress builds here: https://www.waapple.org/\n\nCould you share the brand guidelines and content whenever you are ready? I’d love to get started on this for you.",
+    "publishedDateTime": "2026-11-09T17:10:29+0000",
+    "addedAt": "2026-11-09T17:12:26.506Z",
+    "url": "https://www.upwork.com/jobs/~022119839623947446674",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119839623947446674/apply/"
+  },
+  {
     "id": "2119837729011231122",
     "ciphertext": "~022119837729011231122",
     "title": "WordPress / Elementor Developer – High-Risk Payment Processing Website (Adult, Gaming & Wellness)",

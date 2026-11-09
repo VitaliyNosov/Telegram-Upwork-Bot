@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 45,
-  "matchedFilters": 7,
+  "totalScanned": 46,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022119837729011231122",
       "addedAt": "2026-11-09T17:06:26.719Z"
+    },
+    {
+      "title": "Website Updates & New Homes Pages",
+      "budget": "$5-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022119839623947446674",
+      "addedAt": "2026-11-09T17:12:25.264Z"
     },
     {
       "title": "Web Developer for WordPress Tasks",
