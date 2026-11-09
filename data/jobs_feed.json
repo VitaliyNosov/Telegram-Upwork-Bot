@@ -1,5 +1,35 @@
 [
   {
+    "id": "2119565439478329092",
+    "ciphertext": "~022119565439478329092",
+    "title": "Client Portal Setup for WordPress",
+    "description": "Client Portal Setup for WordPress\n\nHi! I'm looking for a specialist to create a simple client portal on my WordPress site. I want clients to log in and see their project status, documents, and invoices in one place.\n\nWhat needs to be done:\n\nSet up user registration and login pages with a clean design\nCreate a private dashboard area visible only to logged-in clients\nAdd sections for project updates, uploaded files, and invoices\nMake sure each client sees only their own data\nAdd email notifications when new files or updates are added\nKeep the portal simple and easy to use on mobile\n\nIt would be great if you could include the following in your proposal:\n\nYour experience building client portals on WordPress\nEstimated timeline and cost\n\nI'll provide all necessary access rights. If you have suggestions for plugins or features that would make the portal more useful, I'd be happy to discuss them with you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design",
+      "woocommerce"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I specialize in building secure, user-friendly client portals and membership systems on WordPress. \n\nTo set this up cleanly without overcomplicating things, I typically configure a secure membership/user role system (using plugins like Paid Memberships Pro or UserWP, depending on your preference) combined with a private dashboard plugin like Client Portal or JetEngine to isolate data per client. I also integrate private file-sharing and invoice viewing (which we can connect to WooCommerce or an invoicing plugin) with automated email notifications.\n\nFor a project like this, I can usually have the core portal up, tested, and fully responsive on mobile within 5 to 7 days, with an estimated cost of around $350–$500 depending on the exact invoicing setup you prefer. You can see examples of my recent WordPress work at https://www.thelifeyoucansave.org/.\n\nWould you like to discuss which plugin stack fits your exact workflow best?",
+    "publishedDateTime": "2026-11-09T01:59:19+0000",
+    "addedAt": "2026-11-09T02:00:26.638Z",
+    "url": "https://www.upwork.com/jobs/~022119565439478329092",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022119565439478329092/apply/"
+  },
+  {
     "id": "2119557409272854484",
     "ciphertext": "~022119557409272854484",
     "title": "Web Developer for Portal Access Page",

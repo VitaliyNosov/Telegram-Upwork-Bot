@@ -1,10 +1,10 @@
 {
   "date": "2026-11-09",
   "lastDigestSentDate": "2026-11-08",
-  "totalScanned": 15,
-  "matchedFilters": 2,
+  "totalScanned": 16,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022119557409272854484",
       "addedAt": "2026-11-08T22:30:25.208Z"
+    },
+    {
+      "title": "Client Portal Setup for WordPress",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022119565439478329092",
+      "addedAt": "2026-11-09T02:00:25.106Z"
     }
   ]
 }
