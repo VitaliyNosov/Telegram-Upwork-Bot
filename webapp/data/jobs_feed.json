@@ -1,5 +1,35 @@
 [
   {
+    "id": "2120227275819187829",
+    "ciphertext": "~022120227275819187829",
+    "title": "Shopify Migration & SEO Specialist (WooCommerce to Shopify)",
+    "description": "We're an established US-based guitar brand looking for an experienced Shopify migration specialist to help us move our existing WooCommerce store to Shopify without losing our organic traffic, SEO rankings or existing functionality.\n\nOur Shopify store is already largely built. We're not looking for someone to redesign or rebuild it from scratch.\nWe need someone who can take ownership of the migration planning and execution, particularly the SEO, URL mapping, redirects and technical aspects of moving an established ecommerce website.\n\nYou'll work directly with our existing WordPress/full-stack developer, who knows our current website and its structure extremely well.\n\nResponsibilities\n* Audit our existing WordPress/WooCommerce website and Shopify store.\n* Create a complete migration plan and launch checklist.\n* Map existing WordPress URLs to their Shopify equivalents.\n* Set up and validate all necessary 301 redirects.\n* Preserve SEO rankings, organic traffic and existing backlinks.\n* Migrate or verify SEO metadata, headings, canonical tags, structured data and internal links.\n* Ensure existing product pages, collections, blogs and SEO landing pages are properly transferred.\n* Identify and resolve any Shopify URL structure limitations.\n* Coordinate with our developer on tracking, analytics and integrations.\n* Test the full customer journey before launch, including checkout and conversion tracking.\n* Monitor Google Search Console, indexing, crawl errors and organic traffic after migration.\n* Identify and resolve any issues affecting SEO or conversions after launch.\n\nRequirements\n* Proven experience migrating established WooCommerce stores to Shopify.\n* Strong technical SEO knowledge, especially ecommerce SEO migrations.\n* Experience with Shopify Liquid, URL redirects and Shopify's SEO structure.\n* Familiarity with Google Search Console, GA4 and SEO auditing tools.\n* Ability to work alongside an existing developer and marketing team.\n* Strong communication and a structured approach to project management.\n\nWhat We're Looking For\n- We're looking for an experienced individual freelancer, not an agency or a large migration team.\n- Someone who can independently identify potential problems, create a detailed plan and execute the migration without unnecessary complications.\n- Our priority is protecting the traffic, rankings and revenue of our existing business.\n\nTimeline\nWe'd like to have the migration plan, responsibilities and preparations finalized before December 1, with execution beginning in December and the goal of launching the Shopify store in early January.\n\nHow to Apply\nPlease include:\n1. Examples of WooCommerce-to-Shopify migrations you've personally completed, ideally for established ecommerce stores.\n2. How you approach SEO preservation, URL mapping and redirects.\n3. The tools you'd use to audit and validate the migration.\n4. Your estimated timeline, availability and project cost.\n5. Any SEO or technical issues you've encountered during previous migrations and how you resolved them.\n\nPlease start your proposal with \"Shopify Migration\" so we know you've read the requirements.\nWe're looking for someone practical, experienced and efficient who can work with our existing team to make this transition as smooth as possible.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 122,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "shopify",
+      "seo",
+      "html",
+      "web-programming",
+      "woocommerce"
+    ],
+    "score": 150,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-10T18:50:32+0000",
+    "addedAt": "2026-11-10T18:51:47.122Z",
+    "url": "https://www.upwork.com/jobs/~022120227275819187829",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120227275819187829/apply/"
+  },
+  {
     "id": "2120220516198098106",
     "ciphertext": "~022120220516198098106",
     "title": "Website Designer & Developer  Figma, Shopify & Elementor",

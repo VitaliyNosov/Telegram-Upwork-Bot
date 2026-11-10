@@ -1,11 +1,11 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 51,
-  "matchedFilters": 14,
+  "totalScanned": 52,
+  "matchedFilters": 15,
   "byKeyword": {
     "wordpress developer": 13,
-    "woocommerce": 1
+    "woocommerce": 2
   },
   "topJobs": [
     {
@@ -56,6 +56,13 @@
       "score": 2600,
       "url": "https://www.upwork.com/jobs/~022120220516198098106",
       "addedAt": "2026-11-10T18:27:23.796Z"
+    },
+    {
+      "title": "Shopify Migration & SEO Specialist (WooCommerce to Shopify)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022120227275819187829",
+      "addedAt": "2026-11-10T18:51:17.121Z"
     },
     {
       "title": "I need a website recreated and then modified, i have the content and direction",
