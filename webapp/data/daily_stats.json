@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 17,
-  "matchedFilters": 2,
+  "totalScanned": 18,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 10099,
       "url": "https://www.upwork.com/jobs/~022119915869953650436",
       "addedAt": "2026-11-09T22:14:25.477Z"
+    },
+    {
+      "title": "WordPress / Divi – Update Content & Revise 6 Websites (Layout Already Built)",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022120047786011523465",
+      "addedAt": "2026-11-10T07:00:26.416Z"
     },
     {
       "title": "Build Wordpress-WooCommerce site for engraving business.",

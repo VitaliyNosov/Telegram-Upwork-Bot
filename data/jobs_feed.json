@@ -1,5 +1,35 @@
 [
   {
+    "id": "2120047786011523465",
+    "ciphertext": "~022120047786011523465",
+    "title": "WordPress / Divi – Update Content & Revise 6 Websites (Layout Already Built)",
+    "description": "I need a WordPress / Divi developer to update content and complete revisions for six existing websites. All six sites are already built in WordPress using Divi. The layout, font files, color codes, and design elements are already set up by my previous freelancer. This is not a new build, and this is not a design job. I just need someone to put the new content in place, make minimal design tweaks only where the documents call for them, set up DNS, and map the domains.\n\nThe six websites are:\n\nTHEE SCHOLAR — theescholar.com (formerly DrScholarLee.com, if people type this website it should re-route to the theescholar.com website)\nTHEE S.C.H.O.L.A.R. ENTERPRISES — theescholarenterprises.com (formerly BDown Enterprises)\nTHEE S.C.H.O.L.A.R. PUBLISHING HOUSE — theescholarpublishinghouse.com (formerly BDown Publishing)\nTHEE S.C.H.O.L.A.R. COMPASS — theescholarcompass.com (formerly XScholarBar.com)\nSCHOLAR VISION NETWORK — scholarvisionnetwork.com (now the main domain, no longer .tv ;  if people type .tv it should re-route to scholarvisionnetwork.com website)\nBENJAMIN WEALTH ENTERPRISES — benjaminwealthenterprises.com (domain unchanged)\n\nWhat I need done:\n\nUpdate text and content on all six sites using the revision documents I will provide — the content is copy-and-paste ready, just follow the documents\nMake minimal design tweaks only — preserve the existing design and color palette on each site as it is. Do not change the colors.\nSet up DNS and map the domains, including redirects from the old domains to the new ones\nAdd the logos, forms, and images I provide\nMake sure all contact forms route to the correct email addresses listed in the documents\nConfirm each site is live, working, and mobile-friendly when finished\n\nWhat I will provide after hiring:\n\nFull revision documents for all six sites, with page-by-page copy (documents are detailed) \nLogos and images (some attached, some shared by Google Drive)\nWordPress admin logins for all six sites\nDomain / DNS access, or the exact DNS records you need\n\nRequirements:\n\nProven experience with WordPress and Divi\nExperience updating existing sites, not just building new ones\nExperience with DNS setup and domain mapping\nGood communication, and able to complete all six sites by December 4th, 2026\n\nBudget is a fixed price of $250 for all six sites, minimum of 3 rounds of revisions, with milestones to be agreed after hiring. To apply, please tell me about similar WordPress / Divi revision work you have done, confirm you can meet the December 4th deadline, and confirm your fixed price for all six sites.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-redesign",
+      "divi",
+      "wordpress",
+      "web-design",
+      "css"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can seamlessly handle the content updates, Divi revisions, DNS setup, and old-to-new domain redirects across all six of your websites. \n\nI have extensive experience working with Divi bug fixes, layout repairs, and managing multi-site WordPress updates. I am well-versed in handling precise copy-and-paste content implementation, form routing, logo integration, and domain mapping without altering your established brand aesthetics or color palettes. You can review some of my recent WordPress work here: https://www.thelifeyoucansave.org/.\n\nI confirm that I can meet the December 4th deadline and accept the $250 fixed price for all six sites. \n\nWhen you share the revision documents and logins, we can get started right away. Are the DNS records already accessible, or will we need to update them at the registrars?",
+    "publishedDateTime": "2026-11-10T06:55:59+0000",
+    "addedAt": "2026-11-10T07:00:27.977Z",
+    "url": "https://www.upwork.com/jobs/~022120047786011523465",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120047786011523465/apply/"
+  },
+  {
     "id": "2120015004810514216",
     "ciphertext": "~022120015004810514216",
     "title": "Build Wordpress-WooCommerce site for engraving business.",
