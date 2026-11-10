@@ -1,5 +1,32 @@
 [
   {
+    "id": "2120107858774982261",
+    "ciphertext": "~022120107858774982261",
+    "title": "SEO-Focused Website Migration Specialist Needed",
+    "description": "We are seeking an experienced website migration specialist to manage the transition from our existing website to a newly developed version. The primary objective is to migrate all content, metadata, redirects, and technical SEO while maintaining or improving current SEO performance.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.85,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "wordpress-website"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I have extensive experience managing complex WordPress migrations while prioritizing technical SEO, content integrity, and zero downtime.\n\nA successful migration requires more than just moving files; it’s about mapping permalinks, preserving metadata, and ensuring no traffic is lost during the transition. I specialize in technical WordPress migrations, including database optimization and full redirect management to safeguard your existing SEO rankings. I recently completed a similar high-stakes migration for thelifeyoucansave.org, where we successfully transitioned content while improving site performance and search visibility.\n\nI am ready to audit your current site structure to ensure a seamless transition to your new version. Are you currently using a staging environment, or would you like me to set one up for the testing phase?",
+    "publishedDateTime": "2026-11-10T10:55:46+0000",
+    "addedAt": "2026-11-10T10:58:29.224Z",
+    "url": "https://www.upwork.com/jobs/~022120107858774982261",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120107858774982261/apply/"
+  },
+  {
     "id": "2120057477851189071",
     "ciphertext": "~022120057477851189071",
     "title": "Base44 Website Developer Needed",
