@@ -1,5 +1,60 @@
 [
   {
+    "id": "2120151684611111575",
+    "ciphertext": "~022120151684611111575",
+    "title": "Website Development for Non-Profit",
+    "description": "We need a developer to build a clean, user-friendly website for a non-profit organization. The site should support key pages, basic content management, and a simple donation process. We’re looking for someone who can create a polished online presence, communicate clearly, and deliver a reliable site on time. Experience working with mission-driven organizations is a plus.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "php",
+      "wordpress"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi!\n\nBuilding clean, user-friendly websites for mission-driven organizations is right in my wheelhouse. I frequently partner with non-profits to create polished online presences with intuitive content management and seamless donation flows—ensuring your supporters can easily engage with your cause. \n\nMy approach focuses on clean WordPress development, reliability, and clear communication from kickoff to launch. For instance, I built and launched the site for The Life You Can Save (https://www.thelifeyoucansave.org/), focusing on accessibility, clean design, and a streamlined user experience for donors. \n\nI’d love to learn more about your non-profit's specific goals and how we can bring this project to life on time. Are you working with existing brand guidelines or starting fresh?",
+    "publishedDateTime": "2026-11-10T13:48:56+0000",
+    "addedAt": "2026-11-10T13:52:29.458Z",
+    "url": "https://www.upwork.com/jobs/~022120151684611111575",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120151684611111575/apply/"
+  },
+  {
+    "id": "2120151478090863085",
+    "ciphertext": "~022120151478090863085",
+    "title": "Website Migration & Custom Website Development",
+    "description": "I'm looking for someone to help with migrating an existing Kajabi website to a custom-built website while maintaining the current design, branding, and functionality.\n\nProject Requirements:\n- Rebuild the existing website with custom development.\n- Migrate all existing pages and content.\n- Maintain the current design and branding.\n- Ensure the website is fully responsive across desktop, tablet, and mobile.\n- Recreate important forms, links, and navigation.\n- Optimize website loading speed and performance.\n- Ensure all pages and functionality work correctly after migration.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nMigrating a platform like Kajabi to a custom-built website while keeping your branding, content, and functionality intact requires a clean, structured approach. I specialize in exact website migrations and custom WordPress development, ensuring zero loss of SEO, design integrity, or user experience. \n\nFor projects like this, I handle the complete content migration, responsive layout recreation, form/navigation setup, and rigorous link testing. I also build in speed optimization from the ground up so your new site loads significantly faster than it did on Kajabi. You can view some of my previous custom development work here: https://www.thelifeyoucansave.org/\n\nDo you have a specific target deadline for the migration, or any membership/checkout features from Kajabi that need to be reconnected during the process?\n\nBest,\nDeveloper",
+    "publishedDateTime": "2026-11-10T13:49:04+0000",
+    "addedAt": "2026-11-10T13:52:26.239Z",
+    "url": "https://www.upwork.com/jobs/~022120151478090863085",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120151478090863085/apply/"
+  },
+  {
     "id": "2120150636451046586",
     "ciphertext": "~022120150636451046586",
     "title": "Wordpress developer - Custom code mess",

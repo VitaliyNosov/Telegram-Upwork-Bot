@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 33,
-  "matchedFilters": 8,
+  "totalScanned": 35,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -30,6 +30,13 @@
       "addedAt": "2026-11-10T13:04:23.197Z"
     },
     {
+      "title": "Website Development for Non-Profit",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022120151684611111575",
+      "addedAt": "2026-11-10T13:52:26.611Z"
+    },
+    {
       "title": "Base44 Website Developer Needed",
       "budget": "$5-$30/hr",
       "score": 3000,
@@ -49,6 +56,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022120060454907427606",
       "addedAt": "2026-11-10T07:50:20.808Z"
+    },
+    {
+      "title": "Website Migration & Custom Website Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022120151478090863085",
+      "addedAt": "2026-11-10T13:52:24.178Z"
     },
     {
       "title": "SEO-Focused Website Migration Specialist Needed",
