@@ -1,5 +1,33 @@
 [
   {
+    "id": "2120186429502919149",
+    "ciphertext": "~022120186429502919149",
+    "title": "Redesign and build responsive WordPress home page and content page using picostrap and LiveCanvas",
+    "description": "We already have a wordpress website \n\nhttps://www.blackberrycars.com/\n\nand would like someone to redesign and implement a new responsive home page for the site and also create a template for one of our individual pages for example\n\nhttps://www.blackberrycars.com/london-area-to-heathrow/taxi-knightsbridge-heathrow-airport-2/\n\nThe design would need to be implemented on picostrap using LiveCanvas and we are looking for the code to be as lightweight and clean as possible.\n\nWe have a detailed specification of what we want to include on the page (which we would provide before work starts).\n\nFor the homepage we would like the look and feel to be something like these\n\nhttps://www.qatarairwaysholidays.com/en-gb/\nhttps://www.ichauffeur.co.uk/\n\nThe individual page would have a similar look and feel to the new homepage but with the additional specific information needed\n\n\nThe webpage would need to be easily customisable by us, including titles content images etc. We would also need to be able to remove some sections for the individual page when needed.\n\nYou would not need to provide wording for the page, we are looking for a layout/design and we would provide the content to go on it\n\nIf you need further information to provide a quotation please get in touch.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 94,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you redesign and build a clean, lightweight, and fully responsive homepage and content page template for Blackberry Cars using Picostrap and LiveCanvas. \n\nAs a WordPress developer focused on clean code, performance, and maintainable builds, I appreciate your emphasis on a lightweight setup. I will ensure the new layouts match the sleek, professional aesthetic of your references (like iChauffeur) while keeping the backend intuitive so your team can easily manage content, swap images, or toggle sections on and off. \n\nFor past work involving clean layouts and performance, you can check out projects in my portfolio like https://www.thelifeyoucansave.org/. \n\nCould you share the detailed specification you mentioned so I can review it and provide an accurate quote?\n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-11-10T16:06:54+0000",
+    "addedAt": "2026-11-10T16:11:23.220Z",
+    "url": "https://www.upwork.com/jobs/~022120186429502919149",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120186429502919149/apply/"
+  },
+  {
     "id": "2120181044930036182",
     "ciphertext": "~022120181044930036182",
     "title": "WordPress Developer for Website Revisions",

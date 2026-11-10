@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 40,
-  "matchedFilters": 11,
+  "totalScanned": 41,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022120151478090863085",
       "addedAt": "2026-11-10T13:52:24.178Z"
+    },
+    {
+      "title": "Redesign and build responsive WordPress home page and content page using picostrap and LiveCanvas",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022120186429502919149",
+      "addedAt": "2026-11-10T16:11:21.984Z"
     },
     {
       "title": "SEO-Focused Website Migration Specialist Needed",
