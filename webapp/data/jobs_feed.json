@@ -1,5 +1,34 @@
 [
   {
+    "id": "2120243093723681261",
+    "ciphertext": "~022120243093723681261",
+    "title": "WordPress Website Maintenance",
+    "description": "I have a few websites that are operational. I have no clue as to running and ensuring my websites are functioning correctly.  Presently  www.RoboDelights.com, has had many issues and I need someone to: \nA.\tManage and ensure it’s working properly. \nB.\tTo ensure the SEO is optimized.\nC.\tOnce in a while to make changes and updates.\nI am looking to pay a monthly fee not an hourly rate.\n\nPlease do not respond with an AI or an automated message. Nor if you are looking to be paid hourly.\nPlease tell me: \n1.\tYour monthly fee.\n2.\tA few reasons why I should choose you, (What value you bring to the table)\n3.\tPlease provide three references that I can contact should I choose to work with you.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 35,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "seo",
+      "wordpress",
+      "website",
+      "web-design"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! My monthly fee for comprehensive WordPress maintenance, SEO optimization, and ongoing content updates is $350.\n\nI specialize in stabilizing broken WordPress sites and keeping them running at peak performance. Since you are currently experiencing issues with RoboDelights, I will immediately diagnose your site’s technical health, resolve current errors, and implement security hardening to prevent future downtime. Beyond maintenance, I focus on Core Web Vitals and SEO optimization to ensure your site is both fast and discoverable. You can see the quality of my long-term site management at https://www.thelifeyoucansave.org/.\n\nFor references, I am happy to provide contact information for three of my long-term maintenance clients once we move to a private chat. \n\nAre you available for a quick call this week to discuss the specific bugs you're seeing on RoboDelights?",
+    "publishedDateTime": "2026-11-10T19:52:13+0000",
+    "addedAt": "2026-11-10T19:55:21.431Z",
+    "url": "https://www.upwork.com/jobs/~022120243093723681261",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120243093723681261/apply/"
+  },
+  {
     "id": "2120227275819187829",
     "ciphertext": "~022120227275819187829",
     "title": "Shopify Migration & SEO Specialist (WooCommerce to Shopify)",

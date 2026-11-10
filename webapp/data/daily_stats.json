@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 52,
-  "matchedFilters": 15,
+  "totalScanned": 53,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "woocommerce": 2
   },
   "topJobs": [
@@ -98,6 +98,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022120186429502919149",
       "addedAt": "2026-11-10T16:11:21.984Z"
+    },
+    {
+      "title": "WordPress Website Maintenance",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022120243093723681261",
+      "addedAt": "2026-11-10T19:55:17.574Z"
     },
     {
       "title": "SEO-Focused Website Migration Specialist Needed",
