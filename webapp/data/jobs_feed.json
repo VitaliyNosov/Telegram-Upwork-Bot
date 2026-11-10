@@ -1,5 +1,34 @@
 [
   {
+    "id": "2120060454907427606",
+    "ciphertext": "~022120060454907427606",
+    "title": "WordPress Website Restructure and Redesign",
+    "description": "SurGenTec (surgentec.com) is a spine and orthopedic medical device manufacturer based in South Florida. Our WordPress site, built on WPBakery, lists 19 products alphabetically. We want to reorganize it around clinical solutions and give it a modern, professional look for surgeons, hospital value analysis committees, and distributors.\nMilestone 1: Quick fixes (2 to 3 weeks)\n\t•\tGroup the Products menu into 5 solution categories\n\t•\tRemove outdated events and discontinued products\n\t•\tConsolidate duplicate URLs with 301 redirects\n\t•\tReplace our email link with a distributor inquiry form\n\t•\tFix mobile accessibility issues\nMilestone 2: Designs (2 to 3 weeks)\n\t•\tIn Figma, design a homepage refresh, one reusable solution landing page template, and layouts for a Clinical Evidence page, Reimbursement page, Resources library, and product launch page\n\t•\tUp to 2 rounds of revisions\nMilestone 3: Build (4 to 5 weeks)\n\t•\tBuild the 5 solution pages and 4 supporting pages from the approved designs\n\t•\tSet up GA4 tracking on forms and downloads\nMilestone 4: Launch and handoff (1 week)\n\t•\tQA on desktop and mobile\n\t•\tShort recorded walkthrough so our marketing team can edit pages without you\nWe provide: the sitemap, page outlines, all copy, product images, and PDFs. All copy is regulatory-reviewed, so no text may be changed or added without our written approval.\nRequirements:\n\t•\tPortfolio showing healthcare, medical device, or B2B sites\n\t•\tExperience restructuring navigation without losing search rankings\n\t•\tWillingness to sign an NDA\n\t•\tSurGenTec owns all design files and code on completion\nPossible follow-on work: migrating off WPBakery to a block theme, separate physician and patient sections, and a find-a-physician locator.\nTo apply: start your proposal with the word \"Biologics\" so we know you read this. Include 2 to 3 relevant portfolio links and a fixed price for each milestone.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Biologics! Hi team SurGenTec, I can help you restructure your medical device site and execute this four-phase redesign without impacting your search rankings. \n\nI am a WordPress developer with deep experience handling site restructures, SEO-safe 301 redirect mapping, and working within strict regulatory constraints (like keeping your approved copy intact). Since your current site is on WPBakery, I can efficiently manage the Milestone 1 quick fixes and mobile accessibility updates, design clean templates in Figma, and build out your new clinical solution pages. I'm also completely comfortable signing an NDA.\n\nFor relevant work, you can review https://www.cchpca.org/, which showcases my clean, professional B2B design and development standards. \n\nCould you share your estimated timeline for starting Milestone 1?",
+    "publishedDateTime": "2026-11-10T07:46:19+0000",
+    "addedAt": "2026-11-10T07:50:22.389Z",
+    "url": "https://www.upwork.com/jobs/~022120060454907427606",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120060454907427606/apply/"
+  },
+  {
     "id": "2120047786011523465",
     "ciphertext": "~022120047786011523465",
     "title": "WordPress / Divi – Update Content & Revise 6 Websites (Layout Already Built)",
