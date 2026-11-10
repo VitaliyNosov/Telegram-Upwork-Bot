@@ -1,5 +1,33 @@
 [
   {
+    "id": "2120150636451046586",
+    "ciphertext": "~022120150636451046586",
+    "title": "Wordpress developer - Custom code mess",
+    "description": "I've got a custom wordpress website that does event bookings. \n\nit has a lot of events, etc. and it needs to be updated, maintained, page updates, code updates, and implement strong security protocols.\n\nIt was recently hacked/malware, but should be OK now.\n\nStart today.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 75,
+    "budgetDisplay": "$25 - $75/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.93,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 618,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "css"
+    ],
+    "score": 7649,
+    "coverLetter": "Hi! I can start today to clean up your custom event booking site, handle your updates, and lock down its security. \n\nDealing with a hacked site and messy custom code is a headache, but it’s right in my wheelhouse. I specialize in WordPress maintenance, custom code troubleshooting, and malware recovery. Beyond just cleaning up the recent breach, I will implement robust security hardening to ensure your events database and user data stay protected moving forward. \n\nFor a look at the quality and scale of sites I handle, you can check out https://www.thelifeyoucansave.org/. \n\nAre you currently using a specific plugin for the event bookings, or is it entirely custom-coded? Let's chat and get your site running smoothly and securely.",
+    "publishedDateTime": "2026-11-10T13:45:36+0000",
+    "addedAt": "2026-11-10T13:46:29.215Z",
+    "url": "https://www.upwork.com/jobs/~022120150636451046586",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120150636451046586/apply/"
+  },
+  {
     "id": "2120139522200829557",
     "ciphertext": "~022120139522200829557",
     "title": "Expert Shopify Developer for Premium Store Redesign, Custom Products & Conversion Optimization",

@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 32,
-  "matchedFilters": 7,
+  "totalScanned": 33,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 10099,
       "url": "https://www.upwork.com/jobs/~022119915869953650436",
       "addedAt": "2026-11-09T22:14:25.477Z"
+    },
+    {
+      "title": "Wordpress developer - Custom code mess",
+      "budget": "$25-$75/hr",
+      "score": 7649,
+      "url": "https://www.upwork.com/jobs/~022120150636451046586",
+      "addedAt": "2026-11-10T13:46:22.544Z"
     },
     {
       "title": "Expert Shopify Developer for Premium Store Redesign, Custom Products & Conversion Optimization",
