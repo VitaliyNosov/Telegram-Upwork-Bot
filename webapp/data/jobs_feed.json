@@ -1,5 +1,34 @@
 [
   {
+    "id": "2120015004810514216",
+    "ciphertext": "~022120015004810514216",
+    "title": "Build Wordpress-WooCommerce site for engraving business.",
+    "description": "WooCommerce Developer for Custom Engraved Plates, Name Badges, Signs & Awards\n\nJob description\n\nI’m looking for a WooCommerce developer to build the first version of the online store for Eskay Promotions, a Canadian business offering custom engraved plates in various sizes, name badges, engraved signs, and award plaques. We also offer branded apparel and promotional products, which customers can request a quote for.\n\nI already have hosting, a domain, and a WordPress account. I’ll also share a reference website to show the layout and shopping experience I’m looking for. I want the finished store to reflect Eskay’s branding and be easy for me to manage.\n\nPhase 1 deliverables\n\n* Work with my existing hosting, domain, and WordPress setup. Configure WooCommerce and build a mobile-friendly homepage, shop, and product category pages.\n* Set up one sample product in each engraving category so I can use them as templates when adding the rest of my catalog. Products should support the options they need, such as size, engraving text, or a logo upload. For engraved plates, demonstrate how I can offer multiple sizes with different prices.\n* Make sure each item’s engraving instructions and artwork appear on the correct line in the WooCommerce order. As a test, add two of the same name badge with different names and confirm both names are recorded correctly.\n* Configure checkout in CAD, payments, shipping, and local pickup if applicable. Test a purchase and a quote submission on mobile.\n* Provide a short handoff video showing how to add products, update prices and options, and find engraving details, artwork, and quote requests.\n\nWhen applying, please include\n\n1. One or two WooCommerce stores you’ve built with product personalization or quote requests, and what you handled on each project.\n2. How you’d set up size-based pricing for engraved plates and keep different names attached to the correct badges in a single order.\n3. Your fixed price for Phase 1, estimated timeline, and any paid themes or plugins you’d use, including recurring fees.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "woocommerce",
+      "graphic-design"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nTo answer your questions upfront: For size-based pricing on engraved plates, I use WooCommerce product add-ons or variable products with dynamic pricing rules to handle dimensions seamlessly. To keep custom text and logos tied to specific items, I implement structured line-item meta data—ensuring that if a customer orders multiple badges with different names, each name maps directly to the correct badge in the backend order details.\n\nFor Phase 1 of Eskay Promotions, I can build a clean, mobile-friendly WooCommerce store on your existing setup. I specialize in custom product personalization and quote workflows, which you can see in action on projects like https://waapple.org/. \n\nMy fixed price for Phase 1 is [Insert Amount], delivered within [Insert Number] days. I typically build using lightweight, fast-loading setups with standard free-tier plugins where possible to avoid unnecessary recurring fees.\n\nWould you mind sharing the reference website so we can review the layout together?",
+    "publishedDateTime": "2026-11-10T04:45:43+0000",
+    "addedAt": "2026-11-10T04:48:27.076Z",
+    "url": "https://www.upwork.com/jobs/~022120015004810514216",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120015004810514216/apply/"
+  },
+  {
     "id": "2119915869953650436",
     "ciphertext": "~022119915869953650436",
     "title": "Wordpress malware, security expert + developer",

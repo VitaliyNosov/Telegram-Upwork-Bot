@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 15,
-  "matchedFilters": 1,
+  "totalScanned": 16,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 10099,
       "url": "https://www.upwork.com/jobs/~022119915869953650436",
       "addedAt": "2026-11-09T22:14:25.477Z"
+    },
+    {
+      "title": "Build Wordpress-WooCommerce site for engraving business.",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022120015004810514216",
+      "addedAt": "2026-11-10T04:48:25.837Z"
     }
   ]
 }
