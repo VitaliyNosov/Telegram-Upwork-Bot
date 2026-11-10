@@ -1,5 +1,34 @@
 [
   {
+    "id": "2120181044930036182",
+    "ciphertext": "~022120181044930036182",
+    "title": "WordPress Developer for Website Revisions",
+    "description": "We need a WordPress developer to implement revisions on an existing website. The work includes updating content, improving layout, and making small functional changes to enhance the user experience. You should be comfortable working with an established site and delivering clean, reliable updates. Please share relevant examples of similar website revision work and your availability for this project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$20 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! \n\nI would love to help you implement these website revisions and enhance your user experience. I regularly work with established WordPress sites, making clean layout updates, content changes, and functional improvements without breaking existing structures. \n\nWith strong proficiency in WordPress, PHP, and modern page builders/custom fields, I can quickly jump into your project and deliver reliable results. For instance, I recently rebuilt and optimized sites like https://www.seeintl.org/, ensuring seamless navigation and layout updates.\n\nCould you share a quick list of the specific revisions or pages you'd like to tackle first? I'm available to get started right away.",
+    "publishedDateTime": "2026-11-10T15:46:58+0000",
+    "addedAt": "2026-11-10T15:49:22.039Z",
+    "url": "https://www.upwork.com/jobs/~022120181044930036182",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120181044930036182/apply/"
+  },
+  {
     "id": "2120151684611111575",
     "ciphertext": "~022120151684611111575",
     "title": "Website Development for Non-Profit",
