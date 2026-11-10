@@ -1,5 +1,32 @@
 [
   {
+    "id": "2120208442968946760",
+    "ciphertext": "~022120208442968946760",
+    "title": "I need a website recreated and then modified, i have the content and direction",
+    "description": "**Title: Rebuild Existing WordPress Business Website — Design and Content Provided**\n\nLooking for an experienced WordPress developer to rebuild our telecommunications company's website from scratch.\n\nWe already have screenshots of our previous website, page content, branding, and hosting. We are not looking for a completely new design.\n\n**Scope:**\n- Approximately 8–10 pages\n- Reproduce existing layouts based on screenshots\n- Incorporate all supplied text, images, and branding\n- Fully responsive desktop, tablet, and mobile design\n- Contact forms and clear calls to action\n- Basic on-page SEO and proper page URLs\n- Fast loading and clean navigation\n- Fresh, secure WordPress installation\n- Basic security hardening and malware verification\n- Final testing before launch\n\n**Important:** Our previous WordPress installation experienced a security compromise. Absolutely no files, plugins, themes, or database content from that installation may be reused.\n\nWe will provide temporary WordPress access. We retain full control of hosting, DNS, and administrative credentials.\n\nPlease provide a fixed-price quote, estimated completion timeline, and 3 examples of comparable websites you've built.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.75,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 37,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "wordpress"
+    ],
+    "score": 145,
+    "coverLetter": "Hi! \n\nI can help you cleanly rebuild your 8–10 page telecommunications website from scratch using your existing screenshots, content, and branding, while ensuring a completely fresh, secure WordPress installation. \n\nGiven that your previous site experienced a security compromise, I understand the critical importance of starting with a 100% clean slate. I specialize in WordPress security hardening, malware verification, and building fast, fully responsive sites using clean code without carrying over any legacy vulnerabilities. \n\nFor comparable work, you can review this similar WordPress build from my portfolio: https://www.snopud.com/\n\nTimeline: [Insert Days] days\nFixed-Price Quote: $[Insert Amount]\n\nWhen would you like to set up the temporary WordPress access so we can get started?",
+    "publishedDateTime": "2026-11-10T17:35:47+0000",
+    "addedAt": "2026-11-10T17:37:18.279Z",
+    "url": "https://www.upwork.com/jobs/~022120208442968946760",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120208442968946760/apply/"
+  },
+  {
     "id": "2120186429502919149",
     "ciphertext": "~022120186429502919149",
     "title": "Redesign and build responsive WordPress home page and content page using picostrap and LiveCanvas",

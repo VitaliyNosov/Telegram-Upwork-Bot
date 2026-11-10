@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 48,
-  "matchedFilters": 12,
+  "totalScanned": 49,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 3000,
       "url": "https://www.upwork.com/jobs/~022120057477851189071",
       "addedAt": "2026-11-10T10:38:21.164Z"
+    },
+    {
+      "title": "I need a website recreated and then modified, i have the content and direction",
+      "budget": "Fixed-price",
+      "score": 145,
+      "url": "https://www.upwork.com/jobs/~022120208442968946760",
+      "addedAt": "2026-11-10T17:37:16.357Z"
     },
     {
       "title": "WordPress / Divi – Update Content & Revise 6 Websites (Layout Already Built)",
