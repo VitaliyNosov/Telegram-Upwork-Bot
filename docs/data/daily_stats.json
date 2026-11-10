@@ -1,10 +1,11 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 31,
-  "matchedFilters": 6,
+  "totalScanned": 32,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 6,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -13,6 +14,13 @@
       "score": 10099,
       "url": "https://www.upwork.com/jobs/~022119915869953650436",
       "addedAt": "2026-11-09T22:14:25.477Z"
+    },
+    {
+      "title": "Expert Shopify Developer for Premium Store Redesign, Custom Products & Conversion Optimization",
+      "budget": "$25-$50/hr",
+      "score": 5097,
+      "url": "https://www.upwork.com/jobs/~022120139522200829557",
+      "addedAt": "2026-11-10T13:04:23.197Z"
     },
     {
       "title": "Base44 Website Developer Needed",
