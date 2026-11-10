@@ -1,5 +1,34 @@
 [
   {
+    "id": "2120057477851189071",
+    "ciphertext": "~022120057477851189071",
+    "title": "Base44 Website Developer Needed",
+    "description": "I’m looking for an experienced Base44 website developer to handle full website fulfillment for my web design agency, NEXO. You’ll turn website previews into fully functional, modern, mobile-friendly, SEO-optimized websites, including contact forms that correctly deliver customer inquiries to business owners. Responsibilities also include domain setup, integrations, testing, and final launch. I’m seeking a reliable Base44 expert who can consistently deliver professional, ready-to-use client websites as we scale.",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$5 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "web-design",
+      "wordpress"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! \n\nI’d love to partner with NEXO as a reliable developer to turn your agency's website previews into fully functional, high-performing client sites. \n\nWith deep expertise in WordPress, PHP, custom development, and complex integrations—including reliable contact form setup, domain configurations, and SEO optimization—I specialize in delivering polished, production-ready websites efficiently. As shown in my work on projects like https://www.thelifeyoucansave.org/, I focus on clean code, responsiveness, and flawless user experiences from staging to final launch. \n\nI understand the pacing of agency work and am ready to support your scaling efforts with consistent, high-quality fulfillment. \n\nHow many client builds do you typically have in your pipeline each month? Let’s chat about how we can streamline your development process.",
+    "publishedDateTime": "2026-11-10T10:34:27+0000",
+    "addedAt": "2026-11-10T10:38:22.377Z",
+    "url": "https://www.upwork.com/jobs/~022120057477851189071",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120057477851189071/apply/"
+  },
+  {
     "id": "2120060454907427606",
     "ciphertext": "~022120060454907427606",
     "title": "WordPress Website Restructure and Redesign",

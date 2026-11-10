@@ -1,10 +1,10 @@
 {
   "date": "2026-11-10",
   "lastDigestSentDate": "2026-11-09",
-  "totalScanned": 24,
-  "matchedFilters": 4,
+  "totalScanned": 25,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 10099,
       "url": "https://www.upwork.com/jobs/~022119915869953650436",
       "addedAt": "2026-11-09T22:14:25.477Z"
+    },
+    {
+      "title": "Base44 Website Developer Needed",
+      "budget": "$5-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022120057477851189071",
+      "addedAt": "2026-11-10T10:38:21.164Z"
     },
     {
       "title": "WordPress / Divi – Update Content & Revise 6 Websites (Layout Already Built)",
