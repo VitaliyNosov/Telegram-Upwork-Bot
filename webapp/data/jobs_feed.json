@@ -1,5 +1,37 @@
 [
   {
+    "id": "2120496664750059167",
+    "ciphertext": "~022120496664750059167",
+    "title": "WordPress & Elementor Specialist – Luxury Travel & Retreat Website Optimization & Templating",
+    "description": "About the Brand: \nSabil Experiences https://sabilexperiences.com/ delivers curated, luxury spiritual retreats for Muslims. Our site has a distinct, warm, high-end editorial aesthetic with custom WordPress/Elementor implementation. \n\nProject Overview:\nWe have a live website that successfully launched our initial retreat. Now that the inaugural retreat has taken place, we need to adapt the site structure for our next cycle while maintaining full brand and layout consistency: \n1. Landing Page Update: Repurpose the main landing page to feature our upcoming retreat dates, packages, itinerary highlights, and application flow. \n2. Past Retreat Showcase Page: Relocate existing past retreat content into a dedicated page featuring video showcases, photo galleries, and attendee experiences. \n3. Reusable No-Code Templating: The most critical deliverable is leaving us with a clean, repeatable template setup (via Elementor templates / reusable blocks). Our team must be able to add new photos, videos, and future retreat editions easily from the WordPress dashboard without hiring a developer each time. \n4. QA, Forms & Speed: Ensure application forms work reliably, mobile responsiveness is flawless across all devices, and media-rich galleries are speed-optimized. \n\nRequired Qualifications:  \n• Proven WordPress expertise (custom layouts, Elementor / modern page builders, child themes). \n• Experience building luxury, boutique travel, retreat, or editorial websites with refined typography and spacing. \n• Strong eye for visual consistency — ability to match existing CSS, color schemes, and component styling without breaking structure. \n• Media handling proficiency (Vimeo/YouTube video embeds, responsive image galleries, WebP optimization). \n• Clear communication and willingness to provide a short Loom handover walkthrough. \n\nHow to Apply: Please reply with 2–3 links to live WordPress sites you have built or customized (especially retreat, travel, or high-end brands) and confirm your availability for a quick kickoff. \n\nPS: Budget & milestones are open for discussion based on your recommended approach, scope breakdown, and estimated turnaround time.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "website-redesign",
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "responsive-design",
+      "page-speed-optimization"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! Here are two live WordPress sites I've built that match your high-end, editorial aesthetic: https://www.thelifeyoucansave.org/ and https://www.seeintl.org/. I am fully available to kick off this week.\n\nI specialize in Elementor customization and clean, scalable templating. For Sabil Experiences, I can efficiently restructure your main landing page for the upcoming retreat cycle, archive the past retreat content into a dedicated showcase, and—most importantly—build robust, reusable Elementor templates and global widgets. This will allow your team to seamlessly spin up new retreat pages directly from the dashboard without touching code.\n\nI’ll also audit your forms, optimize your media-rich photo/video galleries for fast loading (Core Web Vitals), and ensure flawless mobile responsiveness, wrapping everything up with a quick Loom handover walkthrough.\n\nWhat is your target timeline for launching the updated landing page?",
+    "publishedDateTime": "2026-11-11T12:39:43+0000",
+    "addedAt": "2026-11-11T12:41:16.498Z",
+    "url": "https://www.upwork.com/jobs/~022120496664750059167",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120496664750059167/apply/"
+  },
+  {
     "id": "2120450320394593466",
     "ciphertext": "~022120450320394593466",
     "title": "Senior WordPress / Laravel Developer (AI-First)",

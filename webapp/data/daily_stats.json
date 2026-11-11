@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 27,
-  "matchedFilters": 7,
+  "totalScanned": 28,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022120368745630355939",
       "addedAt": "2026-11-11T04:15:15.314Z"
+    },
+    {
+      "title": "WordPress & Elementor Specialist – Luxury Travel & Retreat Website Optimization & Templating",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022120496664750059167",
+      "addedAt": "2026-11-11T12:41:15.290Z"
     }
   ]
 }
