@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 30,
-  "matchedFilters": 10,
+  "totalScanned": 31,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 9,
+    "wordpress developer": 10,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022120418553201080392",
       "addedAt": "2026-11-11T07:33:15.925Z"
+    },
+    {
+      "title": "Website Developer for Agency with 150+ sites",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022120513770129931603",
+      "addedAt": "2026-11-11T13:51:18.057Z"
     },
     {
       "title": "WordPress Developer: GeoDirectory & WordPress Multisite Specialist (GenerateBlocks + Migration)",

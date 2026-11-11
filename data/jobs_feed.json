@@ -1,5 +1,33 @@
 [
   {
+    "id": "2120513770129931603",
+    "ciphertext": "~022120513770129931603",
+    "title": "Website Developer for Agency with 150+ sites",
+    "description": "SEEKING INDIVIDUAL, NOT A TEAM. IF A TEAM APPLIES, WE WILL DISREGARD THE APPLICATION.\n\nRole summary\nPuts our SEO strategy, content and client change requests live on client websites, mostly WordPress. Brings strong WooCommerce expertise for e-commerce clients. Also builds and redesigns websites, which are scoped and billed separately for each project.\n\nCore responsibilities (retainer)\n- Website changes and retainer requests: add and edit pages, header and footer navigation, service-area and location pages, portfolio and gallery updates, image swaps, and staff bios and headshots.\n- On-page and technical SEO: apply title tags, meta descriptions, slugs/URLs, H1s and schema from SEO audit sheets. Fix site-audit errors and optimize top pages.\n- Posting SEO content: publish blogs and page rewrites from Google Docs with the correct formatting, images, internal links and meta data.\n- WooCommerce and ecommerce: set up and manage products, variations, attributes, galleries, bulk product imports, add-ons, and checkout and cart setup. Troubleshoot broken store features, plugins, and moving changes between staging and live.\n- Conversion rate optimization (CRO): build hero, CTA, trust-signal and service-page changes meant to increase conversions.\n- Site security and maintenance: respond to security findings (HSTS/CSP headers, Cloudflare), add spam protection to forms (honeypot, reCAPTCHA), clear caches, and roll out changes across all client sites.\n- Forms and features: e-signature and authorization forms (Jotform or similar), plus multilingual and translation setup.\n\n\nProject work (billed separately per project)\n- New website builds, redesigns, home page design and development, single-page sites and full WooCommerce store builds. Each is scoped and billed as its own project, outside the retainer work. Includes working through client feedback rounds in Pastel.\n\n\n- How the work comes in: ClickUp tasks (Websites, SEO Delivery Technicals and SEO Content lists), requests in Slack, and Pastel comments. When a change is done, he sends back the live links for review.\n\nWhat success looks like: changes go live correctly the first time, links are sent back for QA, sites work on mobile, and nothing breaks on the live site.\n\nRequirements\n- Advanced WooCommerce: product and variation management, imports, extensions and add-ons, checkout and payment setup, and fixing store problems\n- Strong WordPress skills (Elementor, Beaver Builder, ACF)\n- Working knowledge of on-page and technical SEO\n- Basic hosting, DNS and Cloudflare (WP Engine, Kinsta, Flywheel)\n- Clear written English\n- Availability M-F for four minimum of 4 hours ET 8-5",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 84,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wp-ecommerce",
+      "seo-based-website"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! I am an individual developer (no agencies here) with deep WordPress and WooCommerce expertise, and I'm available Mon-Fri during your required ET hours. \n\nI regularly handle retainer-based updates, technical SEO implementations (meta data, schema, H1s, audit fixes), and complex WooCommerce management like product imports, variations, and checkout troubleshooting. My daily stack includes working cleanly within page builders like Elementor and Beaver Builder, managing staging-to-live deployments, and handling hosting, DNS, and Cloudflare tasks seamlessly. \n\nYou can see examples of my recent client site work here: https://www.thelifeyoucansave.org/\n\nI'm comfortable working out of ClickUp, Slack, and Pastel to push changes live accurately the first time. Are you looking to get someone started immediately this week?",
+    "publishedDateTime": "2026-11-11T13:47:38+0000",
+    "addedAt": "2026-11-11T13:51:21.022Z",
+    "url": "https://www.upwork.com/jobs/~022120513770129931603",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120513770129931603/apply/"
+  },
+  {
     "id": "2120506181640435784",
     "ciphertext": "~022120506181640435784",
     "title": "Build a WordPress directory site for video-wall rentals: 100 city pages, zip search, and lead forms",
