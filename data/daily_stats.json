@@ -1,8 +1,18 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 7,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 8,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress Developer: GeoDirectory & WordPress Multisite Specialist (GenerateBlocks + Migration)",
+      "budget": "Fixed-price",
+      "score": 148,
+      "url": "https://www.upwork.com/jobs/~022120324357223043555",
+      "addedAt": "2026-11-11T01:17:24.446Z"
+    }
+  ]
 }

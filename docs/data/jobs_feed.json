@@ -1,5 +1,32 @@
 [
   {
+    "id": "2120324357223043555",
+    "ciphertext": "~022120324357223043555",
+    "title": "WordPress Developer: GeoDirectory & WordPress Multisite Specialist (GenerateBlocks + Migration)",
+    "description": "Job Description:\nWe are seeking an experienced technical WordPress developer specializing in GeoDirectory and WordPress Multisite (WPMU) architecture for immediate and long-term directory development.\nOur core platform relies on GeoDirectory to manage multi-location listings, custom post types, dynamic search filters, and location taxonomies across a multisite network.Primary Long-Term Architecture \n\nScope:GeoDirectory Core & Add-on Configuration: Advanced setup of GeoDirectory Custom Post Types (CPTs), custom listing fields, categories, tags, and location systems (countries, regions, cities, neighborhoods).GeoDirectory Search & Filter Loops: Build and optimize high-speed GeoDirectory search bars, radius search parameters, distance sorting, and map integrations (Google Maps / OpenStreetMap API keys and referrer rules).GeoDirectory Template Building: Construct clean listing templates, archive pages, search result layouts, and location detail pages using GeneratePress Elements and GenerateBlocks Query Loops to keep database queries fast.\nWordPress Multisite (WPMU) Network Management: Coordinate GeoDirectory table prefixes, network activations vs. site activations, child site domain mapping, and database query load across the network.\n\nInitial Project (Phase 1 — Paid Test Milestone):\nBefore diving into full GeoDirectory expansions, your first deliverable is a clean migration and rebuild:Migrate an existing site away from an outdated, unsupported builder into a clean GeneratePress Premium + GenerateBlocks setup. Zero SEO Loss: Ensure 100% preservation of current rankings, URL structures, meta titles/descriptions, heading hierarchies ($H_1$–$H_3$), and schema data. Clean-Room Staging: Fresh staging environment, complete removal of legacy shortcodes, media upload sanitization, and clean embed of external CRM intake forms and tracking scripts.\nRequirements:Proven, verifiable hands-on experience configuring, troubleshooting, and extending GeoDirectory.Strong understanding of WordPress Multisite database architecture and child-site mapping. \n\nAbility to build lightweight, high-performance layouts using GenerateBlocks & GeneratePress Elements (no Elementor, Divi, or bloated page builders).Understanding of technical SEO and URL integrity during site rebuilds.Solo technical developers only (no agencies, middlemen, or sub-contractors).How to Apply:Start your proposal with the word \"GEOSPECIALIST\".\n\nBriefly describe your past work with GeoDirectory (e.g., location hierarchies, custom post types, map APIs, or multisite setups). Share links to 1–2 live websites you built using GenerateBlocks.Provide a brief 3–4 step outline of your migration plan to rebuild the initial site in GenerateBlocks without dropping existing SEO rankings.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 60,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wordpress-multisite"
+    ],
+    "score": 148,
+    "coverLetter": "GEOSPECIALIST — Hi! I am a senior WordPress developer with deep hands-on experience in GeoDirectory, complex multisite architectures, and building ultra-fast sites using GeneratePress and GenerateBlocks. \n\nWhile I specialize in advanced custom post types, location hierarchies, map API integrations, and WPMU table structures, I also handle seamless rebuilding projects. Here is my 3-step migration framework to guarantee zero SEO loss for Phase 1:\n\n1. Staging & Inventory: Map all existing URLs, metadata, schema, and heading structures ($H_1$–$H_3$) on a clean staging environment.\n2. Lightweight Rebuild: Recreate templates using GeneratePress Elements and GenerateBlocks query loops, completely stripping out legacy shortcodes and bloated builders.\n3. Redirects & Launch: Implement precise 301 redirect mapping, re-verify tracking scripts and CRM forms, and deploy with zero downtime or ranking drops.\n\nYou can view a recent GenerateBlocks build here: https://www.cchpca.org/\n\nAre you ready to kick off the Phase 1 migration this week?",
+    "publishedDateTime": "2026-11-11T01:15:00+0000",
+    "addedAt": "2026-11-11T01:17:31.696Z",
+    "url": "https://www.upwork.com/jobs/~022120324357223043555",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120324357223043555/apply/"
+  },
+  {
     "id": "2120243093723681261",
     "ciphertext": "~022120243093723681261",
     "title": "WordPress Website Maintenance",
