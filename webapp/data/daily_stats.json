@@ -1,12 +1,19 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 9,
-  "matchedFilters": 1,
+  "totalScanned": 10,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Custom Block Theme Developer",
+      "budget": "$20-$90/hr",
+      "score": 9100,
+      "url": "https://www.upwork.com/jobs/~022120327851051581045",
+      "addedAt": "2026-11-11T01:33:16.384Z"
+    },
     {
       "title": "WordPress Developer: GeoDirectory & WordPress Multisite Specialist (GenerateBlocks + Migration)",
       "budget": "Fixed-price",

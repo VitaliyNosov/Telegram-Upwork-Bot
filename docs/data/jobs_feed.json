@@ -1,5 +1,35 @@
 [
   {
+    "id": "2120327851051581045",
+    "ciphertext": "~022120327851051581045",
+    "title": "WordPress Custom Block Theme Developer",
+    "description": "Job title\nWordPress Custom Block Theme Developer: Polish, QA & Launch a 750-Page Site + 1,500 Blog Posts (AI-Accelerated)\n\nSummary\nCorpNet.com is a business formation and compliance company. We've already migrated our site off Divi onto a new WP Engine site running a custom block theme. All Divi code has been stripped out. The site has about 750 pages and over 1,500 blog posts.\nWe need an experienced custom block theme developer to finish the job fast: polish every page, perfect the theme, test, and launch. AI tools and bulk-editing methods are expected.\n\nCurrent state\n• All content (about 750 pages and 1,500+ blog posts) is migrated to the new WP Engine site\n• All Divi code is removed\n• A custom block theme exists but needs refinement\n• Some Divi elements didn't carry over cleanly and need to be rebuilt as proper blocks\n\nWhat is NOT changing\n• Navigation\n• Page content and copy\n• URLs (SEO-critical)\n\nWhat IS changing\n• Page design: polishing layouts so every page looks finished and on-brand\n• The custom theme: making it fully usable, flexible, and polished\n• Elements that didn't transfer from Divi: rebuilt with the right block patterns\n\nThe most important requirement: the right pattern for the content.\nWe don't want content poured into generic blocks. Each content type needs the design that fits it.\nContent type\nCorrect pattern\nWrong pattern\nHow-to / process sections\nNumbered step sequence (1, 2, 3)\nCards\nFAQs\nAccordion\nLong text wall\nPlan or feature comparisons\nComparison table / pricing columns\nBulleted lists\nService overviews\nCards with icons\nPlain paragraphs\nStats / proof points\nStat callouts\nBuried in body copy\nKey warnings or notes\nCallout box\nInline sentence\n\nScope of work\n1. Audit all pages and blog posts on staging and flag rendering issues by page and template type.\n2. Rebuild elements that didn't transfer from Divi as proper blocks or patterns.\n3. Apply the correct design pattern to each content type (see table above).\n4. Make bulk updates across pages where the same fix repeats (scripted or AI-assisted, not one-by-one).\n5. Finalize the custom block theme: theme.json, block patterns, template parts, custom blocks, and style variations.\n6. Apply our brand design tokens through the theme (fonts, colors, spacing, and corner rounding provided).\n7. Test every page: desktop, tablet, mobile, and major browsers.\n8. Verify SEO elements are intact: schema markup, meta, headings, internal links, redirects.\n9. Check and optimize performance (Core Web Vitals) and accessibility (WCAG AA).\n10. Support launch on WP Engine: staging to production push and post-launch checks.\n11. Document the theme's patterns, and give its blocks, sections, containers, templates, and components clear, user-friendly names, so our non-technical team can build new pages and edit existing ones without a developer.\n\nRequired experience\n• Built custom WordPress block themes from scratch (not just customized existing ones). We will review your portfolio and verify your work, so include live URLs.\n• Deep theme.json, block patterns, template parts, and Full Site Editing\n• Custom block development (React / @wordpress/scripts)\n• Bulk content editing at scale: WP-CLI, search-replace, scripted block markup updates\n• Demonstrated AI use in your dev workflow (Claude, Cursor, Copilot, etc.)\n• Large-site QA: our site has about 750 pages and over 1,500 blog posts\n• WP Engine deployment experience\n\nNice to have\n• Post-migration cleanup from Divi, Elementor, or other page builders\n• SEO-safe launches with no ranking loss\n• Visual regression testing tools",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 90,
+    "budgetDisplay": "$20 - $90/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 68,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cms-development",
+      "theme-development",
+      "website-migration",
+      "wordpress-website",
+      "wordpress"
+    ],
+    "score": 9100,
+    "coverLetter": "Hi! I’m an expert WordPress developer with deep experience building custom block themes from scratch, utilizing FSE, `theme.json`, custom patterns, and React-based block development. \n\nI’ve handled large-scale site migrations, post-builder cleanups (including Divi), and high-volume content restructuring at scale using WP-CLI, scripted search-replace, and AI-accelerated workflows (Cursor, Claude) to map content to the correct semantic blocks efficiently without risking SEO or URL structures. I also routinely optimize for Core Web Vitals, accessibility, and smooth WP Engine deployments.\n\nYou can view a recent large-scale WordPress build from my portfolio here: https://www.snopud.com/\n\nAre you ready to share the staging environment so I can review the current block theme and audit the migrated Divi elements?",
+    "publishedDateTime": "2026-11-11T01:29:26+0000",
+    "addedAt": "2026-11-11T01:33:20.021Z",
+    "url": "https://www.upwork.com/jobs/~022120327851051581045",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120327851051581045/apply/"
+  },
+  {
     "id": "2120324357223043555",
     "ciphertext": "~022120324357223043555",
     "title": "WordPress Developer: GeoDirectory & WordPress Multisite Specialist (GenerateBlocks + Migration)",
