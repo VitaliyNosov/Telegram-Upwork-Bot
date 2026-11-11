@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 17,
-  "matchedFilters": 5,
+  "totalScanned": 18,
+  "matchedFilters": 6,
   "byKeyword": {
-    "wordpress developer": 5
+    "wordpress developer": 6
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 200,
       "url": "https://www.upwork.com/jobs/~022120343102154609133",
       "addedAt": "2026-11-11T02:31:16.948Z"
+    },
+    {
+      "title": "Clean/Fast WP Build, (GenerateBlocks) with sortable portfolio: (Storyboards & Mockups ready to go)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022120418553201080392",
+      "addedAt": "2026-11-11T07:33:15.925Z"
     },
     {
       "title": "WordPress Developer: GeoDirectory & WordPress Multisite Specialist (GenerateBlocks + Migration)",

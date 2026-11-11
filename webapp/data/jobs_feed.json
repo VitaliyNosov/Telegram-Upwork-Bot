@@ -1,5 +1,36 @@
 [
   {
+    "id": "2120418553201080392",
+    "ciphertext": "~022120418553201080392",
+    "title": "Clean/Fast WP Build, (GenerateBlocks) with sortable portfolio: (Storyboards & Mockups ready to go)",
+    "description": "I am looking for an experienced WordPress front-end developer to build a modern, high-end, scroll-friendly, responsive website for my industrial design \nconsultancy.\n\nI have already completed the creative direction, layout storyboards, copy, and UI wireframes (attached). Your role is purely technical execution. I prefer to avoid heavy, multi-purpose agency themes (like Avada or Divi. etc). I'd like to see a lightweight, bloat-free build using GeneratePress + GenerateBlocks Pro (this must be engineered for elite Core Web Vitals and minimal DOM size.)\n\n---The Scope of Work (Phased Delivery):\n\nFoundation & Header: Implement a dark-mode design system (colors, typography) based on my mockups. Build a sticky top navigation bar featuring a smooth, sliding active-indicator (magic line/box) that glides seamlessly between menu items as the user scrolls down the page.\n\nHomepage (Single-Page Scroll): Code a continuous scrolling layout featuring a fading hero section, an alternating vertical I.D.E.A.S. process timeline (Ideate, Develop, Engineer, Assemble, Support), a bio block, and a streamlined 4-field contact form with a PDF download link.\n\nDynamic Portfolio & Template: Build a filterable portfolio gallery using a Custom Post Type (CPT), allowing projects to be instantly sorted by the 5 I.D.E.A.S. stages without reloading the page. Create a single-project page template and migrate 5 existing projects into it as a baseline (I will migrate the rest of my archive later). Note: Some portfolio items will include video animations. These must be implemented for elite performance (e.g., using lightweight preview images that load the video only upon click).\n\nMigration, SEO & Launch: Map 301 redirects for a handful of legacy URLs to preserve my existing search equity. Cleanly strip out legacy WooCommerce bloat and unused database tables from the current site environment (or execute the build on a completely fresh WP install). Perform a speed/caching pass, configure Google Analytics 4, and launch from staging to live.\n\n---What I Provide:\nComplete mockup storyboards, layout structures, and copy.\n\nSVG logo assets and brand colors.\n\nNote on Photography: Final hardware renders are still a work in progress. Please plan to use temporary placeholder boxes during the build. Before launch, I will need you to provide an \"image punch list\" (exact pixel dimensions for every image slot) so I can render my final assets to fit your grid perfectly without cropping surprises.\n\n---Technical Requirements:\n\nNo bloated themes or unnecessary third-party add-on plugins to fake visual effects.\n\nClean, semantic HTML/CSS and fast load times.\n\nFlawless mobile responsiveness.\n\nTo Apply (Please Read Carefully):\nTo show you have read all of this brief (and that you're not some agency bot),  please start your proposal by answering this specific question: How exactly would you code the smoothly gliding active-indicator in the sticky header without relying on a bloated third-party add-on plugin?\n\nAlso, please also include 2 or 3 links to recent GenerateBlocks (or highly optimized native block) sites you have built so I can test their load speeds.\n\nIf you've got any questions, please dont hesitate to ask!",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "frontend-development",
+      "javascript",
+      "responsive-design",
+      "wordpress",
+      "css3",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "To code the smoothly gliding active-indicator in the sticky header without bloated third-party plugins, I use a lightweight vanilla JavaScript intersection observer (or scroll listener) combined with CSS `transform` and `transition` on a shared indicator element, dynamically updating its `width` and `left` offset based on the bounding box of the active nav item. \n\nAs a dedicated WordPress developer focused on elite performance, I completely agree with avoiding heavy page builders. I specialize in clean, bloat-free builds using GeneratePress and GenerateBlocks Pro, engineered specifically for minimal DOM size and top-tier Core Web Vitals. I've handled complex requirements like filterable CPT archives, lazy-loaded video previews, and seamless custom navigation mechanics. \n\nYou can review a couple of my recent high-performance native block builds here:\n- https://www.seeintl.org/\n- https://www.cchpca.org/\n\nLet's hop on a quick chat to map out your staging setup and timeline.",
+    "publishedDateTime": "2026-11-11T07:29:16+0000",
+    "addedAt": "2026-11-11T07:33:18.361Z",
+    "url": "https://www.upwork.com/jobs/~022120418553201080392",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120418553201080392/apply/"
+  },
+  {
     "id": "2120374675299285064",
     "ciphertext": "~022120374675299285064",
     "title": "My-sql and word press",
