@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 4,
-  "matchedFilters": 2,
+  "totalScanned": 5,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022120637315493585102",
       "addedAt": "2026-11-11T22:01:17.354Z"
+    },
+    {
+      "title": "Custom WordPress Website Redesign | Secure Referrals, Online Applications & Recruiting Integration",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022120615002945774704",
+      "addedAt": "2026-11-11T23:33:16.745Z"
     }
   ]
 }
