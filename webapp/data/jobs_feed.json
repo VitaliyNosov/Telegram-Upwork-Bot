@@ -1,5 +1,36 @@
 [
   {
+    "id": "2120450320394593466",
+    "ciphertext": "~022120450320394593466",
+    "title": "Senior WordPress / Laravel Developer (AI-First)",
+    "description": "We build fast. We use Claude Code and other AI tools as our primary tools, not an afterthought. We’re looking for a senior developer who ships production-quality WordPress and Laravel work quickly and knows how to direct AI agents to do it.\n\nWhat you’ll do\n-  Build and maintain custom WordPress sites, plugins, and themes\n- Build Laravel applications and integrations\n- Use Claude Code, MCP tools (e.g., Novamira), and AI workflows to speed up development without lowering quality\n- Review, test, and take ownership of AI-generated code before it ships\n\nRequirements\n- Excellent written and spoken English\n- 5+ years of PHP, with deep WordPress experience (custom plugins, hooks, ACF, WP-CLI, performance, security)\n- Solid Laravel experience\n- Hands-on daily use of Claude Code or similar AI coding agents, with examples you can show us\n- Comfortable with Git and dev/staging/production workflows\n- Available to work until 12:00 PM PST\n- MCP server setup and configuration\n- Experience with page builders (Elementor, Beaver Builder, Divi etc.)\n\nTo apply, answer these questions (short answers are fine; specifics matter more than length):\n- Describe a recent WordPress or Laravel feature you built with Claude Code or another AI agent. What did you build, what did the AI get wrong, and how did you catch and fix it?\n- Walk us through your setup: which AI tools, MCP servers, CLAUDE.md / rules files, or custom workflows do you use, and why?\n- When do you not use AI? Give a real example.\n- What’s the hardest WordPress problem you’ve solved (performance, a plugin conflict, a migration, a security issue)? Explain how you diagnosed it.\n- *Important:* Record a 2–3 minute Loom walking through a piece of your code or an AI session you ran. This is also how we’ll assess your spoken English.\n- Confirm you can work until 12:00 PM PST, and state your time zone.\n- Send your portfolio, GitHub, and a short note on how you use AI in your development workflow today.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.81,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 183,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "laravel-framework",
+      "php",
+      "javascript",
+      "web-programming",
+      "css",
+      "wordpress"
+    ],
+    "score": 3096,
+    "coverLetter": "Hi! I am available to work until 12:00 PM PST (currently operating in your required timezone window), and I ship production-ready WordPress and Laravel solutions daily using Claude Code and AI-first agent workflows.\n\nI use Claude Code combined with custom `CLAUDE.md` guardrails, git integration, and WP-CLI for rapid plugin and theme development. While AI speeds up scaffolding immensely, I never rely on it blindly for complex database queries or critical security hooks—such as custom WooCommerce checkout validations—where manual code review and edge-case testing are essential. Beyond AI tooling, my core backend background includes deep PHP/WordPress optimization, custom ACF architecture, and handling tough debugging challenges like untangling severe multi-plugin conflicts on high-traffic sites. \n\nYou can review my production work here: https://www.cchpca.org/\n\nWhen would you like to hop on a quick chat to discuss the setup and review my Loom walkthrough?",
+    "publishedDateTime": "2026-11-11T09:35:32+0000",
+    "addedAt": "2026-11-11T09:39:16.686Z",
+    "url": "https://www.upwork.com/jobs/~022120450320394593466",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120450320394593466/apply/"
+  },
+  {
     "id": "2120418553201080392",
     "ciphertext": "~022120418553201080392",
     "title": "Clean/Fast WP Build, (GenerateBlocks) with sortable portfolio: (Storyboards & Mockups ready to go)",

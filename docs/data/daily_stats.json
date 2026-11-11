@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 23,
-  "matchedFilters": 6,
+  "totalScanned": 24,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022120374675299285064",
       "addedAt": "2026-11-11T04:37:16.077Z"
+    },
+    {
+      "title": "Senior WordPress / Laravel Developer (AI-First)",
+      "budget": "$10-$30/hr",
+      "score": 3096,
+      "url": "https://www.upwork.com/jobs/~022120450320394593466",
+      "addedAt": "2026-11-11T09:39:15.297Z"
     },
     {
       "title": "WordPress WooCommerce E-commerce Website Design & Development",
