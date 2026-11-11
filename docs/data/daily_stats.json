@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 42,
-  "matchedFilters": 11,
+  "totalScanned": 43,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022120368745630355939",
       "addedAt": "2026-11-11T04:15:15.314Z"
+    },
+    {
+      "title": "Setting up a basic website and other related services",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022120568209309686700",
+      "addedAt": "2026-11-11T17:27:18.747Z"
     },
     {
       "title": "Build a WordPress directory site for video-wall rentals: 100 city pages, zip search, and lead forms",

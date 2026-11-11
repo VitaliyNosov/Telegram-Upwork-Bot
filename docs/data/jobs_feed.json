@@ -1,5 +1,33 @@
 [
   {
+    "id": "2120568209309686700",
+    "ciphertext": "~022120568209309686700",
+    "title": "Setting up a basic website and other related services",
+    "description": "We need a website designed for an international pharmaceutical startup, alongside a few related services like professional emails, etc. Full scope of services can be discussed during the first meeting. We want the website to be sleek, modern, and professional, so we're looking for someone with a keen eye for aesthetics.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI would love to help you build a sleek, modern, and professional website for your international pharmaceutical startup, along with setting up your professional emails and related infrastructure. \n\nBuilding high-end, aesthetic websites that reflect trust and professionalism is my specialty. As an experienced WordPress developer, I focus on clean design, performance, and seamless user experiences tailored specifically to brand identity. For reference, you can check out how I structured and built a clean, professional layout on https://www.seeintl.org/. \n\nBeyond the initial build, I ensure everything from hosting setup to professional email configuration is fully dialed in so your team is ready to launch without technical friction. \n\nWhat is your preferred timeline for getting this site live? Let's connect to discuss the full scope.",
+    "publishedDateTime": "2026-11-11T17:25:04+0000",
+    "addedAt": "2026-11-11T17:27:20.252Z",
+    "url": "https://www.upwork.com/jobs/~022120568209309686700",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120568209309686700/apply/"
+  },
+  {
     "id": "2120513770129931603",
     "ciphertext": "~022120513770129931603",
     "title": "Website Developer for Agency with 150+ sites",
