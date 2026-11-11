@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 15,
-  "matchedFilters": 4,
+  "totalScanned": 16,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 9100,
       "url": "https://www.upwork.com/jobs/~022120327851051581045",
       "addedAt": "2026-11-11T01:33:16.384Z"
+    },
+    {
+      "title": "My-sql and word press",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022120374675299285064",
+      "addedAt": "2026-11-11T04:37:16.077Z"
     },
     {
       "title": "WordPress WooCommerce E-commerce Website Design & Development",

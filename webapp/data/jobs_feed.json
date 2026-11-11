@@ -1,5 +1,34 @@
 [
   {
+    "id": "2120374675299285064",
+    "ciphertext": "~022120374675299285064",
+    "title": "My-sql and word press",
+    "description": "Development work in my-sql and integrating it into word press.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "mysql",
+      "wordpress",
+      "php",
+      "web-programming"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nI can help you with your MySQL development work and seamlessly integrating it into your WordPress site. \n\nWith deep expertise in WordPress, PHP, and MySQL, I frequently handle custom database integrations, backend development, and complex data queries for WordPress environments. Whether you need custom database tables, optimized queries, or custom plugin/theme integration pulling live data from MySQL, I can ensure it runs efficiently and securely. \n\nYou can review my recent WordPress development work on complex sites like [https://www.snopud.com/](https://www.snopud.com/).\n\nCould you share a few more details about the specific data you are looking to integrate and the structure of your MySQL database? Let's chat about the best approach to get this built.",
+    "publishedDateTime": "2026-11-11T04:34:55+0000",
+    "addedAt": "2026-11-11T04:37:19.909Z",
+    "url": "https://www.upwork.com/jobs/~022120374675299285064",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120374675299285064/apply/"
+  },
+  {
     "id": "2120368745630355939",
     "ciphertext": "~022120368745630355939",
     "title": "WordPress Website Rebuild & SEO Migration – Established Tourism Business | 300 Pages",
