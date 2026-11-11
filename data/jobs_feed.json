@@ -1,5 +1,39 @@
 [
   {
+    "id": "2120629108399708315",
+    "ciphertext": "~022120629108399708315",
+    "title": "WordPress Developer (frontend/design) for Ongoing Site Updates",
+    "description": "We are seeking an experienced WordPress Developer to join us for ongoing client site changes and development. This role involves completing various update requests, building new pages and sections, ensuring responsive design across devices, and troubleshooting technical issues. The ideal candidate will have strong expertise in Elementor Pro, Divi, and a solid understanding of CMS work, CSS, and light graphic design.\n\nWhat you'll do:\n- Complete client update requests from our task board, typically several per week, most under an hour.\n- Build new pages and sections using Elementor from Figma, Photoshop, and Canva designs.\n- Ensure all changes are fully responsive on desktop, tablet, and mobile.\n- Troubleshoot layout, plugin, and form issues to identify and resolve root causes.\n- Review and refine changes made by AI tools on client sites.\n- Communicate clearly and proactively with our support lead and QA team, asking questions early and responding to feedback promptly.\n\nThis is an ongoing position requiring approximately 5-15 hours per week, with 6-10 tasks, mostly under one hour each.\n\nKey responsibilities include:\n- Content and site updates: Publishing blog posts, swapping links, PDFs, logos, phone numbers, team bios, menu items, embed codes, and pop-up settings.\n- Layout, styling, and new sections: Creating Elementor sections and pop-ups, aligning with brand colors/fonts, fixing responsive issues, updating maps, applying client change documents, and installing tracking codes.\n- Page builds and troubleshooting: Developing full pages from Figma/PSD/Canva designs, implementing mega menus, weighted quizzes, custom templates, and debugging plugin conflicts (e.g., Gravity Forms, MemberPress, Divi).\n\nWhat we're looking for:\n- 3+ years of experience building and maintaining WordPress sites, with strong Elementor Pro expertise (including pop-ups, templates, theme builder, and display conditions).\n- Solid knowledge of HTML, CSS, and responsive design; working knowledge of PHP and JavaScript.\n- Experience with Divi or Bricks is a plus.\n- Familiarity with Gravity Forms, MemberPress, custom fields, and common marketing plugins.\n- Comfortable installing tracking codes (e.g., Meta Pixel, Google Tag Manager) and confirming their functionality.\n- Experience using AI coding tools (e.g., Claude Code, Cursor, MCP connectors) is a strong plus.\n- A habit of thoroughly checking your own work against the brief before submission.\n- Comfortable leveraging AI for context, improvements, and automations.\n- WooCommerce is a plus",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$20 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 120,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "divi",
+      "elementor",
+      "gravity-forms",
+      "slider-revolution",
+      "wp-rocket",
+      "woocommerce",
+      "wordpress",
+      "css",
+      "web-programming"
+    ],
+    "score": 3200,
+    "coverLetter": "Hi! \n\nI’d love to help you handle your ongoing client site updates, new page builds, and troubleshooting requests. \n\nWith extensive experience in WordPress, Elementor Pro, Divi, and custom CSS, I frequently tackle the exact types of tasks on your board—from building pixel-perfect sections from Figma, PSD, and Canva designs to resolving plugin conflicts with Gravity Forms and WooCommerce. I'm also very comfortable reviewing and refining AI-generated changes, ensuring everything is fully responsive, clean, and thoroughly checked against the brief before submission. \n\nYou can view examples of my recent WordPress work here: https://www.seeintl.org/\n\nI have 5–15 hours per week available and am ready to integrate smoothly with your support lead and QA team. \n\nWhen would be a good time to chat about your current task board?",
+    "publishedDateTime": "2026-11-11T21:25:57+0000",
+    "addedAt": "2026-11-11T21:29:17.317Z",
+    "url": "https://www.upwork.com/jobs/~022120629108399708315",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120629108399708315/apply/"
+  },
+  {
     "id": "2120621052240631963",
     "ciphertext": "~022120621052240631963",
     "title": "Experienced Website Developer Needed for Ongoing Project",
