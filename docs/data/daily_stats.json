@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 52,
-  "matchedFilters": 12,
+  "totalScanned": 53,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -91,6 +91,13 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022120496664750059167",
       "addedAt": "2026-11-11T12:41:15.290Z"
+    },
+    {
+      "title": "Website Specialist for Minor Fixes & Improvements",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022120596505894547409",
+      "addedAt": "2026-11-11T19:19:18.827Z"
     }
   ]
 }

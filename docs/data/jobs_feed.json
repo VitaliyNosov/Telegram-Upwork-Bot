@@ -1,5 +1,33 @@
 [
   {
+    "id": "2120596505894547409",
+    "ciphertext": "~022120596505894547409",
+    "title": "Website Specialist for Minor Fixes & Improvements",
+    "description": "We are seeking an experienced Website Specialist to review and improve our existing website. Responsibilities include identifying and fixing minor website issues, correcting layout and formatting inconsistencies, improving responsiveness, checking links and forms, and making small design and functionality adjustments. The ideal candidate has experience in website maintenance, strong attention to detail, and the ability to troubleshoot issues and recommend practical improvements.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can help you quickly clean up those layout inconsistencies, fix broken links and forms, and polish your website's responsiveness. \n\nWith extensive experience in WordPress maintenance, bug fixes, and frontend troubleshooting, I specialize in jumping into existing sites to resolve minor design issues and implement smooth functionality adjustments without disrupting what's already working. You can see an example of my clean, detail-oriented work on WordPress builds like https://www.cchpca.org/.\n\nLet's knock out your list of improvements. Could you share a quick overview of the specific fixes or updates you need handled first?",
+    "publishedDateTime": "2026-11-11T19:16:24+0000",
+    "addedAt": "2026-11-11T19:19:19.849Z",
+    "url": "https://www.upwork.com/jobs/~022120596505894547409",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120596505894547409/apply/"
+  },
+  {
     "id": "2120568209309686700",
     "ciphertext": "~022120568209309686700",
     "title": "Setting up a basic website and other related services",
