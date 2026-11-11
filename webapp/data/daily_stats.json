@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-10",
-  "totalScanned": 29,
-  "matchedFilters": 9,
+  "totalScanned": 30,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 148,
       "url": "https://www.upwork.com/jobs/~022120368745630355939",
       "addedAt": "2026-11-11T04:15:15.314Z"
+    },
+    {
+      "title": "Build a WordPress directory site for video-wall rentals: 100 city pages, zip search, and lead forms",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022120506181640435784",
+      "addedAt": "2026-11-11T13:19:18.153Z"
     },
     {
       "title": "WordPress & Elementor Specialist – Luxury Travel & Retreat Website Optimization & Templating",
