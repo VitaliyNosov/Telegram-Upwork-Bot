@@ -1,5 +1,40 @@
 [
   {
+    "id": "2120632451960331203",
+    "ciphertext": "~022120632451960331203",
+    "title": "Website Developer Needed for Dynamic Ongoing Project",
+    "description": "We are looking for an experienced and reliable WordPress Website Developer to join our team for ongoing projects. The ideal candidate should have strong experience in WordPress development, website customization, theme and plugin development, and creating responsive, user-friendly websites.\n\nYou will be responsible for developing, maintaining, optimizing, and troubleshooting WordPress websites while ensuring high-quality work and timely delivery.\n\nResponsibilities\nDevelop, customize, and maintain WordPress websites.\n\nCustomize WordPress themes and plugins according to project requirements.\n\nBuild responsive, mobile-friendly, and SEO-friendly websites.\n\nConvert Figma, PSD, or other design files into functional WordPress websites.\n\nTroubleshoot and fix website bugs and technical issues.\n\nImprove website speed, performance, and security.\n\nManage website updates, backups, and ongoing maintenance.\n\nCommunicate regularly and provide progress updates.\n\nRequired Skills\nStrong experience with WordPress development.\n\nProficiency in PHP, HTML, CSS, JavaScript, and MySQL.\n\nExperience with Elementor, Divi, or other page builders.\n\nKnowledge of WooCommerce and custom post types is a plus.\n\nUnderstanding of responsive design and website optimization.\n\nAbility to work independently and meet deadlines.\n\nGood communication skills and attention to detail.\n\nProject Details\nJob Type: Ongoing / Long-Term Collaboration\n\nExperience Level: Intermediate to Expert\n\nWorkload: Based on project requirements\n\nCommunication: Regular updates and timely responses",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "jquery",
+      "woocommerce",
+      "html",
+      "javascript",
+      "web-design",
+      "web-programming",
+      "php",
+      "css",
+      "html5"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! \n\nI’d love to join your team as a reliable WordPress developer for your ongoing projects. With extensive experience in custom WordPress and WooCommerce development, theme/plugin customization, and performance optimization, I can help you build, maintain, and scale your client websites seamlessly. \n\nMy technical stack includes PHP, JavaScript, HTML/CSS, MySQL, and major page builders, allowing me to translate designs into responsive, high-performing websites. I also handle rigorous troubleshooting, speed optimization, and security hardening to ensure everything runs smoothly. You can see an example of my recent work here: https://www.thelifeyoucansave.org/.\n\nAre you currently working through a backlog of tasks, or do you have a specific immediate project you'd like to start with? Let’s chat about how we can collaborate long-term.",
+    "publishedDateTime": "2026-11-11T21:41:13+0000",
+    "addedAt": "2026-11-11T21:43:17.705Z",
+    "url": "https://www.upwork.com/jobs/~022120632451960331203",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120632451960331203/apply/"
+  },
+  {
     "id": "2120629108399708315",
     "ciphertext": "~022120629108399708315",
     "title": "WordPress Developer (frontend/design) for Ongoing Site Updates",

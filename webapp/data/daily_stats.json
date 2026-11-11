@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 67,
-  "matchedFilters": 15,
+  "totalScanned": 68,
+  "matchedFilters": 16,
   "byKeyword": {
-    "wordpress developer": 14,
+    "wordpress developer": 15,
     "woocommerce": 1
   },
   "topJobs": [
@@ -98,6 +98,13 @@
       "score": 50,
       "url": "https://www.upwork.com/jobs/~022120621052240631963",
       "addedAt": "2026-11-11T20:57:18.741Z"
+    },
+    {
+      "title": "Website Developer Needed for Dynamic Ongoing Project",
+      "budget": "Fixed-price",
+      "score": 50,
+      "url": "https://www.upwork.com/jobs/~022120632451960331203",
+      "addedAt": "2026-11-11T21:43:16.740Z"
     },
     {
       "title": "WordPress & Elementor Specialist – Luxury Travel & Retreat Website Optimization & Templating",
