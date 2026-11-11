@@ -1,124 +1,18 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 70,
-  "matchedFilters": 16,
+  "totalScanned": 1,
+  "matchedFilters": 1,
   "byKeyword": {
-    "wordpress developer": 15,
-    "woocommerce": 1
+    "wordpress developer": 1
   },
   "topJobs": [
     {
-      "title": "WordPress Custom Block Theme Developer",
-      "budget": "$20-$90/hr",
-      "score": 9100,
-      "url": "https://www.upwork.com/jobs/~022120327851051581045",
-      "addedAt": "2026-11-11T01:33:16.384Z"
-    },
-    {
-      "title": "Expert Shopify Developer for Premium Store Redesign, Custom Products & Conversion Optimization",
-      "budget": "$25-$50/hr",
-      "score": 5097,
-      "url": "https://www.upwork.com/jobs/~022120497279996531181",
-      "addedAt": "2026-11-11T12:43:16.485Z"
-    },
-    {
-      "title": "My-sql and word press",
-      "budget": "$15-$35/hr",
-      "score": 3600,
-      "url": "https://www.upwork.com/jobs/~022120374675299285064",
-      "addedAt": "2026-11-11T04:37:16.077Z"
-    },
-    {
-      "title": "WordPress Developer (frontend/design) for Ongoing Site Updates",
-      "budget": "$20-$30/hr",
-      "score": 3200,
-      "url": "https://www.upwork.com/jobs/~022120629108399708315",
-      "addedAt": "2026-11-11T21:29:16.112Z"
-    },
-    {
-      "title": "Senior WordPress / Laravel Developer (AI-First)",
-      "budget": "$10-$30/hr",
-      "score": 3096,
-      "url": "https://www.upwork.com/jobs/~022120450320394593466",
-      "addedAt": "2026-11-11T09:39:15.297Z"
-    },
-    {
-      "title": "WordPress WooCommerce E-commerce Website Design & Development",
-      "budget": "Fixed-price",
-      "score": 200,
-      "url": "https://www.upwork.com/jobs/~022120343102154609133",
-      "addedAt": "2026-11-11T02:31:16.948Z"
-    },
-    {
-      "title": "Clean/Fast WP Build, (GenerateBlocks) with sortable portfolio: (Storyboards & Mockups ready to go)",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022120418553201080392",
-      "addedAt": "2026-11-11T07:33:15.925Z"
-    },
-    {
-      "title": "Website Developer for Agency with 150+ sites",
-      "budget": "Fixed-price",
-      "score": 149,
-      "url": "https://www.upwork.com/jobs/~022120513770129931603",
-      "addedAt": "2026-11-11T13:51:18.057Z"
-    },
-    {
-      "title": "WordPress Developer: GeoDirectory & WordPress Multisite Specialist (GenerateBlocks + Migration)",
-      "budget": "Fixed-price",
-      "score": 148,
-      "url": "https://www.upwork.com/jobs/~022120324357223043555",
-      "addedAt": "2026-11-11T01:17:24.446Z"
-    },
-    {
-      "title": "WordPress Website Rebuild & SEO Migration – Established Tourism Business | 300 Pages",
-      "budget": "Fixed-price",
-      "score": 148,
-      "url": "https://www.upwork.com/jobs/~022120368745630355939",
-      "addedAt": "2026-11-11T04:15:15.314Z"
-    },
-    {
-      "title": "Setting up a basic website and other related services",
+      "title": "Migrating Existing Website",
       "budget": "Fixed-price",
       "score": 100,
-      "url": "https://www.upwork.com/jobs/~022120568209309686700",
-      "addedAt": "2026-11-11T17:27:18.747Z"
-    },
-    {
-      "title": "Build a WordPress directory site for video-wall rentals: 100 city pages, zip search, and lead forms",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022120506181640435784",
-      "addedAt": "2026-11-11T13:19:18.153Z"
-    },
-    {
-      "title": "Experienced Website Developer Needed for Ongoing Project",
-      "budget": "Fixed-price",
-      "score": 50,
-      "url": "https://www.upwork.com/jobs/~022120621052240631963",
-      "addedAt": "2026-11-11T20:57:18.741Z"
-    },
-    {
-      "title": "Website Developer Needed for Dynamic Ongoing Project",
-      "budget": "Fixed-price",
-      "score": 50,
-      "url": "https://www.upwork.com/jobs/~022120632451960331203",
-      "addedAt": "2026-11-11T21:43:16.740Z"
-    },
-    {
-      "title": "WordPress & Elementor Specialist – Luxury Travel & Retreat Website Optimization & Templating",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022120496664750059167",
-      "addedAt": "2026-11-11T12:41:15.290Z"
-    },
-    {
-      "title": "Website Specialist for Minor Fixes & Improvements",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022120596505894547409",
-      "addedAt": "2026-11-11T19:19:18.827Z"
+      "url": "https://www.upwork.com/jobs/~022120637315493585102",
+      "addedAt": "2026-11-11T22:01:17.354Z"
     }
   ]
 }
