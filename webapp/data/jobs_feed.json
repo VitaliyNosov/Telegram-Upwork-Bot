@@ -1,5 +1,37 @@
 [
   {
+    "id": "2120654278128361294",
+    "ciphertext": "~022120654278128361294",
+    "title": "WordPress developer for an 18+ subscription platform with AI chat (fixed-price milestones)",
+    "description": "We're building a subscription platform for adults (18+) on WordPress, with an AI chat feature. The site is live, and we're looking for a developer to finish the remaining features ahead of a late-November launch, then stay on for ongoing work.\n\nYou'll pick up our existing development repo and keep building with the same workflow: Claude Code with a step-by-step build list, working closely with me as I review each step. Our current developer will help you get set up and through the transition.\nMilestones:\n\nTwo more AI characters live, with conversation analytics\nSign-up and 3-day trial, with card capture, age verification, and onboarding questions\nChat interface rebuild, part 1 (mobile first)\nChat interface, part 2, and an installable web app (PWA) with push notifications\nCharacter availability scheduling and cost control\nPhoto and video library\nEmail notifications and billing reminders\nWe start with milestone 1 as a paid trial ($500). If it's a fit, the remaining six follow one at a time, each agreed and paid as it's approved, up to $4,500 for the whole project.\nPayments run through CCBill, so experience with a high-risk processor matters.\n\nYou have:\nStrong WordPress and PHP (custom plugins, WooCommerce Subscriptions)\nPayment processor integration, ideally CCBill or another high-risk processor\nExperience integrating LLM APIs\nHands-on experience with Claude Code or a similar AI-assisted workflow\nClear, short written updates\nHow we work: I lead design and copy and review the build as it goes, and you own engineering and UX.\n\nTo apply, tell us:\n1. A WordPress plugin or payment integration you built\n2. Have you worked with CCBill or another high-risk processor?\n3. How do you use Claude Code or AI agents in your build process?\n4. When could you start, and how many hours a week do you have through December?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-plugin",
+      "javascript",
+      "wordpress",
+      "php",
+      "woocommerce",
+      "api-integration",
+      "progressive-web-apps"
+    ],
+    "score": 248,
+    "coverLetter": "Hi! I can start immediately and have 35+ hours a week available through December to get your platform successfully launched.\n\n1. I frequently build custom WordPress plugins and integrate complex payment gateways, including high-risk processors like CCBill and Stripe for subscription models. \n2. Yes, I have handled CCBill integrations alongside WooCommerce Subscriptions for adult and restricted-content platforms.\n3. I regularly use AI-assisted workflows like Claude Code and step-by-step build lists to accelerate custom feature development, Gutenberg blocks, and API integrations while keeping code clean.\n4. I can start right away this week.\n\nMy background includes robust PHP, custom plugin development, and real-time API integrations (such as LLM features and PWAs). For an example of my enterprise-grade WordPress work, you can review [https://www.snopud.com/](https://www.snopud.com/).\n\nLet's chat about kicking off Milestone 1!",
+    "publishedDateTime": "2026-11-11T23:06:44+0000",
+    "addedAt": "2026-11-11T23:09:21.809Z",
+    "url": "https://www.upwork.com/jobs/~022120654278128361294",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120654278128361294/apply/"
+  },
+  {
     "id": "2120637315493585102",
     "ciphertext": "~022120637315493585102",
     "title": "Migrating Existing Website",

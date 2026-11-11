@@ -1,12 +1,19 @@
 {
   "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 3,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress developer for an 18+ subscription platform with AI chat (fixed-price milestones)",
+      "budget": "Fixed-price",
+      "score": 248,
+      "url": "https://www.upwork.com/jobs/~022120654278128361294",
+      "addedAt": "2026-11-11T23:09:20.602Z"
+    },
     {
       "title": "Migrating Existing Website",
       "budget": "Fixed-price",
