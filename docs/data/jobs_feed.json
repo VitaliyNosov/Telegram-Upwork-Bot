@@ -1,5 +1,34 @@
 [
   {
+    "id": "2120902191876361787",
+    "ciphertext": "~022120902191876361787",
+    "title": "Website Speed Optimization & Basic Website Edits",
+    "description": "I've got a website that I built out on Elementor Wordpress, that is having terrible loading time issues. \n\nGoals:\n- Make necessary changes to optimize my site for speed. It's currently extremely slow in loading\n-Clean up my Wordpress backend. I've added a lot of plug-ins, and not sure what I'm using.\n-Make some changes to my wordpress site regarding appearance, create some standards, and overall clean it up\n-Help with 301 redirect set up\n\n\nAdded bonus, if you've got very very basic SEO experience and can take a good look at my site to make sure heading structure and everything is set up correctly, that'll be beneficial.\n\nMy main goal is make necessary adjustments to optimize for speed, clean up my Wordpress and get rid of a bunch of things I'm not using, and make a few basic changes to the design\n\nWhat I'm looking for: someone who can optimize my site for speed, make some basic changes to my design, and overall clean it up.\n\nLooking to hire ASAP to get this done.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$12 - $35/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "css",
+      "wordpress",
+      "javascript",
+      "html"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nI can help you get your Elementor WordPress site loading fast and clean up the backend clutter right away. \n\nSlow Elementor sites often suffer from bloated plugins, unoptimized assets, and poor database hygiene. I specialize in WordPress speed optimization (Core Web Vitals) and backend audits. I’ll safely audit and remove unused plugins, optimize your scripts and images, configure proper caching, and set up your 301 redirects. \n\nAs a bonus, I can easily review and fix your HTML heading structures to ensure proper on-page SEO foundations are in place while making your requested design adjustments. You can see an example of my clean, high-performance work here: https://www.thelifeyoucansave.org/\n\nAre you available for a quick chat today to review the site URL and get started?",
+    "publishedDateTime": "2026-11-12T15:31:25+0000",
+    "addedAt": "2026-11-12T15:33:22.227Z",
+    "url": "https://www.upwork.com/jobs/~022120902191876361787",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120902191876361787/apply/"
+  },
+  {
     "id": "2120882089538774128",
     "ciphertext": "~022120882089538774128",
     "title": "WordPress Developer Needed for Custom Property Integration Plugin",

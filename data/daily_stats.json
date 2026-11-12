@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 41,
-  "matchedFilters": 11,
+  "totalScanned": 42,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4198,
       "url": "https://www.upwork.com/jobs/~022120875306081537595",
       "addedAt": "2026-11-12T13:47:18.690Z"
+    },
+    {
+      "title": "Website Speed Optimization & Basic Website Edits",
+      "budget": "$12-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022120902191876361787",
+      "addedAt": "2026-11-12T15:33:16.205Z"
     },
     {
       "title": "WordPress Malicious Code Removal",
