@@ -1,5 +1,36 @@
 [
   {
+    "id": "2120708113754700706",
+    "ciphertext": "~022120708113754700706",
+    "title": "URGENT - Wordpress Website is Down",
+    "description": "Our WordPress website is currently down, and we urgently need an experienced developer to investigate and restore it.\n\nWe need someone who can:\n\nStart immediately.\n\nDiagnose and fix the issue as quickly as possible.\n\nCheck for any security breaches, plugin conflicts or server issues.\n\nEnsure the website is fully operational and secure.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 64,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "css",
+      "html",
+      "html5",
+      "woocommerce"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I am available to start immediately and can jump into your server right now to get your site back online.\n\nI specialize in emergency WordPress recovery, diagnosing fatal errors, white screens, database issues, plugin conflicts, and security breaches. I will quickly identify what caused the crash, resolve the underlying error, restore full functionality, and harden your security to prevent future downtime. You can see examples of my recent client work here: https://www.thelifeyoucansave.org/\n\nPlease share your hosting or WordPress admin credentials in chat, and I will begin investigating right away. What is the URL of your site?",
+    "publishedDateTime": "2026-11-12T02:39:54+0000",
+    "addedAt": "2026-11-12T02:41:17.711Z",
+    "url": "https://www.upwork.com/jobs/~022120708113754700706",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120708113754700706/apply/"
+  },
+  {
     "id": "2120683145503390626",
     "ciphertext": "~022120683145503390626",
     "title": "Shopify to WooCommerce Migration Expert – Full eCommerce Migration, SEO & Ads Integration",

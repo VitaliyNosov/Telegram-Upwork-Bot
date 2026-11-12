@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 15,
-  "matchedFilters": 4,
+  "totalScanned": 16,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022120637315493585102",
       "addedAt": "2026-11-11T22:01:17.354Z"
+    },
+    {
+      "title": "URGENT - Wordpress Website is Down",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022120708113754700706",
+      "addedAt": "2026-11-12T02:41:16.674Z"
     },
     {
       "title": "Custom WordPress Website Redesign | Secure Referrals, Online Applications & Recruiting Integration",
