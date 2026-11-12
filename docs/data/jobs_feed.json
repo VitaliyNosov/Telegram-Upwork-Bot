@@ -1,5 +1,33 @@
 [
   {
+    "id": "2120882089538774128",
+    "ciphertext": "~022120882089538774128",
+    "title": "WordPress Developer Needed for Custom Property Integration Plugin",
+    "description": "We’re looking for an experienced WordPress developer to build a custom plugin that integrates Hostfully with our WordPress website.\n\nThe concept is straightforward: pull property information from Hostfully through its API and store it in WordPress custom post types so it can be displayed on our website. This is a property information integration only. Bookings, reservations, payments, and other transactional functionality are outside the scope.\n\nWe have detailed requirements already outlined and will provide them upon hire.\n\nScope of Work:\n- Develop a custom WordPress plugin that connects to the Hostfully API.\n\n- Retrieve property information and map it to WordPress custom post types and associated custom fields.\n\n- Support importing and updating property records according to the provided requirements.\n\n- Create a WordPress admin interface for API credentials and other integration settings.\n\n- Include appropriate error handling and secure storage and handling of API credentials.\n\n- Provide installation, configuration, and maintenance documentation.\n\nThe detailed requirements will define the property fields, import/update behavior, and website display needs.\n\nRequired Experience:\n- Custom WordPress plugin development.\n\n- Third-party REST API integrations.\n\n- WordPress custom post types, metadata, and custom fields.\n\n- WordPress security and coding standards.\n\n- PHP and troubleshooting API integrations.\n\n- Experience with Hostfully or similar property management platforms is preferred.\n\nDeliverables:\n- A working custom plugin with complete source code.\n\n- Implementation and testing against the supplied requirements.\n\n- Documentation covering setup, configuration, and ongoing maintenance.\n\nTo Apply:\n\nPlease include:\n- Examples of similar WordPress plugins or API integrations you have developed.\n\n- Any experience working with Hostfully.\n\n- Your availability and typical process for reviewing requirements and confirming an estimate.\n\nWe’re looking for someone who communicates clearly, writes maintainable code, and can work from a defined set of requirements.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 132,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "api"
+    ],
+    "score": 199,
+    "coverLetter": "Hi! I can build your custom Hostfully API integration plugin for WordPress cleanly and securely. \n\nMy core background is in custom WordPress plugin development and third-party REST API integrations. I frequently build solutions that map external data into WordPress custom post types and ACF metadata, complete with dedicated admin settings, secure credential storage, and robust error handling. \n\nFor past work involving complex integrations and custom post type structures, you can take a look at https://www.cchpca.org/ from my portfolio.\n\nRegarding your questions:\n- Availability: I am available to start immediately and can usually review requirements within 24 hours to provide a fixed-price estimate and timeline.\n- Process: Once I review your detailed specs, I map out the database schema (CPTs and fields), outline the API sync workflow, build the plugin in a staging environment, and provide clean documentation upon delivery.\n\nAre you available this week to share the requirements document so I can review it and provide an estimate?",
+    "publishedDateTime": "2026-11-12T14:11:12+0000",
+    "addedAt": "2026-11-12T14:13:25.778Z",
+    "url": "https://www.upwork.com/jobs/~022120882089538774128",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120882089538774128/apply/"
+  },
+  {
     "id": "2120875306081537595",
     "ciphertext": "~022120875306081537595",
     "title": "WordPress & Shopify Developer",

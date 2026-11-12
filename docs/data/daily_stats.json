@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 37,
-  "matchedFilters": 10,
+  "totalScanned": 38,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 248,
       "url": "https://www.upwork.com/jobs/~022120654278128361294",
       "addedAt": "2026-11-11T23:09:20.602Z"
+    },
+    {
+      "title": "WordPress Developer Needed for Custom Property Integration Plugin",
+      "budget": "Fixed-price",
+      "score": 199,
+      "url": "https://www.upwork.com/jobs/~022120882089538774128",
+      "addedAt": "2026-11-12T14:13:20.920Z"
     },
     {
       "title": "Shopify to WooCommerce Migration Expert – Full eCommerce Migration, SEO & Ads Integration",
