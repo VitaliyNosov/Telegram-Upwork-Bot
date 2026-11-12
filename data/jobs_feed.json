@@ -1,5 +1,36 @@
 [
   {
+    "id": "2120721841690678778",
+    "ciphertext": "~022120721841690678778",
+    "title": "Website recovery project",
+    "description": "Our website was taken offline while the business was paused. During that period the renewal of the com domain name fell due, the registration lapsed, and on 22 December 2025 the name was registered by\nsomeone else. It now hosts unrelated adult content and is no longer under our control.We have registered a new domain for the relaunch. \n\nWhat Survived\nWe have a full backup of the site : a 214 MB export containing the database, every\npage layout, the media library and the original brand files.  Nothing is missing from it.\n\nThe Gap\nThat backup sits about a year behind the version that was last online. Six pages added after mid 2024 are not in\nit. All six were captured by the Internet Archive on 22 March 2025, and we have already saved a PDF copy of\nevery archived page.\n\nWork required\n1. Restore from the website from our own backup. The database comes back with every page layout, service entry and article intact and fully editable, rather than as flattened HTML that has to be rebuilt by hand.\n2. Recover the six missing pages. Rebuild them from the archive captures, matching the original layout, and reinstate the navigation menu as it stood.\n3. Bring it up to date before it goes public. pointing at the new domain. The site runs on software from mid-2024. WordPress, PHP , the theme and every plugin need to be current, and the contact form needs to work, before it faces the internet again.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "New Zealand",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "adaptive-web-design",
+      "elementor",
+      "web-programming",
+      "wordpress",
+      "php",
+      "html5"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you cleanly restore your website on your new domain using your 214 MB backup, rebuild the six missing pages from your Internet Archive captures to match your original layout, and safely update WordPress, PHP, themes, and plugins to current versions. \n\nI specialize in WordPress site recovery, migrations, updating outdated systems, and resolving plugin/form conflicts—ensuring everything is secure and fully functional before it goes public. You can see examples of my recent WordPress work at https://www.thelifeyoucansave.org/.\n\nLet’s get your site back online and fully up to date. Are you ready to share the backup and new domain details so we can get started?",
+    "publishedDateTime": "2026-11-12T03:34:27+0000",
+    "addedAt": "2026-11-12T03:37:18.760Z",
+    "url": "https://www.upwork.com/jobs/~022120721841690678778",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120721841690678778/apply/"
+  },
+  {
     "id": "2120708508975535610",
     "ciphertext": "~022120708508975535610",
     "title": "WordPress developer for agency: website updates, server migration, and bug fixes",
