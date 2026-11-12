@@ -1,5 +1,39 @@
 [
   {
+    "id": "2120906036346000890",
+    "ciphertext": "~022120906036346000890",
+    "title": "Shopify Expert for Luxury Website Redesign & WooCommerce Migration",
+    "description": "We’re looking for an experienced Shopify designer and developer to redesign our existing luxury e-commerce website and move our entire store from WooCommerce to Shopify. Our current website is live but has functionality issues. We want a beautiful, elegant storefront that reflects the quality of our brand, loads quickly, and makes it easy for customers to shop on mobile and desktop.\n\nLuxury e-commerce design expertise is required. You should have a portfolio of live Shopify stores that shows a strong eye for typography, color, spacing, and product photography. We want someone who can lead the visual direction and make the entire store feel refined and cohesive, from the homepage to the product pages and cart. You’ll also need hands-on experience managing a WooCommerce-to-Shopify migration through testing and launch.\n\n1. Review our current website and plan the migration\n\n* Review our catalog, pages, customer and order data, plugins, and integrations. Identify the functionality issues and explain how you would address them in Shopify.\n* Recommend a Shopify theme and explain what you would customize to achieve the luxury look and functionality we want.\n* Confirm what can be migrated, what needs to be rebuilt, and any limitations around customer accounts, order history, or integrations.\n* Propose milestones, estimated timing, and any one-time or recurring costs for themes, apps, and migration tools.\n\n2. Design and build an elegant Shopify storefront\n\n* Develop a visual direction that fits our brand, with refined typography, a cohesive color palette, thoughtful spacing, and layouts that showcase our product photography and details.\n* Share the design direction and key homepage, collection, and product page layouts for review before building out the full store.\n* Build the homepage, collection pages, product pages, cart, navigation, footer, and key content pages such as About, Contact, and store policies.\n* Carry the same design quality through mobile and desktop. Make products easy to find, product information easy to read, and the path to checkout clear.\n\n3. Migrate the WooCommerce store\n\n* Migrate products, descriptions, images, variants, SKUs, prices, inventory, customer records, order history, and relevant page content. Flag any migration limitations before work begins.\n* Verify that the imported catalog is accurate, including product and variant counts, prices, inventory, and images.\n* Set up redirects for changed product, collection, and page URLs. Carry over relevant page titles and meta descriptions.\n* Keep the existing store live during the build and account for any new orders or inventory changes before switching the domain.\n\n4. Configure and test the full shopping experience\n\n* Configure payments, shipping rates, tax settings, discounts, and order emails using our approved store settings.\n* Place test orders on mobile and desktop. Verify variant selection, add-to-cart, quantity changes, item removal, discount codes, shipping, taxes, payment, and order confirmation.\n* Confirm test orders appear correctly in Shopify and inventory updates as expected. Check out-of-stock behavior and payment failure messages.\n* Test key links, navigation, and contact forms. Share a completed testing checklist and resolve any launch-blocking issues.\n\n5. Optimize performance, connect our domain, and launch\n\n* Optimize images for speed while preserving their visual quality. Review theme code, apps, and third-party scripts for performance, and share mobile speed results for the homepage, a collection page, and a product page.\n* Use Shopify collaborator access with the permissions needed for the project and confirm our team has store ownership and admin access at launch.\n* Connect our existing domain, verify HTTPS and redirects, and preserve business email settings if the domain also handles email.\n* Coordinate the switch with minimal disruption and verify that the live storefront, cart, checkout, and order emails work on our domain.\n\nWe’d like clear updates at each milestone, early notice of blockers or additional costs, and an opportunity to review the storefront before launch.\n\nTo apply, please include the following\n\n1. Two or three live luxury or premium Shopify stores you helped design. Tell us what you personally designed or built and describe one visual decision you made to reflect the brand.\n2. One WooCommerce-to-Shopify migration you completed, including what you moved and how you verified checkout and the domain switch.\n3. Your estimated timeline and project cost, broken down by milestone if possible.\n4. If you work with a team, tell us who will lead the visual design and who will handle development and launch.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "design-enhancement",
+      "shopify",
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "woocommerce",
+      "shopify-templates",
+      "e-commerce-website",
+      "ecommerce-consulting"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! Redesigning a luxury store while migrating from WooCommerce to Shopify requires preserving your SEO and customer data while elevating your visual identity. \n\nHaving deep expertise in both WooCommerce and Shopify theme customization, I handle both sides of this transition: crafting refined visual layouts (focusing on elegant typography, white space, and mobile performance) and managing the technical migration—including catalog transfer, 301 redirects, and zero-downtime domain launch. You can review my work on large-scale web builds at https://about.offerup.com/.\n\nI lead both design and technical development directly to ensure single-point accountability and quality. Depending on catalog size, a project like this typically takes 3 to 4 weeks broken into clear design, migration, and testing milestones.\n\nCould you share your current WooCommerce URL so I can review your catalog structure and send over relevant Shopify store examples in chat?",
+    "publishedDateTime": "2026-11-12T15:46:22+0000",
+    "addedAt": "2026-11-12T15:49:50.567Z",
+    "url": "https://www.upwork.com/jobs/~022120906036346000890",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120906036346000890/apply/"
+  },
+  {
     "id": "2120904211683383451",
     "ciphertext": "~022120904211683383451",
     "title": "Mobile-Friendly Website Optimization",
