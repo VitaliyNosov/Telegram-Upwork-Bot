@@ -1,8 +1,18 @@
 {
   "date": "2026-11-13",
   "lastDigestSentDate": "2026-11-12",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress & Divi 4 Designer for Podcast Page Updates",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022121003605321505731",
+      "addedAt": "2026-11-12T22:19:16.581Z"
+    }
+  ]
 }

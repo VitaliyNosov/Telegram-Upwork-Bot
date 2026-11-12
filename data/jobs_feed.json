@@ -1,5 +1,33 @@
 [
   {
+    "id": "2121003605321505731",
+    "ciphertext": "~022121003605321505731",
+    "title": "WordPress & Divi 4 Designer for Podcast Page Updates",
+    "description": "Hi there,\nI am looking for an experienced WordPress designer proficient in Divi 4 to complete a few targeted updates to my podcast website over the next few days. (I will share the website link with shortlisted candidates).\nWe are transitioning from audio-only podcasts to video and require clean, complementary updates—not a complete redesign. For the right candidate, there is potential for ongoing website maintenance following the successful completion of this initial project.\nScope of Work:\nHome & Episodes Pages: Update the Home page and resolve a missing Episodes page issue so visitors can easily browse both past audio episodes and new video episodes.\nEpisode Page Template: Build an easy-to-use Divi template for individual episode pages that we can reuse to quickly publish future video episodes going forward.\nClean Video Layout: Showcase our new video format using thumbnails or a similar streamlined presentation rather than large video embeds.\nTechnical Details:\nPlatform: WordPress using Divi 4\nMembership Plugin: WishList Member (updates must not disrupt existing membership settings)\nTo Apply:\nPlease share links to your Divi portfolio, along with your immediate availability and estimated turnaround time.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! I am immediately available, and I can have these Divi 4 podcast updates completed within a quick turnaround of 2 to 3 days. \n\nI am a WordPress and Divi expert with extensive experience working on custom layouts, resolving missing page issues, and building reusable templates without breaking existing structures. I am also very familiar with membership setups and will ensure your WishList Member settings remain completely untouched and fully functional throughout the transition. \n\nFor a look at my clean layout work, you can check out https://www.thelifeyoucansave.org/. \n\nCould you share the website link and your specific preference for the video thumbnail layout so we can get started right away?",
+    "publishedDateTime": "2026-11-12T22:15:47+0000",
+    "addedAt": "2026-11-12T22:19:17.674Z",
+    "url": "https://www.upwork.com/jobs/~022121003605321505731",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121003605321505731/apply/"
+  },
+  {
     "id": "2120995796461708400",
     "ciphertext": "~022120995796461708400",
     "title": "Senior WordPress Designer & Developer for Oral Surgery Website Migration Squarespace to Kinsta/Wor",
