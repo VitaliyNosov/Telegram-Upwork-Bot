@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 23,
-  "matchedFilters": 7,
+  "totalScanned": 25,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 4250,
       "url": "https://www.upwork.com/jobs/~022120708508975535610",
       "addedAt": "2026-11-12T02:43:17.373Z"
+    },
+    {
+      "title": "WordPress Malicious Code Removal",
+      "budget": "$14-$28/hr",
+      "score": 2900,
+      "url": "https://www.upwork.com/jobs/~022120754836095056802",
+      "addedAt": "2026-11-12T05:47:19.001Z"
     },
     {
       "title": "WordPress developer for an 18+ subscription platform with AI chat (fixed-price milestones)",

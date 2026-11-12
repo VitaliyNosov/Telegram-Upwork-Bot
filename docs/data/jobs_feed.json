@@ -1,5 +1,34 @@
 [
   {
+    "id": "2120754836095056802",
+    "ciphertext": "~022120754836095056802",
+    "title": "WordPress Malicious Code Removal",
+    "description": "My WordPress site has been infected with malicious code, and I can no longer use most of the WordPress dashboard to edit, manage, or maintain the site. I need a freelancer to identify the source of the issue, remove the malicious code, and restore normal dashboard functionality. The work should also include checking for any remaining vulnerabilities and ensuring the site is secure and stable after cleanup. Please share relevant experience with WordPress security issues and similar cleanup projects.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html",
+      "css"
+    ],
+    "score": 2900,
+    "coverLetter": "Hi! \n\nI can help you thoroughly clean your infected WordPress site, regain full access to your dashboard, and patch the vulnerabilities that allowed the malware in. \n\nAs a WordPress security and backend specialist, I regularly handle hacked site recovery, malicious code removal, database sanitization, and security hardening. I’ll trace the injection point—whether it's via an outdated plugin, theme vulnerability, or compromised database—remove all backdoors, and implement robust security measures to ensure it doesn't happen again. \n\nCould you share your site URL so I can quickly review the current infection scope and get started?",
+    "publishedDateTime": "2026-11-12T05:45:55+0000",
+    "addedAt": "2026-11-12T05:47:20.483Z",
+    "url": "https://www.upwork.com/jobs/~022120754836095056802",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120754836095056802/apply/"
+  },
+  {
     "id": "2120721841690678778",
     "ciphertext": "~022120721841690678778",
     "title": "Website recovery project",
