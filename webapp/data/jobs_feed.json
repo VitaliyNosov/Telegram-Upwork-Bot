@@ -1,5 +1,35 @@
 [
   {
+    "id": "2120904211683383451",
+    "ciphertext": "~022120904211683383451",
+    "title": "Mobile-Friendly Website Optimization",
+    "description": "We need a developer to improve our website’s mobile experience and responsiveness across common devices. The work includes reviewing the current layout, adjusting page structure for better mobile usability, and ensuring key sections display clearly on smaller screens. You should also test the changes on multiple devices and browsers to confirm a smooth user experience. Please share relevant examples of similar responsive website improvements you have completed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.55,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 93,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "score": 91,
+    "coverLetter": "Hi! \n\nImproving mobile usability and ensuring a seamless experience across all devices is crucial for keeping bounce rates low and conversions high. I regularly audit and refine responsive layouts, fixing CSS/HTML structure issues, spacing, and element alignment to make sites look and function flawlessly on smaller screens. \n\nWith strong expertise in front-end development (HTML, CSS, JavaScript) and modern CMS platforms, I can quickly diagnose your layout bottlenecks and optimize key sections for mobile users. You can see an example of my clean, responsive work on mobile and desktop here: https://www.thelifeyoucansave.org/\n\nCould you share the current website URL so I can take a quick look at the mobile layout issues you are facing?\n\nBest regards,\nWordPress & Front-End Developer",
+    "publishedDateTime": "2026-11-12T15:39:44+0000",
+    "addedAt": "2026-11-12T15:43:25.331Z",
+    "url": "https://www.upwork.com/jobs/~022120904211683383451",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022120904211683383451/apply/"
+  },
+  {
     "id": "2120902191876361787",
     "ciphertext": "~022120902191876361787",
     "title": "Website Speed Optimization & Basic Website Edits",

@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-11",
-  "totalScanned": 42,
-  "matchedFilters": 12,
+  "totalScanned": 43,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -76,6 +76,13 @@
       "score": 98,
       "url": "https://www.upwork.com/jobs/~022120708113754700706",
       "addedAt": "2026-11-12T02:41:16.674Z"
+    },
+    {
+      "title": "Mobile-Friendly Website Optimization",
+      "budget": "Fixed-price",
+      "score": 91,
+      "url": "https://www.upwork.com/jobs/~022120904211683383451",
+      "addedAt": "2026-11-12T15:43:18.543Z"
     },
     {
       "title": "Custom WordPress Website Redesign | Secure Referrals, Online Applications & Recruiting Integration",
