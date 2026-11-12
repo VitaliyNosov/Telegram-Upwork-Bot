@@ -1,10 +1,10 @@
 {
   "date": "2026-11-12",
   "lastDigestSentDate": "2026-11-12",
-  "totalScanned": 65,
-  "matchedFilters": 17,
+  "totalScanned": 66,
+  "matchedFilters": 18,
   "byKeyword": {
-    "wordpress developer": 16,
+    "wordpress developer": 17,
     "woocommerce": 1
   },
   "topJobs": [
@@ -63,6 +63,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022120906036346000890",
       "addedAt": "2026-11-12T15:49:19.868Z"
+    },
+    {
+      "title": "Senior WordPress Designer & Developer for Oral Surgery Website Migration Squarespace to Kinsta/Wor",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022120995796461708400",
+      "addedAt": "2026-11-12T21:47:16.832Z"
     },
     {
       "title": "Shopify to WooCommerce Migration Expert – Full eCommerce Migration, SEO & Ads Integration",
