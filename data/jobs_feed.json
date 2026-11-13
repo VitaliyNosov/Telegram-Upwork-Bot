@@ -1,5 +1,33 @@
 [
   {
+    "id": "2121083485360962466",
+    "ciphertext": "~022121083485360962466",
+    "title": "Recreate a Landing Page from an image Mockup using WordPress & Elementor",
+    "description": "Hi, I need an experienced WordPress/Elementor builder to recreate the attached landing page mockup (A best layout.png) as a fast, clean, accurate page on my existing WordPress site, that i use for the current LP..\n\nWhat is already set up:\n\n    WordPress + Elementor is already installed on my Hostinger hosting.\n    We already have Contact Form 7 set up on the site—you can duplicate our existing quote form so all email notifications and tracking stay intact, and just style it to match the mockup.\n    I will provide a WordPress Admin login so you can build directly on the site.\n\n    I will supply my logo file, and images,  most uploaded already and used on current site, ill find a better top image similar to the mockup-\n    current LP is at: https://livingstonoutdoorblinds.com.au/outdoor-blinds-melbourne/\n\nKey Requirements:\n\n    Clean Container Structure: Must be built using modern Elementor Flexbox Containers (no bloated legacy sections/columns or heavy extra addons).\n\n    Mobile-First Responsive: Most of my traffic is mobile. The layout, hero form, before/after comparison, and buttons must stack cleanly and look sharp on mobile phones without horizontal scrolling.\n\n    PageSpeed & Load Time Requirements (Mobile-First):\n\n        Load Speed: Largest Contentful Paint (LCP) under 2.5 seconds (total page load under 3 seconds) on Google PageSpeed Insights for mobile, current site is fast.\n\n        Scores: Minimum 90+ Mobile Performance score and 95+ Desktop score on PageSpeed Insights.\n\n        Zero Layout Shift (CLS = 0.0): Set explicit container heights/dimensions for the hero section and images so the page doesn't jump around while loading on mobile phones.\n\n        Clean Build: Compress all images to WebP format, keep the Elementor DOM lightweight, and do not install heavy third-party Elementor widget packs or animation scripts that slow down mobile loading.\n\n    \nPlease confirm:\n\n    That you build using clean Elementor Flexbox Containers without adding extra third-party Elementor widget packs.\n\n    Your fixed price and turnaround time to deliver the completed desktop + mobile page.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "landing-pages",
+      "wordpress",
+      "elementor"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Yes, I build exclusively using clean Elementor Flexbox Containers without relying on heavy third-party widget packs. \n\nI can recreate your landing page from the mockup directly on your Hostinger/WordPress setup, duplicating and styling your existing Contact Form 7 to keep your tracking and notifications intact. Coming from a strong background in WordPress performance optimization and Core Web Vitals, I will ensure your mobile performance hits 90+, LCP stays under 2.5s, and CLS is at 0.0 with WebP optimization and lightweight DOM structuring. You can view an example of my clean WordPress development work here: https://www.cchpca.org/\n\nMy fixed price for this build is $[Insert Price] and I can complete it within [Insert Number] days. \n\nAre you ready to share the mockup and admin details so we can get started?",
+    "publishedDateTime": "2026-11-13T03:32:13+0000",
+    "addedAt": "2026-11-13T03:35:05.733Z",
+    "url": "https://www.upwork.com/jobs/~022121083485360962466",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121083485360962466/apply/"
+  },
+  {
     "id": "2121055823739411395",
     "ciphertext": "~022121055823739411395",
     "title": "WordPress Website Designer for Nonprofit",

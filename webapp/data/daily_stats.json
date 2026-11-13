@@ -1,12 +1,19 @@
 {
   "date": "2026-11-13",
   "lastDigestSentDate": "2026-11-12",
-  "totalScanned": 15,
-  "matchedFilters": 2,
+  "totalScanned": 16,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "Recreate a Landing Page from an image Mockup using WordPress & Elementor",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022121083485360962466",
+      "addedAt": "2026-11-13T03:35:04.489Z"
+    },
     {
       "title": "WordPress Website Designer for Nonprofit",
       "budget": "Fixed-price",
