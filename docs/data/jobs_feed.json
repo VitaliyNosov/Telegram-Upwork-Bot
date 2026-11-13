@@ -1,5 +1,31 @@
 [
   {
+    "id": "2121348715766899384",
+    "ciphertext": "~022121348715766899384",
+    "title": "Wordpress developer fixes",
+    "description": "Have some urgent Wordpress site issues that need looking at now:\n\n- Fix 2 small styling issues on mobile\n- Elementor editor is not loading, diagnose issue\n- Two // slashes appear on page load for a split second on wp-admin as well as main website load and this wasn’t there before\n- Run scan of codebase in Claude Code for malicious scripts, SEO spam and other vulnerabilities\n- If there is time (not urgent) see how a smoothing effect can be applied to a section which utilises an animation on page scroll but it’s quite laggy, it jumps a bit",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$5 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 108,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! I can jump into your WordPress site right now and knock out these fixes quickly. \n\nI regularly troubleshoot the exact issues you're facing. I can easily clean up the mobile styling bugs, track down why the Elementor editor is getting stuck (often a memory limit or plugin conflict), and trace down that redirect or script causing the double slash flash. For the security audit, I can thoroughly review the codebase for any injected SEO spam or malicious payloads. I've also done a lot of performance tuning on scroll animations—like the laggy section you mentioned—using CSS will-change properties and hardware acceleration to make them silky smooth. \n\nYou can check out some of my recent WordPress work here: https://www.seeintl.org/\n\nSend over the temporary login details whenever you're ready, and I'll get started right away.",
+    "publishedDateTime": "2026-11-13T21:05:23+0000",
+    "addedAt": "2026-11-13T21:07:17.450Z",
+    "url": "https://www.upwork.com/jobs/~022121348715766899384",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121348715766899384/apply/"
+  },
+  {
     "id": "2121315327981258492",
     "ciphertext": "~022121315327981258492",
     "title": "Website Designer for Very Simple Wordpress Website",
