@@ -1,5 +1,33 @@
 [
   {
+    "id": "2121315327981258492",
+    "ciphertext": "~022121315327981258492",
+    "title": "Website Designer for Very Simple Wordpress Website",
+    "description": "I am looking for a very simple wordpress site that is just clean - it's going to be more like a squeeze page with a few pages on there.\n\nThe website is AffiliateCompound.com\n\nThe current site is just an AI mockup, we will not be using that.\n\nI want the color scheme to be green\\white and the following video will be featured on the homepage: https://www.youtube.com/watch?v=weiLHQRZLRw\n\nYou can use the logo I have already, but the colors need to be changed to the white\\green theme and it'll need to be resized.\n\nI am not looking for any type of custom theme which would require more work, just the use of a theme (like Astra or something like that) that is simple.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 49,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you build a clean, fast-loading, and responsive WordPress site for AffiliateCompound.com using a lightweight framework like Astra, exactly as you outlined. \n\nSince you need a straightforward setup rather than a heavy custom build, I'll quickly integrate your logo (resized and color-matched to your new green-and-white theme), embed your YouTube video prominently on the homepage, and structure your squeeze page and inner pages for maximum conversion. \n\nYou can check out my clean, responsive layout work on projects like https://www.thelifeyoucansave.org/ to see the level of quality I bring to simple, direct web builds. \n\nDo you already have the text content ready, or should we use placeholder copy to get the structure up first? Let's chat!",
+    "publishedDateTime": "2026-11-13T18:52:52+0000",
+    "addedAt": "2026-11-13T18:55:07.883Z",
+    "url": "https://www.upwork.com/jobs/~022121315327981258492",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121315327981258492/apply/"
+  },
+  {
     "id": "2121288841482385385",
     "ciphertext": "~022121288841482385385",
     "title": "On-call WordPress developer for a UK agency site - emergencies only, hourly",

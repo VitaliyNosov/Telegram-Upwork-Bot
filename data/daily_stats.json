@@ -1,10 +1,10 @@
 {
   "date": "2026-11-13",
   "lastDigestSentDate": "2026-11-12",
-  "totalScanned": 40,
-  "matchedFilters": 4,
+  "totalScanned": 41,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022121083485360962466",
       "addedAt": "2026-11-13T03:35:04.489Z"
+    },
+    {
+      "title": "Website Designer for Very Simple Wordpress Website",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022121315327981258492",
+      "addedAt": "2026-11-13T18:55:06.326Z"
     },
     {
       "title": "WordPress Website Designer for Nonprofit",
