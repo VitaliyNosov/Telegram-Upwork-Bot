@@ -1,53 +1,8 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "lastDigestSentDate": "2026-11-13",
-  "totalScanned": 45,
-  "matchedFilters": 6,
-  "byKeyword": {
-    "wordpress developer": 6
-  },
-  "topJobs": [
-    {
-      "title": "Wordpress developer fixes",
-      "budget": "$5-$30/hr",
-      "score": 3150,
-      "url": "https://www.upwork.com/jobs/~022121348715766899384",
-      "addedAt": "2026-11-13T21:07:16.384Z"
-    },
-    {
-      "title": "On-call WordPress developer for a UK agency site - emergencies only, hourly",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022121288841482385385",
-      "addedAt": "2026-11-13T17:15:06.052Z"
-    },
-    {
-      "title": "Recreate a Landing Page from an image Mockup using WordPress & Elementor",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022121083485360962466",
-      "addedAt": "2026-11-13T03:35:04.489Z"
-    },
-    {
-      "title": "Website Designer for Very Simple Wordpress Website",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022121315327981258492",
-      "addedAt": "2026-11-13T18:55:06.326Z"
-    },
-    {
-      "title": "WordPress Website Designer for Nonprofit",
-      "budget": "Fixed-price",
-      "score": 93,
-      "url": "https://www.upwork.com/jobs/~022121055823739411395",
-      "addedAt": "2026-11-13T01:45:17.288Z"
-    },
-    {
-      "title": "WordPress & Divi 4 Designer for Podcast Page Updates",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022121003605321505731",
-      "addedAt": "2026-11-12T22:19:16.581Z"
-    }
-  ]
+  "totalScanned": 1,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
