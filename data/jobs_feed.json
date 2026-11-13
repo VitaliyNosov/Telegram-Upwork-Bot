@@ -1,5 +1,32 @@
 [
   {
+    "id": "2121380361303585375",
+    "ciphertext": "~022121380361303585375",
+    "title": "URGENT: WordPress Site Down, Stuck Elementor Updater Maxing Out VPS CPU (Fix Within 1 Hour)",
+    "description": "My news site is down for uncached visitors. Pages time out with 408 errors because the VPS CPU is maxed out.\n\nI've already found the cause. Cloudflare logs show my own server (Hostinger VPS,) looping about 45 POST requests a minute to /wp-admin/admin-ajax.php?action=elementor_1_elementor_updater and elementor_1_elementor_pro_updater. Elementor's background database update is stuck. Rebooting the VPS didn't help, because the loop restarts as soon as WordPress loads.\n\nWhat I need:\n\nStop the loop.  and vps max out issue.\n\nRequirements: proven Elementor and WP-CLI troubleshooting experience, and you must be available to start right now. I'll give you access once you're hired.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.84,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 89,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cloudflare",
+      "elementor"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I am available to start right now and can kill that stuck Elementor updater loop immediately using WP-CLI. \n\nI've dealt with this exact admin-ajax updater loop issue on high-traffic sites before. Since a reboot isn't clearing it because the transient/cron job auto-restarts on load, we need to manually flush the stuck background queue via WP-CLI and kill the lingering database transactions taxing your Hostinger VPS CPU. \n\nSend over the access and I'll get your news site back online within the hour. Ready when you are!",
+    "publishedDateTime": "2026-11-13T23:11:59+0000",
+    "addedAt": "2026-11-13T23:15:08.611Z",
+    "url": "https://www.upwork.com/jobs/~022121380361303585375",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121380361303585375/apply/"
+  },
+  {
     "id": "2121379858194560280",
     "ciphertext": "~022121379858194560280",
     "title": "WordPress Website Developer Required — New Website, Fixed-Price Project",
