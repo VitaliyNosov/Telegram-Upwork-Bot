@@ -1,5 +1,34 @@
 [
   {
+    "id": "2121376250479732465",
+    "ciphertext": "~022121376250479732465",
+    "title": "WordPress LMS Developer",
+    "description": "We are seeking a freelance WordPress developer to support the development, maintenance, and quality of our WordPress-based learning management system (LMS). Responsibilities include editing and preparing online courses for publication, reviewing content for accuracy and quality, testing the LMS for bugs and learner experience issues, and troubleshooting assigned problems. The ideal candidate has hands-on experience with WordPress, LearnDash, Tin Canny, Elementor, and Articulate Storyline 360, with additional value in Automator, GamiPress, Uncanny Owl Toolkit, and the Astra theme. This role requires strong troubleshooting, attention to detail, clear communication, and the ability to work independently to deliver polished learning experiences. Anticipated hours are 10–15 per week.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "css"
+    ],
+    "score": 2950,
+    "coverLetter": "Hi! \n\nI’d love to help support, maintain, and polish your WordPress LMS platform. With strong expertise in WordPress, PHP, and custom site troubleshooting—alongside deep familiarity with page builders like Elementor and theme optimization like Astra—I can ensure your online courses run seamlessly for every learner. \n\nBeyond core WordPress development, I specialize in rigorous bug testing, fixing functional conflicts, and resolving user-experience issues. Whether you need help streamlining course publication, tackling LMS technical glitches, or ensuring smooth navigation, I bring the attention to detail required to deliver a polished learning environment. You can see examples of my recent clean builds and site maintenance work here: https://www.cchpca.org/\n\nI am readily available for 10–15 hours per week and can start immediately. \n\nWhat is the most pressing LMS or course publication issue you need resolved first?\n\nBest regards,\nWordPress Developer & CMS Expert",
+    "publishedDateTime": "2026-11-13T22:55:39+0000",
+    "addedAt": "2026-11-13T22:57:08.003Z",
+    "url": "https://www.upwork.com/jobs/~022121376250479732465",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121376250479732465/apply/"
+  },
+  {
     "id": "2121348715766899384",
     "ciphertext": "~022121348715766899384",
     "title": "Wordpress developer fixes",
