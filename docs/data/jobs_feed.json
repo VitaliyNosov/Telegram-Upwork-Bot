@@ -1,5 +1,34 @@
 [
   {
+    "id": "2121055823739411395",
+    "ciphertext": "~022121055823739411395",
+    "title": "WordPress Website Designer for Nonprofit",
+    "description": "We need a marketing and brand-savvy designer to refresh our mission-driven nonprofit’s WordPress website with new photos and visuals. The goal is to improve the site experience and support a 30% increase in traffic and conversion, including product sign-ups or donations. You should be comfortable using Claude to help with the work and have experience reviewing performance through Google Analytics. Please share relevant examples of nonprofit or mission-focused website updates you’ve completed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.66,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 23,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 93,
+    "coverLetter": "Hi! I have extensive experience working with mission-driven organizations, having built and optimized sites like https://www.thelifeyoucansave.org/ and https://www.daysforgirls.org/. \n\nI’d love to help you refresh your nonprofit’s WordPress website to drive that 30% increase in traffic and conversions. While my core expertise is in clean WordPress development, custom theme work, and speed/performance optimization, I am completely comfortable using AI tools like Claude to streamline content and design updates. I also regularly review Google Analytics data to ensure our visual and structural changes directly improve user engagement, product sign-ups, and donation flows. \n\nWhen is a good time for a quick chat about your current analytics and visual goals?",
+    "publishedDateTime": "2026-11-13T01:41:39+0000",
+    "addedAt": "2026-11-13T01:45:18.562Z",
+    "url": "https://www.upwork.com/jobs/~022121055823739411395",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121055823739411395/apply/"
+  },
+  {
     "id": "2121003605321505731",
     "ciphertext": "~022121003605321505731",
     "title": "WordPress & Divi 4 Designer for Podcast Page Updates",

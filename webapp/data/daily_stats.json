@@ -1,12 +1,19 @@
 {
   "date": "2026-11-13",
   "lastDigestSentDate": "2026-11-12",
-  "totalScanned": 11,
-  "matchedFilters": 1,
+  "totalScanned": 13,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress Website Designer for Nonprofit",
+      "budget": "Fixed-price",
+      "score": 93,
+      "url": "https://www.upwork.com/jobs/~022121055823739411395",
+      "addedAt": "2026-11-13T01:45:17.288Z"
+    },
     {
       "title": "WordPress & Divi 4 Designer for Podcast Page Updates",
       "budget": "Fixed-price",
