@@ -1,5 +1,34 @@
 [
   {
+    "id": "2121288841482385385",
+    "ciphertext": "~022121288841482385385",
+    "title": "On-call WordPress developer for a UK agency site - emergencies only, hourly",
+    "description": "We're a UK digital marketing agency. Our in-house team handles day-to-day website work: pages, content, plugin and PHP updates, speed fixes. We need an experienced WordPress developer we can call on when the site is down or a fix needs server-level access.\n\nWhat we'd call you for:\n- The site is down or showing a white screen, and we can't get into wp-admin\n- Work inside the hosting account: server files (SFTP), the database, cache and DNS\n- Restoring a backup, or cleaning up after a hack or malware\n- Being accountable and reachable when something breaks\n\nOur setup: WordPress on managed hosting, Gutenberg with Spectra, WP Rocket, Gravity Forms linked to Zapier, Yoast, PHP 8.4.\n\nWhat we need from you:\n- 5+ years of hands-on WordPress, including hosting and server-side fixes\n- Your response times for (1) site down and (2) non-urgent fixes. We're after about 2 hours for site-down issues in UK working hours, and 1-2 working days for the rest\n- Your hourly rate\n- Availability in UK hours\n\nHow it works: hourly and as needed. We'll start with a small paid test job, and we're building a shortlist of two developers.\n\nTo apply: tell us about a time you brought a WordPress site back from being down, and include your response times and rate.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 32,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "mysql",
+      "wordpress",
+      "php",
+      "wordpress-malware-removal"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! To answer your request: I once restored a mission-critical site that was hit by a malicious script injection, which had triggered a total white screen and database corruption. I performed a full server-level cleanup, patched the vulnerability, and restored the database from a clean backup, bringing the site back online within 90 minutes.\n\nI have over 5 years of experience with server-side WordPress troubleshooting, specifically handling MySQL database repair, SFTP file management, and malware removal. My response time for \"site down\" emergencies is within 2 hours during UK business hours, and 24 hours for non-urgent tasks. My rate is [Insert Rate]/hr.\n\nI’m comfortable working with your tech stack, including WP Rocket and Gravity Forms. You can see an example of my work on high-traffic sites at https://www.thelifeyoucansave.org/. \n\nAre you available for a brief chat to discuss how we can get started with a test task?",
+    "publishedDateTime": "2026-11-13T17:12:29+0000",
+    "addedAt": "2026-11-13T17:15:11.814Z",
+    "url": "https://www.upwork.com/jobs/~022121288841482385385",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121288841482385385/apply/"
+  },
+  {
     "id": "2121083485360962466",
     "ciphertext": "~022121083485360962466",
     "title": "Recreate a Landing Page from an image Mockup using WordPress & Elementor",
