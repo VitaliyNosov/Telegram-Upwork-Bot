@@ -1,10 +1,10 @@
 {
   "date": "2026-11-14",
   "lastDigestSentDate": "2026-11-13",
-  "totalScanned": 5,
-  "matchedFilters": 2,
+  "totalScanned": 6,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 2950,
       "url": "https://www.upwork.com/jobs/~022121376250479732465",
       "addedAt": "2026-11-13T22:57:06.719Z"
+    },
+    {
+      "title": "WordPress Website Developer Required — New Website, Fixed-Price Project",
+      "budget": "Fixed-price",
+      "score": 97,
+      "url": "https://www.upwork.com/jobs/~022121379858194560280",
+      "addedAt": "2026-11-13T23:13:04.800Z"
     },
     {
       "title": "WordPress Website Redesign – Premium Custom Computer & Workstation Supplier",

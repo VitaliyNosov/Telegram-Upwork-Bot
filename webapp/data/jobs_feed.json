@@ -1,5 +1,37 @@
 [
   {
+    "id": "2121379858194560280",
+    "ciphertext": "~022121379858194560280",
+    "title": "WordPress Website Developer Required — New Website, Fixed-Price Project",
+    "description": "**Budget: $400 fixed price**  \n**Location: Remote**  \n**Platform: WordPress**\n\nLooking for an experienced WordPress designer/developer to build a new, modern, content-rich website from scratch.\n\nAlready developed the website's visual concepts, page layouts, navigation, branding direction and draft copy. These will be supplied.\n\nNeed someone who can accurately implement our designs and deliver a professional, responsive website with an **easy-to-manage content management system (CMS)**.\n\n### 1. Website design and development\n\n- Approximately 9 core pages, plus reusable content templates.\n- Bold editorial design using white, orange, grey and charcoal.\n- Fully responsive desktop, tablet and mobile layouts.\n- Professional typography, photography and video presentation.\n- Fast loading, clear navigation and basic SEO.\n\n### 2. Video library — self-managed\n\nWe must be able to independently:\n\n- Add new YouTube videos by pasting a video URL.\n- Upload or select a video thumbnail.\n- Add and edit video titles, guest names and descriptions.\n- Add video chapters/timestamps and categories.\n- Publish individual video pages automatically using a pre-designed template.\n- Feature selected videos on the homepage.\n- Edit, remove or reorder videos at any time.\n\nThe video library should support search, filtering and related videos.\n\n### 3. Articles, newsletters and white papers — self-managed\n\nWe must be able to independently:\n\n- Create and publish new articles.\n- Add and edit headings, text, images and links.\n- Upload new white papers and PDF documents.\n- Add titles, summaries, categories and featured images.\n- Publish resources using reusable templates.\n- Feature selected content on the homepage.\n- Edit, replace, archive or remove existing content.\n\nThe website should include a searchable, categorised Insights & Resources library.\n\n### 4. Forms and other functionality\n\n- Contact and expression-of-interest forms.\n- Enquiry notifications sent to our email.\n- YouTube and LinkedIn integration.\n- Basic on-page SEO and analytics integration.\n- Security, backups and spam protection.\n- Mobile and cross-browser testing.\n\n### 5. Handover requirements — mandatory\n\nThe completed website must include:\n\n- Full WordPress administrator access.\n- All website design and development files.\n- Ownership of the website and content.\n- No dependency on the developer for routine updates.\n- A simple written guide or screen-recorded tutorial explaining how to upload videos, articles and white papers.\n- Demonstration of the CMS before final payment.\n- 30 days of support after launch for fixing errors or defects AND two rounds of design revisions\n\n**We must be able to manage and update the website ourselves without coding or technical knowledge.**\n\n### 6. Fixed-price quotation\nRequire **one agreed fixed price covering the full scope**, including design implementation, development, CMS functionality, initial content setup, testing, deployment and handover.\n\nnot interested in hourly billing, unexpected additional charges or ongoing developer fees for routine content updates.\n\n### To apply\n\nPlease send:\n\n1. Three examples of websites you have personally built.\n2. An example of a WordPress website with a self-managed video or article library.\n3. Your **total fixed price** for the complete project.\n4. Your estimated delivery schedule.\n5. Confirmation that all the CMS and handover requirements above are included.\n\nWill shortlist freelancers based on technical capability, design quality and value.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.84,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 115,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "editorial-design",
+      "responsive-design",
+      "php"
+    ],
+    "score": 97,
+    "coverLetter": "Hi! I can build your complete 9-page, content-rich WordPress website within your $400 fixed-price budget and deliver it in 2 weeks, fully inclusive of all CMS and handover requirements.\n\nUsing custom post types, Advanced Custom Fields (ACF), and tailored Gutenberg blocks, I will set up an intuitive, self-managed backend so your team can easily publish YouTube videos via URL, manage white papers, and update articles without touching code. The site will feature your bold editorial color palette, full responsiveness, and fast loading performance.\n\nHere are three examples of websites I’ve personally built:\n- https://www.thelifeyoucansave.org/\n- https://www.cchpca.org/\n- https://www.snopud.com/\n\nFor a custom WordPress site featuring a searchable resource library, you can review https://www.daysforgirls.org/. \n\nMy fixed price for the complete scope is $400, which includes the video/article libraries, forms, SEO, 30 days of post-launch support, and a recorded Loom tutorial for your team handover. \n\nLet’s chat about your branding and get started!",
+    "publishedDateTime": "2026-11-13T23:09:08+0000",
+    "addedAt": "2026-11-13T23:13:06.220Z",
+    "url": "https://www.upwork.com/jobs/~022121379858194560280",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121379858194560280/apply/"
+  },
+  {
     "id": "2121377559192580000",
     "ciphertext": "~022121377559192580000",
     "title": "WordPress Website Redesign – Premium Custom Computer & Workstation Supplier",
