@@ -1,10 +1,10 @@
 {
   "date": "2026-11-14",
   "lastDigestSentDate": "2026-11-13",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 2950,
       "url": "https://www.upwork.com/jobs/~022121376250479732465",
       "addedAt": "2026-11-13T22:57:06.719Z"
+    },
+    {
+      "title": "WordPress Website Redesign – Premium Custom Computer & Workstation Supplier",
+      "budget": "Fixed-price",
+      "score": 96,
+      "url": "https://www.upwork.com/jobs/~022121377559192580000",
+      "addedAt": "2026-11-13T23:03:04.817Z"
     }
   ]
 }
