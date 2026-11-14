@@ -1,8 +1,18 @@
 {
   "date": "2026-11-15",
   "lastDigestSentDate": "2026-11-14",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress developer & designer wanted to optimise WordPress website",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022121745826579582001",
+      "addedAt": "2026-11-14T23:26:37.267Z"
+    }
+  ]
 }
