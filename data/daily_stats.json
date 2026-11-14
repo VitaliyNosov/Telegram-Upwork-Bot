@@ -1,10 +1,10 @@
 {
   "date": "2026-11-14",
   "lastDigestSentDate": "2026-11-13",
-  "totalScanned": 19,
-  "matchedFilters": 7,
+  "totalScanned": 20,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022121429716532131096",
       "addedAt": "2026-11-14T02:29:06.369Z"
+    },
+    {
+      "title": "Modern B2B Website Revamp on WordPress (Copy & Wireframe Provided)",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022121648854507677425",
+      "addedAt": "2026-11-14T17:00:38.571Z"
     },
     {
       "title": "WordPress Website Developer Required — New Website, Fixed-Price Project",
