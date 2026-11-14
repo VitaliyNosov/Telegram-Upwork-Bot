@@ -1,10 +1,10 @@
 {
   "date": "2026-11-14",
   "lastDigestSentDate": "2026-11-13",
-  "totalScanned": 18,
-  "matchedFilters": 6,
+  "totalScanned": 19,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022121401156529514225",
       "addedAt": "2026-11-14T00:37:03.757Z"
+    },
+    {
+      "title": "Website WordPress Development & Configuration",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022121633657078778929",
+      "addedAt": "2026-11-14T16:00:41.597Z"
     },
     {
       "title": "Website Caretaker plus SEO Monitor",

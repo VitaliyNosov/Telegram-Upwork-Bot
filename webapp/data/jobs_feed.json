@@ -1,5 +1,37 @@
 [
   {
+    "id": "2121633657078778929",
+    "ciphertext": "~022121633657078778929",
+    "title": "Website WordPress Development & Configuration",
+    "description": "WordPress Development.  Construct 3 WordPress sites with a shared WooCommerce cart.  Integreate Stripe and other products. \n\nThe scope excludes the Filfullment API configuration.  It will be configured by vendor.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "amazon-web-services",
+      "cloudflare",
+      "web-programming",
+      "web-design",
+      "woocommerce",
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nBuilding three interconnected WordPress sites with a shared WooCommerce cart and Stripe integration is a great architecture project. I specialize in complex WooCommerce setups, custom multi-site configurations, and seamless payment gateway integrations. \n\nWith deep experience in PHP, MySQL, and advanced WooCommerce customization, I can cleanly configure the shared cart functionality across your three properties while keeping the infrastructure optimized and secure (including any necessary AWS or Cloudflare setups). You can see examples of my recent production WordPress and WooCommerce builds here: https://www.thelifeyoucansave.org/\n\nSince the fulfillment API is being handled by another vendor, we can focus entirely on getting the multi-site store architecture and checkout flow running smoothly. \n\nWhen are you looking to kick this off, and do you already have the domain structures and hosting environments mapped out? \n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-11-14T15:58:02+0000",
+    "addedAt": "2026-11-14T16:00:42.847Z",
+    "url": "https://www.upwork.com/jobs/~022121633657078778929",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121633657078778929/apply/"
+  },
+  {
     "id": "2121429716532131096",
     "ciphertext": "~022121429716532131096",
     "title": "Website Caretaker plus SEO Monitor",
