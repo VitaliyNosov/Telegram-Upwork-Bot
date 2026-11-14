@@ -1,5 +1,35 @@
 [
   {
+    "id": "2121401156529514225",
+    "ciphertext": "~022121401156529514225",
+    "title": "WordPress Developer | Custom Theme, Gutenberg & Integrations",
+    "description": "We’re looking for an experienced WordPress developer for ongoing, as-needed technical work. Our website uses Gutenberg and a custom theme with substantial custom code.\n\nPossible responsibilities:\n\n* Connect website forms to our internal CRM, including field mapping, validation and error handling.\n* Capture and pass GCLID and other click IDs, along with UTM parameters, to track lead sources and conversions.\n* Build custom templates for new page types.\n* Create and maintain reusable Gutenberg blocks and components.\n* Set up custom and global fields—for example, managing prices in one place and displaying them dynamically throughout the site.\n* Develop and troubleshoot API and webhook integrations.\n* Work with PHP, JavaScript and existing theme code to add functionality and resolve technical issues.\n* Investigate bugs, identify root causes and implement reliable fixes.\n\nYou should have strong experience with custom WordPress development, Gutenberg, PHP and JavaScript, and be comfortable working with an existing codebase.\n\nWe value someone who can understand a business need, identify missing details and recommend a practical solution without needing every implementation step spelled out.\n\nPlease include one or two relevant examples of your work, your hourly rate and your availability.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 38,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "css",
+      "php",
+      "javascript"
+    ],
+    "score": 150,
+    "coverLetter": "Hi!\n\nYour project caught my attention because it focuses on custom Gutenberg development, PHP, and advanced tracking integrations—which are core to my daily workflow. \n\nI regularly build and maintain custom Gutenberg blocks, handle complex field architectures (using ACF and native blocks for dynamic data binding), and connect WordPress forms to various CRMs while ensuring UTMs, GCLIDs, and webhooks pass reliably. I’m completely comfortable diving into existing codebases, debugging backend logic, and proactively recommending practical solutions.\n\nFor a recent example of my custom development work, you can take a look at https://www.snopud.com/. \n\nMy hourly rate is [Insert Rate], and I have immediate availability for ongoing support. \n\nWhat is your preferred timeline for getting the CRM and tracking integrations set up?",
+    "publishedDateTime": "2026-11-14T00:33:51+0000",
+    "addedAt": "2026-11-14T00:37:04.865Z",
+    "url": "https://www.upwork.com/jobs/~022121401156529514225",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121401156529514225/apply/"
+  },
+  {
     "id": "2121380361303585375",
     "ciphertext": "~022121380361303585375",
     "title": "URGENT: WordPress Site Down, Stuck Elementor Updater Maxing Out VPS CPU (Fix Within 1 Hour)",

@@ -1,10 +1,10 @@
 {
   "date": "2026-11-14",
   "lastDigestSentDate": "2026-11-13",
-  "totalScanned": 7,
-  "matchedFilters": 4,
+  "totalScanned": 8,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 2950,
       "url": "https://www.upwork.com/jobs/~022121376250479732465",
       "addedAt": "2026-11-13T22:57:06.719Z"
+    },
+    {
+      "title": "WordPress Developer | Custom Theme, Gutenberg & Integrations",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022121401156529514225",
+      "addedAt": "2026-11-14T00:37:03.757Z"
     },
     {
       "title": "WordPress Website Developer Required — New Website, Fixed-Price Project",
