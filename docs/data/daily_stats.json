@@ -1,81 +1,8 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "lastDigestSentDate": "2026-11-14",
-  "totalScanned": 26,
-  "matchedFilters": 10,
-  "byKeyword": {
-    "wordpress developer": 10
-  },
-  "topJobs": [
-    {
-      "title": "Senior WordPress/PHP Developer – Duplicate & Modify Existing Custom-Coded Website (No Page Builders)",
-      "budget": "$30-$60/hr",
-      "score": 6143,
-      "url": "https://www.upwork.com/jobs/~022121718349324398496",
-      "addedAt": "2026-11-14T21:36:39.337Z"
-    },
-    {
-      "title": "WordPress LMS Developer",
-      "budget": "$14-$28/hr",
-      "score": 2950,
-      "url": "https://www.upwork.com/jobs/~022121376250479732465",
-      "addedAt": "2026-11-13T22:57:06.719Z"
-    },
-    {
-      "title": "WordPress Developer | Custom Theme, Gutenberg & Integrations",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022121401156529514225",
-      "addedAt": "2026-11-14T00:37:03.757Z"
-    },
-    {
-      "title": "Website WordPress Development & Configuration",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022121633657078778929",
-      "addedAt": "2026-11-14T16:00:41.597Z"
-    },
-    {
-      "title": "WordPress Developer for Landing Page + Ongoing Short-Term Website Projects (Affordable Housing Tech)",
-      "budget": "Fixed-price",
-      "score": 145,
-      "url": "https://www.upwork.com/jobs/~022121682867791880888",
-      "addedAt": "2026-11-14T19:16:39.873Z"
-    },
-    {
-      "title": "Website Caretaker plus SEO Monitor",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022121429716532131096",
-      "addedAt": "2026-11-14T02:29:06.369Z"
-    },
-    {
-      "title": "Modern B2B Website Revamp on WordPress (Copy & Wireframe Provided)",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022121648854507677425",
-      "addedAt": "2026-11-14T17:00:38.571Z"
-    },
-    {
-      "title": "WordPress Website Developer Required — New Website, Fixed-Price Project",
-      "budget": "Fixed-price",
-      "score": 97,
-      "url": "https://www.upwork.com/jobs/~022121379858194560280",
-      "addedAt": "2026-11-13T23:13:04.800Z"
-    },
-    {
-      "title": "URGENT: WordPress Site Down, Stuck Elementor Updater Maxing Out VPS CPU (Fix Within 1 Hour)",
-      "budget": "Fixed-price",
-      "score": 97,
-      "url": "https://www.upwork.com/jobs/~022121380361303585375",
-      "addedAt": "2026-11-13T23:15:07.632Z"
-    },
-    {
-      "title": "WordPress Website Redesign – Premium Custom Computer & Workstation Supplier",
-      "budget": "Fixed-price",
-      "score": 96,
-      "url": "https://www.upwork.com/jobs/~022121377559192580000",
-      "addedAt": "2026-11-13T23:03:04.817Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
