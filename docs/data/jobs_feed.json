@@ -1,5 +1,35 @@
 [
   {
+    "id": "2121682867791880888",
+    "ciphertext": "~022121682867791880888",
+    "title": "WordPress Developer for Landing Page + Ongoing Short-Term Website Projects (Affordable Housing Tech)",
+    "description": "(No Agencies; Freelance Only)\n\nGilson Housing Partners (GHP) is a Fort Lauderdale-based proptech company serving public housing authorities and their residents through our ResidentConcierge platform. We manage several client and company websites and need a reliable developer for short-term projects, starting immediately\n\nFirst project (fixed price, urgent): Build a bilingual (English/Spanish) landing page on a housing authority’s existing WordPress site announcing the opening of their Public Housing waiting list. The approved design and all content are ready. The page must be live and approved by Wednesday, November 25, 2026, ahead of a December 8 application opening.\n\nThe page includes:\n\nA hero section with the opening and closing dates and a four-day calendar card\nAn “Apply online” button that links to our ResidentConcierge application (and is disabled or shows “opens December 8” until the list opens)\nHow-to-apply steps, an in-person help location with a directions link, and selection/lottery information\nA preference points table\nAccessibility/ADA and contact information\nA Spanish version of the page with a language toggle\n\nImportant: The site runs an outdated theme. The page may need to be built as a custom template or directly on the server rather than through the existing theme/page builder. We need someone comfortable making that call and doing it safely, without breaking the rest of the site.\n\nRequirements:\n\nStrong WordPress experience, including custom page templates, legacy themes, PHP/HTML/CSS, and hosting/cPanel or SFTP access\nMobile-first, accessible builds (WCAG basics: contrast, headings, alt text, keyboard navigation). Many users will apply from a phone.\nAvailable to start this week, with overlap with US Eastern business hours\nClear communication and the ability to work from a provided design without hand-holding\n\nOngoing work: If the first project goes well, we have recurring short-term website tasks across our company and client sites (landing pages, updates, maintenance).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 88,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website",
+      "wordpress",
+      "javascript",
+      "landing-pages",
+      "php"
+    ],
+    "score": 145,
+    "coverLetter": "Hi! As an independent freelancer (no agency), I can start immediately and have your bilingual waiting list landing page live and fully approved well ahead of your Wednesday deadline.\n\nI frequently work with legacy WordPress sites where outdated themes require building custom page templates via PHP/HTML/CSS and SFTP rather than relying on broken page builders. I also ensure strict mobile-first design, WCAG accessibility basics (crucial for public housing applicants on phones), and seamless language toggling. For an example of my clean, accessible WordPress development work, you can check https://www.waapple.org/.\n\nBeyond this urgent landing page, I’d love to support Gilson Housing Partners with your ongoing short-term website tasks for ResidentConcierge. \n\nCan you share the design files and server access so I can review the setup today?",
+    "publishedDateTime": "2026-11-14T19:13:17+0000",
+    "addedAt": "2026-11-14T19:16:41.315Z",
+    "url": "https://www.upwork.com/jobs/~022121682867791880888",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121682867791880888/apply/"
+  },
+  {
     "id": "2121648854507677425",
     "ciphertext": "~022121648854507677425",
     "title": "Modern B2B Website Revamp on WordPress (Copy & Wireframe Provided)",
