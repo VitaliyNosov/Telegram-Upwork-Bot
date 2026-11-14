@@ -1,12 +1,19 @@
 {
   "date": "2026-11-14",
   "lastDigestSentDate": "2026-11-14",
-  "totalScanned": 24,
-  "matchedFilters": 9,
+  "totalScanned": 25,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 9
+    "wordpress developer": 10
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress/PHP Developer – Duplicate & Modify Existing Custom-Coded Website (No Page Builders)",
+      "budget": "$30-$60/hr",
+      "score": 6143,
+      "url": "https://www.upwork.com/jobs/~022121718349324398496",
+      "addedAt": "2026-11-14T21:36:39.337Z"
+    },
     {
       "title": "WordPress LMS Developer",
       "budget": "$14-$28/hr",

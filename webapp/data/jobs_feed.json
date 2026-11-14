@@ -1,5 +1,35 @@
 [
   {
+    "id": "2121718349324398496",
+    "ciphertext": "~022121718349324398496",
+    "title": "Senior WordPress/PHP Developer – Duplicate & Modify Existing Custom-Coded Website (No Page Builders)",
+    "description": "## Senior Full-Stack WordPress/PHP Developer – Custom Website Duplication & Modification\n\nWe are seeking an experienced full-stack WordPress developer to duplicate and modify an existing, fully functional, custom-coded WordPress website for a new business.\n\n**Existing website:** https://alcoholpermit.com/\n\nThe objective is to replicate the existing website's design, architecture, and functionality while adapting it for a different industry.\n\n**This is NOT a new website build.** We already have a professionally developed website with custom functionality. We want to reuse as much of the existing codebase as possible to minimize development time and unnecessary costs.\n\n### Important: No Page Builders\n\nOur existing WordPress website is custom-coded. It is NOT built using Elementor, WPBakery, Divi, or similar drag-and-drop page builders.\n\nWe need a genuine software developer who can work directly with PHP, JavaScript, CSS, MySQL, and custom WordPress architecture.\n\nIf your primary experience is installing themes, configuring plugins, or building websites with page builders, this project is not a good fit.\n\n### Scope of Work\n\n**1. Website Duplication**\n- Duplicate the existing WordPress website, including its custom theme, templates, and applicable functionality.\n- Create an independent WordPress installation and database.\n- Preserve the existing design, layout, navigation, and mobile responsiveness.\n- Ensure the original website remains completely unaffected.\n\n**2. Frontend Modifications**\n- Replace existing branding, colors, logos, imagery, and content.\n- Adapt the homepage and navigation for the new business.\n- Maintain the current website's overall design and user experience.\n- Make targeted modifications rather than rebuilding existing components.\n\n**3. Custom Search Functionality**\n- Modify the existing three-field search system to accommodate different product categories and specifications.\n- Implement dependent dropdown filters and dynamic search results.\n- Preserve the existing search interface and general functionality.\n\n**4. Listings & Backend**\n- Repurpose the existing listing system for a different product category.\n- Modify listing fields, specifications, pricing, and listing details.\n- Support both publicly displayed prices and private pricing inquiries.\n- Adapt listing detail pages and contact forms.\n- Maintain an efficient WordPress backend for managing listings.\n\n**5. Testing & Deployment**\n- Test all applicable functionality on desktop and mobile.\n- Resolve bugs and compatibility issues.\n- Ensure proper database separation, performance, and security.\n- Deploy the completed website to its own domain and hosting environment.\n\n### Required Experience\n\n- Advanced PHP and custom WordPress development\n- JavaScript, AJAX, HTML5, and CSS3\n- MySQL and database architecture\n- Custom WordPress themes, templates, and post types\n- Experience modifying existing custom-coded websites\n- Website migration, debugging, and optimization\n\n### Ideal Candidate\n\nWe prefer working directly with a **senior independent developer**, rather than an agency.\n\nYou should be comfortable examining an unfamiliar codebase, understanding its architecture, and making efficient modifications without unnecessarily rewriting existing functionality.\n\nStrong communication, attention to detail, and clean, maintainable code are important.\n\n### To Apply\n\nPlease answer the following:\n\n1. Have you personally developed custom WordPress themes and PHP functionality without page builders?\n2. Have you previously duplicated and modified an existing custom-coded WordPress website?\n3. Can you provide 2–3 examples of custom WordPress development projects?\n4. How would you approach duplicating the existing website while ensuring the original remains unaffected?\n5. What is your estimated development time and number of hours for a project of this nature?\n\n**Please review AlcoholPermit.com before applying.**\n\nWe are looking for someone who understands the difference between WordPress configuration and actual WordPress software development.\n\nOur priority is an experienced developer who can efficiently reuse the existing codebase and deliver a reliable, independently functioning website.",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$30 - $60/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.65,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 22,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "javascript",
+      "mysql",
+      "css"
+    ],
+    "score": 6143,
+    "coverLetter": "Hi! I have reviewed alcoholpermit.com and am ready to answer your questions directly:\n\n1. Yes, I specialize entirely in custom-coded WordPress themes, plugins, and PHP functionality without relying on page builders like Elementor or Divi.\n2. Yes, I have successfully duplicated and adapted existing custom WordPress codebases for new industries.\n3. You can review my custom development work here: https://www.snopud.com/, https://waapple.org/, and https://about.offerup.com/.\n4. To duplicate the site safely, I will clone the filesystem and database to a staging environment, clean out the branding/content, and establish a completely independent deployment pipeline so the original site remains untouched.\n5. A project of this scope typically takes around 30 to 40 hours, depending on the complexity of the custom search filters and listing taxonomy.\n\nAs a senior developer working directly with PHP, MySQL, JavaScript, and custom ACF/post types, I am comfortable diving straight into unfamiliar codebases to modify existing logic efficiently. \n\nLet's discuss your timeline and specific adaptation requirements in chat!",
+    "publishedDateTime": "2026-11-14T21:34:17+0000",
+    "addedAt": "2026-11-14T21:36:41.355Z",
+    "url": "https://www.upwork.com/jobs/~022121718349324398496",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121718349324398496/apply/"
+  },
+  {
     "id": "2121682867791880888",
     "ciphertext": "~022121682867791880888",
     "title": "WordPress Developer for Landing Page + Ongoing Short-Term Website Projects (Affordable Housing Tech)",
