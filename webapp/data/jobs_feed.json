@@ -1,5 +1,37 @@
 [
   {
+    "id": "2121847072237334432",
+    "ciphertext": "~022121847072237334432",
+    "title": "Web Developer: Build Custom Logic Engine, Calculator & Membership Site",
+    "description": "I am looking for an experienced Web Developer to build a custom, interactive web application based on a proprietary numerology/astrology timing system. You do not need to know astrology. You just need to be highly proficient at building custom logic engines, mapping formulas to database text blocks, and setting up Stripe subscriptions.\nThe site will require users to input their Date of Birth and Time of Birth. The system will calculate three specific \"planetary\" outputs based on my proprietary logic (detailed in the attached spec). It will then display pre-written reading blocks based on those outputs.\nThis is a custom logic and membership build. Estimated timeline is 3 to 5 weeks. Please include your estimated timeline in your proposal.\n\nKey Features Required:\nThe Calculator: A clean intake form (Date, Time, and an \"Unknown Time\" checkbox).\nThe Logic Engine: The system must calculate the Day Planet, Hour Planet, and Age Cycle (Macro/Micro) based on the exact mathematical rules in the attached spec.\nMembership & Subscriptions: Integration with Stripe.\nFree Tier: Partial results.\nOne-Time Purchase ($19): Full text + Audio MP3s + Macro/Micro breakdown.\nSubscription ($9/month): Unlocks a \"Live Dashboard\" (real-time planetary hours based on the user's local time) and a 12-month drip-feed of content.\nAudio Player: Native HTML5 audio players on the results pages, locked behind the paid tiers.\nEmail Automation: Automated emails triggered on the user's birthday to alert them their \"Micro Cycle\" has changed.\nPreferred Tech Stack: Open to your recommendation, but we are looking for a clean, fast build. WordPress with custom PHP/JS logic or a modern stack (Node/React) is fine. You must be able to build this without relying on bloated, generic astrology plugins.\nTo Apply: Please answer this question in your proposal: \"If a user enters a birth time of 10:03 PM, how would you approach coding a 7-slot lookup table to return a specific result?\" Please also provide a brief estimate of your timeline and cost. NDA required before I share the full content text library.\nPlease see the attached technical spec sheet for the exact math and logic requirements.",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 50,
+    "budgetDisplay": "$25 - $50/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website",
+      "interaction-design",
+      "journey-mapping",
+      "website-customization",
+      "web-programming",
+      "ui-design",
+      "responsive-design"
+    ],
+    "score": 5100,
+    "coverLetter": "Hi! To handle a 7-slot lookup table for a 10:03 PM (22:03) input, I would structure the logic in PHP or JS by converting the time into total minutes from midnight (or a standard timestamp format) and evaluating it against an array of numerical ranges, using a boundary check function to securely return the exact matching slot index without hardcoding rigid strings.\n\nAs a custom WordPress and PHP developer, I regularly build bespoke logic engines, advanced calculators, and tiered membership platforms integrated with Stripe—entirely from scratch, without relying on bloated plugins. \n\nMy estimated timeline for this build is 4 weeks. You can view my custom development work on complex builds like https://www.snopud.com/. \n\nAre you available this week to review the spec sheet and discuss the database architecture?",
+    "publishedDateTime": "2026-11-15T06:06:13+0000",
+    "addedAt": "2026-11-15T06:08:40.400Z",
+    "url": "https://www.upwork.com/jobs/~022121847072237334432",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121847072237334432/apply/"
+  },
+  {
     "id": "2121831441609949437",
     "ciphertext": "~022121831441609949437",
     "title": "Themeco Pro / Cornerstone + ACF Developer (Speed Optimization, Modern UI Polish & Dynamic Templates)",

@@ -1,12 +1,19 @@
 {
   "date": "2026-11-15",
   "lastDigestSentDate": "2026-11-14",
-  "totalScanned": 9,
-  "matchedFilters": 2,
+  "totalScanned": 10,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "Web Developer: Build Custom Logic Engine, Calculator & Membership Site",
+      "budget": "$25-$50/hr",
+      "score": 5100,
+      "url": "https://www.upwork.com/jobs/~022121847072237334432",
+      "addedAt": "2026-11-15T06:08:37.337Z"
+    },
     {
       "title": "WordPress developer & designer wanted to optimise WordPress website",
       "budget": "Fixed-price",
