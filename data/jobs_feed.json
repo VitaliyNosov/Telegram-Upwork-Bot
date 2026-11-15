@@ -1,5 +1,35 @@
 [
   {
+    "id": "2121904119887885592",
+    "ciphertext": "~022121904119887885592",
+    "title": "Rich Snippets on website",
+    "description": "Hi, we’re looking for a WordPress SEO specialist to help us investigate why our star ratings disappeared from Google search results after a recent website update, which focused mainly on our homepage. We updated the home page with new design and updated the content\n\nBefore the update, several of our pages displayed star ratings in Google search results, and we were generating leads and conversions through organic search. We’d like you to identify what changed, fix any issues within our control, and show us how you’ll verify the results.\n\nIf you’ve solved a similar issue, please share an example and explain what you can guarantee as part of the work. We’re open to a long-term engagement if it’s a good fit.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 32,
+    "budgetDisplay": "$14 - $32/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "seo",
+      "web-design",
+      "on-page-seo"
+    ],
+    "score": 3299,
+    "coverLetter": "Hi! \n\nLosing star ratings in Google search results right after a homepage redesign is a common issue, usually caused by broken schema markup (JSON-LD or microdata), a conflict introduced by new plugins/templates, or missing review data associated with the updated content. \n\nWith deep expertise in WordPress technical SEO, custom development, and post-update troubleshooting, I can quickly audit your schema, identify why Google stopped pulling your review snippets, and restore them properly. For example, on client projects like https://www.thelifeyoucansave.org/, I routinely diagnose and resolve complex front-end and structured data issues to protect organic search performance.\n\nTo verify the fix, I will validate your markup using Google’s Rich Results Test, monitor Search Console coverage reports, and track impression/CTR recovery. \n\nCould you share your website URL so I can take a quick initial look at your current schema markup?",
+    "publishedDateTime": "2026-11-15T09:52:22+0000",
+    "addedAt": "2026-11-15T09:56:40.071Z",
+    "url": "https://www.upwork.com/jobs/~022121904119887885592",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022121904119887885592/apply/"
+  },
+  {
     "id": "2121847072237334432",
     "ciphertext": "~022121847072237334432",
     "title": "Web Developer: Build Custom Logic Engine, Calculator & Membership Site",
