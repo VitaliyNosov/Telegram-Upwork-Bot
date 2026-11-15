@@ -1,10 +1,10 @@
 {
   "date": "2026-11-15",
   "lastDigestSentDate": "2026-11-14",
-  "totalScanned": 7,
-  "matchedFilters": 1,
+  "totalScanned": 8,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022121745826579582001",
       "addedAt": "2026-11-14T23:26:37.267Z"
+    },
+    {
+      "title": "Themeco Pro / Cornerstone + ACF Developer (Speed Optimization, Modern UI Polish & Dynamic Templates)",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022121831441609949437",
+      "addedAt": "2026-11-15T05:06:39.424Z"
     }
   ]
 }
