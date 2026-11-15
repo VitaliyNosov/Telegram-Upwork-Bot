@@ -1,46 +1,8 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "lastDigestSentDate": "2026-11-15",
-  "totalScanned": 25,
-  "matchedFilters": 5,
-  "byKeyword": {
-    "wordpress developer": 5
-  },
-  "topJobs": [
-    {
-      "title": "Web Developer: Build Custom Logic Engine, Calculator & Membership Site",
-      "budget": "$25-$50/hr",
-      "score": 5100,
-      "url": "https://www.upwork.com/jobs/~022121847072237334432",
-      "addedAt": "2026-11-15T06:08:37.337Z"
-    },
-    {
-      "title": "Senior WooCommerce / PHP Developer ( Freelancer Only) No Agency",
-      "budget": "$20-$40/hr",
-      "score": 4192,
-      "url": "https://www.upwork.com/jobs/~022122032633682693169",
-      "addedAt": "2026-11-15T18:26:54.748Z"
-    },
-    {
-      "title": "Rich Snippets on website",
-      "budget": "$14-$32/hr",
-      "score": 3299,
-      "url": "https://www.upwork.com/jobs/~022121904119887885592",
-      "addedAt": "2026-11-15T09:56:37.667Z"
-    },
-    {
-      "title": "WordPress developer & designer wanted to optimise WordPress website",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022121745826579582001",
-      "addedAt": "2026-11-14T23:26:37.267Z"
-    },
-    {
-      "title": "Themeco Pro / Cornerstone + ACF Developer (Speed Optimization, Modern UI Polish & Dynamic Templates)",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022121831441609949437",
-      "addedAt": "2026-11-15T05:06:39.424Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
