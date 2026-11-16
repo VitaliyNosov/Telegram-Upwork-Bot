@@ -1,5 +1,33 @@
 [
   {
+    "id": "2122405954145490574",
+    "ciphertext": "~022122405954145490574",
+    "title": "Update WordPress 5.8 site to latest recommended WordPress version",
+    "description": "my website www.stack52.com is on WordPress 5.8.\nIt's integrated with WooCommerce and built with Elementor.\nI need it upgraded to the latest, recommended WordPress version, and I need you to verify that everything works, and fix any issues.\n\nThis is a small, fast job, but I will leave 5 star feedback upon completion, and recommend you, so this job will help your Upwork profile.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 16,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "elementor",
+      "wordpress"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! \n\nUpgrading a WordPress 5.8 site running WooCommerce and Elementor to the latest version requires careful handling to prevent layout breaks, plugin conflicts, or checkout errors. \n\nWith extensive experience in WordPress updates, WooCommerce troubleshooting, and Elementor bug fixes, I can safely perform this migration for you. My standard process includes setting up a staging environment, running the core, theme, and plugin updates, and thoroughly testing all functionalities—especially the WooCommerce checkout—before pushing the changes live. You can see examples of my recent WordPress work here: https://www.seeintl.org/\n\nLet's get your site updated and secured. When would you like to get started?",
+    "publishedDateTime": "2026-11-16T19:09:16+0000",
+    "addedAt": "2026-11-16T19:10:57.363Z",
+    "url": "https://www.upwork.com/jobs/~022122405954145490574",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122405954145490574/apply/"
+  },
+  {
     "id": "2122353890504576049",
     "ciphertext": "~022122353890504576049",
     "title": "Website Speed and Image Optimization",

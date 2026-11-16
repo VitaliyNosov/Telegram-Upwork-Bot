@@ -1,10 +1,10 @@
 {
   "date": "2026-11-16",
   "lastDigestSentDate": "2026-11-15",
-  "totalScanned": 40,
-  "matchedFilters": 7,
+  "totalScanned": 42,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 3600,
       "url": "https://www.upwork.com/jobs/~022122353890504576049",
       "addedAt": "2026-11-16T15:42:57.537Z"
+    },
+    {
+      "title": "Update WordPress 5.8 site to latest recommended WordPress version",
+      "budget": "$10-$30/hr",
+      "score": 3150,
+      "url": "https://www.upwork.com/jobs/~022122405954145490574",
+      "addedAt": "2026-11-16T19:10:56.148Z"
     },
     {
       "title": "Convert Joomla Website to Static HTML",
