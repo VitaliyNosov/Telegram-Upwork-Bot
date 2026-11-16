@@ -1,5 +1,35 @@
 [
   {
+    "id": "2122340524179056837",
+    "ciphertext": "~022122340524179056837",
+    "title": "Full Stack WordPress Developer (Custom Coding)",
+    "description": "We are seeking a skilled WordPress developer to assist with both simple and custom coding tasks. The ideal candidate will have experience in developing and customizing WordPress themes and plugins, and be able to work on a part-time basis for ongoing projects.",
+    "isHourly": true,
+    "hourlyBudgetMin": 11,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$11 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "javascript",
+      "html5",
+      "wordpress",
+      "php",
+      "laravel-framework"
+    ],
+    "score": 2650,
+    "coverLetter": "Hi!\n\nI’d love to help you with your custom coding and WordPress development needs. With strong expertise in PHP, JavaScript, and custom theme and plugin development, I frequently handle everything from advanced backend logic to custom Gutenberg blocks and complex integrations. \n\nWhether you need ongoing support for routine updates or complex custom features built from scratch, I write clean, maintainable code to keep your sites running fast and reliably. For a quick look at my design and custom implementation work, you can check out https://www.thelifeyoucansave.org/.\n\nAre there any specific custom features or immediate coding tasks you'd like to tackle first? Let's connect and discuss how I can help.",
+    "publishedDateTime": "2026-11-16T14:46:29+0000",
+    "addedAt": "2026-11-16T14:49:00.213Z",
+    "url": "https://www.upwork.com/jobs/~022122340524179056837",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122340524179056837/apply/"
+  },
+  {
     "id": "2122334497190638873",
     "ciphertext": "~022122334497190638873",
     "title": "Senior WordPress/WooCommerce Technical Consultant",
