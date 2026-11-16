@@ -1,5 +1,33 @@
 [
   {
+    "id": "2122200156919226823",
+    "ciphertext": "~022122200156919226823",
+    "title": "WordPress & GoHighLevel Web Developer for Trade Business Landing Pages and Websites",
+    "description": "We're Tradie Marketing Pros, an Australian marketing agency that works only with trade businesses: plumbers, electricians, builders and similar. We run their Google Ads and Meta ads, and every campaign needs a fast, high-converting landing page or website behind it.\n\nWe're looking for a reliable web developer to join us on an ongoing basis.\n\n**What you'll do**\n\n- Duplicate our existing landing page templates for new clients, with new branding, copy, phone numbers, forms and tracking\n- Design new landing pages from scratch when a client needs something we haven't built before\n- Build full websites of 3 to 15 pages\n- Make ongoing fixes and edits across live client sites\n\n**Platforms**\n\n- WordPress (Elementor or a similar page builder)\n- GoHighLevel funnels and websites\n\n**What we need from you**\n\n- Template landing pages turned around **within 24 hours**\n- Regular overlap with **Brisbane, Australia business hours** (AEST, UTC+10)\n- Pages that are fast on mobile and built to get calls and form leads\n- Clear communication in Slack and task updates in ClickUp\n\n**How we pay**\nWe pay a fixed price per job. Please include your price for each of these in your proposal:\n\n1. Duplicating an existing landing page template\n2. A new landing page design\n3. A website of 3, 5, 7, 10 and 15 pages\n4. Small fixes and edits (hourly or per task)\n\n**To apply**\n\n- Send links to landing pages or websites you've built for **trade or service businesses**. We'll pass over proposals without these.\n- Tell us how quickly you can usually duplicate an existing template.\n- Start your proposal with the word **\"Bolt\"** so we know you've read this post.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.74,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 27,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "landing-pages",
+      "web-design"
+    ],
+    "score": 3095,
+    "coverLetter": "Bolt! Hi Tradie Marketing Pros team,\n\nI’m ready to help you pump out high-converting, lightning-fast landing pages and websites for your trade clients. I can usually duplicate and rebrand an existing template well within your 24-hour turnaround window. \n\nAs a WordPress and CMS developer, I specialize in building mobile-optimized sites using builders like Elementor that are specifically designed to drive calls and form leads—just like the work you can see at https://www.snopud.com/. While my core stack is WordPress, I'm comfortable adapting quickly to fast-paced agency workflows, Slack, and ClickUp.\n\nPer your pricing request, here are my standard rates:\n1. Template duplication: $75\n2. New landing page design: $150\n3. Websites (3/5/7/10/15 pages): $350 / $550 / $750 / $1,000 / $1,400\n4. Small fixes and edits: $40/hr\n\nAre you available for a quick chat this week to align on your workflow and timezone overlap?",
+    "publishedDateTime": "2026-11-16T05:28:45+0000",
+    "addedAt": "2026-11-16T05:31:02.183Z",
+    "url": "https://www.upwork.com/jobs/~022122200156919226823",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122200156919226823/apply/"
+  },
+  {
     "id": "2122137275362559017",
     "ciphertext": "~022122137275362559017",
     "title": "WordPress to Static HTML Migration",

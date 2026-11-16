@@ -1,12 +1,19 @@
 {
   "date": "2026-11-16",
   "lastDigestSentDate": "2026-11-15",
-  "totalScanned": 10,
-  "matchedFilters": 1,
+  "totalScanned": 11,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "WordPress & GoHighLevel Web Developer for Trade Business Landing Pages and Websites",
+      "budget": "$10-$30/hr",
+      "score": 3095,
+      "url": "https://www.upwork.com/jobs/~022122200156919226823",
+      "addedAt": "2026-11-16T05:31:00.923Z"
+    },
     {
       "title": "WordPress to Static HTML Migration",
       "budget": "Fixed-price",
