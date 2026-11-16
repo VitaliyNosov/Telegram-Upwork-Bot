@@ -1,8 +1,18 @@
 {
   "date": "2026-11-16",
   "lastDigestSentDate": "2026-11-15",
-  "totalScanned": 4,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 5,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress to Static HTML Migration",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022122137275362559017",
+      "addedAt": "2026-11-16T01:23:00.491Z"
+    }
+  ]
 }

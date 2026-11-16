@@ -1,5 +1,34 @@
 [
   {
+    "id": "2122137275362559017",
+    "ciphertext": "~022122137275362559017",
+    "title": "WordPress to Static HTML Migration",
+    "description": "Project Title: Rebuild/Migrate Single-Page WordPress Site to Static HTML + Cloudflare/GitHub Pages\nProject Scope:\nWe are looking for an experienced web developer to strip away an unnecessary WordPress/Flywheel backend and convert our corporate site into a single, ultra-clean, static HTML/CSS page.\nKey Requirements: Replicate our current landing page layout (text, logos, legal disclosures, and PDF link to Form CRS).Zero plugins, zero databases, and zero PHP—pure, secure static files.\nSet up free hosting via GitHub Pages or Cloudflare Pages with automated SSL.   Seamlessly transfer and point our custom domain (syntaxresearch.com) with zero downtime.   Ensure full compliance and intact secure routing for our external client portal links.\nDeliverables: Hand over the raw code repository, a concise deployment guide, and confirm successful DNS propagation so we can cancel our old hosting.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 77,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "html5",
+      "css",
+      "php"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! \n\nStripping away the WordPress bloat to convert your single-page corporate site into a lightning-fast, zero-maintenance static HTML/CSS build is a straightforward task. As a developer with deep WordPress and PHP architecture experience, I know exactly what needs to be extracted—text, assets, legal disclosures, and your Form CRS PDF link—to recreate your exact layout with zero plugins, databases, or vulnerabilities.\n\nI regularly handle clean code migrations and can effortlessly set up your deployment pipeline via GitHub Pages or Cloudflare Pages with automated SSL. Furthermore, I will manage the custom domain transfer for syntaxresearch.com with zero downtime and ensure your external client portal links route securely without a hitch.\n\nFor a quick look at my clean-code layout work, you can review one of my recent projects here: https://waapple.org/\n\nWhen would you like to get started on the migration?",
+    "publishedDateTime": "2026-11-16T01:18:54+0000",
+    "addedAt": "2026-11-16T01:23:01.764Z",
+    "url": "https://www.upwork.com/jobs/~022122137275362559017",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122137275362559017/apply/"
+  },
+  {
     "id": "2122032633682693169",
     "ciphertext": "~022122032633682693169",
     "title": "Senior WooCommerce / PHP Developer ( Freelancer Only) No Agency",
