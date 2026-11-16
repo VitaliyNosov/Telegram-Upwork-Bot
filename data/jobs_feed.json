@@ -1,5 +1,34 @@
 [
   {
+    "id": "2122334497190638873",
+    "ciphertext": "~022122334497190638873",
+    "title": "Senior WordPress/WooCommerce Technical Consultant",
+    "description": "We are an established medical uniform e-commerce company seeking an experienced, independent WordPress/WooCommerce technical consultant to help us identify and hire a reliable senior developer.\n\nWe are not looking for an agency or someone to take over development.\n\nResponsibilities:\n\n* Review and evaluate shortlisted developer candidates.\n* Conduct technical interviews to assess PHP, WordPress, and WooCommerce expertise.\n* Evaluate candidates’ troubleshooting, debugging, and code quality skills.\n* Assess experience with staging environments, testing, and safe production deployments.\n* Help us identify developers who can independently maintain and improve complex WooCommerce websites.\n* Recommend the strongest candidate based on technical ability, reliability, and communication.\n\nRequirements:\n\n* Extensive senior-level WordPress, WooCommerce, and PHP experience.\n* Experience conducting technical interviews or evaluating developers.\n* Independent consultant only — no agencies.\n* No financial relationship with recommended candidates.\n\nThis is a short-term consulting assignment, approximately 3–5 hours initially.\n\nPlease describe your experience evaluating and hiring senior WordPress/WooCommerce developers.",
+    "isHourly": true,
+    "hourlyBudgetMin": 50,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$50 - $100/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.6,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 95,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "javascript",
+      "php",
+      "android-app-development",
+      "html5"
+    ],
+    "score": 10142,
+    "coverLetter": "Hi! Regarding your requirement to describe my experience evaluating and hiring senior talent: over my years as an independent WordPress and WooCommerce developer, I have frequently helped technical and non-technical founders vet engineering candidates. I know exactly what questions to ask to look past polished resumes and test true proficiency in core PHP, complex WooCommerce architecture, staging protocols, and debugging under pressure.\n\nAs an active developer who builds high-traffic platforms like https://www.thelifeyoucansave.org/, I stay deeply hands-on with the exact technical stack your future hire will manage. I can quickly spot clean, maintainable code versus liabilities, ensuring you bring on a reliable senior asset.\n\nLet’s chat about your shortlist so we can set up an effective technical evaluation process.",
+    "publishedDateTime": "2026-11-16T14:22:33+0000",
+    "addedAt": "2026-11-16T14:25:00.009Z",
+    "url": "https://www.upwork.com/jobs/~022122334497190638873",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122334497190638873/apply/"
+  },
+  {
     "id": "2122288816549192135",
     "ciphertext": "~022122288816549192135",
     "title": "Convert Joomla Website to Static HTML",

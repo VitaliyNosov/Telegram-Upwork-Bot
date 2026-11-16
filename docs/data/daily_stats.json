@@ -1,12 +1,19 @@
 {
   "date": "2026-11-16",
   "lastDigestSentDate": "2026-11-15",
-  "totalScanned": 21,
-  "matchedFilters": 4,
+  "totalScanned": 22,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress/WooCommerce Technical Consultant",
+      "budget": "$50-$100/hr",
+      "score": 10142,
+      "url": "https://www.upwork.com/jobs/~022122334497190638873",
+      "addedAt": "2026-11-16T14:24:57.481Z"
+    },
     {
       "title": "Senior WordPress Developers Needed",
       "budget": "$20-$40/hr",
