@@ -1,5 +1,36 @@
 [
   {
+    "id": "2122419631117327006",
+    "ciphertext": "~022122419631117327006",
+    "title": "Design a Wordpress Plugin",
+    "description": "Looking to have a plugin designed for my wordpress website that allows mt customers to design a specific product.  Would like the product preview to convert to a 3d realistic image.  Would like the design to format to a specific layout.    Product is a hockey goalie mask.  Would like a left, right and back view.  Customers can create their own design for me to print.   Can either be a wordpress plugin or stand alone that i can install on a fresh website.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.88,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "wordpress-plugin",
+      "css",
+      "javascript",
+      "html"
+    ],
+    "score": 148,
+    "coverLetter": "Hi! \n\nBuilding a custom product customizer with a 3D realistic preview sounds like a great project. I have extensive experience with WordPress plugin development, custom PHP, JavaScript, and integrating interactive front-end elements into WordPress sites. \n\nWhile a full 3D interactive customizer (like Three.js) for a hockey goalie mask with left, right, and back views requires careful planning, I can build this either as a bespoke WordPress plugin or a standalone web app that integrates seamlessly. I've built complex custom functionalities and handled various API and rendering integrations, ensuring the output formats correctly for your printing layout. You can check out some of my recent WordPress work at https://waapple.org/.\n\nAre you currently working with pre-rendered 2D/3D assets or CAD models for the goalie mask, or would we need to source those as part of the build? Let’s chat about your technical requirements and workflow.",
+    "publishedDateTime": "2026-11-16T20:00:53+0000",
+    "addedAt": "2026-11-16T20:03:00.228Z",
+    "url": "https://www.upwork.com/jobs/~022122419631117327006",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122419631117327006/apply/"
+  },
+  {
     "id": "2122413284912273038",
     "ciphertext": "~022122413284912273038",
     "title": "Build a Website for Work",
