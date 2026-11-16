@@ -1,10 +1,10 @@
 {
   "date": "2026-11-16",
   "lastDigestSentDate": "2026-11-15",
-  "totalScanned": 26,
-  "matchedFilters": 6,
+  "totalScanned": 27,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 4146,
       "url": "https://www.upwork.com/jobs/~022122239782067133086",
       "addedAt": "2026-11-16T08:08:57.741Z"
+    },
+    {
+      "title": "Website Speed and Image Optimization",
+      "budget": "$15-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022122353890504576049",
+      "addedAt": "2026-11-16T15:42:57.537Z"
     },
     {
       "title": "Convert Joomla Website to Static HTML",

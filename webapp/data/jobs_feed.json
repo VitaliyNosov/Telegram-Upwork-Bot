@@ -1,5 +1,31 @@
 [
   {
+    "id": "2122353890504576049",
+    "ciphertext": "~022122353890504576049",
+    "title": "Website Speed and Image Optimization",
+    "description": "Looking to clean up the performance, accessibility and best practices of our website focusing on page speed, photo optimization, removal and optimization of current plugins for performance impact, convert large photos to WebP or AVIF, loading lightweight thumbnails instead of full Youtube videos",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 17,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! \n\nI can help you audit and dramatically speed up your website by tackling core performance bottlenecks, image formats, and plugin bloat. \n\nSpeed optimization and Core Web Vitals are core focus areas of mine. For your project, I will convert heavy photos into next-gen formats (WebP/AVIF), replace resource-heavy YouTube embeds with lightweight click-to-load thumbnail placeholders, and audit your current plugin stack to remove or replace performance-dragging scripts. I also specialize in cleaning up accessibility and best practices to ensure your site is fast, lean, and user-friendly.\n\nYou can see an example of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nCould you share your current URL or GTmetrix/PageSpeed report so I can take a quick look at what's slowing it down?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-11-16T15:39:36+0000",
+    "addedAt": "2026-11-16T15:42:59.265Z",
+    "url": "https://www.upwork.com/jobs/~022122353890504576049",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122353890504576049/apply/"
+  },
+  {
     "id": "2122340524179056837",
     "ciphertext": "~022122340524179056837",
     "title": "Full Stack WordPress Developer (Custom Coding)",
