@@ -1,81 +1,8 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "lastDigestSentDate": "2026-11-16",
-  "totalScanned": 49,
-  "matchedFilters": 10,
-  "byKeyword": {
-    "wordpress developer": 10
-  },
-  "topJobs": [
-    {
-      "title": "Senior WordPress/WooCommerce Technical Consultant",
-      "budget": "$50-$100/hr",
-      "score": 10142,
-      "url": "https://www.upwork.com/jobs/~022122334497190638873",
-      "addedAt": "2026-11-16T14:24:57.481Z"
-    },
-    {
-      "title": "Senior WordPress Developers Needed",
-      "budget": "$20-$40/hr",
-      "score": 4146,
-      "url": "https://www.upwork.com/jobs/~022122239782067133086",
-      "addedAt": "2026-11-16T08:08:57.741Z"
-    },
-    {
-      "title": "Website Speed and Image Optimization",
-      "budget": "$15-$35/hr",
-      "score": 3600,
-      "url": "https://www.upwork.com/jobs/~022122353890504576049",
-      "addedAt": "2026-11-16T15:42:57.537Z"
-    },
-    {
-      "title": "Update WordPress 5.8 site to latest recommended WordPress version",
-      "budget": "$10-$30/hr",
-      "score": 3150,
-      "url": "https://www.upwork.com/jobs/~022122405954145490574",
-      "addedAt": "2026-11-16T19:10:56.148Z"
-    },
-    {
-      "title": "Convert Joomla Website to Static HTML",
-      "budget": "$20-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022122288816549192135",
-      "addedAt": "2026-11-16T11:26:56.017Z"
-    },
-    {
-      "title": "WordPress & GoHighLevel Web Developer for Trade Business Landing Pages and Websites",
-      "budget": "$10-$30/hr",
-      "score": 3095,
-      "url": "https://www.upwork.com/jobs/~022122200156919226823",
-      "addedAt": "2026-11-16T05:31:00.923Z"
-    },
-    {
-      "title": "Full Stack WordPress Developer (Custom Coding)",
-      "budget": "$11-$25/hr",
-      "score": 2650,
-      "url": "https://www.upwork.com/jobs/~022122340524179056837",
-      "addedAt": "2026-11-16T14:48:58.857Z"
-    },
-    {
-      "title": "Design a Wordpress Plugin",
-      "budget": "Fixed-price",
-      "score": 148,
-      "url": "https://www.upwork.com/jobs/~022122419631117327006",
-      "addedAt": "2026-11-16T20:02:58.696Z"
-    },
-    {
-      "title": "WordPress to Static HTML Migration",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022122137275362559017",
-      "addedAt": "2026-11-16T01:23:00.491Z"
-    },
-    {
-      "title": "Build a Website for Work",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022122413284912273038",
-      "addedAt": "2026-11-16T19:40:56.801Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
