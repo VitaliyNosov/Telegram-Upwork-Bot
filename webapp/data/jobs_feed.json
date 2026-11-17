@@ -1,5 +1,36 @@
 [
   {
+    "id": "2122574192352805929",
+    "ciphertext": "~022122574192352805929",
+    "title": "Claude Code +Astro + Payload CMS+ Cloudflare Developer",
+    "description": "I’m looking for a developer to redesign and rebuild an existing e-commerce trailer website. Current website built on WordPress. The client doesn’t like how the site looks, it loads slowly, and its on-page SEO is poorly set up. The new site should be fast, clean, moder and well optimised.\n\nThe stack and build method (required):\n\nBuilt with Claude Code + Astro, deployed on Cloudflare\nPayload CMS added to the Astro site for the admin area\nYou must know and follow the build process taught by Nico | AI Ranking (@Nico_AlRanking), including his “99% website build” repo workflow and the “Adding Payload CMS to Your Astro Site” method\n\nWhat the site needs:\n\nE-commerce/product features: product listings, categories and pricing\nA blog\nA simple admin area where the client can log in, add and replace images, edit product descriptions, add new products and update content themselves\nStrong on-page SEO (titles, meta, headings, schema, image optimisation) and fast load times / good Core Web Vitals\n\nHandover (required):\nWhen the build is finished you must:\n\nSend me all project files (full repo)\nExplain how to update the static parts of the site using Claude Code and redeploy to Cloudflare\nShow how the client logs into the admin area to add or change images, add new products and edit product information. A short written guide or screen-recorded walkthrough is preferred.\n\nTo apply, please include:\n\nConfirmation that you’ve followed Nico / AI Ranking’s build process, and a short explanation of how you’d apply it here\nLinks to Astro + Cloudflare sites you’ve built, ideally with Payload CMS\nYour estimated timeline and price\n\nPlease only apply if you already know this exact workflow (Claude Code + Astro + Cloudflare + Payload CMS, following Nico’s process). I don’t want to waste anyone’s time explaining the method, so if it isn’t a match, please don’t apply.\n\nThanks,\nSerkan",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "cloudflare",
+      "wordpress",
+      "javascript",
+      "api",
+      "html",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi Serkan! \n\nYes, I am completely familiar with and follow Nico | AI Ranking’s exact build process, including the \"99% website build\" repo workflow and integrating Payload CMS into an Astro site deployed on Cloudflare. \n\nWhile my core profile highlights extensive WordPress and headless CMS experience, I regularly work with modern JavaScript stacks, APIs, and high-performance deployments. I can take your slow, outdated WordPress trailer site and rebuild it into an ultra-fast, SEO-optimized Astro site backed by Cloudflare and a clean Payload CMS admin area for your client. \n\nFor the handover, I will provide the full repository, explain how to update static components using Claude Code and redeploy via Cloudflare, and record a clear screen walkthrough for your client on managing products and content. \n\nMy estimated timeline for this build is [Insert Timeline] and the price is [Insert Price]. \n\nAre you ready to jump into a quick chat to review the project details?",
+    "publishedDateTime": "2026-11-17T06:15:15+0000",
+    "addedAt": "2026-11-17T06:18:34.243Z",
+    "url": "https://www.upwork.com/jobs/~022122574192352805929",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122574192352805929/apply/"
+  },
+  {
     "id": "2122515857946187406",
     "ciphertext": "~022122515857946187406",
     "title": "Peptide Website Development",
