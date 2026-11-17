@@ -1,5 +1,33 @@
 [
   {
+    "id": "2122839797350000837",
+    "ciphertext": "~022122839797350000837",
+    "title": "Marketing Technology Developer (Shopify, WordPress, APIs, AI coding)",
+    "description": "Remote · Full-time contractor · US Eastern Time business hours · Could grow into US$4,000 a month, depending on experience · Starts as soon as possible\n\nOwn the tech behind a bestselling author's media business. Build it with the AI tools you're best with.\n\nRyan Levesque is a 7-time Inc. 5000 CEO and #1 national bestselling author, best known for Ask and the ASK Method. He has built and sold two companies. His weekly newsletter reaches more than 100,000 readers, and his new book, Return to Real, is already a #1 bestseller.\n\nThe business runs on its store and its email list. You'll own them: the Shopify store, the websites, the funnels, the tracking, and the weekly newsletter send. You'll report to our Director of Operations, who writes clear briefs and has your back. How you build it is up to you.\n\nWhat you'll do:\nRun and grow our Shopify store: the book, offers, upsells and checkout\nBuild funnels and landing pages that turn readers into buyers, on Shopify or WordPress\nSet up and test tracking on everything we build, and run our weekly numbers dashboard\nSend the weekly newsletter, and build the email automations behind it\nMaintain and update our WordPress websites, and keep them secure and running smoothly\nConnect our tools through APIs, webhooks or Zapier, keeping the stack simple and everything documented\n\nYou'll fit right in if you:\nKnow Shopify well (themes, apps and Liquid), are comfortable in WordPress, HTML, CSS and JavaScript, and can get two tools talking through their APIs\nHave built funnels, email automation and tracking for a real online business, reaching for existing tools before building anything custom\nCode with AI agents every day, such as Claude Code, Codex or Cursor, and check their work before it goes live\nStart things without being asked, find out what you don't know, and finish what you start\nStay calm under pressure, and explain technical things so anyone can follow\nCan work US Eastern Time business hours, with some flex for launches and the occasional weekend\n\nBonus points (but not strictly required):\nExperience in a media, newsletter, author or publishing business\nKeap, or moving an email list to a new platform\nYou've built AI features into a product or automation, using the Claude or OpenAI API\n\nWhy you'll like it here:\nWe pay for your AI tools: Claude, Codex, Cursor or whatever makes you fastest\nRyan's audience is big, and decisions are quick. What you ship gets used and seen\nThe work matters. Ryan's ideas make a real difference in people's lives\n\nHow to apply:\nReply here, and tell us why you are a good fit for this position. Provide real examples of work you've done that's similar. If we're open to exploring a further conversation, we'll reply and provide a link to an application that will take about 25 minutes, including a two-minute video walking us through something you've built. If, at that point, you're shortlisted, we'll set up a call, then a short practical task.\n\nWe'll look forward to reading your reply!",
+    "isHourly": true,
+    "hourlyBudgetMin": 25,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$25 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 56,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "shopify",
+      "web-programming",
+      "wordpress"
+    ],
+    "score": 3599,
+    "coverLetter": "Hi! I would love to help you run and scale the tech stack behind Ryan's media business and new book. \n\nWith deep, hands-on experience across both Shopify and WordPress, I build and maintain high-converting stores, funnels, and secure websites on a daily basis. My background includes managing custom Shopify setups, hooking up APIs, webhooks, and tracking, and keeping WordPress publishing platforms running smoothly. I also code extensively with modern AI tools like Cursor and Claude to move fast, ship clean code, and maintain robust automation pipelines. \n\nFor a look at my recent WordPress and web development work, you can check out https://about.offerup.com/. \n\nI work US Eastern Time hours and am ready to hit the ground running. When is a good time to chat about the role and your current tech stack?",
+    "publishedDateTime": "2026-11-17T23:50:38+0000",
+    "addedAt": "2026-11-17T23:52:32.441Z",
+    "url": "https://www.upwork.com/jobs/~022122839797350000837",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122839797350000837/apply/"
+  },
+  {
     "id": "2122808330862746270",
     "ciphertext": "~022122808330862746270",
     "title": "WordPress / WooCommerce Revamp + Two-Way eBay Catalog Sync (1,400+ Industrial SKUs)",

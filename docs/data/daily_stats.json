@@ -1,8 +1,18 @@
 {
   "date": "2026-11-18",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 5,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 6,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Marketing Technology Developer (Shopify, WordPress, APIs, AI coding)",
+      "budget": "$25-$35/hr",
+      "score": 3599,
+      "url": "https://www.upwork.com/jobs/~022122839797350000837",
+      "addedAt": "2026-11-17T23:52:31.046Z"
+    }
+  ]
 }
