@@ -1,5 +1,34 @@
 [
   {
+    "id": "2122700838166709289",
+    "ciphertext": "~022122700838166709289",
+    "title": "New 6-Page Website Build",
+    "description": "I need a freelancer to build a new 6-page website from scratch. The project includes creating a clean, user-friendly design, setting up the site structure, and delivering a polished final product. Payment will be made only after the site is completed and approved. Please share relevant examples of similar websites you have built and your approach to revisions and final approval.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I am happy to work on your 6-page website build and follow your payment structure of releasing funds only upon final approval.\n\nI specialize in building clean, high-performance WordPress sites from scratch. My approach focuses on creating a solid information architecture and a user-friendly layout that is easy for you to manage long-term. For a project of this scale, I typically use a structured development process: we start with the wireframe/design, move to a staging environment for your review, and iterate until the site is pixel-perfect.\n\nYou can see an example of my work at https://www.thelifeyoucansave.org/, which showcases my ability to deliver professional, polished designs. \n\nDo you already have a design ready, or would you like me to suggest a layout that fits your goals?",
+    "publishedDateTime": "2026-11-17T14:38:15+0000",
+    "addedAt": "2026-11-17T14:42:51.738Z",
+    "url": "https://www.upwork.com/jobs/~022122700838166709289",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122700838166709289/apply/"
+  },
+  {
     "id": "2122683940012147753",
     "ciphertext": "~022122683940012147753",
     "title": "Make a website for a recruitment company",
