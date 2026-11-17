@@ -1,12 +1,19 @@
 {
   "date": "2026-11-17",
   "lastDigestSentDate": "2026-11-16",
-  "totalScanned": 13,
-  "matchedFilters": 1,
+  "totalScanned": 14,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Word Press Plugin Implementation and Updates",
+      "budget": "$15-$30/hr",
+      "score": 3150,
+      "url": "https://www.upwork.com/jobs/~022122526003787690792",
+      "addedAt": "2026-11-17T03:06:31.978Z"
+    },
     {
       "title": "Website Developer Needed for Dynamic Ongoing Project",
       "budget": "Fixed-price",
