@@ -1,5 +1,34 @@
 [
   {
+    "id": "2122753696018842665",
+    "ciphertext": "~022122753696018842665",
+    "title": "Rebuild Older WordPress Site",
+    "description": "We need a freelancer to rebuild an older WordPress site into a modern, responsive design. The work includes updating the layout, improving usability, and ensuring the site works well across devices. You should be able to assess the current site, recommend a practical redesign approach, and deliver a polished final version. Experience with WordPress site updates and responsive design is important for this project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 40,
+    "hourlyBudgetMax": 70,
+    "budgetDisplay": "$40 - $70/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php"
+    ],
+    "score": 7100,
+    "coverLetter": "Hi! Rebuilding older WordPress sites into modern, high-performing, and fully responsive platforms is right in my wheelhouse. \n\nInstead of patching up outdated code, I can assess your current site, structure a clean redesign using modern page builders or custom Gutenberg blocks with ACF, and ensure flawless mobile responsiveness and fast loading speeds. I focus on delivering polished, easy-to-manage sites that actually drive results, maintaining clean code standards throughout.\n\nYou can check out a recent modern WordPress build I completed here: https://about.offerup.com/\n\nCould you share the current URL so I can take a quick look under the hood and suggest the best approach?",
+    "publishedDateTime": "2026-11-17T18:08:19+0000",
+    "addedAt": "2026-11-17T18:12:32.222Z",
+    "url": "https://www.upwork.com/jobs/~022122753696018842665",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122753696018842665/apply/"
+  },
+  {
     "id": "2122695146055779369",
     "ciphertext": "~022122695146055779369",
     "title": "Build Website for Web Services Company",

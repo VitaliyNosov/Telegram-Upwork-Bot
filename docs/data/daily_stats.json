@@ -1,12 +1,19 @@
 {
   "date": "2026-11-17",
   "lastDigestSentDate": "2026-11-16",
-  "totalScanned": 48,
-  "matchedFilters": 10,
+  "totalScanned": 49,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 10
+    "wordpress developer": 11
   },
   "topJobs": [
+    {
+      "title": "Rebuild Older WordPress Site",
+      "budget": "$40-$70/hr",
+      "score": 7100,
+      "url": "https://www.upwork.com/jobs/~022122753696018842665",
+      "addedAt": "2026-11-17T18:12:30.907Z"
+    },
     {
       "title": "Word Press Plugin Implementation and Updates",
       "budget": "$15-$30/hr",
