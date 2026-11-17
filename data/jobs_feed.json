@@ -1,5 +1,40 @@
 [
   {
+    "id": "2122581034978100265",
+    "ciphertext": "~022122581034978100265",
+    "title": "Senior WordPress/WooCommerce Developer",
+    "description": "We are seeking a talented and experienced WordPress /WooCommerce Developer for Ecommerce sites responsible for both back-end and front-end development, including creating WordPress themes and plugins, supporting existing codes, and delivering solutions from start to finish . \nThis position requires a combination of programming skills (namely PHP, HTML5, CSS3, and JavaScript). The candidate should have a strong understanding of industry trends and content management systems. Experience with responsive and adaptive design is strongly preferred. Also, an understanding of the entire web development process, including design, development, testing and deployment is preferred.\nThe ideal candidate will have a strong desire to continue improving their skill sets and to stay on the cutting edge of web development. He/She will work in close collaboration with the Web team and the Technical Project Manager.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 26,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "woocommerce",
+      "php",
+      "javascript",
+      "html",
+      "wordpress",
+      "css",
+      "web-programming",
+      "e-commerce-website",
+      "mysql"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI’d love to help you build and scale your WooCommerce and WordPress platforms. As a senior WordPress developer with deep expertise in PHP, JavaScript, custom theme/plugin development, and end-to-end e-commerce solutions, I frequently partner with web teams to deliver robust, high-performing online stores. \n\nWhether it's setting up complex WooCommerce architectures, custom payment/API integrations, or ensuring seamless responsive front-end execution, I focus on clean code, scalability, and performance. You can view examples of my recent production work on platforms like https://www.seeintl.org/ and https://www.cchpca.org/.\n\nI'm comfortable working closely with project managers and technical teams through the full development lifecycle, from staging to deployment. \n\nAre you currently working with an existing WooCommerce codebase that needs optimization, or is this a new build from scratch? Let's connect!",
+    "publishedDateTime": "2026-11-17T06:42:12+0000",
+    "addedAt": "2026-11-17T06:44:31.763Z",
+    "url": "https://www.upwork.com/jobs/~022122581034978100265",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122581034978100265/apply/"
+  },
+  {
     "id": "2122574192352805929",
     "ciphertext": "~022122574192352805929",
     "title": "Claude Code +Astro + Payload CMS+ Cloudflare Developer",

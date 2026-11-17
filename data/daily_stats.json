@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
   "lastDigestSentDate": "2026-11-16",
-  "totalScanned": 21,
-  "matchedFilters": 4,
+  "totalScanned": 22,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022122515857946187406",
       "addedAt": "2026-11-17T05:30:29.271Z"
+    },
+    {
+      "title": "Senior WordPress/WooCommerce Developer",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022122581034978100265",
+      "addedAt": "2026-11-17T06:44:30.579Z"
     },
     {
       "title": "Claude Code +Astro + Payload CMS+ Cloudflare Developer",
