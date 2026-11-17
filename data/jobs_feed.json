@@ -1,5 +1,34 @@
 [
   {
+    "id": "2122515857946187406",
+    "ciphertext": "~022122515857946187406",
+    "title": "Peptide Website Development",
+    "description": "Need a developer with experience in the peptide space to build a website showcasing all our peptide products. Woocommerce / The site must use compliant US-focused verbiage to avoid being blocked or taken down. It should not be built on WordPress and must support integration with a credit card processing company for peptides. The developer should also help create SEO-friendly content to improve visibility when people search for peptides online.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 8,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "html5",
+      "web-design"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI noticed your requirement to build this site *off* WordPress, which is totally doable. While my core background is heavily rooted in WordPress, PHP, and custom web programming, I also build and migrate high-performing sites across alternative CMS platforms like Webflow and headless setups, ensuring they are fully optimized for alternative environments. \n\nMore importantly, I understand the strict compliance and credit card processing hurdles unique to the peptide and supplement space. I can help architect a secure, high-risk merchant account integration and write compliant, SEO-friendly copy tailored to pass gateway reviews while ranking well on search engines. \n\nYou can check out some of my custom web builds here: https://www.seeintl.org/\n\nLet’s chat about your product catalog and the best non-WordPress platform for your specific processing needs. What gateway or processor are you currently planning to use?",
+    "publishedDateTime": "2026-11-17T05:27:55+0000",
+    "addedAt": "2026-11-17T05:30:30.401Z",
+    "url": "https://www.upwork.com/jobs/~022122515857946187406",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122515857946187406/apply/"
+  },
+  {
     "id": "2122526003787690792",
     "ciphertext": "~022122526003787690792",
     "title": "Word Press Plugin Implementation and Updates",

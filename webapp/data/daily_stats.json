@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
   "lastDigestSentDate": "2026-11-16",
-  "totalScanned": 17,
-  "matchedFilters": 2,
+  "totalScanned": 18,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3150,
       "url": "https://www.upwork.com/jobs/~022122526003787690792",
       "addedAt": "2026-11-17T03:06:31.978Z"
+    },
+    {
+      "title": "Peptide Website Development",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022122515857946187406",
+      "addedAt": "2026-11-17T05:30:29.271Z"
     },
     {
       "title": "Website Developer Needed for Dynamic Ongoing Project",
