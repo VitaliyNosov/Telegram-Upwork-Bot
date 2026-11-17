@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
   "lastDigestSentDate": "2026-11-16",
-  "totalScanned": 32,
-  "matchedFilters": 6,
+  "totalScanned": 33,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022122574192352805929",
       "addedAt": "2026-11-17T06:18:29.202Z"
+    },
+    {
+      "title": "Make a website for a recruitment company",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022122683940012147753",
+      "addedAt": "2026-11-17T13:34:30.952Z"
     },
     {
       "title": "Website Developer Needed for Dynamic Ongoing Project",

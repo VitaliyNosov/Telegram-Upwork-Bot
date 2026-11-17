@@ -1,5 +1,37 @@
 [
   {
+    "id": "2122683940012147753",
+    "ciphertext": "~022122683940012147753",
+    "title": "Make a website for a recruitment company",
+    "description": "We are looking for an experienced website developer to build a professional recruitment website for our new company. \n\nThe project will include a private, searchable candidate database where employers can search anonymous candidate profiles by job title, location, salary, experience and availability. \n\nWe want to incorporate AI technology to help process uploaded CVs and automatically generate professional candidate summaries. \n\nThe successful developer will build a secure, user-friendly platform with an administration dashboard, client search facilities and candidate enquiry functionality, with scope to expand as the business grows.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 210,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "graphic-design",
+      "adobe-photoshop",
+      "html",
+      "javascript"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nBuilding a professional recruitment platform with a searchable candidate database and advanced custom workflows is right in my wheelhouse. I specialize in custom WordPress development, building advanced data filtering systems, and integrating complex APIs (including AI processing tools) to automate candidate summary generation. \n\nI can build a secure, scalable platform featuring a robust admin dashboard, advanced search functionality for employers, and seamless candidate enquiry flows—similar to complex database-driven sites I've developed like [https://www.snopud.com/](https://www.snopud.com/). My focus is on clean, maintainable code that ensures your site is fast, secure, and ready to grow as your business expands.\n\nDo you already have a preferred AI API in mind for processing the uploaded CVs, or would you like recommendations on the best approach? Let's chat about your requirements.",
+    "publishedDateTime": "2026-11-17T13:31:07+0000",
+    "addedAt": "2026-11-17T13:34:32.340Z",
+    "url": "https://www.upwork.com/jobs/~022122683940012147753",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122683940012147753/apply/"
+  },
+  {
     "id": "2122637187342162590",
     "ciphertext": "~022122637187342162590",
     "title": "Hiring: Experienced WordPress Developer – Technical SEO, Website Performance & Optimization",
