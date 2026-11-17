@@ -1,5 +1,34 @@
 [
   {
+    "id": "2122706482475033030",
+    "ciphertext": "~022122706482475033030",
+    "title": "WordPress Developer for Manus Website",
+    "description": "We need a developer to build a website using Manus Website Builder and WordPress. The project includes setting up the site, creating pages, adding content, and ensuring the final site is functional and ready for launch. You should be comfortable working with WordPress and helping deliver a clean, organized website that meets the project requirements. Please share relevant experience and examples of similar website builds.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.78,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 340,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "css"
+    ],
+    "score": 146,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-17T15:00:42+0000",
+    "addedAt": "2026-11-17T15:02:57.717Z",
+    "url": "https://www.upwork.com/jobs/~022122706482475033030",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122706482475033030/apply/"
+  },
+  {
     "id": "2122700838166709289",
     "ciphertext": "~022122700838166709289",
     "title": "New 6-Page Website Build",
