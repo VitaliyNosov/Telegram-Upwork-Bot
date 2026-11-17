@@ -1,5 +1,35 @@
 [
   {
+    "id": "2122808330862746270",
+    "ciphertext": "~022122808330862746270",
+    "title": "WordPress / WooCommerce Revamp + Two-Way eBay Catalog Sync (1,400+ Industrial SKUs)",
+    "description": "We are an industrial asset recovery company specializing in all industrial surplus and MRO (Maintenance, Repair, and Operations) equipment. We are looking for an experienced WordPress / WooCommerce developer and technical SEO specialist to completely refresh our existing WordPress website into a modern, high-converting two-sided B2B platform.\nRight now, our website is purely informational and routes buyers to our established eBay store (1,400+ active SKUs across valves, fittings, process controls, electrical, pneumatics, sensors, automation, and general industrial MRO components). We want to keep our existing eBay store completely untouched, upgrade our website's visual design, and turn our domain into a Google-ranking powerhouse for both surplus buyout leads and direct e-commerce buyers.\nWHAT WE NEED BUILT (TWO-SIDED WEBSITE STRUCTURE):\n1. Side One - \"Sell Your Surplus\" (B2B Liquidation and Buyout Funnel)\n• Refresh our homepage and core informational pages with a clean, authoritative, industrial B2B aesthetic.\n• Build dedicated service/landing pages targeting plant managers, maintenance directors, engineers, and facilities looking to liquidate all types of surplus industrial and MRO inventory.\n• Create streamlined intake and quote request forms (using Fluent Forms or similar) that allow sellers to submit contact details, descriptions, and upload spreadsheets (Excel/CSV inventory lists) or photos of equipment.\n2. Side Two - \"Shop Live Inventory\" (WooCommerce Parts Storefront)\n• Install and style WooCommerce to match our refreshed brand design.\n• Build a fast, clean catalog experience tailored for industrial and MRO buyers, including instant autocomplete search and faceted filtering by Manufacturer Part Number (MPN), Brand, and Category.\n• Support both direct online checkout (credit card/ACH) and a \"Request Bulk Quote\" option on product pages.\n3. Real-Time Two-Way eBay Catalog Sync (1,400+ Active SKUs)\n• Install and configure LitCommerce or WP-Lister Pro for eBay to bulk-import all 1,400+ of our active eBay listings (including high-res photos, titles, descriptions, item specifics, and quantities) into WooCommerce.\n• Configure automated, real-time two-way inventory syncing: when an item sells on eBay, it must automatically mark as out of stock on our website within minutes (and vice versa).\n• Important Workflow Requirement: We want to continue creating new listings inside eBay Seller Hub as our primary workflow and have them automatically sync over to our WooCommerce store.\n4. Heavy SEO Optimization, Google Ranking and AI Blog Setup (Top Priority)\n• Full Technical and Programmatic SEO: Configure Rank Math SEO (with Content AI) so every imported product automatically generates clean Brand + Part Number URLs, dynamic meta titles/descriptions, image alt tags, XML sitemaps, and rich Product Schema (Brand, MPN, Price, Availability) so industrial buyers searching Google by part number land directly on our site.\n• AI Blog and Resource Hub: Set up a clean, well-formatted blog section integrated with Rank Math Content AI (or an equivalent WordPress AI content workflow) so we can easily generate and publish SEO-targeted industrial articles, buying guides, and surplus liquidation posts to drive organic traffic.\n• Google Search Console and Analytics: Connect and verify Google Search Console and Google Analytics 4 (GA4), ensuring all 1,400+ product pages are properly submitted for fast indexing.\n5. High-Converting Interactive and Engaging Features\n• Include modern, conversion-focused touches that keep visitors engaged and build instant trust, such as an interactive surplus valuation / quick-estimate request widget, live inventory counter / recently added parts ticker, featured brand logo marquee (Swagelok, Allen-Bradley, Parker, ABB, etc.), instant live-search bar in the header, and clean WhatsApp / click-to-call / live chat lead capture.\n• Optimize Core Web Vitals, image compression, and caching so browsing and filtering 1,400+ products is lightning-fast on both desktop and mobile.\nREQUIRED QUALIFICATIONS:\n• Hands-on experience integrating WooCommerce with eBay using LitCommerce or WP-Lister Pro (please do not pitch migrating us to Shopify).\n• Proven track record with WordPress/WooCommerce technical SEO, Schema markup, and Core Web Vitals optimization.\n• Strong portfolio of clean, modern B2B, industrial, or large-catalog WooCommerce builds.\n• Clear, responsive communication and ability to deliver on a structured milestone schedule.\nTO APPLY, PLEASE ANSWER THESE 3 QUESTIONS:\n1. Share links to 2-3 WordPress/WooCommerce sites you have built (especially large-catalog, B2B, or SEO-focused sites).\n2. Between LitCommerce and WP-Lister Pro for eBay, which do you recommend for syncing 1,400+ active eBay listings into WooCommerce and why?\n3. What is your estimated turnaround time and fixed-price quote for the full scope above?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.71,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "web-programming",
+      "wordpress",
+      "web-design",
+      "e-commerce-website"
+    ],
+    "score": 144,
+    "coverLetter": "Hi! To answer your screening questions right away:\n\n1. Here are 2 relevant B2B/large-catalog WordPress builds from my portfolio:\n- https://www.snopud.com/ (Complex informational structure and clean enterprise UI)\n- https://www.daysforgirls.org/ (High-performance, content-rich WordPress build)\n\n2. Between LitCommerce and WP-Lister Pro, I typically recommend **WP-Lister Pro for eBay** for this specific scale (1,400+ SKUs). It offers deeper, native WooCommerce integration, superior handling of complex item specifics/variation attributes, and rock-solid cron-based inventory sync that keeps eBay Seller Hub as your single source of truth without third-party platform friction.\n\n3. I can deliver the full scope—including the two-sided layout, real-time eBay sync, and Rank Math programmatic SEO setup—in approximately 3 to 4 weeks. \n\nI specialize in custom WooCommerce builds, complex API inventory syncs, and Core Web Vitals optimization. I’d love to discuss your industrial catalog structure and get this started. Are you available for a quick chat this week?",
+    "publishedDateTime": "2026-11-17T21:45:29+0000",
+    "addedAt": "2026-11-17T21:50:35.516Z",
+    "url": "https://www.upwork.com/jobs/~022122808330862746270",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122808330862746270/apply/"
+  },
+  {
     "id": "2122756455722349551",
     "ciphertext": "~022122756455722349551",
     "title": "Wordpress Website Developer Needed for Dynamic Ongoing Project",

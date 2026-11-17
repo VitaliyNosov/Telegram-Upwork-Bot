@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 62,
-  "matchedFilters": 14,
+  "totalScanned": 63,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 14
+    "wordpress developer": 15
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 146,
       "url": "https://www.upwork.com/jobs/~022122706482475033030",
       "addedAt": "2026-11-17T15:02:30.723Z"
+    },
+    {
+      "title": "WordPress / WooCommerce Revamp + Two-Way eBay Catalog Sync (1,400+ Industrial SKUs)",
+      "budget": "Fixed-price",
+      "score": 144,
+      "url": "https://www.upwork.com/jobs/~022122808330862746270",
+      "addedAt": "2026-11-17T21:50:29.314Z"
     },
     {
       "title": "Claude Code +Astro + Payload CMS+ Cloudflare Developer",
