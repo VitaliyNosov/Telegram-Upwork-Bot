@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
   "lastDigestSentDate": "2026-11-16",
-  "totalScanned": 49,
-  "matchedFilters": 11,
+  "totalScanned": 50,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022122581034978100265",
       "addedAt": "2026-11-17T06:44:30.579Z"
+    },
+    {
+      "title": "Recreate Existing WordPress Website on GoHighLevel (1:1 Copy, SEO Preserved)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022122758599183963790",
+      "addedAt": "2026-11-17T18:30:37.167Z"
     },
     {
       "title": "Hiring: Experienced WordPress Developer – Technical SEO, Website Performance & Optimization",

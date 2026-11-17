@@ -1,5 +1,33 @@
 [
   {
+    "id": "2122758599183963790",
+    "ciphertext": "~022122758599183963790",
+    "title": "Recreate Existing WordPress Website on GoHighLevel (1:1 Copy, SEO Preserved)",
+    "description": "We’re looking for an experienced GoHighLevel developer to recreate our current website, colablending.com, on GoHighLevel. The site is currently on WordPress.\n\nThis is not a redesign. We need a faithful 1:1 copy of the existing site: same pages, layout, content, images and overall look and feel, rebuilt inside GHL.\n\nScope:\n\nAround 32 pages, plus existing blog posts\nKeep the exact same URL structure and page slugs, including blog posts\nSet up 301 redirects for any URL that can’t be matched exactly\nCarry over page titles, meta descriptions and image alt text\nRebuild the mortgage calculators (currently a WordPress plugin)\nHomepage hero section with video\nRebuild all forms and connect them to our GHL account\nFully responsive on desktop, tablet and mobile\nSupport with the domain switch so there’s no downtime\n\nNote: some spam content was injected into the current WordPress site. It should not be carried over to the new build.\n\nTo apply, please include:\n\nA fixed price for the full project\nEstimated timeline\nLinks to GoHighLevel websites you’ve built (WordPress to GHL migrations are a plus)\nAnything you’d need from us to get started\n\nWe’d like to start as soon as possible.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "blog",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can help you faithfully migrate colablending.com from WordPress to GoHighLevel as a 1:1 exact copy while leaving behind the injected spam content. \n\nGiven my extensive background with WordPress sites—including handling security issues, malware recovery, and content restructuring—I know how to systematically map and transfer all 32+ pages, blog posts, meta data, and custom elements (like your mortgage calculators and video hero section) without losing your SEO equity or breaking URL structures. I also have hands-on experience handling domain switches to ensure a seamless, zero-downtime transition.\n\nTo get started, I would just need your GoHighLevel account access, current WordPress admin/hosting logins, and brand assets. \n\nFixed price: [Insert Price]\nEstimated timeline: [Insert Timeline]\n\nAre you available for a quick chat today to review the site structure?",
+    "publishedDateTime": "2026-11-17T18:27:46+0000",
+    "addedAt": "2026-11-17T18:30:38.706Z",
+    "url": "https://www.upwork.com/jobs/~022122758599183963790",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122758599183963790/apply/"
+  },
+  {
     "id": "2122753696018842665",
     "ciphertext": "~022122753696018842665",
     "title": "Rebuild Older WordPress Site",
