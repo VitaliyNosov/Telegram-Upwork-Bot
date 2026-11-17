@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
-  "lastDigestSentDate": "2026-11-16",
-  "totalScanned": 53,
-  "matchedFilters": 12,
+  "lastDigestSentDate": "2026-11-17",
+  "totalScanned": 54,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 12
+    "wordpress developer": 13
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 7100,
       "url": "https://www.upwork.com/jobs/~022122753696018842665",
       "addedAt": "2026-11-17T18:12:30.907Z"
+    },
+    {
+      "title": "WordPress/PHP Developer & Technology Support Specialist — Ongoing Small Business Contract",
+      "budget": "$15-$35/hr",
+      "score": 3599,
+      "url": "https://www.upwork.com/jobs/~022122781407055561769",
+      "addedAt": "2026-11-17T20:00:29.931Z"
     },
     {
       "title": "Word Press Plugin Implementation and Updates",
