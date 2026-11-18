@@ -1,5 +1,34 @@
 [
   {
+    "id": "2123077970590310613",
+    "ciphertext": "~022123077970590310613",
+    "title": "Website Designer / Developer VA for Construction Company",
+    "description": "We’re seeking a Philippines-based Website Design & Development VA to build and maintain a professional website for our Ohio residential construction business.\n\nThe website should showcase our homes and construction projects, build credibility, and make it easy for potential clients to contact us.\n\nResponsibilities:\n- Design and build a modern, mobile-friendly website.\n- Create Home, About, Services, Projects/Gallery, and Contact pages.\n- Organize project photos, descriptions, and construction progress updates.\n- Help write and format website content.\n- Set up inquiry forms, email notifications, and spam protection.\n- Connect our domain and hosting.\n- Set up basic SEO and analytics and optimize loading speed.\n- Maintain the website and add new projects, photos, and content as needed.\nWe need someone who can work independently, recommend solutions, meet deadlines, and provide clear progress updates.\n\nRequirements:\n- Based in the Philippines.\n- Proven website design and development experience.\n- Experience with WordPress or a comparable website platform.\n- Strong written English and attention to detail.\n- Available for occasional meetings during U.S. Eastern Time.\n- Construction, contractor, or real estate website experience preferred.\nPlease include:\n1. Three websites you personally built and your role in each.\n2. Your recommended platform and why.1. Estimated hours and timeline to complete the initial website.\n2. Your hourly rate and weekly availability.\n3. Any additional hosting, theme, plugin, or subscription costs.\n4. Your experience providing ongoing website maintenance.\nThe initial website build is expected to take 1–3 months, with the opportunity for ongoing VA work afterward. All accounts must be company-owned, and final delivery must include full administrative access, applicable source files, and simple update instructions.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "virtual"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI build modern, mobile-friendly WordPress websites for contractors that turn project photos into high-converting client inquiries. Based in the Philippines with strong written English, I am fully equipped to handle your Ohio residential construction site.\n\nHere are the answers to your requirements:\n\n1. **Portfolio Examples & Role:**\n- https://www.cchpca.org/ (Lead Developer – custom build, layout, and optimization)\n- https://www.snopud.com/ (Developer – responsive design and performance tuning)\n- https://www.daysforgirls.org/ (Developer – gallery structure and user experience)\n\n2. **Recommended Platform:** WordPress with a clean page builder (like Elementor or Gutenberg) is ideal for your construction business. It gives you easy drag-and-drop capabilities to upload new project photos and construction updates yourself without coding.\n\n3. **Timeline & Hours:** The initial build takes approximately 3 to 4 weeks (well within your 1-3 month window). \n\n4. **Rate & Availability:** My hourly rate is standard, and I am available for ongoing maintenance and U.S. Eastern Time meetings.\n\n5. **Additional Costs:** Domain, reliable hosting (e.g., SiteGround or WP Engine), and standard security/form plugins (around $100–$200/year total).\n\n6. **Ongoing Maintenance:** I provide reliable long-term support, ensuring backups, security updates, and new gallery additions are handled smoothly.\n\nWould you like to hop on a quick chat to discuss your project layouts?",
+    "publishedDateTime": "2026-11-18T15:37:24+0000",
+    "addedAt": "2026-11-18T15:38:52.649Z",
+    "url": "https://www.upwork.com/jobs/~022123077970590310613",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123077970590310613/apply/"
+  },
+  {
     "id": "2123074416282965646",
     "ciphertext": "~022123074416282965646",
     "title": "Fix Google APIs on WordPress Site",

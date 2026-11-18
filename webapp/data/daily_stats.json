@@ -1,10 +1,10 @@
 {
   "date": "2026-11-18",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 41,
-  "matchedFilters": 7,
+  "totalScanned": 42,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 2
   },
   "topJobs": [
@@ -56,6 +56,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022122997698447473674",
       "addedAt": "2026-11-18T10:20:43.686Z"
+    },
+    {
+      "title": "Website Designer / Developer VA for Construction Company",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022123077970590310613",
+      "addedAt": "2026-11-18T15:38:45.091Z"
     }
   ]
 }
