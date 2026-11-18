@@ -1,12 +1,19 @@
 {
   "date": "2026-11-18",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 21,
-  "matchedFilters": 1,
+  "totalScanned": 23,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Professional WordPress eCommerce Website Development",
+      "budget": "$18-$35/hr",
+      "score": 3600,
+      "url": "https://www.upwork.com/jobs/~022122985362026586567",
+      "addedAt": "2026-11-18T09:32:35.302Z"
+    },
     {
       "title": "Marketing Technology Developer (Shopify, WordPress, APIs, AI coding)",
       "budget": "$25-$35/hr",

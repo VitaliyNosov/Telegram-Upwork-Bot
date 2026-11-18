@@ -1,5 +1,33 @@
 [
   {
+    "id": "2122985362026586567",
+    "ciphertext": "~022122985362026586567",
+    "title": "Professional WordPress eCommerce Website Development",
+    "description": "I am looking for an experienced WordPress developer to create a professional, fully functional eCommerce website using only the following three plugins:\n\nRequired Plugins:\n\nElementor – https://elementor.com/\nThe Elephanta – https://theelephanta.com/\nWooCommerce – https://woocommerce.com/\nProject Requirements:\n\nDevelop a modern, professional, and user-friendly eCommerce website.\nEnsure a responsive design across desktop, tablet, and mobile devices.\nImplement essential eCommerce functionalities using WooCommerce.\nCreate an attractive homepage, product pages, shop page, cart, and checkout pages.\nEnsure smooth navigation and a seamless shopping experience.\nMaintain good website performance and basic SEO practices.\nDo not use any additional plugins beyond the three listed above.\nDeveloper Requirements:\n\nPlease share your experience in WordPress website development and provide examples of eCommerce websites you have personally developed using WordPress.\n\nI am specifically interested in reviewing your WordPress portfolio, so please share only WordPress-developed websites.\n\nPlease also confirm that you can complete this project using only the three specified plugins.",
+    "isHourly": true,
+    "hourlyBudgetMin": 18,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$18 - $35/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "web-programming"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! Yes, I can easily build your eCommerce website using exclusively Elementor, The Elephanta, and WooCommerce, with zero extra bloat. \n\nWith extensive experience in custom WordPress and WooCommerce development, I build clean, fast, and fully responsive online stores. I focus heavily on smooth user navigation, optimized shop and checkout flows, and strong Core Web Vitals performance while keeping the plugin stack strictly minimal as requested.\n\nYou can view a recent WordPress build from my portfolio here: https://www.thelifeyoucansave.org/\n\nWhen would you like to jump into a quick chat to discuss your product structure and design preferences?",
+    "publishedDateTime": "2026-11-18T09:31:00+0000",
+    "addedAt": "2026-11-18T09:32:36.310Z",
+    "url": "https://www.upwork.com/jobs/~022122985362026586567",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122985362026586567/apply/"
+  },
+  {
     "id": "2122839797350000837",
     "ciphertext": "~022122839797350000837",
     "title": "Marketing Technology Developer (Shopify, WordPress, APIs, AI coding)",
