@@ -1,10 +1,10 @@
 {
   "date": "2026-11-18",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 26,
-  "matchedFilters": 2,
+  "totalScanned": 27,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3599,
       "url": "https://www.upwork.com/jobs/~022122839797350000837",
       "addedAt": "2026-11-17T23:52:31.046Z"
+    },
+    {
+      "title": "I'm Hiring a WordPress Developer.",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022122997698447473674",
+      "addedAt": "2026-11-18T10:20:43.686Z"
     }
   ]
 }

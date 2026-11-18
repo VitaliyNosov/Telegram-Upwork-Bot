@@ -1,5 +1,33 @@
 [
   {
+    "id": "2122997698447473674",
+    "ciphertext": "~022122997698447473674",
+    "title": "I'm Hiring a WordPress Developer.",
+    "description": "I am looking for an experienced WordPress developer to create a professional, fully functional eCommerce website using only the following three plugins:\n\nRequired Plugins:\n\nElementor – https://elementor.com/\nThe Elephanta – https://theelephanta.com/\nWooCommerce – https://woocommerce.com/\nProject Requirements:\n\nDevelop a modern, professional, and user-friendly eCommerce website.\nEnsure a responsive design across desktop, tablet, and mobile devices.\nImplement essential eCommerce functionalities using WooCommerce.\nCreate an attractive homepage, product pages, shop page, cart, and checkout pages.\nEnsure smooth navigation and a seamless shopping experience.\nMaintain good website performance and basic SEO practices.\nDo not use any additional plugins beyond the three listed above.\nDeveloper Requirements:\n\nPlease share your experience in WordPress website development and provide examples of eCommerce websites you have personally developed using WordPress.\n\nI am specifically interested in reviewing your WordPress portfolio, so please share only WordPress-developed websites.\n\nPlease also confirm that you can complete this project using only the three specified plugins.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I confirm that I can build your complete eCommerce website using strictly the three specified plugins: Elementor, The Elephanta, and WooCommerce. \n\nWith extensive experience in WordPress, WooCommerce setup, and Elementor design, I specialize in creating fast, fully responsive online stores with seamless checkout flows and clean UI/UX without cluttering your backend with unnecessary plugins. \n\nYou can review a sample of my professional WordPress work here: https://www.seeintl.org/\n\nLet's chat about your design vision and product catalog structure to get started!",
+    "publishedDateTime": "2026-11-18T10:17:53+0000",
+    "addedAt": "2026-11-18T10:20:44.890Z",
+    "url": "https://www.upwork.com/jobs/~022122997698447473674",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022122997698447473674/apply/"
+  },
+  {
     "id": "2122985362026586567",
     "ciphertext": "~022122985362026586567",
     "title": "Professional WordPress eCommerce Website Development",
