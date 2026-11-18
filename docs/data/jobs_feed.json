@@ -1,5 +1,34 @@
 [
   {
+    "id": "2123071080641878686",
+    "ciphertext": "~022123071080641878686",
+    "title": "WordPress Expert for Site Launch (December 12-30)",
+    "description": "We need a WordPress expert to help launch a site between December 12 and December 30. The site is already built, and we’re looking for someone to assist with pushing it live, handling final setup tasks, and supporting any new content updates during the launch window. This is a short-term project for someone who can work quickly, communicate clearly, and help ensure the site goes live smoothly.\n\nPlease note the dates. This project will occur in late December and applicant must have availability over the holiday period.",
+    "isHourly": true,
+    "hourlyBudgetMin": 45,
+    "hourlyBudgetMax": 75,
+    "budgetDisplay": "$45 - $75/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 77,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "seo",
+      "web-design"
+    ],
+    "score": 7600,
+    "coverLetter": "Hi! I am fully available between December 12 and 30 to help you successfully push your site live and manage any final setup tasks or content updates during the launch window. \n\nWith extensive experience in WordPress deployment, site migrations, and pre-launch troubleshooting, I can ensure a smooth, error-free transition to your live environment. Whether it's final database optimizations, configuration checks, or handling last-minute adjustments, I work quickly and cleanly to get sites across the finish line. You can see examples of my recent production work at https://www.thelifeyoucansave.org/.\n\nAre you currently hosting on a specific server environment, and is the staging site fully ready for the final migration sweep? Let’s get this launched smoothly!",
+    "publishedDateTime": "2026-11-18T15:09:29+0000",
+    "addedAt": "2026-11-18T15:10:57.393Z",
+    "url": "https://www.upwork.com/jobs/~022123071080641878686",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123071080641878686/apply/"
+  },
+  {
     "id": "2123060433433621487",
     "ciphertext": "~022123060433433621487",
     "title": "Expert Shopify Developer for Premium Store Redesign, Custom Products & Conversion Optimization",
