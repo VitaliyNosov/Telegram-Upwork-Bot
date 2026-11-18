@@ -1,10 +1,10 @@
 {
   "date": "2026-11-18",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 56,
-  "matchedFilters": 12,
+  "totalScanned": 57,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 2
   },
   "topJobs": [
@@ -77,6 +77,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022123104916015641583",
       "addedAt": "2026-11-18T17:26:43.909Z"
+    },
+    {
+      "title": "Wordpress Software Engineer Freelancer",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022123122074333667783",
+      "addedAt": "2026-11-18T18:36:46.252Z"
     },
     {
       "title": "Virtual Academy Developer Needed",

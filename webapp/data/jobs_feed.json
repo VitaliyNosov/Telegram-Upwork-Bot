@@ -1,5 +1,35 @@
 [
   {
+    "id": "2123122074333667783",
+    "ciphertext": "~022123122074333667783",
+    "title": "Wordpress Software Engineer Freelancer",
+    "description": "We need a freelancer to update our wordpress.com hosted marketing website and improve its SEO and AEO performance. The work includes updating existing pages to the new design system, adding new pages, updating the site structure, improving page speed, optimizing content for search, and enhancing overall user experience. The ideal candidate should be able to turn detailed Figma designs into a polished, mobile-friendly website while ensuring the site is search-engine optimized and performs well across devices. We are on the Business wordpress.com tier.\n\nHow the engagement will work:\n\n1. Paid trial ($250 fixed): Turn a handful of our Figma designs into WordPress pages. You won’t have access to our live website during the trial. Build the pages in your own WordPress environment, using the same theme as our site (we’ll tell you which one). Then deliver them in a format we can import into our site, such as a WordPress export file or reusable block patterns, along with a preview link so we can review them. The pages become our property on payment.\n\n2. Full website build: The successful candidate will build the rest of the website, building off the first stage. You will be asked to quote for this stage once the trial is complete. During the build, you’ll work on a staging copy of our site, not the live site.\n\n3. Ongoing work: After the build, we will need ad hoc site additions and maintenance on an ongoing basis.\n\nScreening questions:\n\nPlease create a document with the answers to the below questions, and attach it as a file.\n\n1. Have you worked on wordpress.com hosted websites before?\n2. What are some examples of key SEO and AEO optimisations that you have made in the past?\n3. Describe the features of Figma that you are experienced with.\n4. Describe your recent experience with similar projects. Give examples, ideally live URLs or if you are able to give us access to a cloned Wordpress site so we can look at the code.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "html",
+      "javascript",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I am ready to jump straight into the $250 paid trial and convert your Figma designs into clean, responsive WordPress pages. \n\nTo answer your screening questions directly, I have attached a document covering my background with WordPress.com Business sites, my approach to SEO and AEO optimizations (like structuring content for AI engines and Core Web Vitals speed tuning), my advanced use of Figma (Dev Mode, auto-layout, and component inspection), and relevant project experience. \n\nAs a WordPress developer who frequently builds custom themes directly from Figma, I ensure every page is lightweight, mobile-friendly, and optimized for search. You can see an example of my live WordPress work here: https://www.thelifeyoucansave.org/. \n\nLet’s chat about the theme details so I can get started on your trial pages right away.",
+    "publishedDateTime": "2026-11-18T18:33:08+0000",
+    "addedAt": "2026-11-18T18:36:51.846Z",
+    "url": "https://www.upwork.com/jobs/~022123122074333667783",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123122074333667783/apply/"
+  },
+  {
     "id": "2123116197913564814",
     "ciphertext": "~022123116197913564814",
     "title": "Fast Turnaround: 15-Page WordPress Website Rebuild Using Existing Theme (24-Hour Deadline)",
