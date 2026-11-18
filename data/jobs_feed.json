@@ -1,5 +1,35 @@
 [
   {
+    "id": "2123074416282965646",
+    "ciphertext": "~022123074416282965646",
+    "title": "Fix Google APIs on WordPress Site",
+    "description": "I need help troubleshooting and restoring Google APIs on a WordPress website that uses WP Store Locator. The current setup is not working properly, and I need someone to identify the issue, fix the integration, and ensure the store locator functions correctly again. Experience with WordPress, plugins, and API troubleshooting is important. Please share relevant examples of similar work and your approach to diagnosing and resolving the problem.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$15 - $35/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "javascript",
+      "php",
+      "html5",
+      "api-integration"
+    ],
+    "score": 3600,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-18T15:24:09+0000",
+    "addedAt": "2026-11-18T15:27:01.998Z",
+    "url": "https://www.upwork.com/jobs/~022123074416282965646",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123074416282965646/apply/"
+  },
+  {
     "id": "2123071080641878686",
     "ciphertext": "~022123071080641878686",
     "title": "WordPress Expert for Site Launch (December 12-30)",
