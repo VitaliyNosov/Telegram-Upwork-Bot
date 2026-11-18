@@ -1,10 +1,10 @@
 {
   "date": "2026-11-18",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 42,
-  "matchedFilters": 8,
+  "totalScanned": 43,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 2
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 3599,
       "url": "https://www.upwork.com/jobs/~022122839797350000837",
       "addedAt": "2026-11-17T23:52:31.046Z"
+    },
+    {
+      "title": "WordPress Multisite Developer – Replicate Existing Florist Website Across 10+ Sites",
+      "budget": "Fixed-price",
+      "score": 191,
+      "url": "https://www.upwork.com/jobs/~022123080304513973258",
+      "addedAt": "2026-11-18T15:50:43.904Z"
     },
     {
       "title": "I'm Hiring a WordPress Developer.",

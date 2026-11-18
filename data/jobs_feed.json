@@ -1,5 +1,35 @@
 [
   {
+    "id": "2123080304513973258",
+    "ciphertext": "~022123080304513973258",
+    "title": "WordPress Multisite Developer – Replicate Existing Florist Website Across 10+ Sites",
+    "description": "# WordPress Multisite Developer – Replicate Existing Florist Website Across 10+ Sites\n\n**Project Type:** Fixed Price  \n**Budget:** $1,000 for 10 websites (negotiable based on experience)  \n**Experience Level:** Intermediate to Expert\n\n## Project Overview\n\nWe operate multiple flower shop websites using WordPress Multisite and WooCommerce.\n\nWe have completed our master website, **https://downersgroveflorist.com/**, and are looking for an experienced WordPress developer to replicate its design and functionality across 10+ existing and future websites.\n\n**This is NOT a website redesign project.** The design, layouts, and functionality are already completed. We need someone who can efficiently replicate the existing setup, changing only the branding and location-specific information.\n\n## Existing Technology Stack\n\n- WordPress Multisite\n- WooCommerce\n- WooMultistore (woomultistore.com)\n- Astra Pro\n- Spectra Blocks\n- ThemeHigh Checkout Field Editor Pro\n- ThemeHigh Multi-Step Checkout\n- Rank Math SEO\n\nAll websites operate within the same WordPress Multisite network.\n\n## Scope of Work\n\n**1. Website Design Replication**\n\n- Replicate the existing homepage and other page layouts.\n- Copy Astra Pro theme settings, headers, footers, and navigation menus.\n- Transfer Spectra blocks, templates, and images.\n- Preserve desktop and mobile responsiveness.\n- Maintain consistent design and functionality across all websites.\n\n**2. WooCommerce Checkout**\n\n- Replicate ThemeHigh Checkout Field Editor Pro configurations, including custom fields and conditional rules.\n- Replicate ThemeHigh Multi-Step Checkout settings.\n- Preserve the existing checkout design and functionality.\n- Verify delivery and store pickup checkout flows.\n\n**3. Store-Specific Customization**\n\nEach website will require only limited customization:\n\n- Business name\n- Logo and favicon\n- Brand color scheme\n- Contact information and store location\n- Location-specific SEO information\n\n**4. WooMultistore Integration**\n\nWooMultistore is already installed and used for product synchronization.\n\nThe developer must ensure that the replication process does not disrupt existing product synchronization or create duplicate products.\n\n**5. SEO and Technical Configuration**\n\n- Preserve Rank Math SEO settings and structure.\n- Update domain-specific URLs, canonical tags, and business information.\n- Ensure no incorrect references to the original website remain.\n- Verify images, internal links, and navigation.\n\n## Deliverables\n\n1. Complete the first website replication for review and approval.\n2. Replicate the approved setup across the remaining websites.\n3. Verify functionality on desktop and mobile.\n4. Document the replication process so additional websites can be launched efficiently.\n\n## Ideal Candidate\n\n- Demonstrated experience with WordPress Multisite.\n- Strong knowledge of Astra Pro, Spectra, and WooCommerce.\n- Experience transferring WordPress site configurations and page-builder layouts.\n- Familiarity with WooMultistore and ThemeHigh plugins is preferred.\n- Ability to work efficiently without rebuilding existing designs manually.\n\n## Budget and Timeline\n\nWe are targeting approximately **$100 per website**, with flexibility for the initial setup and template preparation.\n\nWe expect the first website to require more work, while subsequent websites should be substantially faster to deploy.\n\nThis project may lead to ongoing work as we continue adding flower shop websites.\n\n## How to Apply\n\nPlease include:\n\n1. Your experience with WordPress Multisite and WooCommerce.\n2. How you would replicate an existing website across multiple subsites without disrupting WooCommerce data.\n3. Your proposed fixed price for the first website and each additional website.\n4. Your estimated timeline for completing 10 websites.\n\n**Please start your proposal with \"MULTISITE\" so we know you've read the requirements.**",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.55,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 84,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "woocommerce",
+      "web-programming",
+      "php",
+      "wordpress-website"
+    ],
+    "score": 191,
+    "coverLetter": "MULTISITE! Hi there, I can efficiently replicate your master downersgroveflorist.com setup across your 10+ sub-sites using WordPress Multisite, Astra Pro, Spectra, and WooMultistore without breaking product synchronization or checkout flows. \n\nWith deep experience in WordPress Multisite, WooCommerce, and plugin configurations like ThemeHigh, I know how to template and clone child sites quickly—handling asset swaps, branding, and location-specific Rank Math SEO updates systematically rather than rebuilding manually. \n\nFor pricing, I am comfortable working within your framework of ~$100 per site, with a slightly higher allocation for the initial master template setup. I can complete the first test site within 2-3 days, and roll out the remaining sites swiftly thereafter. \n\nReady to get started? Let’s connect in chat to discuss the specifics.",
+    "publishedDateTime": "2026-11-18T15:46:07+0000",
+    "addedAt": "2026-11-18T15:50:51.357Z",
+    "url": "https://www.upwork.com/jobs/~022123080304513973258",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123080304513973258/apply/"
+  },
+  {
     "id": "2123077970590310613",
     "ciphertext": "~022123077970590310613",
     "title": "Website Designer / Developer VA for Construction Company",
