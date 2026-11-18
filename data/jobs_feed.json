@@ -1,5 +1,60 @@
 [
   {
+    "id": "2123116197913564814",
+    "ciphertext": "~022123116197913564814",
+    "title": "Fast Turnaround: 15-Page WordPress Website Rebuild Using Existing Theme (24-Hour Deadline)",
+    "description": "We are looking for an experienced WordPress developer to rebuild an existing corporate/industrial website onto a fresh WordPress installation using a pre-selected ThemeForest theme (Factgo – Industry & Factory WordPress Theme). The goal of this rebuild is to modernize the site's codebase so it is fully compatible with the latest version of PHP.\n\nBecause all copy, images, theme files, and page structures already exist, this is a straightforward content migration and theme setup project. We need this completed within 24 hours of kickoff.\n\nScope of Work:\n\nEnvironment Setup: Build the site on our WP Engine staging/server environment (access and theme .zip files will be provided immediately upon hiring).\n\nPage Rebuild (15 Pages Total): Recreate 15 existing pages (Home, About Us, Contact, and 12 service/operational sub-pages) using the Factgo theme layouts. You have flexibility to adjust demo layouts as needed to best fit the existing text and imagery.\n\nSEO & URL Preservation: All 15 pages must retain their exact existing URL structures/slugs, page titles, and meta tags (Yoast/RankMath or equivalent setup) so there is zero SEO disruption.\n\nMedia & Assets: Migrate all images from the current live site, supplemented by a small folder of high-resolution stock photos we will provide.\n\nForms & Functionality: Ensure standard contact forms, navigation menus, and mobile responsiveness work smoothly on the latest PHP version.\n\nRequirements:\n\nProven experience building and customizing ThemeForest WordPress themes (specifically Elementor/WPBakery-based industrial themes like Factgo).\n\nFamiliarity with WP Engine environments and PHP 8.x compatibility.\n\nStrong attention to detail regarding URL slugs and SEO metadata migration.\n\nAvailability to start immediately and deliver the completed 15-page build within 24 hours.\n\nTo Apply:\nPlease confirm your immediate availability to meet the 24-hour turnaround and share 2–3 links to recent WordPress theme builds you have completed.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 39,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 150,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-18T18:08:44+0000",
+    "addedAt": "2026-11-18T18:11:22.772Z",
+    "url": "https://www.upwork.com/jobs/~022123116197913564814",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123116197913564814/apply/"
+  },
+  {
+    "id": "2123115778610291142",
+    "ciphertext": "~022123115778610291142",
+    "title": "Virtual Academy Developer Needed",
+    "description": "We need a developer to build a virtual academy platform for online learning. The project includes creating a user-friendly website, setting up course management, and supporting student and instructor access. You should be able to deliver a clean, responsive design and help ensure the platform is easy to use for both learners and educators. Experience with educational platforms and web development is important for this role.\n\nTell me what platform you plan to use.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.76,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "graphic-design",
+      "adobe-photoshop",
+      "microsoft-word",
+      "wordpress"
+    ],
+    "score": 95,
+    "coverLetter": "Hi! I plan to use WordPress for your virtual academy platform, leveraging advanced membership/subscription systems and robust course management tools to ensure a seamless experience for both students and educators. \n\nWith extensive experience building custom WordPress solutions—including high-performing sites like https://www.thelifeyoucansave.org/—I can deliver a clean, fully responsive design tailored to online learning. I specialize in setting up intuitive user dashboards, instructor access roles, and streamlined navigation so your academy is both engaging and easy to manage.\n\nWould you like to discuss what specific learning management features or plugins you need for the initial launch?",
+    "publishedDateTime": "2026-11-18T18:07:10+0000",
+    "addedAt": "2026-11-18T18:10:51.689Z",
+    "url": "https://www.upwork.com/jobs/~022123115778610291142",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123115778610291142/apply/"
+  },
+  {
     "id": "2123104916015641583",
     "ciphertext": "~022123104916015641583",
     "title": "Web Designer needed.",

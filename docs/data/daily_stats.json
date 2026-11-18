@@ -1,10 +1,10 @@
 {
   "date": "2026-11-18",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 54,
-  "matchedFilters": 10,
+  "totalScanned": 56,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 10,
     "woocommerce": 2
   },
   "topJobs": [
@@ -58,6 +58,13 @@
       "addedAt": "2026-11-18T15:50:43.904Z"
     },
     {
+      "title": "Fast Turnaround: 15-Page WordPress Website Rebuild Using Existing Theme (24-Hour Deadline)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022123116197913564814",
+      "addedAt": "2026-11-18T18:10:52.198Z"
+    },
+    {
       "title": "I'm Hiring a WordPress Developer.",
       "budget": "Fixed-price",
       "score": 100,
@@ -70,6 +77,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022123104916015641583",
       "addedAt": "2026-11-18T17:26:43.909Z"
+    },
+    {
+      "title": "Virtual Academy Developer Needed",
+      "budget": "Fixed-price",
+      "score": 95,
+      "url": "https://www.upwork.com/jobs/~022123115778610291142",
+      "addedAt": "2026-11-18T18:10:44.636Z"
     },
     {
       "title": "Website Designer / Developer VA for Construction Company",
