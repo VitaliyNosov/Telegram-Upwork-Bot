@@ -1,10 +1,10 @@
 {
   "date": "2026-11-18",
   "lastDigestSentDate": "2026-11-17",
-  "totalScanned": 59,
-  "matchedFilters": 13,
+  "totalScanned": 60,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 2
   },
   "topJobs": [
@@ -84,6 +84,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022123122074333667783",
       "addedAt": "2026-11-18T18:36:46.252Z"
+    },
+    {
+      "title": "Business development & partnerships: bring 10+ live sites to our new SaaS feature in 30 days ($300 per live site)",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022123132104890786005",
+      "addedAt": "2026-11-18T19:14:46.956Z"
     },
     {
       "title": "Virtual Academy Developer Needed",

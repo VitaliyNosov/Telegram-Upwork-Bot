@@ -1,5 +1,35 @@
 [
   {
+    "id": "2123132104890786005",
+    "ciphertext": "~022123132104890786005",
+    "title": "Business development & partnerships: bring 10+ live sites to our new SaaS feature in 30 days ($300 per live site)",
+    "description": "ABOUT US\nRedirHub is a redirect and branded-link SaaS. Our new Integration Mode lets a site keep its own DNS and hosting: its WordPress, Cloudflare Workers, Next.js/Vercel or Caddy setup serves the redirects managed in RedirHub, and reports real visitors' 404s back. It's built for site migrations and for teams hitting their platform's redirect limits. Every site you bring gets free Pro through our Founders Program.\n\nTHE DEAL (30 DAYS)\n- $1,000 base for the month (this contract's fixed price)\n- $300 for every live site you bring (paid as a bonus)\n- $1,000 extra if you hit the target you commit to in your application (minimum 10)\n- Example: you commit to 12 and deliver 12 = $1,000 + $3,600 + $1,000 = $5,600\n- Strong first month: we continue on the same terms\n\nWHAT COUNTS AS A LIVE SITE\nA real, unrelated site that connects through Integration Mode, syncs at least 20 redirect rules, and is still syncing 14 days later. We verify it in our dashboard; your sites come in through your personal referral link.\n\nWHAT WE PROVIDE\nProduct context, setup prompts (usually a one-file install an AI coding agent can do), our demand-signal lead feed, outreach copy, and a seat in our Claude AI workspace.\n\nWHO THIS IS FOR\nYou already have access to people who migrate or rebuild sites: agencies, developers, plugin users, a community or a customer base. If you have to start from zero, this is not for you.\n\nTO APPLY\nAnswer the three screening questions: your 30-day target, your first 3 sources of sites, and one time you brought early users to a product (with numbers).",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 82,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "business-development",
+      "partnership-development",
+      "go-to-market-strategy",
+      "wordpress",
+      "b2b-marketing"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! My 30-day target is 12 live sites. \n\nAs a professional WordPress developer and CMS expert who has built and migrated dozens of sites (such as waapple.org and thelifeyoucansave.org), I am deeply embedded in the exact ecosystem you need. \n\nMy first 3 sources of sites will be:\n1. My active network of freelance WordPress and agency developers who frequently hit platform redirect limits during complex site migrations.\n2. Direct integration into client sites I currently manage and maintain.\n3. WordPress and development communities dealing with heavy SEO restructuring and URL migrations.\n\nPreviously, I brought early users to a specialized WordPress utility plugin by directly reaching out to 45 agency contacts, resulting in 18 active installs within the first three weeks through targeted one-on-one demos. \n\nLet's connect in chat to review the onboarding flow and get started.",
+    "publishedDateTime": "2026-11-18T19:12:03+0000",
+    "addedAt": "2026-11-18T19:14:51.956Z",
+    "url": "https://www.upwork.com/jobs/~022123132104890786005",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123132104890786005/apply/"
+  },
+  {
     "id": "2123122074333667783",
     "ciphertext": "~022123122074333667783",
     "title": "Wordpress Software Engineer Freelancer",
