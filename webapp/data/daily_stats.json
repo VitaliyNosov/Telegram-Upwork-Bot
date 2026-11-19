@@ -1,10 +1,10 @@
 {
   "date": "2026-11-19",
   "lastDigestSentDate": "2026-11-18",
-  "totalScanned": 7,
-  "matchedFilters": 1,
+  "totalScanned": 8,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022123230043117380039",
       "addedAt": "2026-11-19T01:44:45.150Z"
+    },
+    {
+      "title": "WordPress Designer: Rebuild Existing Pages in a New uDesign Theme",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022123241954206736839",
+      "addedAt": "2026-11-19T02:30:42.797Z"
     }
   ]
 }

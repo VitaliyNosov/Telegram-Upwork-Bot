@@ -1,5 +1,33 @@
 [
   {
+    "id": "2123241954206736839",
+    "ciphertext": "~022123241954206736839",
+    "title": "WordPress Designer: Rebuild Existing Pages in a New uDesign Theme",
+    "description": "I run a small local business site (about 15 pages) and have purchased the uDesign theme. I need an experienced WordPress developer to rebuild my existing pages in the new theme. The content already exists, so this is a layout and theme-setup job only.\n\nALREADY DONE:\n\n• The production site has been copied to a staging site with Duplicator.\n\n• The new uDesign theme is installed and activated on staging.\n\n• A uDesign demo site is configured for reference. I’ll share access after we agree on the contract.\n\nSCOPE:\n\n• Rebuild all existing pages (about 15 including a global blog look and feel) in the new theme using my current text, images and media.\n\n• Recreate the repeating elements: using the new theme sich as hero banner, icon feature blocks, service cards, testimonial section and FAQ sections. \n\n• Set up the header, drop-down navigation, footer, logo, colors and fonts to match the new theme.\n\n• Out of scope (I’ll handle these myself): forms and plugin setup, tracking code, external links and integrations, URL/redirect checks, old theme customizations, content writing, SEO and go-live. All work is on the staging site only.\n\nREQUIRED SKILLS\n\n• Experience with ThemeForest/premium themes, ideally uDesign.\n\n• Comfortable with page builders, the block editor, Elementor and/or custom CSS.\n\n• Experience working on staging sites.\n\n\n\nTo apply, please answer these (applications without answers won’t be considered):\n\n• Send a link to one live site you built with uDesign or a similar premium theme, and tell me what you did on it.\n\n• If a page in my current content doesn’t fit any demo layout, what do you do?\n\n• What will you check before telling me a page is finished?\n\nBudget: Fixed price, $200, paid in milestones (global setup and home page, then service and about pages, then remaining pages). Open to discussion for the right candidate.\n\nTimeline: About 1-2 weeks.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.96,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 30,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-theme",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! Here are the answers to your questions:\n\n1. On sites like https://www.thelifeyoucansave.org/, I frequently work with complex ThemeForest and premium themes, structuring custom layouts using existing branding guidelines and page builder tools.\n2. If a page doesn't fit a demo layout, I adapt the theme's core components (like hero sections, icon blocks, and grid systems) natively to match your brand styling cleanly without breaking responsiveness.\n3. Before calling a page finished, I cross-check it against your current staging content for missing text/media, verify mobile/tablet responsiveness, and ensure typography and colors match your global uDesign settings.\n\nWith your staging environment already set up with Duplicator and the uDesign theme ready, I can cleanly rebuild your ~15 pages, global header/footer, and blog layout within your 1-2 week timeline. \n\nShall we discuss your milestone setup in chat?",
+    "publishedDateTime": "2026-11-19T02:28:27+0000",
+    "addedAt": "2026-11-19T02:30:48.025Z",
+    "url": "https://www.upwork.com/jobs/~022123241954206736839",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123241954206736839/apply/"
+  },
+  {
     "id": "2123230043117380039",
     "ciphertext": "~022123230043117380039",
     "title": "Improve performance of wordpress elementor website",
