@@ -1,74 +1,8 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "lastDigestSentDate": "2026-11-19",
-  "totalScanned": 53,
-  "matchedFilters": 9,
-  "byKeyword": {
-    "wordpress developer": 9
-  },
-  "topJobs": [
-    {
-      "title": "I am looking for an experienced WordPress developer",
-      "budget": "$25-$45/hr",
-      "score": 4600,
-      "url": "https://www.upwork.com/jobs/~022123360074520067170",
-      "addedAt": "2026-11-19T13:20:45.581Z"
-    },
-    {
-      "title": "I am looking for an experienced WordPress developer",
-      "budget": "$20-$35/hr",
-      "score": 3600,
-      "url": "https://www.upwork.com/jobs/~022123362033574614670",
-      "addedAt": "2026-11-19T13:28:43.434Z"
-    },
-    {
-      "title": "WordPress PHP Version Update",
-      "budget": "$15-$35/hr",
-      "score": 3600,
-      "url": "https://www.upwork.com/jobs/~022123448282280892046",
-      "addedAt": "2026-11-19T16:10:45.633Z"
-    },
-    {
-      "title": "Improve performance of wordpress elementor website",
-      "budget": "$10-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022123230043117380039",
-      "addedAt": "2026-11-19T01:44:45.150Z"
-    },
-    {
-      "title": "Assistance with website build - Wordpress, using Elementor and Listivo",
-      "budget": "$15-$30/hr",
-      "score": 3095,
-      "url": "https://www.upwork.com/jobs/~022123313737099377762",
-      "addedAt": "2026-11-19T07:16:44.413Z"
-    },
-    {
-      "title": "Wordpress Maintenance Specialist (Freelance)",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022123464205372629205",
-      "addedAt": "2026-11-19T20:15:00.464Z"
-    },
-    {
-      "title": "wo-Page Children's Author Website with Ecommerce & Order Management",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022123516249664004309",
-      "addedAt": "2026-11-19T20:42:58.999Z"
-    },
-    {
-      "title": "WordPress Designer: Rebuild Existing Pages in a New uDesign Theme",
-      "budget": "Fixed-price",
-      "score": 149,
-      "url": "https://www.upwork.com/jobs/~022123241954206736839",
-      "addedAt": "2026-11-19T02:30:42.797Z"
-    },
-    {
-      "title": "Wordpress website food",
-      "budget": "Fixed-price",
-      "score": 147,
-      "url": "https://www.upwork.com/jobs/~022123509608130507759",
-      "addedAt": "2026-11-19T20:15:02.894Z"
-    }
-  ]
+  "totalScanned": 1,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
