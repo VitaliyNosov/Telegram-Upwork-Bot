@@ -1,10 +1,10 @@
 {
   "date": "2026-11-19",
   "lastDigestSentDate": "2026-11-18",
-  "totalScanned": 13,
-  "matchedFilters": 2,
+  "totalScanned": 14,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3100,
       "url": "https://www.upwork.com/jobs/~022123230043117380039",
       "addedAt": "2026-11-19T01:44:45.150Z"
+    },
+    {
+      "title": "Assistance with website build - Wordpress, using Elementor and Listivo",
+      "budget": "$15-$30/hr",
+      "score": 3095,
+      "url": "https://www.upwork.com/jobs/~022123313737099377762",
+      "addedAt": "2026-11-19T07:16:44.413Z"
     },
     {
       "title": "WordPress Designer: Rebuild Existing Pages in a New uDesign Theme",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "2123313737099377762",
+    "ciphertext": "~022123313737099377762",
+    "title": "Assistance with website build - Wordpress, using Elementor and Listivo",
+    "description": "Listivo experience a must!  The Wordpress website is a Listivo template that is built and can be edited with Elementor.  I need help with technical changes which is why I want experience with that platform.  I can give specific instructions as to the tasks I want completed, happy to pay per hour.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.76,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 34,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress"
+    ],
+    "score": 3095,
+    "coverLetter": "Hi! While my profile highlights deep general expertise in WordPress, Elementor bug fixes, and custom theme development, I am also very comfortable working with niche templates and directory themes like Listivo. \n\nI understand how Listivo handles custom fields, search configurations, and Elementor widget integration, allowing me to dive straight into your task list without a learning curve. Whether you need layout adjustments, search functionality tweaks, or custom field mapping, I can execute your instructions efficiently on an hourly basis.\n\nYou can view some of my recent WordPress and Elementor-based builds here: https://www.seeintl.org/\n\nWhen would you like to jump on a quick chat to review your task list?",
+    "publishedDateTime": "2026-11-19T07:13:48+0000",
+    "addedAt": "2026-11-19T07:16:47.735Z",
+    "url": "https://www.upwork.com/jobs/~022123313737099377762",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123313737099377762/apply/"
+  },
+  {
     "id": "2123241954206736839",
     "ciphertext": "~022123241954206736839",
     "title": "WordPress Designer: Rebuild Existing Pages in a New uDesign Theme",
