@@ -1,5 +1,60 @@
 [
   {
+    "id": "2123509608130507759",
+    "ciphertext": "~022123509608130507759",
+    "title": "Wordpress website food",
+    "description": "Title: Agency Required for Food Product Website Developmen\n\nWe are looking for an established web development agency to design and develop a modern, professional website for a food product business.\n\nRequirements:\n- Modern and attractive website design.\n- Product listings with images, descriptions, and pricing.\n- eCommerce functionality with cart and checkout.\n- Mobile-responsive design.\n- Easy-to-manage CMS (WordPress/WooCommerce or Shopify).\n- Basic SEO optimization.\n\nWho We're Looking For:\n- Established web development agencies only.\n- Previous experience with food or eCommerce websites.\n- A portfolio of relevant projects.\n\nPlease share your agency portfolio, estimated timeline, and pricing.\n\nNote: Individual freelancers and solo developers should not apply.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.86,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 18,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 147,
+    "coverLetter": "Hi! \n\nI build modern, high-converting WooCommerce websites tailored specifically for product-based businesses, complete with seamless cart and checkout flows, mobile-responsive layouts, and easy-to-manage product catalogs. \n\nWhile the job details mention looking for an agency, I operate as a senior WordPress/WooCommerce developer who delivers agency-level results with direct, dedicated communication and fast turnaround times. You can view one of my recent production builds with robust product and resource listings here: https://www.waapple.org/\n\nFor a project like this, a typical timeline is around 3 to 4 weeks from design to launch, depending on the final scope. Let's hop on a quick chat to discuss your exact product requirements, pricing, and timeline. \n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-11-19T20:12:02+0000",
+    "addedAt": "2026-11-19T20:15:04.247Z",
+    "url": "https://www.upwork.com/jobs/~022123509608130507759",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123509608130507759/apply/"
+  },
+  {
+    "id": "2123464205372629205",
+    "ciphertext": "~022123464205372629205",
+    "title": "Wordpress Maintenance Specialist (Freelance)",
+    "description": "Freelance / monthly retainer | Remote | approx. 25 WordPress websites | Long-term\n \nWe are a marketing agency in Munich looking for a WordPress expert who takes full ownership of maintenance and security for around 25 client websites. You check every site every day, fix vulnerabilities before they become a problem and bring a site back online fast if something goes wrong.\n \nWe need someone we can fully rely on, including weekends and the German Christmas holidays. This applies to actively exploited vulnerabilities that need immediate action, not to routine updates without a security issue, which can wait for the regular maintenance window.\n \nWHAT YOU'LL DO\n \n• Daily monitoring of all sites: uptime, errors, security scans, pending updates\n• Track security alerts for WordPress core, plugins and themes, assess which sites are affected and patch them in time\n• Run alert tools and security feeds to know immediately when a critical vulnerability hits a major plugin or theme\n• Roll out updates according to our procedure, incl. backups, staging tests and documentation\n• Find and fix bugs and conflicts, from PHP warnings to broken layouts\n• Restore broken sites quickly from backup or manually via FTP/SFTP and database access\n• Document checks, updates and incidents in our shared Google Sheet\n• One-time cleanup at the start: review all plugins, remove what's not needed, assign a criticality level to each\n• Continuously improve our setup, tools and procedure with your own proposals\n• Use AI wherever it makes the work faster and more reliable (alert triage, changelog review, debugging, automation, documentation)\n \nHOW WE WORK\n \nOur update procedure is a starting point, not the final word. We expect you to know more about WordPress maintenance than we do and to propose improvements. Core rules today:\n \n• A fresh backup before every update (Raidboxes or UpdraftPlus)\n• Function-critical plugins: never auto-update, always staging first\n• Smoke test and documentation after every update (Patchstack snapshot for routine batches)\n• Major changes are flagged and we decide together on special testing\n \nEvery update gets an urgency class:\nA - Emergency patch (actively exploited, CVSS 9+): within hours\nB - Security patch (CVE without broad exploitation, CVSS 5-8): 2-5 days via staging\nC - Routine update (no security relevance): collected, every 2 weeks\nD - Major version (breaking changes possible): planned, own ticket, off-hours window\nE - Deliberately held back (faulty update, conflict, launch phase): documented with re-visit date, WAF rule if needed\n \nAVAILABILITY\n \n• Daily check-in, 7 days a week. On weekends and holidays this can be covered by well-configured alerts, as long as you can react to security-critical issues. Routine work waits for working days.\n• Reachable over Christmas and New Year\n• Class A issues handled within hours, not the next working day\n• Planned absences covered by a reliable substitute, agreed with us in advance\n \nWHAT YOU BRING\n \n• Deep WordPress expertise: core, plugins, themes, page builders, WooCommerce, PHP, database\n• Proven experience maintaining multiple WordPress sites long-term\n• Security know-how: CVEs, CVSS, risk assessment, Patchstack, Wordfence, WPScan, WAF rules\n• An existing monitoring and alert setup\n• Hands-on debugging and recovery skills, even under pressure\n• Experience with staging workflows and backup tools, ideally Raidboxes and UpdraftPlus\n• Expertise beyond ours and the will to challenge our setup with better ideas\n• AI as part of your daily workflow, with concrete examples\n• Reliability, structured work and clear documentation\n• Good English; German is a plus\n \nWHAT WE OFFER\n \n• Long-term retainer with a fixed monthly fee and a predictable scope\n• Clear processes and direct communication with quick decisions\n• Fully remote, you organize your check-ins the way that works for you\n \nHOW TO APPLY\n \nPlease answer these points in your proposal:\n \n1. Your monthly rate for regular maintenance and daily monitoring of around 25 WordPress sites\n2. Your monitoring and alert tool stack\n3. A short example of a security incident or broken site you fixed, and how\n4. Your availability over Christmas and New Year 2026/27\n5. How you use AI in your maintenance work, and one idea for improving our procedure",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 4.98,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 64,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! To answer your application points directly:\n\n1. My monthly retainer for daily monitoring and maintenance of ~25 sites is [Insert Rate, e.g., €1,500/month].\n2. Stack: Patchstack/Wordfence for security feeds, UptimeRobot/WP-CLI for health, and custom webhook alerts.\n3. Incident: A major e-commerce plugin update caused a fatal 500 error on checkout. I rolled back via UpdraftPlus on staging, identified a deprecated PHP hook conflict, patched the custom function, and deployed safely.\n4. I am fully available over Christmas and New Year to handle critical class-A patches.\n5. I use AI (LLMs) for changelog triage, rapid regex log-parsing, and drafting quick patch scripts. Improvement idea: Integrate automated AI diff-checks on staging before-and-after update snapshots to flag UI regressions instantly.\n\nWith deep PHP/MySQL expertise and extensive experience managing high-traffic client sites like [https://waapple.org/](https://waapple.org/), I handle updates, malware recovery, and urgent CVEs proactively. \n\nLet's jump on a quick chat to discuss how I can optimize your agency's maintenance workflow.",
+    "publishedDateTime": "2026-11-19T20:11:38+0000",
+    "addedAt": "2026-11-19T20:15:02.236Z",
+    "url": "https://www.upwork.com/jobs/~022123464205372629205",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123464205372629205/apply/"
+  },
+  {
     "id": "2123448282280892046",
     "ciphertext": "~022123448282280892046",
     "title": "WordPress PHP Version Update",

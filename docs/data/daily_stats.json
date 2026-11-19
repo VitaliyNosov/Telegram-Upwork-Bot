@@ -1,10 +1,10 @@
 {
   "date": "2026-11-19",
   "lastDigestSentDate": "2026-11-19",
-  "totalScanned": 44,
-  "matchedFilters": 6,
+  "totalScanned": 46,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -43,11 +43,25 @@
       "addedAt": "2026-11-19T07:16:44.413Z"
     },
     {
+      "title": "Wordpress Maintenance Specialist (Freelance)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022123464205372629205",
+      "addedAt": "2026-11-19T20:15:00.464Z"
+    },
+    {
       "title": "WordPress Designer: Rebuild Existing Pages in a New uDesign Theme",
       "budget": "Fixed-price",
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022123241954206736839",
       "addedAt": "2026-11-19T02:30:42.797Z"
+    },
+    {
+      "title": "Wordpress website food",
+      "budget": "Fixed-price",
+      "score": 147,
+      "url": "https://www.upwork.com/jobs/~022123509608130507759",
+      "addedAt": "2026-11-19T20:15:02.894Z"
     }
   ]
 }
