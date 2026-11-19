@@ -1,5 +1,32 @@
 [
   {
+    "id": "2123230043117380039",
+    "ciphertext": "~022123230043117380039",
+    "title": "Improve performance of wordpress elementor website",
+    "description": "We are looking for an experienced WordPress and Elementor performance specialist to optimize the page speed and Core Web Vitals of our existing website: \n\n\nhttps://pemvish.com/.\n\nImportant Note: We are not looking for a website redesign, UI/UX overhaul, or rebuild. The goal is strictly to take the current live site as-is and significantly improve its loading times and performance scores.\n\nScope of Work:\n• Conduct a full speed audit (Google PageSpeed Insights, GTmetrix) to identify bottlenecks on both mobile and desktop.\n• Optimize Elementor output, bloat, DOM size, and unused CSS/JS without breaking existing layouts or interactive elements (popups, sliders, forms).\n• Configure caching, asset minification, and script deferral/delay.\n• Optimize image delivery (proper sizing, lazy loading, WebP conversion, and CDN integration).\n• Clean up database overhead and review/optimize active plugins to reduce server response time (TTFB).\n• Ensure Core Web Vitals (LCP, INP, CLS) pass on both mobile and desktop while maintaining 100% visual and functional integrity.\nRequirements:\n• Proven track record of speeding up WordPress websites built specifically with Elementor.\n• Deep understanding of Core Web Vitals, caching plugins (e.g., WP Rocket, Perfmatters, LiteSpeed), and CDN setup (e.g., Cloudflare).\n• Ability to troubleshoot and resolve render-blocking resources without breaking Elementor widgets or popups.\n\nTo Apply, Please Include:\n1. Links to 2–3 WordPress + Elementor sites you have optimized, along with before/after PageSpeed Insights or GTmetrix screenshots.\n2. A brief summary of the main speed bottlenecks you notice right away on https://pemvish.com/ and how you plan to fix them.\n3. Your estimated turnaround time.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 38,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "page-speed-optimization"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! I can help you significantly improve the speed and Core Web Vitals of pemvish.com without touching your design or breaking your Elementor widgets, popups, and forms. \n\nLooking at your site right now, the typical bottlenecks with Elementor setups usually stem from unoptimized DOM sizes, render-blocking JS/CSS from excessive widgets, unoptimized images, and high server response times (TTFB) due to database and plugin bloat. My approach involves cleaning up Elementor output, implementing advanced script deferral/delay, setting up proper caching and CDN integration, converting images to WebP, and streamlining the database.\n\nFor similar speed optimization projects, you can check out my work on sites like https://www.cchpca.0rg/ and https://www.snopud.com/, where I successfully boosted performance scores while preserving visual integrity. \n\nI can complete this optimization within 3 to 4 days. Are you available for a quick chat to discuss the current metrics?",
+    "publishedDateTime": "2026-11-19T01:41:07+0000",
+    "addedAt": "2026-11-19T01:44:53.120Z",
+    "url": "https://www.upwork.com/jobs/~022123230043117380039",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123230043117380039/apply/"
+  },
+  {
     "id": "2123169584374635166",
     "ciphertext": "~022123169584374635166",
     "title": "WordPress & Cloudflare Developer Needed Google Ads Landing Page Migration and Tracking",

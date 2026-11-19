@@ -1,8 +1,18 @@
 {
   "date": "2026-11-19",
   "lastDigestSentDate": "2026-11-18",
-  "totalScanned": 5,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 6,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Improve performance of wordpress elementor website",
+      "budget": "$10-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022123230043117380039",
+      "addedAt": "2026-11-19T01:44:45.150Z"
+    }
+  ]
 }
