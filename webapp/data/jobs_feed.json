@@ -1,5 +1,35 @@
 [
   {
+    "id": "2123362033574614670",
+    "ciphertext": "~022123362033574614670",
+    "title": "I am looking for an experienced WordPress developer",
+    "description": "I am looking for an experienced WordPress developer to create a professional, fully functional eCommerce website using only the following three plugins:\n\nRequired Plugins:\n\nElementor – https://elementor.com/\nThe Elephanta – https://theelephanta.com/\nWooCommerce – https://woocommerce.com/\nProject Requirements:\n\nDevelop a modern, professional, and user-friendly eCommerce website.\nEnsure a responsive design across desktop, tablet, and mobile devices.\nImplement essential eCommerce functionalities using WooCommerce.\nCreate an attractive homepage, product pages, shop page, cart, and checkout pages.\nEnsure smooth navigation and a seamless shopping experience.\nMaintain good website performance and basic SEO practices.\nDo not use any additional plugins beyond the three listed above.\nDeveloper Requirements:\n\nPlease share your experience in WordPress website development and provide examples of eCommerce websites you have personally developed using WordPress.\n\nI am specifically interested in reviewing your WordPress portfolio, so please share only WordPress-developed websites.\n\nPlease also confirm that you can complete this project using only the three specified plugins.",
+    "isHourly": true,
+    "hourlyBudgetMin": 20,
+    "hourlyBudgetMax": 35,
+    "budgetDisplay": "$20 - $35/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "web-programming",
+      "web-design",
+      "html"
+    ],
+    "score": 3600,
+    "coverLetter": "Hi! I confirm that I can build your complete eCommerce website using strictly the three specified plugins: Elementor, The Elephanta, and WooCommerce, without adding any unnecessary bloat. \n\nWith extensive experience in WordPress, PHP, and WooCommerce development, I specialize in creating fast, fully responsive, and high-converting online stores. I will design a seamless user experience across your homepage, shop, product, cart, and checkout pages while ensuring strong performance and basic SEO practices. \n\nYou can review my WordPress eCommerce and custom build experience here: https://www.thelifeyoucansave.org/\n\nLet’s chat about your design preferences and get started on this project!",
+    "publishedDateTime": "2026-11-19T13:25:38+0000",
+    "addedAt": "2026-11-19T13:28:52.338Z",
+    "url": "https://www.upwork.com/jobs/~022123362033574614670",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123362033574614670/apply/"
+  },
+  {
     "id": "2123360074520067170",
     "ciphertext": "~022123360074520067170",
     "title": "I am looking for an experienced WordPress developer",
