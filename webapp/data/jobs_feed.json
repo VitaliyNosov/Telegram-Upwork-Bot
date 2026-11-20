@@ -1,5 +1,34 @@
 [
   {
+    "id": "2123799114204504519",
+    "ciphertext": "~022123799114204504519",
+    "title": "WordPress Malware Root Cause Analysis",
+    "description": "We need a freelancer to investigate why malware keeps reappearing on 8 WordPress sites after host cleanup. The work includes reviewing each site, identifying the source of the infection, and recommending a permanent fix. You should be able to explain the root cause clearly and provide steps to prevent future re-infection. Experience with WordPress security and malware removal is important for this project.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$14 - $25/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "virus-removal",
+      "cpanel"
+    ],
+    "score": 2600,
+    "coverLetter": "Hi!\n\nReappearing malware usually means the initial cleanup only scratched the surface—leaving behind a backdoor, a vulnerable nulled plugin/theme, or a compromised server-level file in cPanel that standard scanners miss. \n\nAs a WordPress security and malware recovery expert, I specialize in deep root-cause analysis. Instead of just wiping the surface, I trace the infection vector across your core files, database, and server environment, identify the exact entry point, and implement robust security hardening to permanently block future reinfections across all 8 sites.\n\nAre these 8 sites hosted on the same server or cPanel account? Let's chat so I can outline my investigation process.",
+    "publishedDateTime": "2026-11-20T15:22:31+0000",
+    "addedAt": "2026-11-20T15:25:05.497Z",
+    "url": "https://www.upwork.com/jobs/~022123799114204504519",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123799114204504519/apply/"
+  },
+  {
     "id": "2123780354363906718",
     "ciphertext": "~022123780354363906718",
     "title": "Website IT Expert for Website Update",

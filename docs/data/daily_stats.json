@@ -1,10 +1,10 @@
 {
   "date": "2026-11-20",
   "lastDigestSentDate": "2026-11-19",
-  "totalScanned": 37,
-  "matchedFilters": 6,
+  "totalScanned": 38,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 1
   },
   "topJobs": [
@@ -28,6 +28,13 @@
       "score": 2950,
       "url": "https://www.upwork.com/jobs/~022123600206100947398",
       "addedAt": "2026-11-20T02:14:56.505Z"
+    },
+    {
+      "title": "WordPress Malware Root Cause Analysis",
+      "budget": "$14-$25/hr",
+      "score": 2600,
+      "url": "https://www.upwork.com/jobs/~022123799114204504519",
+      "addedAt": "2026-11-20T15:24:58.878Z"
     },
     {
       "title": "WooCommerce to Shopify Migration",
