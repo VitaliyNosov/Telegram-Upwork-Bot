@@ -1,10 +1,10 @@
 {
   "date": "2026-11-20",
   "lastDigestSentDate": "2026-11-19",
-  "totalScanned": 33,
-  "matchedFilters": 4,
+  "totalScanned": 34,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 3,
+    "wordpress developer": 4,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 10100,
       "url": "https://www.upwork.com/jobs/~022123642970585693282",
       "addedAt": "2026-11-20T05:06:57.769Z"
+    },
+    {
+      "title": "Freelancer Website Editor and Designer",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022123758844459344326",
+      "addedAt": "2026-11-20T12:44:57.036Z"
     },
     {
       "title": "Seeking Wordpress developer experienced with ACF Pro and custom themes",
