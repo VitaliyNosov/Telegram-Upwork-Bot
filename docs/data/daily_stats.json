@@ -1,10 +1,10 @@
 {
   "date": "2026-11-21",
   "lastDigestSentDate": "2026-11-20",
-  "totalScanned": 3,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3400,
       "url": "https://www.upwork.com/jobs/~022123906954165100757",
       "addedAt": "2026-11-20T22:34:57.451Z"
+    },
+    {
+      "title": "WordPress Developer & SEO Specialist – National Sewer Line Replacement Cost Calculator Website",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022123915676036109966",
+      "addedAt": "2026-11-20T23:08:58.960Z"
     }
   ]
 }
