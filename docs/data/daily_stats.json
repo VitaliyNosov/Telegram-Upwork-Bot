@@ -1,10 +1,10 @@
 {
   "date": "2026-11-20",
   "lastDigestSentDate": "2026-11-20",
-  "totalScanned": 50,
-  "matchedFilters": 10,
+  "totalScanned": 51,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 9,
+    "wordpress developer": 10,
     "woocommerce": 1
   },
   "topJobs": [
@@ -77,6 +77,13 @@
       "score": 0,
       "url": "https://www.upwork.com/jobs/~022123866983337557090",
       "addedAt": "2026-11-20T19:52:59.084Z"
+    },
+    {
+      "title": "Expert Adult Website Developer Needed",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022123891558611645423",
+      "addedAt": "2026-11-20T21:32:59.656Z"
     }
   ]
 }
