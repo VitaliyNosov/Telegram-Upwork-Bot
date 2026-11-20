@@ -1,5 +1,34 @@
 [
   {
+    "id": "2123847968060537866",
+    "ciphertext": "~022123847968060537866",
+    "title": "Website Developer for business",
+    "description": "My current site is corebball.com. \n\nWe need a web developer to improve our real estate company website and make it more effective for our business. The work includes updating the site, improving its performance, and helping it better support our goals. We’re looking for someone who can assess the current site, recommend improvements, and implement changes that help the website work better for our business.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "seo",
+      "wordpress",
+      "web-programming"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI took a quick look at corebball.com and can help you optimize it to better support your real estate business goals. \n\nWith extensive experience in WordPress development, site performance optimization, and custom functionality, I specialize in assessing existing websites to identify bottlenecks, improve loading speeds, and implement structural updates that drive real business results. Whether it's streamlining the user journey for prospective clients, improving SEO foundations, or refining the overall design and backend, I can make sure your site works hard for your brand. \n\nFor a look at my past work with organization and business websites, you can check out https://www.thelifeyoucansave.org/. \n\nWhat are the top 2-3 specific pain points or goals you’d like to tackle first on the current site? Let's chat about how to get started.",
+    "publishedDateTime": "2026-11-20T18:36:34+0000",
+    "addedAt": "2026-11-20T18:38:59.869Z",
+    "url": "https://www.upwork.com/jobs/~022123847968060537866",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123847968060537866/apply/"
+  },
+  {
     "id": "2123828245072968802",
     "ciphertext": "~022123828245072968802",
     "title": "Website Repair and Maintenance",
