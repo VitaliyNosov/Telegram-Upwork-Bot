@@ -1,12 +1,19 @@
 {
   "date": "2026-11-20",
   "lastDigestSentDate": "2026-11-19",
-  "totalScanned": 15,
-  "matchedFilters": 1,
+  "totalScanned": 16,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Website Creation for Roofing Business",
+      "budget": "$15-$100/hr",
+      "score": 10100,
+      "url": "https://www.upwork.com/jobs/~022123642970585693282",
+      "addedAt": "2026-11-20T05:06:57.769Z"
+    },
     {
       "title": "Seeking Wordpress developer experienced with ACF Pro and custom themes",
       "budget": "$12-$28/hr",

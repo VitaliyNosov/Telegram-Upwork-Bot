@@ -1,5 +1,34 @@
 [
   {
+    "id": "2123642970585693282",
+    "ciphertext": "~022123642970585693282",
+    "title": "Website Creation for Roofing Business",
+    "description": "I work for a contractor that does roofing and painting, and I need help creating my own website using the same company name I already work with. The goal is to build a site that supports my sales funnel and helps me run Meta ads. I’m also likely to need a Facebook page for marketing. I’m open to a success-based compensation model, paying $75 to $100 per scheduled lead I meet, and I’m happy to work out an initial retainer as well. Let me know if you’d be interested in partnering up.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$15 - $100/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "seo",
+      "wordpress"
+    ],
+    "score": 10100,
+    "coverLetter": "Hi! \n\nBuilding a high-converting website tailored specifically for a roofing and painting sales funnel—especially one optimized to feed and track Meta ads—is right in my wheelhouse. I build clean, fast WordPress sites designed to turn local traffic into booked appointments.\n\nFor a contractor business, speed, clear calls-to-action, and mobile responsiveness are critical to lowering your cost per lead on Facebook ads. I can set up a streamlined, professional site that integrates smoothly with your lead generation goals, contact forms, and tracking pixels. You can check out a sample of my professional WordPress work here: https://www.snopud.com/\n\nWhile I work on standard project or retainer terms rather than pay-per-lead, I’m very comfortable building a site that is structured explicitly to maximize your conversion rates. \n\nAre you open to discussing a fixed initial setup to get your sales funnel and Meta tracking live?",
+    "publishedDateTime": "2026-11-20T05:03:17+0000",
+    "addedAt": "2026-11-20T05:06:59.238Z",
+    "url": "https://www.upwork.com/jobs/~022123642970585693282",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123642970585693282/apply/"
+  },
+  {
     "id": "2123600206100947398",
     "ciphertext": "~022123600206100947398",
     "title": "Seeking Wordpress developer experienced with ACF Pro and custom themes",
