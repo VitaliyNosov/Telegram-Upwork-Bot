@@ -1,10 +1,10 @@
 {
   "date": "2026-11-20",
   "lastDigestSentDate": "2026-11-19",
-  "totalScanned": 46,
-  "matchedFilters": 9,
+  "totalScanned": 47,
+  "matchedFilters": 10,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 9,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 93,
       "url": "https://www.upwork.com/jobs/~022123677090283659477",
       "addedAt": "2026-11-20T07:20:57.250Z"
+    },
+    {
+      "title": "Website Developer Needed for Dynamic Ongoing Project",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022123866983337557090",
+      "addedAt": "2026-11-20T19:52:59.084Z"
     }
   ]
 }
