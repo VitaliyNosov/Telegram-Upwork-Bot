@@ -1,5 +1,35 @@
 [
   {
+    "id": "2123600206100947398",
+    "ciphertext": "~022123600206100947398",
+    "title": "Seeking Wordpress developer experienced with ACF Pro and custom themes",
+    "description": "We’re a small digital marketing agency seeking a full stack web developer for occasional subcontracted work. You’ll help build and maintain custom WordPress websites, create responsive layouts, and support ongoing site updates. The ideal freelancer can work independently, communicate clearly, and contribute to reliable, scalable web projects. This is a part-time opportunity for someone who can step in as needed and deliver clean, functional work for clients.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$12 - $28/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 24,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "javascript",
+      "css"
+    ],
+    "score": 2950,
+    "coverLetter": "Hi! \n\nI build custom WordPress websites using ACF Pro, custom themes, and clean code, making me a great fit for your agency's ongoing subcontracted work. \n\nI regularly develop bespoke sites from scratch, ensuring fully responsive layouts and scalable architectures that are easy for clients to maintain. For example, I built [https://www.seeintl.org/](https://www.seeintl.org/) using a tailored approach tailored to specific client requirements. \n\nI work independently, communicate clearly, and can seamlessly step in to handle new builds, updates, and troubleshooting as your agency's client load fluctuates. \n\nWhat is your typical turnaround time for custom site builds, and how do you prefer to manage task handoffs?\n\nBest,\n[Your Name]",
+    "publishedDateTime": "2026-11-20T02:12:01+0000",
+    "addedAt": "2026-11-20T02:14:57.687Z",
+    "url": "https://www.upwork.com/jobs/~022123600206100947398",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123600206100947398/apply/"
+  },
+  {
     "id": "2123516249664004309",
     "ciphertext": "~022123516249664004309",
     "title": "wo-Page Children's Author Website with Ecommerce & Order Management",

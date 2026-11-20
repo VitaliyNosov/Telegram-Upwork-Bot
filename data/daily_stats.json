@@ -1,8 +1,18 @@
 {
   "date": "2026-11-20",
   "lastDigestSentDate": "2026-11-19",
-  "totalScanned": 12,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 13,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Seeking Wordpress developer experienced with ACF Pro and custom themes",
+      "budget": "$12-$28/hr",
+      "score": 2950,
+      "url": "https://www.upwork.com/jobs/~022123600206100947398",
+      "addedAt": "2026-11-20T02:14:56.505Z"
+    }
+  ]
 }
