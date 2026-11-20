@@ -1,8 +1,18 @@
 {
   "date": "2026-11-21",
   "lastDigestSentDate": "2026-11-20",
-  "totalScanned": 0,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Houzez+Buying Buddy Real Estate Website",
+      "budget": "$17.5-$32.5/hr",
+      "score": 3400,
+      "url": "https://www.upwork.com/jobs/~022123906954165100757",
+      "addedAt": "2026-11-20T22:34:57.451Z"
+    }
+  ]
 }

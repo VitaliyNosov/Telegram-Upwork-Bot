@@ -1,5 +1,37 @@
 [
   {
+    "id": "2123906954165100757",
+    "ciphertext": "~022123906954165100757",
+    "title": "Houzez+Buying Buddy Real Estate Website",
+    "description": "**Project Overview:**\nI am a licensed real estate agent in North County San Diego migrating my existing website off Easy Agent PRO (EAP) onto a self-hosted WordPress site using the **Houzez** theme (specifically the **Warren** demo as our base) and the **Buying Buddy IDX/CRM** plugin. \n\nMy business focuses heavily on helping older homeowners and families prepare and sell homes—including pre-sale home preparation with $0 upfront cost (reimbursed at closing), downsizing, inherited/probate properties, and as-is cash offers. I need a clean, high-trust, easy-to-read website that converts seller leads while providing a seamless MLS search experience via Buying Buddy. \n\n**Scope of Work:** \n\n1. **WordPress & Houzez Setup (Warren Base + Custom Sections):** \n\n  * Install WordPress, the Houzez theme, and import the **Warren** demo onto my hosting account.\n  * Use **Houzez Studio** / Elementor to blend in a few specific section layouts from other Houzez demos while maintaining consistent global typography, colors, and clean spacing.\n  * Ensure high accessibility and readability for an older demographic (clear contrast, legible font sizes, static hero banner without fast auto-rotating sliders, and a prominent clickable phone number in the header).\n2. **Custom Homepage & Seller-Focused Landing Pages:** \n\n  * **Homepage Layout:** Build a seller-first homepage featuring: \n\n    * Static hero section highlighting our *$0 Upfront Pre-Sale Home Prep & Cash Assistance* program with a clear CTA button.\n    * 6-card \"How We Help\" grid (Pre-Sale Home Prep, Downsizing & Relocation, Inherited/Probate Homes, Deferred Maintenance, Moving Cash Advance, As-Is Cash Offer).\n    * Simple 3-Step Process section (*Walkthrough & Net Sheet -We Prep & Advance Costs - Sell for Top Dollar*).\n    * Before & After project showcase + client testimonials section.\n    * Buying Buddy featured listings & market snapshot placed lower on the page.\n  * **2 Dedicated Lead-Capture Landing Pages:** \n\n    * *Senior Downsizing & Transition Guide / Consultation Page*\n    * *Compare Your Selling Options Page* (As-Is Cash vs. Prepped & Listed)\n3. **Buying Buddy IDX Integration & Custom CSS Styling:** \n\n  * Install and configure the **Buying Buddy** WordPress plugin and shortcodes (property search bar, map search, featured listings grid, and neighborhood hotsheets).\n  * Customize Buying Buddy’s widget themes and CSS so all search bars, buttons, map pins, and property cards match the **Warren** demo’s color palette and typography seamlessly.\n  * Ensure all Houzez lead forms and Buying Buddy registration/inquiry forms route cleanly into the Buying Buddy CRM without duplicate notifications.\n4. **Migration, SEO & Launch:** \n\n  * Migrate existing blog posts and core community/neighborhood pages from my current Easy Agent PRO site.\n  * Set up proper **301 redirects** for all legacy URLs to preserve existing Google rankings and SEO equity.\n  * Optimize site speed (caching, image compression) and mobile responsiveness across iOS/Android.\n\n**Budget & Milestone Structure:**\nThe posted budget is a starting placeholder—I am open to realistic fixed-price quotes once we review my current EAP site and exact section references together. To keep everything clear and structured, I plan to break the contract into three escrow milestones: \n\n* **Milestone 1:** WordPress + Warren demo setup, custom homepage layout, and 2 seller landing pages built.\n* **Milestone 2:** Buying Buddy IDX integration, custom CSS styling to match Warren, and CRM lead routing tested.\n* **Milestone 3:** EAP content migration, 301 redirects, mobile/speed optimization, and live launch.\n\n**Required Qualifications & Ownership:** \n\n* Proven portfolio building real estate websites specifically with **Houzez** and **Elementor**.\n* Direct experience integrating and custom-styling **Buying Buddy IDX** widgets (or similar shortcode-based IDX plugins) so they match the parent theme.\n* All accounts (hosting, domain, Houzez license, Buying Buddy subscription) will be registered under my name and billing.\n\n**How to Apply:**\nPlease start your proposal with the word **\"Oceanside\"** so I know you read the full scope, and include: \n\n1. Links to 2–3 live Houzez + IDX websites you have built (specifically highlighting any custom IDX styling).\n2. Your estimated fixed-price quote and turnaround time.",
+    "isHourly": true,
+    "hourlyBudgetMin": 17.5,
+    "hourlyBudgetMax": 32.5,
+    "budgetDisplay": "$17.5 - $32.5/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 58,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "responsive-design",
+      "godaddy",
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "seo"
+    ],
+    "score": 3400,
+    "coverLetter": "Oceanside! Hi! I read your complete scope and would love to help you migrate off Easy Agent PRO and build a high-converting, senior-friendly real estate site using the Houzez Warren demo and Buying Buddy IDX.\n\nWith extensive experience building custom WordPress and Elementor sites—including theme customization, ACF, and integrating complex IDX/CRM plugins—I specialize in styling third-party widgets so they seamlessly match the parent theme's design. I also ensure strict adherence to Core Web Vitals, mobile responsiveness, and clean SEO migrations with proper 301 redirects to protect your existing search rankings. \n\nYou can review my recent WordPress builds here: https://www.cchpca.org/\n\nCould you share your current Easy Agent PRO URL so I can review the exact content volume for the migration and provide an accurate fixed-price quote and timeline?",
+    "publishedDateTime": "2026-11-20T22:30:56+0000",
+    "addedAt": "2026-11-20T22:34:58.686Z",
+    "url": "https://www.upwork.com/jobs/~022123906954165100757",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123906954165100757/apply/"
+  },
+  {
     "id": "2123891558611645423",
     "ciphertext": "~022123891558611645423",
     "title": "Expert Adult Website Developer Needed",
