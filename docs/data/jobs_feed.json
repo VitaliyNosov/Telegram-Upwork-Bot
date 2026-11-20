@@ -1,5 +1,34 @@
 [
   {
+    "id": "2123747957852304367",
+    "ciphertext": "~022123747957852304367",
+    "title": "WooCommerce to Shopify Migration",
+    "description": "We need a freelancer to transfer an existing WooCommerce website to Shopify and ensure the new site is set up correctly. The work includes migrating products, categories, and customer data, checking that everything functions properly after the move, and monitoring the site for any issues. You should be able to handle the migration process carefully and help keep the website running smoothly during and after the transition.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.94,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 193,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "shopify",
+      "html",
+      "woocommerce",
+      "bigcommerce"
+    ],
+    "score": 149,
+    "coverLetter": "Hi! \n\nI can help you seamlessly migrate your store from WooCommerce to Shopify while ensuring zero data loss and uninterrupted sales. \n\nWith deep experience across both WooCommerce and Shopify platforms, I know the exact pitfalls of platform migrations. I will carefully handle the transfer of your products, categories, and customer data, configure your Shopify backend properly, and thoroughly test all checkout paths, shipping, and integrations before launch. \n\nBeyond the initial data move, I will monitor the new store post-launch to catch and resolve any issues immediately, ensuring a smooth transition for your customers.\n\nCould you share the approximate number of products and customer accounts we are looking to migrate? Let’s get this scheduled.",
+    "publishedDateTime": "2026-11-20T11:59:08+0000",
+    "addedAt": "2026-11-20T12:01:04.034Z",
+    "url": "https://www.upwork.com/jobs/~022123747957852304367",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123747957852304367/apply/"
+  },
+  {
     "id": "2123677090283659477",
     "ciphertext": "~022123677090283659477",
     "title": "Website redevelopment to better reflect our current positioning",
