@@ -1,5 +1,34 @@
 [
   {
+    "id": "2123828245072968802",
+    "ciphertext": "~022123828245072968802",
+    "title": "Website Repair and Maintenance",
+    "description": "# WordPress/Elementor Expert Needed – Website Repair, Redesign, Local SEO & Ongoing Maintenance\n\n**Business:** Empress Waxing – Waldorf, Maryland\n\n**Website:** www.empresswaxing.com\n\n**Initial project budget:**  $600, divided into milestones\n\n**Ongoing maintenance budget:** Approximately $125/month\n\nI'm the owner of an established waxing and skincare studio. I'm looking for a dependable WordPress/Elementor specialist to restore my website, improve its appearance and performance, optimize it for local search, and provide long-term maintenance.\n\nI want a professional who can independently handle the technical work and provide clear recommendations without requiring me to troubleshoot issues myself.\n\n### Phase 1 – Website Restoration\n- Diagnose and repair the current website outage\n- Coordinate with Namecheap if necessary\n- Check hosting, DNS, SSL, WordPress, and Elementor\n- Preserve existing content and create a backup\n- Confirm the website and booking links work correctly\n\n### Phase 2 – Website Refresh & SEO\n- Audit the existing website and recommend improvements\n- Refresh the design using my existing branding\n- Improve the homepage and key service pages\n- Optimize the mobile experience\n- Improve website speed and navigation\n- Add prominent Vagaro booking buttons\n- Implement foundational on-page and technical SEO\n- Set up or verify Google Search Console and analytics\n- Optimize content for relevant Waldorf, Maryland service searches\n- Preserve existing search visibility and URLs where appropriate\n\n### Phase 3 – Ongoing Maintenance\n- WordPress, theme, and plugin updates\n- Security checks, backups, and uptime monitoring\n- Troubleshooting and technical support\n- Minor content and image updates\n- Basic ongoing SEO improvements\n- Monthly maintenance and performance reporting\n\n### Please Include in Your Proposal\n1. Examples of WordPress/Elementor websites you've maintained or improved\n2. Experience with local SEO for service businesses\n3. Fixed-price quote for each initial phase\n4. Monthly maintenance package and exactly what it includes\n5. Emergency response times\n6. Estimated completion timeline\n\nI am interested in a long-term working relationship, not a one-time website build. Please be transparent about what can be accomplished within my budget and what would require additional work.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "web-design",
+      "wordpress",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can immediately help restore Empress Waxing from its current outage and set up reliable long-term maintenance. \n\nFor Phase 1, I'll diagnose your Namecheap hosting, DNS, SSL, and Elementor issues to get your site and Vagaro booking links back online safely. For Phase 2, I specialize in WordPress/Elementor refreshes, Core Web Vitals speed optimization, mobile responsiveness, and foundational local SEO for service businesses to help you rank in Waldorf, Maryland. You can see examples of my recent WordPress work here: https://www.snopud.com/.\n\nHere are my project details:\n1. Phase 1 Restoration: $150\n2. Phase 2 Refresh & Local SEO: $450\n3. Ongoing Maintenance: $125/month (includes weekly WordPress/plugin updates, daily backups, uptime monitoring, security checks, and 1 hour of minor content/design tweaks).\n4. Emergency response time: Under 4 hours for critical outages.\n5. Estimated timeline: Phase 1 completed in 24-48 hours; Phase 2 completed in 1.5 weeks.\n\nLet's jump into a quick chat so I can get your site back up and running today!",
+    "publishedDateTime": "2026-11-20T17:18:11+0000",
+    "addedAt": "2026-11-20T17:21:09.201Z",
+    "url": "https://www.upwork.com/jobs/~022123828245072968802",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123828245072968802/apply/"
+  },
+  {
     "id": "2123799114204504519",
     "ciphertext": "~022123799114204504519",
     "title": "WordPress Malware Root Cause Analysis",

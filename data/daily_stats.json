@@ -1,10 +1,10 @@
 {
   "date": "2026-11-20",
   "lastDigestSentDate": "2026-11-19",
-  "totalScanned": 40,
-  "matchedFilters": 7,
+  "totalScanned": 42,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 149,
       "url": "https://www.upwork.com/jobs/~022123747957852304367",
       "addedAt": "2026-11-20T12:01:02.906Z"
+    },
+    {
+      "title": "Website Repair and Maintenance",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022123828245072968802",
+      "addedAt": "2026-11-20T17:20:58.488Z"
     },
     {
       "title": "Website IT Expert for Website Update",
