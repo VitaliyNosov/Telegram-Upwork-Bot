@@ -1,5 +1,35 @@
 [
   {
+    "id": "2123908638334540446",
+    "ciphertext": "~022123908638334540446",
+    "title": "WordPress Malware Removal, Backup Cleaning & Website Restoration",
+    "description": "We are looking for an experienced WordPress security specialist to clean and restore our website, www.thestellacollective.co.\n\n**Background**\n\nOur hosting provider, A Small Orange, has identified malware in our website backup dated 8 October 2026 and cannot restore it until the infected files have been cleaned.\n\nWe have also experienced unusually high bandwidth usage, potentially caused by bot traffic or malicious activity.\n\nThe website is for an established interior design studio, so preserving the existing design, project portfolio, photography and content is essential.\n\n**Scope of work**\n\n1. Examine and remove malware from our existing WordPress backup (ZIP file).\n2. Inspect and clean the associated WordPress database.\n3. Restore the website while preserving its existing design, content and photography.\n4. Identify and fix any security vulnerabilities that could allow reinfection.\n5. Investigate the unusually high bandwidth usage and implement appropriate security measures.\n6. Restore the cleaned website to our existing A Small Orange hosting account.\n7. Test the restored website to ensure everything works correctly.\n\n**Requirements**\n\n- Demonstrated experience with WordPress malware removal and hacked website recovery.\n- Ability to clean offline backups and databases, not just live WordPress installations.\n- Experience with WordPress security, PHP, MySQL and hosting environments.\n\n**Budget and timing**\n\nFixed-price budget: US$300.\n\nWe expect this to be a relatively straightforward recovery for an experienced specialist, ideally completed within 1–2 working days, depending on the condition of the backup.\n\n**When applying, please confirm:**\n\n- Have you recovered WordPress websites from infected ZIP backups before?\n- Can you complete the full cleanup, security fixes and restoration within the proposed budget?\n- What is your estimated turnaround time?\n\nWe are ready to proceed immediately with a suitable freelancer.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "mysql",
+      "wordpress",
+      "wordpress-malware-removal",
+      "php",
+      "internet-security"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! Yes, I have extensive experience cleaning infected ZIP backups and databases offline before restoring sites, and I can complete this full cleanup, security hardening, and restoration within your $300 budget in 24 hours.\n\nAs a WordPress security specialist, I routinely handle malware removal, hacked site recovery, and database scrubbing while preserving 100% of a site's design, media, and content. Beyond removing the malicious code, I will address the high bandwidth usage by patching the vulnerabilities that caused the infection, analyzing server logs, and implementing strict security hardening to prevent reinfection. \n\nYou can review my recent WordPress development and security work on sites like https://www.seeintl.org/. \n\nShall we get started on cleaning your backup right away?",
+    "publishedDateTime": "2026-11-21T01:27:57+0000",
+    "addedAt": "2026-11-21T01:29:00.974Z",
+    "url": "https://www.upwork.com/jobs/~022123908638334540446",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022123908638334540446/apply/"
+  },
+  {
     "id": "2123915676036109966",
     "ciphertext": "~022123915676036109966",
     "title": "WordPress Developer & SEO Specialist – National Sewer Line Replacement Cost Calculator Website",

@@ -1,10 +1,10 @@
 {
   "date": "2026-11-21",
   "lastDigestSentDate": "2026-11-20",
-  "totalScanned": 5,
-  "matchedFilters": 2,
+  "totalScanned": 7,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022123915676036109966",
       "addedAt": "2026-11-20T23:08:58.960Z"
+    },
+    {
+      "title": "WordPress Malware Removal, Backup Cleaning & Website Restoration",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022123908638334540446",
+      "addedAt": "2026-11-21T01:28:59.817Z"
     }
   ]
 }
