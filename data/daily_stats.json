@@ -1,10 +1,10 @@
 {
   "date": "2026-11-21",
   "lastDigestSentDate": "2026-11-20",
-  "totalScanned": 22,
-  "matchedFilters": 4,
+  "totalScanned": 23,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022123915676036109966",
       "addedAt": "2026-11-20T23:08:58.960Z"
+    },
+    {
+      "title": "Hi-End Design and Build of Existing Website Pages",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022124166400954006538",
+      "addedAt": "2026-11-21T15:44:53.308Z"
     },
     {
       "title": "WordPress Malware Removal, Backup Cleaning & Website Restoration",

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2124166400954006538",
+    "ciphertext": "~022124166400954006538",
+    "title": "Hi-End Design and Build of Existing Website Pages",
+    "description": "Senior WordPress (Astra) Web Designer & Animation Specialist\n\nWe are a UK-based wellness company seeking an experienced freelance WordPress designer/developer to enhance our existing website, built on WordPress using the Astra theme.\n\nWe are looking for someone with exceptional creative skills who can deliver premium, modern and visually engaging pages, incorporating elegant animations, smooth scrolling and interactive effects similar to those seen on Apple's website or Slider Revolution.\n\nThe aim is not to copy these designs but to create an engaging user experience that effectively communicates our services and encourages enquiries.\n\nKey Requirements:\n\nExcellent WordPress and Astra experience.\n\nHigh-end UI/UX design and creative visual presentation.\n\nSmooth animations, scroll effects and interactive elements.\n\nExcellent website loading speed and Core Web Vitals.\n\nMinimal plugins and unnecessary custom coding.\n\nFully responsive, SEO-friendly and easy-to-maintain pages.\n\nAbility to work independently and collaborate with our team.\n\nImportant: Website performance must not be compromised by animations or design features.\n\nTo Apply, Please Provide:\n\nAt least 3 live examples of your best website designs.\n\nExamples of animations or interactive pages you have created.\n\nYour experience with Astra and WordPress.\n\nYour hourly rate and estimated cost per page.\n\nProject Type: Part-time freelance, with potential for ongoing work.\n\nWe are looking for a highly creative professional who can deliver exceptional design quality without sacrificing website performance.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 14,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "php"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I’ve reviewed your project and am confident I can elevate your Astra site with the high-end, fluid animations you’re looking for while maintaining perfect Core Web Vitals.\n\nI specialize in building high-performance WordPress sites that feel premium without the bloat. I have extensive experience with the Astra theme and focus on clean, efficient code to ensure smooth scroll effects and interactive elements don't sacrifice your page speed. You can see an example of my work on https://about.offerup.com/, which balances complex layouts with fast load times.\n\nRegarding your requirements:\n1. Designs: https://about.offerup.com/, https://www.thelifeyoucansave.org/, https://www.daysforgirls.org/\n2. Animations: I utilize lightweight, optimized CSS/JS triggers to ensure high-end interactivity.\n3. Astra/WP: I have deep experience customizing Astra for high-traffic, performance-focused brands.\n\nWhat is your current timeline for the first page build?",
+    "publishedDateTime": "2026-11-21T15:41:55+0000",
+    "addedAt": "2026-11-21T15:45:08.354Z",
+    "url": "https://www.upwork.com/jobs/~022124166400954006538",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124166400954006538/apply/"
+  },
+  {
     "id": "2124034879405388783",
     "ciphertext": "~022124034879405388783",
     "title": "Orphanage Website with Payment Support",
