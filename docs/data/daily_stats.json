@@ -1,10 +1,10 @@
 {
   "date": "2026-11-21",
   "lastDigestSentDate": "2026-11-20",
-  "totalScanned": 13,
-  "matchedFilters": 3,
+  "totalScanned": 14,
+  "matchedFilters": 4,
   "byKeyword": {
-    "wordpress developer": 3
+    "wordpress developer": 4
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3400,
       "url": "https://www.upwork.com/jobs/~022123906954165100757",
       "addedAt": "2026-11-20T22:34:57.451Z"
+    },
+    {
+      "title": "Orphanage Website with Payment Support",
+      "budget": "$15-$30/hr",
+      "score": 3000,
+      "url": "https://www.upwork.com/jobs/~022124034879405388783",
+      "addedAt": "2026-11-21T07:02:51.483Z"
     },
     {
       "title": "WordPress Developer & SEO Specialist – National Sewer Line Replacement Cost Calculator Website",

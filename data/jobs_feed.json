@@ -1,5 +1,34 @@
 [
   {
+    "id": "2124034879405388783",
+    "ciphertext": "~022124034879405388783",
+    "title": "Orphanage Website with Payment Support",
+    "description": "We need a polished, user-friendly website for an orphanage that makes it easy for visitors to learn about the organization and donate. The site should include clear sections for the mission, programs, news, and contact information, along with a simple way for users to make payments or support requests. We’re looking for someone who can create a clean, responsive design and ensure the donation process is smooth and trustworthy. Experience building donation-focused websites is a plus.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "php",
+      "web-design",
+      "wordpress"
+    ],
+    "score": 3000,
+    "coverLetter": "Hi! \n\nCreating a polished, trustworthy website is essential for an orphanage to effectively share its mission and secure recurring donations. I can help you build a clean, responsive WordPress site featuring a seamless, secure donation and payment system. \n\nWith extensive experience in WordPress, custom layouts, and payment gateway integrations (like Stripe and PayPal), I focus on making the user journey simple and reliable. You can see examples of my clean, nonprofit web development work here: https://www.thelifeyoucansave.org/\n\nDo you already have a preferred payment gateway in mind for processing donations, or would you like recommendations based on lowest transaction fees for nonprofits? Let’s chat about how to bring this project to life.",
+    "publishedDateTime": "2026-11-21T06:59:20+0000",
+    "addedAt": "2026-11-21T07:02:52.590Z",
+    "url": "https://www.upwork.com/jobs/~022124034879405388783",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124034879405388783/apply/"
+  },
+  {
     "id": "2123908638334540446",
     "ciphertext": "~022123908638334540446",
     "title": "WordPress Malware Removal, Backup Cleaning & Website Restoration",
