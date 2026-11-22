@@ -1,5 +1,34 @@
 [
   {
+    "id": "2124546625739350471",
+    "ciphertext": "~022124546625739350471",
+    "title": "WordPress/Elementor speed optimization for a local service site (mobile Core Web Vitals)",
+    "description": "I own a mold inspection company in Tampa, Florida. Our WordPress site (tampabaymoldtesting.com) is built with Elementor, Yoast SEO and LiteSpeed Cache, and it loads very slowly on mobile. Google PageSpeed shows a mobile load time (LCP) of around 16 seconds. Most of the drag appears to be about 1 MB of unused Elementor and plugin JavaScript, plus render-blocking CSS. Image optimization is already being handled in LiteSpeed/QUIC.cloud.\n\nSCOPE\n- Audit plugins and remove or replace anything bloated or unused\n- Defer or delay unused JavaScript and remove unused CSS (Elementor performance settings, LiteSpeed Cache configuration)\n- Fix the LCP element on the homepage and main service pages, including preloading and properly sizing the hero image\n- Fix layout shift and font loading\n- Do not break forms, click-to-call phone links, the design, or Yoast SEO settings\n\nDELIVERABLES / DEFINITION OF DONE\n- Before and after PageSpeed reports (mobile and desktop) for the homepage and 3 service pages\n- Target: mobile LCP under 4 seconds and a mobile performance score of 70 or higher\n- All forms, phone links, page layouts and SEO settings working as before\n- A short written list of every change made\n\nREQUIREMENTS\n- Proven Elementor speed optimization work, with before/after examples\n- Full backup before any changes; work on a staging copy if possible\n- Please include your price and timeline in your proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "elementor",
+      "website-optimization",
+      "page-speed-optimization"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can bring your mobile LCP down below 4 seconds and get your Tampa mold inspection site passing Google’s performance standards without breaking your Elementor layouts, click-to-call links, or Yoast SEO.\n\nI specialize in Elementor speed optimization and LiteSpeed Cache configurations. I'll audit your plugin stack to strip out that 1 MB of unused JavaScript, clean up render-blocking CSS, properly preload and size your hero images, and fix your layout shifts. For example, on portfolio sites like https://www.thelifeyoucansave.org/, I focus heavily on Core Web Vitals and mobile performance.\n\nI always work on a staging copy with a full backup first. \n\nMy price for this scope is [Insert Price] and I can complete it within [Insert Timeline] days, delivering before/after PageSpeed reports and a clear summary of changes.\n\nShall we get started on the staging setup?",
+    "publishedDateTime": "2026-11-22T16:52:46+0000",
+    "addedAt": "2026-11-22T16:56:40.029Z",
+    "url": "https://www.upwork.com/jobs/~022124546625739350471",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124546625739350471/apply/"
+  },
+  {
     "id": "2124524104110273519",
     "ciphertext": "~022124524104110273519",
     "title": "Revise Wordpress Site",
