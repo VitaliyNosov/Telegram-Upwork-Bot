@@ -1,67 +1,8 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-22",
-  "totalScanned": 30,
-  "matchedFilters": 8,
-  "byKeyword": {
-    "wordpress developer": 8
-  },
-  "topJobs": [
-    {
-      "title": "Revise Wordpress Site",
-      "budget": "$20-$80/hr",
-      "score": 8000,
-      "url": "https://www.upwork.com/jobs/~022124524104110273519",
-      "addedAt": "2026-11-22T15:26:37.916Z"
-    },
-    {
-      "title": "WordPress PHP Update and Security Audit",
-      "budget": "$12-$32/hr",
-      "score": 3300,
-      "url": "https://www.upwork.com/jobs/~022124554510364799983",
-      "addedAt": "2026-11-22T17:26:39.217Z"
-    },
-    {
-      "title": "Experienced WordPress Developer Website Setup, Plugin & API Integrations",
-      "budget": "$14-$28/hr",
-      "score": 2950,
-      "url": "https://www.upwork.com/jobs/~022124386207748171912",
-      "addedAt": "2026-11-22T06:16:53.900Z"
-    },
-    {
-      "title": "WordPress/Elementor speed optimization for a local service site (mobile Core Web Vitals)",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022124546625739350471",
-      "addedAt": "2026-11-22T16:56:38.726Z"
-    },
-    {
-      "title": "Change pricing for 2 items and discontinue 1 item",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022124584306337170099",
-      "addedAt": "2026-11-22T19:24:38.559Z"
-    },
-    {
-      "title": "Need website redone",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022124607601387874440",
-      "addedAt": "2026-11-22T20:58:40.249Z"
-    },
-    {
-      "title": "Website Revamp for Technology Services",
-      "budget": "Fixed-price",
-      "score": 99,
-      "url": "https://www.upwork.com/jobs/~022124587062920180719",
-      "addedAt": "2026-11-22T19:36:42.046Z"
-    },
-    {
-      "title": "WordPress and PHP Update Support",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022124486877528152619",
-      "addedAt": "2026-11-22T12:56:54.146Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
