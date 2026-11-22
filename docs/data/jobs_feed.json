@@ -1,5 +1,34 @@
 [
   {
+    "id": "2124486877528152619",
+    "ciphertext": "~022124486877528152619",
+    "title": "WordPress and PHP Update Support",
+    "description": "Need help resolving a failed WordPress website and plugins update. The site is currently running PHP 7.4, and the goal is to upgrade to PHP 8.3 while ensuring everything works correctly afterward. \n\nLooking for someone who can troubleshoot the update issue, fix any compatibility problems, and confirm the site is stable after the change. Please share relevant experience with WordPress updates and PHP version migrations.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 54,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "mysql",
+      "css"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I can help you safely resolve your failed update and migrate your site from PHP 7.4 to 8.3 without breaking your layout or functionality. \n\nHandling PHP version upgrades and untangling plugin conflicts after failed updates is a core part of my daily WordPress work. I will start by setting up a staging environment, identifying and fixing deprecated code or plugin incompatibilities, completing the PHP upgrade to 8.3, and thoroughly testing the database and front-end to ensure total stability. \n\nYou can check out one of my recent WordPress projects here: https://www.thelifeyoucansave.org/\n\nCould you share a list of the specific plugins or themes currently installed so I can review them for PHP 8.3 readiness?",
+    "publishedDateTime": "2026-11-22T12:55:20+0000",
+    "addedAt": "2026-11-22T12:56:55.238Z",
+    "url": "https://www.upwork.com/jobs/~022124486877528152619",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124486877528152619/apply/"
+  },
+  {
     "id": "2124386207748171912",
     "ciphertext": "~022124386207748171912",
     "title": "Experienced WordPress Developer Website Setup, Plugin & API Integrations",
