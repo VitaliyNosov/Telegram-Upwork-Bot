@@ -1,5 +1,35 @@
 [
   {
+    "id": "2124386207748171912",
+    "ciphertext": "~022124386207748171912",
+    "title": "Experienced WordPress Developer Website Setup, Plugin & API Integrations",
+    "description": "Seeking an experienced WordPress developer to build a professional, mobile-responsive business website using an existing theme and reliable plugins.\n\nProject includes appointment scheduling, calendar integration, email/SMS notifications, and integration with an existing secure document portal.\n\nMust have strong experience with WordPress, plugin configuration, third-party API integrations, website security, and performance optimization.\n\nPreference for,open-source solutions with minimal custom coding.\n\nPlease provide relevant work samples, estimated completion time, . Additional details will be shared with shortlisted candidates.",
+    "isHourly": true,
+    "hourlyBudgetMin": 14,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$14 - $28/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 9,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website",
+      "wordpress-plugin",
+      "platform-plugin",
+      "website-security",
+      "responsive-design"
+    ],
+    "score": 2950,
+    "coverLetter": "Hi!\n\nI’d love to help you build a fast, mobile-responsive business website with seamless scheduling and API integrations. I specialize in setting up robust WordPress sites using reliable open-source plugins, avoiding unnecessary custom code to keep your system lightweight and easy to maintain. \n\nMy background covers everything required for this project: configuring advanced appointment calendars, setting up automated email/SMS notifications, and integrating third-party systems like secure document portals. I also focus heavily on security hardening and performance optimization out of the gate.\n\nFor a recent example of my work on a professional organizational site, you can take a look at https://www.thelifeyoucansave.org/. \n\nWhat specific scheduling tool or document portal are you planning to integrate with? Let's connect to discuss the details.",
+    "publishedDateTime": "2026-11-22T06:15:18+0000",
+    "addedAt": "2026-11-22T06:16:55.302Z",
+    "url": "https://www.upwork.com/jobs/~022124386207748171912",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124386207748171912/apply/"
+  },
+  {
     "id": "2124240443028763631",
     "ciphertext": "~022124240443028763631",
     "title": "Web Developer: Build Custom Logic Engine, Calculator & Membership Site",
