@@ -1,10 +1,10 @@
 {
   "date": "2026-11-22",
   "lastDigestSentDate": "2026-11-22",
-  "totalScanned": 28,
-  "matchedFilters": 7,
+  "totalScanned": 29,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022124584306337170099",
       "addedAt": "2026-11-22T19:24:38.559Z"
+    },
+    {
+      "title": "Need website redone",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022124607601387874440",
+      "addedAt": "2026-11-22T20:58:40.249Z"
     },
     {
       "title": "Website Revamp for Technology Services",
