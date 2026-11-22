@@ -1,12 +1,19 @@
 {
   "date": "2026-11-22",
   "lastDigestSentDate": "2026-11-21",
-  "totalScanned": 22,
-  "matchedFilters": 2,
+  "totalScanned": 23,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "Revise Wordpress Site",
+      "budget": "$20-$80/hr",
+      "score": 8000,
+      "url": "https://www.upwork.com/jobs/~022124524104110273519",
+      "addedAt": "2026-11-22T15:26:37.916Z"
+    },
     {
       "title": "Experienced WordPress Developer Website Setup, Plugin & API Integrations",
       "budget": "$14-$28/hr",
