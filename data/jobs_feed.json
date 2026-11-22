@@ -1,5 +1,33 @@
 [
   {
+    "id": "2124584306337170099",
+    "ciphertext": "~022124584306337170099",
+    "title": "Change pricing for 2 items and discontinue 1 item",
+    "description": "I need experienced programmer to change pricing to 2 items and discontinue 1 item",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 33,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "accuracy-verification",
+      "wordpress"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you update your pricing for those 2 items and properly discontinue the 1 item in your WooCommerce store right away. \n\nAs a WordPress and WooCommerce developer, I handle product updates, inventory management, and store configurations daily with strict attention to detail to ensure your catalog and checkout remain entirely accurate. \n\nWhenever you're ready, feel free to send over the login details or a list of the changes, and I'll get this sorted out for you immediately.",
+    "publishedDateTime": "2026-11-22T19:22:31+0000",
+    "addedAt": "2026-11-22T19:24:39.510Z",
+    "url": "https://www.upwork.com/jobs/~022124584306337170099",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124584306337170099/apply/"
+  },
+  {
     "id": "2124554510364799983",
     "ciphertext": "~022124554510364799983",
     "title": "WordPress PHP Update and Security Audit",

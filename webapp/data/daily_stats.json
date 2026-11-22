@@ -1,10 +1,10 @@
 {
   "date": "2026-11-22",
   "lastDigestSentDate": "2026-11-21",
-  "totalScanned": 25,
-  "matchedFilters": 5,
+  "totalScanned": 26,
+  "matchedFilters": 6,
   "byKeyword": {
-    "wordpress developer": 5
+    "wordpress developer": 6
   },
   "topJobs": [
     {
@@ -34,6 +34,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022124546625739350471",
       "addedAt": "2026-11-22T16:56:38.726Z"
+    },
+    {
+      "title": "Change pricing for 2 items and discontinue 1 item",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022124584306337170099",
+      "addedAt": "2026-11-22T19:24:38.559Z"
     },
     {
       "title": "WordPress and PHP Update Support",
