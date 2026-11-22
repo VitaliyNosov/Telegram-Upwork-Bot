@@ -1,10 +1,10 @@
 {
   "date": "2026-11-22",
   "lastDigestSentDate": "2026-11-21",
-  "totalScanned": 26,
-  "matchedFilters": 6,
+  "totalScanned": 27,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -41,6 +41,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022124584306337170099",
       "addedAt": "2026-11-22T19:24:38.559Z"
+    },
+    {
+      "title": "Website Revamp for Technology Services",
+      "budget": "Fixed-price",
+      "score": 99,
+      "url": "https://www.upwork.com/jobs/~022124587062920180719",
+      "addedAt": "2026-11-22T19:36:42.046Z"
     },
     {
       "title": "WordPress and PHP Update Support",

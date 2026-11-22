@@ -1,5 +1,34 @@
 [
   {
+    "id": "2124587062920180719",
+    "ciphertext": "~022124587062920180719",
+    "title": "Website Revamp for Technology Services",
+    "description": "Need to revamp an existing website to create a more attractive and appealing visual experience. The site is powered by the technology services we offer, including Networking, Infrastructure, CyberSecurity, Physical Security, Intrusion Systems, and Access Control. The project should be completed within 5 days due to time constraints. The website is built on WordPress and hosted on GoDaddy servers.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 88,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "content-writing"
+    ],
+    "score": 99,
+    "coverLetter": "Hi! I can revamp your WordPress site to give it a modern, high-converting visual experience that properly showcases your networking, cybersecurity, and infrastructure services—all within your 5-day timeline. \n\nSince your site is on WordPress and hosted on GoDaddy, I know how to optimize performance within those server environments while upgrading the front-end design using clean, lightweight code (via Gutenberg, Elementor, or custom builds) to ensure fast loading speeds. I also specialize in fixing post-update breakages and ensuring seamless mobile responsiveness.\n\nYou can view a sample of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nDo you have specific design inspirations or a new layout in mind, or should I take the lead on the visual revamp? Let's chat to get started right away.",
+    "publishedDateTime": "2026-11-22T19:33:29+0000",
+    "addedAt": "2026-11-22T19:36:46.521Z",
+    "url": "https://www.upwork.com/jobs/~022124587062920180719",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124587062920180719/apply/"
+  },
+  {
     "id": "2124584306337170099",
     "ciphertext": "~022124584306337170099",
     "title": "Change pricing for 2 items and discontinue 1 item",
