@@ -1,10 +1,10 @@
 {
   "date": "2026-11-22",
   "lastDigestSentDate": "2026-11-21",
-  "totalScanned": 24,
-  "matchedFilters": 4,
+  "totalScanned": 25,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 8000,
       "url": "https://www.upwork.com/jobs/~022124524104110273519",
       "addedAt": "2026-11-22T15:26:37.916Z"
+    },
+    {
+      "title": "WordPress PHP Update and Security Audit",
+      "budget": "$12-$32/hr",
+      "score": 3300,
+      "url": "https://www.upwork.com/jobs/~022124554510364799983",
+      "addedAt": "2026-11-22T17:26:39.217Z"
     },
     {
       "title": "Experienced WordPress Developer Website Setup, Plugin & API Integrations",

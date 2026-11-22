@@ -1,5 +1,34 @@
 [
   {
+    "id": "2124554510364799983",
+    "ciphertext": "~022124554510364799983",
+    "title": "WordPress PHP Update and Security Audit",
+    "description": "My website is currently running PHP 7.4 on DreamHost, and I need help investigating why the one-click update to PHP 8.3 is failing. I’m looking for an experienced WordPress and PHP developer to troubleshoot the issue, confirm the site is functioning properly after the update, and help verify that the site is clean. I found evidence of possible malicious activity a week ago, removed what I found, and am fairly confident the issue is resolved, but I want an independent audit. I’d also like help understanding whether suspicious listings in Google’s archived results are outdated or signs of ongoing issues.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 32,
+    "budgetDisplay": "$12 - $32/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 48,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "wordpress",
+      "mysql",
+      "internet-security"
+    ],
+    "score": 3300,
+    "coverLetter": "Hi! I can help you safely upgrade your site from PHP 7.4 to 8.3 on DreamHost, fix whatever is causing the one-click failure, and run a thorough security audit to give you complete peace of mind.\n\nPHP version jumps (especially across multiple major versions) often break sites due to deprecated functions, outdated plugins, or theme code conflicts. I specialize in WordPress debugging, PHP error resolution, and database optimization. Furthermore, given your concerns about potential malware and suspicious Google cached results, I regularly handle hacked site recovery, deep malware removal, and security hardening to trace and eliminate any lingering vulnerabilities or SEO spam.\n\nAre you available today to share temporary staging or DreamHost credentials so I can run a diagnostic on the PHP 8.3 failure?",
+    "publishedDateTime": "2026-11-22T17:24:07+0000",
+    "addedAt": "2026-11-22T17:26:40.234Z",
+    "url": "https://www.upwork.com/jobs/~022124554510364799983",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124554510364799983/apply/"
+  },
+  {
     "id": "2124546625739350471",
     "ciphertext": "~022124546625739350471",
     "title": "WordPress/Elementor speed optimization for a local service site (mobile Core Web Vitals)",
