@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 42,
-  "matchedFilters": 11,
+  "totalScanned": 43,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -70,6 +70,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022124882589116457415",
       "addedAt": "2026-11-23T15:12:43.342Z"
+    },
+    {
+      "title": "WordPress/Elementor Page Speed, Core Web Vitals & Cookie Consent Setup",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022124959793587123183",
+      "addedAt": "2026-11-23T20:16:41.053Z"
     },
     {
       "title": "Wordpress Pro required to fix captcha on my site",

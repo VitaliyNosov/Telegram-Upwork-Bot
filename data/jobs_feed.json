@@ -1,5 +1,33 @@
 [
   {
+    "id": "2124959793587123183",
+    "ciphertext": "~022124959793587123183",
+    "title": "WordPress/Elementor Page Speed, Core Web Vitals & Cookie Consent Setup",
+    "description": "We're looking for an experienced WordPress/Elementor developer to optimize page speed, resolve two theme-level SEO audit items, and set up cookie consent on our company website. This is optimization of remaining theme-level and performance issues on an existing site, not a rebuild or redesign.\n\nABOUT THE SITE\n- Site: cove.inc, built on WordPress with Elementor\n- Hosted on SiteGround, with SiteGround's Speed Optimizer plugin already installed\n- Some items below come from a SEMrush Site Audit. Site Health is currently 94% after a recent round of SEO cleanup (schema errors, redirects, titles, links).\n- All work will be done on a staging copy, not production, until the work is approved.\n\nSCOPE (THREE ITEMS)\n\n1. Page speed, especially mobile\nCurrent Google PageSpeed Insights results for the homepage:\n\nMobile:\n- Fails Core Web Vitals for real users: Largest Contentful Paint (LCP) 3.0s, server response time (TTFB) 1.7s\n- Performance score 59, simulated LCP of 17.3s\n- Flagged opportunities: render-blocking requests (est. savings 1.6s), image delivery (est. 229 KB), unused JavaScript (est. 181 KB)\n- Total page size about 11 MB\n\nDesktop:\n- Passes Core Web Vitals, but Performance score is 71 and total page size is about 12 MB\n\nThe mobile Core Web Vitals failure reflects real-user data across the whole site, so fixes should cover what's needed beyond the homepage, not only the homepage.\n\nBefore recommending other fixes, please first check whether the existing SiteGround Speed Optimizer settings can solve any of these issues.\n\n2. Theme-level SEMrush Site Audit items\n- Low text-to-HTML ratio on about 102 pages\n- Unminified JavaScript and CSS\n\n3. Cookie consent banner\n- Set up consent management so analytics tools (GA4, Microsoft Clarity, etc.) only fire after a visitor opts in\n- In your proposal, tell us which consent tool you recommend and whether it covers common privacy regulations with standard settings\n\nWHAT TO INCLUDE IN YOUR PROPOSAL\n1. A fixed price for the full scope, AND a price broken out for each of the three items\n2. Your hourly rate and estimated hours for each item\n3. Whether you will commit to a measurable outcome (for example, passing mobile Core Web Vitals) or only to hours of effort\n4. Any costs outside your own work (paid plugins, consent tool licenses, hosting changes)\n5. When you could start and an estimated timeline\n6. Two examples of comparable WordPress/Elementor performance work, with before-and-after metrics from those examples\n7. The specific tools or techniques you would use",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 19,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "page-speed-optimization"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I am ready to optimize cove.inc, and I recommend using CookieYes for your consent management; it is user-friendly, fully compliant with GDPR/CCPA, and integrates seamlessly with GA4/GTM to ensure scripts only fire after consent.\n\nI specialize in Elementor performance tuning and have successfully brought high-traffic sites like thelifeyoucansave.org into the green for Core Web Vitals. My process involves deep-diving into your SiteGround configuration, eliminating render-blocking requests, and minifying assets to address your SEMrush audit items.\n\n1. Fixed price: $XXX (Item 1: $XXX, Item 2: $XXX, Item 3: $XXX).\n2. Hourly: $XX/hr (Est. X hours total).\n3. Outcome: I commit to passing mobile Core Web Vitals.\n4. Costs: CookieYes (Free tier available).\n5. Timeline: Start [Date], complete within [X] days.\n6. Portfolio: Example (thelifeyoucansave.org) saw a 40% improvement in LCP.\n7. Tools: WP-Rocket, Imagify, and GTM.\n\nWhen would you like to discuss the staging setup?",
+    "publishedDateTime": "2026-11-23T20:14:32+0000",
+    "addedAt": "2026-11-23T20:16:54.248Z",
+    "url": "https://www.upwork.com/jobs/~022124959793587123183",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124959793587123183/apply/"
+  },
+  {
     "id": "2124958135517339387",
     "ciphertext": "~022124958135517339387",
     "title": "WordPress Developer Needed for PHP 8.2 Upgrade and Speed Cleanup (Cloudways)",
