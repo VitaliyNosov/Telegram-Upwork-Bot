@@ -1,8 +1,18 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 3,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 4,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Web Developer needed to update custom Wordpress Site",
+      "budget": "$12-$25/hr",
+      "score": 2550,
+      "url": "https://www.upwork.com/jobs/~022124998408326922931",
+      "addedAt": "2026-11-23T22:50:38.141Z"
+    }
+  ]
 }

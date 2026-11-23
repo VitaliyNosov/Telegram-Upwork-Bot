@@ -1,5 +1,34 @@
 [
   {
+    "id": "2124998408326922931",
+    "ciphertext": "~022124998408326922931",
+    "title": "Web Developer needed to update custom Wordpress Site",
+    "description": "We’re looking for an experienced WordPress developer to troubleshoot and update our custom website, www.whereeaglesdare.co. We’ve experienced theme and plugin compatibility issues, including a recent outage during updates, and need help resolving an email delivery issue. Our goal is to bring the site up to date and ensure it runs reliably while preserving its current design and functionality.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$12 - $25/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-plugin",
+      "wordpress",
+      "web-programming",
+      "wordpress-theme"
+    ],
+    "score": 2550,
+    "coverLetter": "Hi! \n\nI can quickly resolve your theme and plugin compatibility issues, fix the recent update errors, and get your email delivery system working reliably again on www.whereeaglesdare.co. \n\nAs an experienced WordPress developer, I specialize in troubleshooting post-update crashes, debugging conflicting plugins, and fixing WordPress/WooCommerce email delivery issues without disrupting your current design or functionality. For instance, I recently resolved similar complex backend and maintenance issues while keeping high-traffic sites like https://www.thelifeyoucansave.org/ running smoothly. \n\nOnce your site is fully stabilized and up to date, I can also set up a staging environment to ensure future updates happen safely. \n\nAre you available this week for a quick chat about the current errors you are seeing?",
+    "publishedDateTime": "2026-11-23T22:47:59+0000",
+    "addedAt": "2026-11-23T22:50:39.091Z",
+    "url": "https://www.upwork.com/jobs/~022124998408326922931",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124998408326922931/apply/"
+  },
+  {
     "id": "2124975647751252104",
     "ciphertext": "~022124975647751252104",
     "title": "Need help starting and seeding a directory",
