@@ -1,12 +1,19 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-22",
-  "totalScanned": 9,
-  "matchedFilters": 1,
+  "totalScanned": 10,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Word Press Plugin Implementation and Updates",
+      "budget": "$15-$50/hr",
+      "score": 5150,
+      "url": "https://www.upwork.com/jobs/~022124717365841674931",
+      "addedAt": "2026-11-23T04:12:38.784Z"
+    },
     {
       "title": "Word Press Plugin Implementation and Updates",
       "budget": "$15-$30/hr",
