@@ -1,5 +1,36 @@
 [
   {
+    "id": "2124707491672454127",
+    "ciphertext": "~022124707491672454127",
+    "title": "Word Press Plugin Implementation and Updates",
+    "description": "I am looking for an experienced WordPress developer to install, configure, and test a plugin on my existing WordPress website. The goal is to have the plugin running smoothly without causing conflicts with my current theme or other active plugins.\nScope of Work:\n• Create a full backup of the website before making any changes.\n• Install and activate the plugin.\n• Configure the plugin settings to match our specific requirements, including email notifications and custom styling to match our current theme.\n• Test the functionality across desktop and mobile devices to ensure there are no layout issues, bugs, or slowdowns.\nRequirements:\n• Proven experience working with WordPress themes, plugins, and custom CSS styling.\n• Good communication skills and quick response times.\n• Availability for quick virtual meetings as needed to review setup and styling.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "wordpress-plugin",
+      "web-programming",
+      "php",
+      "css",
+      "web-design"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! \n\nI can help you install, configure, and test your new plugin safely without breaking your current theme or causing plugin conflicts. \n\nWith extensive experience in WordPress development, plugin customization, and troubleshooting, I follow a strict workflow for tasks like this: I always start by creating a full backup and setting up a safe testing environment. From there, I'll handle the installation, configure your email notifications, and write custom CSS styling so the plugin seamlessly matches your site's design across both desktop and mobile. \n\nYou can check out some of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nWhen would you like to get started? Let's chat about the specific plugin you need implemented.",
+    "publishedDateTime": "2026-11-23T03:31:58+0000",
+    "addedAt": "2026-11-23T03:34:41.069Z",
+    "url": "https://www.upwork.com/jobs/~022124707491672454127",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124707491672454127/apply/"
+  },
+  {
     "id": "2124607601387874440",
     "ciphertext": "~022124607601387874440",
     "title": "Need website redone",
