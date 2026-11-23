@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-22",
-  "totalScanned": 26,
-  "matchedFilters": 6,
+  "totalScanned": 27,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 5150,
       "url": "https://www.upwork.com/jobs/~022124717365841674931",
       "addedAt": "2026-11-23T04:12:38.784Z"
+    },
+    {
+      "title": "Build responsive WordPress site with booking/payment functionality",
+      "budget": "$20-$40/hr",
+      "score": 4150,
+      "url": "https://www.upwork.com/jobs/~022124889317196046549",
+      "addedAt": "2026-11-23T15:36:38.216Z"
     },
     {
       "title": "Word Press Plugin Implementation and Updates",
