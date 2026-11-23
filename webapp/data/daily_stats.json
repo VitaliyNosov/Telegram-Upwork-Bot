@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 45,
-  "matchedFilters": 12,
+  "totalScanned": 46,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 3143,
       "url": "https://www.upwork.com/jobs/~022124953693472579323",
       "addedAt": "2026-11-23T19:52:40.936Z"
+    },
+    {
+      "title": "WordPress Website Management",
+      "budget": "$15-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022124965241773285831",
+      "addedAt": "2026-11-23T20:40:41.327Z"
     },
     {
       "title": "WordPress Developer Needed for PHP 8.2 Upgrade and Speed Cleanup (Cloudways)",
