@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 39,
-  "matchedFilters": 9,
+  "totalScanned": 42,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 8,
+    "wordpress developer": 10,
     "woocommerce": 1
   },
   "topJobs": [
@@ -23,6 +23,13 @@
       "addedAt": "2026-11-23T15:36:38.216Z"
     },
     {
+      "title": "Need Avada Wordpress Theme pro to help with some page and mega menu builds",
+      "budget": "$18-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022124957934532354503",
+      "addedAt": "2026-11-23T20:10:40.762Z"
+    },
+    {
       "title": "Word Press Plugin Implementation and Updates",
       "budget": "$15-$30/hr",
       "score": 3150,
@@ -35,6 +42,13 @@
       "score": 3143,
       "url": "https://www.upwork.com/jobs/~022124953693472579323",
       "addedAt": "2026-11-23T19:52:40.936Z"
+    },
+    {
+      "title": "WordPress Developer Needed for PHP 8.2 Upgrade and Speed Cleanup (Cloudways)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022124958135517339387",
+      "addedAt": "2026-11-23T20:10:42.824Z"
     },
     {
       "title": "WordPress Expert Needed",
