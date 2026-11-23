@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 46,
-  "matchedFilters": 13,
+  "totalScanned": 47,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 1
   },
   "topJobs": [
@@ -56,6 +56,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022124958135517339387",
       "addedAt": "2026-11-23T20:10:42.824Z"
+    },
+    {
+      "title": "Need help fixing broken lead routing and slow pages on our local service site",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022124969653855955080",
+      "addedAt": "2026-11-23T20:56:39.036Z"
     },
     {
       "title": "WordPress Expert Needed",

@@ -1,5 +1,34 @@
 [
   {
+    "id": "2124969653855955080",
+    "ciphertext": "~022124969653855955080",
+    "title": "Need help fixing broken lead routing and slow pages on our local service site",
+    "description": "We run a multi-location plumbing and HVAC company across 30+ cities in Texas. Last month an agency rebuilt our site using Elementor and a bunch of heavy add-ons, and since then our mobile speed tanked and half our quote requests aren't showing up in our CRM.\n\nWe're looking for someone who can strip out the page builder bloat and build a lightweight custom WordPress plugin to manage our city-by-city service pages cleanly, plus set up a reliable WordPress REST API to GoHighLevel webhook sync so every form submission lands in the right sub-account with UTM tracking intact.\n\nWe also need proper JSON-LD LocalBusiness schema generated dynamically per city page so we stop losing local pack rankings.\n\nOur fixed-price budget is $1,500–$3,000.\n\nHow we'll check the finished work\n\n- Our team can create and edit a city service page through the custom WordPress plugin. The page loads without Elementor, and a before-and-after test on the same page shows faster mobile loading.\n- A test quote for each city reaches the correct GoHighLevel sub-account with its UTM values intact. Retrying a failed delivery produces exactly one lead.\n- Each city page generates valid LocalBusiness JSON-LD that matches the business details shown on that page.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 51,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "plugin-development",
+      "technical-seo"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! I can help you strip out the heavy Elementor bloat and build a lightweight custom plugin to manage your 30+ Texas city pages, alongside robust GoHighLevel lead routing.\n\nI specialize in custom WordPress plugin development, API integrations, and Core Web Vitals speed optimization. For your lead pipeline, I will build a reliable WP REST-to-GHL webhook system that preserves UTM tracking, maps leads to the correct sub-accounts, and includes retry logic for failed deliveries. I’ll also programmatically generate dynamic LocalBusiness JSON-LD schema for each city page to boost your local pack rankings. You can see examples of my high-performance, clean WordPress builds at https://about.offerup.com/.\n\nAre your city page layouts already finalized, or should I recreate the existing design using native Gutenberg blocks for maximum loading speed? Let's discuss!",
+    "publishedDateTime": "2026-11-23T20:53:43+0000",
+    "addedAt": "2026-11-23T20:56:57.354Z",
+    "url": "https://www.upwork.com/jobs/~022124969653855955080",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124969653855955080/apply/"
+  },
+  {
     "id": "2124965241773285831",
     "ciphertext": "~022124965241773285831",
     "title": "WordPress Website Management",
