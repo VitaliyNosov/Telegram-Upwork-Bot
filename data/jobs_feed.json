@@ -1,5 +1,35 @@
 [
   {
+    "id": "2124975647751252104",
+    "ciphertext": "~022124975647751252104",
+    "title": "Need help starting and seeding a directory",
+    "description": "I have a wordpress maths blog to which I want to add a directory.\nThis will allow maths companies and tutoring services to advertise etc.\n\nLooking for someone who can set up the directory, seed it with some listings of companies and providers.\n\nIdeas and experience on how to build this up and monetise would be hugely beneficial.\n\nPlease tell me your experience in this and your costs",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 67,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "business-planning-and-strategy",
+      "wordpress",
+      "web-design",
+      "seo",
+      "web-programming"
+    ],
+    "score": 98,
+    "coverLetter": "Hi!\n\nAdding a monetization-focused directory to your math blog is a great way to scale its value. I can help you set up the directory structure, configure the right plugins (like ACF and custom post types), and help seed it with initial listings to get it off the ground. \n\nBeyond just the technical setup, I have experience structuring directories for long-term growth and can share actionable strategies on how to package and monetize ad placements and tutoring services effectively. For instance, I recently worked on custom architecture projects like https://www.cchpca.org/, ensuring clean code and great user experience.\n\nMy standard rate for this setup and initial seeding is [Insert Rate/Fixed Price], depending on the exact feature set you need. \n\nWhat directory plugin or theme framework, if any, were you thinking of using? Let's chat about how to get this launched.",
+    "publishedDateTime": "2026-11-23T21:17:34+0000",
+    "addedAt": "2026-11-23T21:20:45.540Z",
+    "url": "https://www.upwork.com/jobs/~022124975647751252104",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124975647751252104/apply/"
+  },
+  {
     "id": "2124969653855955080",
     "ciphertext": "~022124969653855955080",
     "title": "Need help fixing broken lead routing and slow pages on our local service site",

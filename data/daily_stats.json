@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 47,
-  "matchedFilters": 14,
+  "totalScanned": 48,
+  "matchedFilters": 15,
   "byKeyword": {
-    "wordpress developer": 13,
+    "wordpress developer": 14,
     "woocommerce": 1
   },
   "topJobs": [
@@ -98,6 +98,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022124839593342033659",
       "addedAt": "2026-11-23T12:20:42.407Z"
+    },
+    {
+      "title": "Need help starting and seeding a directory",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022124975647751252104",
+      "addedAt": "2026-11-23T21:20:43.948Z"
     },
     {
       "title": "Website Two page website",
