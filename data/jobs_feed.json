@@ -1,5 +1,36 @@
 [
   {
+    "id": "2124882589116457415",
+    "ciphertext": "~022124882589116457415",
+    "title": "Animated Hero Section Developer for Home Service Websites (HTML/CSS/JS for WordPress)",
+    "description": "We're a digital marketing agency in San Antonio that builds websites for plumbers, HVAC companies, electricians, roofers, and other home service businesses. We're looking for a specialist who makes beautiful, animated hero sections: the top part of a landing page that makes someone stop scrolling and then call.\n\nHere's an example of the kind of work we mean: cleanspacesa.com. The bubbles move and pop when you interact with them. It's simple, but it fits the business perfectly and looks great. We want that level of polish and \"this was built for this exact company\" feel for every client.\n\nWHAT YOU'LL DO\n\nYou'll design and build one custom animated hero section at a time. Each one is themed to the client's trade. For example, water and pipes for a plumber, airflow for HVAC, or sparks and circuits for an electrician. The animation should be interactive or alive, but never get in the way of the main goal, which is getting visitors to call or book.\n\nDELIVERABLE\n\nEach hero must be delivered as a single, self-contained HTML file with the CSS and JavaScript inside it. We paste it into a WordPress page using a Custom HTML block (or an HTML widget in our page builder). No plugin, no theme edits, and no build step required.\n\nREQUIREMENTS\n\n1. A unique concept for each client, not a template with the colors swapped.\n2. It matches the client's brand colors, fonts, and logo.\n3. It works great on phones, since most local service traffic is mobile. Tap and scroll, not hover.\n4. The headline, phone number, and call button are real HTML text, separate from the animation, so they load instantly and Google can read them.\n5. It's lightweight. Think CSS, SVG, or a small canvas, not big video or heavy animation files. It must not hurt Core Web Vitals or page speed.\n6. It respects the \"reduce motion\" setting for visitors who turn animations off.\n7. Clean, commented code.\n\nWORDPRESS-SAFE CODING (required)\n\n1. All CSS is scoped under one unique class prefix (for example .asw-hero) so the theme's styles can't break it and it can't break the theme.\n2. All JavaScript is wrapped in a self-contained function with no global variables, and it does not depend on jQuery.\n3. Any outside library (GSAP, for example) is loaded from a CDN at a pinned version number, never \"latest.\" Fewer libraries is better.\n4. Images are inlined (SVG or data URIs) or supplied as separate files we can upload to the media library. No hotlinking.\n5. No line breaks or blank lines inside the script or style blocks that WordPress might wrap in extra paragraph tags. Test it in a real WordPress Custom HTML block.\n6. It still works when a caching or minify plugin (such as WP Rocket or Autoptimize) is turned on.\n7. Fully responsive inside a normal theme container, and it can also run full-width.\n\nSKILLS WE'RE LOOKING FOR\n\n- Strong HTML, CSS, and JavaScript\n- SVG animation, canvas, or libraries like GSAP\n- A real eye for design: spacing, color, type, and motion that feels polished\n- Experience making animation that is subtle and professional, not gimmicky\n- Bonus: experience with WordPress or local service business sites\n\nAgreed. Anyone can describe a great idea, so I'd drop the \"describe your plumber hero idea\" question and make the work itself the application. Here are the updated sections.\n\nHOW TO APPLY\n\nYour application must include 3 links to live, working animated hero sections you built. Links only, no screenshots and no videos. We'll open them on our phones and on a desktop, so we can see how they actually move and feel. Applications without live links will not be reviewed.\n\nFor each link, tell us in one line what you built and which parts were yours (design, code, or both).\n\nPlease also send at least one that is interactive, meaning it responds to a tap, scroll, or mouse movement, like the bubbles on cleanspacesa.com.\n\nSCREENING QUESTIONS\n\n1. Paste 3 links to live animated or interactive hero sections you built. Which one are you proudest of, and why?\n2. For each link, did you design it, code it, or both?\n3. How do you keep animations fast on mobile and good for page speed?\n4. Have you delivered code that gets pasted into WordPress? How do you stop the theme's CSS from conflicting with it?\n5. What is your availability and hourly rate or per-hero price?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 70,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "web-design",
+      "wordpress",
+      "graphic-design",
+      "web-programming",
+      "html"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Here are 3 live animated hero sections I built:\n1. https://waapple.org/ – Designed and coded the interactive layout and custom animations.\n2. https://www.thelifeyoucansave.org/ – Built the front-end layout, responsive components, and custom CSS/JS.\n3. https://www.snopud.com/ – Developed custom front-end UI and interactive elements.\n\nRegarding your technical requirements, I build lightweight, self-contained HTML/CSS/JS snippets specifically structured for WordPress Custom HTML blocks. To prevent theme conflicts, I strictly scope all CSS under unique class prefixes and wrap vanilla JavaScript in self-contained IIFEs that don't rely on global variables or jQuery. I prioritize performance by utilizing CSS, SVGs, and optimized canvas animations that protect Core Web Vitals and gracefully handle mobile tap interactions and reduced-motion settings.\n\nWhat is your typical turnaround time per hero section?",
+    "publishedDateTime": "2026-11-23T15:08:51+0000",
+    "addedAt": "2026-11-23T15:12:44.637Z",
+    "url": "https://www.upwork.com/jobs/~022124882589116457415",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124882589116457415/apply/"
+  },
+  {
     "id": "2124839593342033659",
     "ciphertext": "~022124839593342033659",
     "title": "Wordpress Pro required to fix captcha on my site",
