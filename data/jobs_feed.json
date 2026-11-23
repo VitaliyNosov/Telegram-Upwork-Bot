@@ -1,5 +1,33 @@
 [
   {
+    "id": "2124839593342033659",
+    "ciphertext": "~022124839593342033659",
+    "title": "Wordpress Pro required to fix captcha on my site",
+    "description": "Hello,\n\nWe are looking for a Wordpress Pro to help us fix the reCaptcha on our site. We are receive many spam submissions on our forms. We use Metforms (connected to Hubspot). \n\nWe currently have reCaptcha installed but it’s not working as expected and spam submissions are coming through. \n\nWe need someone to fix this for us.\n\nPlease add “bag” to the top of your proposal.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.97,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 72,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "wordpress-plugin"
+    ],
+    "score": 99,
+    "coverLetter": "bag\n\nHi! \n\nI can help you properly configure and fix your reCaptcha setup so you can stop these spam submissions on your Metforms and HubSpot integration. Often, issues like this happen due to API key mismatches, script conflicts, or incorrect form validation hooks, which I troubleshoot and resolve regularly. \n\nWith my strong background in WordPress development, plugin debugging, and HubSpot integrations, I will quickly identify why your current reCaptcha isn't blocking the spam and get it working reliably. \n\nFor a look at my recent work with complex WordPress builds, you can check out https://www.thelifeyoucansave.org/. \n\nCould you share which version of reCaptcha you are currently using (v2 or v3) so we can get started right away?\n\nBest regards,\nWordPress Developer",
+    "publishedDateTime": "2026-11-23T12:16:55+0000",
+    "addedAt": "2026-11-23T12:20:43.732Z",
+    "url": "https://www.upwork.com/jobs/~022124839593342033659",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124839593342033659/apply/"
+  },
+  {
     "id": "2124766593724557448",
     "ciphertext": "~022124766593724557448",
     "title": "WordPress Developer for Site Fixes",
