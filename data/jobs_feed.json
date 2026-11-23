@@ -1,5 +1,36 @@
 [
   {
+    "id": "2124907668728470174",
+    "ciphertext": "~022124907668728470174",
+    "title": "Website Two page website",
+    "description": "I am looking for an SEO minded web developer to develop me a two page website.\n\nI am looking for a simple yet fun design and very cheap hosting\n\nthe website is a good domain that people will likely search so I want my website to be the top of page one for this specific key word search.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 21,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "html",
+      "css",
+      "web-programming",
+      "web-design",
+      "graphic-design"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can help you build your 2-page SEO-optimized website with a simple, engaging design and set it up on fast, low-cost hosting so you keep your overhead to a minimum. \n\nSince your domain has strong search potential, I will build the site using clean, semantic code (HTML/CSS/WordPress) optimized for Core Web Vitals and structured for target keyword ranking right from day one. I focus heavily on lightweight performance, ensuring search engines can easily crawl and index your pages to help you climb toward that top spot on page one. You can view examples of my work here: https://www.thelifeyoucansave.org/\n\nLet’s chat about your target keyword and the exact vibe you want for the design. When are you looking to launch?",
+    "publishedDateTime": "2026-11-23T16:49:38+0000",
+    "addedAt": "2026-11-23T16:52:49.542Z",
+    "url": "https://www.upwork.com/jobs/~022124907668728470174",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124907668728470174/apply/"
+  },
+  {
     "id": "2124889317196046549",
     "ciphertext": "~022124889317196046549",
     "title": "Build responsive WordPress site with booking/payment functionality",

@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-22",
-  "totalScanned": 30,
-  "matchedFilters": 7,
+  "totalScanned": 31,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 7
+    "wordpress developer": 8
   },
   "topJobs": [
     {
@@ -55,6 +55,13 @@
       "score": 99,
       "url": "https://www.upwork.com/jobs/~022124839593342033659",
       "addedAt": "2026-11-23T12:20:42.407Z"
+    },
+    {
+      "title": "Website Two page website",
+      "budget": "Fixed-price",
+      "score": 0,
+      "url": "https://www.upwork.com/jobs/~022124907668728470174",
+      "addedAt": "2026-11-23T16:52:47.632Z"
     }
   ]
 }
