@@ -1,12 +1,19 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 4,
-  "matchedFilters": 1,
+  "totalScanned": 5,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
+    {
+      "title": "Website Setup with HIPAA Compliance",
+      "budget": "$6-$32/hr",
+      "score": 3300,
+      "url": "https://www.upwork.com/jobs/~022125001238617939707",
+      "addedAt": "2026-11-23T23:00:38.181Z"
+    },
     {
       "title": "Web Developer needed to update custom Wordpress Site",
       "budget": "$12-$25/hr",

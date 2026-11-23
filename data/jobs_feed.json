@@ -1,5 +1,34 @@
 [
   {
+    "id": "2125001238617939707",
+    "ciphertext": "~022125001238617939707",
+    "title": "Website Setup with HIPAA Compliance",
+    "description": "Need a developer to set up a website and ensure it meets HIPAA requirements. The project includes building the site, configuring security settings, and helping with the necessary setup to support compliance. Please share relevant experience with similar projects and your approach to handling compliance-related tasks.",
+    "isHourly": true,
+    "hourlyBudgetMin": 6,
+    "hourlyBudgetMax": 32,
+    "budgetDisplay": "$6 - $32/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-programming",
+      "wordpress",
+      "php",
+      "web-design"
+    ],
+    "score": 3300,
+    "coverLetter": "Hi! Building a WordPress website that aligns with HIPAA requirements requires strict security hardening, end-to-end data encryption, and configuring your server and web forms to prevent sensitive PHI (Protected Health Information) from leaking or being stored insecurely.\n\nMy approach includes hardening the WordPress core, enforcing strict access controls and SSL protocols, configuring SSL/TLS encryption for data in transit and at rest, and integrating compliant form/CRM systems. I also work with BAA-supported hosting environments (such as AWS or dedicated HIPAA-compliant providers) to ensure full infrastructure compliance.\n\nYou can view my work on healthcare and policy-focused web builds here: https://www.cchpca.org/\n\nAre you planning to use a specific HIPAA-compliant hosting provider, or would you like recommendations on setting up the infrastructure stack first?",
+    "publishedDateTime": "2026-11-23T22:59:15+0000",
+    "addedAt": "2026-11-23T23:00:56.079Z",
+    "url": "https://www.upwork.com/jobs/~022125001238617939707",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125001238617939707/apply/"
+  },
+  {
     "id": "2124998408326922931",
     "ciphertext": "~022124998408326922931",
     "title": "Web Developer needed to update custom Wordpress Site",
