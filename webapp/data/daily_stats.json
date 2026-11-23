@@ -1,10 +1,11 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-22",
-  "totalScanned": 38,
-  "matchedFilters": 8,
+  "totalScanned": 39,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 8
+    "wordpress developer": 8,
+    "woocommerce": 1
   },
   "topJobs": [
     {
@@ -27,6 +28,13 @@
       "score": 3150,
       "url": "https://www.upwork.com/jobs/~022124707491672454127",
       "addedAt": "2026-11-23T03:34:39.919Z"
+    },
+    {
+      "title": "WordPress / Divi Website Maintenance",
+      "budget": "$5-$30/hr",
+      "score": 3143,
+      "url": "https://www.upwork.com/jobs/~022124953693472579323",
+      "addedAt": "2026-11-23T19:52:40.936Z"
     },
     {
       "title": "WordPress Expert Needed",

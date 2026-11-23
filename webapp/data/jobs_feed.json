@@ -1,5 +1,33 @@
 [
   {
+    "id": "2124953693472579323",
+    "ciphertext": "~022124953693472579323",
+    "title": "WordPress / Divi Website Maintenance",
+    "description": "Monthly Maintenance (Recurring)\n•\tWordPress core, theme (Divi), and plugin updates — tested before deploying to production\n•\tAutomated daily offsite backups — verified monthly for restore integrity\n•\tSecurity scanning (malware, file integrity) with summary report\n•\tUptime monitoring with alert notification to owner\n•\tPerformance check (Core Web Vitals / PageSpeed) — flag regressions\n•\tBroken link scan and remediation\n\nContent Publishing & Edits (Included Hours)\n•\tPublish new pages, blog posts, and content updates using Divi Builder\n•\tImplement structured data / Schema markup (JSON-LD) for key pages\n•\tUpload and optimize images (compression, alt text, file naming)\n•\tEdit copy, update team/contact info, revise service pages as directed\n•\tPublish AI CMO-generated content drafts after owner review and approval\n•\tMinor layout adjustments within existing Divi templates\n\nOut of Scope (Requires Separate Estimate)\n•\tFull page or site redesign\n•\tNew plugin development or custom coding beyond minor CSS/JS tweaks\n•\tE-commerce / WooCommerce development\n•\tThird-party integrations not currently on the site",
+    "isHourly": true,
+    "hourlyBudgetMin": 5,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$5 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.65,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "divi",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 3143,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-23T19:50:20+0000",
+    "addedAt": "2026-11-23T19:53:07.651Z",
+    "url": "https://www.upwork.com/jobs/~022124953693472579323",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124953693472579323/apply/"
+  },
+  {
     "id": "2124907668728470174",
     "ciphertext": "~022124907668728470174",
     "title": "Website Two page website",
