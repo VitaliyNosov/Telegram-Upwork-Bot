@@ -1,5 +1,32 @@
 [
   {
+    "id": "2124763293252371123",
+    "ciphertext": "~022124763293252371123",
+    "title": "WordPress Expert Needed",
+    "description": "We need an experienced WordPress developer to help with website updates, theme customization, and ongoing maintenance. The ideal freelancer should be able to improve site performance, fix issues, and support ..",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Germany",
+      "totalFeedback": 4.95,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 73,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design"
+    ],
+    "score": 149,
+    "coverLetter": "Hi!\n\nI’d love to help you keep your WordPress site running fast, secure, and fully updated. With extensive experience in theme customization, performance optimization, and ongoing maintenance, I can quickly step in to handle your updates and resolve any technical issues seamlessly.\n\nMy background covers everything from speed optimization (Core Web Vitals) and database cleanup to complex troubleshooting and custom development. For instance, I recently optimized and maintained sites like https://www.thelifeyoucansave.org/, ensuring high performance and reliability. \n\nWhether you need a quick fix or long-term technical support, I focus on clean code and proactive maintenance so you don't have to worry about site breakage. \n\nWhat are the top 1 or 2 updates or issues you’d like to tackle first? \n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-11-23T07:13:44+0000",
+    "addedAt": "2026-11-23T07:14:39.500Z",
+    "url": "https://www.upwork.com/jobs/~022124763293252371123",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022124763293252371123/apply/"
+  },
+  {
     "id": "2124717365841674931",
     "ciphertext": "~022124717365841674931",
     "title": "Word Press Plugin Implementation and Updates",

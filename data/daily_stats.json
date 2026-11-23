@@ -1,10 +1,10 @@
 {
   "date": "2026-11-23",
   "lastDigestSentDate": "2026-11-22",
-  "totalScanned": 11,
-  "matchedFilters": 2,
+  "totalScanned": 12,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3150,
       "url": "https://www.upwork.com/jobs/~022124707491672454127",
       "addedAt": "2026-11-23T03:34:39.919Z"
+    },
+    {
+      "title": "WordPress Expert Needed",
+      "budget": "Fixed-price",
+      "score": 149,
+      "url": "https://www.upwork.com/jobs/~022124763293252371123",
+      "addedAt": "2026-11-23T07:14:38.379Z"
     }
   ]
 }
