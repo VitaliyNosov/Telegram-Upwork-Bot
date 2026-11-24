@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 57,
-  "matchedFilters": 10,
+  "totalScanned": 58,
+  "matchedFilters": 11,
   "byKeyword": {
-    "wordpress developer": 9,
+    "wordpress developer": 10,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 3300,
       "url": "https://www.upwork.com/jobs/~022125001238617939707",
       "addedAt": "2026-11-23T23:00:38.181Z"
+    },
+    {
+      "title": "Redesiging wordpress/woocommerce website with new features and products",
+      "budget": "$12-$27/hr",
+      "score": 2845,
+      "url": "https://www.upwork.com/jobs/~022125303155269197563",
+      "addedAt": "2026-11-24T19:00:56.718Z"
     },
     {
       "title": "Web Developer needed to update custom Wordpress Site",
