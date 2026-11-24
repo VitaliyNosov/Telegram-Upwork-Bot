@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 41,
-  "matchedFilters": 8,
+  "totalScanned": 42,
+  "matchedFilters": 9,
   "byKeyword": {
-    "wordpress developer": 7,
+    "wordpress developer": 8,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 8147,
       "url": "https://www.upwork.com/jobs/~022125109399845982619",
       "addedAt": "2026-11-24T06:10:58.242Z"
+    },
+    {
+      "title": "WordPress / Avada Developer – Website Rebranding Updates",
+      "budget": "$18-$40/hr",
+      "score": 4150,
+      "url": "https://www.upwork.com/jobs/~022125247732077154715",
+      "addedAt": "2026-11-24T15:21:00.267Z"
     },
     {
       "title": "WooCommerce Integration with City Model Generator",
