@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-24",
-  "totalScanned": 64,
-  "matchedFilters": 12,
+  "totalScanned": 65,
+  "matchedFilters": 13,
   "byKeyword": {
-    "wordpress developer": 11,
+    "wordpress developer": 12,
     "woocommerce": 1
   },
   "topJobs": [
@@ -42,6 +42,13 @@
       "score": 3300,
       "url": "https://www.upwork.com/jobs/~022125001238617939707",
       "addedAt": "2026-11-23T23:00:38.181Z"
+    },
+    {
+      "title": "Web Admin for Website Redesign",
+      "budget": "$12-$28/hr",
+      "score": 2893,
+      "url": "https://www.upwork.com/jobs/~022125329781406045443",
+      "addedAt": "2026-11-24T20:46:58.154Z"
     },
     {
       "title": "Redesiging wordpress/woocommerce website with new features and products",

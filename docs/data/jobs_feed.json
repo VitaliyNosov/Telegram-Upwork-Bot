@@ -1,5 +1,34 @@
 [
   {
+    "id": "2125329781406045443",
+    "ciphertext": "~022125329781406045443",
+    "title": "Web Admin for Website Redesign",
+    "description": "We need a web admin to support a website redesign project using our AI builder. The work includes updating pages, managing content, coordinating with our team, and helping ensure the site is polished and ready for launch. You should be comfortable working in a fast-paced environment and communicating clearly throughout the project. This is a part-time role for someone who can help keep the redesign on track and deliver a clean, professional final result.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 28,
+    "budgetDisplay": "$12 - $28/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.63,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 45,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "web-design",
+      "web-programming",
+      "wordpress",
+      "html5"
+    ],
+    "score": 2893,
+    "coverLetter": "Hi! \n\nI’d love to help keep your website redesign on track and ensure the final result is polished, clean, and ready for launch. \n\nAs a professional WordPress developer and CMS expert, I am very comfortable jumping into fast-paced environments, managing content, updating pages, and coordinating closely with teams to deliver high-quality web projects. Whether refining layouts or handling backend administration, I focus on clean execution and efficient communication. You can check out one of my recent full-scale WordPress builds here: https://www.thelifeyoucansave.org/\n\nWhen do you plan to kick off the redesign, and what is your target launch timeline? \n\nBest regards,\n[Your Name]",
+    "publishedDateTime": "2026-11-24T20:44:44+0000",
+    "addedAt": "2026-11-24T20:46:59.313Z",
+    "url": "https://www.upwork.com/jobs/~022125329781406045443",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125329781406045443/apply/"
+  },
+  {
     "id": "2125308689194947843",
     "ciphertext": "~022125308689194947843",
     "title": "WordPress & Avada Specialist | Two Website Rebuilds & Hosting Consolidation",
