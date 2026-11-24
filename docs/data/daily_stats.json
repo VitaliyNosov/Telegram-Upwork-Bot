@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 15,
-  "matchedFilters": 4,
+  "totalScanned": 17,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 2550,
       "url": "https://www.upwork.com/jobs/~022124998408326922931",
       "addedAt": "2026-11-23T22:50:38.141Z"
+    },
+    {
+      "title": "WordPress Specialist (ACF Pro + Custom Post Types + FacetWP + Custom JS)",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022125072211545912303",
+      "addedAt": "2026-11-24T03:42:56.756Z"
     },
     {
       "title": "Senior WordPress Recovery & Modernization Engineer (AI-Augmented / Full-Stack PHP)",

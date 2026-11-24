@@ -1,5 +1,36 @@
 [
   {
+    "id": "2125072211545912303",
+    "ciphertext": "~022125072211545912303",
+    "title": "WordPress Specialist (ACF Pro + Custom Post Types + FacetWP + Custom JS)",
+    "description": "WordPress Specialist (ACF Pro + Custom Post Types + FacetWP + Custom JS) for High-Traffic NYC Travel Brand (100K+ Monthly Visitors)\nProject Overview:\nWe are transforming visitnyc.com from a static article directory into an interactive NYC travel authority with structured local data, custom decision tools, and automated affiliate integrations. We need an experienced WordPress developer to architect a clean, fast, bloat-free database and interactive frontend.\nRequired Tech Stack (Non-Negotiable):\n•\tTheme / Builder: GeneratePress + GenerateBlocks OR Bricks Builder (strictly no Elementor, Divi, or heavy multipurpose themes)\n•\tData Structure: Custom Post Types + ACF Pro\n•\tMap & Filtering: FacetWP (with Map add-on)\n•\tForms / Quiz: Fluent Forms Pro (or lightweight custom JS)\n•\tData Imports: WP All Import Pro\n•\tSEO / Schema: Rank Math Pro\nScope of Work & Deliverables:\n1.\tDatabase & Dynamic Templates (Milestone 1 — 30%)\no\tBuild places Custom Post Type and vibe_feature / neighborhood taxonomies.\no\tConfigure ACF Pro field groups: starting_price, insider_reality_check (callout box), local_media (photo + short vertical video gallery offloaded to Bunny.net/Cloudflare), geo_coordinates, and last_verified timestamp.\no\tBuild a clean, fast single-place dynamic template featuring a top AI-citation summary table, \"Local Reality Check\" callout, auto-updating \"Prices & hours verified [Month Year]\" badge, and dynamic TouristAttraction + FAQPage JSON-LD schema via Rank Math Pro.\n2.\tInteractive Decision Tools (Milestone 2 — 40%)\no\tNYC Attraction Pass Calculator (Custom JS/HTML): Users check off attractions pulled dynamically from our places CPT prices. The script totals individual ticket prices, compares them in real time against fixed pass tiers (Go City, New York CityPASS, Sightseeing Pass), highlights the cheapest option, and displays the corresponding affiliate CTA button.\no\tNeighborhood & Subway Matcher Quiz: 4-question conditional quiz (Budget, Vibe, First-Timer vs. Repeat, Priorities) routing visitors to a matching neighborhood result with a pre-filtered hotel affiliate link.\no\tLive \"What's Open / Free Today\" Map: FacetWP interactive map querying places coordinates and tags (Free Entry, Open Late, Seasonal Pop-up).\n3.\tAutomation, Email Funnel & Speed Optimization (Milestone 3 — 30%)\no\tConfigure WP All Import Pro templates to sync ticket prices from affiliate CSV/XML feeds without overwriting manual ACF fields (insider_reality_check, local_media).\no\tEmbed trip-date email capture form (Email + Arrival Date) connected via API/webhook to our email platform (Kit/Brevo) to trigger countdown sequences.\no\tConfigure Cloudflare CDN + Bunny.net media delivery + server caching to maintain 90+ Google PageSpeed scores at 100K+ monthly visits.\nHow to Apply (Please Answer All 3):\n1.\tShare 2 links to directory, travel, or comparison sites you built using ACF Pro and custom filtering/calculators.\n2.\tConfirm you build with Bricks or GeneratePress/GenerateBlocks (not Elementor/Divi).\n3.\tProvide a fixed-price estimate and realistic timeline across the 3 milestones above.\n________________________________________",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 13,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "html",
+      "css",
+      "javascript",
+      "php"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! Here are the answers to your application requirements:\n\n1. For directory and custom filtering builds using ACF Pro, you can review https://www.cchpca.org/ and https://waapple.org/ from my portfolio.\n2. I strictly build with clean, bloat-free stacks like Bricks Builder and GeneratePress/GenerateBlocks—no Elementor or Divi.\n3. For the complete scope across all 3 milestones, my fixed-price estimate is $3,200 with a realistic timeline of 3.5 weeks.\n\nYour technical requirements for visitnyc.com are right in my wheelhouse. I specialize in architecting high-performance, custom WordPress solutions using CPTs, ACF Pro, and advanced filtering like FacetWP. I also have deep experience building custom frontend JavaScript tools—like your attraction pass calculator and quiz logic—while keeping database queries optimized for high-traffic sites. \n\nAdditionally, I can efficiently handle the WP All Import Pro differential syncs so your manual editorial inputs are never overwritten by automated affiliate feeds, alongside Cloudflare and Bunny.net setup to keep your 90+ PageSpeed scores intact at scale.\n\nAre you available this week for a quick chat about the API schemas and affiliate feed structures?",
+    "publishedDateTime": "2026-11-24T03:41:17+0000",
+    "addedAt": "2026-11-24T03:42:58.095Z",
+    "url": "https://www.upwork.com/jobs/~022125072211545912303",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125072211545912303/apply/"
+  },
+  {
     "id": "2125021346669314739",
     "ciphertext": "~022125021346669314739",
     "title": "Website Development Fulfillment Lead",
