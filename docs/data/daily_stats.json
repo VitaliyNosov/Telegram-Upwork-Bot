@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 33,
-  "matchedFilters": 7,
+  "totalScanned": 34,
+  "matchedFilters": 8,
   "byKeyword": {
-    "wordpress developer": 6,
+    "wordpress developer": 7,
     "woocommerce": 1
   },
   "topJobs": [
@@ -49,6 +49,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022125072211545912303",
       "addedAt": "2026-11-24T03:42:56.756Z"
+    },
+    {
+      "title": "AI-Driven Website Redesign | Custom WordPress, UI/UX & SEO Expert",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022125219274931356339",
+      "addedAt": "2026-11-24T13:28:59.267Z"
     },
     {
       "title": "Senior WordPress Recovery & Modernization Engineer (AI-Augmented / Full-Stack PHP)",
