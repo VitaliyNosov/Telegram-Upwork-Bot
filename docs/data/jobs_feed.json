@@ -1,5 +1,33 @@
 [
   {
+    "id": "2125109399845982619",
+    "ciphertext": "~022125109399845982619",
+    "title": "Shopify Developer to Move Our WooCommerce Store to Shopify",
+    "description": "We sell medical adhesive patches worldwide from our own WooCommerce store, and we're moving it to Shopify. We'd like an experienced Shopify developer to scope and build the move.\n\nThe work covers:\n- A Shopify theme that keeps our current look, mobile first and fast in every market\n- Products rebuilt so colour and device are options inside one product\n- Shopify Markets with fixed prices in USD, AUD, EUR, GBP and CAD, on market specific URLs\n- Moving products, images, customers, order history, reviews and blog posts\n- Moving active subscriptions without customers entering their card details again, if it can be done\n- 301 redirects for every product, category and blog URL\n- Checkout with Stripe, PayPal, Apple Pay, Google Pay and an HSA/FSA payment app\n- A full ecommerce dataLayer for our own server side tracking\n- Connecting our warehouse system, reviews and email platforms\n\nWe're aiming to launch in January or February 2027. We'll send our full requirements brief to shortlisted applicants.\n\nDone means every old URL lands on its new page, prices match in every market, test orders go through in every currency and payment method, subscriptions renew on Shopify, and our team can build campaign pages themselves.",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 80,
+    "budgetDisplay": "$30 - $80/hr",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.87,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 150,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "shopify",
+      "shopify-theme",
+      "data-migration"
+    ],
+    "score": 8147,
+    "coverLetter": "Hi! Moving a global store from WooCommerce to Shopify while preserving subscriptions, active customer data, complex variants, and SEO equity requires a precise execution plan. \n\nWith deep experience in both WooCommerce and Shopify, I regularly handle complex migrations of this scale. I can map out your multi-currency setup using Shopify Markets, structure your products with colour and device variants, configure Stripe, PayPal, Apple/Google Pay, and HSA/FSA integrations, and implement full 301 redirects to protect your search rankings. Crucially, I can architect the transition of active subscriptions to ensure a seamless experience for your customers without forcing re-authorization. \n\nAdditionally, I'll ensure your dataLayer for server-side tracking, warehouse systems, and email platforms are integrated smoothly ahead of your Jan/Feb launch. \n\nWhen you share the full brief, I’d be happy to outline a technical scoping plan for the migration. What subscription app are you currently using on WooCommerce?",
+    "publishedDateTime": "2026-11-24T06:09:05+0000",
+    "addedAt": "2026-11-24T06:10:59.692Z",
+    "url": "https://www.upwork.com/jobs/~022125109399845982619",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125109399845982619/apply/"
+  },
+  {
     "id": "2125072211545912303",
     "ciphertext": "~022125072211545912303",
     "title": "WordPress Specialist (ACF Pro + Custom Post Types + FacetWP + Custom JS)",
