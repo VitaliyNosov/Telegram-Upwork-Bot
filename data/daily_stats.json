@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 58,
-  "matchedFilters": 11,
+  "totalScanned": 59,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 10,
+    "wordpress developer": 11,
     "woocommerce": 1
   },
   "topJobs": [
@@ -56,6 +56,13 @@
       "score": 2550,
       "url": "https://www.upwork.com/jobs/~022124998408326922931",
       "addedAt": "2026-11-23T22:50:38.141Z"
+    },
+    {
+      "title": "WordPress & Avada Specialist | Two Website Rebuilds & Hosting Consolidation",
+      "budget": "Fixed-price",
+      "score": 199,
+      "url": "https://www.upwork.com/jobs/~022125308689194947843",
+      "addedAt": "2026-11-24T19:24:59.723Z"
     },
     {
       "title": "WordPress Specialist (ACF Pro + Custom Post Types + FacetWP + Custom JS)",
