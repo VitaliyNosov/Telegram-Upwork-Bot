@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-23",
-  "totalScanned": 25,
-  "matchedFilters": 6,
+  "totalScanned": 26,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 5,
+    "wordpress developer": 6,
     "woocommerce": 1
   },
   "topJobs": [
@@ -14,6 +14,13 @@
       "score": 8147,
       "url": "https://www.upwork.com/jobs/~022125109399845982619",
       "addedAt": "2026-11-24T06:10:58.242Z"
+    },
+    {
+      "title": "WooCommerce Integration with City Model Generator",
+      "budget": "$12-$40/hr",
+      "score": 4100,
+      "url": "https://www.upwork.com/jobs/~022125182036496997880",
+      "addedAt": "2026-11-24T11:01:15.542Z"
     },
     {
       "title": "Website Development Fulfillment Lead",

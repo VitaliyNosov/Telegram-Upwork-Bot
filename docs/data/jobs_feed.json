@@ -1,5 +1,34 @@
 [
   {
+    "id": "2125182036496997880",
+    "ciphertext": "~022125182036496997880",
+    "title": "WooCommerce Integration with City Model Generator",
+    "description": "# Project: WooCommerce Integration – JarvisAR City Model Generator\n\n## 1. Project Objective\n\nThe objective of this project is to transform the existing JarvisAR City Model Generator (https://citymodel.jarvisar.com/) into a fully functional WooCommerce plugin.\n\nThe plugin should allow WooCommerce customers to create customized 3D city models directly from an online store, using the existing functionality of the JarvisAR platform.\n\nThe goal is to provide a seamless shopping experience, integrating the 3D city model generator into WooCommerce while maintaining the original application's design, functionality, and user experience.\n\n## 2. Functional Requirements\n\n### A. WooCommerce Plugin Development\n- Develop a standalone WordPress/WooCommerce plugin.\n- Ensure compatibility with current WordPress and WooCommerce versions.\n- Integrate the existing City Model Generator into the WooCommerce environment.\n- Make the generator accessible as a product or configurable product within WooCommerce.\n- Ensure the plugin can be installed and configured through the standard WordPress plugin interface.\n\n### B. User Interface & Design\n- Recreate the existing JarvisAR City Model Generator interface within WooCommerce.\n- Maintain the original look and feel, including colors, typography, buttons, icons, and layout.\n- Ensure a consistent user experience across desktop, tablet, and mobile devices.\n- Integrate the generator seamlessly into the WooCommerce product page or a dedicated product configuration page.\n\n### C. City Model Generator Functionality\nPreserve the existing functionality of the JarvisAR application, including:\n\n- Interactive map interface.\n- Search for locations, cities, and addresses.\n- Select and customize geographical areas.\n- Generate 3D city models using available map data and LiDAR data.\n- Configure terrain, water, parks, roads, and buildings.\n- Customize model settings and available parameters.\n- Preview the generated 3D model.\n- Export models in supported formats, including STL and 3MF.\n- Maintain compatibility with Bambu Studio and PrusaSlicer project formats.\n\n### D. WooCommerce Integration & Checkout\n- Connect the generated city model configuration to a WooCommerce cart item.\n- Transfer the customer's selected configuration and options to the shopping cart.\n- Allow customers to review their configuration before checkout.\n- Integrate the configuration with WooCommerce pricing and product variations.\n- Support standard WooCommerce checkout and payment gateways.\n- Store the generated model configuration with the order details.\n- Ensure that each order is linked to the correct customer and generated model.\n\n### E. Order Management & Downloads\n- Store customer configurations and generated files.\n- Link generated 3D files to the corresponding WooCommerce order.\n- Allow customers to access their purchased files through their WooCommerce account.\n- Provide download links for the generated files.\n- Allow administrators to manage orders and access associated model configurations.\n\n### F. Administration\nCreate a simple administration interface within WordPress to manage:\n\n- Plugin settings.\n- Generator configuration.\n- Product and pricing settings.\n- Available export formats.\n- Order-related model configurations.\n- API connections, if required.\n\n## 3. Technical Requirements\n- Follow WordPress and WooCommerce development standards.\n- Use secure AJAX/REST API communication where appropriate.\n- Ensure proper user authentication and data validation.\n- Optimize performance and loading times.\n- Ensure compatibility with common WordPress themes.\n- Keep the plugin modular and maintainable.\n- Avoid unnecessary dependencies on external services where possible.\n\n## 4. Testing & Delivery\n- Test the plugin across different browsers and devices.\n- Test the complete customer journey, from model configuration to checkout and download.\n- Verify WooCommerce order integration.\n- Test generated files and export functionality.\n- Fix bugs and optimize performance.\n- Deliver the final plugin as an installable ZIP file.\n- Provide basic installation and configuration documentation.\n\n## 5. Expected Result\n\nA fully integrated WooCommerce solution that allows customers to configure, generate, purchase, and download customized 3D city models directly from an online store.\n\nThe final solution should preserve the original JarvisAR experience while providing all the necessary e-commerce functionality through WooCommerce.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$12 - $40/hr",
+    "client": {
+      "country": "Netherlands",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "woocommerce",
+      "javascript"
+    ],
+    "score": 4100,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-24T10:58:23+0000",
+    "addedAt": "2026-11-24T11:01:43.767Z",
+    "url": "https://www.upwork.com/jobs/~022125182036496997880",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125182036496997880/apply/"
+  },
+  {
     "id": "2125109399845982619",
     "ciphertext": "~022125109399845982619",
     "title": "Shopify Developer to Move Our WooCommerce Store to Shopify",
