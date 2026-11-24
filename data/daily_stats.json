@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
   "lastDigestSentDate": "2026-11-24",
-  "totalScanned": 66,
-  "matchedFilters": 13,
+  "totalScanned": 67,
+  "matchedFilters": 14,
   "byKeyword": {
-    "wordpress developer": 12,
+    "wordpress developer": 13,
     "woocommerce": 1
   },
   "topJobs": [
@@ -91,6 +91,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022125252763449868979",
       "addedAt": "2026-11-24T15:42:58.906Z"
+    },
+    {
+      "title": "Expert WordP WooCommerce Developer – Website Security, Troubleshooting & Payment  API Integration",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022125343272839992062",
+      "addedAt": "2026-11-24T21:43:02.005Z"
     },
     {
       "title": "Senior WordPress Recovery & Modernization Engineer (AI-Augmented / Full-Stack PHP)",
