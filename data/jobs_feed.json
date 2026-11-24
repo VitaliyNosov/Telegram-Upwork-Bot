@@ -1,5 +1,33 @@
 [
   {
+    "id": "2125252763449868979",
+    "ciphertext": "~022125252763449868979",
+    "title": "WordPress/Elementor Designer: Redesign \"About Us\" Page with Leadership Grid and Team Bio Pages",
+    "description": "GEOptimize designs and consults on geothermal (ground source heat pump) systems. We're based in Winnipeg, and our projects range from homes to large commercial work like the IKEA Distribution Centre and the Obama Presidential Center. We want a more polished, corporate About Us page that shows off our team.\n\nCurrent page: https://www.geoptimize.com/about-us/\nInspiration (the look and structure we want): https://www.lspower.com/leadership/\n\nRight now our About page stacks each team member's photo, name, credentials and full bio one after another. We want something closer to the LS Power leadership page: a clean, modern layout that makes a strong first impression on property owners, architects and engineers.\n\nScope of work:\n\nRedesign the About Us page in Elementor\nA hero section with a strong headline and a short intro about our company and approach\nAn optional short section on our values, experience or what makes us different (we'll supply the copy, but suggestions are welcome)\nA leadership grid of 4 team members, each card showing a professional headshot, name with credentials, and title\nCards link to an individual bio page, or open a popup/modal (we're open to your recommendation)\nA call to action at the bottom, such as \"Start a Project\" linking to our Contact page\nIndividual team member bio pages (or popups)\nA reusable Elementor template with a large photo, name, credentials, title, full bio and a LinkedIn link\nBuilt so we can easily add or edit team members later without a developer (an Elementor template, Loop Grid or a simple custom post type is fine)\nConsistent headshot styling\nOur current photos vary in size and style. Crop and size them so the grid looks uniform, and apply consistent treatment (aspect ratio, background or color treatment) where needed.\nResponsive and performance\nFully responsive on desktop, tablet and mobile\nOptimized images and fast load times\nMatches our existing fonts, colors, header and footer\n\nRequirements:\n\nProven experience with WordPress and Elementor (Pro). Please share links to Elementor sites you've built.\nAn eye for clean, corporate or professional service design\nExperience with Elementor Theme Builder, templates and/or Loop Grid\nGood communication and English\n\nTo apply, please include:\n\n2–3 examples of team, leadership or About pages you've designed\nWhether you'd recommend separate bio pages or popups, and why\nYour estimated timeline and fixed price for the scope above\nStart your proposal with the word \"geothermal\" so we know you read the full posting\n\nBudget: Fixed price, 500$\nTimeline: 1-3 weeks\n\nWe'll provide WordPress admin access, all bio text and current headshots. If this goes well, we may have more website work.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "elementor",
+      "wordpress",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "geothermal energy and large-scale projects like the Obama Presidential Center deserve an About Us page that reflects that level of professionalism, which is why I’d love to help GEOptimize upgrade your current stacked layout to a polished LS Power-style leadership grid.\n\nI specialize in Elementor Pro, theme builder templates, and clean corporate design. For your team grid, I recommend using separate bio pages built with a reusable Elementor template. This keeps the main page fast-loading, provides better SEO value for your team's credentials, and makes it dead simple for your team to add new members later using an Elementor Loop Grid or dynamic templates. I will also standardize your headshots for a uniform look. \n\nYou can see my work and clean Elementor builds here: https://www.seeintl.org/\n\nI can complete this entire scope within a week for the fixed price of $500. \n\nWould you like me to share a couple of layout sketches before we get started?",
+    "publishedDateTime": "2026-11-24T15:38:42+0000",
+    "addedAt": "2026-11-24T15:43:01.069Z",
+    "url": "https://www.upwork.com/jobs/~022125252763449868979",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125252763449868979/apply/"
+  },
+  {
     "id": "2125247732077154715",
     "ciphertext": "~022125247732077154715",
     "title": "WordPress / Avada Developer – Website Rebranding Updates",
