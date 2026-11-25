@@ -1,5 +1,33 @@
 [
   {
+    "id": "2125360377693900459",
+    "ciphertext": "~022125360377693900459",
+    "title": "WordPress / WooCommerce Developer — Ongoing Support for Live E-commerce Store (Research Products)",
+    "description": "Title: WordPress / WooCommerce Developer — Ongoing Support for Live E-commerce Store (Research Products)\n\nWe run realclearbiogenix.com, a live WooCommerce store selling research-use-only peptides. We need a reliable developer for ongoing maintenance, fixes and small builds, available on short notice.\n\nCurrent setup:\n- Self-hosted WordPress + WooCommerce on IONOS\n- Custom theme (no page builder), with some text handled through WPCode snippets\n- LiteSpeed Cache / QUIC.cloud CDN\n- Payments: Card2Crypto, direct crypto, ACH (Link Money), and direct bank transfer\n- Refersion affiliate tracking plugin\n- WP Mail SMTP (Gmail) for order emails\n\nTypical work:\n- Theme and template edits in PHP/CSS (product pages, checkout, page templates)\n- Plugin setup, updates and troubleshooting\n- Checkout and payment gateway issues\n- WordPress security: updates, hardening, malware checks\n- Small features, e.g. a COA (lab report) library\n\nRequirements:\n- Proven WooCommerce experience, including custom themes, not only page builders\n- Comfortable working with a store in a restricted product category\n- Clear written communication and replies within one business day\n- Fixed-price milestones per task\n\nPlease answer:\n1. Share 2–3 live WooCommerce stores you built or maintain, and what you did on each.\n2. Have you worked on a store in a restricted category (supplements, CBD, research chemicals, etc.)?\n3. How would you handle a payment gateway that sends customers to a 404 page after checkout?\n4. Your hourly rate and typical turnaround for small fixes.",
+    "isHourly": true,
+    "hourlyBudgetMin": 30,
+    "hourlyBudgetMax": 60,
+    "budgetDisplay": "$30 - $60/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 15,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress-website",
+      "wp-ecommerce"
+    ],
+    "score": 6150,
+    "coverLetter": "Hi! I’m a senior WordPress and WooCommerce developer with extensive experience maintaining live e-commerce stores, working with custom PHP/CSS themes (no heavy page builders), and handling complex payment gateways and server environments like IONOS with LiteSpeed. \n\nHere are the answers to your questions:\n\n1. I maintain several high-performing WooCommerce stores, including https://www.snopud.com/, where I handle custom checkout optimizations, payment gateway integrations, and ongoing performance tuning. \n2. Yes, I am fully comfortable working with stores in restricted or sensitive product categories (such as supplements and research products), ensuring compliance, security, and smooth customer flows.\n3. For a payment gateway 404 error after checkout, I would first check the gateway's return/callback URL settings in the plugin configuration, inspect the server error logs and LiteSpeed cache rules to ensure endpoints aren't being cached or blocked, and verify the endpoint routes/endpoints in WooCommerce.\n4. My rate is $45/hr, and typical turnaround for small fixes is 24 hours or less.\n\nLet’s chat about how I can help keep realclearbiogenix.com running smoothly.",
+    "publishedDateTime": "2026-11-25T00:37:21+0000",
+    "addedAt": "2026-11-25T00:40:31.096Z",
+    "url": "https://www.upwork.com/jobs/~022125360377693900459",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125360377693900459/apply/"
+  },
+  {
     "id": "2125353977383651124",
     "ciphertext": "~022125353977383651124",
     "title": "Ecommerce Peptide Website Wordpress/WooCommerce",

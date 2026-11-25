@@ -1,12 +1,19 @@
 {
   "date": "2026-11-25",
   "lastDigestSentDate": "2026-11-24",
-  "totalScanned": 3,
-  "matchedFilters": 2,
+  "totalScanned": 4,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "WordPress / WooCommerce Developer — Ongoing Support for Live E-commerce Store (Research Products)",
+      "budget": "$30-$60/hr",
+      "score": 6150,
+      "url": "https://www.upwork.com/jobs/~022125360377693900459",
+      "addedAt": "2026-11-25T00:40:29.738Z"
+    },
     {
       "title": "Ecommerce Peptide Website Wordpress/WooCommerce",
       "budget": "Fixed-price",
