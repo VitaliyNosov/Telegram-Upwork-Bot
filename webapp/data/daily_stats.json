@@ -1,10 +1,10 @@
 {
   "date": "2026-11-25",
   "lastDigestSentDate": "2026-11-25",
-  "totalScanned": 39,
-  "matchedFilters": 11,
+  "totalScanned": 40,
+  "matchedFilters": 12,
   "byKeyword": {
-    "wordpress developer": 11
+    "wordpress developer": 12
   },
   "topJobs": [
     {
@@ -62,6 +62,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022125415826686530302",
       "addedAt": "2026-11-25T02:28:31.452Z"
+    },
+    {
+      "title": "Marketing Agency Web Design & Development",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022125681151486337258",
+      "addedAt": "2026-11-25T20:04:41.832Z"
     },
     {
       "title": "WordPress Landing Page Designer/Developer",
