@@ -1,5 +1,36 @@
 [
   {
+    "id": "2125353977383651124",
+    "ciphertext": "~022125353977383651124",
+    "title": "Ecommerce Peptide Website Wordpress/WooCommerce",
+    "description": "Summary\n\nI'm launching a direct-to-consumer peptide business and need a complete e-commerce website built from scratch. I have a reference site, a requirements document in progress, and I'm highly responsive — so this project will move fast if you're the right person.\n\nTech Stack Requirements\n\n- WordPress + WooCommerce (latest stable versions)\n- Mobile-responsive, performance-optimized build (Core Web Vitals compliant).\n\nKey Features Needed\n\n1. Custom Checkout Flow — Integration of Zelle and Cash App as primary payment methods in place of standard credit card processing. Must feel seamless and professional to the end user.\n\n2. Affiliate Portal — Integration with GoAffPro (https://goaffpro.com/). I can handle the GoAffPro set up on my end, I need help with integrating it to the website for a seamless appearance.\n\n3. Product Catalog — Setup of product pages with support for variants (e.g., size/dosage), product descriptions, images, and pricing.\n\n4. Acceptance Pop-Ups — Pop-ups that will require acceptance to continue into the site to shop.\n\n5. Legal Pages — Privacy Policy, Terms of Service, Disclaimer, Refund Policy (I will provide content; dev formats and places them).\n\n7. Customer Account Portal — Order history, account management, and affiliate dashboard access.\n\n8. Email Automation — Order confirmation, shipping notification, and affiliate welcome emails (via WooCommerce + SMTP or Mailchimp).\n\nReference Site\n\nPlease review this site for design and functionality inspiration: \n\nhttps://milehighcompounds.is/\nhttps://royal-peptides.com/\n\nI am not looking to copy it.  I want something clean, professional, and trustworthy that fits a wellness/research brand.\n\nScope & Deliverables\n\n- Full site design and development (start to finish)\n- Dev/Staging environment for review before go-live\n- Testing across browsers and mobile devices\n\n\n**VERY IMPORTANT TO INCLUDE 3 ITEMS**\nTo Apply, Please Include:\n\n1. Your quote broken down by phase or feature (not a single lump sum)\n2. Examples of WooCommerce sites you've built, especially any with custom checkout or affiliate integration\n3. Your estimated timeline from kickoff to launch\n\nAny questions you already have based on this posting. Thank you in advance for your response.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "woocommerce",
+      "wordpress",
+      "web-programming",
+      "e-commerce-website",
+      "ecommerce-consulting",
+      "web-design"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! \n\nI’m ready to build your DTC peptide e-commerce site on WordPress and WooCommerce, fully optimized for performance and mobile responsiveness. \n\nHere is my proposed quote broken down by phase/feature:\n- Setup & Core Architecture (Staging environment, theme design, legal pages, acceptance pop-ups): $600\n- Product Catalog & Custom Checkout (Variants, Zelle & Cash App payment gateway integration): $500\n- Integrations & Customer Portal (GoAffPro integration, customer account dashboard, email automation/SMTP): $400\nTotal Estimated Quote: $1,500.\n\nTimeline: Kickoff to launch will take approximately 2 to 3 weeks, including staging reviews and testing.\n\nFor WooCommerce work, you can review https://www.thelifeyoucansave.org/ from my portfolio, which showcases clean design and complex functionality. I also have deep experience integrating alternative payment methods and affiliate systems like GoAffPro seamlessly.\n\nQuick question: Do you already have the specific Zelle/Cash App gateway plugins in mind, or would you like me to recommend the most robust options for your checkout flow?",
+    "publishedDateTime": "2026-11-25T00:23:40+0000",
+    "addedAt": "2026-11-25T00:26:31.316Z",
+    "url": "https://www.upwork.com/jobs/~022125353977383651124",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125353977383651124/apply/"
+  },
+  {
     "id": "2125370101293523178",
     "ciphertext": "~022125370101293523178",
     "title": "WordPress Landing Page Designer/Developer",
