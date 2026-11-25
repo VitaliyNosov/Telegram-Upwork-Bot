@@ -1,5 +1,35 @@
 [
   {
+    "id": "2125415826686530302",
+    "ciphertext": "~022125415826686530302",
+    "title": "WordPress Website Theme Design",
+    "description": "I'm looking for someone to build out a Wordpress theme and start the layout of building out a new website.  I was given mockups created by AI and this is what my customer wants.  I'm more concerned about some of the difficult layouts.\n\nI will provide you admin access to a WordPress website already installed that you can use for development.  It has Elementor and a few other plugins already installed, as well as two sample pages I tried to build-out.  You can delete them or you can use them.\n\nI will also provide you the mockups.  I don't expect you to populate all of the content to the pages, if you can build out the framework, I can go in and populate it with the actual content.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 34,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "responsive-design",
+      "wordpress",
+      "web-design",
+      "web-programming",
+      "css"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Turning AI-generated mockups into clean, responsive WordPress themes—especially the tricky, custom layouts—is right in my wheelhouse. \n\nSince you already have WordPress and Elementor set up, I can dive straight into building the structural framework for your pages. I specialize in translating unique design concepts into pixel-perfect, responsive Elementor builds without bloating the site, ensuring it stays fast and easy for you to populate with content later. You can see an example of my work bringing complex layouts to life at https://www.waapple.org/.\n\nAre the AI mockups fully finalized, or are there specific responsive behaviors and animations you'd like me to map out for the mobile layouts? Let's connect and get this framework started.",
+    "publishedDateTime": "2026-11-25T02:26:41+0000",
+    "addedAt": "2026-11-25T02:28:32.705Z",
+    "url": "https://www.upwork.com/jobs/~022125415826686530302",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125415826686530302/apply/"
+  },
+  {
     "id": "2125360377693900459",
     "ciphertext": "~022125360377693900459",
     "title": "WordPress / WooCommerce Developer — Ongoing Support for Live E-commerce Store (Research Products)",
