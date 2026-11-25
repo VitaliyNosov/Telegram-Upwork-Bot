@@ -1,5 +1,31 @@
 [
   {
+    "id": "2125638146951880938",
+    "ciphertext": "~022125638146951880938",
+    "title": "WordPress Developer — Website Rebuild (Contract)",
+    "description": "Screenco Manufacturing is looking for a freelance WordPress developer to recreate an existing website in WordPress and make a short list of updates. The current site will serve as the reference for the layout, navigation, and functionality. We’ll provide the requested changes, which may include updates to copy, images, or branding.\nWhat you’ll do\n\t•\tReview the existing site and confirm which pages, templates, forms, and other features need to carry over.\n\t•\tRecreate the site in a staging environment, matching the existing look and functionality and applying the agreed updates.\n\t•\tSet up pages so our team can make routine content edits in WordPress.\n\t•\tTest layouts on desktop and mobile, and verify that menus, links, forms, and any existing integrations work before launch.\n\t•\tPublish the approved site and provide a brief handoff covering how to update it.\nWhat we’re looking for\n\t•\tHands-on experience rebuilding or migrating existing WordPress websites.\n\t•\tAbility to match an existing design accurately and troubleshoot WordPress themes, page builders, and plugins.\n\t•\tExperience testing and launching responsive websites.\n\t•\tClear communication about scope, timing, and any issues that could affect the project.\nHow to apply\nPlease share two examples of WordPress sites you’ve rebuilt or migrated and briefly explain your role in each. Include your availability and, after reviewing the reference site and change list, a proposed timeline and project quote.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 6,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress"
+    ],
+    "score": 50,
+    "coverLetter": null,
+    "publishedDateTime": "2026-11-25T17:16:27+0000",
+    "addedAt": "2026-11-25T17:19:06.870Z",
+    "url": "https://www.upwork.com/jobs/~022125638146951880938",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125638146951880938/apply/"
+  },
+  {
     "id": "2125595236291105534",
     "ciphertext": "~022125595236291105534",
     "title": "AI-Powered Local Events WordPress website",
