@@ -1,5 +1,62 @@
 [
   {
+    "id": "2125678916431369424",
+    "ciphertext": "~022125678916431369424",
+    "title": "WordPress Developer for Wellness Brand Website",
+    "description": "I need a WordPress developer to build a premium, responsive recommendation website for my new home wellness brand, Cedar & Salt. The site should reflect an architectural editorial style with warm neutrals, cedar, limestone, and olive, plus refined serif typography. Pages include homepage, product page template, buying guide template, a simple rule-based quiz, a page for property professionals, About, Contact, Privacy, and Affiliate Disclosure. Must include editable affiliate links, outbound click tracking, analytics, newsletter signup with consent, fast mobile loading, full admin access, source files, and handover notes. Please share two live WordPress sites you built, a fixed-price quote, and a schedule. Milestone payments: homepage, functional site, testing, handover. I will own the domain, hosting, and all accounts.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "web-programming"
+    ],
+    "score": 50,
+    "coverLetter": "Hi! I would love to help you bring Cedar & Salt to life with that architectural, editorial aesthetic. \n\nTranslating a refined, high-end design using warm neutrals, typography, and custom layouts into a fast, responsive WordPress site is right in my wheelhouse. I specialize in custom WordPress development, ensuring clean Gutenberg or ACF structures that make managing your products, buying guides, and editable affiliate links effortless. I also build in robust features like rule-based quizzes, newsletter integrations, click tracking, and Core Web Vitals optimization for top-tier mobile performance. \n\nHere are two live WordPress sites I’ve built with a similar editorial focus:\n- https://about.offerup.com/\n- https://www.thelifeyoucansave.org/\n\nFor the fixed-price quote and timeline, I estimate this project at $2,200 with a 3-week turnaround across your milestone phases. \n\nLet’s chat about your vision and get started!",
+    "publishedDateTime": "2026-11-25T19:52:05+0000",
+    "addedAt": "2026-11-25T19:54:54.306Z",
+    "url": "https://www.upwork.com/jobs/~022125678916431369424",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125678916431369424/apply/"
+  },
+  {
+    "id": "2125679208273682666",
+    "ciphertext": "~022125679208273682666",
+    "title": "WordPress Developer for Short-Term Site Maintenance Cover (~8 Days, Start Now)",
+    "description": "We are a Toronto web agency looking for an experienced WordPress developer to cover site maintenance for about 8 days, starting as soon as possible. Our regular developer is away, and we may need similar cover again with more notice.\n\nTHE WORK\n- Twice-daily updates through ManageWP (about 15 minutes per run): WordPress core, plugins and themes across about 11 client sites\n- Read changelogs before updating and flag anything risky\n- Ad hoc development fixes and emergency help when a site breaks\n- Sites include custom themes and plugins as well as third-party plugins\n\nOUR SITES\nHosted on WP Engine and Flywheel. Tools: ManageWP, Wordfence, Cloudflare.\n\nHOW WE WORK (NON-NEGOTIABLE)\n- Never test on live sites. Back up before any non-routine change.\n- No installing or removing plugins without our approval, and no creating WordPress users\n- No AI tools on our work: no credentials or secrets shared with AI, and AI is never connected to live sites, hosts or ManageWP\n- Passwords are shared only through a password manager. You must use one yourself, and no one else may have access to our accounts.\n- No direct client contact. Requests come by email with a response time of 1 to 3 business days, plus a phone number for emergencies.\n- Budget of about 20 hours, with a flag to us at 15 hours. Keep a time log and write a handover note at the end. Access is removed when the work finishes.\n\nYOU SHOULD HAVE\n- Strong WordPress maintenance and troubleshooting experience, including custom themes and plugins\n- Security awareness. Our sites were recently targeted by malware, so careful, documented work matters.\n- Availability to start now and work during North American hours\n\nTO APPLY, PLEASE ANSWER\n1. Are you available to start now, and what are your working hours and time zone?\n2. What is your hourly rate?\n3. Describe your experience with custom WordPress themes and plugins.\n4. Will you perform all updates without AI tools?\n5. Which password manager do you use, and will anyone else have access to our accounts?\n6. How will you protect our sites from malware and from changes we cannot trace?\n\nPlease include a link to your portfolio or past work.",
+    "isHourly": true,
+    "hourlyBudgetMin": 16,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$16 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 5,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-plugin",
+      "wordpress-theme",
+      "wordpress",
+      "malware-removal"
+    ],
+    "score": 3150,
+    "coverLetter": "Hi! I am fully available to start immediately, working during North American hours, and my hourly rate is $[Insert Rate]. \n\nI have extensive experience maintaining WordPress sites with custom themes, plugins, and complex hosting environments like WP Engine and Flywheel. To answer your security and workflow questions: I perform all updates manually with careful changelog reviews; I never use AI tools on client work or credentials; I use 1Password (solely accessed by me) for secure credential management; and I protect sites through strict staging protocols, preventative security hardening, and detailed audit trails. My background includes malware removal, hacked site recovery, and high-reliability maintenance. \n\nYou can review my past work here: https://www.thelifeyoucansave.org/\n\nLet’s chat to get started right away.",
+    "publishedDateTime": "2026-11-25T19:53:21+0000",
+    "addedAt": "2026-11-25T19:54:50.332Z",
+    "url": "https://www.upwork.com/jobs/~022125679208273682666",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125679208273682666/apply/"
+  },
+  {
     "id": "2125654641174796248",
     "ciphertext": "~022125654641174796248",
     "title": "WordPress Website Update and Optimization",
