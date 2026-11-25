@@ -1,5 +1,34 @@
 [
   {
+    "id": "2125725069094619212",
+    "ciphertext": "~022125725069094619212",
+    "title": "WordPress Developer for SiteGround Website Updates and Staging Review",
+    "description": "WordPress Developer Upwork Posting\n\nJob title\nWordPress Developer for SiteGround Website Updates and Staging Review\n\nJob description\nWe’re a court reporting firm seeking an individual WordPress developer with HTML experience to update our existing SiteGround-hosted website. We have a private staging site and page-by-page instructions with screenshots. We’ll provide approved wording, rates, and service materials.\n\nMILESTONE 1 — PAID, FIXED-PRICE STAGING REVIEW\n•\tReview the staging site against our page-by-page instructions. Explain in plain English how the menus, templates, buttons, and links are controlled. Identify which updates can be made across the site and which need page-by-page edits.\n•\tTrace the existing “Contact,” “Video,” and “Interpretation” buttons. Identify which dedicated request forms already exist and which would need to be built. The “Contact” form is all right in “Visiting Boston,” but needs to be added to “Contact Us.”  \n•\tTell us what SiteGround staging access you’ll need and who will need it.\n•\tFlag risks to existing URLs, links, search visibility, and analytics. Recommend how to make the updates within the existing site and how to move them from staging to the live site after approval. If a structural issue would materially affect the scope or cost, show us a specific example and explain the options.\n•\tDeliver a short written review and a separate fixed-price proposal and timeline for the implementation. Identify any items that need our decision before you can include them in the fixed price.\n\nMILESTONE 2 — WEBSITE UPDATES, SUBJECT TO APPROVAL\nUse our approved page-by-page instructions to make the following updates on staging:\n   •\tStandardize the menus and current-page highlighting. Remove “Transcription” from the navigation and use About Us consistently.\n   •\tUpdate the “2027 Rates & Fees” page with the rates we provide. Add a separate “Bundles Pricing” page immediately after it in the menu.\n   •\tMove “Schedule,” “Quote,” “Order Before,” and “Order After” out of “Get Started” and give them a prominent place on the lower part of homepage. Keep “Our Services” easy to find and show us what visitors will see before scrolling on desktop and mobile.\n   •\tAdd three “Our Services” panels covering “Video Sync to Certified Transcript,” “Video Clips,” and “Hyperlinked Exhibits.”\n   •\tReorganize the pages in this order:\n    o\tHOME\n    o\tCOURT REPORTING\n    o\tVIDEO\n    o\tINTERPRETATION\n    o\t2027 RATES AND FEES\n    o\tBUNDLE PRICING \n    o\tSAMPLE TRANSCRIPTS\n    o\tROUGH AUDIO SYNC\n    o\tROUGH VIDEO SYNC\n    o\tABOUT US\n    o\tRESOURCES \n    o  IN YOUR COMMUNITY \n    o \tVISITING BOSTON\n\n   •\tRename “Let’s Talk” to “Contact Us” and link to the existing contact page. Add the “Rough Audio Sync” and “Rough Video Sync” screenshots and leave room for future samples. Standardize the spelling of “sync” and restore the missing community-page images.\n   •\tCoordinate the interpreter and video request links with our forms specialist. Coordinate any URL changes with our SEO specialist, preserve existing URLs where practical, and document redirects.\n   •\tKeep staging private and out of search results. \n   •\tTest menus, links, buttons, and images on desktop and mobile. Walk us through the changes and provide test results and rollback steps. \n   •\tWait for our approval before making live changes. \n   •\tAfter an approved launch, verify live links, indexing settings, and analytics.\n\nTO APPLY\n   •\tShare two comparable WordPress projects and explain what you personally did on each. \n   •\tBriefly describe how you identify shared menus and find broken links. \n   •\tTell us who will perform the work and who will need access. \n   •\tInclude your fixed price, turnaround time, and staging access needs for Milestone 1.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "web-programming"
+    ],
+    "score": 150,
+    "coverLetter": "Hi! To answer your requirements directly: I am the sole developer who will perform the work, and I will need standard collaborator access to your SiteGround account and WordPress dashboard. \n\nFor Milestone 1, my fixed price is $150, turnaround time is 2 days, and I will need access granted via SiteGround's \"Add Collaborator\" feature.\n\nWith extensive experience handling WordPress site updates, menu structures, and safe staging-to-live migrations (as seen in my work on https://www.thelifeyoucansave.org/), I routinely audit template hierarchies, trace form functionality, and safeguard SEO rankings and URLs. When identifying shared menus and broken links, I analyze theme header/footer template parts and custom walker functions, combined with automated deep-link crawlers and WP-CLI checks, to ensure nothing gets missed.\n\nLet's start a chat to discuss your page instructions and get Milestone 1 underway.",
+    "publishedDateTime": "2026-11-25T22:55:33+0000",
+    "addedAt": "2026-11-25T22:58:39.647Z",
+    "url": "https://www.upwork.com/jobs/~022125725069094619212",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125725069094619212/apply/"
+  },
+  {
     "id": "2125681151486337258",
     "ciphertext": "~022125681151486337258",
     "title": "Marketing Agency Web Design & Development",

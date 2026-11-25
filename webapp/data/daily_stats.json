@@ -1,8 +1,18 @@
 {
   "date": "2026-11-26",
   "lastDigestSentDate": "2026-11-25",
-  "totalScanned": 2,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 3,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "WordPress Developer for SiteGround Website Updates and Staging Review",
+      "budget": "Fixed-price",
+      "score": 150,
+      "url": "https://www.upwork.com/jobs/~022125725069094619212",
+      "addedAt": "2026-11-25T22:58:38.343Z"
+    }
+  ]
 }
