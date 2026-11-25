@@ -1,10 +1,10 @@
 {
   "date": "2026-11-25",
   "lastDigestSentDate": "2026-11-24",
-  "totalScanned": 24,
-  "matchedFilters": 6,
+  "totalScanned": 25,
+  "matchedFilters": 7,
   "byKeyword": {
-    "wordpress developer": 6
+    "wordpress developer": 7
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 3300,
       "url": "https://www.upwork.com/jobs/~022125557358348607722",
       "addedAt": "2026-11-25T11:50:41.025Z"
+    },
+    {
+      "title": "AI-Powered Local Events WordPress website",
+      "budget": "$10-$30/hr",
+      "score": 3100,
+      "url": "https://www.upwork.com/jobs/~022125595236291105534",
+      "addedAt": "2026-11-25T14:20:40.869Z"
     },
     {
       "title": "Sr. WordPress Developer",

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2125595236291105534",
+    "ciphertext": "~022125595236291105534",
+    "title": "AI-Powered Local Events WordPress website",
+    "description": "I am looking to build a modern WordPress platform where users can discover local events, entertainment venues, and activities in their area.\nThe website should have a clean, custom design rather than relying on an off-the-shelf WordPress theme.\n\nKey functionality:\nAI-Powered Homepage: Visitors can ask questions and receive personalized suggestions for events, entertainment, and local activities.\nPersonalized Recommendations: Suggest activities based on users' interests, location, budget, schedule, and preferences.\nInteractive Event Map: Display event venues, attractions, and activity locations on a map using destination data rather than Google Maps.\nExternal API Integrations: Connect with third-party event services and external data providers to retrieve and display relevant information.\nEvent Discovery and Filtering: Allow users to find events by category, date, location, price, and other preferences.\nCustom Website Experience: Build responsive layouts and interactive features that provide a smooth experience across desktop and mobile devices.\n\nDevelopers must have the following capabilities:\nWordPress Development: Advanced PHP, custom themes, plugins, CPT, custom taxonomies, GeneratePress/Bricks.\nFrontend Development: JavaScript, TypeScript, React, HTML5, CSS3, responsive UI and custom interactive components.\nAI Integration: OpenAI API, Anthropic Claude API, prompt engineering, RAG, AI agents, natural-language search and itinerary generation.\nBackend & API Development: REST APIs, WordPress REST API, Node.js, webhooks, OAuth and third-party integrations.\nDatabase Engineering: MySQL, database architecture, SQL optimization, structured data and large-scale content migration.\nAutomation: Google Docs/Drive APIs, document parsing, automated content publishing, ACF field mapping and WP All Import Pro.\nSearch & Mapping: FacetWP, Google Maps API, geolocation, advanced filtering and location-based search.\nVocation & Affiliate Integrations: CityPASS, affiliate APIs, pricing feeds and comparison algorithms.\nSEO & Performance: Rank Math Pro, JSON-LD schema, Cloudflare, Bunny.net, caching and Google PageSpeed optimization.\nDevOps & Security: Git, staging environments, deployment, backups, API security, testing and monitoring.",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 10,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "api-integration",
+      "wordpress-website",
+      "automation"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! This is a fascinating build; I have extensive experience architecting custom WordPress platforms that leverage AI and external data feeds, making me a great fit for this project.\n\nMy approach would involve building a custom theme using Bricks for high performance, paired with a headless-adjacent architecture to handle the complex API integrations. I have successfully implemented REST API connections for high-traffic sites like https://www.thelifeyoucansave.org/ and frequently work with OpenAI/Claude APIs to build intelligent, natural-language search features. I am comfortable handling the backend complexity of RAG, custom post types for your event database, and mapping logic to ensure the user experience is seamless and fast.\n\nDo you already have a preferred event data provider, or would you like to discuss the best API sources for your specific region?",
+    "publishedDateTime": "2026-11-25T14:19:33+0000",
+    "addedAt": "2026-11-25T14:20:48.090Z",
+    "url": "https://www.upwork.com/jobs/~022125595236291105534",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125595236291105534/apply/"
+  },
+  {
     "id": "2125573202169352958",
     "ciphertext": "~022125573202169352958",
     "title": "Sr. WordPress Developer",
