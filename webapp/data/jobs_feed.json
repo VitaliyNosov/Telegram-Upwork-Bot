@@ -1,5 +1,37 @@
 [
   {
+    "id": "2125573202169352958",
+    "ciphertext": "~022125573202169352958",
+    "title": "Sr. WordPress Developer",
+    "description": "As a Senior WordPress Developer, you will be responsible for developing, and maintaining complex WordPress websites, including WooCommerce stores, membership-based platforms, custom integrations, and data migration projects. You will build custom plugins, themes, and integrations, ensure robust backend functionality, and mentor peers to maintain code quality and best practices.\n\n\n\nKey Responsibilities\nBuild custom WordPress plugins, themes, templates, widgets, shortcodes, and reusable components from scratch.\nDevelop and maintain WooCommerce-based eCommerce solutions, including customized checkout, payment, product, and order workflows.\nBuild and support membership and subscription-based WordPress platforms.\nDevelop backend functionality using PHP and MySQL, following WordPress coding standards and development best practices.\nIntegrate WordPress with external platforms such as CRM, marketing automation, payment, ERP, and cloud-based applications using REST APIs and webhooks.\nPlan and execute data migrations from legacy platforms or other CMS/eCommerce systems into WordPress.\nTroubleshoot complex application, plugin, database, integration, and performance issues.\nOptimize websites for performance, scalability, caching, Core Web Vitals, and security.\nConduct peer code reviews and ensure adherence to coding standards, security practices, and maintainable architecture.\nWork closely with Project Managers, Designers, QA, and other developers throughout the development lifecycle.\nMaintain appropriate technical documentation and follow established SDLC, deployment, and version-control processes.\nEstimate development effort, identify technical risks, and proactively communicate dependencies or blockers.\nMentor junior and mid-level developers and provide technical guidance when required.\nStay current with evolving WordPress technologies, development practices, AI-assisted development tools, security standards, and industry trends.\n\nRequired Experience & Skills\nCore WordPress & Backend\n5+ years of WordPress development experience\nStrong backend PHP skills and MySQL database expertise\nExperience developing custom plugins, themes, integrations, and performing data migration\nExpertise in WooCommerce and eCommerce workflows\nExperience with membership-based websites and subscription management\nFrontend & Tools\nStrong proficiency in HTML5, CSS3, JavaScript, and jQuery.\nExperience converting UI/UX designs into responsive and functional WordPress interfaces.\nExperience with page builders such as Elementor, WPBakery, Thrive, or similar tools.\nStrong understanding of responsive development and cross-browser compatibility.\nFamiliarity with commonly used WordPress extensions and their customization.\nVersion Control & Collaboration\nHands-on experience with Git-based version control and branching workflows.\nExperience working with Bitbucket, GitHub, or equivalent repositories.\nComfortable working with Jira, Confluence, or similar project management and documentation tools.\nUnderstanding of development, staging, and production deployment processes.\n\nIntegrations & APIs\nStrong experience integrating WordPress with external applications using REST APIs, JSON, webhooks, and authentication mechanisms.\nExperience working with CRM, marketing, payment, or other SaaS platforms.\nExposure to platforms such as Salesforce, HubSpot, ActiveCampaign, Stripe, or similar systems is preferred.\nGood-to-Have\nPrevious team handling experience\nHands-on experience with Magento will be a plus\nExposure to DevOps, CI/CD, or cloud hosting environments\nExperience with performance optimization, caching, and security hardening\nPersonal Attributes\nExcellent verbal and written communication skills\nStrong problem-solving and analytical abilities\nDetail-oriented with a focus on quality and best practices\nAbility to work independently and in a remote team environment\nPositive attitude, creativity, and ownership mindset",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 25,
+    "budgetDisplay": "$10 - $25/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 4.9,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 38,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "plugin-development",
+      "woocommerce",
+      "mysql",
+      "wordpress",
+      "php",
+      "web-programming",
+      "api-integration"
+    ],
+    "score": 2748,
+    "coverLetter": "Hi! I’m a Senior WordPress Developer with deep experience building custom plugins, complex WooCommerce setups, and custom REST API integrations (Stripe, HubSpot, CRMs). My core backend work focuses on writing clean PHP/MySQL, architecting membership/subscription systems, and maintaining strict Git-based workflows.\n\nWhether it's building bespoke plugins from scratch, executing complex data migrations, or optimizing database queries and Core Web Vitals for high-traffic environments, I prioritize clean, maintainable architecture aligned with WordPress coding standards. You can check out one of the live, high-impact enterprise sites I’ve worked on here: https://about.offerup.com/\n\nWhat is the immediate priority for your team right now—a new custom plugin build, a platform migration, or optimizing existing WooCommerce workflows? Let's chat.",
+    "publishedDateTime": "2026-11-25T12:52:01+0000",
+    "addedAt": "2026-11-25T12:54:54.203Z",
+    "url": "https://www.upwork.com/jobs/~022125573202169352958",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125573202169352958/apply/"
+  },
+  {
     "id": "2125557358348607722",
     "ciphertext": "~022125557358348607722",
     "title": "Re-Launch WordPress Website",
