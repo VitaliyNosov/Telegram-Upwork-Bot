@@ -1,5 +1,33 @@
 [
   {
+    "id": "2125557358348607722",
+    "ciphertext": "~022125557358348607722",
+    "title": "Re-Launch WordPress Website",
+    "description": "A company designed my company's WordPress site and then they were acquired just as they finished the site.  It was never launched but the design was completed.  I have the Zip file of the finished Wordpress website.  Need someone to launch the site and check the files.  Also, we will provide copy for the pages.",
+    "isHourly": true,
+    "hourlyBudgetMin": 8,
+    "hourlyBudgetMax": 32,
+    "budgetDisplay": "$8 - $32/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 3,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 3300,
+    "coverLetter": "Hi! I can certainly handle the deployment of your site and ensure everything is fully functional before you go live.\n\nI specialize in website migrations and technical troubleshooting, having successfully launched many WordPress projects from local environments or development backups to live servers. I will perform a full integrity audit on your files to resolve any potential path issues or broken links caused by the transfer, configure your database, and integrate your final copy to ensure a seamless launch. You can see examples of my work on complex builds like https://www.thelifeyoucansave.org/.\n\nDo you already have your hosting and domain set up, or would you like me to assist with the server environment configuration as well? I am ready to start as soon as you share the files.",
+    "publishedDateTime": "2026-11-25T11:49:03+0000",
+    "addedAt": "2026-11-25T11:50:45.199Z",
+    "url": "https://www.upwork.com/jobs/~022125557358348607722",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125557358348607722/apply/"
+  },
+  {
     "id": "2125415826686530302",
     "ciphertext": "~022125415826686530302",
     "title": "WordPress Website Theme Design",
