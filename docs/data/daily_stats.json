@@ -1,32 +1,8 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "lastDigestSentDate": "2026-11-26",
-  "totalScanned": 35,
-  "matchedFilters": 3,
-  "byKeyword": {
-    "wordpress developer": 3
-  },
-  "topJobs": [
-    {
-      "title": "WordPress Developer for Form, Payment & Email Integration Troubleshooting",
-      "budget": "$15-$40/hr",
-      "score": 4147,
-      "url": "https://www.upwork.com/jobs/~022125761504477585642",
-      "addedAt": "2026-11-26T01:22:41.935Z"
-    },
-    {
-      "title": "WordPress Developer for SiteGround Website Updates and Staging Review",
-      "budget": "Fixed-price",
-      "score": 150,
-      "url": "https://www.upwork.com/jobs/~022125725069094619212",
-      "addedAt": "2026-11-25T22:58:38.343Z"
-    },
-    {
-      "title": "WordPress Website Maintenance",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022125775052261414096",
-      "addedAt": "2026-11-26T02:16:46.008Z"
-    }
-  ]
+  "totalScanned": 1,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
