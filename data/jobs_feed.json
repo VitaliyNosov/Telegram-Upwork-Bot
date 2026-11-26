@@ -1,5 +1,34 @@
 [
   {
+    "id": "2125775052261414096",
+    "ciphertext": "~022125775052261414096",
+    "title": "WordPress Website Maintenance",
+    "description": "We need a reliable freelancer to maintain and support our WordPress website.  a full backup of the files and database with a recovery check, cleanup of the oversized error logs, a look at the Orane theme warnings, checking whether WP File Manager and WP News and Scrolling Widgets are actually used before removing anything, updating WordPress to 6.8.11 with the compatible plugin updates, then testing",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.91,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 47,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "php",
+      "web-design"
+    ],
+    "score": 98,
+    "coverLetter": "Hi! I can step in right away to handle your WordPress maintenance, backups, and targeted cleanup safely. \n\nMy approach will cover everything on your checklist: taking and verifying a full file and database backup, purging oversized error logs, investigating the Orane theme warnings, auditing those specific plugins (WP File Manager and WP News and Scrolling Widgets) to safely remove bloat, and finally updating to WordPress 6.8.11 with compatible plugin updates followed by thorough testing. \n\nWith extensive experience in WordPress debugging, error log resolution, and safe core/plugin updates (similar to my work on sites like https://www.cchpca.org/), I ensure zero downtime and a stable environment. \n\nLet’s get your site fully optimized and updated—when would you like to start?",
+    "publishedDateTime": "2026-11-26T02:14:05+0000",
+    "addedAt": "2026-11-26T02:16:50.415Z",
+    "url": "https://www.upwork.com/jobs/~022125775052261414096",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125775052261414096/apply/"
+  },
+  {
     "id": "2125761504477585642",
     "ciphertext": "~022125761504477585642",
     "title": "WordPress Developer for Form, Payment & Email Integration Troubleshooting",

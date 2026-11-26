@@ -1,10 +1,10 @@
 {
   "date": "2026-11-26",
   "lastDigestSentDate": "2026-11-25",
-  "totalScanned": 4,
-  "matchedFilters": 2,
+  "totalScanned": 5,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
     {
@@ -20,6 +20,13 @@
       "score": 150,
       "url": "https://www.upwork.com/jobs/~022125725069094619212",
       "addedAt": "2026-11-25T22:58:38.343Z"
+    },
+    {
+      "title": "WordPress Website Maintenance",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022125775052261414096",
+      "addedAt": "2026-11-26T02:16:46.008Z"
     }
   ]
 }
