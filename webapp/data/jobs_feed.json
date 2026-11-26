@@ -1,5 +1,31 @@
 [
   {
+    "id": "2125761504477585642",
+    "ciphertext": "~022125761504477585642",
+    "title": "WordPress Developer for Form, Payment & Email Integration Troubleshooting",
+    "description": "We are seeking an experienced WordPress developer to evaluate and improve an existing website with integrated training registration, online payment processing, and automated email functionality.\nThe website is operational but has occasional issues with registration totals, form submission behavior, and email delivery. Access to certain third-party service accounts also needs to be reestablished.\nThe objective is to improve system stability, correct existing technical problems, and ensure the organization maintains independent control over its website and connected services. We prefer to retain the current infrastructure wherever practical.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 40,
+    "budgetDisplay": "$15 - $40/hr",
+    "client": {
+      "country": "USA",
+      "totalFeedback": 4.84,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 25,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress-website"
+    ],
+    "score": 4147,
+    "coverLetter": "Hi! I can help you stabilize your training registration system, fix the payment and form glitches, and resolve your email delivery and third-party access issues. \n\nIn my WordPress development work, I frequently diagnose and resolve complex backend issues involving WooCommerce and custom checkout flows, intermittent form submission failures, and WP mail delivery troubleshooting. I will review your current infrastructure to find the root cause of these errors, fix them without disrupting your setup, and ensure your team has full, independent control over all connected services. You can see examples of my recent client work here: https://www.thelifeyoucansave.org/\n\nCould you share which payment gateway and form plugins your site is currently using?",
+    "publishedDateTime": "2026-11-26T01:20:27+0000",
+    "addedAt": "2026-11-26T01:22:45.291Z",
+    "url": "https://www.upwork.com/jobs/~022125761504477585642",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022125761504477585642/apply/"
+  },
+  {
     "id": "2125725069094619212",
     "ciphertext": "~022125725069094619212",
     "title": "WordPress Developer for SiteGround Website Updates and Staging Review",
