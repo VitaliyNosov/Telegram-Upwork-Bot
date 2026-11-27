@@ -1,53 +1,8 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "lastDigestSentDate": "2026-11-27",
-  "totalScanned": 33,
-  "matchedFilters": 6,
-  "byKeyword": {
-    "wordpress developer": 6
-  },
-  "topJobs": [
-    {
-      "title": "Senior WordPress Designer/Developer for Website Migratoin and Redesign",
-      "budget": "$14-$32/hr",
-      "score": 3296,
-      "url": "https://www.upwork.com/jobs/~022126292974556566397",
-      "addedAt": "2026-11-27T12:34:58.531Z"
-    },
-    {
-      "title": "Word Press Website Audit",
-      "budget": "$15-$30/hr",
-      "score": 3100,
-      "url": "https://www.upwork.com/jobs/~022126324202754050166",
-      "addedAt": "2026-11-27T14:39:01.113Z"
-    },
-    {
-      "title": "Website build with HTML File (Chat GPT created website)",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022126163846035693554",
-      "addedAt": "2026-11-27T04:01:04.083Z"
-    },
-    {
-      "title": "WordPress + Oxygen Developer for Website Framework",
-      "budget": "Fixed-price",
-      "score": 100,
-      "url": "https://www.upwork.com/jobs/~022126341735212577360",
-      "addedAt": "2026-11-27T15:49:00.871Z"
-    },
-    {
-      "title": "Convert website to WordPress",
-      "budget": "Fixed-price",
-      "score": 98,
-      "url": "https://www.upwork.com/jobs/~022126227678430108896",
-      "addedAt": "2026-11-27T08:14:59.713Z"
-    },
-    {
-      "title": "E-commerce Website Developer Wanted for UK Limited Company _ Fixed term task",
-      "budget": "Fixed-price",
-      "score": 0,
-      "url": "https://www.upwork.com/jobs/~022126403588097625493",
-      "addedAt": "2026-11-27T19:54:58.101Z"
-    }
-  ]
+  "totalScanned": 0,
+  "matchedFilters": 0,
+  "byKeyword": {},
+  "topJobs": []
 }
