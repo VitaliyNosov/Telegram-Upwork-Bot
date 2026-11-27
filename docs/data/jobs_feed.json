@@ -1,5 +1,39 @@
 [
   {
+    "id": "2126454325519512144",
+    "ciphertext": "~022126454325519512144",
+    "title": "Elementor Developer: Technical SEO and Speed Fixes on Wordpress",
+    "description": "***NOTE: DO NOT contact me via business Whatsapp, direct phone number, or email. All communication will exclusively be through Upwork. All attempts outside of Upwork will be blocked and auto-disqualified***\n\nAbout us\nOur company is a luxury optical boutique that carries Ray-Ban through Cartier. We’re upgrading our existing WordPress/Elementor site so more Google visitors book appointments, and so we show up in Google Maps and in AI search (ChatGPT, Gemini, Google AI Overviews).\n\nThe work (about 25–35 hours)\nWe have a written audit and a 39-item task list. Some of these items have already been completed by a different contractor. You will be picking up where he left off. You’ll handle the technical items, in this order:\n\n1) Backups (UpdraftPlus) and staging setup\n2) Content and image fixes (alt text, removing specific wording) from a written list\n3) Simplifying the booking flow (currently patients enter their info twice)\n4) A mobile sticky bar (Book / Call / Text) and navigation cleanup\n5) An FAQ page plus schema markup (LocalBusiness/Optician + FAQPage) in Rank Math or Yoast\n6) Google Search Console + GA4 setup, with booking-click tracking\n7) Business listings (Bing Places, Apple Business Connect, Yelp, Healthgrades)\n8) Building 6–8 new pages from an approved design system (our designer provides the style; we provide the copy)\n9) 301 redirects, mobile PageSpeed optimization, final QA and launch\n\nMust have\n\n- 3+ years of Elementor Pro experience. Send 2–3 live sites you built.\n- Practical technical SEO: schema, alt text, redirects, Core Web Vitals\n- Clear written English\n- Willing to follow a written task list and log every change\n\nNice to have: experience with optical or luxury retail sites, and online booking systems.\n\nPay: fixed price for the project, plus an on-time bonus for launching by the date you commit to in your proposal. The bonus shrinks by 10% per business day after that date. The clock pauses whenever you’re blocked waiting on us (you log it through a simple form the moment it happens), and the bonus is paid once the launch passes our quality checklist. Please include your proposed launch date.\n\nHow we hire: a test task (about 1-2 hours of content and image fixes on our live site, with a backup first). If it goes well, you get the full project.\n\nTo apply, answer these 3 questions:\n\n1) Send 2 Elementor sites you built, and their mobile PageSpeed scores.\n2) How would you add FAQ schema to a WordPress page without breaking the existing SEO plugin?\n3) A homepage video is slowing the mobile site down. What’s your fix?\n\nApplications without answers to these three questions won’t be reviewed. \n\n***NOTE: DO NOT contact me via business Whatsapp, direct phone number, or email. All communication will exclusively be through Upwork. All attempts outside of Upwork will be blocked and auto-disqualified***",
+    "isHourly": true,
+    "hourlyBudgetMin": 10,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$10 - $30/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.59,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 31,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "website-optimization",
+      "responsive-design",
+      "website-redesign",
+      "wordpress",
+      "elementor",
+      "technical-seo",
+      "google-search-console",
+      "google-analytics",
+      "local-seo"
+    ],
+    "score": 3092,
+    "coverLetter": "Hi! I’m ready to tackle your 39-item task list and get your luxury boutique site optimized, ranking, and converting. \n\nHere are the answers to your questions:\n\n1) Two Elementor sites I built:\n- https://www.snopud.com/ (Mobile PageSpeed: 92)\n- https://www.daysforgirls.org/ (Mobile PageSpeed: 89)\n\n2) To add FAQ schema without breaking your existing SEO plugin, I implement it cleanly via custom JSON-LD inserted dynamically (or using the plugin's built-in schema blocks if supported), ensuring there are no duplicate microdata conflicts with Rank Math or Yoast.\n\n3) For a homepage video slowing down mobile speed, I lazy-load it, replace the heavy mobile background video with a lightweight compressed WebP poster image, or use an interactive click-to-play thumbnail that only loads the iframe/video file on user interaction.\n\nI am comfortable with staging setups via UpdraftPlus, fixing your booking flow, setting up schema, and handling the 6–8 new pages. I can commit to completing the 25–35 hour scope and launching by [Insert Date]. \n\nWould you like to schedule the 1–2 hour test task to get started?",
+    "publishedDateTime": "2026-11-27T23:13:20+0000",
+    "addedAt": "2026-11-27T23:15:00.341Z",
+    "url": "https://www.upwork.com/jobs/~022126454325519512144",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126454325519512144/apply/"
+  },
+  {
     "id": "2126403588097625493",
     "ciphertext": "~022126403588097625493",
     "title": "E-commerce Website Developer Wanted for UK Limited Company _ Fixed term task",

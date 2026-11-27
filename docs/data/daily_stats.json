@@ -1,8 +1,18 @@
 {
   "date": "2026-11-28",
   "lastDigestSentDate": "2026-11-27",
-  "totalScanned": 1,
-  "matchedFilters": 0,
-  "byKeyword": {},
-  "topJobs": []
+  "totalScanned": 2,
+  "matchedFilters": 1,
+  "byKeyword": {
+    "wordpress developer": 1
+  },
+  "topJobs": [
+    {
+      "title": "Elementor Developer: Technical SEO and Speed Fixes on Wordpress",
+      "budget": "$10-$30/hr",
+      "score": 3092,
+      "url": "https://www.upwork.com/jobs/~022126454325519512144",
+      "addedAt": "2026-11-27T23:14:59.041Z"
+    }
+  ]
 }
