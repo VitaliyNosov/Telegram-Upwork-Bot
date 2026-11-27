@@ -1,5 +1,34 @@
 [
   {
+    "id": "2126403588097625493",
+    "ciphertext": "~022126403588097625493",
+    "title": "E-commerce Website Developer Wanted for UK Limited Company _ Fixed term task",
+    "description": "We are a UK-based limited company seeking an experienced Website Developer to build a modern, user-friendly e-commerce site for our business. The project includes product listing pages with images, descriptions, prices, and categories, secure online payment integration, shopping cart and checkout functionality, and About Us, Careers, and Contact Us pages. The site must display our official business address, be mobile-friendly and responsive, and include an easy-to-manage admin panel for adding products and managing orders. We are looking for someone with proven e-commerce development experience who can deliver a professional website on time.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United Kingdom",
+      "totalFeedback": 0,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 2,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "web-design",
+      "css",
+      "web-programming"
+    ],
+    "score": 0,
+    "coverLetter": "Hi! \n\nI can help you build a modern, high-converting e-commerce website for your UK-based company that is fully responsive, secure, and easy for your team to manage. \n\nWith extensive experience in WordPress and WooCommerce development, I specialize in creating seamless user experiences—from categorized product listings and secure checkout integrations to essential corporate pages like About Us, Careers, and Contact. I also ensure all compliance elements, such as official business address displays and mobile optimization, are properly implemented out of the box. \n\nFor a look at my recent work with clean, professional layouts, you can review this project from my portfolio: https://www.seeintl.org/\n\nDo you have a preferred payment gateway in mind (like Stripe or PayPal), or would you like recommendations based on your UK operations? Let's discuss the details in chat.",
+    "publishedDateTime": "2026-11-27T19:51:39+0000",
+    "addedAt": "2026-11-27T19:54:59.497Z",
+    "url": "https://www.upwork.com/jobs/~022126403588097625493",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126403588097625493/apply/"
+  },
+  {
     "id": "2126341735212577360",
     "ciphertext": "~022126341735212577360",
     "title": "WordPress + Oxygen Developer for Website Framework",
