@@ -1,5 +1,33 @@
 [
   {
+    "id": "2126163846035693554",
+    "ciphertext": "~022126163846035693554",
+    "title": "Website build with HTML File (Chat GPT created website)",
+    "description": "I created a website using chatgpt. Now i'm looking for a web designer or developer to help me turn it into a fully functioning website.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 27,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "html",
+      "web-programming",
+      "web-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Turning a ChatGPT-generated HTML prototype into a fully functioning, production-ready website is a great starting point, and I can help you bring it to life. \n\nWhile I specialize in custom WordPress, Webflow, and Shopify development, I frequently take static or AI-generated HTML files and convert them into robust, responsive, and easily manageable websites. I can clean up the code, build out proper layouts, and set up a reliable content management system so you can easily update the site moving forward. \n\nYou can check out some of my live client work here: https://waapple.org/\n\nCould you share the HTML files or a link to the ChatGPT prototype so I can review what we're working with?",
+    "publishedDateTime": "2026-11-27T03:59:02+0000",
+    "addedAt": "2026-11-27T04:01:05.112Z",
+    "url": "https://www.upwork.com/jobs/~022126163846035693554",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126163846035693554/apply/"
+  },
+  {
     "id": "2125775052261414096",
     "ciphertext": "~022125775052261414096",
     "title": "WordPress Website Maintenance",
