@@ -1,12 +1,19 @@
 {
   "date": "2026-11-27",
   "lastDigestSentDate": "2026-11-26",
-  "totalScanned": 15,
-  "matchedFilters": 2,
+  "totalScanned": 16,
+  "matchedFilters": 3,
   "byKeyword": {
-    "wordpress developer": 2
+    "wordpress developer": 3
   },
   "topJobs": [
+    {
+      "title": "Senior WordPress Designer/Developer for Website Migratoin and Redesign",
+      "budget": "$14-$32/hr",
+      "score": 3296,
+      "url": "https://www.upwork.com/jobs/~022126292974556566397",
+      "addedAt": "2026-11-27T12:34:58.531Z"
+    },
     {
       "title": "Website build with HTML File (Chat GPT created website)",
       "budget": "Fixed-price",
