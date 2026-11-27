@@ -1,5 +1,34 @@
 [
   {
+    "id": "2126341735212577360",
+    "ciphertext": "~022126341735212577360",
+    "title": "WordPress + Oxygen Developer for Website Framework",
+    "description": "Divine Stoneworks is a mid to high-end countertop fabricator in MetroWest Massachusetts, serving builders, architects, designers and homeowners from Maine to Connecticut. We're rebuilding our website from scratch on WordPress with Oxygen 6.\n\nWhat we need\nWe're not hiring for the full website. We need a developer to design and build a solid, fast, well-organized framework. Our team will then add the content ourselves, using Oxygen 6's MCP connector. Everything needs to be structured so non-developers can add and edit content without breaking anything.\n\nScope\n\nHosting and setup: Recommend and set up hosting, then install WordPress and Oxygen 6\nBuild inside our account: Build the site on a staging environment inside our hosting account, under our login. We must own and have access to everything (hosting, WordPress admin, Oxygen license) from day one.\n\nDesign: Help design the look and layout of the site, then build it as a reusable design system (global colors, fonts, spacing and components)\n\nGlobal elements: Header, navigation, footer and mobile menu\n\nPage templates: Homepage, standard content page, service/surface pages, regional service-area pages, guides and resources, careers, and the about page\n\nCustom post types and templates for:\n\nStone database (slabs, filterable by material, brand, color, finish and size)\nSuppliers, with an interactive map filterable by material\nBrands\nProject portfolio, filterable by surface type\nGuides and resources\n\nForms: Set up form placements and a timed content gate (visitors get 60–90 seconds of access before a form appears). We'll provide the Pipedrive form embed codes.\n\nAdmin usability: Our team must be able to add and remove suppliers, stones and projects on our own, without needing a developer\n\nPerformance and SEO: Fast load times, clean URL structure, schema markup, and llms.txt\nLaunch and migration: Push staging to live, point the domain to the new hosting, set up 301 redirects from old URLs, and confirm everything works (forms, SSL, email, Google Search Console)\n\nOut of scope\nWriting content, adding all products and pages, and building Pipedrive forms and drip campaigns.\n\nPayment\nFixed price, paid by milestones. Please propose your own milestone breakdown.\n\nTo apply, please answer these questions:\n\n- Our stone database will have thousands of individual slab pages with mulitple photos on each page. How would you structure it so the site stays fast and the database stays easy for us to manage?\n\n- We need a supplier map where our team can add and remove suppliers through a simple admin form, with filtering by material and color-coded pins. How would you build it?\n\n- Share 1–2 sites you've built with Oxygen (ideally Oxygen 6) or a similar builder.\n\n- Once you have everything you need from us, what is your turnaround time for each milestone?\n\n- Have you worked with WordPress sites that are edited through AI tools or MCP connectors? If not, how would you make sure the setup works well for that?\n\n- Walk us through how you'd build this on staging inside our hosting account and take it live. Which hosts do you recommend for a one-click staging-to-live push, and how do you handle the domain switch and redirects from our old URLs without losing search rankings?",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 4.99,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 50,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "php",
+      "html5",
+      "javascript"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! Here are the answers to your questions to get started on your Divine Stoneworks framework:\n\n- **Stone database structure:** I'll set up a Custom Post Type with Advanced Custom Fields (ACF) and custom taxonomies, utilizing optimized database queries and lazy-loaded image galleries to ensure high performance with thousands of slabs.\n- **Supplier map:** I'll implement a CPT for suppliers tied to ACF geolocation fields, rendered via Mapbox or Google Maps API with JavaScript-based filtering for color-coded pins.\n- **Portfolio & Oxygen:** While I primarily build clean, high-performance custom Gutenberg/ACF sites—like [waapple.org](https://waapple.org/)—I am fully equipped to handle Oxygen 6 component-driven builds and global design systems.\n- **Milestone turnaround:** Typically 3-4 weeks total (Hosting/Setup & Design System: 1 week; Templates & CPTs: 1.5 weeks; Forms, Maps & Performance: 1 week; Launch/Migration: 3-5 days).\n- **AI/MCP editing:** I structure code cleanly with strict Gutenberg/ACF schemas and clear semantic markup so AI tools and MCP connectors can read, write, and update content safely without breaking layouts.\n- **Staging & Migration:** I recommend Kinsta or WP Engine for seamless one-click staging. I'll build in your account from day one, handle DNS propagation carefully, and map out a comprehensive 301 redirect matrix to protect your SEO rankings.\n\nWould you like to hop on a quick chat to map out the milestone breakdown?",
+    "publishedDateTime": "2026-11-27T15:45:55+0000",
+    "addedAt": "2026-11-27T15:49:02.538Z",
+    "url": "https://www.upwork.com/jobs/~022126341735212577360",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126341735212577360/apply/"
+  },
+  {
     "id": "2126324202754050166",
     "ciphertext": "~022126324202754050166",
     "title": "Word Press Website Audit",

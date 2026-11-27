@@ -1,10 +1,10 @@
 {
   "date": "2026-11-27",
   "lastDigestSentDate": "2026-11-26",
-  "totalScanned": 20,
-  "matchedFilters": 4,
+  "totalScanned": 21,
+  "matchedFilters": 5,
   "byKeyword": {
-    "wordpress developer": 4
+    "wordpress developer": 5
   },
   "topJobs": [
     {
@@ -27,6 +27,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022126163846035693554",
       "addedAt": "2026-11-27T04:01:04.083Z"
+    },
+    {
+      "title": "WordPress + Oxygen Developer for Website Framework",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022126341735212577360",
+      "addedAt": "2026-11-27T15:49:00.871Z"
     },
     {
       "title": "Convert website to WordPress",
