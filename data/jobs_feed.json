@@ -1,5 +1,34 @@
 [
   {
+    "id": "2126324202754050166",
+    "ciphertext": "~022126324202754050166",
+    "title": "Word Press Website Audit",
+    "description": "My google ads that hav been running for 1-2 years became \"dissaproved\" recently after my web guy did some changes to the site (Added scripts, etc) and my hosting was changed from A to B. As a result, my ads are no longer running. I need them running asap. Here is google;s comments: \n\nRecommended Steps to Resolve:\n\nSecurity Audit: Work with your web developer or a security specialist to perform a full security assessment of your website (adlawappraisals.com).\n\nGoogle Search Console: Review the Security Issues report in Google Search Console to identify specific flagged code or malicious files.\n\nSoftware & Plugin Updates: Ensure your WordPress core installation, plugins, and themes are updated to their latest, secure versions.\n\nResubmit for Review: Once your site is clean and secure, saving an edit to your ad will trigger an automated recrawl (which typically takes 24–72 hours), or you can file an appeal from Policy Manager.",
+    "isHourly": true,
+    "hourlyBudgetMin": 15,
+    "hourlyBudgetMax": 30,
+    "budgetDisplay": "$15 - $30/hr",
+    "client": {
+      "country": "Canada",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "google-adwords"
+    ],
+    "score": 3100,
+    "coverLetter": "Hi! \n\nI can quickly diagnose and resolve the exact issue causing your Google Ads disapproval. When your hosting was migrated and scripts were added, it likely triggered Google's automated security flags or policy checks—a problem I fix routinely for WordPress sites. \n\nI specialize in WordPress security audits, malware removal, database optimization, and resolving plugin/script conflicts. I will immediately check your Search Console security reports, inspect the newly added scripts, ensure your core/plugin updates are secure, and clean up any flagged code so we can successfully trigger a recrawl and get your ads running ASAP. You can see examples of my recent WordPress work here: https://www.thelifeyoucansave.org/\n\nCould you share temporary admin access so I can run the audit right away?",
+    "publishedDateTime": "2026-11-27T14:36:14+0000",
+    "addedAt": "2026-11-27T14:39:02.285Z",
+    "url": "https://www.upwork.com/jobs/~022126324202754050166",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126324202754050166/apply/"
+  },
+  {
     "id": "2126292974556566397",
     "ciphertext": "~022126292974556566397",
     "title": "Senior WordPress Designer/Developer for Website Migratoin and Redesign",
