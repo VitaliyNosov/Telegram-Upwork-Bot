@@ -1,10 +1,10 @@
 {
   "date": "2026-11-27",
   "lastDigestSentDate": "2026-11-26",
-  "totalScanned": 9,
-  "matchedFilters": 1,
+  "totalScanned": 10,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 100,
       "url": "https://www.upwork.com/jobs/~022126163846035693554",
       "addedAt": "2026-11-27T04:01:04.083Z"
+    },
+    {
+      "title": "Convert website to WordPress",
+      "budget": "Fixed-price",
+      "score": 98,
+      "url": "https://www.upwork.com/jobs/~022126227678430108896",
+      "addedAt": "2026-11-27T08:14:59.713Z"
     }
   ]
 }

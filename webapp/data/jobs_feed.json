@@ -1,5 +1,32 @@
 [
   {
+    "id": "2126227678430108896",
+    "ciphertext": "~022126227678430108896",
+    "title": "Convert website to WordPress",
+    "description": "Scrape all content from an existing website and import the content and design into WordPress. \n\nPorto theme with WP Bakery will be provided to import the content into.\n\nDesign and content is to remain exactly how current design is - https://www.impalasnetball.com.au/",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "Australia",
+      "totalFeedback": 4.92,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 90,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "css"
+    ],
+    "score": 98,
+    "coverLetter": "Hi!\n\nI can help you scrape the content from https://www.impalasnetball.com.au/ and accurately replicate its design using the Porto theme and WPBakery. \n\nI am a senior WordPress developer with extensive experience building exact-match sites and handling content migrations. I frequently work with the Porto theme and WPBakery, ensuring that layouts, styling, and all text and media assets are imported cleanly without breaking the original user experience. For a recent example of my pixel-accurate WordPress development work, you can take a look at https://www.thelifeyoucansave.org/.\n\nWhen do you need this migration completed, and do you already have hosting and the Porto theme setup ready for me to access? \n\nBest regards,\nWordPress Developer",
+    "publishedDateTime": "2026-11-27T08:12:40+0000",
+    "addedAt": "2026-11-27T08:15:00.721Z",
+    "url": "https://www.upwork.com/jobs/~022126227678430108896",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126227678430108896/apply/"
+  },
+  {
     "id": "2126163846035693554",
     "ciphertext": "~022126163846035693554",
     "title": "Website build with HTML File (Chat GPT created website)",
