@@ -1,5 +1,34 @@
 [
   {
+    "id": "2126590579179450960",
+    "ciphertext": "~022126590579179450960",
+    "title": "AI Tools Setup and Website Development",
+    "description": "I need help setting up Claude across separate Gmail accounts for commercial appraising, residential and commercial lending, and wealth management. I also want Microsoft Copilot in Outlook for my Transworld business brokerage to draft replies, personalize cold outreach, and find and contact event sponsors or organizers. Additionally, I need a new mortgage brokerage website and SEO improvements for my existing wealth management website.\n\nI’m looking for help with AI automation and online lead generation across a few businesses. Here’s what I’d like to get done.\n1. Claude and Gmail. Set up Claude to work with my separate Gmail accounts for commercial appraising, residential lending, commercial lending, and wealth management. I’d like it to draft replies, write personalized cold emails, and help me keep up with follow-ups. Each business needs to use its own inbox, contacts, and signature.\n2. Microsoft Copilot and Outlook. Set up Copilot for my Transworld business brokerage email. I want help replying to buyers and sellers, reaching out to business owners, finding events worth sponsoring, and drafting emails to event organizers. I’d like to review messages before they go out.\n3. New mortgage website and SEO. Build a website for my mortgage business at Loan Lab Lending, with separate pages for residential and commercial financing. I want people to be able to find me on Google, book a call, or start a loan inquiry. I’d like to start with Austin-area SEO and build around the loan programs and markets I serve.\n4. SEO for my existing wealth management website. I already have a website. I’d like you to audit it and improve the existing pages so more people can find me for annuities, retirement income planning, and Social Security planning. I also want to track which pages generate consultation requests.\nIf you can help with some or all of this, could you send me a couple of relevant examples, your estimated timeline, and a price for each part you’d take on? For SEO, please break out the initial work and what you’d charge monthly, including what’s covered.",
+    "isHourly": true,
+    "hourlyBudgetMin": 12,
+    "hourlyBudgetMax": 100,
+    "budgetDisplay": "$12 - $100/hr",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 7,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "php",
+      "web-programming",
+      "wordpress",
+      "web-design"
+    ],
+    "score": 10100,
+    "coverLetter": "Hi! I can certainly help you streamline your multi-business lead generation, starting with the new mortgage site build and SEO. \n\nFor Loan Lab Lending, I specialize in custom WordPress development and local SEO. I can build a conversion-focused site with dedicated residential and commercial pages, integrated booking and loan inquiries, and Austin-targeted optimization—similar to my work on sites like https://www.cchpca.0rg/. For your wealth management site, I can perform a comprehensive SEO audit to boost rankings for retirement and Social Security planning, while setting up proper conversion tracking for consultation requests. \n\nRegarding your AI workflows, while my core expertise is full-stack WordPress development and SEO rather than direct Claude/Copilot API configuration, I can deliver a polished, high-performing digital footprint for your lending and wealth brands. \n\nWould you like to discuss a timeline and breakdown for the mortgage website build and SEO audits first?",
+    "publishedDateTime": "2026-11-28T08:14:47+0000",
+    "addedAt": "2026-11-28T08:16:25.955Z",
+    "url": "https://www.upwork.com/jobs/~022126590579179450960",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126590579179450960/apply/"
+  },
+  {
     "id": "2126486286996795984",
     "ciphertext": "~022126486286996795984",
     "title": "WordPress Page Design Update",
