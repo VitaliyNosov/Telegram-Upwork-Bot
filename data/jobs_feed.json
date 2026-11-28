@@ -1,5 +1,34 @@
 [
   {
+    "id": "2126700623829146778",
+    "ciphertext": "~022126700623829146778",
+    "title": "WordPress Blog Template Design",
+    "description": "Need a freelancer to match my blog posts to the rest of my WordPress website and create a reusable template I can use for future blogs and pages. The site is built with Elementor, so experience working within that platform is important. The work includes reviewing the current site style, updating blog layouts to match, and building a consistent template that I can apply myself going forward.",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 47,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-programming",
+      "web-design",
+      "css"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! \n\nI can help you create a clean, reusable blog template in Elementor that seamlessly matches your existing website style so you can easily apply it to future posts and pages. \n\nWith extensive experience building and fixing Elementor sites, I regularly design cohesive layouts that maintain strict design consistency with the rest of a brand's ecosystem. I'll review your current styling, update your existing blog layout, and set up a flexible, easy-to-use template for your ongoing content needs. You can view examples of my clean, responsive WordPress development work here: https://waapple.org/.\n\nWhen would you like to get started? Let's connect in chat to discuss your current site structure.",
+    "publishedDateTime": "2026-11-28T15:31:58+0000",
+    "addedAt": "2026-11-28T15:34:19.120Z",
+    "url": "https://www.upwork.com/jobs/~022126700623829146778",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126700623829146778/apply/"
+  },
+  {
     "id": "2126590579179450960",
     "ciphertext": "~022126590579179450960",
     "title": "AI Tools Setup and Website Development",
