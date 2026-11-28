@@ -1,5 +1,34 @@
 [
   {
+    "id": "2126486286996795984",
+    "ciphertext": "~022126486286996795984",
+    "title": "WordPress Page Design Update",
+    "description": "I need help editing one page https://myeightdays.com/playroom on an existing WordPress website to improve its overall design and user experience. The goal is to make the page more visually appealing, organized, and easier to navigate while keeping the current content intact. I’m looking for someone who can assess the current layout, suggest improvements, and implement a polished final version that enhances the page’s appearance and usability.\n\nI am very interested in your expert input and I need to go with someone who can glance at the page and say it needs this and this and this and here is why for each item….we do know some about websites and know some exact items that look off to us. We would use you a lot if you can do this for websites we already have that just need a little upgrade two hours or similar spent on the page to make it amazing, completing our short list, but also can see a couple things we do not see. It is okay to say the navy bar is visually bad, too skinny, fights with x y or z...so we need to x y or z.\n\nHere is what we know needs done-\n1. Can you hide this horizontal black line at the top with custom CSS? Note: It cannot be easily changed as it doesn’t seem to be a border from the header or first section and also doesn’t seem to be a separate widget to click and delete. A past web person removed it with custom CSS from other pages so maybe it’s related to the theme?\n\n2. I need the page to display well on desktop and mobile. The desktop version text is all one size and doesn’t look good/appear correctly. All we know is it doesn't look good on mobile currently.\n\n3. The photos have zero movement and pages are more lively when they have a little responsiveness when moused over. Can you do that?\n\n4. The photos look like the full vertical photo was pasted, should the corners be rounded or anything like that for a little softness versus it looking like the photo was just pasted there? Or the 3 photos in a row are too long from top to bottom and need to be not so stretched out so less scrolling is needed to get past the photo.\n\n5. How and where would you incorporate a short timelapse video clip that we have if you would? Assuming adding a simple section. I can paste the video in as the current one we have moved to fast from IG so we will slow it down before adding. You can put the too fast one that pops up in Wordpress in for now.\n\n6. What else is the landing page missing if it’s going to be used as a main landing page/sell page that I send people to a lot? I know it’s part of our site and will be a tab on our site as well even though I’m calling it a landing page. I already have the link popping up correctly when sending.\n\nI’m not trying to change everything or start completely over as I do like the feel of it, it matches the feel of the rest of my website but it definitely feels like it is missing some expert design and layout changes, may need more buttons or spacing changes etc to sell even better…",
+    "isHourly": false,
+    "hourlyBudgetMin": 0,
+    "hourlyBudgetMax": 0,
+    "budgetDisplay": "Fixed-price",
+    "client": {
+      "country": "United States",
+      "totalFeedback": 5,
+      "verificationStatus": "VERIFIED",
+      "totalPostedJobs": 4,
+      "avgHourlyRatePaid": 0
+    },
+    "skills": [
+      "wordpress",
+      "web-design",
+      "adobe-photoshop",
+      "graphic-design"
+    ],
+    "score": 100,
+    "coverLetter": "Hi! I can dive right into your playroom page, tackle your exact shortlist, and point out the blind spots to make it convert better. \n\nTo answer your items directly:\n1. That stubborn black line is likely a pseudo-element or global theme border; I can wipe it out quickly with targeted custom CSS.\n2. I'll fix the typography hierarchy so your desktop text scales properly and your mobile view stops breaking.\n3. For the images, I'll add subtle hover micro-interactions, adjust the aspect ratios to reduce vertical scrolling, and soften the layout with rounded corners or CSS grids.\n4. We can easily drop your timelapse video into a new, well-spaced section designed to capture attention without overwhelming the user. \n5. Beyond your list, I'd recommend optimizing the visual hierarchy around your call-to-action buttons and whitespace to improve flow as a main sell page.\n\nYou can see an example of my clean layout and design work at https://www.thelifeyoucansave.org/. \n\nLet’s spend a couple of hours getting this page polished and high-converting—shall we hop into chat so you can share your login?",
+    "publishedDateTime": "2026-11-28T01:21:14+0000",
+    "addedAt": "2026-11-28T01:23:01.951Z",
+    "url": "https://www.upwork.com/jobs/~022126486286996795984",
+    "applyUrl": "https://www.upwork.com/ab/proposals/job/~022126486286996795984/apply/"
+  },
+  {
     "id": "2126454325519512144",
     "ciphertext": "~022126454325519512144",
     "title": "Elementor Developer: Technical SEO and Speed Fixes on Wordpress",

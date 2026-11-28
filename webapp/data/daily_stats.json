@@ -1,10 +1,10 @@
 {
   "date": "2026-11-28",
   "lastDigestSentDate": "2026-11-27",
-  "totalScanned": 3,
-  "matchedFilters": 1,
+  "totalScanned": 4,
+  "matchedFilters": 2,
   "byKeyword": {
-    "wordpress developer": 1
+    "wordpress developer": 2
   },
   "topJobs": [
     {
@@ -13,6 +13,13 @@
       "score": 3092,
       "url": "https://www.upwork.com/jobs/~022126454325519512144",
       "addedAt": "2026-11-27T23:14:59.041Z"
+    },
+    {
+      "title": "WordPress Page Design Update",
+      "budget": "Fixed-price",
+      "score": 100,
+      "url": "https://www.upwork.com/jobs/~022126486286996795984",
+      "addedAt": "2026-11-28T01:23:00.479Z"
     }
   ]
 }
